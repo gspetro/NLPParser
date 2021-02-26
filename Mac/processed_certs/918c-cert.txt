@@ -1,0 +1,941 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 918c 
+ 
+Potassium Chloride General and Ion Activity Standard 
+ 
+
+ 
+This Standard Reference Material (SRM) is intended for use as an analytical standard of known purity.  It is intended 
+primarily  for  use  in  the  calibration  and  standardization  of  procedures  for  potassium (K)  and  chloride (Cl‾) 
+determinations employed in clinical analysis, including those using ion-selective electrodes, and for routine critical 
+evaluation of the daily working standards used in these procedures.  This lot of potassium chloride (KCl) was prepared 
+to ensure a material of high purity and homogeneity and has been assayed after heating at 110 °C to 120 °C.  A unit 
+of SRM 918c consists of a single glass bottle containing 30 g of the material. 
+ 
+Certified Mass Fraction Values:  Table 1 lists the certified values for this SRM, expressed as mass fractions, w, of 
+KCl, K, and Cl‾.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or taken into account [1].  A certified value is the present 
+best  estimate  of  the  true  value.    The  expanded  uncertainty,  U,  is  calculated  as  U = kuc,  where  uc  is  the  combined 
+standard uncertainty calculated according to the ISO/JCGM Guide and its Supplement 1 [2,3].  The value of uc is 
+intended to represent, at the level of one standard deviation, the combined effect of inherent sources of uncertainty of 
+the assay techniques, material heterogeneity, and applicable corrections for interfering trace elements.  The respective 
+values  of  the  coverage  factor,  k,  for  each  measurand  in  Table 1  correspond  to  an  approximately  95 %  level  of 
+confidence for the effective degrees of freedom, νeff, stated for the given measurand. 
+ 
+Reference  Mass  Fraction  Values:    Table 2  lists  reference  values  for  the  mass  fraction  of  bromine (Br)  and  for 
+alkalinity, expressed as potassium hydroxide (KOH).  A reference value is a best estimate of the true value; however, 
+the value does not meet NIST criteria for certification and is provided with an associated uncertainty that may reflect 
+only measurement precision and may not include all other sources of uncertainty [1]. 
+ 
+Information Mass Fraction Values:  Table 4 lists information values for trace elements.  Information values are 
+non-certified values that may be of interest and use to the SRM user, but insufficient information is available to provide 
+an uncertainty associated with the value [1].  The information values are given to provide additional characterization 
+of the material only.  These values should not be used to monitor or assess analytical performance.  Information values 
+cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 918c is valid, within the measurement uncertainty specified, 
+until  01 October 2035,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM lot over the period of its certification.  If substantive 
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of SRM 918c was provided by K.W. Pratt of 
+the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  16 August 2019 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+its 
+NIE
+
+SRM 918c 
+
+ Page 1 of 6 
+
+ 
+ 
+
+Analytical measurements leading to the certification of SRM 918c were made by K.W. Pratt, J.R. Sieber, T.W. Vetter, 
+and J.F. Waters of the NIST Chemical Sciences Division. 
+ 
+Statistical analyses were performed by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Calculation of Certified Values: The certified value for wKCl is obtained by combining the results of independent 
+coulometric and gravimetric analyses using the DerSimonian-Laird procedure [4].  Prior to computing the certified 
+value, the results from the coulometric and gravimetric analyses were corrected for the following impurities: aluminum 
+oxide (Al2O3),  calcium  chloride (CaCl2),  potassium  bromide (KBr),  potassium 
+fluoride (KF),  potassium 
+hydroxide (KOH),  potassium  sulfate (K2SO4),  rubidium  chloride (RbCl),  silicon  dioxide (SiO2),  and  sodium 
+chloride (NaCl).  The certified value for wK is obtained by combining the direct result of the gravimetric analyses, 
+corrected for the Al2O3, CaCl2, NaCl, RbCl, and SiO2 impurities; and the indirect wK, calculated from the coulometric 
+wKCl and the additional K from the KBr, KF, KOH, and K2SO4 impurities.  The corrected values are combined using 
+the  DerSimonian-Laird  procedure.    The  certified  value  for  wCl  is  obtained  by  combining  the  direct  result  of  the 
+coulometric analyses, corrected for interfering Br‾; and the indirect wCl, calculated from the gravimetric wKCl and the 
+additional  Cl‾  from  the  CaCl2,  NaCl,  and  RbCl  impurities.    The  corrected  values  are  combined  using  the 
+DerSimonian-Laird  procedure [4].    The  corrections  were  obtained  from  the  trace  element  determinations  and  the 
+appropriate gravimetric factors [5].  A portion of the K is present in SRM 918c as KBr, KF, KOH, and K2SO4; and a 
+portion of the chloride is present as CaCl2, NaCl, and RbCl.  Hence, the sum of the certified values for wK and wCl 
+does  not  equal  the  certified  value  for  wKCl.    The  certified  values  for  the  mass  fractions  of  K,  Cl,  and  KCl  are 
+metrologically traceable to the SI units for mass, current, and time in the coulometric assay; to the SI unit for mass in 
+the gravimetric assay; and to the derived SI unit kilogram per kilogram for mass fraction (expressed as a percent) for 
+the corrections for trace elements. 
+ 
+
+Table 1.  Certified Values for SRM 918c 
+
+Measurand  Mass Fraction 
+
+(%) 
+
+uc 
+(%) 
+
+wKCl 
+
+wK 
+
+wCl
+- 
+
+ 
+
+ 
+
+ 
+
+99.945 
+
+52.421 
+
+47.5317 
+
+ 
+
+ 
+
+ 
+
+0.011 
+
+0.0053 
+
+0.0040 
+
+ 
+
+ 
+
+ 
+
+νeff 
+
+121 
+
+133 
+
+27 
+
+Coverage 
+Factor 
+(k) 
+
+Expanded 
+Uncertainty 
+(%) 
+
+1.980 
+
+1.978 
+
+2.052 
+
+ 
+
+ 
+
+ 
+
+0.021 
+
+0.010 
+
+0.0082 
+
+ 
+ 
+Calculation of Reference Values:  The reference value, the measurand, for bromine (Br) is the mass fraction of Br 
+as  determined  by  wavelength-dispersive  X-ray  fluorescence  analysis (WDXRF).    The  Br  reference  value  is 
+metrologically traceable to the derived SI unit kilogram per kilogram for mass fraction (expressed as micrograms per 
+gram).  The reference value, the measurand, for alkalinity (expressed as a mass fraction of KOH) was determined by 
+pH measurements in a carbon dioxide-free 1.0 mol/L solution of dried SRM 918c.  The reference value for the mass 
+fraction of KOH is metrologically traceable to the quantity pH, to the primary measurement of pH, and to the SI unit 
+for mass.  The expanded uncertainty is calculated using k = 2. 
+ 
+
+Element or Property 
+
+Table 2.  Reference Values for SRM 918c 
+ 
+Mass Fraction 
+(µg/g) 
+
+ 
+
+Expanded Uncertainty 
+(µg/g) 
+
+Bromine (Br) 
+Alkalinity (as KOH) 
+
+50 
+1.16 
+
+27 
+0.35 
+
+ 
+
+ 
+
+SRM 918c 
+
+ Page 2 of 6 
+
+Information Values:  Table 3 lists information values for the mass fractions of trace elements in SRM 918c.  No 
+other elements were detected.  The information values were obtained by glow discharge mass spectrometry performed 
+by a commercial laboratory. 
+ 
+
+Table 3.  Information Values for SRM 918c 
+
+ 
+
+Element 
+
+Aluminum (Al) 
+Calcium (Ca) 
+Fluorine (F) 
+Sodium (Na) 
+Rubidium (Rb) 
+Sulfur (S) 
+Silicon (Si) 
+
+Mass Fraction 
+(µg/g) 
+
+0.5 
+<0.5 
+<1 
+14 
+8 
+6 
+0.2 
+
+ 
+ 
+Information  Values  for  Ionic  Activity:    Table 4  lists  information  values,  in  aqueous  solution  and  at  stated 
+molalities, b, and corresponding mass fractions, wK and wCl, of the following quantities at 25 °C: the mean activity 
+coefficient, γ±,KCl, of KCl; ionic activity coefficients, γK of potassium ion (K+) and γCl of chloride ion (Cl–); and ionic 
+activities, aK and aCl, of K+ and Cl–.  Values of γ±,KCl, γK, and γCl are each on the molality basis. 
+ 
+
+Table 4.  Activity Coefficients and Ionic Activities for SRM 918c 
+Solutions of Specified Molalities 
+  
+
+ 
+
+Molality  
+(mol/kg) 
+
+Mass Fraction 
+(µg/g) 
+
+Mean Activity 
+Coefficient 
+
+Single-Ion Activity 
+Coefficients 
+
+Ionic Activities 
+
+b 
+
+wK 
+
+wCl 
+
+  
+39.095 
+69 
+390.69 
+
+35.449 
+
+354.25 
+
+0.001 
+
+0.01 
+
+0.1 
+
+3880.9 
+
+3518.9 
+
+γ±, KCl 
+0.965 
+
+0.901 
+
+0.768 
+
+γK 
+0.965 
+
+0.901 
+
+0.771 
+
+γCl 
+0.965 
+
+0.901 
+
+0.766 
+
+0.000965 
+
+0.000965 
+
+0.00901 
+
+0.0771 
+
+0.00901 
+
+0.0766 
+
+  
+
+aK 
+
+aCl 
+
+0.3 
+
+0.2 
+
+0.5 
+
+0.717 
+
+10403 
+
+11473 
+
+6986.1 
+
+7704.8 
+
+    
+  
+  
+
+61703 
+
+68050 
+
+52749 
+
+36386 
+
+47829 
+
+18847 
+
+17089 
+
+32992 
+
+0.586 
+
+0.538 
+
+0.916 
+
+0.639 
+
+0.144 
+
+0.208 
+
+0.680 
+
+1.219 
+
+0.330 
+
+0.556 
+
+0.623 
+
+0.586 
+
+0.320 
+
+0.143 
+
+0.604 
+
+0.693 
+
+0.623 
+
+0.611 
+
+0.610 
+
+0.659 
+
+0.204 
+
+1.076 
+
+0.687 
+
+0.649 
+
+0.583 
+
+0.573 
+
+0.835 
+
+0.712 
+
+0.721 
+
+1.0 
+
+1.5 
+
+2.0 
+
+  
+
+  
+
+  
+
+ 
+ 
+Values of γ± in Table 4 were obtained using Equation 1 [6]: 
+ 
+
+ 
+
+lg
+
+γ
+
+=±
+
+−
+1
++
+
+AI
+BI
+
+½
+
+½
+
++
+
+I
+β
+
++
+
+CI
+
+2
+
++
+
+DI
+
+3
+
+ 
+
+(1) 
+
+ 
+ 
+In  Equation 1,  lg = log10;  I  is  the  ionic  strength  (identical  to  b  for  KCl  solutions);  A  and  B  are  the  Debye-Hückel 
+constants [6]; and β, C, and D are conventional constants specific to KCl [6].  The numerical values of these constants 
+its
+at 25 °C are: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These constants are valid at molalities of KCl from 0 mol/kg to 4.8 mol/kg (saturation).  For b < 0.1 mol/kg, the terms 
+in Equation 1 containing β, C, and D may be neglected in the calculation. 
+ 
+ 
+
+A  = 
+B  = 
+β  = 
+C  = 
+D  =  –0.000 195 4 
+
+0.510 8 
+1.295 
+0.000 07 
+0.003 599 
+
+SRM 918c 
+
+ Page 3 of 6 
+
+The value of lg γ± at temperatures from 15 °C to 45 °C and at any molality of KCl from 0 mol/kg to 0.1 mol/kg may 
+be obtained by using Equation 1 and temperature-dependent values of A and B calculated from Equations 2a and 2b, 
+where t is the temperature in Celsius (°C): 
+ 
+
+A
+
+=
+
+.0
+
+5108
+
++
+
+.8
+
+4705
+
+×
+
+10
+
+−
+
+25
+
++
+
+.3
+
+5498
+
+×
+
+10
+
+4
+−
+
+(
+t
+
+)
+
+6
+−
+
+(
+t
+
+−
+
+25
+
+)2
+
+ 
+
+B
+
+=
+
+.1
+
+[
+.41
+295
++
+
+7218
+
+×
+
+10
+
+(
+4 −
+−
+t
+
+]25
+)
+
+ 
+
+ 
+The values for pK and pCl may then be calculated from lg γ± using the procedure described in reference 7 and osmotic 
+coefficients for water given in reference 8. 
+ 
+Reference Values for pK and pCl:  Table 5 lists reference values and associated uncertainties [6] for pK and pCl, 
+where p denotes –lg, pK = paK, and pCl = paCl.  The coverage factors and expanded uncertainties in Table 5 apply 
+both to pK and to pCl.  The pK and pCl values in Table 5 are metrologically traceable to the theoretical model used 
+for the calculations (see above) and to the certified mass fractions of K and Cl in SRM 918c. 
+ 
+
+Table 5. Values of pK and pCl, Coverage Factors, and Uncertainties for SRM 918c  
+Solutions of Specified Molalities. 
+
+pK 
+
+pCl 
+
+Coverage Factor, k 
+
+Expanded Uncertainty, U 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(2a) 
+
+(2b) 
+
+Molality, b 
+(mol·kg-1) 
+
+0.001 
+0.01 
+0.1 
+0.2 
+0.3 
+0.5 
+1.0 
+1.5 
+
+3.016 
+2.045 
+1.113 
+0.841 
+0.682 
+0.482 
+0.206 
+0.038 
+
+3.016 
+2.045 
+1.116 
+0.846 
+0.690 
+0.495 
+0.232 
+0.078 
+
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+
+0.010 
+0.010 
+0.010 
+0.010 
+0.010 
+0.010 
+0.010 
+0.010 
+
+ 
+ 
+Instructions for gravimetric preparation of the solutions in Tables 4 and 5 are presented below (see “Preparation of 
+SRM 918c Solutions of Specified Molalities”). 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  This SRM should be stored in its original bottle under normal laboratory conditions. 
+ 
+Use:  Before it is sampled, the unit should be thoroughly mixed by carefully inverting and rotating the tightly sealed 
+bottle.  A minimum test portion mass of 200 mg should be used for analytical determinations.  The bottle must be 
+tightly re-capped after use and protected from moisture. 
+ 
+Drying  Instructions:   Dry  the  material  for  4 h  at 110 °C  to 120 °C.   After  the  SRM has been  dried,  store  it  in  a 
+desiccator over anhydrous magnesium perchlorate. 
+ 
+Preparation  of  SRM 918c  Solutions  of  Specified  Molalities:    The  gravimetric  procedures  in  this  section  yield 
+solutions  with  the  molalities  specified  in  Tables 4  and  5.    The  relative  standard  uncertainties  specified  for  the 
+weighings are selected such that the corresponding uncertainty in pK or pCl is negligible compared with the inherent 
+uncertainty of the model used to calculate pK or pCl.  The gravimetric factors are presented to six significant figures, 
+to permit more accurate preparations where required for other applications.  The target gravimetric factors given in 
+Table 6 for SRM 918c yield molalities of K and Cl, bK and bCl, that differ from the nominal value by less than six 
+parts per million, relative. 
+ 
+Prepare these solutions following the instructions below and using the values in Table 6. 
+ 
+Quantities denoted by m′ and associated gravimetric factors in this section include the effect of air buoyancy, i.e., they 
+correspond  to the balance  indication  in  units  of  mass  obtained  in  the  laboratory (the  “balance  reading”),  and  they 
+incorporate the certified values of wK and wCl in SRM 918c. 
+
+SRM 918c 
+
+ Page 4 of 6 
+
+Table 6.  Dilution Information for Preparation of Solutions of SRM 918c of Specified Molalities 
+
+Molality, b 
+(mol/kg) 
+
+Nominal Mass(a), m′918c 
+(g) 
+
+Gravimetric Factor 
+(m′H2O/m′918c) 
+
+use serial dilution 
+
+0.001 
+0.01 
+0.1 
+0.2 
+0.3 
+0.5 
+1.0 
+1.5 
+2.0 
+
+0.30(b) 
+1.5 
+3.0 
+4.5 
+7.5 
+14.9 
+22.4 
+29.9 
+
+--- 
+1339.96 
+133.996 
+66.9976 
+44.6649 
+26.7988 
+13.3992 
+8.93264 
+6.69938 
+
+ 
+
+ 
+
+(a) Unless otherwise noted, nominal mass of solution is 200 g. 
+(b) Nominal mass of solution is 400 g. 
+
+ 
+
+Locate the molality of the desired solution in the first column of Table 6, the corresponding nominal mass of SRM 918c 
+in  the  second  column,  and  the  corresponding  gravimetric  factor  (GF)  in  the  third  column.   Weigh  by  difference  the 
+nominal (± 10 %) mass of dried (see above) SRM 918c, to a relative standard uncertainty of 0.1 %, into a clean, dry 
+polyethylene bottle.  For those solutions in Table 6 with bKCl > 0.01 mol/kg, use a 250 mL bottle.  For the solution with 
+bKCl = 0.01 mol/kg, use a 500 mL bottle.  Multiply the exact delivered mass of SRM 918c, m′918c, by the corresponding 
+gravimetric factor given in the third column to obtain the exact mass of water, m′H2O, to add to the bottle.  Add this mass 
+of deionized water, weighed to a relative standard uncertainty of 0.1 %, to the bottle.  The most convenient method is to 
+tare the bottle containing the added SRM 918c on the balance, add the bulk of the water from a beaker and the last few 
+grams using an adjustable pipet or dropper with a narrow tip.  Cap the bottle and shake until the SRM 918c has totally 
+dissolved.  Gravimetric preparation in this manner eliminates the need to weigh exactly predetermined masses of solid 
+samples.    Proportionately  smaller  quantities  of  SRM 918c  and  water  may  be  used  in  the  preparations,  provided  that 
+m′918c ≥ 200 mg. 
+ 
+The solution with a molality of 0.001 mol/kg is prepared by serial dilution of the 0.01 mol/kg or 0.1 mol/kg solution.  To 
+prepare it from the 0.01 mol/kg solution, add 20 g (nominal value, weighed to a relative standard uncertainty of 0.1 %) 
+of the 0.01 mol/kg solution to a clean, dry 250 mL polyethylene bottle.  Multiply the exact mass of the 0.01 mol/kg 
+solution  by  the  gravimetric  factor 8.9933.    Add  this  mass  of  water  to  the  same  bottle  and  mix.    To  prepare  the 
+0.001 mol/kg solution from the 0.1 mol/kg solution, the corresponding approximate mass and gravimetric factor are 2.0 g 
+(weighed to an accuracy of 0.1 mg) and 98.267, respectively.  For either dilution, the mass of the concentrated solution 
+may be varied within the limits set by the amount of available solution, bottle capacity, and resolution of the balances 
+used. 
+ 
+SOURCE, HOMOGENEITY, AND ANALYSIS(1) 
+ 
+Source  of  Material:    The  KCl  used  for  this  SRM  was  obtained  from  a  commercial  supplier.    The  material  was 
+examined  for  compliance  with  the  specification  for  reagent  grade  KCl  as  specified  by  the  American  Chemical 
+Society [9].  The material was found to meet or exceed the minimum requirements in every respect. 
+ 
+Homogeneity:  This SRM is homogeneous within the uncertainty limits for the nominal sample mass, 200 mg, used 
+for  the  coulometric  chloride  assays.    Samples  less  than  200 mg  are  not  recommended  in  order  to  avoid  possible 
+heterogeneity with smaller sample sizes. 
+ 
+Assay  Techniques:    The  coulometric  assay  value  was  obtained  by  automated  titration [10]  with  coulometrically 
+generated Ag+ using potentiometric detection of the endpoint.  The gravimetric assay value was obtained by converting 
+test portions of SRM 918c material to K2SO4 (procedure based on reference 11).  Corrections for air buoyancy were 
+made  using  a  density  of  1.984 g/cm3  for  SRM 918c.    Corrections  for  interfering  trace  contaminants  in  each 
+determination were applied as described above. 
+ 
+
+                     
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 918c 
+
+ Page 5 of 6 
+
+NOTICE TO USERS 
+ 
+This SRM is for research use only. 
+ 
+NIST encourages the use of its SRMs to establish metrological traceability for the user’s measurement results, and 
+NIST strives to maintain the SRM inventory supply.  However, NIST cannot guarantee the continued or continuous 
+supply of any specific SRM.  Accordingly, NIST encourages the use of SRMs as primary benchmarks for the quality 
+and accuracy of the user’s in-house (working) standards.  As such, SRMs should be used to validate or otherwise 
+assign values to the more routinely used standards in a laboratory.  When the metrologically traceable values of such 
+standards  are assigned  using  this SRM  for calibration,  the  uncertainties assigned  to  those values  must  include  the 
+uncertainty  of  the  certified  value  of  this  SRM,  appropriately  combined  with  the  uncertainties  of  the  calibration 
+measurements  for  the  in-house  standard.    Comparisons  between  NIST  SRMs  and  such  working  measurement 
+standards should take place at intervals appropriate to the conservation of the SRM primary standard and the stability 
+of relevant in-house standards.  For further guidance on how this approach can be implemented, contact NIST by 
+email at srms@nist.gov. 
+ 
+Possible Interfering Species:  It is the responsibility of the user to evaluate which species may interfere with the 
+application  of  this  SRM  and  to  apply  any  necessary  corrections  that  affect  the  given  application.    The  values  in 
+Tables 2 and 3 may be useful in this evaluation. 
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/srm/upload/SP260-136.PDF (accessed Aug 2019). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Aug 2019). 
+
+[3]  JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+JCGM  (2008); 
+Uncertainty  in  Measurement”  –  Propagation  of  distributions  using  a  Monte  Carlo  method;  JCGM  (2008); 
+available 
+(accessed 
+Aug 2019). 
+
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+
+at 
+
+; 
+
+[4]  DerSimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Controlled Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[5]  Wieser, M.E.; et al.; Atomic Weights of the elements 2011 (IUPAC Technical Report); Pure Appl. Chem., Vol. 85, 
+
+pp. 1047–1078 (2013).  
+
+[6]  SRM 2202; Potassium Chloride (Standard for Ion-Selective Electrodes); U.S. Department of Commerce, NIST: 
+Gaithersburg,  MD  (March  30,  1984);  available  at  https://www-s.nist.gov/srmors/view_cert.cfm?srm=2202 
+(accessed Aug 2019).  
+
+[7]  Bates, R.G.; Staples, B.R.; Robinson, R.A.; Ionic Hydration and Single Ion Activities in Unassociated Chlorides 
+
+at High Ionic Strengths; Anal. Chem. Vol. 42, 867–871 (1970). 
+
+[8]  Harned, H.S.; Owen, B.B.; The Physical Chemistry of Electrolytic Solutions; 3rd Ed., Reinhold Publishing: New 
+
+York, pp. 415–416 (1958).  
+
+Washington, DC (1999). 
+
+[9]  Reagent  Chemicals:  American  Chemical  Society  Specifications;  9th  ed.;  American  Chemical  Society:  
+
+[10] Pratt, K.W.; Automated, High-Precision Coulometric Titrimetry Part I. Engineering and Implementation; Anal. 
+
+Chim. Acta, Vol. 289, pp. 125–134 (1994). 
+
+[11] Moody, J.R.;  Vetter, T.W.;  Development  of  the  Ion  Exchange-Gravimetric  Method  for  Sodium  in  Serum  as  a 
+Definitive  Method;  J.  Res.  Natl.  Inst.  Stand.  Technol.,  Vol. 101,  pp. 155–164  (1996);  available  at 
+https://nvlpubs.nist.gov/nistpubs/jres/101/2/j2mood.pdf (accessed Aug 2019). 
+
+ 
+ 
+ 
+ 
+
+ 
+Certificate Revision History:  16 August 2019 (Title update; editorial changes); 03 February 2016 (Original certificate date) 
+
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+accomplished  by 
+e-mail srmmsds@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+fax 
+
+SRM 918c 
+
+ Page 6 of 6 
+
+

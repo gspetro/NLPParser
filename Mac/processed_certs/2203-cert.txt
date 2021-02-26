@@ -1,0 +1,265 @@
+﻿U. 
+
+S.  Department’ 
+
+of  Commerce 
+
+tional 
+
+Frederi  kB.  Dent 
+Satine 
+Burgaw. of,  Standards 
+W:  Reberts,  Director 
+
+x  : 
+
+Ri 
+
+      
+
+Standard  R 
+
+Material  2203 
+
+Potassium  Fluoride 
+(Standard  for  Ion-Selective!  Electrodes) 
+
+KE.  S.  Etz 
+
+This  Standard  Reference  Material,  certified  for  the  activity  of  fluoride  ion  in  solutions  of  this 
+salt,  is  made  available  for  the  standardization  of  fluoride  ion-selective  electrodes.  The  material  is  of 
+analytical  reagent-grade  purity,  but  should  not  be  considered  entirely  free  of  traces  of  chloride, 
+fluosilicates 
+and  heavy  metals.  Potentiometric  measurements  on  solutions  of 
+this  material 
+employing  fluoride  ion-selective  electrodes  in  cells  without  liquid  junction  indicate  this  material to 
+be  homogencous  within  the  precision  (+  0.003  pF  unit)  of  the  measured  potential  of  the  fluoride 
+ion-selective  electrode.  Chemical  analysis  of  this  material  indicates  a  minimum  assay  of  99.5  percent 
+KF  after  drying. 
+
+_ 
+
+This  material  is  certified  for  the  activity  coefficient  of  fluoride  ion  and  the  related  value  of  pF 
+=~log  ap-,  where  ap  -  is 
+a  conventional  activity  of  fluoride  ion)  at  25  °C  for  solutions  of  potassium 
+fluoride  over  the  range  of  molalities  m  =  0.0001  to  m 
+=  2.0.  Certified  values  of  ay-  and  pF(S)  at 
+selected  molalities  are  found  in  the  table  on  the  reverse  page.  The  pF(S)  values  given  are  estimated 
+to  be  accurate  to  +  0.01  pF  unit. 
+
+: 
+
+The  mean  molal  activity  coefficient  of  potassium  fluoride  from  m  =  0.0001  to  m  =  2.0  may  be 
+
+represented  at  25  °C  by  the  equation: 
+
+log  Y= 
+
+13 
+
++  Bm  +  Cm? 
+
+1/2 
+
+Am! 
+
+1+Bm 
+
+where  m  is  the  molality.  The  numerical  values  of  the  constants  appearing  in  this  expression  are,  at 
+25  °C: 
+
+A=  0.5108 
+B  =  1.2880 
+B|=  2.7843  x  10-2 
+C  =  4.6933  x  10°3 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification 
+
+were  performed  under  the  chairmanship  of  R.  A.  Durst. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this 
+standard  reference  material  were  coordinated  through  the  Office  of  Standard  Reference  Materials 
+by  T.  W.  Mears. 
+
+Washington,  D.C.  20234  - 
+May  21,  1973 
+
+J.  Paul  Cali,  Chief 
+Office  of  Standard  Reference  Materials
+
+  
+
+Values  of  +,  calculated  from  the  relation  given  above  represent  the  most  reliably  known  experi- 
+mental  activity  coefficient  data  to  an  uncertainty  of  no  larger  than  +  0.005  in  the  value  of  y.,  over 
+the  range  of  molalities  indicated. 
+
+- 
+
+Certified  Values  of  Ionic  Activity  (ap  Single  lon  Activity 
+
+Coefficients  (yp-}  and  Standard  Values  of 
+
+pF  (=-log  ay~  for  Fluoride  Ien  at  25  °C 
+
+(all  referred  to  the  molality  scale) 
+
+KF 
+
+Molality 
+_  (im) 
+
+Molarity 
+(c) 
+
+Fluoride 
+lon 
+Concentration* 
+
+(2/1) 
+
+Activity 
+Coefficient 
+
+Activity 
+
+YeT=yqr!  =e  apr 
+
+aK  * 
+
+at 
+
+pF  (s) 
+
+0.0001 
+0.0005 
+0.001 
+0.005 
+0.01 
+0.05 
+0.1 
+0.2 
+0.3 
+0.5 
+0.75 
+1.0 
+1.5 
+2.0 
+
+6.0000997 
+0.000499 
+0.000997 
+0.004.98 
+0.00997 
+0.0498 
+0.0996 
+6.1990 
+0.2982 
+0.4961 
+0.74.24 
+0.9873 
+1.4729 
+1.9523 
+
+0.00189 
+0.00947 
+0.0189 
+0.0947 
+0.1893 
+0.9463 
+1.892 
+3.781 
+5.665 
+9.425 
+14.104 
+18.757 
+27.983 
+37.091 
+
+0.988 
+0.975 
+0.965 
+0.927 
+0.902 
+0.818 
+0.773 
+0.726 
+0.699 
+0.670 
+0.652 
+0.645 
+0.646 
+0.658 
+
+0.0000988 
+0.000487 
+0.000965 
+0.00464 
+0.00902 
+0.0409 
+0.0773 
+0.145 
+0.210 
+0.335 
+0.489 
+0.645 
+0.969 
+1.316 
+
+4.UUs 
+3.31 
+3.016 
+2.334 
+2.045 
+1.38, 
+lily 
+0.833 
+0.073 
+475 
+0.31, 
+0.199 
++0.014 
+—-0.11o 
+
+“To  convert  to  parts  per  million  (mg/l)  multiply  by  103 
+
+The  equation  relating  the  mean  molal  activity  coefficient  to  molality  may  be  used  to  calculate 
+values  of  pF  at  concentrations  other  than  those  appearing  in  the  table.  The  convention  used  here  for 
+the  assignment  of  ionic  activities  in  solutions  of  potassium  fluoride  is  based  on  hydration  theory 
+and  is  described  by  Robinson,  Duer  and  Bates  [Anal.  Chem.  43,  1862  (1971)].  For  this  particular 
+1:1  electrolyte,  the  convention  leads  to’Y  p- 
+in  aqueous  solution,  and  values  of  aF-  are 
+therefore  obtained  by  the  relation 
+
+=Y,+ 
+
+| 
+
+ap~=  myp—-=  My+ 
+
+Preparation  of  Standard  Solutions 
+
+To  prepare  a  1.0  molal  solution,  transfer  57.363  g  of  potassium  fluoride  (weight  in  air)  to  a 
+l-liter  volumetric  flask.  Dissolve  and  fill  to  the  mark  with  distilled  water  at  25  °C,  The  distilled 
+water  should  have  a  conductivity  no  greater  than  2  x  10°°Q-!.  The  potassium  fluoride  is  hygro- 
+scopic  and  should  be  dried  in  two  consecutive  stages;  initially  for  a  period  of  2  hours  at  110  °C, 
+followed  by  drying  at  200  +  10  °C  for  an  additional  2  hours.  After  drying,  normal  precautions 
+should  be  exercised  to  prevent  pickup  of  moisture,  i.e.,  minimal  exposure  to  humid  conditions  prior 
+to  and  during  weighing.
+
+Similarly,  a  0.1  molal  solution  may  be  prepared  by  the  transfer  of  5.786  g  of  potassium  fluoride 
+(weight  in  air)  to  a  1-liter  volumetric  flask,  dissolving,  and  diluting  to  the  mark  with  distilled  water 
+at  25  °C.  Appropriate  dilution  of  either  standard  solution  should  be  used  to  obtain  standards  in  the 
+concentration  range  of  interest  to  the  user. 
+
+After  preparation,  standard  solutions  should  be  transferred  to  non-silicate  storage  containers, 
+c.g.,  polyethylene  bottles,  to  avoid  fluosilicate  formation  and  the  resulting  decrease  in  fluoride  ion 
+activity. 
+
+Electrode  Calibration 
+
+In  order  to  minimize  residual  liquid  junction  potential  errors  arising  at  the  reference  electrode 
+junction,  it  is  recommended  that  reference  standards  be  used  at  concentrations  similar  to  those  of 
+the  samples.  Also,  the  use  of  a  bracketing  technique,  whereby  two  standard  solutions  bracket  the 
+concentration  range  of  the  samples,  will  increase  the  reliability  of  the  measurements  by  minimizing 
+errors  due  to  non-Nernstian  clectrode  response.
+
+

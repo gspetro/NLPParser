@@ -1,0 +1,421 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 2381
+
+
+
+Morphine and Codeine in Freeze-Dried Urine
+
+	
+
+	This Standard Reference Material (SRM) is intended primarily for verifying the accuracy of methods used for the determination of morphine and codeine in human urine.  A unit of SRM 2381 consists of four bottles of freezedried urine: one bottle of blank urine, Level I and one bottle each of three different analyte levels, Level II, III, and IV.  The contents of each bottle must be reconstituted with 10.0 mL of organic-free or HPLC grade water at room temperature, 22 C. 
+
+	
+
+Certified Concentration:  The certified concentrations in Table 1 apply only to urine reconstituted as specified under the “Reconstitution Procedure” section and are based upon the concordant results from three different analytical methods.  Brief descriptions of the methods are given under the “Analytical Methods” section.  SRM 2381 includes one bottle of Level I, “Freeze-Dried Urine Blank”, for which there are no certified values.  Morphine and codeine were not detected by GC/MS at limits of detection of less than 4 x 10-6 mmol/L (1 ng/mL) and 3 x 10-6 mmol/L (1 ng/mL), respectively.
+
+
+
+Expiration of Certification:  The certification of SRM 2381 is valid, within the measurement uncertainty specified, until 13 March 2015, provided the SRM is handled and stored in accordance with instructions given in this certificate (see “Instructions for Storage and Use”).  This certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Analytical measurements were performed by L.C. Sander S.S.-C. Tai of the NIST Chemical Sciences Division and R.G. Christensen formerly of NIST.
+
+						
+
+Statistical consultation for this SRM was provided by K.J. Coakley of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Carlos A. Gonzalez, Chief
+
+		Chemical Sciences Division
+
+
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+	Certificate Issue Date:  15 April 2015	Office of Reference Materials
+
+Certificate Revision History on Last Page
+
+
+						NOTICE AND WARNINGS TO USER
+
+						
+
+						SRM 2381 IS INTENDED FOR IN VITRO LABORATORY USE ONLY.  THIS IS A HUMAN SOURCE MATERIAL AND SHOULD BE TREATED AS A BIOHAZARDOUS SUBSTANCE CAPABLE OF TRANSMITTING INFECTIOUS DISEASE.  THE RECONSTITUTED URINE SHOULD BE HANDLED WITH PRECAUTIONS SUITABLE FOR FRESH URINE.  Accordingly, this human urine based product should be handled at the Biosafety Level 2 or higher as recommended for any potentially infectious human specimen in the Centers for Disease Control and Prevention/National Institutes of Health Manual [1].
+
+						
+
+						INSTRUCTIONS FOR STORAGE AND USE
+
+						
+
+						Storage:  Prior to reconstitution, SRM 2381 should be stored in the dark at temperatures between –105 C and 5 C.  NIST will continue to monitor this SRM and purchasers will be notified if evidence indicates a significant change in the certified concentrations. 
+
+						
+
+						Reconstitution Procedure:  In order for the certified concentrations to be valid, the SRM must be reconstituted as follows.  Ten (10.0) mL of organic-free or HPLC grade water at room temperature, (22 C) must be added to each bottle.  The bottles should be allowed to stand at room temperature with occasional swirling for 30 minutes to ensure complete dissolution.  Do not shake.  Vigorous shaking causes foaming which may lead to inhomogeneous distribution of the analytes within the bottle.  After completion of the reconstitution procedure, samples should be used within one hour for the certified concentration to be valid within the specified uncertainty.
+
+						
+
+	Certified Concentration Values:  The material for this SRM was prepared by Cone Biotech, Inc., Seguin, TX().  The certified concentrations for morphine and codeine in the reconstituted urine are given below with estimated uncertainties.  The limit of detection, XD, refers to the underlying true analyte concentration that the employed chemical measurement process is capable of detecting [2]. 
+
+
+
+	Table 1. Certified Concentrations for Morphine and Codeine in SRM 2381
+
+	
+
+									         Morphine
+
+							Concentration Level		ng/mL	mmol/L
+
+						
+
+						I	XD: <1	XD: <4 x 10-6
+
+						II	134 ± 14	(4.70 ± 0.49) x 10-4
+
+					       	III	295 ± 12	(1.03 ± 0.04) x 10-3
+
+					         	IV	580 ± 18	(2.03 ± 0.06) x 10-3
+
+					
+
+									Codeine
+
+								Concentration Level	ng/mL		mmol/L
+
+						
+
+								I	XD: <1		XD: 3 x 10-6
+
+								II	130 ± 5		(4.34 ± 0.17) x 10-4
+
+								III	282 ± 9		(9.42 ± 0.30) x 10-4 
+
+								IV	560 ± 23		(1.87 ± 0.08) x 10-3
+
+						
+
+Each certified concentration is a weighted average of results from each method, the weights being determined iteratively.  Given the weights, the effective degrees of freedom are then calculated from the weights.  Given the weighted average  and the effective degrees of freedom, df, the approximate 95 percent confidence interval is
+
+
+
+		
+
+		
+
+
+
+
+
+						For the three levels of the morphine concentrations, the effective degrees of freedom are 6.85, 5.3, and 6.0 respectively, for levels II, III, and IV.  The standard errors of the weighted averages are 5.8, 4.8, and 7.5.  For the three levels of codeine, the effective degrees of freedom are 6.8, 6.0, and 6.0, respectively for levels II, III, and IV.  The standard of errors of the weighted averages are 2.1, 3.5, and 9.5.
+
+						Military Laboratory Round-Robin Study:  A group of military laboratories involved in urine drug testing was sent samples twice of the SRM for evaluation and analysis.  The nine laboratories returning results each year used GC/MS methods.  Their results (mean and one standard deviation) are summarized below.
+
+										
+
+									
+
+									Morphine (ng/mL)
+
+									
+
+									Codeine (ng/mL)
+
+									
+
+									1991
+
+									1992
+
+									
+
+									1991
+
+									1992
+
+									Level
+
+									mean
+
+									σ
+
+									mean
+
+									σ
+
+									
+
+									mean
+
+									σ
+
+									mean
+
+									σ
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									II
+
+									148
+
+									10
+
+									146
+
+									7
+
+									
+
+									137
+
+									11
+
+									139
+
+									8
+
+									III
+
+									297
+
+									17
+
+									296
+
+									20
+
+									
+
+									268
+
+									24
+
+									276
+
+									5
+
+									IV
+
+									583
+
+									35
+
+									581
+
+									41
+
+									
+
+									545
+
+									40
+
+									541
+
+									37
+
+										
+
+
+										These results demonstrate that laboratories which routinely use GC/MS methods to determine opiates (morphine and codeine) in urine can obtain results on this material (SRM 2381) that are in agreement with the NIST certified values.
+
+						
+
+				ANALYTICAL METHODS
+
+						
+
+						Gas Chromatography/Mass Spectrometry (GC/MS):  For both morphine and codeine, one of the methods used for certification was gas chromatography/mass spectrometry (GC/MS).  Samples were reconstituted as described in the "Reconstitution Procedure" section above.  Two series of measurements were performed, separated by approximately one year.  For the first series a total of twelve vials, in two independent sets, were prepared for each level. For the second series, a total of six vials, in two independent sets were prepared for each level.  From each vial, a single 5 mL aliquot was taken, spiked with known amounts of the internal standards (morphine-d3 and codeine-d3), and processed with a solid-phase extraction column using a mixed-mode retention mechanism of ion exchange and reversed-phase.  The analytes were eluted with a solvent consisting of 2% concentrated ammonium hydroxide in methylene chloride: 2propanol (80:20), and the solvent evaporated.  The residue was dissolved in N,O-bis(trimethylsilyl)acetamide.  This solvent reacts with morphine to form the bis(trimethylsilyl)(TMS) ether derivative and with codeine to form the mono(trimethylsilyl) ether. 
+
+						
+
+						The GC/MS measurements were performed using a quadrupole mass spectrometer operated in the electron ionization mode with a 30-meter nonpolar fused silica capillary column connected directly to the ion source.  The ions at m/z 429, 432, 371, and 374 were monitored for morphine, morphine-d3, codeine and codeine-d3, respectively.  Analyte concentrations were calculated by linear interpolation from calibration curves constructed independently for each analyte for each set of samples.
+
+						
+
+						Liquid Chromatography/Mass Spectrometry (LC/MS):  The second method for both morphine and codeine was liquid chromatography/mass spectrometry (LC/MS).  Three vials of Levels II and IV and six vials of Level III were reconstituted as above and the entire contents of each vial spiked with a known amount of the internal standards, (morphine-d3 and codeine-d3).  Each sample was processed with a solid-phase extraction column similar to the type used for the GC/MS method, using the same solvent mixture.  The residue was reconstituted in water for the LC/MS analyses.
+
+						
+
+						For the LC/MS measurements a monomeric C8 column was used with an isocratic mobile phase consisting of 0.2 % trifluoroacetic acid and 0.1 M ammonium acetate in water: methanol (3:1).  The thermospray interface was operated with the discharge and electron ionization off, and temperatures were set to conditions optimized for sensitivity and stability.  Positively charged ions at m/z 286, 289, 300, and 303 were monitored for morphine, morphine-d3, codeine, and codeine-d3, respectively.  Analyte concentrations were calculated from comparison of measured ratios with response factors from standard mixtures.
+
+						
+
+						Direct Probe Tandem Mass Spectrometry (MS/MS):  The third method was direct probe tandem mass spectrometry (MS/MS).  Two vials of each level were prepared, spiked, and processed as was done for the GC/MS analyses, except that no derivatization was done; samples were dissolved in methanol.  Approximately 5 μL of these methanol solutions were placed in aluminum crucibles and dried with gentle heating.  The crucibles were individually inserted into a temperature controlled direct probe, which was then inserted into the source of a triple quadrupole mass spectrometer.  A temperature program was used to reproducibly heat the probe.  Electron ionization was used to generate molecular ions which were subjected to collisions with argon in the middle quadrupole.  The quadrupoles were operated in the neutral loss mode, with losses of 123 and 137 monitored for morphine and codeine, respectively.  Analyte concentrations were calculated by linear interpolation from calibration curves constructed independently for each analyte.
+
+						
+
+						Purities of the reference compounds used for calibration of all methods were assessed and appropriate corrections were made when calculating the certified values.
+
+		REFERENCES
+
+									
+
+	[1]	CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: Washington, D.C. (2009); available at http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf (accessed Apr 2015).
+
+	[2]	Detection in Analytical Chemistry-Importance, Theory, and Practice; ACS Symposium Series 361, Lloyd A. Currie, Editor, pp. 10 (1988).
+
+	[3]	Schiller, S.B.; Eberhardt, K.R.; Combining Data From Independent Chemical Analysis Methods; Spectrochemica Acta, Vol. 46 B, No. 12, pp. 1607–1613 (1991).
+
+	
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+
+
+Certificate Revision History:  15 April 2015 (Change of expiration date, ended period of certification; editorial changes); 15 July 1993 (Updated certified values; editorial changes); 28 February 1992 (Original certificate date).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730, email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+	SRM 2381	Page 4 of 4

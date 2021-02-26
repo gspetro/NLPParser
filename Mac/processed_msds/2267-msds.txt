@@ -1,0 +1,674 @@
+﻿Date of Issue: 
+
+08 June 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	2267
+
+		SRM Name:	Deuterated Levoglucosan in Ethyl Acetate
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is a solution of deuterated levoglucosan in ethyl acetate.  This SRM is intended primarily for use as an internal standard or surrogate internal standard solution that is used to spike both the unknown sample and a calibration or external standard solution of nonlabeled levoglucosan.  A unit of SRM 2267 consists of five twomilliliter ampoules, each containing approximately 1.2 mL of solution.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Flammable Liquids	Category 2
+
+		Health Hazard:	Serious Eye Damage/Eye Irritation	Category 2A
+
+			STOT-Single Exposure	Category 3
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word
+
+			DANGER
+
+			Hazard Statement(s) 
+
+	H225 	Highly flammable liquid and vapor.
+
+	H319 	Causes serious eye irritation.
+
+	H336 	May cause drowsiness or dizziness.
+
+Precautionary Statement(s)
+
+	P210	Keep away from heat, sparks, open flames, hot surfaces.  No smoking.
+
+	P233	Keep container tightly closed.
+
+	P241	Use explosionproof electrical, ventilating, and lighting equipment.
+
+	P242	Use only nonsparking tools.
+
+	P243	Take precautionary measures against static discharge. 
+
+	P261	Avoid breathing fumes, mist, vapors, or spray.
+
+	P264	Wash hands thoroughly after handling.
+
+	P271	Use only outdoors or in a wellventilated area.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	P301+P330+P331	If swallowed: Rinse mouth.  Do NOT induce vomiting.
+
+	P304+P340 	If inhaled: Remove victim to fresh air and keep at rest in a position comfortable for 	breathing.
+
+	P305+P351+P338 	If in eyes: Rinse cautiously with water for several minutes.  Remove contact lenses, 	if present and easy to do.  Continue rinsing.
+
+	P337+P313 	If eye irritation persists: Get medical attention.
+
+	P303+P361+P353 	If on skin (or hair): Take off immediately all contaminated clothing.  Rinse skin with water.
+
+	P312 	Call a doctor if you feel unwell.
+
+	P403+P235 	Store in a wellventilated place.  Keep cool.
+
+	P405	Store locked up.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance: Deuterated levoglucosan in ethyl acetate
+
+	Other Designations:  Acetic acid ethyl ester; acetic ether; acetidin; acetoxyethane; ethyl ethanoate; vinegar naphtha; acetic ester; ethyl acetic ester; ethyl acetate, anhydrous; ethyl acetate ester
+
+The health and safety information provided is for ethyl acetate, the main component of this solution.  Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Ethyl acetate
+
+		141-78-6
+
+205-500-4
+
+	99.9
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Get immediate medical attention, if needed.  Thoroughly clean and dry contaminated clothing before reuse.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention.
+
+Ingestion:  Contact local poison control center or physician immediately.  Never make an unconscious person vomit or drink fluids. When vomiting occurs, keep head lower than hips to help prevent aspiration.  If person is unconscious, turn head to side. Get medical attention immediately.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, eye irritation, and central nervous system depression. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at distant ignition sources and flash back.  Vapor/air mixtures are explosive above flash point.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Alcoholresistant foam, carbon dioxide, regular dry chemical, and water.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition will form oxides of oxides of carbon.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 2	Fire = 3	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Remove sources of ignition.  Reduce vapors with water spray.  Absorb with sand or other noncombustible material.  Collect spilled material in appropriate container for disposal.  Keep unnecessary people away, isolate hazard area and deny entry.  Stay upwind and keep out of low areas.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.  Handle glass ampoules with care.
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:
+
+		NIOSH (REL):  	400 ppm (1400 mg/m3) (TWA)
+
+			2000 ppm (IDLH, 10 % LEL)
+
+		ACGIH (TLV):	400 ppm (TWA)
+
+		
+
+		OSHA (PEL):  	400 ppm (1400 mg/m3) (TWA)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+
+
+
+9.  Physical and Chemical Properties
+
+NOTE:  The physical and chemical data provided are for ethyl acetate the main component.  No physical or chemical data are available for this solution.  The actual behavior of the solution may differ from the individual component.
+
+Descriptive Properties
+
+ 
+
+Appearance (physical state, color, etc.):
+
+	clear to colorless liquid
+
+Molecular Formula:
+
+	C4H8O2
+
+Molar Mass (g/mol):
+
+	88.1
+
+Odor:
+
+	varying odor
+
+Odor threshold:
+
+	50 ppm
+
+pH:
+
+(neutral)
+
+Evaporation rate:
+
+6.2 (butyl acetate = 1)
+
+Melting point/freezing point (ºC):
+
+–84 (–119.2 ºF)
+
+Relative Density (g/L) as specific gravity (water = 1):
+
+0.9003
+
+Vapor Pressure (mmHg):
+
+73 at 20 ºC
+
+Vapor Density (air = 1):
+
+3.04
+
+Viscosity (cP):
+
+not available
+
+Solubility(ies):
+
+soluble in water (8.7 %), alcohol, benzene, ether, acetone, and chloroform
+
+Partition coefficient (n-octanol/water):
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature (ºC):
+
+426 (799 ºF)
+
+Thermal Decomposition (ºC):
+
+not available
+
+Initial boiling point and boiling range (ºC):
+
+77 (171 ºF)
+
+Explosive Limits, LEL (Volume %):
+
+2
+
+Explosive Limits, UEL (Volume %):
+
+11.5
+
+Flash Point (Closed Cup):
+
+–4 °C (24.8 ºF)
+
+Flammability (solid, gas):
+
+not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Containers may rupture or explode if exposed to heat.
+
+Incompatible Materials:  Acids, bases, combustible materials, and oxidizing materials.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Respiratory tract irritation, eye irritation, and central nervous system depression.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Inhalation of 400 ppm for 3 min to 5 min has caused respiratory tract irritation.  Exposure may result difficulty in breathing, headache, drowsiness, dizziness, loss of coordination, kidney damage, liver damage, and unconsciousness.
+
+Skin Contact:  Direct contact may cause irritation with redness and defatting action on the skin.  
+
+Eye Contact:  Direct contact may cause irritation, with redness, pain, and lacrimation.  Exposure to 400 ppm may cause a sensation of irritation.  Repeated or prolonged exposure may cause conjunctivitis and cornea clouding.
+
+Ingestion:  Ingestion of small amounts may cause sore throat, abdominal pain, and diarrhea.  Large amounts may cause central nervous system depression, with dizziness, headache, weakness, fatigue, drowsiness, and unconsciousness.  Poisoning may cause congestion of the liver and kidney.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified.
+
+Rat, Oral LD50: 5620 mg/kg
+
+Rabbit, Dermal LD50: >18 000 mg/kg
+
+Mouse, Inhalation LC50: 1500 ppm (4 h)
+
+Skin Corrosion/Irritation:  Not classified.
+
+Serious Eye Damage/Irritation:  Category 2A; Direct contact may cause irritation with redness, pain and lacrimation. 
+
+Human, Eyes: 400 ppm
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  No data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Ethyl acetate is not listed by NTP, IARC or OSHA as a carcinogen/potential carcinogen.
+
+Reproductive Toxicity:  Not classified.
+
+Specific Target Organ Toxicity, Single Exposure:  Category 3; Low vapor concentrations may cause dizziness and drowsiness.  High concentration may cause narcotic effects.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified.
+
+Aspiration Hazard:  No data available.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:
+
+	Fish Toxicity:	Fathead minnow (Pimephales promelas) LC50 (flow-through):  220 mg/L to 250 mg/L (96 h)
+
+		Rainbow trout (Oncorhynchus mykiss) LC50 (flow-through):  484 mg/L (96 h)
+
+	Invertebrate:  	Freshwater water flea (Daphnia magna) EC50 (static):  560 mg/L (48 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  30 species: fish
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to disposal regulations:  U.S. EPA 40 CFR 262, Hazardous Waste Numbers:  U112 (Ignitable waste).
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  UN1173; Ethyl Acetate; Hazard Class 3; Packing Group II; Excepted Quantity:  E2.
+
+
+
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	5000 lbs (2270 kg) final RQ
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	Not regulated.
+
+	OSHA Process Safety (29 CFR 1910.119): 	Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes.
+
+	CHRONIC HEALTH:	No.
+
+	FIRE:	Yes.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:
+
+WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  08 June 2015
+
+	Sources:	ChemAdvisor, Inc., SDS Ethyl Acetate, 20 March 2015.
+
+
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short  Term Exposure Limit 
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+					
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2267		Page 6 of 6

@@ -1,0 +1,294 @@
+﻿owe, 
+Ne  g- 
+
+Somes  or
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2061 
+
+ 
+
+ 
+TiAl(NbW) Alloy for Microanalysis 
+
+ 
+This Standard Reference Material (SRM) is intended for 
+microanalysis of titanium (Ti) and aluminum (Al) in 
+aerospace components and materials with  a similar matrix.  A unit  of SRM 2061 consists of a single cube of the 
+alloy approximately 2 mm × 2 mm × 2 mm. 
+ 
+Certified Values:  A NIST certified value is a value for which NI ST has the highest confidence in its accuracy, in 
+that all known or suspected sources of bias have been inve stigated or accounted for by NIST.  A certified value is 
+the present best estimate of the true value based on the results of analyses performed at NIST.  The uncertainty listed 
+with the value is an  expanded uncertainty ( k = 2, 95 % confidence interval [1])  calculated in accordance with the 
+ISO and NIST Guides [2].  
+ 
+Certified values for titanium (Ti), aluminum (Al), niobium (Nb), and tungsten (W), expressed as mass fractions [2], 
+are provided in Table 1.  The results  are expressed as the certified value  ± an expanded uncertainty.  The certified 
+values are the unweighted averages of  the concentrations determined by wa velength dispersive X-ray fluorescence 
+spectrometry (WD-XRF) and i nductively-coupled plasma  optical emission spectrome try (ICP-OES) [3].  The 
+expanded uncertainties for Ti, Al, Nb, and W include the uncertainties attributable to the heterogeneity of these 
+elements in addition to the uncertainties from the two quantitative methods. 
+ 
+Heterogeneity testing on the micrometer scale (point-to- point, within specimens) was performed with wavelength 
+dispersive electron probe microanalysis (WD-EPMA) while the bulk heterogeneity assessment (specime
+n to 
+specimen) was performed with WD-EPMA and WD-XRF.  Va lue assignment categories are based on the definition 
+of terms and modes used at NIST for chemical reference materials [4]. 
+ 
+
+Table 1.  Certified Values with Expanded Uncertainties for SRM 2061 
+
+ 
+
+Mass Fraction 
+
+53.92 
+30.31 
+10.78 
+4.38 
+
+ ±   0.34 
+ ±   0.31  
+ ±   0.10 
+ ±   0.11 
+
+ 
+ Element 
+ (%) 
+ 
+ Titanium 
+ Aluminum 
+ Niobium 
+ Tungsten 
+ 
+Expiration of Certification:   The certification of this SRM is valid until  01 January 2029 , within the uncertainty 
+specified, provided the SRM is handled and stored in accordance with the instructions given in this certificate 
+(see “Instructions for Use”).  However, the certification will be nullified if the SRM is damaged or contaminated. 
+ 
+Coordination of the technical meas
+R.B. Marinenko of the NIST Surface and Microanalysis Division. 
+ 
+Heterogeneity and microheterogeneity testing was performed by R.B. Marinenko and J. Kessler of the NIST Surface 
+and Microanalysis Science Division and by R. Herrera-
+Metrologia, Querétaro, Mexico. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899  
+Certificate Issue Date:  16 May 2005  
+
+Richard R. Cavanagh, Chief 
+Surface and Microanalysis Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+urements for certification was acco
+
+mplished under the direction of 
+
+Basurto, Guest Researcher 
+
+from Centro Nacional de 
+
+SRM 2061 
+
+ 
+
+Page 1 of 3 
+
+ 
+WD-XRF analytical measurements and  specimen to specimen heterogeneity te sting for certification of this SRM 
+were performed at NIST by J.R. Sieber and A.F. Marlow of the NIST Analytical Chemistry Division.  ICP-OES 
+analytical measurements for certification  were performed by L.L. Yu and T.A.  Butler, also of th e NIST Analytical 
+Chemistry Division. 
+ 
+Statistical consultation for this SRM was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Standa
+Materials Program by B.S. MacDonald of the Measurement Services Division.   
+ 
+Information Values:  An information value is considered to be a value that will be of interest and use to the SRM 
+user, but insufficient information is available to assess the uncertainty associated with the value.  Information values 
+for oxygen, and nitrogen are provided in Table 2.  The oxygen and nitrogen values are based on in
+ert gas fusion 
+(IGF) analysis. 
+ 
+
+rd Reference 
+
+Table 2.  Information Values for SRM 2061 
+
+Mass Fraction 
+(%) 
+
+ 
+ Element 
+  
+ 
+ Oxygen 
+ Nitrogen 
+ 
+Stability:   This material is considered to be stable during th e period of certification.  NIST will monitor this SRM 
+cal changes occur that affect  the certification before the 
+over the period of its certification.  If substantive techni
+expiration of this certificate, NIST  will notify the purchaser.  Registratio
+notification. 
+ 
+PREPARATION, HETEROGENEITY, AND ANALYSIS1 
+ 
+
+n (see attached sheet) will facilitate 
+
+0.232  
+0.004 
+
+Material Preparation:   The material for SRM 2061 was fabricated at Wright-Patterson Air Force Base 
+(Dayton, OH).  It was extruded in the form of a 2.4 cm diameter rod that was annealed at 1370 
+°C to produce only 
+the α-phase of the alloy.  The rod was cut into 23 disks, 2  mm thick, that were marked on the unpolished side with a 
+number and letter to identify their original locations in the rod.   These disks were polished at NIST on one side and 
+cleaned for EPMA heterogeneity testing.   Upon completion of the heterogeneity tests, six of the disks were sliced 
+into 2 mm  × 2 mm × 2 mm cubes with a diamond saw.  Most of the cubes were retained for use as SRM 2061 for 
+microanalysis while a few were used for quan titative analyses by WD-XRF, ICP-OES, and IGF.
+disks were retained for use as SRM 2062. 
+ 
+Heterogeneity:  Each of the 23 disks were tested with WD-EPMA for heterogeneity using three independent 
+sampling strategies: 
+
+    The remaining 
+
+1.  40-point traverses using 2 µm steps – 2 traverses normal to one another per specimen 
+2.  20 random point samplings per specimen 
+3.  Nested design sampling using 3 duplicate readings on 4 randomly selected points per specimen to 
+determine the variances for the between specimen and the between points heterogeneities [5].   
+
+ 
+The total uncertainties determ ined from test No. 3 are included in th
+element.  In addition, 15 disks were tested for between specimen heterogeneity with WD-XRF. 
+ 
+Analysis:   For WD-XRF analysis [6], acid digestion of single cu bes of the alloy (6 total,  approx. 40 mg each) was 
+followed by borate fusion with a pre-fused flux (50:50 mix of Li 2B4O7 and LiBO 2).  Calibration was accomplished 
+using synthetic calibrants designed to match the fused unknowns and prepared from high-purity compounds.  The 
+K L2,3 (Kα) X-ray lines for Al, Ti, and Nb and the L3-M4,5 (Lα) lines for W were used in the analysis.   
+
+e certified uncertainties assigned to each 
+
+                                                 
+ 
+the experimental procedure.  Such identification does not im ply recommendation or endorsement by the National Institute of 
+Standards and Technology. 
+
+1Certain commercial equipment, instruments, or materials are identified in this certificate in order to adequately specify 
+
+SRM 2061 
+
+ 
+
+Page 2 of 3 
+
+ 
+
+ 
+For ICP-OES analysis [6], single cubes of the alloy were digested in HCl and HF.  Manganese was used as an
+internal standard.  For each element, calibration was accom plished with six matrix-matched standards and a linear 
+calibration model.  The analytes Al, Ti, Nb, W, and the internal standard, Mn, were measured side-on with respect to 
+the plasma at 394.401 nm, 337.279 nm, 269.706 nm, 239.708 nm, and 260.568 nm, respectively.  Analyses 
+were 
+done on two different days and averaged. 
+ 
+Oxygen and nitrogen were analyzed by Luvak, Inc. (Boylston, MA) using IGF.  Two of the 2 mm  × 2 mm  × 2 mm 
+cubes were used for duplicate analyses of both elements. 
+ 
+INSTRUCTIONS FOR USE2 
+ 
+Storage:  The alloy should be stored in a closed container such as a plastic box, in a cool, dry location, preferably a 
+desiccator, to avoid dust or moisture contamination.   
+ 
+Use:  To relate analytical determinations to the values on this certificate of analysis, the specimen  must be mounted 
+in an appropriate medium such as epoxy and polished for  analysis in the electron micr oprobe or scanning electron 
+microscope.  Appropriate conduction of electrons from the specimen to ground must be provided  to avoid charging.  
+Other microanalytical techniques may require different preparative procedures for use.   The specimen shoul
+d be 
+handled with clean, powder-free gloves to avoid contamination with body oils and foreign matter.  Avoi d contact of 
+any kind with the polished surface once it 
+is clean and dry.  If repolishing is  necessary, particles of the polishing 
+material may adhere to or become imbedded in  the surface.  Most can be removed with Scotch ® Removable Magic® 
+Tape or similar transparent (“invisible”) tape followed by thorough rinsing with heptane to ensure r
+emoval of any 
+remaining tape adhesive.  Once polis hed and cleaned, the specimen may requ ire occasional repolishing depending 
+upon how often it is used and how much electron beam contamination occurs.   
+ 
+Minimum Sample Quantity:   Based on the microheterogeneity assessment, the sampling of at least 10 different 
+randomly selected 1-µm points is recommended for Al, Ti, and Nb. A 20-point sampling is recommended for W.    
+ 
+ 
+
+ 
+[1]  Hahn, G.J.; Meeker, W.Q.;  Statistical Intervals:  A Guide for Practitioners ; John Wiley & Sons, Inc.: New 
+
+REFERENCES 
+
+York (1991). 
+
+[2] ISO; G
+
+uide to the Expression of Uncertainty in Measurement
+
+; ISBN 92-67-10188-9, 1st ed.; International 
+
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.;  Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+; NIST Technical Note 1297; 
+
+[3]  Levenson, M.S.; Banks, D.L.; Eberha rdt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H-K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.;  An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM ; J. Res. 
+Natl. Inst. Stand. Technol.; Vol. 105, pp. 571–579 (2000). 
+
+[4]  May, W.E.; Parris, R.M.; Beck II, C.M.; Fassett, 
+
+J.D.; Greenberg, R.R.; Guen ther, F.R.; Kramer, G.W.; 
+Wise, S.A.; Gills, T.E.; Colbert, J. C.; Gettings, R.J.;  MacDonald, B.S.;  Definitions of Terms and Modes Used 
+at NIST for Value-Assignment of Refere nce Materials for Chemical Measurements ; NIST Special Publication 
+260–136, p.16; U.S. Government Printing Office:  Washington, DC; (2000). 
+
+[5]  Marinenko, R.; Leigh, S.;  Heterogeneity Evaluation of Research Materials for Microanalysis Standards 
+
+Certification, Microsc. Microanal. Vol. 10, pp 491–506 (2004). 
+
+raceability  and  Uncertainty  in  Alloy  Analysis  by  Borate
+[6]  Sieber, J.R; Yu, L.L.; Marlow, A.F.; Butler, T.A.;  Traceability and Uncertainty in Alloy Analysis by Borate 
+
+Fusion and XFR; X-Ray Spectrom., Vol. 34, pp. 153-159 (2004). 
+
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751, email srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+                                                 
+
+2Certain commercial equipment, instruments, or materials are identified in this certificate in order to adequately specify 
+
+the experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of 
+Standards and Technology. 
+
+SRM 2061 
+
+ 
+
+Page 3 of 3 
+
+

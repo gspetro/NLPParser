@@ -1,0 +1,680 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+17 July 2015 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+2691 
+SRM Number: 
+SRM Name: 
+Coal Fly Ash 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended for use in the evaluation of analytical methods used for the 
+classification of coal fly ash and for the determination of constituent elements in coal fly ash or materials of a 
+similar matrix.  A unit of SRM 2691 consists of three 10 g hermetically sealed glass vials of fly ash pulverized to 
+less than 145 μm particle size and blended to a high degree of homogeneity. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Note: This material is complex mixture that contains respirable crystalline silica as quartz.  The health and physical 
+hazard information provided in this SDS contains the effects associated with the inhalation of quartz particulates at a 
+concentration ≥1 %. 
+
+Classification  
+
+Physical Hazard: Not classified. 
+Health Hazard:  Carcinogenicity 
+ 
+
+STOT, Repeated Exposure  
+
+ 
+
+Category 1 
+Category 1 
+
+Label Elements 
+Symbol  
+
+ 
+
+Signal Word 
+DANGER 
+
+May cause lung cancer. 
+Causes damage to lungs through prolonged or repeated inhalation. 
+
+Hazard Statement(s): 
+H350 
+H372 
+Precautionary Statement(s): 
+P201 
+P202 
+P260 
+P264 
+P270 
+P280 
+P308 + P313  If exposed or concerned:  Get medical attention. 
+P405 
+P501 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+SRM 2691 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Coal ashes, (residues) 
+
+Other Designations:  Coal fly ash (ash; coal ash; fly ash; flyash; coal ash, by product; bottom ash) 
+
+This material is a complex mixture that has not been tested as a whole and contains trace amounts of compounds 
+which have been reported to have toxic, mutagenic, and/or carcinogenic properties, and should be handled with care, 
+including nickel and chromium compounds.  Components are listed in compliance with OSHA’s 29 CFR 1910.1200; 
+for the actual values see the Certificate of Analysis. 
+
+Hazardous Component(s)  CAS Number 
+
+Coal fly ash 
+Quartz 
+
+ 
+
+68131-74-8 
+14808-60-7 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+EC Number 
+(EINECS) 
+
+268-627-4 
+238-878-4 
+
+Nominal Mass Concentration 
+(%) 
+
+<99.0 
+>1.0 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated 
+clothing before reuse. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation, lung damage, silicosis, and cancer.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section  9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, dry sand, water, and regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 1 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal.  Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry. 
+
+ 
+
+ 
+
+SRM 2691 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances (see Section 10, “Stability and Reactivity”). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Coal fly ash: 
+ 
+
+OSHA (PEL): 
+
+No exposure limits available. 
+
+ 
+
+NIOSH (REL): 
+ 
+
+0.015 mg/m3 (TWA) [except Nickel carbonyl, as Ni, related to Nickel compounds] 
+10 mg/m3 (IDLH) [except Nickel carbonyl, as Ni, related to Nickel compounds] 
+
+Quartz: 
+
+ACGIH (TLV): 
+
+0.025 mg/m3 (TWA) [respirable fraction] 
+
+OSHA (PEL):  
+ 
+ 
+
+(30)/(%SiO2 + 2) mg/m3 (TWA) [total dust] 
+(250)/(%SiO2 + 5) mppcf (TWA) [respirable fraction] 
+(10)/(%SiO2 + 2) mg/m3 (TWA) [respirable fraction] 
+
+NIOSH (REL): 
+ 
+
+0.05 mg/m3 (TWA) [respirable dust] 
+50 mg/m3 (TWA) [respirable dust] 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+Particle Size: 
+
+Coal Fly Ash 
+
+grey to black granular powder 
+varies 
+varies 
+not available 
+not available 
+not applicable 
+not applicable 
+not available 
+not available 
+not applicable 
+not applicable 
+not applicable 
+0.5 % (water) 
+not available 
+<145 μm 
+
+SRM 2691 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+Flammability (solid, gas): 
+
+10.  STABILITY AND REACTIVITY 
+
+Coal Fly Ash 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+slight 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid generating dust.  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact 
+with incompatible materials. 
+
+Incompatible Materials:  Oxidizing materials, bases, halogens, acids, metal salts, metals, and combustible materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    May  cause  irritation,  lung 
+damage, silicosis, and cancer. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Inhalation of dust may cause coughing, sneezing, upper respiratory tract irritation, and lung damage.  
+Chronic exposure to fine particles containing respirable quartz may result in lung damage, silicosis, and cancer. 
+
+Skin Contact:  May cause mechanical irritation. 
+
+Eye Contact:  May cause mechanical irritation. 
+
+Ingestion:  No data available. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+
+Coal fly ash, Rat, Oral LD50:  >2000 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye Damage/Irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Fly ash containing chromium and nickel compounds has an irritant and allergic potential; only trace amounts 
+of these compounds are present in this material 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity: Category 1 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Silica, crystalline (as respirable dust) is listed by IARC and NTP as a human carcinogen.  Silica, crystalline 
+is not listed by OSHA as a designated carcinogen. 
+
+X  Yes 
+
+ No 
+
+ 
+
+SRM 2691 
+
+ 
+
+Page 4 of 6 
+
+ 
+
+ 
+
+Reproductive Toxicity:  Not classified. 
+
+Coal fly ash, Rat, Intratracheal LDLo:  600 mg/kg (pregnant 14 d to 19 d) 
+Quartz:  No data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1 
+
+Cumulative exposure to silica dust may result in reduced lung capacity and silicosis. 
+
+Coal fly ash:  Invertebrate, water flea (Daphnia magna) EC50: 140 mg/L to 2000 mg/L (24 h) 
+
+Aspiration Hazard:  Not classified. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+
+Quartz:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+Yes. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+U.S. TSCA Inventory:  Coal fly ash and quartz are listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+California Proposition 65:  WARNING!  This product contains a chemical (quartz) known to the state of California 
+to cause cancer. 
+
+SRM 2691 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  17 July 2015 
+
+Sources: 
+
+ChemAdvisor, Inc., SDS Fly Ash, 20 March 2015. 
+
+ 
+
+ChemAdvisor, Inc., SDS Quartz, 20 March 2015. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CEN 
+CERCLA  
+
+CFR  
+CPSU 
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+ISO 
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+MSHA 
+NIOSH  
+
+NIST 
+
+NRC 
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+RTECS 
+
+National Institute of Standards and Technology 
+
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+European Committee for Standardization 
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Coal Mine Dust Personal Sample Unit 
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SCBA  
+International Agency for Research on Cancer  
+SRM  
+International Air Transportation Agency  
+STEL 
+Immediately Dangerous to Life and Health  
+STOT 
+International Organization for Standardization 
+TDLo 
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+TWA  
+National Fire Protection Association  
+Mine Safety and Health Administration 
+UEL  
+National Institute for Occupational Safety and Health   WHMIS  Workplace Hazardous Materials Information System 
+
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Specific Target Organ Toxicity  
+Toxic Dose Low 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+
+SARA  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2691 
+
+ 
+
+Page 6 of 6 
+
+

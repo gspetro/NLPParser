@@ -1,0 +1,573 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue:  
+04 February 2014 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+1567b 
+SRM Number: 
+SRM Name: 
+Wheat Flour 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  validation  of  methods  for  determining 
+elements in wheat flour and similar materials.  This SRM can also be used for quality assurance when assigning 
+values  to  in-house  reference  materials.    A  unit  of  SRM 1567b  consists  of  a  single  bottle  containing 
+approximately 50 g of material sealed inside an aluminized pouch. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 
++1-703-527-3887  (International) 
+
+(North America) 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Note:    This  processed  material  is  intended  for  laboratory  use  only;  not  for  human  consumption.    SRM 1567b  is 
+supplied in a small quantity and under normal laboratory conditions it does not constitute a combustible dust hazard.  
+The  physical  properties  of  this  material  indicate  that  accumulated  dust  on  surfaces  generated  where  operations 
+produce fine particulates, may lead to combustible dust concentrations in air. 
+
+Classification 
+
+Not classified. 
+Not classified. 
+
+Physical Hazard: 
+Health Hazard: 
+ 
+Label Elements 
+Symbol:  No Symbol/No Pictogram. 
+
+Signal Word:  No Signal Word 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Wheat flour 
+
+Other Designations:  Not applicable. 
+
+Components  are  listed  in  compliance  with  OSHA’s  29 CFR 1910.1200;  for  the  actual  values  see  the  NIST 
+Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+Wheat flour 
+
+not applicable 
+
+EC Number 
+(EINECS) 
+not applicable 
+
+Nominal Mass Concentration  
+(%) 
+100 
+
+SRM 1567b 
+
+ 
+
+Page 1 of 5 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:    If  adverse  effects  occur,  remove  to  uncontaminated  area.    If  not  breathing,  give  artificial 
+respiration or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated 
+clothing before reuse. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Skin or eye mechanical irritation.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Avoid generating dust; sufficient concentrations of fine dust dispersed in air, and in 
+the  presence  of  an  ignition  source  is  a  potential  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, and regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for  Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 0 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Any  accumulated  material  on 
+surfaces should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure 
+Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel 
+of spills.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+7.  HANDLING AND STORAGE 
+
+Safe  Handling  Precautions:    Minimize  dust  generation  and  accumulation  on  surfaces.    See  Section 8,  “Exposure 
+Controls and Personal Protection”. 
+
+Storage:    Store  and  handling  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances; see Section 10, “Stability and Reactivity”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure  Limits:    This  material  is  a  particulate  matter  and  adequate  inhalation/respiratory  protection  should  be 
+used to minimize exposure.  No occupational exposure limits have been established for wheat flour.  The exposure 
+limits for Particulates Not Otherwise Regulated are applicable. 
+OSHA (PEL):  15 mg/m3 (TWA, total particulates) 
+ 
+
+5 mg/m3 (TWA, respirable particulates) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+SRM 1567b 
+
+ 
+
+Page 2 of 5 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face  Protection:    Wear  splash  resistant  safety  goggles  with  a  face  shield.    An  eye  wash  station  should  be 
+readily available near areas of use. 
+
+Skin  and  Body  Protection:    Personal  protective  equipment  for  the  body  should  be  selected  based  on  the  task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+ 
+Descriptive Properties: 
+
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Particle Size (if relevant) 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC) 
+
+Flammability (solid, gas): 
+
+ 
+10.  STABILITY AND REACTIVITY 
+
+Wheat flour 
+
+powder 
+
+not applicable 
+not applicable 
+not available 
+not available 
+not available 
+not applicable 
+not available 
+not available 
+not applicable 
+not applicable 
+not applicable 
+not available 
+not available 
+
+not available 
+ 
+
+not available 
+
+not available 
+
+not available 
+not available 
+not available 
+not available 
+
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions  to  Avoid:    Avoid  generating  dust.    Avoid  heat,  flames,  sparks  and  other  sources  of  ignition.    Avoid 
+contact with incompatible materials. 
+
+Incompatible Materials:  Oxidizing materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+SRM 1567b 
+
+ 
+
+Page 3 of 5 
+
+11.  TOXICOLOGICAL INFORMATION 
+ 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  No data available. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  No data available. 
+
+Skin Contact:  No data available; skin exposure may result in mechanical irritation. 
+
+Eye Contact:  No data available; may cause mechanical irritation. 
+
+Ingestion:  No data available. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified; no data available. 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Wheat flour is not listed by NTP, IARC or OSHA as a carcinogen. 
+
+ Yes 
+
+X  No 
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified; no data available. 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SRM 1567b 
+
+ 
+
+Page 4 of 5 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+No. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Not listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  04 February 2014 
+
+Sources: 
+
+CDC;  NIOSH;  NIOSH  Pocket  Guide  to  Chemical  Hazards;  Department  of  Health  and  Human 
+Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and 
+Health; Particulates not otherwise regulated, 4 April 2011; available at 
+http://www.cdc.gov/niosh/npg/npgd0480.html (accessed Feb 2014). 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limits 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the  material.   The SDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the SDS.   The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users  of  this  SRM  should  ensure  that  the  SDS  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 1567b 
+
+ 
+
+Page 5 of 5 
+
+

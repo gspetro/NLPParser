@@ -1,0 +1,880 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2396 
+
+ 
+
+ 
+Oxidative DNA Damage Mass Spectrometry Standards 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the identification and quantification of oxidatively 
+damaged DNA base components for analysis by isotope-dilution techniques using either gas chromatography/mass 
+spectrometry (GC/MS) [1], or liquid chromatography/mass spectrometry (LC/MS) [2].  A unit of SRM 2396 is a set 
+of  10 components,  which  includes  eight  oxidatively-modified,  stable  isotope-labeled  DNA  bases  (Components 1 
+through 8), one stable isotope-labeled normal DNA nucleoside (Component 9), and one oxidatively-modified, stable 
+isotope-labeled nucleoside (Component 10).  Each vial of SRM 2396 contains 0.2 mL of the designated component 
+described in further detail below.   
+ 
+The certified optical density of Component 10 (see Table 1) is used in the quantification of the DNA.  Components 
+1–8 are included for identification of oxidatively damaged DNA base components by GC/MS.  Components 9 and 
+10 are  for  identification  of  nucleosides  by  LC/MS.    In  addition,  Components  9 and  10 may  be  used  as  GC/MS 
+internal  standards  when  modified  by  acidic  hydrolysis.    The  components  are  labeled  with  the  stable  isotopes  13C, 
+15N,  and/or  2H.    The  names,  abbreviations,  structures,  and  information  concentrations  of  the  components  are 
+provided in Table 2. 
+ 
+Certified  Value:    The  certified  value  for  the  optical  density  of  Component  10,  8-OH-dGuo-15N5,  at  294 nm  is 
+provided in Table 1 and is based on UV/visible absorption spectroscopy (UV/vis) measurements.  A NIST certified 
+value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of 
+bias have been investigated or taken into account [3].  The expanded uncertainty of the optical density defines an 
+interval  within  which  the  unknown  value  of  optical  density  can  be  asserted  to  lie  with  a  level  of  confidence  of 
+approximately 95 % [4]. 
+ 
+Information  Values:    Table 2  lists  information  values  for  the  amount-of-substance  concentrations  of  the 
+SRM 2396  components.    An  information  value  is  considered  a  value  that  will  be  of  use  to  the  SRM  user,  but 
+insufficient  information  is  available  to  assess  the  uncertainty  associated  with  the  value.    Values  are  provided  in 
+amount-of-substance units (mmol/L) [5]. 
+ 
+Expiration of Certification:  The certification of SRM 2396 is valid, within the measurement uncertainty specified, 
+until  01 March 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of the technical measurements leading to the certification were performed by 
+M. Satterfield and M. Dizdar of the NIST Biochemical Science Division. 
+ 
+The analytical determination, technical  measurements, and analysis of data for the certification of this SRM were 
+performed by M. Satterfield, D. Leber, P. Jaruga, and M. Dizdar of the NIST Biochemical Science Division. 
+ 
+Statistical consultation for the uncertainty associated with the optical density of Component 10 was performed by 
+S. Leigh and D. Leber of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  10 April 2012 
+Certificate Revision History on Last Page 
+SRM 2396 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+Page 1 of 6 
+
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:    Store  frozen  at  a  temperature  of  –20 C.    DO  NOT  use  a  self-defrosting  freezer  because  the  periodic 
+cycling of temperatures may shorten the shelf life of this SRM. 
+ 
+Use:    For  the  certified  and  informational  values  to  be  applicable,  once  thawed  each  SRM  component  must  be 
+processed  without  delay.    Dilutions  of  these  materials  maybe  made  as  appropriate,  but  they  must  be  used 
+immediately.  Certified and informational values do not apply to any material that has been thawed and subsequently 
+refrozen. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Preparation:    Components 1  through 10  were  purchased  from  Cambridge  Isotope  Laboratories  (Andover, MA).  
+Each  component  was  received  in  solid  state  and  stored  at  –20 C  prior  to  preparation.    Using  an  analytical 
+microbalance,  an  appropriate  amount  of  each  compound  was  weighed  separately  and  dissolved  in  HPLC-grade 
+water in a volumetric flask.  After filling to volume and mixing, the individual components were aliquoted (0.2 mL) 
+into sterile microcentrifuge vials and stored at –20 C.  Table 2 lists the names of Components 1 through 10, which 
+are used as internal standards for the measurement of the corresponding unlabeled analogs in DNA by GC/MS [1]. 
+ 
+Certified Value:  The certified value for Component 10 provided in Table 1 is based on the measurement of optical 
+density (absorbance) at 294 nm for 10 µL of Component 10 diluted with 90 µL of HPLC-grade water, vortex-mixed, 
+and transferred to a cuvette (Micro Cell 8 mm high, path length 10 mm, with silica windows which transmit from 
+190 nm to 2500 nm), which was placed in the spectrophotometer.  Standard baseline subtraction using the signal at 
+340 nm was used.  Absorbance measurements for the certified value of Component 10, 8-OH-dGuo-15N5, by UV/vis 
+were  performed  on  two  spectrophotometers.    Traceability  to  the  International  System  of  Units (SI)  is  asserted 
+through  the  use  of  SRM 2031  Metal-on-Fused  Silica  Filters  and  independent  verification  using  a  transfer 
+spectrophotometer. 
+ 
+The uncertainty is expressed as an expanded uncertainty, U = kuc, calculated according to the methods in the ISO 
+Guide [4].  The quantity uc represents, at the level of one standard deviation, the potential combined effects of the 
+uncertainty due to UV/vis equipment, variability due to Type B uncertainties including components attributable to 
+dilution,  purity,  and  factors  influencing  the  absorbance  measurement  (temperature  of  the  solution,  mass  and 
+volumetric).    The  value  of  the  coverage  factor,  k = 2.02,  is  determined  from  the  Student’s  t-distribution  with 
+41 degrees of freedom and a confidence level of 95 %. 
+ 
+
+Table 1.  Certified Optical Density (294 nm) Value for Component 10 
+
+ 
+
+ID 
+
+10 
+
+Component 
+
+8-OH-dGuo-15N5
+
+Optical Density 
+
+0.945    0.049 
+
+ 
+ 
+Information values for the amount-of-substance concentrations for the components (mmol/L) are shown in Table 2.  
+The values listed are from averaging the available values determined using the techniques listed in Table 3, which 
+include gravimetric, UV/vis, GC/MS, and LC/MS, as applicable.  The wavelength and absorption coefficient used 
+for  the  UV/vis  measurements  performed  in  2010  are  also  listed  in  Table 3  for  each  of  the  components,  when 
+applicable. 
+ 
+NIST  Analyses:    NIST  conducted  the  UV/vis  measurements  for  Compounds 1  through 6,  9,  and 10  in 
+2003 and 2010.    Results  were  compared  to  assess  the  stability  and  homogeneity  of  the  compounds.    The  UV/vis 
+results from the 2010 measurements were used in the calculation of the information value for the components and 
+are described below.  GC/MS and LC/MS techniques were used to assess the concentration of the components in 
+2003 and are described below. 
+
+ 
+
+                                                 
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedures.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2396 
+
+Page 2 of 6 
+
+Structure(a) 
+
+yZ_NHCHO 
+Ni 
+
+ 
+ewer 
+
+HN  Sn 
+
+NH, 
+
+ 
+
+ 
+
+ 
+
+  
+
+Table 2.  Nomenclature, Structure, and Information Values of Amount-of-Substance Concentrations  
+of SRM 2396 Components 
+
+  
+
+  
+
+Component 
+
+4,6-Diamino-5-formamidopyrimidine- 
+(formyl-13C-4,6-diamino-15N2) 
+Abbreviation:  FapyAde-13C,15N2 
+
+2,6-Diamino-4-hydroxy-5-formamidopyrimidine- 
+(formyl-13C-5-amido-15N-6-amino-15N) 
+Abbreviation:  FapyGua-13C,15N2 
+
+8-Hydroxyadenine-8-13C-9-15N-(6-amino-15N) 
+Abbreviation:  8-OH-Ade-13C,15N2 
+
+ID 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Concentration 
+(mmol/L) 
+
+0.23 
+
+0.17 
+
+0.15 
+
+0.23 
+
+  
+
+  
+
+5-Hydroxycytosine-2-13C-1,3-15N2 
+Abbreviation:  5-OH-Cyt-13C,15N2 
+
+ 
+
+ 
+
+Oo 
+
+7 
+
+6 
+
+5 
+
+8 
+
+0.10 
+
+0.14 
+
+0.10 
+
+cis-Thymine glycol-,,,6-2H4 
+
+Abbreviation:  ThyGly-d4 
+ 
+
+5-Hydroxyuracil-2,4,5,6-13C4-1,3-15N2 
+Abbreviation:  5-OH-Ura-13C4,15N2 
+
+5-(Hydroxymethyl)uracil-4,5-13C2-,-2H2 
+Abbreviation:  5-(OHMe)Ura-13C2,d2 
+
+  
+
+  
+
+  
+
+    
+
+ 
+      
+    
+  
+
+7,8-Dihydro-8-oxo-2-deoxyguanosine-15N5 or 
+8-hydroxy-2-deoxyguanosine-15N5 
+Abbreviation:  8-OH-dGuo-15N5 
+
+5-Hydroxy-5-methylhydantoin-2-13C-1,3-15N2 
+Abbreviation:  5-OH-5-MeHyd-13C,15N2 
+
+  
+
+2-Deoxyguanosine-15N5 
+Abbreviation:  dGuo-15N5 
+
+x 
+CH3 
+OH 
+
+0.093 
+
+0.13 
+
+0.10 
+
+eal * 
+N 
+
+H 
+OH 
+
+On 
+4 
+* 
+
+kN 
+N~ 
+
+* 
+NH, 
+
+kN 
+N 
+
+10 
+
+* 
+NH 
+
+x 
+NH 
+
+a 
+
+~NH, 
+
+HO—CH> 
+
+HN 
+
+9 
+
+  
+H 
+
+H 
+H 
+
+N 
+H 
+
+OH 
+
+\ 
+N 
+
+H 
+
+N 
+N 
+
+O 
+
+O 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O 
+
+O 
+
+O 
+
+| 
+
+  
+(a) Isotope-labeled atoms are indicated by an * in the structure. 
+ 
+
+ 
+
+SRM 2396 
+
+Page 3 of 6 
+
+fused  silica  capillary  column 
+
+ 
+UV/vis:    For  each  measurement,  an  aliquot  of  10 µL  of  the  solution  was  taken  and  diluted  with  90 µL  of 
+HPLC-grade water.  The tube was vortex-mixed and the solution was transferred into the cuvette (Micro Cell 8 mm 
+high, path length 10 mm, with silica windows, which transmit from 190 nm to 2500 nm), which was placed in the 
+spectrophotometer.    After  being  allowed  to  equilibrate  for  30 seconds  the  absorbance  was  recorded  at  the 
+wavelength  maxima  shown  in  Table 3.    Measurements  were  made  over  three  successive  days,  with  four 
+measurements  made  each  day  for  a  total  of  12 measurements  of  each  component.    Baseline  subtraction  using  the 
+signal at 340 nm for each component was used. 
+ 
+GC/MS:    The  concentrations  of  Components 1  through 8  were  measured  by  GC/MS  with  electron-impact (EI) 
+ionization.  Non-labeled versions of the components were used as internal standards and were custom synthesized by 
+Program  Resources  Inc.  of  Dyncorp,  contracted  by  National  Cancer  Institute  (Frederick, MD) [6],  except  for 
+Component 1  and  Component 6,  which  were  purchased  from  Sigma  Chemical  Company  (St.  Louis, MO).   
+The  column  was  a 
+(12.5 m × 0.2 mm i.d.)  coated  with  cross-linked 
+5 % phenylmethylsilicone  (gum  phase,  film  thickness  0.33 m).    Aliquots  of  labeled  and  non-labeled  compounds 
+were  mixed  and  lyophilized  in  glass  vials  to  dryness  for  18 h.    For  derivatization,  60 L  of  a  mixture  of 
+nitrogen-bubbled bis(trimethylsilyl)trifluoroacetic acid (BSTFA), containing 1 % trimethylchlorosilane and pyridine 
+(1:1, volume fractions) were added to the dried samples.  The vials were purged individually with ultra high-purity 
+nitrogen,  tightly  sealed  under  nitrogen  with  Teflon-coated  septa,  and  then  vortex-mixed.    The  derivatization  was 
+carried out at 120 °C for 30 minutes.  Aliquots of 2 μL of the derivatized samples were injected onto the GC column 
+by means of an automatic sampler (split mode) with a split ratio of 10 to 1.  The selected-ion monitoring mode was 
+used to monitor the characteristic ions of the trimethylsilyl (TMS) derivatives of Components 1 through 8 in their EI 
+mass  spectra  [1,7-10].    Table 4  shows  the  masses  of  the  characteristic  ions  of  the  TMS  derivatives  of  the 
+Components 1 through 10 and their unlabeled analogs that can be used for identification and quantification. 
+ 
+The mass ions of the TMS derivatives for Components 9 and 10 are included for use in quantification.  Component 9 
+quantitatively  yields  Gua-15N5  upon  acidic  hydrolysis  and  is  used  as  an  internal  standard  for  the  measurement  of 
+guanine in DNA by GC/MS, thus the amount of DNA [11].  Component 10 is used as an internal standard for the 
+measurement of 8-OH-dGuo in DNA by LC/MS after enzymatic hydrolysis of DNA [12], and for the measurement 
+of 8-OH-Gua in DNA by GC/MS after acidic hydrolysis of DNA [13]. 
+ 
+LC/MS:    The  concentrations  of  the  Components 9  and 10  were  determined  by  LC/MS  with  the  atmospheric 
+pressure  ionization-electrospray (API-ES)  process  in  the  positive  ionization  mode [12]  using  corresponding 
+non-labeled  analogs  as  internal  standards.    Separations  were  performed  using  a  Zorbax  Eclipse  XDB C18 
+reversed-phase  column  (15 cm × 0.21 cm  i.d.,  5 m  particle  size)  with  a  guard  column  packed  with  the  same 
+stationary  phase  (1 cm × 0.21 cm i.d.).    The  mobile  phase  used  was  a  gradient  of  0.5 %  of  solvent B  per  minute, 
+where  solvent A  was  a  mixture  of  water  and  acetonitrile  (98 %:2 %,  volume  fractions)  and  the  solvent  B  was 
+acetonitrile.  The flow rate was 0.2 mL/min.  The column temperature was held at 30 °C.  Selected-ion monitoring 
+mode was used to monitor the characteristic ions of the API-ES mass spectra of Components 9 and 10.  These mass 
++),  and  a  sodium  adduct 
+spectra  consist  of  a  protonated  molecular  ion (MH+),  a  base  ion  with  two  H  atoms  (BH2
+ion (MNa+) and are listed in Table 5 [12,14]. 
+ 
+
+ 
+
+SRM 2396 
+
+Page 4 of 6 
+
+Table 3.  Molecular Weights, Wavelength, Absorption Coefficients, and Techniques Used to Determine the 
+Concentration of SRM 2396 Components 
+ 
+
+ID 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Component 
+FapyAde-13C,15N2 
+FapyGua-13C,15N2 
+8-OH-Ade-13C,15N2 
+5-OH-Cyt-13C,15N2 
+5-OH-Ura-13C4,15N2 
+5-(OHMe)Ura-13C2, d2 
+ThyGly-d4 
+5-OH-5-MeHyd-13C,15N2 
+dGuo-15N5 
+
+10 
+
+ 
+8-OH-dGuo-15N5
+
+Molecular 
+Weight 
+
+156 
+
+172 
+
+154 
+
+130 
+
+134 
+
+146 
+
+164 
+
+133 
+
+272 
+
+288 
+
+Techniques Used 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, UV/vis, GC/MS 
+Gravimetric, GC/MS 
+Gravimetric, GC/MS 
+Gravimetric, UV/vis, LC/MS 
+
+Gravimetric, UV/vis, LC/MS 
+
+Wavelength 
+(nm) 
+
+Absorption 
+Coefficient 
+(L·mol–1·cm–1) 
+
+262 
+
+266 
+
+268 
+
+284 
+
+278 
+
+261 
+
+n/a 
+
+n/a 
+
+254 
+245 
+294 
+
+4710 [15] 
+
+12882 [15] 
+
+12200 [16] 
+5300(a) 
+6400 [17] 
+
+8100 [17] 
+
+n/a 
+
+n/a 
+
+13000 [17] 
+12300 [18](b)
+10300 [19] 
+
+(a) For component 4, the average of NIST-measured absorption coefficient values of the labeled component (5330 L·mol–1·cm–1) 
+
+and unlabeled component (5260 L·mol–1·cm–1) was used to calculate the concentration. 
+
+(b) There  are  two  absorption  maxima  for  Component 10.    The  concentration  for  Component 10  was  determined  using  the 
+
+absorption coefficient at 294 nm. 
+
+Table 4.  Ion Masses of GC/MS TMS Derivatives of Components 1 Through 10 and the Unlabeled Analogs (in 
+Parentheses) 
+
+ID 
+
+Component 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+FapyAde-13C,15N2 
+FapyGua-13C,15N2 
+8-OH-Ade-13C,15N2 
+5-OH-Cyt-13C,15N2 
+5-OH-Ura-13C4,15N2 
+5-(OHMe)Ura-13C2,d2 
+ThyGly-d4 
+5-OH-5-MeHyd-13C,15N2 
+dGuo-15N5
+(a) 
+8-OH-dGuo-15N5
+
+(b) 
+
+M+• 
+(Da) 
+
+[M-1]+ 
+(Da) 
+
+[M-15]+ 
+(Da) 
+
+372 (369) 
+
+371 (368) 
+
+357 (354) 
+
+346 (343) 
+
+345 (342) 
+
+331 (328) 
+
+350 (344) 
+
+349 (343) 
+
+335 (329) 
+
+460 (457) 
+
+370 (367) 
+
+362 (358) 
+
+452 (448) 
+
+372 (367) 
+
+460 (455) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+445 (442) 
+
+355 (352) 
+
+347 (343) 
+
+437 (433) 
+
+357 (352) 
+
+445 (440) 
+
+349 (346) 
+
+348 (345) 
+
+334 (331) 
+
+Fragment Ion 
+(Da) 
+
+283 (280) 
+
+371 (368) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+262 (259) 
+
+219 (216) 
+- 
+- 
+
+(a) Used for the measurement of Gua-15N5 after acidic hydrolysis of DNA samples to determine the amount of DNA [11].  The 
+
+masses of the M+• and [M-15]+ ions given here are for Gua-15N5. 
+
+(b) Used for the measurement of 8-OH-Gua-15N5 to determine the amount of 8-OH-Gua in DNA after acidic hydrolysis [12].  The 
+
+masses of the M+• and [M-15]+ ions given here are for 8-OH-Gua-15N5. 
+
+Table 5.  LC/MS Ion Masses of Components 9 and 10 and the Unlabeled Analogs (in Parentheses) 
+
+ID 
+
+9 
+
+10 
+
+Component 
+
+dGuo-15N5 
+8-OH-dGuo-15N5 
+
+ 
+
+ 
+
+MH+ 
+(Da) 
+
++ 
+BH2
+(Da) 
+
+MNa+ 
+(Da) 
+
+273 (268) 
+
+157 (152) 
+
+295 (290) 
+
+289 (284) 
+
+173 (168) 
+
+311 (306) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2396 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  Dizdaroglu, M.;  Chemical  Determination  of  Oxidative  DNA  Damage  by  Gas  Chromatography-Mass 
+
+Spectrometry; Methods Enzymol., Vol. 234, pp. 316 (1994). 
+
+[2]  Dizdaroglu, M.;  Jaruga, P.;  Birincioglu, M.;  Rodriguez, H.;  Free  Radical-Induced  Damage 
+
+to  DNA: 
+
+Mechanisms and Measurement; Free Radical Biol. Med., Vol. 32, pp. 11021115 (2002). 
+
+[4] 
+
+[3]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Apr 2012). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008); 
+available 
+(accessed 
+Apr 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST  Measurement  Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC 
+(1994); available at http://physics.nist.gov/Pubs/ (accessed Apr 2012). 
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+[5]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+at 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/index.cfm/ (accessed Apr 2012). 
+
+[6]  Nelson, V.C.;  Synthesis  of  Isotopically  Labeled  DNA  Degradation  Products  for  Use  in  Mass  Spectrometric 
+
+Studies of Cellular DNA Damage; J. Labeled Compd. Radiopharm., Vol. 38, pp. 713723 (1996). 
+
+[7]  Dizdaroglu, M.;  Quantitative  Determination  of  Oxidative  Base  Damage  in  DNA  by  Stable  Isotope-Dilution 
+
+Mass Spectrometry; FEBS Lett., Vol. 315, pp. 16 (1993). 
+
+[8]  Dizdaroglu,  M.;  The  Use  of  Capillary  Gas  Chromatography-Mass  Spectrometry  for  Identification  of 
+Radiation-Induced  DNA  Base  Damage  and  DNA  Base-Amino  Acid  Crosslinks;  J.  Chromatogr.,  Vol. 295, 
+pp. 103121 (1984). 
+
+[9]  Dizdaroglu, M.;  Application  of  Capillary  Gas  Chromatography-Mass  Spectrometry 
+
+to  Chemical 
+Characterization  of  Radiation-Induced  Base  Damage  of  DNA;  Implications  for  Assessing  DNA  Repair 
+Processes; Anal. Biochem., Vol. 144, pp. 593603 (1985). 
+
+[10]  Dizdaroglu, M.;  Gas  Chromatography-Mass  Spectrometry  of  Free  Radical-Induced  Products  of  Pyrimidines 
+
+and Purines in DNA; Methods Enzymol., Vol. 193, pp. 842857 (1990). 
+
+[11]  Sentürker, S.;  Dizdaroglu, M.;  The  Effect  of  Experimental  Conditions  on  the  Levels  of  Oxidatively  Modified 
+Bases  in  DNA  as  Measured  by  Gas  Chromatography-Mass  Spectrometry:    How  Many  Modified  Bases  are 
+Involved?  Prepurification or Not?; Free Radical Biol. Med., Vol. 27, pp. 370380 (1999). 
+
+[12]  Dizdaroglu, M.;  Jaruga, P.;  Rodriguez, H.;  Measurement  of  8-Hydroxy-2'-Deoxyguanosine  in  DNA  by 
+High-Performance  Liquid  Chromatography-Mass  Spectrometry:    Comparison  with  Measurement  by  Gas 
+Chromatography-Mass Spectrometry; Nucleic Acids Res., Vol. 29, e12 (2001). 
+
+[13]  Rodriguez, H.; Jurado, J.; Laval, J.; Dizdaroglu, M.; Comparison of the Levels of 8-Hydroxyguanine in DNA as 
+Measured by Gas Chromatography Mass Spectrometry Following Hydrolysis of DNA by Escherichia Coli Fpg 
+Protein or Formic Acid; Nucleic Acids Res., Vol. 28, e75 (2000). 
+
+[14]  Jaruga, P.; Birincioglu, M.; Rodriguez, H.; Dizdaroglu, M; Mass Spectrometric Assays for the Tandem Lesion 
+
+8,5'-cyclo-2'-Deoxyguanosine in Mammalian DNA; Biochemistry, Vol. 41, pp. 37033711 (2002). 
+
+[15]  Cavalieri, L.F.;  Bendich, A.;  The  Ultraviolet  Absorption  Spectra  of  Pyrimidines  and  Purines;  J.  Am.  Chem. 
+
+Soc., Vol. 72, pp. 25872594 (1950). 
+
+[16]  Frelon, S.;  Douki, T.;  Ravanat, J.L.;  Pouget, J.P.;  Tornabene, C.;  Cadet, J.;  High-Performance  Liquid 
+Chromatography-Tandem  Mass  Spectrometry  Measurement  of  Radiation-Induced  Base  Damage  to  Isolated 
+and Cellular DNA; Chem. Res. Toxicol., Vol. 13, pp. 10021010 (2000). 
+
+[17]  Fasman, G.D.; Handbook of Biochemistry and Molecular Biology; Vol. I; Boca Raton CRC Press, Inc.: Boca 
+
+Raton, FL (1983). 
+
+[18]  Kasai, H.; Nishimura, S.;  Hydroxylation of Deoxyguanosine at the C-8 Position by Ascorbic Acid and Other 
+
+Reducing Agents; Nucleic Acids Res., Vol. 12, pp. 21372145 (1984). 
+
+[19]  Hamberg, M.;  Zhang, L.-Y.;  Quantitative  Determination  of  8-Hydroxyguanine  and  Guanine  by  Isotope 
+
+Dilution Mass Spectrometry; Anal. Biochem., Vol. 229, pp. 336344 (1995). 
+
+ 
+Certificate Revision History:  10 April 2012 (Certified optical density value for Component 10 added, concentration value assignments updated 
+and changed from certified to information values, expiration date updated; editorial changes); 14 December 2004 (Original certificate date). 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 2396 
+
+Page 6 of 6 
+
+

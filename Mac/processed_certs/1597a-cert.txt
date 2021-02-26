@@ -1,0 +1,844 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 1597a 
+
+ 
+
+ 
+
+ 
+Complex Mixture of Polycyclic Aromatic Hydrocarbons from Coal Tar 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation and validation of analytical methods 
+for  the  determination  of  a  natural,  combustion-related  mixture  of  polycyclic  aromatic  hydrocarbons (PAHs).  
+SRM 1597a is isolated from a coal tar sample and dissolved in toluene.  It is suitable for direct analysis (i.e., without 
+sample  cleanup  or  concentration)  in  the  determination  of  PAHs  using  analytical  techniques  such  as  gas 
+chromatography (GC),  liquid  chromatography (LC),  or  gas  chromatography/mass  spectrometry (GC/MS).    This 
+SRM  may  also  be  used  to  evaluate  procedures  for  measurement  of  mutagenic  activity  of  combustion-related 
+mixtures of PAHs and related compounds.  A unit of SRM 1597a consists of one 5 mL ampoule, containing 1.3 mL 
+of material. 
+ 
+Certified Mass Fraction Values:  Certified values for concentrations, expressed as mass fractions, for 34 PAHs are 
+provided in Table 1.  The certified values are based on the agreement of results obtained at NIST from two or more 
+chemically  independent  analytical  techniques  [1,2].    A  NIST  certified  value  is  a  value  for  which  NIST  has  the 
+highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or accounted 
+for by NIST.  
+ 
+Reference Mass Fraction Values:  Reference values for concentrations, expressed as mass fractions, are provided 
+for 36 additional PAHs in Table 2 and for 10 polycyclic aromatic sulfur heterocycles (PASH) in Table 3.  Reference 
+values are given in Table 4 for the mutagenic activity of SRM 1597a.  Reference values are noncertified values that 
+are the best estimate of the true value.  However, the values do not meet the NIST criteria for certification and are 
+provided with associated uncertainties that may reflect only measurement precision, may not include all sources of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1597a  is  valid,  within  the  measurement  uncertainty 
+specified, until 01 October 2028, provided the SRM is handled and stored in accordance with the instructions given 
+in this certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is 
+damaged, contaminated, or modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur which affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The coordination of the technical measurements leading to the certification of this material was under the leadership 
+of M.M. Schantz and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+The preparation of SRM 1597a was performed by S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  for  the  certification  of  SRM  1597a  were  performed  by  A. Deissler,  M.J. Lopez de Alda, 
+S. Mössner,  D.L. Poster,  L.C. Sander,  M.M. Schantz,  P. Schubert,  and  S.A. Wise  of  the  NIST  Chemical  Sciences 
+Division. 
+ 
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 December 2012 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Director 
+Office or Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+SRM 1597a 
+
+ 
+
+Page 1 of 7 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material contains polycyclic aromatic hydrocarbon compounds (many of which have been reported 
+to have mutagenic and/or carcinogenic properties) in toluene and should be handled with care.  Use proper disposal 
+methods.  See Material Safety Data Sheet for safe handling instructions. 
+ 
+Storage:  The sealed ampoule, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Use:  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoule 
+and should be processed without delay for the certified values in Table 1 to be valid within the stated uncertainty.  
+Because of the volatility of toluene, certified values are not applicable to material stored in an ampoule that has been 
+opened for more than 5 min, even if it is resealed.  Material may be transferred to a vial that can be sealed to prevent 
+evaporation of the solvent. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample  Preparation:  The  coal  tar  used  in  the  preparation  of  SRM 1597a  is  a  medium  crude  coke  oven  tar.  
+Approximately  36 g  of  the  coal  tar  sample  was  processed  through  a  liquid  chromatographic  column  containing 
+attapulgus clay to remove the highly polar constituents in the sample.  The column was eluted with approximately 
+7 L  of  10 %  methylene  chloride  in  n-pentane,  and  the  eluant  was  collected  and  concentrated  until  a  thick  orange 
+syrup  remained.    This  material  was  then  dissolved  in  approximately  4.5 L  of  toluene  and  aliquoted  into  a  5 mL 
+amber ampoule.  An ampoule contains approximately 1.3 mL of solution, and the density of the solution at 23 °C is 
+approximately 0.866 g/mL.  This material was originally issued in 1988 as SRM 1597 [3].  
+ 
+Polycyclic  Aromatic  Hydrocarbons:    The  general  approach  used  for  the  value  assignment  of  the  PAHs  in 
+SRM 1597a is similar to that reported for the recent certification of several environmental matrix SRMs [4–8] and 
+consisted  of  combining  results  from  analyses  using  various  combinations  of  different  chromatographic  separation 
+and  detection  techniques.    The  methods  utilized  analysis  by  GC/MS  on  four  stationary  phases  of  different 
+selectivity,  i.e.,  a  5 %  (mole  fraction)  phenyl-substituted  methylpolysiloxane  phase,  a  50 %    phenyl-substituted 
+methylpolysiloxane phase,  a  relatively  non-polar  proprietary  phase,  and a  liquid  crystalline  phase  and  analysis  by 
+liquid chromatography with fluorescence detection (LC-FL). 
+ 
+Seven sets of GC/MS results, designated as GC/MS (Ia), (Ib), (IIa), (IIb), (IIIa), (IIIb), and (IV) were obtained using 
+four columns with different selectivities for the separation of PAHs.  For the GC/MS (Ia), (Ib), (IIa), (IIb), (IIIa), and 
+(IIIb) analyses, subsamples of approximately 0.5 mL (exact mass known) were used for analysis.  For GC/MS (IV), 
+subsamples of approximately 0.25 mL (exact mass known) were used for analysis.  For methods GC/MS (Ia), (Ib), 
+(IIIa), and (IIIb), the samples were analyzed without a pretreatment step.  For methods GC/MS (IIa) and (IIb), the 
+coal  tar  samples  were  fractionated  on  a  semi-preparative  aminopropylsilane  column  (μBondapak  NH2, 
+9 mm i.d.  30 cm, Waters Associates, Milford, MA) to isolate isomeric PAH fractions as described [3,9–11]. 
+ 
+The  samples  were  then  analyzed  by  GC/MS  using  the  following  methods.    Methods  designated  as  GC/MS (Ia), 
+GC/MS (IIa), GC/MS (IIIa), and GC/MS (IV) used a 0.25 mm i.d.  60 m fused silica capillary column with 50 % 
+(mole fraction) phenyl-substituted methylpolysiloxane phase (0.25 μm film thickness) (DB-17MS, J&W Scientific, 
+Folsom, CA).    For  GC/MS (Ib),  samples  were  analyzed  by  GC/MS  using  a  0.25 mm  i.d.  15 m  fused  silica 
+capillary column with dimethyl 50 % (mole fraction) liquid crystalline polysiloxane phase (0.25 μm film thickness) 
+(LC-50,  J&K  Environmental,  Sydney,  Nova  Scotia, Canada).    The  GC/MS (IIb)  analyses  were  performed  using  a 
+0.25 mm i.d.  60 m fused silica capillary column with 5 % (mole fraction) phenyl-substituted methylpolysiloxane 
+phase  (0.25 μm  film  thickness)  (DB-5MS,  J&W  Scientific,  Folsom, CA).    The  GC/MS (IIIb)  analyses  were 
+performed  using  0.25 mm  i.d.  60 m  fused  silica  capillary  column  with  a  relatively  non-polar  proprietary  phase 
+(0.25 μm film thickness) (DB-XLB, J&W Scientific, Folsom, CA). 
+ 
+For the GC/MS measurements described above, selected perdeuterated PAHs were added to the coal tar for use as 
+internal standards for quantification purposes. 
+
+                                                           
+ 
+
+(1) Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 1597a 
+
+Page 2 of 7 
+
+ 
+
+the  other  containing 
+
+the  dibenzothiophenes  and 
+
+ 
+In addition to the GC/MS methods, one LC-FL method was used [11] for the determination of PAHs of molecular 
+mass 278 and 302.  For the LC-FL method, subsamples of 1 mL from four ampoules were spiked with an internal 
+standard  solution  containing  selected  perdeuterated  PAHs.    These  samples  were  fractionated  using  the 
+semi-preparative aminopropylsilane column described above.  The reversed-phase LC analyses of the fractions were 
+performed on a polymeric C18 column (Vydac 201TP, The Separations Group, Hesperia, CA). 
+ 
+Polycyclic  Aromatic  Sulfur  Heterocycles:    The  methods  used  for  the  value  assignment  of  the  PASHs  in 
+SRM 1597a  are  summarized  in  detail  in  Mössner  and  Wise [12].    In  summary,  1 g  samples  of  SRM 1597a  were 
+diluted  in  dichloromethane (DCM),  perdeuterated  internal  standard  solutions  were  added,  and  the  mixtures  were 
+sonicated.  These samples were fractionated using the semi-preparative aminopropylsilane column described above.  
+Two  subfractions  were  collected,  one  containing 
+the 
+benzonaphthothiophenes.  The samples were then analyzed by GC with atomic emission detection (GC-AED) and 
+GC/MS  using  a  0.25 mm i.d.  60  m  fused  silica  capillary  column  with  5 %  (mole  fraction)  phenyl-substituted 
+methylpolysiloxane  phase  (0.25 μm  film  thickness)  (DB-5MS)  and  a  0.25 mm i.d.   60 m  fused  silica  capillary 
+column  with  50 %  (mole  fraction)  phenyl-substituted  methylpolysiloxane  phase  (0.25 μm  film  thickness) 
+(DB-17MS). 
+ 
+Mutagenic Activity of SRM 1597a:  The reference values for the mutagenic activity of this SRM were determined 
+as  part  of  an  international  collaborative  study  sponsored  by  the  International  Programme  on  Chemical  Safety 
+(IPCS).    The  IPCS  study  is  jointly  sponsored  by  the  World  Health  Organization (WHO),  the  United  Nations 
+Environmental  Programme (UNEP),  and  the  International  Labor  Organization  (ILO).    The  program  was  initiated, 
+supported, and technically coordinated by the U.S. Environmental Protection Agency’s Office of Health Research.  
+Twenty  laboratories  from  North  America,  Europe,  and  Japan  participated  in  the  study  for  which  a  complete 
+summary is available in references 13 and 14.  As part of the protocol, each laboratory solvent-exchanged an aliquot 
+of  SRM 1597a  into  dimethylsulfoxide  prior  to  Salmonella/mammalian  microsomal  plate-incorporation  bioassay 
+using strains TA98 and TA100 [15]. 
+ 
+The  suggested  bioassay  reference  values  are  given  in  Table 4  in  both  rev/µL  and  rev/mg  units.    Two  types  of 
+reference values are provided.  The first value is the best estimate of the mutagenic activity from the data available 
+for a methylene chloride extract of SRM 1597a using the protocol specified for the IPCS collaborative study.  For 
+the reference values to apply, the bioassay procedure should follow the Salmonella typhimurium plate incorporation 
+protocol as described by Marion and Ames [15] and adhere to the guidelines published by Claxton et al. [16].   
+ 
+The uncertainty in the mutagenic activity, expressed as the 95 % confidence limits about mean potency value, takes 
+into account both between- and within-laboratory sources of variation.  While these confidence limits represent the 
+uncertainty  for  the  best  estimate  of  the  mutagenic  activity  of  SRM 1597a,  they  do  not  reflect  the  variation  in  the 
+values reported by individual participating laboratories.  They also do not represent the range of mutagenic activity 
+values  from  other  laboratories  using  the  protocol  of  Maron  and  Ames [15]  with  some  additional  constraints [17].  
+Tolerance  (prediction  or  control)  limits [18]  are  provided  to  characterize  differences  in  the  mutagenic  activity 
+reported by the 20 laboratories that participated in the IPCS interlaboratory study and to establish a target range for 
+other laboratories that analyze SRM 1597a using the modified Maron and Ames protocol.  Additionally, to assess 
+values using the tolerance limits given, data should be treated using the same or very similar statistical methods as 
+those used in this study [19,20]. 
+ 
+The  “80 %  Tolerance  Limits”  is  the  range  within  which  80 %  of  the  mutagenic  activity  values  reported  in  the 
+interlaboratory study are expected to reside.  These limits may be used by all laboratories using the IPCS Salmonella 
+bioassay  protocol  to  determine  if  their  findings  are  consistent  with  those  reported  for  the  20 laboratories  that 
+participated  in  the  IPCS  study.    Although  these  laboratories  may  not  be  representative  of  all  laboratories  that 
+conduct  the  Salmonella  bioassay,  the  tolerance  limits  given  do  provide  a  range  of  values  that  all  laboratories 
+following the IPCS protocol should strive to obtain.  The first set of tolerance limits given are for laboratories that 
+use the same number of replicate extractions and bioassays as was performed in the IPCS collaborative study.  The 
+second set of tolerance limits, which are slightly wider, apply to the case where only a single extraction and bioassay 
+is performed. 
+ 
+
+ 
+
+SRM 1597a 
+
+ 
+
+Page 3 of 7 
+
+Table 1.  Certified Mass Fractions for Selected PAHs in SRM 1597a 
+
+ 
+
+ 
+
+Naphthalene(c,d,e,f) 
+Biphenyl(c,d,e,f) 
+Acenaphthylene(c,d,e,f) 
+Acenaphthene(c,d,e,f) 
+Fluorene(c,d,e,f) 
+Phenanthrene(c,d,e,f,g) 
+Anthracene(c,d,e,f,g) 
+3-Methylphenanthrene(c,d,e,f,g) 
+2-Methylphenathrene(c,d,e,f,g) 
+9-Methylphenanthrene(c,d,f) 
+1-Methylphenanthrene(c,d,e,f,g) 
+Fluoranthene(c,d,e,f,g) 
+Pyrene(c,d,e,f,g) 
+Benzo[ghi]fluoranthene(c,f,g) 
+Benzo[c]phenanthrene(c,d,e,f,g) 
+Benz[a]anthracene(c,d,e,f,g) 
+Chrysene(g,h) 
+Triphenylene(g,h) 
+Benzo[b]fluoranthene(c,d,f,g) 
+Benzo[j]fluoranthene(c,d,f) 
+Benzo[k]fluoranthene(c,d,e,f,g) 
+Benzo[e]pyrene(c,d,e,f,g) 
+Benzo[a]pyrene(c,d,e,f,g) 
+Perylene(c,d,e,f,g) 
+Benzo[ghi]perylene(c,d,e,f,g,j) 
+Indeno[1,2,3-cd]pyrene(c,d,e,f,g) 
+Dibenz[a,j]anthracene(c,e,f,g,i) 
+Dibenz[a,c]anthracene(c,f,g,i) 
+Dibenz[a,h]anthracene(c,d,f,g,i) 
+Benzo[b]chrysene(c,d,e,f,g,i) 
+Picene(c,d,e,f,g,i) 
+Dibenzo[b,k]fluoranthene(c,f,i,j) 
+Dibenzo[a,e]pyrene(c,f,i,j) 
+Dibenzo[a,h]pyrene(c,f,g,i,j) 
+
+Mass Fraction 
+(mg/kg)(a) 
+
+1030 
+
+  100 
+
+27.6   
+ 
+263 
+7.63   
+145 
+ 
+454 
+ 
+107 
+ 
+15.8   
+19.1   
+5.31   
+9.23   
+327 
+ 
+240 
+ 
+13.5   
+11.0   
+98.1   
+66.2   
+12.1   
+66.1   
+36.5   
+41.2   
+50.4   
+93.5   
+24.6   
+50.5   
+55.5   
+6.80   
+4.35   
+6.93   
+10.8   
+6.59   
+11.2   
+9.08   
+2.57   
+
+0.4 
+7 
+0.26 
+4 
+7
+3 
+0.8 
+1.1 
+0.50(b) 
+0.22 
+7 
+7 
+0.2(b) 
+0.5 
+2.3 
+5.3(b) 
+0.6(b) 
+4.4 
+2.4(b) 
+0.4 
+1.0 
+1.4 
+0.9 
+0.6 
+0.8 
+0.46 
+0.21 
+0.40 
+0.4 
+0.22 
+0.8 
+0.39 
+0.30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+(a) Certified values are weighted means of the results from four to six analytical methods [21].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence),  except  for 
+benzo[k]fluoranthene  for  which  a  coverage  factor  of  8  was  used,  calculated  by  combining  a  between-method  variance 
+incorporating between-method bias with a pooled within-source variance following the ISO Guide [2]. 
+
+(b) Certified  values  are  unweighted  means  of  the  results  from  two  or  three  analytical  methods.    The  uncertainty  listed  with  the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2,  calculated  by  combining  a  between-method 
+variance [22] with a pooled, within-method variance following the ISO Guide [2]. 
+
+(c) GC/MS (Ia) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(d) GC/MS (IIa) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(e) GC/MS (IIb) on a 5 % phenyl-substituted methylpolysiloxane phase. 
+(f) GC/MS (IIIa) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(g) GC/MS (Ib) dimethyl 50 % liquid crystalline polysiloxane phase.  
+(h) GC/MS (IIIb) on a relatively non-polar proprietary phase. 
+(i)  LC-FL.  
+(j)  GC/MS (IV) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+ 
+
+ 
+
+SRM 1597a 
+
+ 
+
+Page 4 of 7 
+
+Table 2.  Reference Mass Fractions for Selected PAHs in SRM 1597a 
+
+ 
+
+ 
+
+1-Methylnaphthalene(c,d,e,f) 
+2-Methylnaphthalene(c,d,e,f) 
+2,6-Dimethylnaphthalene(c,d,e) 
+2-Methylanthracene(c,g) 
+4-Methylphenanthrene(c,d) 
+1,7-Dimethylphenanthrene(c,g)
+2,6-Dimethylphenanthrene(d,e)
+2,7-Dimethylphenanthrene(d,e)
+3,9-Dimethylphenanthrene(d,e)
+1,8-Dimethylphenanthrene(d,e)
+4-Methylpyrene(c,d,e,g) 
+1-Methylpyrene(d,e.g) 
+2-Methylpyrene(c,d,e) 
+8-Methylfluoranthene(c,d,e) 
+3-Methylchrysene(c,g) 
+Dibenzothiophene(c,f) 
+4H-cyclopenta[def]phenanthrene(c,f) 
+Cyclopenta[cd]pyrene(c,d,e,g) 
+Benzo[a]fluoranthene(c,d,e,f)
+Pentaphene(d,e,h) 
+Anthanthrene(c,f,g) 
+Coronene(c,e,i) 
+Dibenzo[b,e]fluoranthene(c,g,i) 
+Naphtho[1,2-b]fluoranthene(c,f,g,i) 
+Naphtho[1,2-k] fluoranthene(c,f,h,i) 
+Naphtho[2,3-b]fluoranthene(c,f,h,i) 
+Dibenzo[a,k]fluoranthene(c,f,g,i) 
+Dibenzo[j,l]fluoranthene(c,f,g,i) 
+Dibenzo[a,l]pyrene(c,i) 
+Naphtho[2,3-e]pyrene(c,f,h,i) 
+Naphtho[2,1-a]pyrene(c,g,i) 
+Dibenzo[e,l]pyrene(c,g,i) 
+Naphtho[2,3-a]pyrene(c,f,g,h,i) 
+Benzo[b]perylene(f,g,i) 
+Naphtho[2,3-k]fluoranthene(g,h,i)
+Dibenzo[a,i]pyrene(f,g,h,i) 
+
+Mass Fraction 
+(mg/kg) 
+
+  1.8(a) 
+43.9 
+  2.9(a) 
+95.0 
+5.75    0.63(b) 
+  0.2(b) 
+10.4 
+1.04    0.13(b) 
+1.43    0.10(b) 
+1.06    0.24(b) 
+0.99    0.23(b) 
+2.51    0.39(b) 
+0.26    0.05(b) 
+5.13    0.36(a) 
+  1.1(b) 
+4.6 
+  2.1(b) 
+9.0 
+6.33    0.78(b) 
+2.57    0.03(b) 
+  0.4(b) 
+17.7 
+  4.5(b) 
+52.4 
+  3.4(a) 
+37.6 
+  4.9(a) 
+20.5 
+  1.5(b) 
+4.6 
+  1.4(b) 
+26.6 
+  1.8(b) 
+8.7 
+0.98    0.02(b) 
+  2.0(a) 
+8.6 
+  1.2(a) 
+10.7 
+3.52    0.30(a) 
+3.21    0.31(a) 
+  1.4(a) 
+6.5 
+1.12    0.17(b) 
+4.31    0.44(a) 
+  0.9(b) 
+10.2 
+2.72    0.17(b) 
+4.29    0.89(a) 
+9.04    0.99(b) 
+2.07    0.06(b) 
+3.87    0.34(a) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+(a) Reference values are weighted means of the results from four to six analytical methods [21].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  calculated  by 
+combining a between-method variance incorporating between-method bias with a pooled within-source variance following the 
+ISO Guide [2]. 
+
+(b) Reference values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2,  calculated  by  combining  a  between-method 
+variance [22] with a pooled, within-method variance following the ISO Guide [2]. 
+
+(c) GC/MS (Ia) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(d) GC/MS (IIa) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(e) GC/MS (IIb) on a 5 % phenyl-substituted methylpolysiloxane phase. 
+(f) GC/MS (IIIa) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(g) GC/MS (Ib) dimethyl 50 % liquid crystalline polysiloxane phase.  
+(h) LC-FL.  
+(i)  GC/MS (IV) on a 50 % phenyl-substituted methylpolysiloxane phase. 
+
+SRM 1597a 
+
+ 
+
+Page 5 of 7 
+
+ 
+
+ 
+
+Table 3.  Reference Mass Fractions for Selected PASHs in SRM 1597a 
+
+ 
+
+Naphtho[1,2-b]thiophene(b,c) 
+Naphtho[2,1-b]thiophene(b,d) 
+Naphtho[2,3-b]thiophene(b,d) 
+4-Methyldibenzothiophene(b,c,d,e) 
+2-Methyldibenzothiophene(b,c,d,e) 
+3-Methyldibenzothiophene(b,c) 
+1-Methyldibenzothiophene(b,c,d,e) 
+Benzo[b]naphtho[2,1-d]thiophene(b,c,d,e) 
+Benzo[b]naphtho[1,2-d]thiophene(b,c,d,e) 
+Benzo[b]naphtho[2,3-d]thiophene(b,c,d,e) 
+
+Mass Fraction 
+(mg/kg)(a) 
+
+8.0 
+ 
+6.05   
+2.87   
+1.37   
+1.57   
+0.94   
+0.28   
+10.1 
+ 
+2.41   
+3.68   
+
+2.0 
+0.21 
+0.56 
+0.08 
+0.43 
+0.12 
+0.04 
+0.42 
+0.21 
+0.59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Strain/ 
+Activation 
+
+TA100, +59 
+ 
+ 
+TA98, +59 
+
+ 
+
+observations. 
+
+ 
+(a) Reference  values  are  unweighted  means  of the results  from  two  to  four  analytical  methods.   The  uncertainty listed  with  the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2,  calculated  by  combining  a  between-method 
+variance [22] with a pooled, within-method variance following the ISO Guide [2]. 
+
+(b) GC/MS on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(c) GC-AED on a 50 % phenyl-substituted methylpolysiloxane phase. 
+(d) GC/MS on a 5 % phenyl-substituted methylpolysiloxane phase. 
+(e) GC-AED on a 5 % phenyl-substituted methylpolysiloxane phase. 
+ 
+ 
+
+Table 4.  Reference Values(a) for the Mutagenic Activity of SRM 1597a 
+
+ 
+Mutagenic 
+Activity(b) 
+
+144 rev/µL 
+166 rev/mg 
+
+ 
+
+60 rev/µL 
+69 rev/mg 
+
+ 
+95 % Confidence
+Limits(c) 
+
+80 % Tolerance Limits 
+
+Multiple Extraction 
+Bioasssy(d) 
+
+Single Extraction 
+Bioassay(e) 
+
+100 – 208 
+116 – 240 
+ 
+46 – 79 
+53 – 91 
+
+51 – 411 
+59 – 475 
+ 
+28 – 132 
+32 – 153 
+
+50 – 416 
+58 – 481 
+ 
+26 – 137 
+30 – 158 
+
+ 
+(a) Doses for IPCS collaborative study were 0.625 µL, 1.25 µL, 2.5 µL, 4.0 µL, and 5.0 µL of SRM 1597a solution. 
+(b) Geometric  mean  of  all  replicate  mutagenic  activity  values  reported  by  participating  laboratories  after  excluding  outlying 
+
+(c) Calculated on a logarithmic scale taking into account both between- and within-laboratory variation, excluding outliers, and 
+
+re-expressed in the original scale by taking antilogs. 
+
+(d) Tolerance limits for mutagenic activity in a single laboratory using the same number of replicate extractions/bioassays as in the 
+
+IPCS collaborative study. 
+
+(e) Tolerance limits for mutagenic activity in a single laboratory using only one replicate extraction/bioassay. 
+ 
+ 
+
+REFERENCES 
+
+Government 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.;  Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST 
+for 
+Value-Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136; 
+U.S. 
+at 
+http://www.nist.gov/srm/publications.cfm (accessed Dec 2012) 
+JCGM  100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) 
+(2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed 
+Dec 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Dec 2012). 
+
+Washington, DC 
+
+available 
+
+Printing 
+
+(2000); 
+
+Office: 
+
+[2] 
+
+[3]  Wise, S.A.;  Benner, B.A., Jr.;  Byrd, G.D.;  Chesler, S.N.;  Rebbert, R.E.;  Schantz, M.M.;  Determination  of 
+Polycyclic Aromatic Hydrocarbons (PAH) in Standard Reference Material (SRM) 1597 Complex Mixture of 
+PAH from Coal Tar; Anal. Chem., Vol. 60, pp. 887894 (1988). 
+
+SRM 1597a 
+
+ 
+
+Page 6 of 7 
+
+[4] 
+
+Poster, D.L.; Schantz, M.M.; Kucklick, J.R.; Lopez de Alda, M.J.; Porter, B.J.; Pugh, R.; Wise, S.A.; Three 
+New Mussel Tissue Standard Reference Materials (SRMs) for the Determination of Organic Contaminants; 
+Anal. Bioanal. Chem., Vol. 378, pp. 12131231 (2004). 
+
+[5]  Wise, S.A.;  Poster, D.L.;  Schantz, M.M.;  Kucklick, J.R.;  Sander, L.C.;  Lopez  de  Alda, M.;  Schubert, P.; 
+Parris, R.M.;  Porter, B.J.;  Two  New  Marine  Sediment  Standard  Reference  Materials  (SRMs)  for  the 
+Determination of Organic Contaminants; Anal. Bioanal. Chem., Vol. 378, pp. 12511264 (2004).  
+Schantz, M.M.; Benner, B.A., Jr.; Hays, M.J.; Kelly, W.R.; Vocke, R.D., Jr.; Demiralp, R.; Greenberg, R.R.; 
+Schiller, S.B.;  Lauenstein, G.G.;  Wise, S.A.;  Certification  of  Standard  Reference  Material  (SRM)  1941a, 
+Organics in Marine Sediment; Fresenius’ J. Anal. Chem., Vol. 352, pp. 166173 (1995). 
+
+[6] 
+
+[7]  Wise, S.A.;  Sander, L.C.;  Schantz, M.M.;  Hays, M.J.;  Benner, B.A., Jr.;  Recertification  of  Standard 
+Reference  Material  (SRM)  1649,  Urban  Dust,  for  the  Determination  of  Polycyclic  Aromatic  Hydrocarbons 
+(PAHs); Polycyclic Aromat. Compd.; Vol. 13, pp. 419456 (2000). 
+Schubert, P.; Schantz, M.M.; Sander, L.C.; Wise, S.A.; Determination of Polycyclic Aromatic Hydrocarbons 
+with  Molecular  Weight  300  and  302  in  Environmental-Matrix  Standard  Reference  Materials  by  Gas 
+Chromatography/Mass Spectrometry; Anal. Chem., Vol. 75, pp. 234246 (2003). 
+
+[8] 
+
+[9]  Wise, S.A.; Chesler, S.N.; Hertz, H.S.; Hilpert, L.R.; May, W.E.; Chemically-Bonded Aminosilane Stationary 
+the  High  Performance  Liquid  Chromatographic  Separation  of  Polynuclear  Aromatic 
+
+for 
+
+Phase 
+Hydrocarbons; Anal. Chem., Vol. 49, pp. 23062310 (1977). 
+
+[10]  May, W.E.; Wise, S.A.; Liquid Chromatographic Determination of Polycyclic Aromatic Hydrocarbons in Air 
+
+Particulate Extracts; Anal. Chem., Vol. 56, pp. 225232 (1984). 
+
+[11]  Wise, S.A.;  Deissler, A.;  Sander, L.C.;  Liquid  Chromatographic  Determination  of  Polycyclic  Aromatic 
+Hydrocarbon  Isomers  of  Molecular  Weight  278  and  302  in  Environmental  Standard  Reference  Materials; 
+Polycyclic Aromat. Compd., Vol. 3, pp. 169184 (1993). 
+
+[12]  Mössner, S.G.; Wise, S.A.; Determination of Polycyclic Aromatic Sulfur Heterocycles in Fossil Fuel-Related 
+
+Samples; Anal. Chem., Vol. 71, pp. 5869 (1999). 
+
+[13]  Lewtas, J.;  Claxton, L.D.;  Rosenkranz, H.S.;  Schuetzle, D.;  Shelby, M.;  Matsushita, H.;  Wurgler, F.E.; 
+Zimmerman, F.K.;  LoFroth, G.;  May, W.E.;  Krewski, D.;  Matsushima, T.;  Ohnishi, Y.;  Gopalan, H.N.G.; 
+Sarin, R.;  Becking, G.C.;  Design  and  Implementation  of  a  Collaborative  Study  of  the  Mutagenicity  of 
+Complex Mixtures in Salmonella Typhimurium; Mutat. Res.; Vol. 276, pp. 39 (1992). 
+
+[14]  Claxton, L.D.;  Douglas, G.;  Krewski, D.;  Lewtas, J.;  Matsushita, H.;  Rosencrantz, H.;  Overview, 
+Conclusions, and Recommendations of the IPCS Collaborative Study on Complex Mixtures; Mutat. Res.; 
+Vol. 276, pp. 6180 (1992). 
+
+[15]  Maron, D.;  Ames, B.;  Revised  Methods  for  the  Salmonella  Mutagenicity  Test;  Mutat.  Res.;  Vol. 113, 
+
+pp. 173212 (1983). 
+
+[16]  Claxton, L.D.;  Allen, J.;  Augletta, A.;  Mortemans, K.;  Nestman, E.;  Zeiger, E.;  Guide  for  the  Salmonella 
+Typhimurium/Mammalian  Micromsome  Tests  for  Bacterial  Mutagenicity;  Mutat.  Res.;  Vol. 189,  pp. 8391 
+(1987). 
+
+[17]  Claxton, L.D;  Creason, J.;  Leroux, B.;  Agurell, E.;  Bagley, S.;  Bryant, D.;  Courtois, Y.;  Douglas, G.; 
+Clare, C.;  Goto, S.;  Quillarder, P.;  Jagannath, D.;  Mohn, G.;  Nielsen, P.;  Onishi, Y.;  Ong, T.;  Pederson, T.; 
+Shimizu, H.;  Nylund, L.;  Tokiwa, H.;  Vink, I.G.R.;  Wang, Y.;  Warshawski, D.;  Results  of  the  IPCS 
+Collaborative Study on Complex Mixtures; Mutat. Res.; Vol. 276, pp. 2332 (1992).  
+
+[18]  Duncan, A.J.;  Quality  Control  and  Industrial  Statistics;  Fourth  ed.,  Richard  D. Irwin, Inc.:    Homewood, IL 
+
+(1974). 
+
+[19]  Krewski, D.;  Leroux, B.G.;  Bleuer, S.R.;  Broekhoven, L.H.;  Modeling  the  Ames  Salmonella/Microsome 
+
+Assay; Biometrics; Vol. 49, pp. 499510 (1993). 
+
+[20]  Krewski, D.;  Leroux, B.;  Creason, J.;  Claxton, L.D.;  Sources  of  Variation  in  the  Mutagenic  Potency  of 
+Complex  Chemical  Mixtures  Based  on  the  Salmonella/Microsome  Assay;  Mutat.  Res.;  Vol. 276,  pp. 3359 
+(1992). 
+
+[21]  Ruhkin, A.L.; Vangel, M.G.; Estimation of a Common Mean and Weighted Means Statistics;  J. Am. Statist. 
+
+Assoc.; Vol. 93, pp. 303308 (1998). 
+
+[22]  Levenson, M.S.;  Banks, D.L.;  Eberhardt, K.R.;  Gill, L.M.;  Guthrie, W.F.;  Liu, H.-k.;  Vangel, M.G.; 
+Yen, J.H.;  Zhang, N.F.;  An  Approach  to  Combining  Results  from  Multiple  Methods  Motivated  by  the  ISO 
+GUM; J. Res. Natl. Inst. Stand. Technol.; Vol. 105, pp. 571579 (2000).  
+
+ 
+Certificate  Revision  History:    17 December 2012  (Changed  unit  size;  extended  certification  period;  editorial  changes);  09 November 2012 
+(Correction of density value; editorial changes); 06 February 2006 (Original certificate date). 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 1597a 
+
+ 
+
+Page 7 of 7 
+
+

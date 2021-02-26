@@ -1,0 +1,822 @@
+﻿Date of Issue: 
+06 December 2019 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2270 
+Perdeuterated PAH-II Solution in Hexane/Toluene 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  as  an  internal  standard,  or  surrogate 
+internal standard, solution that is used to spike both the unknown sample and the calibration or external standard 
+solution  of  non-labeled  PAHs.    A  unit  of  SRM 2270  consists  of  five  2 mL  ampoules,  each  containing 
+approximately  1.2 mL  of  a  solution  of  six  perdeuterated  polycyclic  aromatic  hydrocarbons (PAHs)  in 
+hexane/toluene (96:4 volume fraction). 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  https://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+ 
+ 
+ 
+
+ 
+
+Label Elements 
+Symbol  
+
+Category 2 
+Category 2 
+
+Flammable liquid 
+Skin Corrosion/Irritation 
+Serious Eye damage/Eye irritation  Category 2B 
+Reproductive Toxicity 
+STOT, Single Exposure 
+STOT, Repeated Exposure  
+Aspiration Hazard 
+
+Category 2 
+Category 3 
+Category 2 
+Category 1 
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s)  
+H225 
+ 
+H305 
+H315+H320 
+H336 
+H361 
+H373 
+
+ 
+
+ 
+
+Highly flammable liquid and vapor. 
+
+May be fatal if swallowed and enters airways. 
+Causes skin and eye irritation. 
+May cause drowsiness or dizziness. 
+Suspected of damaging fertility or the unborn child. 
+May cause damage to organs (eyes, skin, respiratory system, central nervous system, liver, 
+kidneys) through prolonged or repeated exposure (inhalation, ingestion, skin contact). 
+
+SRM 2270 
+
+ 
+
+Page 1 of 7 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Keep away from heat, sparks, open flames or hot surfaces.  No smoking. 
+Use explosion-proof electrical ventilating and lighting equipment. 
+Use only non-sparking tools. 
+Take precautionary measures against static discharge. 
+Do not breathe fumes, mist, vapors or spray. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+If swallowed: Immediately call a doctor. 
+If on skin (or hair): Take off immediately all contaminated clothing.   Rinse skin with water. 
+If  inhaled:  Remove  victim  to  fresh  air  and  keep  at  rest  in  a  position  comfortable  for 
+breathing. 
+If  in  eyes:  Rinse  cautiously  with  water  for  several  minutes.    Remove  contact  lenses,  if 
+present and easy to do.  Continue rinsing. 
+IF exposed or concerned:  Get medical attention. 
+Do NOT induce vomiting. 
+Take off contaminated clothing and wash it before reuse. 
+
+Precautionary Statement(s) 
+P201 
+P202 
+P210 
+P241 
+P242 
+P243 
+P260 
+P264 
+P270 
+P280 
+ 
+P301+P310 
+P303+P361+P353 
+P304+P340 
+
+P305+P351+P338 
+
+P308+P313 
+P331 
+P362+P364 
+ 
+P403+P233 
+P405 
+ 
+P501 
+
+Store in a well-ventilated place.  Keep container tightly closed. 
+Store locked up. 
+
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Hexane/Toluene with trace amounts of perdeuterated PAHs.  
+
+Other Designations: 
+  Hexane (hexyl hydride; normal hexane; n-hexane) 
+  Toluene (methylbenzene; toluol; 1-methylbenzene; methylbenzol; phenylmethane; methyl benzene) 
+
+NOTE:  This material is a complex mixture that has not been tested as a whole.  The material contains trace amounts 
+of perdeuterated PAHs, which have been reported to have toxic, mutagenic, and/or carcinogenic properties, and should 
+be handled with care.  The components  listed below are  in  compliance with OSHA’s 29 CFR 1910.1200; for  the 
+actual values of components, see the Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Concentration 
+(%) 
+
+110-54-3 
+
+203-777-6 
+
+108-88-3 
+
+203-625-9 
+
+ 
+
+ 
+
+96 
+
+4 
+
+Hexane 
+
+Toluene 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get immediate medical attention.  Thoroughly clean and dry contaminated clothing before reuse. Destroy 
+contaminated shoes. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+SRM 2270 
+
+ 
+
+Page 2 of 7 
+
+Ingestion:  Aspiration hazard!  Do not induce vomiting.  If vomiting occurs, keep head lower than hips to help 
+prevent aspiration.  Get immediate medical attention.  Give artificial respiration if not breathing. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    Respiratory  tract,  skin,  and  eye  irritation;  aspiration 
+hazard, nervous system depression, and nerve damage. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at distant 
+ignition sources and flash back.  Vapor/air mixtures are explosive.  Electrostatic discharges may be generated by flow 
+or agitation resulting in ignition or explosion.  See Section 9, “Physical and Chemical Properties” for flammability 
+properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition products: oxides of carbon, hydrocarbons. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)  
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 3 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Avoid heat, flames, sparks and other 
+sources of ignition.  Stop leak if possible without personal risk.  Immediately contact emergency personnel, Isolate 
+hazard area, and deny entry.  Reduce vapors with water spray.  Use suitable protective equipment; see Section 8, 
+“Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel 
+of spills.  Absorb with sand or other non-combustible material.  Collect spilled material in appropriate container for 
+disposal.  Avoid and remove sources of ignition.  Keep out of water supplies and sewers. 
+
+7.  HANDLING AND STORAGE 
+
+Safe  Handling  Precautions:    Open  glass  ampoules  carefully  to  prevent  contamination  and  injury.    See  Section 8, 
+“Exposure Controls and Personal Protection”. 
+
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C.  Store and 
+handle  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from  incompatible  substances 
+(oxidizing materials, halogens, combustible materials, acids, metal salts). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Hexane: 
+
+3960 mg/m3; 1100 ppm (IDLH, 10 % LEL) 
+
+NIOSH (REL):  180 mg/m3; 50 ppm (TWA) 
+ 
+ACGIH (TLV):  180 mg/m3; 50 ppm (TWA) 
+ 
+OSHA (PEL):  1800 mg/m3; 500 ppm (TWA) 
+
+Toluene: 
+
+NIOSH (REL):  375 mg/m3; 100 ppm (TWA) 
+560 mg/m3; 150 ppm (STEL) 
+ 
+1885 mg/m3; 500 ppm (IDLH) 
+ 
+ACGIH (TLV):  75 mg/m3; 20 ppm (TWA) 
+750 mg/m3; 200 ppm (TWA) 
+OSHA (PEL): 
+1130 mg/m3; 300 ppm (Ceiling) 
+ 
+
+Skin - potential significant contribution to overall exposure by the cutaneous route. 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+SRM 2270 
+
+ 
+
+Page 3 of 7 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily 
+available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being 
+performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties: 
+
+ 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate (butyl acetate = 1): 
+Melting point/freezing point (ºC): 
+Sublimation Point (ºC): 
+Decomposition (ºC): 
+Relative Density as specific gravity (water = 1): 
+Vapor Pressure: 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+Partition coefficient (n-octanol/water): 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+Flammability (solid, gas): 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  No data available. 
+
+colorless liquid 
+not applicable 
+not applicable 
+gasoline-like odor 
+64 ppm to 244 ppm (hexane) 
+not available 
+15.8 (hexane) 
+–95 (–139 ºF) (hexane) 
+not applicable 
+not applicable 
+0.6606 g/cm3 at 25 ºC (hexane) 
+124 mmHg at 20 ºC (hexane) 
+3.0 (hexane) 
+0.32 cP at 25 °C (hexane) 
+water solubility:  0.014 % at 20 °C; soluble in 
+ethanol, ether, chloroform, acetone, organic 
+solvents (hexane) 
+log Kow = 3.90 (hexane) 
+ 
+
+225 (437 ºF) (hexane) 
+not applicable 
+69 (156 ºF) (hexane) 
+1.1 (hexane) 
+7.5 (hexane) 
+–22 (–7.6 ºF) CC (hexane) 
+not applicable 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Ampoules may rupture or explode if 
+exposed to heat.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Oxidizing materials, halogens, combustible materials, acids, metal salts. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon, hydrocarbons. 
+
+SRM 2270 
+
+ 
+
+Page 4 of 7 
+
+Hazardous Polymerization: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Respiratory tract, skin, and eye 
+irritation; aspiration hazard, nervous system depression, and nerve damage. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:    Inhalation  of  hexane  can  cause  eye,  nose,  throat  and  respiratory  irritation.    Acute  exposure  to 
+considerable concentrations may cause cough, wheezing, headache, dizziness, nausea, gastrointestinal symptoms, 
+central nervous system depression and asphyxia.  Prolonged exposure may result in motor sensory and central 
+nervous system abnormalities. 
+
+Skin Contact:  Contact with liquid may cause irritation and dermatitis due to defatting. 
+
+Eye Contact:  Irritation with redness and pain and conjunctivitis. 
+
+Ingestion:  Aspiration hazard; ingestion of hexane can cause lung damage and death. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+
+Rat, Oral LD50:  15 840 mg/kg 
+  Rat, Dermal LD50:  3000 mg/kg 
+
+Rat, Inhalation LC50:  48 000 ppm (4 h) 
+Rat, Oral LD50:  636 mg/kg 
+  Rat, Dermal LD50:  8390 mg/kg 
+
+Rat, Inhalation LC50:  49 g/m3 (4 h) 
+
+Hexane: 
+
+ 
+Toluene: 
+
+ 
+
+Hexane: 
+Toluene: 
+
+Skin Corrosion/Irritation:  Category 2 
+
+Hexane is irritating to skin, and can cause redness, pain and blister formation. 
+Rabbit, Dermal:  435 mg (mild); 500 mg (moderate); 20 mg (moderate, 24 h) 
+
+Serious Eye damage/Eye irritation:  Category 2B 
+
+Hexane: 
+
+Rabbit, Eye:  10 mg (mild); 
+
+Inhalation of hexane has been report to cause eye irritation, but is rapidly reversible when exposure is 
+discontinued.  Vapors at 880 ppm for 15 minutes caused irritation. 
+
+Toluene: 
+
+Rabbit, Eye:  870 µg (mild); 100 mg/30 s rinse (mild); 2 mg (severe, 24 h) 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  Not classified. 
+
+Hexane: 
+Toluene: 
+
+Saccharomyces cerevisiae, sex chromosome loss and nondisjunction:  132 mmol/L 
+Human, Inhalation:  252 µg/L (19 years) 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+Yes 
+
+X  No 
+
+Hexane is not listed by NTP, IARC or OSHA as a carcinogen. 
+Toluene is not listed by NTP or OSHA as a carcinogen; IARC lists toluene as Group 3, not classifiable. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2270 
+
+ 
+
+Page 5 of 7 
+
+Reproductive Toxicity:  Category 2B 
+
+Rat, Inhalation, TCLo:  238 g/kg (pregnant 6 d to 15 d) 
+Rat, Inhalation, TCLo:  1000 ppm (6 h, pregnant 8 d to 16 d)  
+Rat, Inhalation, TCLo:  5000 ppm (20 h, pregnant 6 d to 19 d)  
+
+Hexane:  Endpoints  listed  for  reproductive  effects  on  embryo  or  fetus:  fetotoxicity  (except  death, 
+e.g., stunted fetus). 
+ 
+ 
+ 
+Toluene:  Endpoints listed for reproductive effects on embryo or fetus 
+ 
+ 
+ 
+
+Rat, Oral, TDLo: 7280 mg/kg (pregnant 6 d to 19 d),  
+ 
+fetotoxicity (except death, e.g., stunted fetus) 
+Mouse, Oral, TDLo:  9 g/kg (pregnant 6 d to 15 d), fetal death  
+
+Specific Target Organ Toxicity, Single Exposure:  Category 3 (narcotic effects) 
+
+Acute  exposure  by  inhaling considerable  concentrations of  hexane  may  cause nervous  system  depression 
+including headache, nausea, dizziness, giddiness, coughing, numbness in the extremities, difficulty walking, 
+defects of memory, excitement followed by depression, and unconsciousness. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 2 
+
+Prolonged  or  repeated  exposure  to  hexane  may  cause  damage  to  organs  (eyes,  skin,  respiratory  system, 
+central nervous system, liver, kidneys). 
+
+Aspiration Hazard:  Category 1 
+
+This SRM contains ≥10 % hexane and it is classified as Category 1. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+
+Hexane: 
+
+Toluene: 
+
+Fish Toxicity: fathead minnow (Pimephales promelas) LC50 (flow-through):  2.1 mg/L to 2.98 mg/L (96 h) 
+Invertebrate: water flea (Daphnia magna) EC50:  >1000 mg/L (24 h) 
+
+Fish Toxicity:  rainbow trout (Oncorhynchus mykiss) LC50 (flow-through):  5.9 mg/L to 7.8 mg/L (96 h) 
+Invertebrate:  Freshwater water flea (Daphnia magna) EC50 (static):  5.5 mg/L to 9.8 mg/L (48 h) 
+
+Persistence and Degradability: Degradation of hexane by microorganisms. 
+
+Bioaccumulative Potential:  Potentially high for hexane based on estimated BCF of 170 in fish. 
+
+Mobility in Soil:  High mobility for hexane based on estimated Koc of 130. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to 
+disposal regulations:  U.S. EPA 40 CFR 262, Hazardous Waste Number:  D001 (Hexane), U220 (Toluene). 
+
+U.S. DOT and IATA:  UN1208, Hexanes, Hazard Class 3, Packing Group II, Excepted Quantities E2. 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  5000 lbs (2270 kg) final RQ for hexane and toluene. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  1.0 % de minimis concentration for hexane and toluene. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SRM 2270 
+
+ 
+
+Page 6 of 7 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+Yes. 
+Yes. 
+No. 
+No. 
+
+State Regulations: 
+California Proposition 65:  WARNING!  This product contains a chemical (toluene) known to the state of California 
+to cause reproductive/developmental effects. 
+
+U.S. TSCA Inventory:  Hexane and toluene are listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  06 December 2019 
+
+Sources: 
+
+ChemAdvisor, Inc., SDS n-Hexane, 09 December 2015. 
+
+ 
+
+ 
+
+ 
+
+PubChem  Database,  U.S.  National  Library  of  Medicine,  Hexane  CAS 110-54-3,  available  at 
+https://pubchem.ncbi.nlm.nih.gov/ (accessed Dec 2019). 
+
+NIOSH  Pocket  Guide 
+at 
+https://www.cdc.gov/niosh/npg/npgd0322.html (accessed Dec 2019); also see RTECS #: MN9275000; 
+available at https://www.cdc.gov/niosh-rtecs/MN8D8678.html (accessed Dec 2019) 
+
+to  Chemical  Hazards,  Hexane  CAS 110-54-3; 
+
+available 
+
+ChemAdvisor, Inc., SDS Toluene, 09 December 2015. 
+
+PubChem  Database,  U.S.  National  Library  of  Medicine,  Toluene  CAS 108-88-3,  available  at 
+https://pubchem.ncbi.nlm.nih.gov/ (accessed Dec 2019). 
+
+NIOSH  Pocket  Guide 
+at 
+https://www.cdc.gov/niosh/npg/npgd0619.html (accessed Dec 2019); also see RTECS #: XS5250000; 
+available at http://www.cdc.gov/niosh-rtecs/XS501BD0.html (accessed Dec 2019). 
+
+to  Chemical  Hazards,  Toluene  CAS 108-88-3; 
+
+available 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50% 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transport Association  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+RTECS 
+
+WHMIS 
+ 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+https://www.nist.gov/srm. 
+
+SRM 2270 
+
+ 
+
+Page 7 of 7 
+
+

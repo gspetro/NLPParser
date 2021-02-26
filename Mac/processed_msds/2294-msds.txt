@@ -1,0 +1,1389 @@
+﻿ 
+
+ 
+
+SAFETY DATA SHEET 
+
+Date of Issue: 
+24 March 2015 
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:  2294 
+SRM Name:  Reformulated Gasoline  
+
+ 
+
+(Nominal Mass Fraction 11 % MTBE) 
+
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the calibration of instruments and the 
+evaluation  of  methods  used  for  the  determination  of  total  sulfur,  benzene,  toluene,  and  methyl  tert-butyl 
+ether (MTBE) in reformulated gasoline or similar matrix.  A unit of SRM 2294 consists of a set of two 20 mL 
+unscored ampoules containing a synthetic gasoline blend of twenty-five organic compounds. 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Flammable liquid 
+Health Hazard:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Category 2 
+Category 2 
+Skin Irritation 
+Eye Irritation 
+Category 2B 
+Germ Cell Mutagenicity  Category 1B 
+Category 1B 
+Carcinogenicity 
+Category 2 
+Reproductive Toxicity 
+STOT, Single Exposure 
+Category 3 
+STOT, Repeated Exposure  Category 1 
+Category 1 
+Aspiration Hazard 
+
+Label Elements 
+Symbol 
+
+ 
+
+Signal Word 
+Danger 
+
+Hazard Statement(s) 
+
+Highly flammable liquid and vapor. 
+May be fatal if swallowed and enters airways 
+
+H225 
+H304 
+H315+H320  Causes skin and eye irritation. 
+H340 
+H350 
+H361 
+H336 
+H373 
+
+May cause genetic effects. 
+May cause cancer. 
+Suspected of damaging fertility or the unborn child. 
+May cause drowsiness or dizziness. 
+May  cause  damage  to  organs  (liver,  kidneys,  and  nervous  system)  through  prolonged  or 
+repeated exposure. 
+
+SRM 2294 
+
+ 
+
+Page 1 of 10 
+
+Precautionary Statement(s) 
+
+P201 
+P202 
+P210 
+P233 
+P241 
+P242 
+P243 
+P260 
+P264 
+P270 
+P271 
+P280 
+ 
+P301+P310+P331 
+P302+P361+P352 
+
+P304+P340 
+P305+P351+P338 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Keep away from heat, sparks, open flames, hot surfaces. — No smoking. 
+Keep container tightly closed. 
+Use explosion-proof electrical, ventilating, and lighting equipment.  
+Use only non-sparking tools. 
+Take precautionary measures against static discharge. 
+Do not breathe fumes, mist, vapors, or spray. 
+Wash hands thoroughly after handling. 
+Do not eat, drink, or smoke when using this product. 
+Use only outdoors or in a well-ventilated area. 
+Wear protective gloves, eye protection, protective clothing. 
+ 
+If swallowed:  Immediately call a doctor.  Do NOT induce vomiting. 
+If on skin (or hair):  Take off immediately all contaminated clothing.  Rinse skin with 
+water. 
+If inhaled:  Remove person to fresh air and keep comfortable for breathing. 
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses, if 
+present and easy to do.  Continue rinsing. 
+IF exposed or concerned:  Get medical attention. 
+If skin or eye irritation occurs:  get medical attention. 
+Take off contaminated clothing and wash it before reuse. 
+ 
+
+P308+P313 
+P332+P337+P313 
+P362+P364 
+ 
+P403+P235+P233  Store in a well-ventilated place.  Keep cool.  Keep container tightly closed. 
+P405 
+ 
+P501 
+
+Store locked up. 
+ 
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Gasoline 
+
+Other Designations 
+
+Gasoline:  Synthetic gasoline blend; reformulated gasoline. 
+MTBE:  2-Methoxy-2-methyl propane; tert-butoxymethane; t-butyl methyl ether. 
+
+Note:  This material contains organic compounds, mixed together to create a reformulated gasoline, which have 
+been  reported  to  have  toxic,  mutagenic,  and/or  carcinogenic  properties,  and  should  be  handled  with  care.    The 
+concentrations of these compounds that are not listed in this section are below the reportable limit for hazardous 
+components 
+required  by  OSHA, 
+29 CFR 1910.1200 (g)(2)(i)(C)(1), for SDS information.  For actual concentrations, see the  NIST  Certificate of 
+Analysis. 
+
+(0.1  %  or  greater), 
+
+(1  %  or  greater) 
+
+carcinogens 
+
+and 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+Gasoline 
+Methyl tert-butyl ether (MTBE) 
+Individual Components of Reformulated Gasoline in SRM 2294 
+
+8006-61-9 
+1634-04-4 
+
+ 
+ 
+
+232-349-1 
+216-653-1 
+
+2,2,4-Trimethylpentane 
+Cyclohexane 
+Toluene 
+n-Octane 
+2,4-Dimethylpentane 
+n-Heptane 
+m-Xylene and  
+p-Xylene 
+n-Decane 
+n-Hexane 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+540-84-1 
+110-82-7 
+108-88-3 
+111-65-9 
+108-08-7 
+142-82-5 
+108-38-3 
+106-42-3 
+124-18-5 
+110-54-3 
+
+208-759-1 
+203-806-2 
+203-625-9 
+203-892-1 
+203-548-0 
+205-563-8 
+203-576-3 
+203-396-5 
+204-686-4 
+203-777-6 
+
+89 
+11 
+
+12 
+9 
+8 
+8 
+8 
+8 
+
+6 
+
+4 
+4 
+
+SRM 2294 
+
+ 
+
+Page 2 of 10 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+n-Pentane 
+1,2,4-Trimethylbenzene 
+1,3,5-Trimethylbenzene 
+o-Xylene 
+Ethylbenzene 
+1-Heptene 
+2,3-Dimethyl-2-butene 
+1-Pentene 
+Naphthalene 
+Benzene 
+1,2,4,5-Tetramethylbenzene 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+109-66-0 
+95-63-6 
+108-67-8 
+95-47-6 
+100-41-4 
+592-76-7 
+563-79-1 
+109-67-1 
+91-20-3 
+71-43-2 
+95-93-2 
+
+203-692-4 
+202-436-9 
+203-604-4 
+202-422-2 
+202-849-4 
+209-767-8 
+209-263-8 
+203-694-5 
+202-049-5 
+200-753-7 
+202-465-7 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+4 
+2 
+2 
+2 
+2 
+2 
+2 
+1 
+1 
+1 
+1 
+
+Inhalation:  If adverse effects occur, remove to well-ventilated (uncontaminated) area.  If breathing is difficult, 
+qualified  personnel  may  administer  oxygen.    If  not  breathing,  qualified  personnel  should  give  artificial 
+respiration.  Seek immediate medical attention.  
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild 
+detergent and water.  If skin irritation persists, seek medical aid and bring the container or label. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Aspiration hazard.  Do not induce vomiting.  Contact local poison control immediately; if vomiting 
+occurs, keep head lower than hips to prevent aspiration.  If unconscious, turn head to side; get medical attention 
+immediately. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Aspiration hazard, blood damage, liver damage, central 
+nervous system depression, cancer hazard (in humans). 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  Fire Fighting Measures 
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor/air mixtures are explosive above the flash point.  Vapors 
+or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” 
+for flammability properties. 
+
+Extinguishing Media 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or alcohol-resistant foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Special Protective Equipment and Precautions for  Fire-Fighters:  Move container from fire area if it can be 
+done without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing 
+and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 3 
+
+Fire = 3 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  
+Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or 
+non-combustible material and collect in appropriate container for disposal.  
+
+SRM 2294 
+
+ 
+
+Page 3 of 10 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage  and  Incompatible  Materials:    Store  in  a  well-ventilated  area.    Keep  separated  from  incompatible 
+substances (see Section 10, “Stability and Reactivity”). 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+ 
+
+Components 
+Gasoline 
+
+MTBE 
+
+Toluene 
+
+Exposure Limits 
+
+OSHA (PEL) 
+There is no PEL for gasoline in 
+general industry in 29 CFR 
+1910.1000 Z-1 Table.(a) 
+NOEL 
+
+ACGIH (TLV) 
+TWA:  300 ppm 
+STEL:  500 ppm  
+
+NIOSH (REL) 
+
+NOEL(b) 
+
+TWA:  50 ppm 
+
+NOEL 
+
+Individual Components of Reformulated Gasoline in SRM 2294 with occupational exposure limits. 
+
+Cyclohexane 
+
+TWA:  1050 mg/m3 (300 ppm)  TWA:  100 ppm 
+
+TWA:  200 ppm  
+Ceiling:  300 ppm 
+
+TWA:  20 ppm 
+
+n-Octane 
+
+TWA:  2350 mg/m3 (500 ppm)  TWA:  300 ppm 
+
+TWA:  1050 mg/m3 (300 ppm) 
+IDLH:  1300 ppm(c) 
+TWA:  375 mg/m3 (100 ppm) 
+STEL:  560 mg/m3 (150 ppm) 
+IDLH:  500 ppm  
+TWA:  350 mg/m3 (75 ppm) 
+Ceiling:  1800 mg/m3 (385 ppm) (f) 
+IDLH:  1000 ppm (c) 
+NOEL 
+
+TWA:  350 mg/m3 (85 ppm) 
+Ceiling:  1800 mg/m3 (440 ppm) (f) 
+IDLH:  750 ppm 
+TWA:  435 mg/m3 (100 ppm) 
+STEL:  655 mg/m3 (150 ppm) 
+IDLH:  900 ppm 
+TWA:  180 mg/m3 (50 ppm) 
+IDLH:  1100 ppm(c) 
+TWA:  350 mg/m3 (120 ppm) 
+Ceiling:1800 mg/m3 (610 ppm)(f) 
+IDLH: 1500 ppm(c) 
+TWA:  125 mg/m3 (25 ppm) 
+TWA:  125 mg/m3 (25 ppm) 
+TWA:  435 mg/m3 (100 ppm) 
+STEL:  545 mg/m3 (125 ppm) 
+IDLH:  800 ppm(c) 
+TWA:  50 mg/m3 (10 ppm) 
+STEL:  75 mg/m3 (15 ppm) 
+IDLH:  250 ppm 
+TWA:  0.1 ppm 
+STEL:  1 ppm 
+IDLH:  500 ppm 
+ 
+
+2,4-Dimethylpentane 
+
+n-Heptane 
+
+NOEL 
+
+TWA:  400 ppm 
+STEL:  500 ppm  
+TWA:  2000 mg/m3 (500 ppm)  TWA:  400 ppm 
+STEL:  500 ppm 
+
+o-Xylene, m-Xylene, 
+p-Xylene 
+
+NOEL 
+
+100 ppm TWA 
+150 ppm STEL 
+
+n-Hexane 
+
+n-Pentane 
+
+TWA:  1800 mg/m3 (500 ppm)   50 ppm TWA 
+
+Skin(d) 
+
+TWA:  2950 mg/m3 (1000 ppm)  TWA:  600 ppm 
+
+1,2,4-Trimethylbenzene 
+1,3,5-Trimethylbenzene 
+Ethylbenzene 
+
+NOEL 
+NOEL 
+TWA:  435 mg/m3 (100 ppm) 
+
+NOEL 
+NOEL 
+TWA:  20 ppm 
+
+Naphthalene 
+
+TWA:  50 mg/m3 (10 ppm) 
+
+Benzene 
+
+TWA:  1 ppm 
+STEL:  5 ppm(f) 
+Ceiling:  25 ppm(f) 
+Action level:  0.5 ppm (e) 
+
+TWA:  10 ppm 
+STEL:  15 ppm 
+Skin(d) 
+TWA:  0.5 ppm  
+STEL:  2.5 ppm  
+Skin(d) 
+
+individually. 
+
+(b) NOEL:  No occupational exposure limits established. 
+(c) IDLH based off of 10 % LEL. 
+(d) Skin – Potential significant contribution to overall exposure by the cutaneous route. 
+(e) Cancer hazard, flammable, see 29 CFR 1910.1028. 
+(f) 15 minutes. 
+
+(a) The composition of these materials varies greatly. The content of benzene, other aromatics and additives should be determined 
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+SRM 2294 
+
+ 
+
+Page 4 of 10 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Properties 
+
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.)  clear, colorless to amber liquid 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+
+Gasoline 
+(89 % of SRM) 
+not applicable 
+not applicable 
+
+gasoline odor 
+0.25 ppm 
+neutral 
+10 to 11 (butyl acetate = 1) 
+< –38 °C  
+(< –36.4 °F) 
+0.7 to 0.8 
+not available 
+5 psi to 15 psi 
+3 to 5 
+0.5 cSt at 25 °C 
+water:  <0.1 %; soluble in 
+absolute alcohol, ether, 
+chloroform, and benzene 
+not available 
+
+Relative Density (water = 1) 
+Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+
+Thermal Stability Properties 
+
+Autoignition Temperature 
+
+Thermal Decomposition 
+Initial boiling point and boiling range 
+
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Closed Cup) 
+
+Flammability (solid, gas) 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+280 °C to 456 °C  
+(536 °F to 853 °F) 
+not applicable 
+38 °C to 204 °C  
+(100 °F to 399 °F) 
+1.2 % to 1.4 % 
+7.6 % 
+–43 °C to –38 °C 
+(–45 °F to –36 °F) 
+not applicable 
+
+Reactivity:  This material is stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+MTBE 
+(11 % of SRM) 
+88.15 
+C5H12O 
+clear, colorless liquid 
+distinct odor 
+0.6 ppm 
+not available 
+<1 (ether = 1) 
+–109 °C (–164 °F) 
+
+0.74 
+not available 
+245 mmHg at 25 °C 
+3.1 
+not available 
+water:  4.8 % at 20 °C; 
+soluble in alcohol and  
+ether 
+Kow:  1995.26 (estimated 
+from water solubility) 
+ 
+
+193°C (379 °F) 
+
+not applicable 
+55 °C (131 °F) 
+
+2.5 % 
+15.1 % 
+–10 °C (14 °F) 
+
+not applicable 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  
+Avoid inhalation of material or combustion by-products.  Keep out of water supplies and sewers.  
+
+Incompatible Materials:  Oxidizing materials, halogens, metal salts, acids, bases, combustible materials. 
+
+Hazardous Decomposition:  Oxides of carbon.  
+
+Hazardous Polymerization: 
+
+Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+ 
+
+SRM 2294 
+
+ 
+
+Page 5 of 10 
+
+ 
+
+ 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin irritation, eye irritation, 
+central nervous system depression, and nerve damage. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:    Acute  exposure  may  result  in  irritation,  headache,  drowsiness,  dizziness,  vomiting,  sleep 
+disturbances, emotional disturbances, tremors, loss of coordination, visual disturbances, chest pain, difficulty 
+breathing,  irregular  heartbeat,  lung  congestion,  internal  bleeding,  blood  disorders,  kidney  damage,  liver 
+damage, paralysis, brain damage, convulsions, unconsciousness, and coma.  Chronic exposure may result in 
+the same effects as acute exposure but with changes in body temperature, changes in blood pressure, loss of 
+appetite, menstrual disorders, nerve damage, reproductive effects, and cancer. 
+
+Skin Contact:  Acute exposure may cause irritation, skin disorders.  Chronic exposure may cause irritation, 
+skin disorders, tingling sensation, and allergic reactions. 
+
+Eye Contact:  Exposure may result in irritation and other reversible effects. 
+
+Ingestion:    Aspiration  hazard.    Exposure  may  cause  the  same  effects  as  listed  for  inhalation.    Repeated  or 
+prolonged ingestion may result in reproductive effects and cancer. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified. 
+
+Components 
+Gasoline 
+MTBE 
+
+Acute Toxicity 
+Rat, Inhalation, LC50:  300 g/m3 (5 min) 
+Rat, Oral, LD50:  4 g/kg 
+Rat, Inhalation, LC50:  23 576 ppm (4 h) 
+Rabbit, Dermal LD50:  >2000 mg/kg; >10 000 mg/kg 
+Individual Components of Reformulated Gasoline in SRM 2294 with Acute Toxicity information available are listed. 
+2,2,4-Trimethylpentane 
+
+Cyclohexane 
+
+Toluene 
+
+n-Octane 
+n-Heptane 
+
+m-Xylene and  
+p-Xylene 
+
+n-Decane 
+
+n-Hexane 
+
+n-Pentane 
+
+1,2,4-Trimethylbenzene 
+
+1,3,5-Trimethylbenzene 
+
+o-Xylene 
+
+Ethylbenzene 
+
+Rat, Oral, LD50:  >2500 mg/kg 
+Rat, Inhalation, LC50:  34.7 mg/L (4 h); 47.4 mg/L (1 h) 
+Rat, Oral, LD50:  >5000 mg/kg 
+Rat, Inhalation, LC50:  13.9 mg/L (4 h);  >9500 ppm (4 h) 
+Rabbit, Dermal LD50:  >2000 mg/kg 
+Rat, Oral, LD50:  636 mg/kg 
+Rat, Inhalation, LC50:  >26 700 ppm (1 h);  12.5 mg/L (4 h); 49 g/m3 (4 h) 
+Rabbit, Dermal LD50:  8390 mg/kg; 14 100 μL/kg 
+Rat, Inhalation, LC50:  118 g/m3 (4 h); 25 260 ppm (4 h) 
+Mouse, Oral, LD50:  5000 mg/kg  
+Rat, Inhalation, LC50:  103 g/m3 (4 h); 48 000 ppm (4 h) 
+Rabbit, Dermal LD50:  3000 mg/kg 
+Rat, Oral, LD50:  4988 mg/kg; >3392 mg/kg 
+Rat, Inhalation, LC50:  4550 ppm (4 h);  Mouse, Inhalation, LC50:  5267 ppm (6 h) 
+Rabbit, Dermal LD50:  14 100 μL/kg 
+Rat, Oral, LD50:  >5000 mg/kg  
+Rat, Inhalation, LC50:  1369 ppm (8 h); 72 300 mg/m3 (2 h) 
+Rabbit, Dermal LD50:  >2000 mg/kg 
+Rat, Oral, LD50:  15 840 mg/kg  
+Rat, Inhalation, LC50:  48 000 ppm (4 h) 
+Rabbit, Dermal LD50:  3000 mg/kg 
+Rat, Oral, LD50:  >2000 mg/kg 
+Rat, Inhalation, LC50:  364 g/m3 (4 h) 
+Rabbit, Dermal LD50:  3000 mg/kg 
+Rat, Oral, LD50:  3400 mg/kg 
+Rat, Inhalation, LC50:  18 g/m3 (4 h) 
+Rabbit, Dermal LD50:  >3160 mg/kg 
+Rat, Oral, LD50:  5000 mg/kg 
+Rat, Inhalation, LC50:  24 g/m3 (4 h) 
+Rat, Oral, LD50:  3567 mg/kg  
+Rat, Inhalation, LC50  2180 ppm (4 h); Mouse, Inhalation, LC50:  4595 ppm (6 h) 
+Rabbit, Dermal LD50:  14 100 μL/kg 
+Rat, Oral, LD50:  3500 mg/kg 
+Rat, Inhalation, LC50:  17.2 mg/L (4 h) 
+Rabbit, Dermal LD50:  15 354 mg/kg 
+
+SRM 2294 
+
+ 
+
+Page 6 of 10 
+
+Components 
+1-Pentene 
+Naphthalene 
+
+Benzene 
+
+Acute Toxicity 
+Rat, Inhalation, LC50:  175 000 mg/m3 (4 h) 
+Rat, Oral, LD50:  490 mg/kg 
+Rat, Inhalation, LC50:  >340 mg/m3 (1 h) 
+Rabbit, Dermal LD50:  >20 g/kg 
+Rat, Oral, LD50:  930 mg/kg; 1 mL/kg; 6400 mg/kg; 1800 mg/kg 
+Rat, Inhalation, LC50:  13 050 ppm to 14 380 ppm (4 h) 
+Rabbit, Dermal LD50:  >9400 μL/kg 
+
+1,2,4,5-Tetramethylbenzene  Rat, Oral, LD50:  5948 mg/kg 
+
+Skin corrosion/irritation:  Category 2 
+
+Gasoline, Rabbit skin:  500 μL (24 h) – mild 
+Cyclohexane, Rabbit skin:  1548 mg (2 days intermittent) 
+Toluene, Rabbit skin:  435 mg (24 h) – mild; 20 mg (24 h) – moderate; 500 mg – moderate 
+m-Xylene, p-xylene, Rabbit skin:  20 mg (24 h) – moderate; rabbit open skin:  10 μg (24 h) – severe 
+n-Decane, Pig, skin:  1200 μL (4 d intermittent) – mild 
+1,3,5-Trimethylbenzene, Rabbit skin:  20 mg (24 h) – moderate 
+Ethylbenzene, Rabbit open skin:  15 mg (24 h) – mild 
+Naphthalene, Rabbit skin:  0.05 mL (24 h) – severe; rabbit open skin: 495 mg – mild 
+Benzene, Rabbit skin:  20 mg (24 h) moderate; rabbit open skin:  15 mg (24 h) – mild 
+
+Serious eye damage/eye irritation:  Category 2B 
+
+Gasoline, Human eyes:  140 ppm (8 h) – mild; man eyes:  500 ppm (1 h) – moderate 
+Toluene, Human eyes: 300 ppm; Rabbit eyes: 870 μg – mild 
+m-Xylene, p-xylene, Rabbit eyes: 5 mg (24 h) –severe 
+n-Hexane, Rabbit eyes:  10 mg – mild; Vapors at 880 ppm for 15 min caused irritation. 
+1,3,5-Trimethylbenzene, Rabbit eyes:  500 mg (24 h) – mild 
+Ethylbenzene, Rabbit eyes:  500 mg – severe 
+Naphthalene,  vapor  caused  irritation  at  15  ppm;  crystalline  naphthalene  applied  to  rabbit  eyes  cleared  and 
+
+healed completely within 2 weeks. 
+
+Benzene, Rabbit eyes:  88 mg – moderate; 2 mg (24 h) severe 
+
+Respiratory sensitization:  No data available. 
+
+Skin sensitization:  No data available. 
+
+Individuals have reported sensitivity to some of the components. 
+
+Germ Cell Mutagenicity:  Mutagenic Category 1B 
+
+Benzene: cytogenic analysis, human inhalation:  0.1 ppm 
+
+Carcinogenicity:  Category 1B 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+X  Yes 
+
+ 
+
+No 
+
+IARC: 
+
+NTP: 
+
+Benzene  is  listed  by  IARC  as  Group  1,  carcinogenic  to  humans;  gasoline,  ethylbenzene,  and 
+naphthalene are listed by IARC as Group 2b, possibly carcinogenic to humans; MTBE, toluene, 
+m-xylene, p-xylene, o-xylene are listed by IARC as Group 3, not classifiable. 
+Benzene is listed by NTP as known human carcinogen; naphthalene is listed by NTP as reasonably 
+anticipated to be a human carcinogen.  
+
+OSHA:  Benzene is on the list of OSHA identified carcinogens. 
+
+Reproductive Toxicity:  Category 2 
+
+MTBE, Mouse, Oral TDLo:  4.48 mg/kg (28 days); Rat, Inhalation TCLo:  8000 ppm (6 h) multi-generation 
+Cyclohexane, Rat, Inhalation TCLo:  2000 ppm multi-generation; TCLo:  6000 ppm (pregnant 7 to 16 days) 
+Ethylbenzene, Rat, Inhalation, TCLo:  600 mg/m3 (24 h, pregnant 7 to 15 days); TCLo:  96 ppm (7 h, pregnant 
+
+1 to 19 days) 
+
+Toluene, Rat, Inhalation, TCLo: 1500 ppm (7 to 20 days pregnant) 
+Benzene, Rat Inhalation, TCLo:  50 ppm (24 h, 7 to 14 days pregnant) 
+
+STOT, Single Exposure:  Category 3, Central Nervous System Depressant 
+
+Gasoline, MTBE, and the individual components have shown central nervous system depressant effects. 
+
+STOT, Repeated Exposure:  Category 1 
+
+Benzene may affect blood and kidney systems. 
+
+Aspiration Hazard:  Category 1 
+
+Gasoline,  MTBE,  and  individual  components  (2,2,4-trimethylpentane,  cyclohexane,  toluene,  n-octane, 
+1,2,4-trimethylbenzene, 
+2,4-dimethylpentane, 
+1,3,5-trimethylbenzene, ethylbenzene, and benzene) are aspiration hazards. 
+
+n-heptane, 
+
+n-pentane, 
+
+n-hexane, 
+
+n-decane, 
+
+SRM 2294 
+
+ 
+
+Page 7 of 10 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  Components of Reformulated Gasoline in SRM 2294 with ecotoxicity data are listed. 
+
+Components 
+Gasoline 
+
+MTBE 
+
+Cyclohexane 
+
+Toluene 
+
+n-Octane 
+n-Heptane 
+
+o-Xylene,  m-Xylene  
+and p-Xylene 
+n-Decane 
+
+n-Hexane 
+
+n-Pentane 
+
+1,2,4-Trimethylbenzene 
+
+1,3,5-Trimethylbenzene 
+
+Ethylbenzene 
+1-Heptene 
+
+Naphthalene 
+
+Benzene 
+
+96 Hr LC50 Cichlid fish:  375.0 mg/L 
+
+24 Hr EC50 Chlorella vulgaris:  0.043 mg/L 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  13.4 mg/L [flow-through]  
+
+96 Hr LC50 Rainbow trout (Oncorhynchirus mykiss):  5.8 mg/L [semi-static]  
+96 Hr EC50 Pseudokirchneriella subcapitata:  >433 mg/L 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  23.03-42.07 mg/L [static] 
+72 Hr EC50 Desmodesmus subspicatus:  >500 mg/L 
+
+96 Hr LC50 Rainbow trout (Oncorhynchirus mykiss):  56 mg/L 
+72 Hr EC50 Pseudokirchneriella subcapitata:  4700 mg/L 
+96 Hr LC50 Fathead minnow (Pimephales promelas):  929 mg/L [static] 
+72 Hr EC50 Desmodesmus subspicatus:  >800 mg/L 
+
+Aquatic Toxicity 
+Fish: 
+Algae: 
+Fish: 
+Algae: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  542 mg/L 
+Fish: 
+Algae: 
+Invertebrate:  24 Hr EC50 Freshwater water flea (Daphnia magna):  >400 mg/L 
+Fish: 
+Algae: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  5.46-9.83 mg/L 
+Invertebrate:  48 Hr EC50 Freshwater flea (Daphnia magna):  0.38 mg/L 
+Fish: 
+Invertebrate:  24 Hr EC50 Freshwater water flea (Daphnia magna):  >10 mg/L 
+Fish: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  3.82 mg/L 
+Algae: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  0.029 mg/L 
+Fish: 
+Invertebrate:  24 Hr EC50 Freshwater water flea (Daphnia magna):  >1000 mg/L 
+Fish: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  9.74 mg/L 
+Fish: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  6.14 mg/L 
+Fish: 
+Invertebrate:  24 Hr EC50 Freshwater water flea (Daphnia magna):  50 mg/L 
+Fish: 
+Fish: 
+ Algae:  96 Hr EC50 Pseudokirchneriella subcapitata:  200 mg/L 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  6 mg/L 
+Fish: 
+Algae: 
+Invertebrate: 48 Hr EC50 Freshwater water flea (Daphnia magna): 1.96 mg/L [flow-through] 
+Fish: 
+Algae: 
+Invertebrate:  48 Hr EC50 Freshwater water flea (Daphnia magna):  9–16 mg/L [static] 
+
+96 Hr LC50 Rainbow trout (Oncorhynchirus mykiss):  5.3 mg/L [flow-through] 
+72 Hr EC50 Pseudokirchneriella subcapitata:  29 mg/L 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  7.55-11 mg/L [flow-through]  
+96 Hr LC50 Zebrafish (Brachydanio rerio):  100 mg/L [static] 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  5.74-6.44 mg/L [flow-through] 
+72 Hr EC50 Skeletonema costatum:  0.4 mg/L 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  7.19-8.28 mg/L [flow-through] 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  2.1-2.98 mg/L [flow-through] 
+
+96 Hr LC50 Fathead minnow (Pimephales promelas):  3.48 mg/L 
+
+96 Hr LC50 Rainbow trout (Oncorhynchirus mykiss):  9.87 mg/L 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative  Potential:    Bioconcentration  factors:    xylene  (0.6  to  15),  ethylbenzene  (15,  species  fish), 
+naphthalene (30 to 430, species fish), benzene (3.5 to 4.4, species fish). 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste  Disposal:    Dispose  in  accordance  with  all  applicable  federal,  state,  and  local  regulations.    Subject  to 
+hazardous waste regulations US EPA 40 CFR 262: 
+
+Gasoline: 
+
+Hazardous waste number D018 for concentrations at or above the regulatory level (0.05 mg/L); 
+Hazardous waste number D001. 
+Hazardous waste number U220. 
+Toluene 
+Xylene  
+Hazardous waste number U239, ignitable waste. 
+Cyclohexane  Hazardous waste number U056, ignitable waste. 
+Naphthalene  Hazardous waste number U165, ignitable waste. 
+Benzene 
+
+Hazardous waste number U019, ignitable waste, toxic waste, regulatory level 0.5 mg/L. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  UN1203; Gasoline; Hazard Class 3; Packing Group II. 
+
+SRM 2294 
+
+ 
+
+Page 8 of 10 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Final RQ listed below. 
+
+1000 lbs (454 kg) 
+MTBE: 
+1000 lbs (454 kg) 
+2,2,4-Trimethylpentane 
+1000 lbs (454 kg) 
+Cyclohexane: 
+Toluene: 
+1000 lbs (454 kg) 
+o-Xylene, m-Xylene, and p-Xylene:  100 lbs (45.4 kg) 
+5000 lbs (2270 kg) 
+n-Hexane: 
+1000 lbs (454 kg) 
+Ethylbenzene: 
+100 lbs (45.4 kg) 
+Naphthalene: 
+10 lbs (4.54 kg) 
+Benzene: 
+
+SARA Title III Section 302 (40 CFR 355.30):  None of the components are regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  None of the components are regulated. 
+SARA Title III Section 313 (40 CFR 372.65):   
+
+MTBE: 
+Cyclohexane: 
+Toluene: 
+o-Xylene, m-Xylene and p-Xylene: 
+n-Hexane: 
+1,2,4-Trimethylbenzene: 
+Ethylbenzene: 
+Naphthalene: 
+Benzene: 
+
+1.0 % de minimis concentration 
+1.0 % de minimis concentration 
+1.0 % de minimis concentration 
+1.0 % de minimis concentration 
+1.0 % de minimis concentration 
+1.0 % de minimis concentration 
+0.1 % de minimis concentration 
+0.1 % de minimis concentration 
+0.1 % de minimis concentration 
+
+OSHA Process Safety (29 CFR 1910.119): None of the components are regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+Yes 
+No 
+No 
+
+State Regulations 
+
+California Proposition 65: 
+
+WARNING!  This product contains chemicals (benzene, toluene) known to the state of California to cause 
+
+WARNING!  This product contains chemicals (benzene, naphthalene, ethylbenzene) known to the state of 
+
+reproductive developmental effects.  
+
+California to cause cancer. 
+
+toluene,  n-octane, 
+U.S.  TSCA  Inventory: 
+2,4-dimethylpentane, 
+n-pentane, 
+1,2,4-trimethylbenzene,  1,3,5-trimethylbenzene,  ethylbenzene,  1-heptene,  2,3-dimethyl-2-butene,  1-pentene, 
+naphthalene, benzene, 1,2,4,5-tetramethylbenzene are listed. 
+
+  Gasoline,  MTBE,  2,2,4-trimethylpentane,  cyclohexane, 
+
+o-xylene,  m-xylene, 
+
+n-heptane, 
+
+n-hexane, 
+
+n-decane, 
+
+p-xylene, 
+
+TSCA 12(b), Export Notification:  Heptane 1 % de minimus concentration; pentane 1 % de minimus 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+ 
+
+ 
+
+SRM 2294 
+
+ 
+
+Page 9 of 10 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  24 March 2015 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS 2,3-Dimethyl-2-butene, 15 December 2014. 
+ChemADVISOR, Inc., SDS 2,4-Dimethylpentane, 15 December 2014. 
+ChemADVISOR, Inc., SDS 1,2,4-Trimethylbenzene, 15 December 2014. 
+ChemADVISOR, Inc., SDS 1,2,4,5-Tetramethylbenzene, 15 December 2014. 
+ChemADVISOR, Inc., SDS 1,3,5-Trimethylbenzene, 15 December 2014. 
+ChemADVISOR, Inc., SDS 2,2,4-Trimethylpentane, 15 December 2014. 
+ChemADVISOR, Inc., SDS Benzene, 11 September 2013. 
+ChemADVISOR, Inc., SDS Cyclohexane, 15 December 2014. 
+ChemADVISOR, Inc., SDS n-Decane, 15 December 2014. 
+ChemADVISOR, Inc., SDS Ethyl Benzene, 15 December 2014. 
+ChemADVISOR, Inc., SDS Gasoline, Automotive, Unleaded, 15 December 2014. 
+ChemADVISOR, Inc., SDS Heptane, 15 December 2014. 
+ChemADVISOR, Inc., SDS Heptene Isomers, 15 December 2014. 
+ChemADVISOR, Inc., SDS n-Hexane, 15 December 2014. 
+ChemADVISOR, Inc., SDS Ethyl tert-butyl ether, 15 December 2014. 
+ChemADVISOR, Inc., SDS m-Xylene, 15 December 2014. 
+ChemADVISOR, Inc., SDS p-Xylene, 15 December 2014. 
+ChemADVISOR, Inc., SDS o-Xylene, 15 December 2014. 
+ChemADVISOR, Inc., SDS Naphthalene, 15 December 2014. 
+ChemADVISOR, Inc., SDS Octane, 15 December 2014. 
+ChemADVISOR, Inc., SDS Pentane, 15 December 2014. 
+ChemADVISOR, Inc., SDS 1-Pentene, 15 December 2014. 
+ChemADVISOR, Inc., SDS Toluene, 15 December 2014. 
+ChemADVISOR, Inc., SDS Xylene, 15 December 2014. 
+
+ 
+
+Key of Acronyms:  
+
+ACGIH 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+
+CAS  
+CERCLA   Comprehensive Environmental Response, Compensation, 
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RQ  
+
+RTECS 
+SARA  
+SCBA  
+SRM  
+STEL  
+STOT 
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS 
+
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit 
+Specific Target Organ Toxicity 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify 
+the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis. 
+ 
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2294 
+
+ 
+
+Page 10 of 10 
+
+

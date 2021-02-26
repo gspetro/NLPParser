@@ -1,0 +1,568 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+12 May 2016 
+ 
+
+ 
+
+ 
+
+1. SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:  1595 
+SRM Name:  Tripalmitin 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  calibration  and  standardization  of 
+procedures for the chemical analysis of serum for triglycerides, and for the critical evaluation of routine working or 
+secondary reference materials used in these procedures.  A unit of SRM 1595 consists of 2 g of powdered material. 
+ 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+2. HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Not classified. 
+Health Hazard:  
+
+Label Elements 
+
+Symbol:  No symbol/No pictogram. 
+
+Signal Word 
+No Signal Word 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Tripalmitin 
+Other Designations:  Tripalmitin (1,2,3-Propanetriyl hexadecanoate; glyceryl tripalmitate; palmitic triglyceride) 
+
+Components are listed in compliance with OSHA 29 CFR 1910.1200.   
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+ 
+
+555-44-2 
+
+209-098-1 
+
+100 
+
+Tripalmitin 
+
+ 
+
+SRM 1595 
+
+ 
+
+Page 1 of 5 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing. 
+Get immediate medical attention.  
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild 
+detergent and water.  Seek medical attention if need; bring the container. 
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed: No data available. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  None listed. 
+
+5. FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability 
+properties. 
+
+Extinguishing Media 
+ 
+ 
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+Unsuitable:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 1 
+
+6. ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see 
+Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Absorb spilled material with sand or non-combustible 
+material and collect in appropriate container for disposal.  
+
+7. HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage  and  Incompatible  Materials:    SRM 1595  should  be  stored  in  a  tightly
+temperature (
+information.  Keep separated from incompatible substances (oxidizing materials). 
+
+closed  bottle  at  or  below  room 
+20 °C to 23 °C is recommended).  See the NIST Certificate of Analysis for additional storage and use 
+
+‐
+
+‐
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  OSHA Particulates Not Otherwise Regulated (PNOR) applies to this material. 
+
+ 
+ 
+
+OSHA (PEL):  15 mg/m3 Total dust 
+
+5 mg/m3 Respirable fraction 
+
+Engineering  Controls:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with 
+applicable exposure limits. 
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that 
+meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.  
+
+SRM 1595 
+
+ 
+
+Page 2 of 5 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+
+Tripalmitin 
+807.32 
+C51H98O6 
+powder 
+not available 
+
+Odor threshold 
+pH 
+Evaporation rate (butyl acetate = 1) 
+Melting point/freezing point 
+Relative Density as Specific Gravity (water = 1)  0.87 at 70 °C 
+not available 
+
+not available 
+not available 
+not available 
+65 °C to 68 °C (149 °F to 154 °F) 
+
+Density 
+
+Vapor Pressure 
+Vapor Density (air = 1) 
+Kinematic Viscosity 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+Particulate Size 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Closed Cup) 
+Flammability (solid, gas) 
+
+not available 
+not available 
+not applicable 
+insoluble in water and alcohol; 
+soluble in ether, benzene, chloroform 
+not available 
+not available 
+
+not available  
+
+not available 
+310 °C to 320 °C (590 °F to 608 °F) 
+not available 
+not available 
+not applicable 
+not applicable 
+
+ 
+
+ 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Avoid contact with incompatible 
+materials.  Avoid inhalation of material or combustion by-products. 
+
+10. STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Incompatible Materials:  Oxidizing materials. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+
+11. TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  No data available. 
+
+Skin Contact:  No data available. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  No data listed. 
+
+ 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+SRM 1595 
+
+ 
+
+Page 3 of 5 
+
+Eye Contact:  No data available. 
+
+Ingestion:  No data available. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified.  No data available. 
+
+Skin Corrosion/Irritation:  Not classified.  No data available. 
+
+Serious Eye Damage/Irritation:  Not classified.  No data available. 
+
+Respiratory Sensitization:  Not classified.  No data available. 
+
+Skin Sensitization:  Not classified.  No data available. 
+
+Germ Cell Mutagenicity:  Not classified.  No data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Tripalmitin is not listed by IARC, NTP, or OSHA as a carcinogen. 
+
+ 
+
+Yes 
+
+X  No 
+
+Reproductive Toxicity:  Not classified.  No data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified.  No data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified.  No data available. 
+
+Aspiration Hazard:  Not classified.  No data available 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+12. ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13. DISPOSAL CONSIDERATIONS 
+
+14. TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15. REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No 
+No 
+No 
+No 
+No 
+
+State Regulations:  California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Tripalmitin is listed. 
+TSCA 12(b), Export Notification:  Not listed. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+SRM 1595 
+
+ 
+
+Page 4 of 5 
+
+Canadian Regulations:  WHMIS Information: Not provided for this material. 
+
+16. OTHER INFORMATION 
+
+Issue Date:  12 May 2016 
+
+Sources:  ChemADVISOR, Inc., SDS 1,2,3-Propanetriyl hexadecanoate, 09 December 2016. 
+
+29  CFR  Occupational  Health  and  Safety  Office  (OSHA)  1910.1000,  Limits  for  Air  Contaminants, 
+Table Z-1; available at http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDAR
+DS&p_id=9992 (accessed May 2016). 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short Term Exposure Limit 
+STEL  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the 
+data in the SDS.  The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 1595 
+
+ 
+
+Page 5 of 5 
+
+

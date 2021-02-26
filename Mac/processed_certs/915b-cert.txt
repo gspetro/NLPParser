@@ -1,0 +1,324 @@
+﻿et 
+
+< 
+
+NT  OF  Coy 
+% 
+S 
+ 
+%
+0
+3
+
+ 
+,
+g
+e
+W
+
+ 
+p
+E
+
+ 
+*
+
+ 
+N
+W
+ 
+*
+e
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 915b 
+ 
+Calcium Carbonate 
+ 
+This Standard Reference Material (SRM) is intended for use as an analytical standard of known purity.  It is intended 
+primarily for use in the calibration and standardization of procedures for calcium (Ca) determinations employed in 
+clinical analysis and for routine critical evaluation of the daily working standards used in these procedures.  This lot 
+of calcium carbonate (CaCO3) was prepared to ensure a material of high purity and homogeneity and has been assayed 
+after heating at 200 °C to 210 °C.  A unit of SRM 915b consists of a single glass bottle containing 20 g of the material. 
+ 
+Certified Values:  Table 1 lists the certified values for this SRM, expressed as mass fractions, w, of CaCO3, Ca, and 
+2-).  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+carbonate (CO3
+all known or suspected sources of bias have been investigated or taken into account [1].  The measurands are the mass 
+fractions  for  Ca,  CO3,  and  CaCO3.    Metrological  traceability  is  to  the  SI  units  for  mass,  current,  and  time  in  the 
+coulometric assay and to the SI unit for mass in the gravimetric assay. 
+ 
+
+Table 1.  Certified Values(a) for SRM 915b Calcium Carbonate 
+
+Values 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Quantity 
+ 
+
+ 
+
+wCaCO3  
+wCa  
+wCO3  
+
+ 
+
+Value  
+(%) 
+
+± 
+99.907 
+40.0104  ± 
+± 
+59.923 
+
+0.021 
+0.0083 
+0.012  
+
+(a) Each result is expressed as the certified value ± the expanded uncertainty, U, calculated as U = kuc, where uc is the combined 
+standard uncertainty calculated according to the ISO/JCGM and NIST Guides [2].  The value of uc is intended to represent, at 
+the level of one standard deviation, the combined effect of inherent sources of uncertainty of the assay techniques, and applicable 
+corrections for interfering trace elements.  The value of k is 2, which is the coverage factor corresponding to approximately 95 % 
+confidence based on > 60 overall effective degrees of freedom. 
+
+SRM 
+
+by  K.W. 
+
+ 
+Expiration of Certification:  The certification of SRM 915b is valid, within the measurement uncertainty specified, 
+until  01 March 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Coulometric  and  gravimetric  analyses  were  performed  by  K.W. Pratt  and  T.W. Vetter,  respectively,  of  the  NIST 
+Chemical Sciences Division.  Trace element analyses by glow-discharge mass spectrometry and other techniques [3] 
+were performed by commercial laboratories. 
+ 
+Coordination of the technical measurements leading to the certification of SRM 915b was provided by T.W. Vetter. 
+ 
+Engineering  Division.
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  13 September 2016 
+Certificate Revision History on Last Page 
+SRM 915b 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials  
+
+ Page 1 of 3 
+
+ 
+
+  
+
+Information  Values:    Table 2  lists  information  values  for  the  mass  fractions  of  trace  elements  in  SRM 915b.  
+Information  values  are  non-certified  values  that  may  be  of  interest  and  use  to  the  SRM  user,  but  insufficient 
+information is available to provide an uncertainty associated with the value [1].  No other elements were detected at a 
+mass fraction greater than 1 µg/g.  Information values cannot be used to establish metrological traceability. 
+ 
+
+Table 2.  Trace Elements in SRM 915b Calcium Carbonate 
+
+ 
+
+Element  
+
+ 
+
+Strontium (Sr) 
+Magnesium (Mg) 
+Sulfur (S) 
+Sodium (Na) 
+Chlorine (Cl) 
+Silicon (Si) 
+Phosphorus (P) 
+Barium (Ba) 
+
+Mass Fraction 
+(µg/g) 
+ 
+
+150 
+40 
+30 
+17 
+8 
+5 
+3 
+2 
+
+research 
+
+ 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM lot over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST will notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+This SRM is intended for research use. 
+ 
+Stability and Storage:  This SRM should be stored in its original bottle at room temperature.  It  must be tightly 
+ture  and  acid  vapors.
+re-capped after use and protected from moisture and acid vapors. 
+ 
+Homogeneity:  This SRM is homogeneous within the uncertainty limits for the nominal sample mass, 150 mg, used 
+for the coulometric assays.  Samples less than 150 mg are not recommended in order to avoid possible heterogeneity 
+with smaller sample sizes. 
+ 
+Possible Interfering Species:  It is the responsibility of the user to evaluate  which species may interfere with the 
+application  of  this  SRM  and  to  apply  any  necessary  corrections  that  affect  the  given  application.    The  following 
+information and the values in Table 2 may be useful in this evaluation. 
+ 
+The  certified  value  for  wCaCO3  is  obtained  from  an  equally-weighted  combination  of  the  results  of  independent 
+coulometric analyses, corrected for trace impurities of strontium carbonate (SrCO3), magnesium carbonate (MgCO3), 
+sodium carbonate (Na2CO3), barium carbonate (BaCO3), and calcium hydrogen phosphate (CaHPO4); and gravimetric 
+analyses, corrected for trace impurities of SrCO3, MgCO3, and Na2CO3. 
+ 
+The  certified  value  for  wCa  is  obtained  from  an  equally-weighted  combination  of  wCa  obtained  directly  from  the 
+gravimetric analyses and the indirect wCa, which is calculated from the stoichiometric amount of Ca expected from 
+the  coulometric  wCO3  plus  the  additional  Ca  in  the  trace  impurities  of  calcium  sulfate (CaSO4),  calcium 
+2- in the trace impurities of SrCO3, MgCO3, Na2CO3, and BaCO3. 
+chloride (CaCl2), and CaHPO4 minus the excess CO3
+ 
+The certified value for wCO3 is obtained from an equally-weighted combination of  wCO3 obtained directly from the 
+2- expected 
+coulometric analyses and the indirect wCO3, which is calculated from the stoichiometric amount of CO3
+2- in the  trace impurities SrCO3, MgCO3, and Na2CO3  minus the 
+from the  gravimetric wCa plus the additional  CO3
+excess Ca in the trace impurities of CaSO4, CaCl2, and CaHPO4. 
+ 
+
+ 
+
+SRM 915b 
+
+ Page 2 of 3 
+
+Che 
+
+at  200 
+
+The  corrections  for  trace  impurities  were  obtained  from  the  trace  element  determinations  and  the  appropriate 
+gravimetric factors [4].  A portion of the Ca is present in SRM 915b as CaSO4, CaCl2, and CaHPO4, and a portion of 
+2- is present as SrCO3, MgCO3, Na2CO3, and BaCO3.  Hence, the sum of the certified values for wCa and wCO3 
+the CO3
+does not equal the certified value for wCaCO3. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Drying  Instructions:    Dry  the  material  at  200 °C  to 210 °C  for  4 h.   After  the  SRM  has  been  dried,  store  it  in  a 
+desiccator over anhydrous magnesium perchlorate. 
+ 
+Source of Material:  The CaCO3 used for this SRM was obtained from a commercial supplier.  The material was 
+examined  for  compliance  with  the  specification  for  reagent  grade  CaCO3 as  specified  by  the  American  Chemical 
+Society [3].  The material was found to meet or exceed the minimum requirements in every respect. 
+ 
+Assay  Techniques: 
+  The  coulometric  assay  value  was  obtained  by  automated  back-titration [5]  using 
+coulometrically-standardized hydrochloric acid (HCl) as the excess added substance, with potentiometric detection of 
+the strong acid endpoint after removal of the product carbon dioxide (CO2).  The gravimetric assay value was obtained 
+by  conversion  to  CaSO4  and  correcting  for  trace  contaminants  in  the  CaSO4  (gravimetric  procedure  based  on 
+reference 6). 
+ 
+ 
+ 
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Sep 2016). 
+JCGM 100:2008; Evaluation of Measurement Data  Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sep 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2016). 
+
+REFERENCES 
+
+[2] 
+
+[3]  Reagent Chemicals; 9th ed., American Chemical Society:  Washington, DC (1999). 
+[4] 
+
+IUPAC  Commission  of  Atomic  Weights  and  Isotopic  Abundances;  Pure  &  Appl.  Chem.,  Vol.  75  (8),  
+pp. 1107–1122 (2003). 
+
+[5]  Pratt, K.W.;  Automated,  High-Precision  Coulometric  Titrimetry  Part  II.  Strong  and  Weak  Acids  and  Bases; 
+
+Anal. Chim. Acta, Vol. 289 (2), pp. 135–142 (1994). 
+
+[6]  Moody, J.R.; Vetter, T.W.; Development of the Ion Exchange-Gravimetric Method for Sodium in Serum as a 
+Definitive  Method;  J.  Res.  Natl.  Inst.  Stand.  Technol.,  Vol. 101,  pp. 155–164  (1996);  available  at 
+http://nvl.nist.gov/pub/nistpubs/jres/101/2/j2mood.pdf (accessed Sep 2016). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Certificate  Revision  History:    13 September 2016  (Editorial  changes);  09 December 2015  (Change  of  expiration  date;  editorial  changes); 
+07 April 2006 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 915b 
+
+ Page 3 of 3 
+
+

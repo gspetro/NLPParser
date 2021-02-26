@@ -1,0 +1,401 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  2962
+MSDS Number:  2962
+SRM Name:
+Respirable Cristobalite on Filter Media
+(Nominal Mass of Cristobalite, 10 µg)
+
+Date of Issue:  05 April 2012 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:    This  Standard  Reference  Material (SRM)  is  intended  primarily  for  the  calibration  of  X-ray 
+diffraction (XRD)  spectrometers  for  the  determination  of  respirable  cristobalite  using  National  Institute  for 
+Occupational Safety and Health (NIOSH) Method 7500 [1], or the equivalent.  A unit of SRM 2962 consists of five 
+polyvinyl chloride (PVC) filters, each containing a nominal mass of 10 g of respirable cristobalite, and five blank 
+PVC filters containing no cristobalite. 
+
+Substance:  Respirable cristobalite 
+
+Other Designations:    Alpha-cristobalite;  cristobalite;  alpha-crystobalite;  crystoballite;  metacristobalite;  silica, 
+crystalline-cristobalite; silicic anhydride; cristoballite 
+
+2.  HAZARDS IDENTIFICATION  
+
+NFPA Ratings (Scale 0-4):  Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+Major Health Hazards:  Cancer hazard (in humans). 
+
+Physical Hazards:  There are no physical hazards associated with this material. 
+
+Potential Health Effects (Acute and Chronic) 
+
+Inhalation:  Inhalation of finely divided crystalline silica dust particles may cause physical discomfort of the 
+respiratory tract.  Repeated or prolonged inhalation of dust particles may result in silicosis in a few weeks to 
+six  months  depending  on  the  level  of  exposure.    Symptoms  may  include  coughing,  shortness  of  breath,  and 
+weight loss.  Persons diagnosed with silicosis have an increased risk of developing lung cancer. 
+
+Skin Contact:  Exposure may cause irritation of intact skin due to mechanical abrasion.  If the skin is abraded, 
+a heavy growth of scar tissue may be induced. 
+
+Eye Contact:  Exposure may cause irritation due to mechanical action. 
+
+Ingestion:  Effects caused by ingestion are due to mechanical action as crystalline silicas are biologically inert. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency Report on Carcinogens (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+  X(a) 
+  X(b) 
+ 
+
+ 
+
+ 
+
+No 
+ 
+ 
+X 
+
+(a) NTP lists cristobalite as known to be a human carcinogen. 
+(b) IARC lists cristobalite as Group 1 (carcinogenic to humans). 
+ 
+
+ 
+
+MSDS 2962 
+
+ 
+
+Page 1 of 4 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS  
+ 
+Component(a) 
+
+CAS Registry 
+
+Cristobalite 
+
+14464-46-1 
+
+100 
+
+(a) Each loaded PVC filter contains 10 µg of cristobalite particulate matter.  Hazardous components 1 % or greater; carcinogens 
+
+0.1 % or greater are listed in compliance with OSHA 29 CFR 1910.1200. 
+
+EC Number 
+(EINECS) 
+
+238-455-4 
+
+Nominal Mass Concentration 
+(%) 
+
+EC Classification:  Not classified. 
+
+EC Risk (R No) and EC Safety (S No):  Not assigned. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  
+Get immediate medical attention. 
+
+Eye  Contact:    Flush  eyes  with  copious  amounts  of  water  for  at  least  15 minutes.    Get  medical  attention,  if 
+necessary. 
+
+Skin Contact:  Wash affected area with soap and water for at least 15 minutes.  Seek medical attention, if needed.  
+Thoroughly clean and dry contaminated clothing and shoes before reuse. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard. 
+
+Extinguishing Media:  Use extinguishing agents appropriate for surrounding fire. 
+
+Fire  Fighting:    Avoid  inhalation  of  material  or  combustion  byproducts.    Wear  full  protective  clothing  and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point:  Not applicable. 
+
+Autoignition Temp: Not applicable. 
+
+Flammability Limits in Air 
+ 
+ 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational  Release:    Collect  spilled  material  in  appropriate  container  for  disposal.    Avoid  generating  dust.  
+Clean up residue with a high-efficiency particulate filter vacuum.  Keep out of water supplies and sewers. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Handling and Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated 
+from  incompatible  substances.    Sealed  filters,  as  received,  should  be  stored  in  the  dark  at  temperatures  between 
+15 °C and 25 ºC. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits 
+
+ACGIH (TWA):  0.025 mg/m3 (respirable fraction) 
+NIOSH (TWA):  0.05 mg/m3 (respirable dust) 
+NIOSH (IDLH):  25 mg/m3 (respirable dust) 
+OSHA (TWA):  (1/2)[30/(% SiO2 + 2)] mg/m3 (total dust) 
+OSHA (TWA):  (1/2)[250/(% SiO2 + 5)] mppcf (respirable fraction) 
+OSHA (TWA):  (1/2)[10/(% SiO2 + 2)] mg/m3 (respirable fraction) 
+
+ 
+
+MSDS 2962 
+
+ 
+
+ 
+
+Page 2 of 4 
+
+Ventilation:  Use local exhaust ventilation system.  Ensure compliance with applicable exposure limits.  Refer to 
+the ACGIH document, Industrial Ventilation, a Manual of Recommended Practices. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets 
+OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Wear chemical safety goggles.  An eyewash station should be readily available near areas of use. 
+
+Personal Protection:  Wear appropriate chemical resistant clothing and gloves to prevent skin exposure. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES
+
+Appearance and Odor: 
+Molar Mass (g/mol):   
+Molecular Formula: 
+Density (g/cm3): 
+Vapor Density (air = 1): 
+
+Boiling Point (°C): 
+
+Melting Point (°C): 
+Water Solubility: 
+
+White particulate loaded on a PVC filter; odorless. 
+60.1 
+SiO2 
+Not available. 
+2.32 
+
+2230 (4046 F) 
+
+1710 (3110 F) 
+Insoluble. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+
+Stable 
+
+X 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid generating dust. 
+
+ 
+
+Unstable 
+
+Incompatible Materials:  Oxidizing materials, acids, bases, combustible materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Miscellaneous decomposition products. 
+
+Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION 
+ 
+Route of Entry: 
+
+Inhalation 
+
+X 
+
+Toxicity Data:  Human, Inhalation TCLo (intermittent):  16 mppcf (8 h/17.9 year) 
+
+Rat, Intratracheal LDLo:  200 mg/kg 
+
+Health Effects (Acute and Chronic):  See Section 2, “Hazards Identification” for potential health effects. 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Target Organs:  Respiratory tract. 
+
+Tumorigenic 
+
+The  Registry  of  Toxic  Effects  of  Chemical  Substances  (RTECS)  lists  the  following  endpoints  for  tumorigenic 
+effects:  Rat, Intrapleural TCLo:  90 mg/kg; Rat, Intrapleural TC:  100 mg/kg. 
+
+Medical Conditions Aggravated by Exposure:  Respiratory disorders. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No ecotoxicity data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local requirements. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA. 
+
+ 
+
+MSDS 2962 
+
+ 
+
+ 
+
+Page 3 of 4 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated for this material. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated for this material. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated for this material. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated for this material. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated for this material. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ 
+ 
+ 
+ 
+ 
+
+No 
+ACUTE: 
+Yes 
+CHRONIC: 
+No 
+FIRE: 
+REACTIVE: 
+No 
+SUDDEN RELEASE:  No 
+
+STATE REGULATIONS 
+
+CANADIAN REGULATIONS 
+
+WHMIS Classification:  Not provided for this material. 
+
+EUROPEAN REGULATIONS 
+
+EC Classification:  Not classified. 
+
+EC Risk and EC Safety Phrases:  Not assigned. 
+
+NATIONAL INVENTORY STATUS 
+U.S. Inventory (TSCA):  Listed. 
+TSCA 12(b) 
+
+Export Notification: Not listed. 
+
+16.  OTHER INFORMATION 
+
+California  Proposition 65:    Warning!    This  material  contains  silica,  crystalline  (airborne  particles  of  respirable 
+
+size) that is known to the state of California to cause cancer. 
+
+Sources:  ChemAdvisor, Inc., MSDS Cristobalite, 20 December 2011. 
+
+ChemIDplus Advanced, Cristobalite, CAS No. 14464-46-1 
+http://chem.sis.nlm.nih.gov/chemidplus/ (accessed Apr 2012). 
+
+State  of  California,  Environmantal  Protection  Agency (EPA),  Office  of  Environmental  Health  Hazard 
+Assessment (OEHHA); Silica, crystalline (airborne particles of respirable size), 
+http://oehha.ca.gov/prop65/prop65_list/files/P65single031612.pdf (accessed Apr 2012). 
+
+OSHA/EPA  Occupational  Chemical  Database,  Silica,  Crystalline  Cristobalite,  CAS No. 14464-46-1, 
+http://www.osha.gov/web/dep/chemicaldata/ (accessed Apr 2012). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 2962 
+
+ 
+
+Page 4 of 4 
+
+

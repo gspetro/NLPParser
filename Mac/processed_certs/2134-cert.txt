@@ -1,0 +1,501 @@
+﻿ 
+
+ext oF  oy 
+
+BF 
+
+Somes  or 
+
+National Institute of Standards & Technology 
+
+g-
+
+ 
+
+Certificate of Analysis 
+
+ 
+
+ 
+
+Standard Reference Material® 2134 
+
+ 
+Arsenic Implant in Silicon Depth Profile Standard 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  use  in  calibrating  secondary  ion  response  to  minor  and 
+trace levels of arsenic in a silicon matrix by the analytical technique of secondary ion mass spectrometry (SIMS).  
+SRM 2134  is  intended  for  calibrating  the  response  of  a  SIMS  instrument  for  arsenic  in  a  silicon  matrix  under  a 
+specific set of instrumental conditions.  It may also be used by a laboratory as a transfer standard for the calibration 
+of  working  standards  of  arsenic  in  silicon.    A  unit  of  SRM 2134  consists  of  a  1 cm × 1 cm  single  crystal  silicon 
+substrate that has been ion implanted with the isotope 75As at a nominal energy of 100 keV.  SRM 2134 is certified 
+for  the  retained  dose  of  75As  atoms.    The  dose  is  expressed  in  units  of  arsenic  mass  per  unit  area.    Additional 
+noncertified  information  about  the  concentration  of  arsenic  atoms  as  a  function  of  depth  below  the  surface  is 
+provided by SIMS. 
+ 
+Certified Concentration Values:  The total retained dose of  75As atoms was determined by instrumental neutron 
+activation  analysis.    Aliquots  of  two  independently  prepared  arsenic  reference  solutions  (one  of  which  was  NIST 
+SRM 3103a  Arsenic  Standard  Solution,  certified  for  arsenic  concentration)  were  deposited  on  filter  paper  and 
+served as standards in the analysis.  The resulting certified value and expanded uncertainty are 
+ 
+ 
+ 
+Using a value of 74.9216 g/mol for the isotopic mass of 75As, the retained dose is equivalent to 
+ 
+
+Certified Retained Dose of 75As:   0.09120 g/cm2    0.00035 g/cm2 
+
+7.330 × 1014 atoms/cm2    0.028 × 1014 atoms/cm2 
+
+ 
+The uncertainty in the certified value is expressed as an expanded uncertainty U = kuc, where k is a coverage factor 
+of 2.04 giving an approximate level of confidence of 95 %, and uc is the combined standard uncertainty calculated 
+according to the ISO Guide [1].  The combined standard uncertainty is the square root of the sum of squares of the 
+individual  standard  uncertainties  derived  or  estimated  from  the  measurement  process.    The  Type  A  and  Type  B 
+standard  uncertainty  components  arise  from  measurement  uncertainties  in  the  following  principal  sources:  
+(1) concentrations  of  comparator  standards,  (2)  neutron  fluence  exposure  differences  between  samples  and 
+standards, (3) measurement replication, (4) counting statistics for standards, (5) pulse pileup, and (6) decay timing 
+effects.  All known potential sources of uncertainty have been considered [2-4].  
+ 
+Expiration of Certification:  The certification of SRM 2134 is valid indefinitely, within the uncertainty specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage and Use”).  Accordingly, periodic recalibration or recertification of this SRM is 
+not required.  The certification is nullified if the SRM is damaged, contaminated or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed  by 
+D.S. Simons of the NIST Surface and Microanalysis Science Division.   
+ 
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division.   
+
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 August 2010 
+See Certificate Revision History on Last Page 
+
+John A. Small, Chief 
+Surface and Microanalysis Science Division 
+
+ 
+ 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 2134 
+
+Page 1 of 4 
+
+The  ion  implantation  for  this  SRM  was  carried  out  at  Varian  Semiconductor  Equipment  Associates1  under  the 
+direction  of  D. Downey.    Instrumental  neutron  activation  analysis,  data  reduction,  and  statistical  analysis  were 
+performed  by  R.M. Lindstrom  and  R.R. Greenberg  of  the  NIST  Analytical  Chemistry  Division.    Secondary  ion 
+mass  spectrometry  measurements  were  performed  by  P.H. Chi  of  the  NIST  Surface  and  Microanalysis  Science 
+Division, and by C.W. Magee and W. Ou of Evans East.  Rutherford backscattering measurements were provided 
+by  E.D. Adams  of  IBM  Microelectronics.    X-ray  fluorescence  measurements  were  provided  by  W.H. Gries  of 
+Deutsche  Telekom.    Cleaning  and  packaging  were  performed  by  C. Ng  of  the  NIST  Surface  and  Microanalysis 
+Science Division.   
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+Production  and  Physical  Description:    The  starting  material  consisted  of  a  commercial  200  mm  p-type  silicon 
+(100) single crystal wafer polished on one side.  The polished side of the silicon wafer was implanted with 75As ions 
+at  a  nominal  energy  of  100  keV  in  an  ion  implanter.    The  wafer  was  nominally  at  room  temperature  during  the 
+implantation.  The wafer was cut into 1 cm x 1 cm squares with a wafer saw.  All squares were located at least 1 cm 
+from the edge of the wafer.   
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE 
+ 
+Handling:    The  implanted  side  of  the  SRM  is  the  polished,  reflective  side.    This  surface  was  cleaned  prior  to 
+packaging.    Immediately  prior  to  use,  dust  particles  should  be  removed  from  the  surface  with  a  pressurized  air 
+duster. 
+ 
+Etching  this  SRM  in  hydrofluoric  acid  is  NOT  recommended  because  some  arsenic  may  be  removed  with  the 
+surface oxide.  
+ 
+Storage:  When NOT in use the SRM should be stored in its original tray with the cover secured tightly. 
+ 
+Use:  Information on material composition as a function of depth can be obtained with SIMS by monitoring one or 
+more sputtered ion species as successive layers are removed by ion bombardment.  When using this technique, the 
+concentration  value  of  a  species  is  normally  calibrated  with  a  reference  sample  of  the  same  species  in  the  same 
+matrix as the unknown [5,6].  
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+The usefulness of this SRM for calibrating the SIMS response function of  75As in silicon depends on maintaining 
+constant analysis conditions during the acquisition of the SIMS depth profile.  Care must be taken to ensure that the 
+primary ion beam current remains stable and the beam raster location remains fixed. 
+ 
+The energy of the ion implanter used in the production of this SRM was not calibrated.  Caution should therefore be 
+exercised  in  comparing  the  experimental  parameters  from  the  SIMS  profile  with  theoretical  predictions  of 
+implantation models. 
+ 
+The functional form of the concentration versus depth of 75As in this material was measured by SIMS under 3 keV 
+Cs+ bombardment at an angle of 60 to the surface normal and with  75As28Si detection.  SIMS depth-profile data 
+taken with a quadrupole mass spectrometer are plotted in Figure 1.  The figure shows that the arsenic concentration 
+decreases as a function of depth over the first 10 nm below the surface.  This near-surface component of the arsenic 
+depth distribution is estimated to comprise less than 2 % of the total retained dose.  It is included in the certified 
+dose value and should be considered when integrating the SIMS profile to calibrate the SIMS response for arsenic. 
+ 
+The lateral uniformity of the implanted dose was verified by sheet resistance mapping of a companion wafer that 
+was  implanted  in  the  same  batch  as  the  one  used  for  this  SRM.    This  measurement  showed  a  relative  standard 
+deviation  of  0.17 %  of  the  mean  sheet  resistance  over  49  analysis  points.    In  addition,  the  sample-to-sample 
+variation of arsenic content that was observed during the instrumental neutron activation analysis measurements was 
+consistent  with  the  counting  statistics  combined  with  other  known  sources  of  variation,  indicating  no  significant 
+heterogeneity among the 10 samples measured. 
+ 
+
+                                                           
+
+1  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2134 
+
+Page 2 of 4 
+
+Measurements of the implanted arsenic dose by Rutherford backscattering spectrometry and by x-ray fluorescence 
+spectrometry were consistent with the certified dose within their estimated uncertainty intervals. 
+ 
+ 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+x
+
+x
+x
+
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+
+x
+
+x
+
+xxxx
+x
+xx
+x
+xxx
+xxx
+x
+x
+xx
+xxx
+xx
+xxx
+xxxx
+xx
+xxxxxxxxxxxx
+
+1019
+
+)
+
+3
+
+m
+c
+/
+s
+m
+o
+t
+a
+(
+ 
+.
+c
+n
+o
+c
+ 
+s
+A
+
+5
+7
+
+1020
+
+1018
+
+1017
+
+1016
+
+1015
+
+xxxxxx
+xx
+xxxxx
+xxxxx
+xxx
+xxxxxxx
+xx
+xxxx
+xxxxxx
+xx
+xxxxx
+x
+x
+xxxxx
+x
+x
+xxx
+x
+xxxxx
+xxxxxxx
+x
+xxx
+xx
+xxxxx
+x
+x
+x
+xx
+x
+x
+x
+xx
+x
+x
+x
+x
+xxxxxxxx
+xxx
+xx
+x
+x
+x
+xxx
+x
+xx
+xx
+x
+x
+x
+xx
+x
+x
+x
+x
+xx
+x
+xx
+x
+x
+x
+xxx
+x
+xx
+x
+x
+xx
+x
+x
+x
+x
+xx
+x
+x
+xx
+x
+x
+x
+x
+xx
+xx
+x
+x
+xx
+x
+x
+x
+x
+x
+xxx
+xx
+x
+x
+x
+xx
+x
+x
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+xxx
+x
+xx
+x
+x
+
+x
+x
+xx
+xx
+x
+x
+x
+x
+
+x
+
+x
+x
+x
+x
+x
+x
+x
+xx
+
+x
+xx
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+
+x
+
+0.5
+
+0.6
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Depth (m)
+Figure 1.    SIMS  depth  profile  of  75As  in  SRM 2134  using  3 keV Cs+  ion  bombardment  at  60  from  normal 
+incidence and AsSi detection. 
+ 
+
+SRM 2134 
+
+Page 3 of 4 
+
+ 
+
+ 
+[1] 
+
+ 
+
+REFERENCES 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2010);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Aug 2010). 
+
+[2]  Greenberg, R.R.; Lindstrom, R.M.; Simons, D.S; Instrumental Neutron Activation Analysis for Certification of 
+Ion-Implanted  Arsenic  in  Silicon;  Journal  of  Radioanalytical  and  Nuclear  Chemistry,  Vol. 245,  pp. 57–63, 
+(2000). 
+
+[3]  Simons, D.S.;  Downing, R.G.;  Lamaze, G.P.;  Lindstrom, R.M.;  Greenberg, R.R.;  Paul, R.L.;  Schiller, S.B; 
+Guthrie, W.F.; Development of certified reference materials of ion-implanted dopants in silicon for calibration of 
+secondary ion mass spectrometers; J. Vac. Sci. Technol. B., Vol. 25, pp. 1365–1375 (2007). 
+
+[4]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm (accessed Aug 2010). 
+[5]  Wilson, R.G.;  Stevie, F.A.;  Magee, C.W.;  Secondary  Ion  Mass  Spectrometry  -  A  Practical  Handbook  for 
+
+[6] 
+
+Depth Profiling and Bulk Impurity Analysis; New York, John Wiley & Sons, Sect. 3.1 (1989). 
+ISO 18114:2003; Surface Chemical Analysis - Secondary Ion Mass Spectrometry – Determination of relative 
+sensitivity  factors  from  ion-implanted  reference  materials;  International  Organization  for  Standardization, 
+Geneva, Switzerland; available at http://www.iso.org/iso/home.html (accessed Aug 2010). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    05 August 2010  (Extension  of  the  certification  period;  addition  of  journal  references,  editorial  changes); 
+09 August 2000 (Original certification date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975  2200;  fax  (301)  926  4751;  e  mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2134 
+
+Page 4 of 4 
+
+

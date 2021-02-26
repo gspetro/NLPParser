@@ -1,0 +1,378 @@
+﻿W 
+iT  OF  Co 
+até %
+
+,
+ 
+
+*
+ 
+4
+3
+g
+ 
+
+x
+ 
+
+y
+w
+ 
+
+]
+ 
+
+9
+g
+ 
+
+Stares  oF 
+
+% %, 
+
+<
+ 
+
+c
+E
+ 
+
+*
+ 
+
+W
+o
+ 
+
+"
+%
+,
+
+ %
+,
+ 
+
+National Institute of Standards & Technology
+
+Certificate of Analysis
+Standard Reference Material® 2214
+
+Isooctane
+(2, 2, 4-Trimethylpentane)
+Liquid Density
+
+This Standard Reference Material (SRM) is intended for use as a calibration material for densimeters.  SRM 2214 is
+a high purity liquid isooctane characterized for density, ρ(T), in the temperature range of 15.000 °C to 25.000 °C.  A
+unit  consists  of  four  flame-sealed  glass  ampoules  each,  containing  approximately  5  mL  of  isooctane.    Certified
+values and uncertainties are given in Table 1 for the liquid density at three sample temperatures.
+
+Table 1.  Certified Values and Uncertainties of SRM 2214 at Three Sample Temperatures
+
+    Temperature, °C
+
+  Density, kg/m3
+
+15.000
+20.000
+25.000
+
++
+H
+ 
+
+695.969 ± 0.035
+691.872 ± 0.035
+687.753 ± 0.035
+
+O
+H
+ 
+
++
+1
+
+The interpolation equation, valid between 15.000 °C and 25.000 °C, is
+
+                                           
+
+=
+
+691.872
+
+−
+
+1.18752
+
+×
+
+10
+
+−
+
+20
+
+−
+
+6.2516
+
+×
+
+10
+
+3
+−
+
+(
+T
+
+)
+
+( )
+T?
+
+[
+1
+
+−
+
+7
+
+(
+T
+
+−
+
+20
+
+]2
+)
+
+(1)
+
+where T is in the sample temperature in °C.
+
+Certified  Values  and  Uncertainties:    The  certified  values  are  based  on  instrumental  measurements  directly
+traceable  to  a  definitive  method  for  density  determination.    The  uncertainties  are  approximate  95  %  prediction
+intervals for isooctane density that incorporate standard uncertainties for random measurement variability, day-to-
+day  measurement  variability,  variability  in  isooctane  density  from  ampoule-to-ampoule,  and  uncertainties  in
+instrument calibration.  The true density of each ampoule of this material will lie within the associated prediction
+interval with high probability at the certified temperatures.  The end points of the prediction interval are based on an
+expanded uncertainty for isooctane density with a coverage factor of  k  =  2.13.    The  coverage  factor  was  obtained
+from the Student’s t-distribution with 15.2 effective degrees of freedom [1].
+
+Expiration  of  Certification:    The  certification  of  this  SRM  is  valid  indefinitely  within  the  measurement
+uncertainties specified, provided that the SRM is used in accordance with the instructions given in  this certificate.
+However, the certification will be nullified if the SRM is modified or contaminated.
+
+Characterization of this SRM was performed by J.F. Houser and V.E. Bean of the NIST Process Measurements
+Division.
+
+Statistical analysis was provided by W.F. Guthrie of the NIST Statistical Engineering Division.
+
+The support aspects involved in the preparation, certification, and issuance of this SRM were coordinated through
+the NIST Standard Reference Materials Program by J.C. Colbert.
+
+Gaithersburg, MD 20899
+Certificate Issue Date:  20 February 2001
+
+SRM 2214
+
+James R. Whetstone, Chief
+Process Measurements Division
+
+Nancy M. Trahey, Chief
+Standard Reference Materials Program
+
+Page 1 to 3
+
+The overall direction and coordination of the technical measurements leading to certification were provided by
+V.E. Bean of the NIST Process Measurements Division.
+
+Source and Preparation of Material:  The isooctane used to produce this SRM was obtained from a commercial
+source.  It was flame-sealed in glass ampoules, each containing approximately 5 mL of the liquid.
+
+Storage  and  Handling:    The  unopened  ampoules  comprising  the  SRM  must  be  stored  at  normal  ambient
+temperature.
+
+Instructions  for  Use:    The  sample  tube  of  the  densimeter  should  be  cleaned  according  to  the  manufacturer’s
+instructions.  When an ampoule is to be opened, that area of the stem where the prescored band is located (~5 mm
+below the encircling metallic band) should be carefully wiped with a clean, damp cloth and the body of the ampoule
+wrapped in absorbent material.  Then, holding the ampoule steady and with thumb and forefinger grasping the stem
+at the metallic band,  minimal thumb pressure should be applied to the stem to snap it.  (Correctly done, the stem
+should break easily where prescored.  Use of a metal file to break the stem is  NOT recommended.)  After opening
+the  ampoule,  the  entire  contents  should  be  transferred  immediately  to  another  container  and  dilutions  made  in
+accordance with the following subsections.  The isooctane should be injected into the sample tube according to the
+densimeter  manufacturer’s  instructions.    A  plastic  syringe  should  NOT  be  used  as  the  plastic  may  be  soluble  in
+isooctane.
+
+The uncertainty in results from  the interpolation equation will depend upon the uncertainty in the user’s temperature
+measurements.  The standard uncertainty, uc, for the interpolation equation can be approximately expressed as
+
+u
+
+c
+
+=
+
+{
+(
+s
+
+)
+
+2
+
++
+
+[
+)
+s20T?
+−
+ß
+
+20
+
+(
+
+]
+
+2
+
++
+
+?20
+
+[
+
+(
+20T?
+
+−
+
+20
+
+)
+
+2
+
+s
+
+γ
+
++
+
+(
+?
+
+ßs
+
+T
+
+20
+
+2
+
+)
+
+2
+
+]
+
+1
+
+}2
+
+where:
+sρ20 is the expanded uncertainty for the density at 20 °C from Table 1, divided by its coverage factor of k = 2.13.
+ρ20 is the density at 20 °C from Table 1.
+T is the sample temperature measured by the user, in °C.
+s β is the standard uncertainty for the first order coefficient in the interpolation equation obtained from the regression
+calculation and is equal to 1.06 x 10-7 with 6 degrees of freedom.
+s γ  is  the  standard  uncertainty  for  the  second  order  coefficient  in  the  interpolation  equation  obtained  from  the
+regression calculation and is equal to 3.66  x 10-8 with 6 degrees of freedom.
+β is the first order coefficient in the interpolation equation.
+s T is the uncertainty for the user’s sample temperature measurements, in °C.
+
+The expanded uncertainty  U,  for  the  interpolation  equation  can  be  approximately  expressed  as  U  =  2uc,  using  a
+coverage factor of k = 2 (see note after equation 3).
+
+Using the fact that the uncertainty from the linear regression will be greatest for T = 15 °C and T = 25 °C, with the
+substitution of values, the expanded uncertainty, U, becomes
+
+                                                                  
+
+U
+
+=
+
+2
+
+[
+3.04
+
+−
+
+4
+
+×
+
+10
+
++
+
+(
+s0.8
+
+2
+
+)
+
+T
+
+1
+
+] 2
+
+(2)
+
+(3)
+
+NOTE:  If the uncertainty of the user’s sample temperature measurement is not based on a large number of effective
+degrees  of  freedom  (>30),  then  the  user  should  replace  the  coverage  factor,  k  =  2,  in  equations  2  and  3  with  a
+coverage factor obtained from the Student’s t-distribution using the methods in the ISO Guide [1].
+
+Table 2.  Expanded Uncertainties from the Interpolation Equation for Some Examples
+of Uncertainties in Sample Temperature Measurement
+
+s T, °C
+
+0.001
+0.01
+0.1
+
+U, kg/m3
+
+0.035
+0.039
+0.203
+
+SRM 2214
+
+Page 2 to 3
+
+REFERENCE
+
+[1] Guide  to  the  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9  1st  Ed.,  ISO,  Geneva,
+Switzerland,  (1993);  see  also  Taylor,  B.N.  and  Kuyatt,  C.E.,  “Guidelines  for  Evaluating  and  Expressing
+Uncertainty  of  NIST  Measurement  Results,”  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office,
+Washington DC, (1994); available at http://physics.nist.gov/Pubs/.
+
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via
+the Internet http://www.nist.gov/srm.
+
+SRM 2214
+
+Page 3 to 3
+
+

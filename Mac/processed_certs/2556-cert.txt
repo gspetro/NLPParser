@@ -1,0 +1,739 @@
+﻿National  Institute  of  Standards  &  Technology 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  2556 
+
+Used  Auto  Catalyst 
+(Pellets) 
+
+Gn  Cooperation  with  the  International  Precious  Metals  Institute) 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  evaluating  chemical  end  instrumental  methods  for 
+the  analysis  of  platinum  group  metals  end  lead.  It  is  arecycled  pellet  auto  catalyst  in  the  form  of  fine  powder  (less 
+than  74  pm  (-200  meshy).  This  SRM  is  issued  in  70  ¢  units. 
+
+Certified  Values 
+
+Element 
+
+Concentration,  mg‘ke 
+
+Method. 
+
+Pt 
+Pd 
+Fh 
+Ph 
+
+697.4 
+326.0 
+512 
+
+6228 
+
++t 
++ 
++ 
++ 
+
+25 
+1.46 
+0.4 
+
+49 
+
+ID-ICPMS 
+ID-ICPMs 
+ICP-MS 
+ID-ICPMs 
+
+The  certified  values  for  platinum,  palladium,  rhodium,  and  lead  were  determined  on  samples  that  were  calcined  for 
+2h  at  500  °C  prior  to  analysis,  end  are  based  on  results  obtained  using  inductively  coupled  plasma  mass 
+spectrometry  with  isotope  dilution  quantitation  for  Pt,  Pd,  Pb,  anc  intemel  standard  quantitation  for  Rh.  The  stated 
+uncertamties  are  99%  confidence  intervals  of  the  single  method  means. 
+
+NOTICE  TO  USERS 
+
+Stability:  This  material  is  consideredto  be  steble,  however,  its  stability  has  not  been  rigorously  assessed.  NIST 
+will  monitor  this  material  and  will  report  any  substantive  changes  in  certification  to  the  purchaser.  Please  return 
+the  registration  card  to  facilitate  notification. 
+
+Use:  SRM  2556  1s  byrgroscopic,  and  contams  some  organic  matter  absorbed  from  automotive  fuel.  To  assure  a 
+stable  weighing  form  for  anabysis,  the  sample  must be  ignited  for  2h  at  500  °C,  and  then  stored  in  a  desiccator 
+until  the  anabytical  sample  is  weighed  out.  Homogeneity  assessments  inclicate  thet  analyses  performed  on  samples 
+of 
+0.1  g  may  be  related  to  the  certified  value,  samples  of 5  g  or  larger  are  more  typical  for  platinum  group  metal 
+enahyses. 
+
+The  overall  direction  and  coordination  of  the  anabrses  for  certification  were  under  the  chairmanship  of  PJ. 
+Paulsen  end  J  Fassett  of  the  NIST  Inorganic  Analytical  Research  Drvision  and  of  J.  Bozic  of  INCO  Ltd,  Copper 
+Cliff  Ontano. 
+The  mass  spectrometuc  anabrses  were  performed  by  ES.  Beary  and  PJ  Paulsen  of  the  NIST 
+Inorganic  Anabrtical  Research  Division. 
+
+ntatistical  consultation was  provided by  3.0.  Schiller  of  the  NIST  Statistical  Engineering  Division. 
+
+The  techrucal  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  ORM  were 
+coordinated  through  the  Standard  Reference  Materials  Programby  J35.  Kane. 
+
+Gathershurg,  MD  20899 
+August  24,  1993 
+(Revision  of  certificate  dated  7-92-93) 
+
+(over)
+
+Thomas  E.  Gills,  Acting  Chief 
+Standard  Reference  Materials  Program 
+
+Source  and  Preparation  of  Material:  INCO  Ltd,  Copper  Clif  Ontario,  CAMADA  collected  the  material  for 
+this  SRM  from  used  pellet  type  auto  catalysts  by  reserving  2.3  ke  (5  Ib)  samples  from  each  of  several  batches  of 
+auto  catalyst  as  it  was  being  recycled.  Hach  2.3  ke  (3  Ib)  sample  was  individually  pubrerized  to  less  then  74  pm  C 
+200  mesh)  and  blended,  and  several  samples  were  pooled  until more  then  136  ke  GOO  Ib)  had  been  collected.  The 
+material  was  then  shipped  to  NIST,  where  it  was  sieve-tested,  blended,  and  bottled  in  70 
+2  wuts  Ninety-six 
+tandomly  selected  samples  were  withdrawn  from  the  lot  for  homogeneity  testang  and  certification  enakysis. 
+
+Analysis:  Homogeneity  testing  for  the  certified  platinum  group  elements  and  lead  was  performed  by  high- 
+precision  4-ray  fluorescence  analysis  of  3.5  ¢  and  6 
+2  samples,  and  by  inductively  coupled  plasma  analysis 
+preceded  by  fire  assay  of  6 
+2  samples.  No  statistically  significant  material  variability  was  observed  for  the 
+elements  evaluated.  Certification  analyses  performed  at  NIST  on  0.1  gsamples  also  showedno  evidence  of  sample 
+heterogeneity. 
+
+The  certified  values  are  besed  exclusively  on  isotope  dilution  mass 
+Certified  Values  and  Uncertainties: 
+spectrometry  (Pt,  Pd,  Pb)  or  inductrrely  coupled  plasma  mass  spectrometoy  (Rh). 
+Confirmatory  analyses  were 
+performed  by  instrumental  neutron  activation  at  NIST  end  ty  Z-ray  fluorescence,  inductrrely  coupled  plasma 
+atomic  emission 
+
+and  flame  atomic  absorption by  cooperating  laboratories. 
+
+Non-certified  Values:  The  non-certified  values,  shown  below  in  parentheses,  are  orven  to  provide  additional 
+information  on  the  overall  matrix  composition  of  the  SEM.  The  values  are  non-certified  because  there  was  not 
+intermethod  agreement  or  because  they  were  determined ty  only  one  analytical  method. 
+
+Element 
+
+Concentration,  Wit  %* 
+
+Element 
+
+Concentration,  make 
+
+Al 
+Ca 
+Ce 
+Fe 
+La 
+ri 
+
+(40) 
+(0.13 
+(1) 
+a2) 
+a7) 
+(0.2) 
+
+"74 So  =  make x  Lot 
+
+Ba 
+éfi 
+at 
+
+fon 
+(600) 
+Goh 
+
+-2-
+
+Methods/T  echruiques 
+
+Flement 
+
+Methods 
+
+Pt 
+Pd 
+Rh 
+Pb 
+
+Al 
+Ba 
+Ca 
+Ce 
+Fe 
+La 
+Bi 
+an 
+ft 
+
+ID-ICPIIS,  NAA,  ICP-AES,  ARF 
+ID-ICPMS,  INAA,  ICP-AES,  XRF 
+ICF-M5,  ICP-AES,  XRF 
+ID-ICPMS,  ICP-AES,  SRF 
+
+ARF,  INAA,  ICP-MS 
+XRF,  ICP-MS 
+SRF,  ICP-MS 
+SAF,  INAA,  ICP-MS 
+XRF,  INAA  ICP-MS 
+SRF,  INAA  ICP-MS 
+XRF,  ICP-MS 
+SRF,  INAA  ICP-MS 
+XRF 
+
+ID-ICPM5  -  Isotope  dilution  inductrrely  coupled  plasma  mass  spectrometry,  Carius  tube  decomposition. 
+INAA  -  Insttumental  neutron  activation  anebsis. 
+ICP-MS  -  Inductarely  coupled  plasma  mass  spectrometry,  Carius  tube  decomposition  (Rh),  mixed  acid  digestion 
+(all  other  elements). 
+ARF  -  Wavelength  dispersrre  X-ray  fluorescence. 
+ICP-AES  -  Inductorely  coupled  plasma  atomic  emission  spectrometry,  mixed  acid  digestion  or  fire  assay. 
+
+Contributing  Laboratories: 
+
+NIST,  Inorganic  Analytical  Research  Drvision,  E.5.  Beary,  DA.  Becker,  K.  Garrity,  AF.  Marlow,  ].A.  Moody,  PJ. 
+Paulsen,  PA  Pella  R.L.  Watters,  Jr,  and  LJ.  Wood. 
+
+INCO  Ltd,  Ontario  Division,  Copper  Clff  Ontario: 
+
+J.  Bozic,  A.  Glaab,  and  5.  Maggs. 
+
+Ford  Motor  Co.,  Dearbom,  MI;  F¥V¥.  Kunz. 
+
+Engelhard  Corp,  Hunterville,  AL,  L.  Echvards  end  L.  Tannehull. 
+
+Johnson-Matihey,  Weyne,  PA;  LE.  Brooks  and  G.  Smith. 
+
+Johrson-Matthey,  Wrest  Deptford,  NJ.  TM  Piecara. 
+
+Accredited  Laboratories  Inc,  Carteret,  NJ;  J.  Anselmo  and R.  Hagen. 
+
+Handy  and  Harmen,  Fawfield,  CT;  J.B.  Whitney  and  MA.  Worthington. 
+
+4.
+
+Addendum  to  the  Certificates 
+
+for 
+
+SRM  2556,  Used  Auto  Catalyst  (Pellets) 
+SRM  2557,  Used  Auto  Catalyst  (Monolith) 
+
+NIST  Standard  Reference  Materials  G@RMs)  are  used  extensrrely  for  the  evaluation  of  analytical  methods  and  the 
+assessment  of  laboratory  performance.  MIST  SRMs  are  certified  at  a  relattvely  high  degree  of  accuracy  ancl  the 
+uncertainties  of  the  certified  values  are  small  with  respect  to  the  intended  use. 
+This  allows  one  to  test  for 
+analytical  measurement  bias,  to  determine  nelytical  measurement  acceptability,  and  to  establish  statistical  control 
+of  the  enabrtical  measurement  process. 
+
+This  addencum  is  to  provide  the  users  of  these  two  automobile  catalyst  SRMs  with  information  that  can  be  used  to 
+compare  NIST  certified  values  with  mean  values  cbtamed  by  the  leboratones  that  participated  in  the  round  robin 
+exercises.  The  laboratories  are  identified  by  mamber  and  thei  results  reflect  variabilities  that  can  be  expected 
+among  and  between  laboratories.  In  most  cases,  the  laboratories!  results  are  means  of  four  to  eight  replicates 
+reported  without  any  assessment  of  systematic  error.  The  overall  interlaboratory  means  are  reported  along  with 
+the  average  standard  deviation  at  one  sigma  (a). 
+
+NIST  certified  values  should be  used  for  equipment  calibration  and/or  method  evaluation.  The  certified  values  are 
+the  "best!  estimate  of  the  trae  value,  while  the  round  robin  results  provide  the  user  with  some  measure  of  the 
+reproducibility  that  canbe  expected  using  more  traditional  techniques  or  methods. 
+
+Gaithersburg,  MD  20899 
+August  24,  1993 
+
+Thomas  E.  Gills,  Acting  Chief 
+staridard  Reference  Materials  Program 
+
+(over)
+
+Corttributing  Laboratory  Data  for  SRV  25356  in  mgke 
+
+Lab 
+
+Pt® 
+
+Rh 
+
+Pht 
+
+11** 
+
+6188 
+
++ 
+
+161 
+
+1 
+2 
+3 
+4 
+5 
+6 
+? 
+8 
+Q 
+10 
+11 
+12 
+13 
+
+1 
+2 
+3 
+4 
+4 
+6 
+7 
+8 
+Q 
+10 
+11 
+12 
+13 
+
+Mean 
+fay 
+
+NIST  Cert. 
+Value 
+(9%  CL) 
+
+697.4 
+
+2.3 
+
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+
++ 
++ 
+
+13"" 
+
+22 
+14 
+33 
+3g* 
+
+13 
+aa 
+
+la 
+
+22 
+23 
+
+76g 
+663 
+672 
+71g 
+fla 
+644 
+644 
+703 
+690 
+654 
+
+7Ol 
+eso 
+
+686 
+20 
+
+yatt 
+
+16 
+41 
+
+ate 
+
+33 
+Ay** 
+14 
+
+1204 
+1131 
+1120 
+1131 
+1062 
+1113 
+1054 
+1153 
+1125 
+1095 
+
+ 
+E
+
+ 
+H
+E
+H
+
+ 
+H
+H
+H
+
+ 
+H
+H
+
+ 
+H
+H
+
+1075 
+1131 
+
+ 
+H
+
+ 
+H
+
+164 
+13 
+
+Mean 
+(la) 
+
+NIST  Cert. 
+Value 
+(9990  CL) 
+
+1119 
+23 
+
+1131 
+
+11 
+
+*(NAA,  ICP,  ERF 
+*ICP,  XRF 
+
+Pde 
+
+ 
+H
+E
+
+ 
+H
+H
+H
+
+402 
+304 
+314 
+315 
+237 
+ 
+325 
+H
+H
+298 
+H
+343 
+H
+H
+317 
+310  H
+
+ 
+H
+
+326 
+324 
+
+ 
+t
+H
+
+4 
+
+320 
+12 
+
+326.0 
+
+1.6 
+
+ 
+]
+A
+
+ 
+o
+b
+
+ 
+e
+f
+
+ 
+b
+O
+‘
+
+ 
+o
+O
+
+ 
+A
+
+ 
+o
+b
+
+ 
+a
+L
+
+Pd 
+
+ 
+E
+
+ 
+H
+E
+H
+
+ 
+H
+H
+H
+
+257 
+224 
+219 
+215 
+131 
+237 
+226 
+241 
+226 
+ 
+H
+236  H
+
+ 
+H
+H
+
+ 
+H
+
+227 
+232  H
+
+ 
+
+231 
+12 
+
+233.2 
+
+32 
+47 
+50 
+31 
+30 
+50 
+52 
+a4 
+31 
+
+ 
+H
+e
+
+ 
+E
+E
+
+ 
+R
+e
+H
+H
+h
+
+ 
+H
+H
+
+ 
+e
+f
+
+ 
+o
+b
+
+ 
+o
+b
+
+ 
+e
+b
+
+ 
+D
+R
+
+ 
+*
+
+423 
+314  H
+
+ 
+e
+H
+
+  04 
+
+1.9  4260 
+
++ 
+
+130 
+
+5690 
+7802 
+
++ 
++ 
+
+160 
+225 
+
+6485 
+914 
+
+6228 
+
+49 
+
+134404  89 
+
+134404  74 
+16800+  180 
+
+13900+  300 
+
+14395 
+1618 
+
+13931
+
+507 
+2.0 
+
+512 
+
+a) 
+
+143 
+140 
+133 
+127 
+TT 
+128 
+137 
+134 
+137 
+
+134 
+127 
+
+134 
+
+135.1 
+
+ 
++
+
+ 
+*
+
+ 
+n
+o
+h
+a
+e
+O
+o
+e
+W
+e
+
+ 
+E
+O
+
+ 
+E
+O
+
+ 
+H
+O
+
+ 
+H
+O
+
+ 
+H
+O
+
+ 
+H
+O
+
+ 
+R
+H
+
+ 
+H
+o
+H
+
+ 
+H
+
+1.9 
+
+1.9 
+
+oF 
+
+Contributing  Laboratory  Data  for  SRM  2537  in  meke 
+
+Lab 
+
+Pt® 
+
+Fh 
+
+Pb? 
+
+

@@ -1,0 +1,454 @@
+﻿ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 1984 
+ 
+Thermal Spray Powder – Particle Size Distribution 
+Tungsten Carbide/Cobalt (Acicular) 
+
+ 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  primarily  intended  for  use  in  the  calibration  of  equipment  used  to 
+measure particle size distributions (PSD) in the 9 µm to 30 µm range.  A unit of SRM 1984 consists of a single bottle 
+containing approximately 14 g of tungsten carbide/cobalt powder.   
+ 
+Certified values:  The PSD values at five mass percentiles were measured by scanning electron microscopy (SEM) 
+and laser light scattering (LLS).  The certified PSD values by SEM are listed in Table 1.  These certified values were 
+determined by the measurement of over 10 000 individual particles from three bottles.  The reference PSD values by 
+LLS are listed in Table 2.  A comparison of the two methods is shown in Figure 1.  
+ 
+
+Table 1.  Certified PSD Values by SEM 
+
+Certified Diameter  
+(µm) 
+
+Cumulative Mass Fraction 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The uncertainty at each percentile, computed according to the ISO/JCGM and NIST Guides [1], is an expanded uncertainty at 
+the 95 % level of confidence.  The measurands are the certified PSD values listed in Table 1.  Metrological traceability is to 
+the SI unit for lenght (expressed as µm). 
+
+Uncertainty(a) 
+(µm) 
+
+10.3 
+13.2 
+17.1 
+21.3 
+26.3 
+
+0.9 
+0.9 
+2.2 
+1.6 
+0.9 
+
+10 
+25 
+50 
+75 
+90 
+
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1984  is  valid  indefinitely,  within  the  measurement 
+uncertainty  specified,  provided  the  sample  dispersion  procedures are rigorously followed (see “Sample Dispersion 
+and Measurement Procedures for Light Scattering Method”).  Periodic recertification of this SRM is not required.  
+The powder contains no organic binder and is, therefore, considered chemically stable.  The certification is nullified 
+if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+The concept for the development of this SRM was provided by S.J. Dapkunas formerly of NIST. 
+ 
+The SRM measurement technique, development, and certification were performed by J.F. Kelly and P. Pei formerly 
+of NIST. 
+ 
+Statistical analyses were performed by H-k. Liu of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  28 September 2015 
+Certificate Revision History on Page 3. 
+
+John A. Small, Chief 
+Materials Measurement Science Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+SRM 1984 
+
+Page 1 of 5 
+
+ 
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials. 
+ 
+Measurement  of  SRM:    The  starting  material  was  a  10 kg  batch  from  a  single  lot (W2203A)  of  Type SD 251 
+tungsten carbide/cobalt powder obtained from OSRAM Sylvania Products, Inc.(1) (Towanda, PA).  This powder was 
+chosen for its size distribution, irregularly shaped particle morphology (Figure 2), resistance to fracture on handling, 
+and low level of aggregation. 
+ 
+The powder was split into bottle units containing approximately 14 g each by using spinning rifflers.  A randomized 
+set of 100 bottles from 672 bottles was selected for homogeneity testing, round robin study using LLS instruments, 
+and certification analyses by SEM.  Homogeneity testing of 14 randomly selected bottles, measured in duplicate, was 
+performed with a LLS instrument at NIST.  The data showed no evidence of size heterogeneity.  
+ 
+Scanning  Electron  Microscopy  Analysis:    SEM  based  image  analysis  was  carried  out  on  three  bottles.    Sample 
+preparation for microscopy entailed both a reduction in the mass of powder and a separation into size fractions.  The 
+size  fractionation  was  accomplished  by  sieving  using  sieves  with  nominal  openings  of  10 µm,  20 µm,  and  30 µm.  
+Subsamples from each of the sieve splits were then produced by successive division using a spinning riffler.  
+ 
+SEM  images  were  acquired  for  each  of  the  sieve  fractions.   The backscatter electron images of the particles were 
+acquired  as  greyscale  image  files  into  a  computer  via  a  digital  interface.    The  2048 × 2048 pixel  images  were 
+analyzed to obtain the projected areas of the tungsten carbide/cobalt particles.  These areas were fitted with ellipses 
+and  the  major  and  minor  axes  converted  to  particle  volumes  (prolate  ellipsoids)  and  particle  diameters  using  the 
+average  of  the  three  ellipsoid  axes.    The  pixel-to-length  conversion  was  calibrated  using  a  micrometer  slide 
+calibrated at NIST using laser interferometry.  Several hundred particles of each sieve fraction were measured for a 
+total of approximately 2 400 particles measured from each bottle.  Particle size distributions describing the percent 
+of powder mass represented by particles with diameters less than a given length were calculated using the weighting 
+factors obtained from the sieving results.  The diameter values corresponding to the specific mass fractions of 10 %, 
+25 %, 50 %, 75 %, and 90 % are listed in Table 1.  Current practice in the thermal spray industry is to specify these 
+values to define the particle size distribution.  A graphical comparison of the distribution measured by SEM with the 
+mean distribution obtained by LLS is shown in Figure 1.  
+ 
+Laser  Light  Scattering  Method  (Round Robin Study):  Ten laboratories participated in this round robin study.  
+Each round robin participant received two bottles for analysis using their light scattering instruments.  The reference 
+distribution  values  given  in  Table 2  are  based  on  20 measurements  by  the  10 participating  laboratories.    The  LLS 
+data  from  all  10 laboratories  were  obtained  using  such  instruments  as  the  Horiba LA910,  Microtrac X100, 
+Sympatec HELOS,  and  Beckman  Coulter LS 230  following  the  sample  preparation  procedure  specified  by  NIST.  
+Therefore,  in  the  use  of  this  SRM,  the  sample  dispersion  procedure  is  mandatory;  otherwise,  the  data  may  not  be 
+comparable.  Although the light scattering instruments produce a continuous plot of weight percent finer than a given 
+diameter, five cumulative percentiles were selected as a representative data set for certification since it is consistent 
+with the industrial practice.   
+ 
+The following individuals and companies participated in the development of this SRM: 
+ 
+T. Weigel and P. Plantz, Honeywell, Microtrac Solution Center, Clearwater, FL 
+J. Wolfgang, SYMPATEC, Inc., Princeton, NJ 
+L. Vu, P. Fernando, and M. Pohl, Horiba Instruments, Inc., Irving, CA 
+L. Updegraff and R. Neiser, Sandia National Laborabories, Albuquerque, NM 
+J. Bohan, API, Hadley, MA 
+J. Vasiliou, Duke Scientific Corporation, Palo Alto, CA 
+K. Cowan and R. Iacocca, P/M Laboratory, Pennsylvania State University, State College, PA 
+H.D. Garrelts,  Stellite Coatings, Goshen, IN 
+H. Hildebrand, Beckman Coulter, Miami, FL 
+R. Simmons, Dirats Laboratories, Westfield, MA 
+F. Venskytis,  OSRAM Sylvania Products, Inc., Towanda, PA 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 1984 
+
+Page 2 of 5 
+
+Table 2.  PSD Reference Values by LLS 
+
+Reference Value  
+(µm) 
+
+Cumulative Mass Fraction 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The uncertainty at each percentile, computed according to the ISO/JCGM Guides [1], is an expanded uncertainty at the 95 % 
+level of confidence.  The measurands are the reference PSD values listed in Table 2 as determined by the LLS.  Metrological 
+unit  for  lengh 
+traceability is to the SI unit for lenght (expressed as µm). 
+
+Uncertainty(a) 
+(µm) 
+
+9.5 
+12.5 
+16.5 
+21.3 
+26.5 
+
+0.8 
+0.8 
+0.9 
+1.2 
+1.3 
+
+10 
+25 
+50 
+75 
+90 
+
+LLS. 
+
+Ul 
+
+ 
+SAMPLE DISPERSION AND MEASUREMENT PROCEDURES FOR LIGHT SCATTERING METHOD 
+ 
+Sample  Dispersion  Procedure:    Application  of  the  reference  values  produced  by  LLS  requires  following  this 
+sample  dispersion  procedure;  otherwise,  results  may  not  be  comparable  to  the  reference  values  listed  in  Table 2.  
+NOTE:  Each sample bottle contains approximately 14 g tungsten carbide/cobalt powder that is sufficient for many 
+analyses by LLS instruments.   
+ 
+1.  Use  a  microriffler  for  splitting  the  sample  into  subsamples  of  the  appropriate  mass  as  specified  by  the 
+
+manufacturer’s instructions.   
+
+ 
+2.  Add  4 %  aqueous  sodium  pyrophosphate  solution  to  each  subsample at the ratio of 1.00 mL/g of powder and 
+lagnetic  stirrer  since  the  powder  will  attach 
+make a paste by mixing gently with a spatula.  DO NOT use a magnetic stirrer since the powder will attach 
+to the magnet and may be crushed during stirring.   
+
+ 
+3.  Transfer the paste quantitatively (totally) into the measuring cell containing distilled water whose pH has been 
+pre-adjusted  to  9.5 ± 0.1  with  1 mol/L sodium  hydroxide  solution.    Flush  the  container  with  pH-adjusted 
+distilled water to complete the transfer. 
+
+ 
+4.  Follow the instrument manufacturers’ instructions for instrument calibration and operation. 
+ 
+ 
+ 
+
+REFERENCE 
+
+ 
+[1]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sept  2015);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Sep 2015). 
+
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    28 September 2015  (Change  of  expiration  date;  editorial  changes);  07 November 2010  (Extension  of  the 
+ 
+01   
+certification period; editorial changes); 01 December 2000 (Original certification date). 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+ttp://www.nist.gov/srm 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+fax 
+
+ 
+
+SRM 1984 
+
+Page 3 of 5 
+
+SRM 1984 Size Distribution
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+)
+
+%
+
+(
+ 
+n
+o
+i
+t
+c
+a
+r
+F
+ 
+s
+s
+a
+M
+ 
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+  
+
+  
+
+    
+
+  
+
+  
+
+ 
+L
+
+SEM
+
+    
+
+    
+
+LLS
+
+  
+
+ 
+]
+L
+
+  
+
+ 
+L
+
+  
+
+ 
+L
+
+ 
+O
+
+ 
+L
+
+  
+
+  
+
+       
+  
+      
+  
+ 
+   
+
+  
+
+ 
+L
+
+I
+L
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+0
+
+5
+
+ 
+
+ 
+
+Diameter (µm)
+
+ 
+
+Figure 1.  SRM 1984 Size Determination by SEM and LLS 
+
+SRM 1984 
+
+Page 4 of 5 
+
+ 
+
+ 
+
+ 
+    |         40 µm        | 
+ 
+
+ 
+ 
+
+Figure 2.  SEM Micrograph of SRM 1984 Powder 
+
+SRM 1984 
+
+Page 5 of 5 
+
+

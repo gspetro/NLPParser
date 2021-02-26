@@ -1,0 +1,565 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2587 
+
+ 
+
+ 
+Trace Elements in Soil Containing Lead from Paint 
+(Nominal 3000 mg/kg Lead) 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation of methods and for the calibration of 
+apparatus used to determine lead and other trace elements in soil.  SRM 2587 is composed of soil samples collected 
+from  a  suburban  garden  known  to  have  been  contaminated  by  lead-based  house  paint.    All  values  are  reported  as 
+mass fractions [1], on a dry-mass basis and are based on measurements using a sample mass of at least 200 mg.  A 
+unit consists of approximately 55 g of material with a particle size of <75 μm (200 mesh).  
+ 
+Certified Mass Fraction Values:  The certified values for four environmentally important elements are provided in 
+Table 1.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest  confidence  in  its  accuracy  in  that  all 
+known or suspected sources of bias have been investigated or accounted for by NIST. 
+ 
+Reference Mass Fraction Values:  Reference values for 14 additional elements are provided in Table 2.  Reference 
+values  are  noncertified  values  that  are  the  best  estimate  of  the  true  value;  however,  the  values  do  not  meet  NIST 
+criteria for certification and are provided with associated uncertainties that may reflect only measurement precision 
+and may not include all sources of uncertainty. 
+ 
+Information Mass Fraction Values:  Information values are listed in Table 3.  These values may be of interest to 
+the  SRM  user;  however,  insufficient  information  is  available  to  adequately  assess  the  uncertainty  associated  with 
+these values. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2587  is  valid,  within  the  uncertainty  specified,  until 
+30 September 2023,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage, Handling, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.  
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Partial  financial  support  for  the  development  of  this  SRM  was  provided  by  the  U.S.  Environmental  Protection 
+Agency (EPA)  under  the  direction  of  project  manager  B. Schumacher  of  the  EPA  National  Exposure  Research 
+Laboratory, Las Vegas, NV. 
+ 
+The overall direction and coordination of the technical measurements leading to the certification of this SRM were 
+performed by R.L. Watters, Jr. and G.C. Turk of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation was provided by L.M. Gill of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  or  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 March 2013 
+Certificate Revision History on Last Page 
+ 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 2587 
+ 
+ 
+
+Page 1 of 5
+
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+ 
+Use:  To relate analytical determinations to the certified values on this Certificate of Analysis, a minimum sample 
+mass of 200 mg should be used and the sample should be dried according to the “Instructions for Drying”.  Sample 
+preparation procedures should also be designed to effect complete dissolution in order to relate the determined value 
+to  the  certified  value.    The  SRM  must  be  stored  in  its  original  bottle  at  temperatures  less  than  30 °C  away  from 
+fumes and direct sunlight. 
+ 
+Instructions  for  Drying:    Samples  should  be  oven  dried  for  2 h  at  105 °C.    For  the  determination  of  volatile 
+elements (arsenic and mercury), samples should be analyzed as received; separate samples should be dried according 
+to  these  instructions  to  obtain  a  correction  factor  for  moisture.    Moisture  corrections  are  then  made  to  the 
+measurement results before comparing them to the certified values.  This alternative drying method may also be used 
+for nonvolatile elements. 
+ 
+Certified  Mass  Fraction  Values  and  Uncertainties:    Certified  values  and  uncertainties  are  provided  in  Table 1. 
+The  certified  values  are  based  on  results  from  two  or  more  NIST  independent  analytical  methods  and  additional 
+results  from  methods  used  at  the  U.S.  Geological  Survey (USGS) (Table 4).    All  values  are  reported  as  mass 
+fractions [1], on a dry basis (see “Instructions for Drying”), and are based on measurements using a sample mass of 
+at least 200 mg. 
+ 
+
+Table 1.  Certified Mass Fractions 
+
+Element 
+
+Arsenic 
+Cadmium 
+Chromium 
+Lead 
+
+Mass Fraction 
+mg/kg 
+
+13.7 
+1.92 
+92 
+3 242 
+
+ 
+ 
+ 
+ 
+
+2.3 
+0.23 
+11 
+57 
+
+ 
+The certified values are equally weighted means from the combination of results provided by NIST and USGS.  The 
+uncertainty is calculated as, U = kuc+ B.  The quantity uc is the combined standard uncertainty calculated according 
+to the ISO and NIST Guides [2] and is intended to represent, at the level of one standard deviation, the combined 
+effect  of  within-method  variation  and  material  inhomogeneity.    The  coverage  factor,  k,  is  determined  from  the 
+Student-t distribution corresponding to the calculated effective degrees of freedom and 95 % level of confidence for 
+each element.  B is a bias adjustment for the difference between methods, which is the maximum difference between 
+the certified value and method means [3]. 
+ 
+Reference  Mass  Fraction  Values  and  Uncertainties:    Reference  values  and  uncertainties  are  given  in  Table 2.  
+The  reference  value  for  Hg  is  derived  from  a  single  method  performed  at  NIST.    The  reference  values  for  the 
+remaining elements are derived from two or more methods performed at NIST and/or USGS. 
+ 
+
+Table 2.  Reference Mass Fractions 
+
+Element 
+ 
+ 
+Aluminum 
+Barium 
+Calcium 
+Iron 
+Magnesium 
+Manganese 
+Mercury  
+
+Mass Fraction 
+mg/kg 
+
+ 
+
+Element 
+ 
+
+ 
+
+ 
+
+Mass Fraction 
+mg/kg 
+
+58 600    1 700 
+12 
+ 
+568 
+200 
+9 270   
+250 
+28 130   
+250 
+6 690   
+23 
+ 651   
+0.009 
+0.290   
+
+Phosphorus 
+Potassium 
+Silicon 
+Sodium 
+Strontium 
+  Titanium 
+  Zinc 
+
+970 
+15 830 
+331 300 
+11 270 
+126 
+3 920 
+
+ 
+ 
+ 
+ 
+ 
+ 
+335.8   
+
+100 
+550 
+2 600 
+330 
+19 
+650 
+
+7.6 
+
+ 
+The reference values are equally weighted means from the combination of results provided by NIST and USGS.  The 
+uncertainty is calculated as, U = kuc+ B.  The quantity uc is the combined standard uncertainty calculated according 
+to the ISO and NIST Guides [2] and is intended to represent, at the level of one standard deviation, the combined 
+effect  of  within-method  variation  and  material  inhomogeneity.    The  coverage  factor,  k,  is  determined  from  the 
+Student-t distribution corresponding to the calculated effective degrees of freedom and 95 % level of confidence for 
+each element.  B is a bias adjustment for the difference between methods, which is the maximum difference between 
+
+Page 2 of 5
+
+SRM 2587 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+the certified value and method means [3]. 
+ 
+Information  Concentration  Values:    Information  values  are  provided  in  Table 3.    The  values  are  either  from  a 
+single method or are the mean of two methods. 
+ 
+
+Table 3.  Information Mass Fractions 
+
+ 
+
+Mass Fraction 
+mg/kg 
+
+Element 
+ 
+
+ 
+
+Mass Fraction 
+mg/kg 
+
+ Element 
+ 
+ 
+Beryllium 
+Cerium 
+Cobalt 
+Copper 
+Gallium 
+Lanthanum 
+Lithium 
+Neodymium 
+
+9.2 
+
+57 
+14 
+160 
+13 
+29 
+32 
+25 
+
+Nickel 
+Niobium 
+Scandium 
+Thorium 
+Vanadium 
+Ytterbium 
+Yttrium 
+
+ 
+ 
+ 
+ 
+ 
+
+36 
+14 
+11 
+
+7.5 
+
+78 
+
+1.6 
+
+15 
+
+ 
+ 
+COLLECTION, PREPARATION, AND ANALYSIS 
+ 
+Collection:    Soil  material  used  in  the  preparation  of  SRM 2587  was  collected  from  a  suburban  residence  in  the 
+Hartford, CT area known to be contaminated by lead-based paint.  The soil was collected within the top 25 cm 
+after  surficial  organic  material  had  been  removed.    Visual  inspection  of  the  collected  soil  revealed  moderate 
+quantities of partially decomposed organic matter as well as minor amounts of masonry debris.  Uncontaminated soil 
+from the Boston, MA area was collected for use as a diluent.  
+ 
+Preparation:    The  preparation  of  SRM 2587  was  performed  at  the  USGS  laboratory  in  Denver, CO,  under  the 
+direction of S.A. Wilson.  The collected soils were dried at room temperature for 5 days, disaggregated, and sieved. 
+The  material  with  particle  size  under  2 mm  was  collected  in  20 L  containers  and  chemically  analyzed.    The 
+information from this preliminary analysis was then used to combine and blend the sub-sets into a single set with a 
+target  lead  concentration  of  3000 mg/kg.    The  blended  mixture  was  ground  to  <75 μm (200 mesh)  using  a 
+Hardinger(1) ball mill equipped with an air separator system and  mixed for 20 hours using a cross-flow V-blender.  
+The material was then split into 8 kg aliquots and sterilized using Co-60 irradiation.  After sterilization the material 
+was re-combined, blended for 3 h, and bottled. 
+ 
+Analysis:    Certification  analyses  were  performed  in  the  NIST  Chemical  Sciences  Division  and  at  USGS.    The 
+analytical methods used and the analysts are listed in Table 4. 
+
+                                                            
+(1) Certain commercial equipment, instruments, or materials are identified in this report to specify adequately the experimental 
+procedure.  Such identification does not imply recommendation or endorsement by NIST, nor does it imply that the materials or 
+equipment identified are necessarily the best available for the purpose. 
+
+ 
+SRM 2587 
+ 
+ 
+
+Page 3 of 5
+
+Table 4.  Methods Used for the Analysis of SRM 2587 
+ 
+
+Analysts 
+B. Buehler, M.S. Epstein 
+
+NIST  M.S. Epstein 
+
+Elements (a) 
+As, Cr 
+Hg 
+
+Method 
+Lab 
+Electrothermal Atomic Absorption Spectrometry  NIST 
+Flow Injection – Cold Vapor Atomic Absorption 
+Spectrometry 
+Inductively Coupled Plasma Mass Spectrometry  NIST 
+NIST 
+Instrumental Neutron Activation Analysis 
+NIST 
+Isotope Dilution – Inductively Coupled Plasma 
+Mass Spectrometry 
+X-Ray Fluorescence Spectrometry with Fusion 
+Sample Preparation, Calibrated with Fusions of 
+Mixed Pure Element Compounds 
+
+NIST 
+
+Inductively Coupled Plasma Atomic Emission 
+Spectrometry 
+
+USGS 
+
+L.L. Yu 
+R. Zeisler 
+E.S. Beary, K.E. Murphy 
+
+As, Cd 
+As, Cr 
+Cd, Pb 
+
+P.A. Pella, A.F. Marlow, 
+E. Ramirez (Guest Scientist 
+from Centro Nacional de 
+Metrologia, Mexico) 
+P.H. Briggs 
+
+Al, Ba, Ca, Cr, Fe, 
+K, Mg, Mn, P, Pb, 
+Si, Sr, Ti, Zn 
+
+Al, As, Ba, Be, Ca, 
+Ce, Co, Cr, Cu, Fe, 
+Ga, K, La, Li, Mg, 
+Mn, Na, Nb, Nd, Ni, 
+P, Pb, Sc, Sr, Th, Ti, 
+V, Y, Yb, Zn 
+Al, Ca, Fe, K, Mg, 
+Na, P, Si, Ti 
+
+USGS 
+
+S.A. Wilson, J.S. Mee, 
+D.F. Siems 
+
+X-Ray Fluorescence Spectrometry with Fusion 
+Sample Preparation, Calibrated with Fusions of 
+Geological Reference Materials 
+ 
+(a)Certified Elements shown in Bold. 
+ 
+User  Experience  with  SRM 2587:    In  order  to  demonstrate  user  experience  with  SRM 2587,  a  number  of 
+laboratories analyzed this material, using a variety of dissolution and instrumental methods.  For lead, this was done 
+through the Environmental Lead Proficiency Analytical Testing Program (ELPAT), where SRM 2587 was included 
+as an unknown for Round Robin number 12.  Data for As, Cd, Cr, and Hg, were supplied by volunteer laboratories 
+in  a  round  robin  exercise  organized  by  NIST.    The  sample  preparation  methods  include  EPA-SW846-3050A, 
+EPA-SW846-3051 [4]  and  others.    As  these  methods  may  not  effect  complete  sample  dissolution,  the  results 
+obtained  using  these  methods  tend  to  be  lower  than  the  certified  values.    The  results  are  summarized  in  Table 5. 
+These results were not used in calculating the certified values of SRM 2587. 
+
+ 
+Table 5.  Results of Round Robin Exercise 
+ 
+
+Element 
+
+ 
+
+Minimum 
+mg/kg 
+
+ 
+
+Maximum 
+mg/kg 
+
+Std. Deviation 
+mg/kg 
+
+ 
+
+Mean 
+mg/kg 
+
+12.2 
+1.8 
+34 
+0.25 
+3 091 
+
+7.1 
+1.0 
+21 
+0.07 
+2 590 
+
+16.6 
+2.5 
+53 
+0.33 
+3 479 
+
+2.2 
+0.4 
+8 
+0.06 
+228 
+
+ 
+(a) The results reported for Cd from four laboratories were erroneously high and are not included in the summary statistics given 
+
+N 
+
+20 
+17 
+22 
+19 
+40 
+
+Page 4 of 5
+
+ 
+
+ 
+
+As 
+Cd(a) 
+Cr 
+Hg 
+Pb 
+
+here. 
+
+SRM 2587 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Taylor, B.N.; Guide for the Use of the International System of Units (SI), NIST Special Publication 811, 1995 
+
+[2] 
+
+Ed. (1995); http://www.nist.gov/pml/pubs/index.cfm (accessed Mar 2013). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Mar 2013);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results,  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Mar 2013). 
+
+[3]  Schiller, S.B.; Eberhardt, K.R.; Combining Data from Independent Chemical Analysis Methods, Spectrochimica Acta, 
+
+Vol. 46B, pp. 16071613 (1991). 
+
+[4]  Federal Register 1-13-95 SW-846 update #2, Final. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  11 March 2013 (Extension of the certification period; editorial changes); 24 June 2008 (Update of expiration date 
+and editorial changes); 03 March 1999 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.  This  can  be 
+accomplished  by  contacting  the  SRM  Program  at:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 2587 
+ 
+ 
+
+Page 5 of 5
+
+

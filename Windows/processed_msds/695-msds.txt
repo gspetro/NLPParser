@@ -1,0 +1,797 @@
+﻿Date of Issue: 
+16 November 2018 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1. SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+695 
+Trace Elements in Multi-Nutrient Fertilizer 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the evaluation of techniques employed 
+in the analysis of multi-nutrient fertilizer materials and materials of a similar matrix.  A unit of SRM 695 consists 
+of approximately 70 g of jet-milled fertilizer. 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  https://www.nist.gov/srm 
+
+2. HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard:  Not classified. 
+Carcinogenic 
+Health Hazard: 
+Category 1 
+STOT, Repeated Exposure  Category 1 
+ 
+
+Label Elements 
+Symbol  
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+H350 
+H372 
+
+May cause cancer (lung) via inhalation. 
+Causes damage to lungs through prolonged or repeat inhalation. 
+
+Precautionary Statement(s) 
+P201 
+P202 
+P260 
+P264 
+P270 
+P280 
+P308+P313 
+P405 
+P501 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Wear eye protection, protective gloves and clothing. 
+If exposed or concerned:  Get medical attention. 
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+SRM 695 
+
+ 
+
+Page 1 of 6 
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Multi-nutrient Fertilizer 
+
+Other Designations:  Fertilizer test blend 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  The material contains trace amounts of other 
+oxide components; for the actual values see the NIST Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+Diammonium Hydrogen Phosphate 
+Potassium Magnesium Sulfate 
+(Sulfate of Potash Magnesia) 
+
+Potassium Nitrate 
+
+Potassium Chloride 
+
+Urea 
+
+Iron Oxides 
+Limestone (Calcium Carbonate) 
+
+Urea Formaldehyde 
+
+Silicon Dioxide (Quartz) 
+
+ 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7783-28-0 
+
+14977-37-8 
+
+7757-79-1 
+
+7447-40-7 
+
+57-13-6 
+
+65996-75-9 
+
+1317-65-3 
+
+9011-05-6 
+
+14808-60-7 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass 
+Concentration 
+(%) 
+
+231-987-8 
+
+604-700-2 
+
+231-818-8 
+
+231-211-8 
+
+200-315-5 
+
+266-007-8 
+
+215-279-6 
+
+618-464-3 
+
+238-878-4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+≤ 35 
+
+≤ 10 
+
+≤ 11 
+
+≤ 10 
+
+≤ 20 
+
+≤  6 
+
+≤  5 
+
+≤  5 
+
+≤  2.6 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+Skin Contact:  Wash skin with soap and water. 
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Prolonged exposure to respirable silica particles can cause 
+lung damage (silicosis) and cancer. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5. FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard.  Avoid generating dust.  See Section 9, “Physical and Chemical 
+Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special  Protective  Equipment  and  Precautions  for  Fire-Fighters:    Avoid  inhalation  of  material  or  combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 0 
+
+6. ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces 
+should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal.  Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry. 
+
+SRM 695 
+
+ 
+
+Page 2 of 6 
+
+7. HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  Routine housekeeping should 
+be instituted to ensure that dust does not accumulate on surfaces.  See Section 8, “Exposure Controls and Personal 
+Protection”.  Avoid contact with incompatible materials (see Section 10, “Stability and Reactivity”). 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Components 
+
+Limestone 
+
+Silica, crystalline 
+quartz 
+
+Exposure Limits 
+
+OSHA (PEL) 
+
+ACGIH (TLV) 
+
+NIOSH (REL) 
+
+TWA:  15 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+No occupational limits 
+established. 
+
+TWA:  10 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+TWA:  30/(SiO2 + 2) mg/m3 
+
+fraction) 
+
+(total dust) 
+
+TWA:  10/(SiO2 +2) mg/m3 
+
+(respirable fraction) 
+
+TWA:  250/(SiO2 + 5) mppcf 
+  (respirable fraction) 
+
+TWA:  0.025 mg/m3 
+(respirable fraction) 
+
+fraction) 
+TWA:  0.05 mg/m3 
+(respirable dust) 
+
+IDLH:  50 mg/m3 
+
+(respirable dust) 
+
+No  occupational  exposure  limits  available  for  diammonium  hydrogen  phosphate,  potassium  magnesium  sulfate, 
+potassium nitrate, potassium chloride, iron oxides, urea, and urea formaldehyde. 
+
+Engineering  Controls:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+
+Appearance (physical state, color, etc.) 
+Molecular Formula 
+Molar Mass (g/mol) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Density (specific gravity) 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity (cP) 
+Solubility(ies) 
+Partition coefficient (n-octanol/water) 
+Nominal Particle Size 
+
+ 
+
+Multi-nutrient Fertilizer 
+grey to brown powder 
+not applicable 
+not applicable 
+odorless 
+not available 
+5 to 8 
+not available 
+not available 
+1.5 to 3 
+not available 
+not available 
+not available 
+water:  10 % to 99 % 
+not available 
+<74 μm 
+
+ 
+
+ 
+
+ 
+
+SRM 695 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties 
+
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point 
+Flammability (solid, gas) 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Multi-nutrient Fertilizer 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid generating dust.   Avoid heat, flames, sparks, and other sources of ignitions.  Avoid 
+contact with incompatible materials. 
+
+Incompatible  Materials:    Combustible  materials,  acids,  bases,  metals,  oxidizing  materials,  metal  salts,  halogens, 
+peroxides, and reducing agents. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce miscellaneous compounds. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+
+11. TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    May  aggravate  respiratory 
+disorders.   
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Irritation, cough phlegm.  Prolonged or repeated exposure to mixtures containing respirable silica 
+may cause cough, expectoration, dyspnea, wheezing, pharyngitis, chronic bronchitis, emphysema, and silicosis. 
+Skin Contact:  May cause mechanical irritation. 
+Eye Contact:  May cause irritation or eye damage. 
+Ingestion:  May cause irritation. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  No data available for the multi-nutrient fertilizer. 
+
+Diammonium hydrogen phosphate, Rat, Oral LD50:  6500 mg/kg; Rabbit, Dermal LD50: >7950 mg/kg. 
+Potassium nitrate, Rat, Oral LD50:  3015 mg/kg; Rat, Oral LD50:  3540 mg/kg; Rat, Oral LD50:  3750 mg/kg. 
+Potassium chloride, Rat, Oral LD50:  2600 mg/kg. 
+Urea, Rat, Oral LD50:  8471 mg/kg. 
+Urea formaldehyde, Rat, Oral LD50:  8394 mg/kg; Rat, Inhalation LC50:  >167 mg/m3 (4 h).  
+Silica, crystalline quartz, Rat, Oral LD50:  500 mg/kg. 
+
+Skin Corrosion/Irritation:  Not classified. 
+
+Urea, Human skin, 22 mg/3 days, intermittent – mild; Human skin, 20 % moderate. 
+Urea formaldehyde, Rabbit, Skin:  500 mg (24 h) – severe.  (cat. 2, less than 10% of mixture) 
+
+Serious Eye Damage/Irritation:  Not classified. 
+
+Potassium chloride, Rabbit, Eyes:  500 mg (24 h) mild. 
+Urea:  Saturated  solutions  have  caused  clouding  of  human  eyes  which  cleared  up  several  weeks  after 
+
+exposure. 
+
+Urea formaldehyde, Rabbit, Eyes:  100 μL (24 h) – severe (cat. 2, less than 10 % of mixture). 
+
+Respiratory Sensitization:  No data available for the multi-nutrient fertilizer. 
+
+Skin Sensitization:  No data available for the multi-nutrient fertilizer. 
+
+Germ Cell Mutagenicity:  No data available for the multi-nutrient fertilizer. 
+
+SRM 695 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Category 1. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Multi-nutrient  fertilizer  and  the  components  (diammonium  hydrogen  phosphate,  potassium  magnesium 
+sulfate, potassium nitrate, potassium chloride, limestone, iron oxides, urea, and urea formaldehyde) are not 
+listed by OSHA, IARC, or NTP as a carcinogen/potential carcinogen. 
+ 
+ 
+ 
+
+Potassium nitrate, Tumorigenic data:  E. coli, 5 pph. 
+Urea, Tumorigenic data:  Rat, Oral, TDLo: 821 g/kg (1 year). 
+Urea formaldehyde, Mutagenic data:  E. coli, 3000 ppm. 
+
+X  Yes 
+
+No 
+
+ 
+
+Silica, crystalline quartz is listed as Group 1, carcinogenic to humans by IARC, known human carcinogen 
+(respirable size) by NTP, and is not listed by OSHA as a designated carcinogen. 
+ 
+  Mutagenic data, Human, 120 mg/L (24 h). 
+
+Tumorigenic data, Rat, Inhalation, TCLo:  50 mg/m3 (6 h). 
+
+Reproductive Toxicity:  No data available for the multi-nutrient fertilizer. 
+
+Potassium nitrate, Rat, Oral, TDLo: 598 mg/kg (pregnant 1 to 22 days; 5 days). 
+Urea, Woman, Intraplacental TDLo:  1600 mg/kg (pregnant 16 week). 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available for the multi-nutrient fertilizer. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1, Lungs. 
+
+Repeated  and  prolonged  exposure  to  respirable  quartz  may  cause  chronic  bronchitis,  emphysema,  and 
+silicosis. 
+
+Aspiration hazard:  Not applicable. 
+
+12. ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available for the multi-nutrient fertilizer. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Diammonium hydrogen phosphate:  Fish, rainbow trout (Oncorhynchus mykiss) LC50:  26.5 mg/L. 
+Potassium chloride:  Fish, bluegill (Lepomis macrochirus) LC50: 1060 mg/L (96 h) [static]. 
+ 
+ 
+Urea: 
+ 
+
+Algae, (Desmodesmus subspicatus) EC50:  2500 mg/L (72 h). 
+Invertebrate, water flea (Daphnia magna) EC50: 83 mg/L (48 h) [static]. 
+Fish, guppy (Poecilia reticulata) LC50:  16 200 mg/L to 18 300 mg/L (96 h).  
+Invertebrate, water flea (Daphnia magna) EC50: 3910 mg/L (48 h) [static]. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available for the multi-nutrient fertilizer. 
+ 
+ 
+
+Diammonium hydrogen phosphate:  no bioaccumulation expected.  
+Urea:  BCF <10. 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13. DISPOSAL CONSIDERATIONS 
+
+14. TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15. REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SRM 695 
+
+ 
+
+Page 5 of 6 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+No 
+Yes 
+No 
+No 
+No 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+State Regulations: 
+
+California  Proposition  65:    Warning!    This  product  contains  a  chemical  (quartz)  known  to  the  state  of 
+California to cause cancer. 
+
+U.S.  TSCA  Inventory:    The  components  (diammonium  hydrogen  phosphate,  potassium  magnesium  sulfate, 
+potassium nitrate, potassium chloride, limestone, iron oxides, urea, urea formaldehyde, and silica) are listed. 
+
+TSCA  12(b),  Export  Notification:    The  components  (diammonium  hydrogen  phosphate,  potassium  magnesium 
+sulfate,  potassium  nitrate,  potassium  chloride,  limestone,  iron  oxides,  urea,  urea  formaldehyde,  and  silica)  are  not 
+listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+16. OTHER INFORMATION 
+
+Issue Date: 
+
+16 November 2018 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Ammonium Phosphate Dibasic, 22 September 2015. 
+ChemADVISOR, Inc., SDS, Iron Oxides, -09 December 2015. 
+ChemADVISOR, Inc., SDS, Langbeinite, 22 September 2015. 
+ChemADVISOR, Inc., SDS, Limestone, 09 December 2015. 
+ChemADVISOR, Inc., SDS, Potassium Chloride, 22 September 2015. 
+ChemADVISOR, Inc., SDS, Potassium Nitrate, 09 December 2015. 
+ChemADVISOR, Inc., SDS, Urea, 09 December 2015. 
+ChemADVISOR, Inc., SDS, Urea-Formaldehyde, 22 September 2015. 
+ChemADVISOR, Inc., SDS, Quartz, 09 December 2015. 
+Vendor, MSDS, Mosaic Test Blend Fertilizer Materials, 26 May 2011. 
+
+ 
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transport Association  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the 
+data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+https://www.nist.gov/srm. 
+
+SRM 695 
+
+ 
+
+Page 6 of 6 
+
+

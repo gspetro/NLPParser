@@ -1,0 +1,567 @@
+﻿ 
+ 
+
+ 
+
+SAFETY DATA SHEET 
+
+Date of Issue: 
+14 May 2014 
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+RM Number:   8505 
+RM Name:  Vanadium in Crude Oil 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Reference Material (RM) is intended for the use in the calibration of instruments and techniques used for the 
+analysis of high vanadium crude oils.  A unit of RM 8505 consists of 250 ml of crude oil in a glass bottle.  This 
+crude oil is unrefined and has physical properties similar to residual fuel oil No. 6, with a high flash point 70 °C 
+(158 °F), high viscosity, and pour temperature of 12°C.  There is also a trace amount of water present which 
+should be handled as described in the NIST Report of Investigation. 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard: 
+Health Hazard:  
+
+Flammable liquid, Category 4 
+Not classified. 
+
+Label Elements 
+Symbol  
+No symbol/No pictogram 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s) 
+H227 
+
+ 
+
+Combustible liquid. 
+
+Precautionary Statement(s) 
+ 
+P210 
+ 
+P280 
+
+Keep away from flames and hot surfaces.  – No Smoking. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+P403+P235   
+
+Store in a well-ventilated place.  Keep cool. 
+
+P501 
+
+Dispose of content and container in accordance with local regulations.  
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Crude oil 
+Other Designations:  Petroleum; petroleum crude; coal oil; crude oil; rock oil. 
+ 
+
+RM 8505 
+
+ 
+
+Page 1 of 5 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  Trace amounts of hydrogen sulfide may be 
+generated  due  to  the  sulfur  content  in  the  crude  oil.    There  is  not  a  direct  correlation  between  hydrogen  sulfide 
+generation and the total sulfur content in this material. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+  8002-05-9 
+
+232-298-5 
+
+100 
+
+Crude oil 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  
+Get immediate medical attention.  
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get medical attention, if needed.  Thoroughly clean and dry contaminated clothing and shoes before reuse. 
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention. 
+Ingestion:  DO NOT induce vomiting.  If vomiting occurs, keep head lower than hips to help prevent aspiration. 
+Get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed: Irritation, cough, difficulty breathing, dermatitis. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+Unsuitable:  Avoid using straight water streams in order to prevent frothing. 
+
+Fire and Explosion Hazards:  Moderate fire hazard.  Vapor/air mixtures are explosive above the flash point.  See 
+Section 9, “Physical and Chemical Properties” for flammability properties. 
+Extinguishing Media 
+ 
+ 
+Specific Hazards Arising from the Chemical:  Not applicable. 
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 2 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  
+Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or 
+non-combustible material and collect in appropriate container for disposal.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage and Incompatible Materials:  Store in a well-ventilated area.  Keep separated from incompatible substances 
+(oxidizing materials). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:   
+
+NIOSH (REL):   350 mg/m3 (TWA) 
+ 
+ 
+
+1800 mg/m3 (Ceiling 15 min) 
+1100 ppm (IDLH, 10 % LEL) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+RM 8505 
+
+ 
+
+Page 2 of 5 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Properties 
+
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Density(a) 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Kinematic Viscosity(a) 
+Solubilities 
+Partition coefficient (n-octanol/water) 
+
+ 
+
+not applicable 
+not applicable 
+yellow to black, liquid 
+varies 
+not available 
+not available 
+not available 
+–60 °C to –20 °C (–76 °F to –4 °F) 
+0.986 kg/dm3 at 20 °C 
+>0.36 kPa at 20 °C 
+not available 
+not available 
+1915 cSt at 50 °C 
+water:  insoluble 
+not available 
+
+Thermal Stability Properties 
+
+ 
+
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL 
+Explosive Limits, UEL 
+Flash Point(a) 
+Flammability (solid, gas) 
+
+>400 °C (>752 °F) 
+not available 
+<38 °C (<100.4 °F) 
+≈0.6 % 
+≈15 % 
+70 °C (158 °F) 
+not applicable 
+
+(a) Physical property listed in the NIST Report of Investigation. 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Conditions to  Avoid:    Avoid  heat,  flames,  sparks,  and  other  ignition  sources.    Avoid  contact  with  incompatible 
+materials.  Containers may rupture or explode if exposed to heat.  Keep out of water supplies and sewers.  Dangerous 
+gases may accumulate in confined spaces.  
+
+Incompatible Materials:  Oxidizing materials. 
+
+Hazardous Decomposition:  Oxides of carbon and sulfur.  
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    Irritation,  cough,  difficulty 
+breathing, dermatitis. 
+
+RM 8505 
+
+ 
+
+Page 3 of 5 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:    Irritation  hazard  is  low  unless  heated  or  misted.    Vapor  or  mist  may  cause  irritation,  headache, 
+drowsiness, dizziness, loss of coordination.  Prolonged contact may cause irritation. 
+
+Skin Contact:  May cause skin disorders, dermatitis, and rash. 
+
+Eye Contact:  Irritation, conjunctivitis. 
+
+Ingestion:  May cause nausea vomiting, diarrhea, other gastrointestinal disturbances, aspiration to the lungs may 
+cause pneumonitis. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Inhalation, Category 2 
+Rat, Oral, LD50:  4300 mg/kg 
+Rabbit, Dermal, LD50:  >2000 mg/kg 
+
+Human, open skin: 100 %; Rabbit, skin: 500 mg (24 h) moderate 
+
+Rabbit, eyes:  100 mg mild; Human, eyes: 0.000125 ppm (5 h) 
+
+Skin Corrosion/Irritation:  Not classified. 
+ 
+Serious Eye Damage/Eye Irritation:  Not classified. 
+ 
+Respiratory Sensitization:  No data available. 
+Skin Sensitization:  No data available. 
+Germ Cell Mutagenicity:  No data available. 
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Crude oils are listed by IARC as a Group 3, not classifiable as its carcinogenicity to humans. 
+
+X  No 
+
+Yes 
+
+ 
+
+Reproductive Toxicity:  Not classified. 
+
+Rat, skin, TDLo: 200 mg/kg (pregnant 1 d to 19 d), 10 g/kg (pregnant 0 to 19 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available. 
+Specific Target Organ Toxicity, Repeated Exposure:  No data available. 
+Aspiration Hazard:  Not applicable. 
+
+Invertebrate: Water flea (Daphnia magna), EC50:  <0.26 mg/L, static (48 h). 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+ 
+Persistence 48and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA based on the flash point of 70 °C, this material is not regulated 
+by IATA or by DOT in non- bulk quantities 49 CFR 173.150(f)(2). 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+RM 8505 
+
+ 
+
+Page 4 of 5 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+No 
+No 
+No 
+
+State Regulations:  Not listed. 
+U.S. TSCA Inventory:  Crude oil is listed. 
+TSCA 12(b), Export Notification:  Not listed. 
+Canadian Regulations:  WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  14 May 2014 
+Sources:  ChemADVISOR, Inc., MSDS Petroleum-Crude Oil (Untreated and Mildly-Treated), 21 March 2014. 
+
+World  Health  Organization,  International  Agency  for  Research  on  Cancer,  Occupational  Exposures  in 
+Petroleum  Refining;  Crude  Oil  and  Major  Petroleum  Fuels,  Vol.  45,  (1998)  available  at 
+http://monographs.iarc.fr/ENG/Monographs/vol45/volume45.pdf (accessed May 2014). 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short  Term Exposure Limit  
+STEL  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The values for this material are given in the NIST Report of Investigation. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+RM 8505 
+
+ 
+
+Page 5 of 5 
+
+

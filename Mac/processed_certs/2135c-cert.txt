@@ -1,0 +1,548 @@
+﻿. 
+   National Institute of Standards and Technology 
+
+ 
+a
+
+ 
+*
+o
+
+7 
+Staves  of  ©
+
+ 
+
+Certificate 
+Standard Reference Material® 2135c 
+
+ 
+
+ 
+Ni/Cr Thin Film Depth Profile Standard 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  calibrating  sputtered  depth  scales  and  erosion 
+rates in surface analysis. Its periodic structure, consisting of eight well-defined metal/metal interfaces, can be used to 
+obtain accurate calibration at a number of depths.  SRM 2135c is certified for total Chromium (Cr) and Nickel (Ni) 
+thickness,  single  element  layer-to-layer  uniformity,  Ni  and  Cr  bilayer  uniformity  (periodicity)  and  single  layer 
+thickness [1-3].  Certified thickness values, expressed in units of mass/area, are given in the section entitled Certified 
+Values and Uncertainties.  
+ 
+A unit of SRM 2135c consists of nine alternating metal thin-film layers, five layers of pure chromium and four of 
+pure nickel, on a polished silicon (100) substrate. The individual layers have thicknesses that are nominally 57 nm 
+for Cr and 56 nm for Ni.  The area of the specimen that is certified is determined by the full width of the substrate 
+(1.0 cm) and a length of 2.0 cm centered on the 2.54 cm length of the substrate (see Figure l). 
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  is  deemed  to  be  indefinite  within  the  measurement 
+uncertainties specified provided the SRM is handled, stored, and used in accordance with the instructions provided 
+in this certificate.  However, the certification will be nullified if the SRM is altered, contaminated or damaged.   
+ 
+This  SRM  was  fabricated  by  RF  magnetron  sputtering  at  COMSAT  Laboratories,  Clarksburg,  MD,  under  the 
+direction of L.B. Holdeman and E.R. Sparks. 
+ 
+Auger Sputter Depth Profile analyses were performed by L. Tanovic, N. Tanovic, and J. Fine of the NIST Surface 
+and  Microanalysis  Science  Division.    X-ray  Fluorescence  (XRF)  Spectrometry  measurements  were  performed  by 
+P.A.  Pella  and  A.F.  Marlow  of  the  NIST  Analytical  Chemistry  Division.    Inductively  Coupled  Plasma  (ICP) 
+Spectrometry measurements were performed by R. Saraswati, L.J. Wood, and M.S. Epstein of the NIST Analytical 
+Chemistry Division.  Secondary Ion Mass Spectrometry (SIMS) Sputter Depth Profile analyses were performed by 
+D.S. Simons and P.H. Chi of the NIST Surface and Microanalysis Science Division. 
+ 
+Statistical consultation was provided by K.R. Eberhardt and J.H. Yen of the NIST Statistical Engineering Division. 
+  
+The overall direction and coordination of the technical measurements leading to certification were performed by 
+J. Fine of the NIST Surface and Microanalysis Science Division. 
+ 
+The  technical  and  support  aspects  concerning  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated through the Standard Reference Materials Program by R.J. Gettings. 
+ 
+ 
+
+Rance A. Velapoldi, Chief 
+Surface and Microanalysis Science Division 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  1 February 1999 
+
+ 
+
+Thomas E. Gills, Chief 
+Standard Reference Materials Program 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2135c 
+
+ 
+
+Page 1 of 5 
+
+CERTIFIED VALUES AND UNCERTAINTIES   
+ 
+A.    Total  Cr  and  Total  Ni  Thicknesses:    The  total  certified  thickness  and  expanded  uncertainties  of  the  five  Cr 
+layers  and  the  total  thickness  of  the  four  Ni  layers  were  determined  by  XRF  and  ICP  using  a  gravimetrically 
+calibrated reference. 
+ 
+
+ 
+
+Element             
+
+Certified Total Thickness 
+
+  Cr 
+  Ni 
+
+   
+   
+
+206.3 μg/cm2   ±  13.8 μg/cm2 
+197.4 μg/cm2   ±   9.6 μg/cm2 
+
+ 
+The  uncertainties  of  the  certified  total  thicknesses  are  expressed  as  expanded  uncertainties  at  the  95  %  level  of 
+confidence, and are calculated according to the guidelines described in Reference [4].  An expanded uncertainty is 
+calculated as U = kuc, where the coverage factor, k = 2, corresponds to 95 % confidence, and where uc is intended to 
+represent, at the level of one standard deviation, the measurement uncertainty.  The stated uncertainties are due to 
+three components:  uncertainty due to ICP calibration, between-specimen differences (obtained by wide field XRF), 
+and within-specimen differences (obtained by small field XRF), see Tables l and 2. Additional information regarding 
+within-specimen  uniformity  was  provided  by  SIMS  analysis.    The  within-specimen  differences  indicate  that 
+variations exist in the total Cr and Ni thicknesses over the central 1.0 cm X 2.0 cm certified area.  
+ 
+B.    Single  Element Layer-to-Layer Uniformity and Ni + Cr Bilayer Uniformity (periodicity):  Layer-to-layer 
+thickness  uniformity  of  the  Cr  and  Ni  layers  was  determined  by measuring the ion bombardment time required to 
+remove individual layers of the same element by sputter erosion.  This time was obtained by monitoring the surface 
+composition by Auger spectroscopy using 50 % intensity criteria (see Figure 2) during sputter profiling.  Analysis 
+was obtained over a region of the surface about 10 μm in diameter.  The uniformity of the Ni + Cr bilayer removed, 
+was determined in a similar manner. 
+ 
+
+Certified Layer-to-Layer Uniformity 
+(relative standard deviation in %) 
+
+ 
+Type of Layer 
+ 
+ 
+
+ 
+
+ 
+ 
+
+Single Cr Layer 
+
+Single Ni Layer 
+
+Bilayer 
+
+ 
+
+0 8
+.
+
+.
+0 9
+
+0 6
+.
+
++
+
+−
++
+
+21
+.
+0 6
+.
+.
+15
+
+−
++
+
+−
+
+0 6
+.
+2 2
+.
+0 5
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The  uncertainties  in  the  certified  values  are  expressed  as  95  %  confidence  intervals.    These  calculations  involved 
+several steps.  First, for a particular element or bilayer, the layer-to-layer relative standard deviations obtained from 
+the  different  batches  using  Auger  spectroscopy  were  pooled  into  a  sample  and  re-expressed  using  a  logarithmic 
+transformation.  If ฀ and uy  are the sample mean and standard deviation of the transformed values, then the certified 
+relative  uniformity  is  calculated  as  exp  (฀)  and  the  confidence  interval  has  the  form  exp  (฀  ±  k  uy),  where  the 
+coverage  factor,  k  =  2.365,  is  determined  from  the  Student’s  t-distribution  with  7  degrees  of  freedom  and  95  % 
+confidence.  As shown in the uncertainty statements, such confidence intervals are not symmetric about the certified 
+values.   
+ 
+C.  Single Layer Thickness:  The certified thickness for single layers of a given element was obtained from the total 
+layer thickness for that element and the number of layers present.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  uncertainty  of  a  certified  single  layer  thickness  is  expressed  as  an  expanded  uncertainty  at  the  95  %  level  of 
+confidence,  and  is  calculated  according  to  the  guideline  described  in  Reference  [4].    An  expanded  uncertainty  is 
+
+           
+Certified Single Layer Thickness  
+
+ 41.3 μg/cm2  ±  2.8 μg/cm2 
+ 49.4 μg/cm2  ±  2.6 μg/cm2  
+
+ 
+  Element  
+
+    Cr 
+    Ni 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2135c 
+
+Page 2 of 5 
+
+ 
+
+ 
+ 
+
+ 
+
+calculated as U = kuc, where the coverage factor, k = 2, corresponds to 95 % confidence, and where uc is intended to 
+represent, at the level of one standard deviation, the measurement uncertainty.  The uncertainty of the single layer 
+thickness of an element is determined by combining the uncertainty of the average total thickness of that element, 
+which  is  described  in  section  A  of  this  certificate,  and  the  uncertainty  of  the  layer-to-layer  uniformity  of  that 
+element, which is described in section B.    
+ 
+Structure Description:  The silicon substrate was lightly sputter etched in situ to obtain a clean, amorphous surface 
+for layer deposition.  Metal thin-film structures were produced by RF magnetron sputter deposition beginning with a 
+layer of Cr.  This was followed by alternate layers of Ni and Cr with Cr forming the outermost layer, (see Figure 1). 
+Dimensions of the substrate are 1.0 cm X 2.54 cm X 0.04 cm, with the films deposited on the largest surface.  The 
+layered face is the more reflective surface. 
+ 
+Instructions for Use:  Information on material composition as a function of depth at surfaces and interfaces can be 
+obtained  by  monitoring  the  elemental  surface  concentration  as  successive  surface  layers  are  sputter-removed  at 
+known rates by ion bombardment.  SRM 2135c is intended primarily to provide a means for determining sputtered 
+depths as well as sputter erosion rates in surface analysis.  Determination of sputtered depth can be made at seven 
+depths with this one SRM using metal/metal interfaces of known spacings.  The well-ordered structure of this SRM 
+makes  it  useful  for  verifying  correct  instrument  operation,  monitoring  ion  beam  current-density  stability,  and 
+producing sputtering conditions that achieve maximum interface resolution. 
+ 
+The thin-film metal layers can be distinguished as the more reflective surface of this SRM.  The outer Cr layer is not 
+intended for depth calibration purposes but can be useful for ion beam current measurement and specimen alignment. 
+ Sputtered depth and rate measurement can begin at the outermost Cr/Ni interface using, for example, 50 % of maximum 
+elemental  signal  intensity  as  a  reference  point  for  layer  removal  measurement.  Greater  accuracy  of  sputter  removal 
+times and depths can be obtained from a periodicity measurement for the removal of a Ni + Cr bilayer pair. 
+ 
+An example of an Auger sputter depth profile obtained with this SRM is shown in Figure 2. 
+ 
+Relative Sputtering Rates and Yields of Ni and Cr Using Argon Ion Bombardment (not certified): 
+ 
+
+Ion Energy 
+    (keV)      
+
+ 
+
+Ni Rate*/Cr Rate 
+ 
+
+ 
+
+Ni Yield**/Cr Yield 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+  1.0 
+  2.0 
+  3.0 
+  4.5 
+
+1.03 
+1.07 
+1.09 
+1.09 
+
+1.12 
+1.17 
+1.20 
+1.20 
+
+*Rate is expressed in units of length/time 
+**Yield is expressed as number of atoms sputtered per incident ion 
+ 
+Expressing Layer Thicknesses in Units of Length:  The certified layer thicknesses could be converted into units of 
+length (nm) if the densities of the layers were known.  As these densities are not known, an approximate thickness 
+can be derived by using the known bulk densities for Cr (7.19 g cm-3) and Ni (8.9 g cm-3); the values so obtained are 
+57 nm for Cr and 56 nm for Ni. 
+ 
+Cautions to User:  The usefulness of SRM 2135c for sputter rate calibration depends on maintaining a constant ion 
+current density at the point of analysis.  Care must be taken to ensure that the ion beam current remains constant and 
+that the beam position on the specimen remains fixed. 
+ 
+Precise determination of a reference point for layer removal measurement requires that the single layer profiles be 
+clearly resolved (i.e., flat topped profiles) so that the sputtered interface regions are well defined. 
+ 
+Foreign surface particulates should be removed before profiling by use of clean, pressurized gas; it is not advisable 
+to use solvents for cleaning as they can leave some residue. 
+
+SRM 2135c 
+
+ 
+
+Page 3 of 5 
+
+Ni/Cr Multilayered Thin-Film 
+Standard Reference Material 
+
+ 
+ 
+
+ 
+ 
+
+@
+e
+—
+e
+—
+®
+ 
+—
+—
+ 
+
+A
+y
+s
+u
+a
+y
+u
+|
+ 
+
+ 
+ 
+
+ 
+ 
+Figure 1.  Sectional view of the thin-film multilayered SRM structure.  The nominal thickness of each Cr layer is 
+57 nm and each Ni layer is 56 nm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.  Auger sputter depth profile representative of SRM 2135c obtained using 1 keV argon ion bombardment.  
+The pure Ni and Cr Auger intensities shown have been normalized. 
+
+Sputtered  Depth  [nm]
+
+ 
+ —
+ 
+
+J
+o
+B
+n
+y
+ 
+
+ 
+ 
+
+ 
+ 
+
+(
+3
+)
+N
+ 
+
+_
+@
+—
+e
+—
+—
+e
+-
+*
+ 
+
+3
+ 
+
+©
+ 
+
+@
+ 
+
+SRM 2135c 
+
+ 
+
+Page 4 of 5 
+
+ 
+Table l.  Identification of Uncertainties:  Total Thickness of Cr 
+
+Relative Standard Uncertainty 
+
+Source 
+ 
+ICP Measurement 
+Between Specimen Differences 
+(Wide Field-XRF) 
+Within-Specimen Differences 
+(Small Field-XRF) 
+ 
+ 
+Combined Standard Uncertainty, uc 
+Coverage Factor, k 
+Expanded Uncertainty, U = kuc  
+ 
+
+Source 
+ 
+ICP Measurement  
+Between-Specimen Differences  
+(Wide Field-XRF) 
+Within-Specimen Differences  
+(Small Field-XRF) 
+ 
+ 
+Combined Standard Uncertainty, uc   
+Coverage Factor, k 
+Expanded Uncertainty, U = kuc   
+ 
+
+1.33 % 
+1.12 % 
+
+2.85 % 
+
+3.34 % 
+2 
+6.68 % 
+
+1.52 % 
+1.46 % 
+
+1.22 % 
+
+2.44 % 
+2 
+4.88 % 
+
+Table 2.  Identification of Uncertainties:  Total Thickness of Ni 
+ 
+
+Relative Standard Uncertainty 
+
+ 
+
+ 
+
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Fine, J. and Navinsek, B., “Characterization of NBS Standard Reference Material 2135 for Sputter Depth Profile 
+
+Analysis,” J. Vac. Sci. Technol. A3, p. 1408, (1985). 
+
+[2]  Fine,  J.,  Lindfors,  P.A.,  Gorman,  M.E.,  Gerlach,  R.L.,  Navinsek,  B.,  Mitchell,  D.F.,  and  Chambers,  G.P., 
+“Interface  Depth  Resolution  of  Auger  Sputter  Profiled  Ni/Cr  Interfaces:  Dependence  on  Ion  Bombardment 
+Parameters,” J. Vac. Sci. Technol. A3, p. 1413, (1985). 
+
+[3]  Fine, J. and Navinsek, B., “An NBS Standard Reference Material for Depth Profile Analysis,” Surf. Interface 
+
+Anal. 11, p. 542, (1988). 
+
+[4]  Guide  to  the  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9,  lst  Ed.  ISO,  Geneva, 
+Switzerland,  (1993):    see  also  Taylor,  B.N.,  and  Kuyatt,  C.E.,  “Guidelines  for  Evaluating  and  Expressing  the 
+Uncertainty  of  NIST  Measurement  Results,”  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office, 
+Washington DC, (1994). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting  the  SRM  Program  at:    Telephone  (301)  975-6776  (select  “Certificates”),  Fax  (301)  926-4751,  e-mail 
+srminfo@nist.gov, or via the Internet http://ts.nist.gov/srm. 
+
+SRM 2135c 
+
+ 
+
+Page 5 of 5 
+
+

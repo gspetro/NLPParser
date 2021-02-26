@@ -1,0 +1,409 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+
+ 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+
+MSDS Coordinator:  Mario Cellarosi  
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  1617a 
+MSDS Number:  1617a 
+SRM Name:  Sulfur in Kerosene (High Level) 
+
+Date of Issue:  23 September 2010 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Description:  A unit of Standard  Reference  Material  (SRM)  1617a  consists  of  100  mL  of  a  special  high  sulfur 
+kerosene (No. 1-K) in an amber glass bottle. 
+
+Substance:  Kerosene 
+
+Other Designations:  Kerosene (Fuel Oil No. 1, coal oil) 
+
+2.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Components 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Concentration (a) 
+(mass fraction) 
+
+Kerosene 
+ 
+(a) Hazardous components 1 % or greater; carcinogens 0.1 % or greater are listed in compliance with OSHA 29 CFR 1910.1200. 
+
+232-366-4 
+
+8008-20-6 
+
+100 % 
+
+EC Classification:  Xn 
+
+EC Risk (R No.):  R 65 
+
+EC Safety (S No.):  S23, S24, S62 
+
+EC Risk/Safety Phrases:  See Section 15 “Regulatory Information” 
+
+3.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4): 
+
+Health = 2 
+
+Fire = 2 
+
+Reactivity = 0 
+
+Major Health Hazards:  Eye, skin and respiratory irritation. 
+
+Physical Hazards:  Flammable liquid and vapor.  This material is listed as an OSHA Class II material. 
+
+Potential Health Effects 
+
+Inhalation:    Short  term  (acute)  exposure  to  concentrations  at  or  below  100  mg/m3  have  little  or  no  effect.  
+Higher concentrations may result in irritation.  Repeated or prolonged (chronic) inhalation of fumes or mist my 
+result in irritation, tracheitis, bronchitis or pneumonitis.  
+
+Skin  Contact:    Short  term  (acute)  skin  contact  may  result  in  dry  skin,  irritation,  dermatitis,  and  edema.  
+Repeated or prolonged (chronic) exposure may result in defatting of the skin and dermatitis.  
+
+Eye Contact:  Mild to moderate irritation may occur. 
+
+Ingestion:  Ingestion of this material is unlikely under normal conditions of use.  Ingestion of small amounts of 
+may result in gastrointestinal irritation. 
+
+Listed as a Carcinogen/Potential Carcinogen:  
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+
+ 
+
+Yes 
+ 
+ 
+ 
+
+No 
+X 
+X 
+X 
+
+ 
+
+MSDS 1617a 
+
+Page 1 of 4 
+
+ 
+
+ 
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Seek medical attention if needed. 
+
+Skin  Contact:    Wash  exposed  skin  with  copious  amounts  of  water  for  at  least  15  minutes.    Remove  any 
+contaminated clothing.  Seek medical attention if needed. 
+
+Eye  Contact:    Immediately  flush  eyes  with  copious  amounts  of  water  for  at  least  15  minutes.    Seek  immediate 
+medical attention. 
+
+Ingestion:  If swallowed do not induce vomiting. Seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Moderate fire hazard.  Vapor/air mixtures are explosive above flash point.  Vapors 
+are heavier than air and may ignite at a distant ignition source and flash back. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+
+Fire Fighting:  Wear full protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (C):  55 (131 °F). 
+Method Used:  Closed Cup. 
+
+Autoignition Temp. (C):  210 (410 °F) 
+
+Flammability Limits in Air 
+ 
+ 
+
+Upper Explosive Limit (UEL):  5 % 
+Lower Explosive Limit (LEL):  0.7 %. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Avoid heat, flames, sparks or any other source of ignition.   Absorb with sand or other non-
+combustible material.  Collect spilled material and place in an appropriate container for disposal 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    The  tightly  capped  bottle 
+should be stored under normal laboratory conditions away from direct sunlight. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+ACGIH (TWA):  200 mg/m3 (application restricted to conditions in which there are negligible aerosol 
+exposures as total hydrocarbon vapor) 
+
+NIOSH (TWA):  100 mg/m3 
+
+Ventilation:  Use a local exhaust ventilation system. 
+
+Respirator:  Respiratory protection that meets OSHA 29 CFR 1910.134 is required if workplace conditions warrant 
+respiratory protection.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:   Wear splash resistant safety goggles.  An eye wash station should be readily available near areas 
+of use. 
+
+Personal  Protection:    Wear  appropriate  protective  clothing  and  chemically  resistant  gloves  to  prevent  skin 
+exposure. 
+
+MSDS 1617a 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Kerosene 
+
+Physical State:  Liquid. 
+
+Appearance and Odor:  Clear to brown with a strong petroleum odor. 
+
+Molar Mass:  Not applicable. 
+
+Specific Gravity (water = 1):  0.8 
+Kinematic Viscosity (38° C):  1.47 × 10-6 m2/s (1.47 cSt) 
+
+Boiling Point (°C):  >151 (>304 °F) 
+
+Volatility:  Not listed. 
+
+Vapor Density (air =1):  4.5. 
+
+Water Solubility:  Insoluble. 
+
+Solvent Solubility:  Petroleum solvents. 
+
+pH:  Not applicable. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+ 
+
+Stable 
+
+X 
+
+ 
+
+Unstable 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Containers may rupture or explode 
+if exposed to heat or flame. 
+
+Incompatible Materials:  Oxidizing materials, halogens. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition produces oxides of carbon and sulfur. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+
+Route of Entry: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+ 
+
+ 
+
+Health Effects (Acute and Chronic):  See section 3: “Hazards Identification” for potential health effects. 
+
+Toxicity Data:   
+
+ 
+ 
+ 
+
+Rat, Oral LD50:  5000 mg/kg. 
+Rat, Inhalation LD50:  5.28 mg/L 4 hours 
+Rabbit, Skin Irritation:  500 mg, severe (24 hours) 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No information listed. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Kerosene, UN1223, Hazard Class 3, PG III. 
+
+MSDS 1617a 
+
+Page 3 of 4 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Sections 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Sections 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Sections 313 (40 CFR 372.65):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE:  Yes 
+CHRONIC:  Yes 
+FIRE:  Yes 
+REACTIVE:  No 
+SUDDEN RELEASE:  No 
+
+OSHA Process Safety (29 CFR 1910.119): Not regulated. 
+
+OSHA List of Toxic and Hazardous Substances:  Not listed. 
+
+STATE REGULATIONS: 
+
+California Proposition 65:  Not regulated. 
+
+CANADIAN: Regulations 
+
+WHMIS Classification:  Not determined 
+
+EUROPEAN Regulations: 
+
+EC Classification (assigned): Xn – Harmful 
+
+EC Risk Phrases: 
+
+ 
+EC Safety Phrases: 
+
+R65 – Harmful:  may cause lung damage if swallowed. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+S23 – Do not breathe gas, fumes, vapor or spray 
+S24 – Avoid contact with skin. 
+S62 – If swallowed, do not induce vomiting: seek medical advice immediately and show this container 
+of label. 
+
+National Inventory Status 
+
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12 (b) Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  Chem ADVISOR, Inc., MSDS Kerosene, 03 December 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1617a 
+
+Page 4 of 4 
+
+

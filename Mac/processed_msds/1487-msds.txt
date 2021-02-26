@@ -1,0 +1,637 @@
+﻿Date of Issue:
+
+27 May 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1.  Substance and Source Identification 
+
+Product Identifier
+
+	SRM Number:	1487
+
+	SRM Name:	Poly(Methyl Methacrylate) 
+
+		(6 K Narrow Molecular Weight Distribution)
+
+	Other Means of Identification:  Not applicable.
+
+Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) s intended for use in calibration and performance evaluation of instruments used in polymer technology and science for determination of molecular weight and molecular weight distribution.  A unit of SRM 1487 consists of approximately 2 g of poly(methyl methacrylate).
+
+Company Information
+
+National Institute of Standards and Technology
+
+
+
+Standard Reference Materials Program
+
+
+
+100 Bureau Drive, Stop 2300
+
+
+
+Gaithersburg, Maryland 208992300
+
+
+
+
+
+
+
+Telephone:  3019752200
+
+Emergency Telephone ChemTrec:
+
+FAX:  3019483730
+
+	18004249300 (North America)
+
+Email:  SRMMSDS@nist.gov
+
+	+17035273887 (International)
+
+Website:  http://www.nist.gov/srm
+
+
+
+
+
+2.  Hazards Identification
+
+Classification
+
+	Physical Hazard:	Not classified.
+
+	Health Hazard:	Not classified.
+
+		Label Elements
+
+			Symbol
+
+			No symbol/No pictogram.
+
+			Signal Word
+
+			No signal word.
+
+Hazard Statement(s):  Not applicable.
+
+	Precautionary Statement(s):  Not applicable.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+
+3.  Composition and Information on Hazardous Ingredients
+
+Substance:  Poly(methyl methacrylate) 
+
+Other Designations:  methyl, methacrylate, polymerized; 2-methyl-2-propenoic acid methyl ester, homopolymer; methacrylic acid methyl ester polymer; PMMA. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Poly(Methyl Methacrylate) 
+
+		9011-14-7
+
+618-466-4
+
+100
+
+
+
+4.  First Aid Measures
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause mild or mechanical eye, skin, or respiratory tract irritation.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5.  Fire Fighting Measures
+
+Fire and Explosion Hazards:  Slight fire hazard.  Dust/air mixtures may ignite or explode.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water, or alcoholresistant foam.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for FireFighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 1	Fire = 1	Reactivity = 0
+
+6.  Accidental Release Measures
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Collect in appropriate container for disposal. 
+
+7.  Handling and Storage
+
+Safe Handling Precautions:  Avoid dust formation.  Avoid breathing vapors, mist or gas.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. Exposure Controls and Personal Protection
+
+Exposure Limits:  No occupational exposure limits have been established for poly(methyl methacrylate).  This material is a powder and adequate inhalation/respiratory protection should be used to minimize exposure.
+
+	Particulates Not Otherwise Regulated (PNOR)
+
+	OSHA (PEL):	15 mg/m3 (TWA, total dust)
+
+		5 mg/m3 (TWA, respirable fraction)
+
+	NIOSH (REL):	15 mg/m3 (TWA, total dust)
+
+		5 mg/m3 (TWA, respirable fraction)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9.  Physical and Chemical Properties
+
+
+
+Properties
+
+	Poly(Methyl Methacrylate) 
+
+Molar Mass (g/mol)
+
+	not applicable
+
+Molecular Formula
+
+	[CH2-C-(CH3)-(C-O-O-CH3)]x
+
+Appearance (physical state, color, etc.)
+
+	clear, solid powder
+
+Odor
+
+	faint odor
+
+Odor threshold
+
+	not available
+
+pH
+
+	not available
+
+Evaporation rate
+
+	not available
+
+Melting point/freezing point
+
+	132 °C (270 °F)
+
+Relative Density (water = 1)
+
+	not available
+
+Density
+
+	1.15 g/cc to 1.19 g/cc 
+
+Vapor Pressure
+
+	not available
+
+Vapor Density (air = 1)
+
+	not available
+
+Viscosity
+
+	not available
+
+Solubilities
+
+	water:  insoluble;
+
+	Moderately soluble:  methyl ethyl ketone; ethanol ethyl acetate, butanol, 2-ethoxyhexanol, 2-methoxyethanol, dimethylformamide, nitromethane, 1,2-dichloroethane, toluene
+
+Partition coefficient (noctanol/water)
+
+	not available
+
+Thermal Stability Properties
+
+	
+
+Autoignition Temperature
+
+	393 °C (739 °F)
+
+Thermal Decomposition
+
+	not available
+
+Initial boiling point and boiling range
+
+	not available
+
+Explosive Limits, LEL (Volume %)
+
+	not available
+
+Explosive Limits, UEL (Volume %)
+
+	not available
+
+Flash Point (Closed Cup)
+
+	not available
+
+Flammability (solid, gas)
+
+	not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.
+
+Incompatible Materials:  Oxidizing materials, acids, bases.
+
+Hazardous Decomposition:  Oxides of carbon.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+
+
+
+11.  Toxicological Information
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Irritation of skin, eye or respiratory tract may occur.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  May cause irritation.  
+
+Skin Contact:  May cause mechanical irritation.
+
+Eye Contact:  Contact may cause mechanical irritation.
+
+Ingestion:  May cause irritation.
+
+Numerical Measures of Toxicity
+
+	Acute Toxicity:  Not classified; no data available.
+
+	Skin Corrosion/Irritation:  Not classified.
+
+		Serious Eye Damage/Eye Irritation:  Not classified; no data available.
+
+		Respiratory Sensitization:  Not classified; no data available.
+
+		Skin Sensitization:  Not classified; no data available.
+
+		Germ Cell Mutagenicity:  Not classified; no data available.
+
+	Carcinogenicity:  Not classified.
+
+	Listed as a Carcinogen/Potential Carcinogen
+
+	
+
+	Yes
+
+	X
+
+	No
+
+	Poly(methyl methacrylate) is listed as Group 3, not classifiable by IARC and is not listed by NTP or OSHA as a carcinogen or potential carcinogen.
+
+		Tumorigenic data available:  Implant, Rat, TDLo:  127 mg/kg.
+
+	Reproductive Toxicity:  Not classified; no data available.
+
+	STOT, Single Exposure:  Not classified; no data available.
+
+	STOT, Repeated Exposure:  Not classified; no data available.
+
+	Aspiration Hazard:  Not applicable.
+
+12.  Ecological Information
+
+Ecotoxicity Data:  No data available.
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:   No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13.  Disposal Considerations
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.
+
+14.  Transportation Information
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA.
+
+15.  Regulatory Information
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	No
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65:  Not regulated.
+
+U.S. TSCA Inventory:  Poly(methyl methacrylate) is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+16.  Other Information
+
+	Issue Date:	27 May 2015
+
+	Sources:	ChemADVISOR, Inc., SDS Methyl Methacrylate, Polymerized, 20 March 2015.
+
+CDC; NIOSH; NIOSH Pocket Guide to Chemical Hazards; Department of Health and Human Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and Health; Particulates Not Otherwise Regulated, 4 April 2011; available at http://www.cdc.gov/niosh/npg/npgd0480.html (accessed May 2015)
+
+
+
+
+
+
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STOT
+
+Specific Target Organ Toxicity
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STEL 
+
+Short Term Exposure Limit 
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1487		Page 3 of 5

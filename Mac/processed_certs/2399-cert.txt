@@ -1,0 +1,391 @@
+﻿ 
+
+oe 
+
+Srares  oe
+
+  
+
+National Institute of Standards & Technology 
+
+g- 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2399   
+
+ 
+
+Fragile X Human DNA Triplet Repeat Standard  
+
+ 
+This Standard Reference Material (SRM ) is intended to provide quality control by serving as a positive control to 
+clinical laboratories that test human samples for Fragile X and who need to determine the number of CGG 
+trinucleotide repeats present in samples.  This SRM is composed of human deoxyribonucleic acid (DNA) from 
+fragile X cell lines or patient samples that have been am plified using polymerase chain reaction (PCR) techniques.  
+0 μL of a 
+This SRM consists of a single box containing nine vials, designated A through I.  Each vial contains 2
+frozen PCR product with a different number of CGG repeats suspended in a buffer (10 mM Tris-Cl pH 8.5).  
+ 
+The American College of Medical Genetic s Guidelines requires a positive control for all genetic testing [1].  In 
+addition to medical diagnoses, the ability to detect the correct number of triplet repeats will help in genetic 
+counseling and genetic research in the area of triplet repeat s.  SRM 2399 will also help to ensure the accuracy and 
+comparability of results from different laboratories.  
+ 
+Certified Values:   Table 1 contains the certified values for the number of trinucleotide repeats in eight of the nine 
+samples.  Table 2 summarizes the trip
+let repeat data obtained from experiments conducted at NIST.  Table 3 
+contains the reference sequences of the forward and reverse primers used by NIST to amplify and sequence the 
+CGG repeat area and 222 flanking base pairs [2]. 
+   
+Expiration of Certification:   The certification of this SRM is valid until  31 August 2012 , provided the SRM is 
+handled and stored in accordance with the instructions given in  this certificate.  This ce rtification is nullified if the 
+SRM is damaged, contaminated, or modified. 
+ 
+Maintenance of SRM Certification:   NIST will monitor this SRM over the period of its certification.  If 
+substantive technical changes occur that affect the certifica tion before the expiration of th is certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification.  
+ 
+The overall direction and coordination of the technical measurements leading to the certification were perform ed by 
+K.L. Richie and B.C. Levin of the NIST Biochemical Science Division. 
+ 
+The analytical determination, technical  measurements and analysis of data fo r the certification of this SRM were 
+performed by K.L. Richie and B.C. Levin of the NIST Biochemical Science Division. 
+ 
+Reevaluation performed by K.L. Richie, J.P. Jakupciak, and M.C. Kline of the NIST Biochemical Science Division. 
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+ 
+
+ 
+
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 June 2007  
+See Certificate Revision History on Last Page 
+
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 2399 
+
+ 
+
+Page 1 of 4 
+
+tional Review Board and the Director of the Chemical 
+
+ 
+Permissions:  The research needed to prepare SRM 2399 was deemed exempt from the policy of Part 27 of Title 15 
+of the Code of Federal Regulations by the NIST Institu
+1(b)(4) 
+Science and Technology Laboratory. This work fit into the exemption category described in 15 CFR 27.10
+which exempts:  “Research, involving the collection or study of existing data, documents, pathological speci mens, 
+or diagnostic specimens, if, these sources are publicly availabl e or if the information is recorded by the investigator 
+in such a manner that subjects cannot be identified, directly or through identifiers linked to the subjects.”  
+Permission to use Fragile X samples from Corie ll Institute for Medical Research (Camden, NJ)   1 for SRM 2399 was 
+provided by J.C. Beck, Ph.D., Director, Coriell Institute for Medical Research.   
+ 
+Storage:  Store frozen at a temperature of  –20  oC.  DO NOT use a self-defrosting freezer because periodic cycling 
+of temperatures may shorten the shelf-life of this SRM. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Minimize repeated freezing and th awing of these materials, as this might sh orten the shelf-life of the SRM.  If it is 
+necessary to perform many repeated analyses, the SRM may  be thawed and the vial cont ents aliquoted into sterile 
+vials that can be kept frozen until use.  Thawing can be con ducted at refrigerator temperatures or room temperature.  
+After thawing, briefly centrifuge the sample tube to spin  down any condensate present in the tube cap and gently 
+mix to obtain a homogenous solution.  The vial manufacturer warns against over-tightening the vial caps.   
+ 
+Note:  As these are PCR products, you will need to dilute these samples at least 1 x 105 before proceeding with 
+any technique that requires additional PCR amplification.  Please note that as components “G”, “H”, and “I” 
+are less concentrated than components “A” thru “F”, you may need to adjust your dilutions accordingly.  
+ 
+SOURCE AND ANALYSIS 
+ 
+Source of Material:   DNA was obtained from Coriell Institute for Medical Research (Camden, NJ) and Quest 
+Diagnostics, Inc. (Van Nuys, CA). 
+Biochemical Science Division. 
+ 
+NIST Analysis:   Modified PCR conditions, using the primers shown in Table 3, were developed at NIST [2] in 
+order to successfully amplify the extended CGG regions in each triplet repeat sample.  To obtain the certified 
+number of triplet repeats in each sample, the PCR products were purified using the Qiaquick PCR Purification Kit
+ 
+(Qiagen Inc., Valencia, CA) and then cycle-sequenced using fluorescent dye-labeled terminators and analyzed on an 
+Applied Biosystems, Inc. 310 Genetic Analyzer.  Multiple
+samples were performed.  Table 2 shows the results obtained from the multiple sequencing experiments.  
+  
+
+ The PCR products were prepared by  the NIST DNA Measurements Group, 
+
+ PCR and sequencing reactions for each of the nine 
+
+ 
+
+1Certain commercial equipment, 
+
+                                                
+  
+experimental procedure. Such identificati on does not imply recommendation or endorseme nt by NIST, nor does it imply that the 
+materials or equipment identified are the best available for this purpose. 
+ 
+SRM 2399 
+
+instruments, materials, or companies are identified in this paper to specify the 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+
+Table 1.  Certified Number of Trinucleotide Repeats in Fragile X Samples 
+
+ 
+
+ 
+
+ 
+Component 
+Designation 
+ 
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+ 
+E 
+ 
+F 
+ 
+G 
+ 
+H 
+ 
+I 
+ 
+
+ 
+Number of Certified 
+CGG Repeats 
+
+ 
+Gender of 
+Donor 
+
+ 
+Female 
+
+41 (a)
+
+Female 
+
+ 
+20 (a)
+
+30 Male 
+
+51 Male 
+
+60 Male 
+
+73 Male 
+
+96 Male 
+
+118 Male 
+
+__(b)
+
+Male 
+
+(a) Due to the two X chromosomes in female DNA, each chromosome  may have different numbers of triplet repeats. In the DNA 
+in addition to a full expansion,  i.e., triplet repeats greate r 
+
+from these two samples, there was a certifiable number of repeats 
+than 200.  We are only certifying the smaller number of repeats. 
+
+ 
+(b) “G” – genotyping analysis confirms the pr esence of two distinct CGG fragment sizes,  88/89 and 93.  Due to the complexity of 
+
+this sample, the number of CGG repeats are not certified, but are provided as information values only. 
+
+Note:  These values have all been confirmed through DNA sequencing.  Sequencing data were obtained with a 
+BigDye Terminator Cycle Sequencing Kit, version 1.0 (Applied Biosystems, Foster City, CA).  For each 
+component, the certified value is the next smallest integer of the average of the numbers of trip
+let repeats for that 
+component as listed in Table 2, which also shows the variability of the actual count from experiment to experiment. 
+ 
+
+SRM 2399 
+
+ 
+
+Page 3 of 4 
+
+Table 2.  Reproducibility of the Numbers of Fragile X Triplet Repeats Determined by  
+Multiple Sequencing Reactions at NIST 
+
+ 
+Experiment 
+Number 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+
+Number of Triplet Repeats 
+(component designation) 
+
+A      B       C       D         E       F           G(*)          H            I 
+
+ 
+20 
+
+ 
+30 
+
+ 
+41 
+
+ 
+51 
+
+ 
+60 
+
+ 
+73 
+
+ 
+88/89 
+
+ 
+96 
+
+ 
+119 
+
+20 30 41 51 60 73 88/89 97 
+
+118 
+
+20 30 41 51 60 73 88/89 97 
+
+118 
+
+20 30 41 ND 60 ND  ND  ND 
+
+120 
+
+ 
+
+ 
+
+ND: Not determined   
+
+ 
+
+(*) Provided as information value only. 
+ 
+
+  
+
+ 
+Primer 
+ 
+ 
+Forward 286 (a)
+ 
+Reverse 555 (b)
+ 
+
+Table 3.  Primers Used to Amplify the Region of Interest [3] 
+
+Primer Sequence 
+
+ 
+5’ GCT CAG CTC CGT TTC GGT TTC ACT TCC GGT 3’ 
+ 
+5’ AGC CCC GCA CTT CCA CCA CCA GCT CCT CCA 3’ 
+ 
+
+ 
+(a) Position 286 in the sequence of the 1 kb Pstl fragment containing the CGG repeats. 
+(b) Position 555 in the sequence of the 1 kb Pstl fragment containing the CGG repeats. 
+
+ 
+ 
+REFERENCES 
+
+ 
+[1]  Standards and Guidelines for Clinical Genetics Laboratories
+
+; American College of Medical Genetics:  
+
+Bethesda, MD (2004); available at http://www.acmg.net/Pages/ACMG_Activities/stds-2002/stdsmenu-n-htm.  
+[2]  O’Connell, C.D.; Atha, D.H.; Jakupc iak, J.P.; Amos, J.A.; Richie, K.L.;  Standardization of PCR Amplification 
+
+for Fragile X Trinucleotide Repeat Measurements; Clinical Genetics, Vol. 61, pp. 13−20 (2002). 
+
+[3]  Fu, Y.H.; Kuhl, D.P.A.; Pizzuti, A.; Pieretti, M.; Su
+
+J.S.;  Richards,  S.;  Verkerk,  A.J.;  Holden,  J.J.; 
+Fenwick, R.G., Jr.; Warren, S.T.; Oostra, B.A.; Nelson, D.L.; Caskey, C.T.; Variation of the CGG Repeat at the 
+Fragile X Site Results in Genetic Instability:  Resolution of the Sherman Paradox; Cell, Vol. 67, pp. 1047−1058 
+(1991). 
+
+tliffe, 
+tliffe, J.S.; Richards, S.; Verkerk, A.J.; Holden, J.J.; 
+
+ 
+ 
+Certificate Revision History:  
+22 December 2004 (Original certificate date). 
+ 
+
+  
+
+19 June 2007 (Change component G Trinucleotide Rep
+
+eats to Information value and expiration date); 
+
+   
+
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751, email srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+ 
+
+ 
+ 
+
+ 
+
+SRM 2399 
+
+ 
+
+Page 4 of 4 
+
+

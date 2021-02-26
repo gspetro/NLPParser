@@ -1,0 +1,110 @@
+﻿rimeiit: ‘of  Commerce 
+
+"Maleolae  Baldrige 
+
+Secretary  / 
+gga de 
+    
+National  ures  a  Standards 
+  
+Ambk  r  Dt  rector 
+
+Ernest 
+
+gue 
+
+Standard  Reference 
+
+Material  2151 
+
+Oertificate 
+
+Nicotinic  Acid 
+
+Combustion  Calorimetric  Standard 
+
+This  Standard  Reference  Material  (SRM)  consists  of  twenty-five  grams  of  commercial  high-purity  nicotinic  acid. 
+SRM  2151  is  intended  for  checking  the  suitability  of  apparatus,  analytical  procedures,  and  calculations  involved  in 
+oxygen-bomb  calorimetry  of  substances  containing  up  to  15  weight-percent  of  nitrogen. 
+
+The  certified  value  for  the  quantity  of  heat  evolved  by  combustion  of  a  sample  of  this  material  in  an  oxygen-bomb 
+calorimeter  is: 
+
+The  certified  value  is  for  the  following  reaction  at  25  °C: 
+
+22.184  +  0.005  MI/keg. 
+
+CeHsO2N(c}  +  6.25  O2(g)  = 
+
+6CO2(g)  +  0.5Ne(g)  +  2.5  H2Ofliq). 
+
+Bomb  Conditions: 
+
+(1)  The  SRM  must  be  crushed  to  a  powder  and  dried  for  24  hours  at  85°C.  It  may  be  stored  at  room  temperature  ina 
+
+closed  container.  The  dried  material  must  be  pressed  into  a  pellet  before  placing  in  the  bomb. 
+
+(2)  The  mass  of  sample,  in  grams,  is  equal  to  3.5  times  the  volume  of  the  bomb,  in  liters.  When  the  mass  of  sample 
+
+exceeds  4  times  the  volume  of  the  bomb,  in  liters,  the  combustion  reaction  is  usually  not  complete. 
+
+(3)  The  mass  of  water  in  grams,  initially  placed  in  the  bomb,  is  equal  to  30  times  the  volume  of  the  bomb  in  liters. 
+(4)  The  sample,  in  pellet  form,  is  burned  in  a  bomb  of  constant  volume,  filled  with  pure  oxygen  at  a  pressure  of  30 
+
+atmospheres  measured  at  25°C.  No  auxiliary  material  shall  be  used. 
+
+Recommended  Procedures: 
+
+(1)  The  ignition  energy  must  be  determined  in  a  separate  experiment. 
+(2)  The  quantity  of  nitric  acid  produced in  the  combustion is  determined  by  titration  with  standard  alkali,  The  energy  of 
+
+decomposition  of  nitric  acid  into  nitrogen  (gas)  and  water  (liquid)  was  taken  as  59  kJ/mol. 
+
+(3)  The  energy  evolved  by  the  actual  bomb  process,  AUp,  must  be  corrected  to  that  for  the  ideal  process,  AUG,  by  the 
+method  of  Prosen  [1],Hubbard,  Scott,  and  Waddington  [2],  or  Mansson  and  Hubbard  [3].  For  further  information 
+regarding  procedures in  the  calibration  of  combustion  bomb  calorimeters,  the  discussions  by  Coops,  Jessup,  and 
+Van  Nes  [4]  and  Mosselman  and  Churney  [5]  should  be  consulted. 
+
+The  measurements  were  performed  and  analyzed  in  the  Thermochemical  Measurements  and  Standards  Section  by 
+W.H.  Johnson,  under  the  technical  direction  of  G.T.  Armstrong. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  L.J.  Kieffer  and  T.W.  Mears. 
+
+January  14,  1985 
+Gaithersburg,  MD  20899 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials  © 
+
+(over) 
+
+,
+
+    
+
+  
+
+[1]  Prosen,  E.J.,  Chapter  5,  Experimental  Thermochemistry,  F.D.  Rossini,  Editor,  (Interscience  Publishers,  Inc.,  New 
+
+York,  1956). 
+
+{2]  Hubbard,  W.N.,  Scott,  D.W.,  and  Waddington,  G.,  J.  Phys.  Chem.  58,  152  (1954). 
+
+[3]  Mansson,  M.,  and  Hubbard,  W.N.,  Chapter  5,  Combustion  Calorimetry,  S.  Sunner  and  M.  Mansson,  Editors, 
+
+References 
+
+. 
+
+[4]  Coops,  J.,  Jessup,  R.S.,  and  Van  Nes,  K.,  Chapter  3,  Experimental  Thermochemistry,  F.D.  Rossini,  Editor, 
+
+(Pergamon  Press,  New  York,  1979). 
+
+(Interscience  Publishers,  Inc.,  New  York,  1956). 
+
+(Pergamon  Press,  New  York,  1979).
+
+[5]  Mosselman,  C.,  and  Churney,  K.L.,  Chapter  3,  Combustion  Calorimetry,  S.  Sunner  and  M.  Mansson,  Editors, 
+
+

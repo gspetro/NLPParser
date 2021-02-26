@@ -1,0 +1,684 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+19 June 2014 
+
+ 
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+2890 
+SRM Name:  Water Saturated 1-Octanol 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  validating  methods  and  calibrating 
+instruments for the measurement of trace concentration levels of water.  SRM 2890 is a solution of water saturated 
+1-octanol which is certified for its water content.  A unit of SRM 2890 consists of five 5 mL ampoules, each 
+containing approximately 2 mL of water saturated 1-octanol. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+Label Elements 
+Symbol  
+
+Flammable Liquid 
+Eye Damage/Irritation    Category 2A 
+
+Category 4 
+
+ 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s)  
+H227 
+H319 
+
+Combustible liquid. 
+Causes serious eye irritation. 
+
+Precautionary Statement(s) 
+P210 
+P264 
+P280 
+
+Keep away from flames and hot surfaces.  No smoking. 
+Wash hands thoroughly after handling. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+P305+P351+P338 
+
+P337+P313 
+
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses, if 
+present and easy to do.  Continue rinsing. 
+If eye irritation persists:  Get medical attention. 
+
+P403+P235 
+
+Store in a well-ventilated place.  Keep cool. 
+
+P501 
+
+Dispose of container and contents according to local regulations. 
+
+SRM 2890 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Water saturated 1-octanol 
+
+Other Designations:  n-Octyl alcohol; octyl alcohol; 1 hydroxyoctane; heptyl carbinol 
+
+ 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate 
+of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+1-Octanol 
+
+Non-Hazardous Component(s) 
+Water 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+ 
+
+ 
+
+111-87-5 
+
+ 
+
+203-917-6 
+ 
+
+7732-18-5 
+
+231-791-2 
+
+95 
+ 
+
+5 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get immediate medical attention.  Thoroughly clean and dry contaminated clothing before reuse. Destroy 
+contaminated shoes. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  If vomiting occurs, keep head lower than hips to help prevent aspiration.  If person is unconscious, 
+turn head to side.  Get medical attention immediately. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Exposure may result in irritation.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Moderate fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at 
+distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+ 
+
+Suitable:  Alcohol-resistant foam, carbon dioxide, regular dry chemical, water  
+ 
+Unsuitable:  None listed. 
+
+Large fires: Use alcohol-resistant foam or flood with fine water spray. 
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition will form oxides of carbon. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 1 
+
+Fire = 2 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Immediately  contact  emergency 
+personnel.  Keep unnecessary personnel away.  Avoid heat, flames, sparks and other sources of ignition.  Remove 
+sources of ignition.  Stop leak if possible without personal risk.  Use suitable protective equipment; see Section 8, 
+“Exposure Controls and Personal Protection”.  
+
+SRM 2890 
+
+ 
+
+Page 2 of 6 
+
+Methods and Materials for Containment and Clean up:  Reduce vapors with water spray.  Absorb with sand or 
+other  non-combustible  material.  Collect  spilled  material  in  appropriate  container  for  disposal.    Collect  spilled 
+material in appropriate container for disposal.  Isolate hazard area and deny entry.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handling  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances (see Section 10, “Stability and Reactivity”). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  No occupational exposure limits available.  
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula 
+Molar Mass (g/mol) 
+Odor 
+Odor threshold 
+pH 
+
+Evaporation rate 
+Melting point/freezing point 
+Relative Density as Specific Gravity 
+(water=1) 
+Vapor Pressure 
+
+Vapor Density (air = 1) 
+Viscosity (cP) 
+Solubility(ies) 
+
+Partition coefficient (n-octanol/water) 
+
+1-Octanol 
+(95 % of this SRM) 
+
+clear colorless liquid  
+C8H18O 
+130.2 
+pungent odor 
+not available 
+not available 
+
+not available 
+–17 °C (1.4 °F) 
+0.827 
+
+0.2 mmHg at 20 °C 
+4.5 
+8.4 cP at 20 °C 
+water solubility: 0.06 % at 25 °C; 
+soluble in alcohol, ether, 
+chloroform, mineral oils, 
+petroleum ether, and propylene 
+glycols 
+not available 
+
+SRM 2890 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties 
+
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Closed Cup) 
+Flammability (solid, gas) 
+
+1-Octanol 
+(95 % of this SRM) 
+not applicable 
+not applicable 
+194 ºC (381.2 °F) 
+
+not applicable 
+not applicable 
+81 (178 °F) 
+not applicable 
+
+ 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Containers may rupture or explode 
+if exposed to heat. 
+
+Incompatible Materials:  Acids, oxidizing materials, combustible materials, metal salts. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Exposure may result in irritation. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Acute inhalation of high concentrations may be irritating.  Inhalation may result in systemic toxicity 
+similar to that caused by ingestion.  No data listed for chronic exposure. 
+
+Skin Contact:  May cause irritation, and may be absorbed through the skin.  Chronic exposure may cause dry 
+skin and dermatitis due to defatting of the skin. 
+
+Eye Contact:  Direct contact may cause irritation.  No data listed for chronic exposure. 
+
+Ingestion:    Ingestion  may  result  in  nausea,  vomiting,  diarrhea,  central  nervous  system  depression,  headache, 
+muscle weakness, ataxia, confusion, delirium, cardiac effects including heart failure, and liver and kidney damage.  
+Ingestion of 1-octanol may pose an aspiration hazard.  No data listed for chronic exposure. 
+
+Numerical Measures of Toxicity:  
+Acute Toxicity:  Not classified. 
+
+1-Octanol:  Rat, Oral LD50:  >3200 mg/kg 
+
+  Rabbit, Dermal LD50:  >5000 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified. 
+
+1-Octanol:  Rabbit, skin: 500 mg (24 h) mild, 0.5 mL (4 h) mild 
+
+Serious Eye damage/Eye irritation:  Category 2A. 
+
+1-Octanol:  Rabbit, eyes: 0.1 mL 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+SRM 2890 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+1-Octanol is not listed by NTP, IARC or OSHA as carcinogens. 
+
+Yes 
+
+X  No 
+
+Reproductive Toxicity:  Not classified. 
+
+1-Octanol, Rat, Oral TDLo:  6500 mg/kg (pregnant 6 d to 15 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  No data available. 
+
+1-Octanol:  Fish, Rainbow Trout (Oncorhynchus mykiss) LC50 (static): 17.68 mg/L 
+
+Aspiration Hazard:  No data available. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+U.S.  DOT and  IATA:  This material is not regulated by DOT or IATA (flash and boiling points above regulated 
+limits). 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  
+
+Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+No 
+Yes 
+No 
+No 
+
+State Regulations:  Not listed under California Proposition 65. 
+
+U.S. TSCA Inventory:  1-Octanol is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+ 
+
+ 
+
+SRM 2890 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  19 June 2014 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS N- Octyl Alcohol, 21 March 2014. 
+
+Hazardous  Substances  Data  Bank  (HSDB),  National  Library  of  Medicine's  TOXNET  system, 
+1-Octanol CAS No. 111-87-5; available at http://toxnet.nlm.nih.gov (accessed June 2014). 
+
+ECETOC  (European  Centre  for  Ecotoxicology  and  Toxicology  of  Chemicals),  Avenue  E  Van 
+Nieuwenhuyse 4 (Bte 6), 1160 - Brussels, Belgium, Eye Irritation: Reference Chemicals Data Bank 
+(Second Edition), June 1998; available at http://www.ecetoc.org/index.php (accessed June 2014). 
+
+Australian  Government,  Department  of  Health,  National  Industrial  Chemicals,  Notification  and 
+Assessment Scheme, Inventory Multi-Tiered Assessment an Prioritisation (IMAP), Human Health Tier 
+II Assessment for Primary Aliphatic Alcohols (C7,C8); available at http://www.nicnas.gov.au/chemical-
+information/imap-assessments/imap-group-assessment-report?assessment_id=785 
+(accessed June 2014). 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+ 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+Lethal Concentration, 50 %  
+Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health   TSCA  
+TWA  
+National Institute of Standards and Technology 
+UEL  
+Not Otherwise Specified 
+WHMIS 
+ 
+
+SARA  
+SCBA  
+SRM  
+STEL  
+STOT 
+TLm 
+TLV  
+TPQ  
+
+RTECS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Specific Target Organ Toxicity 
+Threshold Limit, median 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2890 
+
+ 
+
+Page 6 of 6 
+
+

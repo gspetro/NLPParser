@@ -1,0 +1,69 @@
+﻿ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE:  09 September 2014 
+ 
+Product Identifier 
+
+RM Number:  8097 
+RM Name:    MEMS 5-in-1 Test Chip 
+
+Under the U.S. Department of Labor, Occupational Safety and Health Administration (OSHA) 29 CFR 1910.1200, 
+this  Reference  Material  (RM)  is  NOT  classified  as  a  physical  hazard  or  a  health  hazard,  a  simple  asphyxiant, 
+combustible  dust,  pyrophoric  gas,  or  hazard  not  otherwise  classified.    There  are  no  hazard  pictograms,  hazard 
+statements or signal word associated with it.  Safety Data Sheet information is not required.  This document may be 
+used in conjunction with your hazard communication program. 
+ 
+Exemption:    1910.1200  (c).    This  RM  is  an  Article,  as  the  word  is  defined  by  OSHA,  where  Article  means  a 
+manufactured item other than a fluid or particle: (i) which is formed to a specific shape or design during manufacture; 
+(ii) which has end use function(s) dependent in whole or in part upon its shape or design during end use; and (iii) 
+which under normal conditions of use does not release more than very small quantities, e.g., minute or trace amounts 
+of a hazardous chemical (as determined under paragraph (d) of 1910.1200), and does not pose a physical hazard or 
+health risk to employees.  
+ 
+Description:  This RM is a microelectromechanical system (MEMS) 5-in-1 test chip.  RM 8097 is intended to allow 
+customers to compare their in-house measurements with NIST measurements for five standard test methods, thereby, 
+validating their use of the documentary standard test methods.  A unit of RM 8097 consists of a MEMS test chip atop 
+a  piezoelectric  transducer  (PZT)  in  a  hybrid  package,  a  thumb  drive  containing  additional  user  information,  data 
+analysis  sheets  that  contain  the  values  from  NIST  measurements,  this  Report  of  Investigation  (ROI),  and  the  five 
+standard test methods. 
+ 
+Disposal:  RM 8097 should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Transport  Information:    This  material  is  not  regulated  by  the  U.S.  Department  of  Transportation  (DOT)  and/or 
+International Air Transportation Association (IATA). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  This document was prepared carefully, using current references.  Users of this RM should ensure that 
+this document and the corresponding Report of Investigation in their possession are current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+RM 8097 
+
+ 
+
+Page 1 of 1 
+
+

@@ -1,0 +1,692 @@
+﻿Date of Issue:
+
+30 July 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1.  Substance and Source Identification 
+
+Product Identifier
+
+SRM Number:  1051b
+
+SRM Name:  Barium Cyclohexanebutyrate
+
+	Other Means of Identification:  Not applicable.
+
+Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is primarily intended for use in preparing standard oil solutions containing barium.  SRM 1051b is a material that is essentially free from other metals and has suitable solubility, compatibility, and uniformity, for use with most lubricating oils or petroleum products.  A unit of SRM 1051b contains 5 grams of material.
+
+Company Information
+
+National Institute of Standards and Technology
+
+
+
+Standard Reference Materials Program
+
+
+
+100 Bureau Drive, Stop 2300
+
+
+
+Gaithersburg, Maryland 208992300
+
+
+
+
+
+
+
+Telephone:  3019752200
+
+Emergency Telephone ChemTrec:
+
+FAX:  3019483730
+
+	18004249300 (North America)
+
+Email:  SRMMSDS@nist.gov
+
+	+17035273887 (International)
+
+Website:  http://www.nist.gov/srm
+
+
+
+
+
+2.  Hazards Identification
+
+Classification
+
+	Physical Hazard:	Not classified.
+
+	Health Hazard:	Acute Toxicity, Oral	Category 4
+
+			Acute Toxicity, Inhalation	Category 4
+
+		Label Elements
+
+			Symbol
+
+			
+
+			Signal Word
+
+			WARNING
+
+Hazard Statement(s):
+
+H302	Harmful is swallowed.
+
+H332	Harmful if inhaled.
+
+	Precautionary Statement(s):
+
+	P261	Avoid breathing dust.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink, or smoke when using this product.
+
+	P271	Use only outdoors or in a well-ventilated area.
+
+	
+
+	P301 + P312 + P330	If swallowed: Call a doctor if you feel unwell.  Rinse mouth.
+
+	P304 + P340 	If inhaled:  Remove person to fresh air and keep comfortable for breathing.  
+
+	P312	Call a doctor if you feel unwell.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+
+3.  Composition and Information on Hazardous Ingredients
+
+Substance:  Barium cyclohexanebutyrate
+
+Other Designations:  Cyclohexanebutanoic acid, barium salt; barium 4cyclohexylbutanoate; C20H34BaO4.
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Barium Cyclohexanebutyrate
+
+		62669-65-2
+
+263-685-7
+
+100
+
+
+
+4.  First Aid Measures
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Gastroenteritis, muscle twitching, numbness and tingling around the mouth and neck, hemoglobin in the urine, cardiac arrest.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5.  Fire Fighting Measures
+
+Fire and Explosion Hazards:  Slight fire hazard.  Dust/air mixtures may ignite or explode.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for FireFighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 1	Reactivity = 0
+
+6.  Accidental Release Measures
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Collect in appropriate container for disposal. 
+
+7.  Handling and Storage
+
+Safe Handling Precautions:  Avoid dust formation.  Avoid breathing dust.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+
+
+8. Exposure Controls and Personal Protection
+
+Exposure Limits
+
+			OSHA (PEL):	0.5 mg/m3 TWA – as Barium, soluble compounds (as Br)
+
+			NIOSH (REL):	0.5 mg/m3 TWA – as Barium, soluble compounds (as Br)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9.  Physical and Chemical Properties
+
+
+
+Properties
+
+	
+
+Molar Mass (g/mol)
+
+	475.80
+
+Molecular Formula
+
+	C20H34BaO4
+
+Appearance (physical state, color, etc.)
+
+	odorless white powder
+
+Odor
+
+	not available
+
+Odor threshold
+
+	not available
+
+pH
+
+	not available
+
+Evaporation rate
+
+	not applicable
+
+Melting point/freezing point
+
+	225 °C (437 °F)
+
+Relative Density (water = 1)
+
+	not available
+
+Density
+
+	not available
+
+Vapor Pressure
+
+	negligible 
+
+Vapor Density (air = 1)
+
+	16.4
+
+Viscosity
+
+	not available
+
+Solubilities
+
+	solubility in water: negligible; 
+
+	other solubilities: no information available.
+
+Partition coefficient (noctanol/water)
+
+	not available
+
+Particle size
+
+	not available
+
+Thermal Stability Properties
+
+	
+
+Autoignition Temperature
+
+	not available
+
+Thermal Decomposition
+
+	not available
+
+Initial boiling point and boiling range
+
+	not available
+
+Explosive Limits, LEL (Volume %)
+
+	not available
+
+Explosive Limits, UEL (Volume %)
+
+	not available
+
+Flash Point (Closed Cup)
+
+	not available
+
+Flammability (solid, gas)
+
+	not available
+
+
+
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid generating dust.  Avoid heat, flames, sparks and other sources of ignition.
+
+Incompatible Materials:  Strong oxidizers.
+
+Hazardous Decomposition:  Carbon monoxide, carbon dioxide.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11.  Toxicological Information
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Gastroenteritis, muscle twitching, numbness and tingling around the mouth and neck, hemoglobin in the urine, cardiac arrest. 
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+	Inhalation:  There is no data listed for acute exposure.  Long term (chronic) or repeated exposure to insoluble barium compounds has resulted in baritosis, a benign form of pneumoconiosis.
+
+Skin Contact:  Contact with powder may cause mechanical irritation.
+
+Eye Contact:  Contact with powder may cause mechanical irritation.
+
+Ingestion:  Ingestion of this material is unlikely under normal conditions of use.  The toxicity of barium compounds is dependent on their solubility.  Insoluble barium compounds are generally nontoxic.  Ingestion of soluble barium compounds may result in acute gastroenteritis, disturbances in cardiac action, muscle twitching, central nervous system stimulation and depression, kidney damage, and death.  Ingestion of 1 g of barium ion (Ba+2) from soluble barium compounds may be fatal.  No data is listed for chronic exposure.
+
+Numerical Measures of Toxicity
+
+		Acute Toxicity:
+
+			Oral, Category 4.
+
+			Inhalation, Category 4
+
+	Skin Corrosion/Irritation:  Not classified; no data available.
+
+		Serious Eye Damage/Eye Irritation:  Not classified; no data available.
+
+		Respiratory Sensitization:  Not classified; no data available.
+
+		Skin Sensitization:  Not classified; no data available.
+
+		Germ Cell Mutagenicity:  Not classified; no data available.
+
+	Carcinogenicity:  Not classified.
+
+	Listed as a Carcinogen/Potential Carcinogen
+
+	X
+
+	Yes
+
+	
+
+	No
+
+	Barium compounds are not listed by IARC, NTP, or OSHA as a carcinogen.
+
+	Reproductive Toxicity:  Not classified; no data available.
+
+	STOT, Single Exposure:  Not classified; no data available.
+
+	STOT, Repeated Exposure:  Not classified; no data available.
+
+	Aspiration Hazard:  Not applicable.
+
+
+
+
+12.  Ecological Information
+
+Ecotoxicity Data:  Barium
+
+		Fish Toxicity:  Sheepshead minnow (Cyprinodon variegatus) LC50:  >500 mg/L (96 h)
+
+		Invertebrate:  Water flea (Daphnia magna) LC50:  >530 mg/L (24 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:   No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13.  Disposal Considerations
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.
+
+14.  Transportation Information
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15.  Regulatory Information
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  1 % de minimis concentration barium compounds (except barium sulfate).
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65:  Not regulated.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16.  Other Information
+
+	Issue Date:	30 July 2015
+
+	Sources:	Hazardous Substances Data Bank (HSDB), National Library of Medicine's TOXNET system, Barium compounds, available at http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/f?./temp/~yFbUR5:1 (accessed Jul 2015).
+
+		European Chemical Agency (ECHA), Registered substances, Barium Cyclohexanebutyrate, CAS No.62669-65-2, available at http://echa.europa.eu/information-on-chemicals (accessed Jul 2015).
+
+		National Center for Biotechnology Information, U.S. National Library of Medicine, PubChem,
+Barium Cyclohexanebutyrate, available at http://pubchem.ncbi.nlm.nih.gov/compound/112911#section=Information-Sources, (accessed Jul 2015).
+
+		Vendor MSDS, Eastman Kodak Company, MSDS Barium Cyclohexanebutyrate, 03 February 1981.
+
+
+
+
+
+
+
+
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STOT
+
+Specific Target Organ Toxicity
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STEL 
+
+Short Term Exposure Limit 
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1051b		Page 1 of 6

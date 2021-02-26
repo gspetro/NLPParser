@@ -1,0 +1,444 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2372 
+
+ 
+
+ 
+
+Human DNA Quantitation Standard 
+
+in 
+
+hydrochloride (Tris HCl) 
+
+10 mmol/L 2-amino-2-(hydroxymethyl)-1,3-propanediol 
+
+ 
+Standard  Reference  Material (SRM) 2372  is  intended  primarily  for  use  in  the  value  assignment  of  human 
+genomic deoxyribonucleic acid (DNA) forensic quantitation materials.  It is not intended for any human or animal 
+clinical  diagnostic  use.    SRM 2372  consists  of  three  well-characterized  human  genomic  DNA  materials 
+and 
+solubilized 
+0.1 mmol/L ethylenediaminetetraacetic  acid  disodium  salt (disodium  EDTA)  using  deionized  water  adjusted  to 
+pH 8.0 buffer (TE-4).  The three component genomic DNA materials, labeled A, B, and C, are derived from a single 
+male donor, multiple female donors, and multiple male and female donors, respectively.  A unit of the SRM consists 
+of one sterile 2 mL vial of each component, each vial containing approximately 110 μL of DNA solution.  Each of 
+these vials is labeled and is sealed with a color–coded screw cap. 
+ 
+Certified  Values:    Table 1  lists  the  “apparent  absorbance,”  A260–320,  for  component  materials  diluted  with  an 
+equal volume of 0.4 mol/L aqueous sodium hydroxide (NaOH) and measured against TE-4 mixed with an equal 
+volume of 0.4 mol/L NaOH solution.  The A260–320 values are calculated as the decadic attenuance, D10, at 260 nm 
+minus the D10 at 320 nm with an optical pathlength of 1.0 cm, spectral bandwidth of 1 nm, and a temperature of 
+22 ºC  1 ºC.   The D10 values  are  indicated  by  the absorbance scale of  the spectrophotometer.    The D10 scale  is 
+unitless.  Each apparent absorbance is expressed as a certified value  expanded uncertainty, where the expanded 
+uncertainty  is  approximately  2.03 times  the  standard  uncertainty  and    is  consistent  with  the  ISO  and  NIST 
+guides [1].    The  certified  value  expanded  uncertainty  specifies  an  interval  that  is  expected  to  include  the  true 
+A260–320 value of an accurately prepared equal volume DNA/NaOH mixture with approximately a 95 % level of 
+confidence for any given SRM 2372 vial [2].  A NIST certified value is a value for which NIST has the highest 
+confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into 
+account [2].   The uncertainty  intervals are  estimated from  the  evaluation of  two  independent sets of 18 vials of 
+each  component  mixed  with  an  equal  volume  of  0.4 mol/L  NaOH.    Treatment  with  NaOH  forces  the  DNA 
+solutions to have a single-stranded conformation and enables conversion of the A260–320 values to a conventional 
+estimate of DNA concentration [3]. 
+
+ 
+Table 1.  Certified Apparent Absorbance (A260 – A320 = D10 at 260 nm – D10 at 320 nm) Values 
+for Components Treated with NaOH 
+ 
+Component B 
+0.821    0.095 
+
+Component C 
+0.804    0.068 
+
+Component A 
+0.777    0.060 
+
+ 
+Expiration of Certification:  The certification of SRM 2372 is valid, within the measurement uncertainty specified, 
+until 31 December 2017, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  08 January 2013 
+Certificate Revision History on Last Page 
+
+Michael J. Tarlov, Chief 
+Biomolecular Measurement Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+SRM 2372 
+
+Page 1 of 5 
+
+Information Values:  Table 2 lists the A260–320 values for the untreated components and an estimate of the DNA 
+mass  concentration  of  the  SRM 2372  components  based  on  the  single–stranded  conformation.    These 
+conventional concentration values are derived from the assertion that a solution of single–stranded DNA (ssDNA) 
+with  an  absorbance  of  1.0  at  260 nm  and  a  pathlength  of  1.0 cm  has  a  DNA  mass  concentration  of  37 µg/mL 
+(37 ng/µL) [4].  An information value is considered to be a value that will be of interest and use to the SRM user, 
+but insufficient information is available to assess the uncertainty associated with the value or only a limited number 
+of analyses were performed [2]. 
+ 
+
+Table 2.  Information Values for Untreated Components 
+ 
+Conventional ssDNA Concentration 
+(ng/µL) 
+57 
+61 
+59 
+
+ 
+
+Component 
+ 
+A 
+B 
+C 
+
+A260–320 
+
+1.2 
+1.3 
+1.3 
+
+ 
+Coordination  of  the  technical  measurements  leading  to  this  certification  was  under  the  direction  of  M.C.  Kline 
+and  J.M. Butler  of  the  NIST  Biomolecular  Measurement  Division.    Evaluation  of  the  data  was  performed  by 
+D.L. Duewer  of  the  NIST  Chemical  Sciences  Division.    Evaluation  of  the  measurement  uncertainty  was 
+performed by H-k. Liu of the NIST Statistical Engineering Division. 
+  
+Sample  preparation  and  analytical  measurements  were  by  NIST  Biomolecular  Measurement  Division  staff:  
+M.C. Kline  and  J.W. Redman  prepared  the  samples;  M.C. Kline  made  the  D10  measurements  and  assessed  the 
+NaOH  concentration  and  temperature  dependence  of  the  DNA/NaOH  mixtures;  and  E.L.R. Butts  evaluated  the 
+performance  of  the  components  in  selected  quantitative  polymerase  chain  reaction (qPCR)  assays.    An 
+interlaboratory study that assessed the commutability of the SRM among various qPCR assays was coordinated 
+by M.C. Kline. 
+ 
+Support aspects involved in the preparation and issuance of this SRM were coordinated through the NIST Office of 
+Reference Materials. 
+ 
+The preparation of this SRM was supported in part by the National Institute of Justice, U.S. Department of Justice. 
+ 
+NOTICE AND WARNING TO USERS 
+
+SRM 2372 IS A HUMAN-SOURCE MATERIAL.  SINCE THERE IS NO CONSENSUS ON THE INFECTIOUS 
+STATUS  OF  EXTRACTED  DNA,  HANDLE  THE  SRM 2372  COMPONENTS  AS  BIOSAFETY  LEVEL 1 
+MATERIALS  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE [5].    SRM 2372  components  and 
+derived solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  All vials of SRM 2372 should be stored in the dark between 2 °C to 8 °C.  DO NOT FREEZE. 
+ 
+DO  NOT  EXPOSE  ANY  DNA  SOLUTION  TO  DIRECT  SUNLIGHT.    Component  vials  should  be  mixed 
+briefly  and  centrifuged  (without  opening  the  vial  cap)  prior  to  removing  sample  aliquots  for  analysis.    For  the 
+certified  and  informational  values  to  be  applicable,  materials  should  be  withdrawn  immediately  after  opening  the 
+vials  and  processed  without  delay.    Certified  and  information  values  do  not  apply  to  any  material  remaining  in 
+recapped  vials.    There  is  no  minimum  sample  size  requirement,  the  amount  required  by  any  given  assay  will  be 
+dictated by the nature of the assay.   
+ 
+For use with qPCR assays:  When used with qPCR assays, do not dilute the DNA materials with NaOH solution.  
+Use  the  provided  information-value  concentrations  to  value  assign  secondary  standard  DNA  solutions  for  routine 
+use.  Users may calibrate their assays to SRM 2372 using one or more dilution series, with each series prepared from 
+one  SRM 2372  component.    For  non-gender-specific  qPCR  assays,  all  three  components  should  be  used  as 
+calibrants to elucidate potential material-assay specific interactions.  Component C should NOT be used to calibrate 
+gender-specific assays, since it is derived from a mixture of unknown proportions of male and female donors.  Users 
+should  keep  in  mind  that  a  potential  for  pipetting  error  exists;  therefore,  suitable  care  should  be  exercised  in 
+preparing calibration solutions.  See reference 6 for further information.   
+ 
+For  use  with  spectrophotometric  assays:    Equal  volumes  of  a  DNA  material  and  a  freshly  prepared  0.4 mol/L 
+NaOH  solution  should  be  combined,  mixed  briefly,  and  centrifuged  prior  to  measurement.    An  appropriate 
+
+SRM 2372 
+
+Page 2 of 5 
+
+spectroscopic blank is prepared by mixing equal volumes of TE-4 and the 0.4 mol/L freshly prepared NaOH solution.  
+The DNA/NaOH solutions are stable for at least 1 h.  Other dilution protocols may be used as required but they must 
+yield  a  final  NaOH  concentration  of  approximately  0.2 mol/L.    Based  on  Annex B  of  ISO 21571 [1]  the 
+conventional DNA concentration ([DNA]) of the samples is: 
+ 
+
+[DNA] = F × (D10 at 260 nm – D10 at 320 nm) × 37 
+
+where 
+F 
+D10 
+37 
+
+is the dilution factor and for equal-volume dilutions is equal to 2, 
+is the spectrophotometric absorbance indication at the specified wavelength, 
+is the conventional conversion factor for ssDNA as ng/µL or µg/mL. 
+
+ 
+Figure 1 displays the average apparent absorbance spectra, D10 at 220 nm to 320 nm minus D10 at 320 nm, for the 
+three SRM 2372 components.  The dashed lines are the spectra for the materials as delivered in the vials, referenced 
+to TE-4, pH 8.0 buffer.  The solid lines are the spectra for the materials diluted with an equal volume of 0.4 mol/L 
+NaOH, referenced to TE-4 diluted with an equal volume of 0.4 mol/L NaOH. 
+
+ 
+
+ 
+
+m
+n
+ 
+0
+2
+3
+ 
+t
+a
+
+0
+1
+D
+
+-
+ 
+
+m
+n
+
+ 
+t
+a
+0
+1
+D
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+A: NaOH diluted
+
+A: as delivered
+
+B: NaOH diluted
+
+B: as delivered
+
+C: NaOH diluted
+
+C: as delivered
+
+       
+
+220
+
+240
+
+260
+
+280
+
+300
+
+Wavelength (), nm
+Figure 1.  Apparent Absorbance 
+
+ 
+
+ 
+Note:    0.2 mol/L  NaOH  solutions  are  caustic.    It  may  be  more  appropriate  for  users  of  micro–volume 
+spectrophotometers that do not isolate sample solutions in non–reactive optical chambers to evaluate the untreated 
+materials and compare the results to the information A260–320 values. 
+ 
+Spectroscopic  Traceability:    When  used  for  spectroscopic  value  assignment  of  secondary  DNA  quantitation 
+standards, a research-quality dual-beam spectrophotometer must be used that can achieve a spectral bandwidth of 
+1.0 nm  and  can  control  the  sample  temperature  at  22 ºC  1 ºC.    The  wavelength  calibration  of  the  instrument 
+should be verified using a suitable holmium oxide solution standard [7].  The instrument must reliably measure 
+A260–320  in  solutions  of  volume  0.1 mL  or  less.    This  capability  can  be  verified  using  a  suitable  absorption 
+standard [8].    The  candidate  secondary  DNA  quantitation  standard(s)  must  be  prepared  in  TE–4.    In  dual–beam 
+mode, optically matched cuvettes can be used to directly compare an unknown solution with a given SRM 2372 
+component.    Indirect  comparisons  can  be  accomplished  with  the  buffer  that  was  used  to  prepare  the  candidate 
+secondary standard(s) as the reference blank for both the SRM and candidate materials. 
+ 
+
+SRM 2372 
+
+Page 3 of 5 
+
+PREPARATION AND ANALYSIS(1) 
+ 
+Components A and B:  Human buffy coats from anonymous donors were obtained from a commercial source.  The 
+method  used  to  isolate  genomic  DNA  from  the  white  blood  cells  found  in  the  human  buffy  coats  is  based  on  a 
+modified  “salting  out”  procedure [9].    After  the  initial  extraction,  the  material  was  re-extracted  to  assure  purity. 
+Component A  was  treated  with  bovine  pancreatic  ribonuclease A  before  re-extraction [4].    Extracted  DNA  for 
+components  A  and  B  was  air–dried  in  a  laminar  flow  hood  and  stored  in  perfluoroalkoxy  fluoropolymer (PFA) 
+containers  at  4 °C  prior  to  solubilization  in  TE–4.    After  addition  of  buffer  to  the  air–dried  DNAs  in  their  PFA 
+containers, the materials were allowed to equilibrate at 4 °C until there was complete visual disappearance of solids 
+(several days to weeks, depending on the material).  After concentration adjustment, the solubilized materials were 
+stored  in  their  PFA  containers  at  4 °C  until  vialing.    Just  prior  to  vialing,  each  material  was  brought  to  room 
+temperature in its PFA container inside a laminar flow hood.  The solution was gently mixed.  Each solution was 
+transferred  in  turn  to  pre–labeled  sterile  vials  with  an  automatic  pipette,  and  the  vials  were  capped.    After  the 
+production run for that component was complete, all vials were placed into storage at 4 °C. 
+ 
+Component C:  Purified unsheared genomic human DNA was purchased from Sigma–Aldrich Co., St. Louis, MO.  
+Literature  accompanying  the  material  indicated  that  the  material  was  purified  by  equilibrium  buoyant  density 
+ultracentrifugation in cesium chloride, dialyzed against a solution of 1 mmol/L sodium chloride, 1 mmol/L disodium 
+EDTA, and 1 mmol/L Tris HCl, pH 7.5, and then lyophilized.  Solubilization, storage, and vialing of this material 
+was the same as described above for components A and B. 
+ 
+Temperature and NaOH Concentration Dependence:  For all three components, the A260–320 values change less 
+than 0.001 per degree Celsius change in spectral acquisition temperature from 20 °C to 24 °C.  The A260–320 values 
+change by approximately 0.01 per 0.1 mol/L NaOH from final NaOH concentrations of 0.1 mol/L to 0.3 mol/L. 
+ 
+Commutability  of  the  DNA  Mass  Concentration  Information  Values:    The  commutability  of  the  three 
+SRM 2372  components  in  commonly  used  DNA  quantitation  assays  was  assessed  by  an  interlaboratory  study 
+involving 32 participants and 11 non–gender–specific methods.  While the relative results for the three components 
+for most methods agreed within the method reproducibilities, systematic differences in response were observed with 
+specific qPCR methods.  These biases were confirmed by studies at NIST.  The observed among-method variability 
+is not unexpected since different qPCR methods exploit qualitatively different molecular targets.  For information on 
+the performance of the SRM 2372 components with selected qPCR methods, see reference 6.   
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified  in this certificate to adequately 
+specify  the  experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the 
+National  Institute  of  Standards  and  Technology,  nor  does  it  imply  that  the  materials  or  equipment  identified  are 
+necessarily the best available for the purpose. 
+
+SRM 2372 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2013);  see  also 
+Taylor,  B.N.;  Kuyatt,  C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+http://physics.nist.gov/Pubs/ (accessed Jan 2013). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G..;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Gaithersburg, MD  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Jan 2013). 
+
+[3]  ISO 21571:2005;  Foodstuffs –  Methods of Analysis  for  the  Detection  of  Genetically  Modified  Organisms and 
+Derived  Products  –  Nucleic  Acid  Extraction,  Annex B  Methods  for  Quantitation  of  Extracted  DNA; 
+International  Standards  Organization:  Geneva, Switzerland:  pp. 34–36 (2005); 
+also  EU-JRC, 
+Protocol NK603  –  Community  Reference  Laboratory;  Event-Specific  Method  for  the  Quantification  of  Maize 
+Line NK603  Using  Real-Time  PCR;  Section 3.3  Spectrophotometric  Measurement  of  DNA  Concentration; 
+European Commission Joint Research Centre, Institute for Health and Consumer Protection: Ispra, Italy (2005); 
+available 
+(accessed 
+Jan 2013). 
+
+http://gmo-crl.jrc.ec.europa.eu/summaries/NK603-WEB-ProtocolValidation.pdf 
+
+[4]  Sambrook, J.;  Russell, D.W.;  Molecular  Cloning:  A  Laboratory  Manual,  3rd. ed.;  Cold  Spring  Harbor 
+
+see 
+
+at 
+
+Laboratory Press: Cold Spring Harbor, NY (2001). 
+
+[5]  CDC/NIH:  Biosafety  in  Microbiological  and  Biomedical  Laboratories,  5th  ed.;  HHS  publication  No.  (CDC) 
+21-1112;  Chosewood,  L.C.;  Wilson,  D.E.;  Eds.;  US  Government  Printing  Office:  Washington,  DC (2009); 
+available at http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf; (accessed Jan 2013). 
+
+[6]  NIST 
+
+Standard  Reference  Database 130, 
+
+SRM 2372  Additional 
+
+Information; 
+
+available 
+
+at 
+
+http://www.cstl.nist.gov/biotech/strbase/srm2372.htm (accessed Jan 2013). 
+
+[7]  Travis, J.C.;  Acosta, J.C.;  Andor, G.;  Bastie, J.;  Blattner, P.;  Chunnilall, C.J.;  Crosson, S.C.;  Duewer, D.L.; 
+Early, E.A.;  Hengstberger, F.;  Kim, C-S.;  Liedquist, L.;  Manoocheri, F.;  Mercader, F.;  Mito, A.; 
+Monard, L.A.G.;  Nevas, S.;  Nilsson, M.;  Noël, M.;  Corróns Rodriguez, A.;  Ruíz, A.;  Schirmacher, A.; 
+Smith, M.V.;  Valencia, G.;  van  Tonder, N.;  Zwinkels, J.;  Intrinsic  Wavelength  Standard  Absorption  Bands  in 
+Holmium  Oxide  Solution  for  UV/visible  Molecular  Absorption  Spectrophotometry;  J.  Phys.  Chem.  Ref.  Data, 
+Vol. 34, pp. 41–56 (2005). 
+
+[8]  Burke, R.W.;  Mavrodineanu, R.;  Certification  and  Use  of  Acidic  Potassium  Dichromate  Solutions  as  an 
+Ultraviolet  Absorbance  Standard;  NIST  Special  Publication  260-54;  U.S.  Government  Printing  Office: 
+Gaithersburg, MD (1977); available at http://www.nist.gov/srm/publications.cfm (accessed Jan 2013); see also: 
+SRM 935a; Crystalline Potassium Dichromate for Use as an Ultraviolet Absorbance Standard and SRM 1935; 
+Potassium Dichromate Solution for Use as an Ultraviolet Absorbance Standard; National Institute of Standards 
+and Technology; U.S. Department of Commerce: Gaithersburg, MD; available through http://www.nist.gov/srm/ 
+(accessed Jan 2013). 
+
+[9]  Miller, S.A.;  Dykes, D.D.;  Polesky, H.F.;  A  Simple  Salting  Out  Procedure  for  Extracting  DNA  From  Human 
+
+Nucleated Cells; Nucleic Acids Res., Vol. 16,p. 1215 (1988). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    08 Jan 2013  (Re-certification  using  an  apparent  absorbance  method;  extension  of  the  certification  period; 
+editorial changes); 18 September 2007 (Original certificate date).
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished 
+fax (301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+the 
+
+by 
+
+ 
+
+SRM 2372 
+
+Page 5 of 5 
+
+

@@ -1,0 +1,264 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 918b 
+
+ 
+
+ 
+Potassium Chloride 
+ 
+(Clinical Standard) 
+
+ 
+This Standard Reference Material (SRM) is intended for use as an analytical standard of known purity.  It is intended 
+primarily for use in the calibration and standardization of procedures for potassium (K) and chloride (Cl) determinations 
+employed in clinical analysis and for routine critical evaluation of the daily working standards used in these procedures.  
+This lot of potassium chloride (KCl) was prepared to ensure a material of high purity and homogeneity and has been 
+assayed after heating at 110 °C to 120 °C.  A unit of SRM 918b consists of a single glass bottle containing 30 g of the 
+material. 
+ 
+Certified Values:  The certified values for this SRM are listed in Table 1.  The certified values for this SRM are 
+expressed as mass fractions, w, of KCl, K, and Cl.  A NIST certified value is a value for which NIST has the highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or accounted for by 
+NIST [1].   
+ 
+
+Table 1.  Certified Values(a)  for SRM 918b Potassium Chloride 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Quantity 
+ 
+
+ 
+wKCl  
+wK  
+wCl  
+
+ 
+
+Value 
+(%) 
+
+±    0.014  
+
+99.927 
+52.4121  ±    0.0086  
+47.5284  ±   0.0049 
+
+(a)  Each result is expressed as the certified value ± the expanded uncertainty, U, calculated as U = kuc, where uc is the combined standard 
+uncertainty calculated according to the ISO and NIST Guides [2].  The value of uc is intended to represent, at the level of one standard 
+deviation, the combined effect of inherent sources of uncertainty of the assay techniques and applicable corrections for interfering 
+trace elements.  The value of k is 1.96, which is the coverage factor corresponding to approximately 95 % confidence based on > 1000 
+overall effective degrees of freedom. 
+ 
+Expiration of Certification:  The certification of this SRM is valid until 01 August 2016, within the measurement 
+uncertainties  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated, or modified. 
+ 
+The coordination of the technical measurements leading to the certification of SRM 918b was provided by K.W. Pratt of 
+the NIST Analytical Chemistry Division. 
+ 
+The coulometric and gravimetric analyses were performed by K.W. Pratt and T.W. Vetter, respectively, of the NIST 
+Analytical Chemistry Division.  Trace bromine (Br) determination by X-ray fluorescence was performed in the NIST 
+Analytical Chemistry Division by J.R. Sieber.  Additional trace element analyses by glow-discharge mass spectrometry 
+were performed by a commercial laboratory. 
+ 
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved in the preparation of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 February 2007 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 918b 
+
+ Page 1 of 3 
+
+Reference Values:  A reference value for the mass fraction of bromine is listed in Table 2.   The expanded uncertainty is 
+calculated using k = 2.  A reference value is a best estimate of the true value provided by NIST where all known or 
+suspected sources of bias have not been fully investigated by NIST [1]. 
+ 
+
+Table 2.  Reference Value for SRM 918b 
+
+Element 
+
+ 
+Br 
+
+Mass Fraction  
+(µg/g) 
+ 
+130 
+
+Expanded Uncertainty  
+(µg/g) 
+ 
+45 
+
+Information  Values:    Table  3  lists  information  values  for  the  mass  fractions  of  trace  elements  in  SRM  918b.  
+Information values are non-certified values that may be of interest and use to the SRM user, but insufficient information 
+is available to provide an uncertainty associated with the value [1].  No other elements were detected at a mass fraction 
+greater than 1 µg/g. 
+
+ 
+
+ 
+
+ 
+
+ 
+Table 3.  Information Values for SRM 918b 
+
+Element 
+
+ 
+Na 
+Rb 
+Si 
+
+Mass Fraction 
+(µg/g) 
+ 
+ 
+35 
+
+2.6 
+1.8 
+
+ 
+Maintenance  of  Certification:    NIST  will  monitor  representative  samples  from  this  SRM  lot  over  the  period  of 
+its certification.  If  substantive  changes  occur  that  affect  the  certification  before  the  expiration  of  certification, 
+NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+This SRM is intended for “in vitro” diagnostic use only. 
+ 
+Stability  and  Storage:    This  SRM  should  be  stored  in  its  original  bottle  at  room  temperature.    It  must  be  tightly 
+re-capped after use and protected from moisture. 
+ 
+Homogeneity:  This SRM is homogeneous within the uncertainty limits for the nominal sample mass, 250 mg, used for 
+the coulometric assays.  Samples less than 250 mg are not recommended in order to avoid possible heterogeneity with 
+smaller sample sizes. 
+ 
+Possible Interfering Species:  It is the responsibility of the user to evaluate which species may interfere with the 
+application  of  this  SRM  and  to  apply  any  necessary  corrections  that  affect  the  given  application.    The  following 
+information and the values in Tables 2 and 3 may be useful in this evaluation. 
+ 
+The certified value for wKCl is obtained from a weighted combination of the results of independent coulometric analyses, 
+corrected for the potassium bromide (KBr), rubidium chloride (RbCl), and sodium chloride (NaCl) impurities; and 
+gravimetric analyses, corrected for the KBr impurity. 
+ 
+The certified value for wK is obtained from an equally-weighted combination of wK obtained directly from the gravimetric 
+analyses and the indirect wK, which is calculated from the coulometric wKCl and the additional K in the KBr impurity. 
+ 
+The certified value for wCl is obtained from the coulometric analyses, corrected for interfering bromide. 
+ 
+The  corrections  for  bromide,  sodium,  and  rubidium  were  obtained  from  the  trace  element  determinations  and  the 
+appropriate gravimetric factors [3].  A portion of the K is present in SRM 918b as KBr, and a portion of the chloride is 
+present as NaCl and RbCl.  Therefore, the sum of the certified values for wK and wCl does not equal the certified value for 
+wKCl. 
+
+SRM 918b 
+
+ Page 2 of 3 
+
+INSTRUCTIONS FOR USE 
+ 
+Drying  Instructions:    Dry  the  material  at  110 °C  to  120 °C  for  4  h.    After  the  SRM  has  been  dried,  store  it  in  a 
+desiccator over anhydrous magnesium perchlorate. 
+ 
+Source of Material:  The KCl used for this SRM was obtained from a commercial supplier.  The material was examined 
+for compliance with the specification for reagent grade KCl as specified by the American Chemical Society [4].  The 
+material was found to meet or exceed the minimum requirements in every respect. 
+ 
+Assay Techniques:  The coulometric assay value was obtained by automated titration [5] with coulometrically generated 
+Ag+  using  potentiometric  detection  of  the  endpoint.    The  gravimetric  assay  value  was  obtained  by  ion-exchange 
+separation of the K fraction and conversion to potassium sulfate (K2SO4), including corrections for instrumentally-
+determined K not collected with the K fraction and for trace contaminants in the K2SO4 (procedure based on reference 6). 
+ 
+ 
+ 
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials  for  Chemical  Measurements  NIST  Special  Publication  260-136,  U.S.  Government  Printing  Office:  
+Washington, DC (2000); available at http://www.cstl.nist.gov/nist839/special_pubs/SP260136.pdf. 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  lst  ed.;  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for 
+Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297,  U.S. 
+Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs. 
+IUPAC Commission of Atomic Weights and Isotopic Abundances; Pure & Appl. Chem., Vol. 75 (8), pp. 1107–1122 
+(2003). 
+
+REFERENCES 
+
+[2] 
+
+[3] 
+
+[4]  Reagent Chemicals; 9th ed., American Chemical Society:  Washington, DC (1999). 
+[5]  Pratt, K.W.; Automated, High-Precision Coulometric Titrimetry Part II. Strong and Weak Acids and Bases; Anal. 
+
+Chim. Acta, Vol. 289 (2), 135–142 (1994). 
+
+[6]  Moody, J.R.; Vetter, T.W.; Development of the Ion Exchange-Gravimetric Method for Sodium in Serum as a 
+
+Definitive Method; J. Res. Natl. Inst. Stand. Technol., Vol. 101, pp. 155–164 (1996); available at 
+http://nvl.nist.gov/pub/nistpubs/jres/101/2/j2mood.pdf. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm
+
+SRM 918b 
+
+ Page 3 of 3 
+
+

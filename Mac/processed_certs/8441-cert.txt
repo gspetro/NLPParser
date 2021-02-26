@@ -1,0 +1,430 @@
+﻿ 
+o
+a
+
+ow § 
+% 
+
+Snares  oF 
+
+ ;  National  Institute  of  Standards  &  Technology 
+
+A
+
+Report  of  Inbestigation 
+
+Reference  Material  8441 
+
+Wheat  Hardness 
+
+United  States  Department  of  Agriculture 
+Federal  Grain  Inspection  Service 
+
+This  Reference  Material  (RM)  is  intended  primarily  for  use  in  calibrating  instruments  used  for  the  determination  of 
+hardness  of  bulk  or  single  kerne]  wheat.  RM  8441  was  prepared  and  analyzed  by  the  Federal  Grain  Inspection 
+Service  (FGIS)  program,  Grain  Inspection  Packers  and  Stockyards  Administration  of  the  United  States  Department 
+of  Agriculture  (USDA).  The  USDA  is  the  sole  authority  for  all  of  the  information  provided  in  this  report,  including 
+reference  values  and  other  technical  information.  One  unit  of  RM  8441  consists  of  fifty  pouches,  five  pouches  each 
+of  five  hard  wheats  and  five  soft  wheats.  Each  pouch  contains  20  g  of  material. 
+
+Sources  and  Preparation  of  Materials:  Ten  separate  lots  of  wheat  (three  pure  varieties  of  hard  red  winter,  two 
+pure  varieties  of  hard  red  spring,  two  pure  varieties  of  soft  red  winter,  and  three  pure  varieties  of  soft  white  wheat) 
+were  purchased  from  commercial  sources. 
+All  lots  were  cleaned  with  a  Carter-Day'  dockage  tester  and  split  into 
+15.9  kg  (35  lb)  sublots  using  a  Garnet’  divider.  A  Boerner’  divider  was  then  used  to  further  split  these  sublots  into 
+20  g  portions,  which  were  then  packaged  in  barrier  film  aluminized  pouches. 
+
+CAUTION: 
+CONSUMPTION. 
+
+This  RM  is  tor  laboratory  use  only; 
+
+IT  IS  NOT  INTENDED  FOR  HUMAN  OR  ANIMAL 
+
+Stability  and  Use:  For  the  intended  use  of  this  RM  the  wheats,  in  unopened  pouches  and  stored  at  2  °C  to  5  °C,  are 
+considered  stable  for  five  years  from  the  date  of  shipment  from  NIST.  Each  pouch  should  be  allowed  to  warm  to 
+room  temperature  (23  °C  +  2  °C)  immediately  before  use.  The  FGIS  will  monitor  representative  samples  from  each 
+of  the  lots  of  wheat  comprising  this  RM  and  if  any  changes  occur  that  invalidate  this  Report  of  Investigation,  NIST 
+will  notify  customers. 
+
+RM  8441  was  characterized  by  the  U.S.  Department  of  Agriculture  Federal  Grain  and  Inspection  Service  (FGIS). 
+The  cleaning,  dividing,  and  packaging  of  each  wheat  was  done  at  the  FGIS  under  the  direction  of  A.C.  Johnson. 
+
+The  technical  and  support  aspects  involved  in  the  preparation  and  issuance  of  this  Reference  Material  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  D.G.  Friend  and  N.M.  Trahey. 
+
+  
+
+1Certain  commercial  materials  and  equipment  are  identified  in  order  to  adequately  specify  the  experimental  procedure. 
+
+Such 
+identification  does  not  imply  a  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and  Technology,  nor  does  it  imply  that  the 
+materials  or  equipment  are  necessarily  the  best  available  for  this  purpose. 
+
+Gaithersburg,  MD  20899 
+Certificate  Issue  Date: 
+
+5  December  1997 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+RM  8441 
+
+Page  1  of  5
+
+Bulk  and  Single  Kernel  Reference  Values  and  Uncertainties:  RM  8441  was  prepared  as  a  transfer  standard  for 
+linking  the  measurements  of  Near-Infrared  Reflectance  (NIR)  instruments  and  Single  Kernel  Characterization 
+System  (SKCS)  4100  instruments  to  the  National 
+FGIS  wheat  hardness  reference  scale.  The  bulk  hardness  values 
+assigned  to  RM  8441  are  the  scores  that  were  obtained  using  two  reference  NIR  instruments  that  had  been  sloped 
+and  biased  to  the  Standard  Hardness  Samples  (SHS).  Hardness  scores  were  obtained  from  ten  sets  of  measurements 
+that  were  made  on  each  RM  8441  sample  over  a  period  of  five  weeks  (two  sets  of  measurements  per  week).  Each 
+set  of  measurements  consisted  of  determining  the  hardness  values  for  five  ground  portions  of  a  sample  in  the  two 
+The  bulk  hardness  score  assigned  to  the  RM  8441  unit  is  the  grand  average  of  one  hundred 
+NIR  instruments. 
+hardness  measurements  made  on  that  unit  (Table  1). 
+The  uncertainty  in  measuring  the  bulk  hardness  values  is 
+estimated  from  the  standard  deviation  among  the  averages  of  all  measurements  made  in  the  measuring  period.  The 
+mean  hardness  scores  listed  in  Table  1,  are  the  values  that  the  user  should  obtain  using  an  NIR  instrument 
+standardized  to  RM  8441  using  AACC  Method  39-70  [1],  such  that  the  mean  hardness  value  measured  for  the  five 
+hard  RM  wheats  (M,;,  to  M,,;)  is  76.7  and  the  mean  of  the  hardness  measured  for  the  five  soft  RM  wheats  (Mg,  to 
+Mg;)  is  30.5. 
+On  a  properly  standardized  NIR  instrument,  using  AACC  Method  39-70,  the  bulk  hardness  value 
+measured  for  each  wheat  should  be  within  three  times  the  uncertainty  values  (3  x  u,)  listed  in  Table  1. 
+
+Table  1.  Mean  Bulk  NIR  Hardness  Scores  for  RM  8441  Wheats 
+(NIR  Instrument;  AACC  Method  39-70) 
+
+Wheat  # 
+
+Hardness  Score 
+
+Uncertainty  (u,) 
+
+The  wheat  hardness  scores  listed  in  Table  2  are  the  values  that  the  user  should  obtain  using  a  SKCS  4100  instrument 
+that  has  been  sloped  and  biased  to  RM  8441,  following  the  instructions  in  the  SKCS  4100  Operation  Manual  [2], 
+such  that  the  mean  of  the  hardness  values  measured  for  the  five  hard  RM  wheats  (M,,,  to  M,,,)  is  72.6  and  the  mean 
+of  the  hardness  scores  measured  for  the  five  soft  RM  wheats  (Mg,  to  Mg;)  is  31.2.  On  a  properly  sloped  and  biased 
+SKCS  4100  instrument,  the  hardness  value  measured  for  each  RM  should  be  within  three  times  the  uncertainty 
+values  (3  x  u,)  listed  in  Table  2. 
+
+Table  2.  Mean  Single  Kernel  Hardness  Scores  for  RM  8441  Wheats 
+(SKCS  4100  Instrument) 
+
+Wheat  # 
+
+Hardness  Score 
+
+Uncertainty  (u,) 
+
+Hard-1  (M,;,) 
+Hard-2  (M,,) 
+Hard-3  (My) 
+Hard-4  (My) 
+Hard-5  (M,,;) 
+
+Soft-1  (Msg,) 
+Soft-2  (M,,) 
+Soft-3  (M,;) 
+Soft-4  (Mg,) 
+Soft-5  (Mg;) 
+
+Hard-1  (M,,,) 
+Hard-2  (M,,) 
+Hard-3  (M,,,) 
+Hard-4  (My,) 
+Hard-5  (My;) 
+
+Soft-1  (Msg) 
+Soft-2  (Mg) 
+
+Soft-3  (Mg;) 
+Soft-4  (Mg,) 
+Soft-5  (M,,) 
+
+74.7 
+75.8 
+63.7 
+77.5 
+91.8 
+
+30.0 
+29.9 
+31.1 
+29.8 
+31.5 
+
+79.0 
+66.3 
+68.5 
+63.5 
+85.5 
+
+24.7 
+26.1 
+
+34.4 
+34.2 
+36.6 
+
+1.9 
+1.9 
+1.6 
+2.1 
+2.8 
+
+0.7 
+13 
+0.9 
+1.1 
+1.5 
+
+1.1 
+0.9 
+1.0 
+1.2 
+0.8 
+
+0.5 
+0.7 
+
+0.6 
+0.6 
+0.9 
+
+RM  8441 
+
+Page  2  of  5
+
+The  bulk  and  single  kernel  hardness  methods  give  different  values  for  the  individual 
+General  Comments: 
+This  is  because  two  very  different  techniques  are  used  to  determine  wheat 
+reference  wheats  and  for  My,  and  Mg. 
+hardness.  The  NIR  instruments  are  responding  to  differences  in  the  particle  size  of  the  ground  material  while  the 
+SKCS  instruments  depend  on  crushing  force,  moisture  content,  mass,  and  size  per  kernel. 
+The  computational 
+procedure  for  NIR  and  SKCS  4100  standardization  using  RM  8441  as  provided  in  the  appendix  of  this  Report  of 
+Investigation. 
+
+If  RM  8441  is  used  for  standardizing  other  than  NIR  and  SKCS  4100  instruments,  the  hardness  values  measured 
+may  be  different  from  the  values  listed  in  Tables  1  and  2. 
+
+Comments  and  inquiries  from  users  of  RM  8441  will  be  welcome  and  should  be  directed  to: 
+
+Dr.  Aarion  C.  Johnson 
+USDA-FGIS  Technical  Center 
+10383  N.  Executive  Hills  Blvd. 
+Kansas  City,  Missouri  64154 
+
+Telephone:  (816)  891-0468 
+FAX:  (816)  891-7314 
+E-mail:  ajoluson@tsd.  iske.usda.gov 
+
+REFERENCES 
+
+[1] 
+[2] 
+
+Method  39-70A  issued  by  the  American  Association  of  Cereal  Chemists  (AACC). 
+Instruction  Manual,  Single  Kernel  Characterization  System,  Model  SKCS  4100,  Perten  Instruments,  Inc.,  P.O. 
+Box  7398,  5303  Louis  Lane  #1,  Reno,  NV  89511. 
+
+RM  8441 
+
+Page  3  of  5
+
+Appendix  A 
+
+Computation  Procedure  for  the  Standardization 
+of  NIR  and  SKCS  4100  Instruments  Using  RM  8441 
+
+The  process  by  which  the  mean  of  the  hardness  values  measured  for  the  five  hard  RM  8441  wheats  is  adjusted  to 
+the  fixed  value,  H,,  and  the  mean  of  the  hardness  values  measured  for  the  five  soft  RM  8441  wheats  is  adjusted  to 
+the  fixed  value,  S,  is  called  standardization.  For  bulk  hardness  measurements,  H,  and  S,  are  fixed  at  76.7  and 
+are  fixed  at  72.6  and  31.2, 
+30.05,  respectively. 
+respectively. 
+
+For  single  kernel  hardness  measurements,  Hg,  and  S, 
+
+Let  Mu;,  Min,  Mu3,  Mus,  and  My;  be  the  means  of  the  hardness  values  for  two  or  more  hardness  measurements 
+performed  on  Hard  1,  Hard  2,  Hard  3,  Hard  4,  and  Hard  5  RM  wheats,  respectively,  and  let  Ms;,  Mgo,  Ms3,  Msza, 
+and  M,,;  be  the  means  of  the  hardness  values  for  two  or  more  hardness  measurements  performed  on  Soft  1,  Soft  2, 
+Soft  3,  Soft  4,  and  Soft  5  RM  wheats,  respectively. 
+
+then, 
+
+My  =  (My;  +  My  +  My3  +  Mya  +  Mus)  >  5 
+
+and 
+
+Mg  =  (Mg,  +  Mg.  +  Mg;  +  Mg,  +  Mgs)  +  5 
+
+An  NIR  or  SKCS  4100  instrument  is  standardized  to  RM  8441  if  My  =  H,  and  M,  =  Hg. 
+If  My  #  Hy  and  Mg  #  He, 
+then  the  hardness  values  measured  for  the  RM  using  these  instruments  are  sloped  and  biased  such  that  M,  =  Hy, 
+
+and  Mg  =  Hg. 
+
+The  following  relationship  holds  true  for  Hz,  Ss,  My,  and  Ms: 
+H,  =  a  +  (b  x  My)  and  S,  =  a  +  (b  x  Ms), 
+where,  a  and  b  are  the  bias  and  slope  factors  used  to  adjust  the  measured  hardness  values  to  the  appropriate  fixed 
+values. 
+
+The  slope  factors  can  be  computed  as  follows:  b  =  (Hg  —  Sg) 
+
++  (My  —  Ms). 
+
+The  bias  factor  can  be  computed  from:  a  =  H,  -  (b  x  Mj)  or  a  =  Sz  -  (D  x  Mg). 
+
+Therefore,  the  standard  hardness  value  (SHV)  for  each  RM  can  be  determined  using  the  following  relationship: 
+SHV  =  a  +  (b  x  Old  HV)  where  old  HV  is  the  hardness  measured  for  RM  8441. 
+
+Example:  Suppose  that  the  SKCS  4100  yielded  the  hardness  values  listed  in  Table  Al  for  RM  8441. 
+
+Table  Al.  Hardness  Values  Measured  for  RM  8441  Using  the  SKCS  4100. 
+
+Sample 
+
+Hard  1 
+Hard  2 
+Hard  3 
+Hard  4 
+Hard  5 
+
+Soft  1 
+Soft  2 
+Soft  3 
+Soft  4 
+Soft  5 
+
+R1 
+
+76.5 
+65.0 
+64.4 
+61.3 
+82.3 
+
+24.4 
+25.3 
+32.3 
+32.6 
+33.7 
+
+Replicate 
+
+R2 
+
+76.4 
+63.9 
+64.7 
+60.5 
+82.7 
+
+23.4 
+24.2 
+33.1 
+33.4 
+34.7 
+
+R3 
+
+76.2 
+63.5 
+67.1 
+61.0 
+83.4 
+
+23.4 
+24.1 
+32.5 
+31.6 
+34.6 
+
+Mean 
+
+76.4 
+64.1 
+65.4 
+60.9 
+82.8 
+
+23.7 
+24.5 
+32.6 
+32.5 
+34.3 
+
+RM  8441 
+
+Page  4  of  5
+
+My  =  (Mii  +  Myo  +  Mus  +  Mug  +  Mys)  +  5 
+
+=  (76.4  +  64.1  +  65.1  +  60.9  +  82.8)  +5 
+
+=  69.9 
+
+=  29.6 
+
+Ms  =  (Mg;  +  Mg.  +  Mg3  +  Mgg  +  Mgs)  +  5 
+
+=  (23.7  +  24.5  +  32.6  +  32.5  +  34.3)  +5 
+
+For  SKCS  4100,  H,  =  72.6  and  S,  =  31.2 
+
+b  =  (Hg  -  Sg)  +  (My  -  Ms) 
+
+=  (72.6  -  31.2)  +  (69.9  -  29.6) 
+=  41.4+  40.3 
+=  1.02729 
+
+a  —  S,  -  (b  x  Mg) 
+
+=  31.2  -  (1.02729  x  29.6) 
+=  0.8 
+
+SHV  =  a+  (b  x  old  HV) 
+
+SHVM,y  =  a  +  (b  x  old  HVM,) 
+
+=  0.8  +  (1.02729  x  69.9) 
+=  72.6 
+
+so  that, 
+
+and, 
+
+SHVM,  =  a  +  (b  x  old  HVM,) 
+
+=  0.8  +  (1.02729  x  29.6) 
+=  31.2 
+
+also, 
+
+SHV  (Hard  1) 
+
+and, 
+
+=  a  +  (b  x  old  HV  Hard  1) 
+=  0.8  +  (1.02729  x  76.4) 
+=  79.3 
+
+SHV  (Soft  1)  =  a  +  (b  x  old  HV  Soft  1) 
+=  0.8  +  (1.02729  x  23.7) 
+=  25.1 
+
+and  so  on. 
+
+It  ts  the  responsibility  of  users  of  this  SRM  to  assure  that  the  certificate  in  their  possession  is  current. 
+This  can  be 
+accomplished  by  contacting  the  SRM  Program  at:  Phone  (301)  975-6776  (select  “Certificates”),  Fax  (301)  926- 
+4751,  e-mail  srminfo@nist.gov,  or  via  the  Internet  http://ts.nist.  gov/srm. 
+
+RM  8441 
+
+Page  5  of  5
+
+

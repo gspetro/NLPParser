@@ -1,0 +1,909 @@
+﻿National Institute of Standards & Technology 
+
+Certificate 
+ 
+Standard Reference Material 2082 
+
+ 
+Pathlength Absorbance Standards for 
+Microliter Volume Spectrophotometers  
+
+absorbance 
+
+ 
+of  pathlength  on 
+This Standard Reference Material (SRM) is a certified absorbance standard for the determination of pathlength on 
+microliter volume spectrophotometers and fixed pathlength cuvettes.  A unit of SRM 2082 consists of three 2 mL 
+ampoules, one ampoule each of a blank buffer solution (10 mM 2-amino-2-hydroxymethyl-propane-1,3 diol (TRIS) 
+buffer,  pH 8.0);  tryptophan (1.4 mM)  in  TRIS  buffer  (component A);  and  uracil  (1.0 mM)  in  TRIS  buffer 
+(component B).  Each ampoule contains approximately 1.8 mL of solution. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account [1].    Values  obtained  using 
+equations 1 to 6 are certified within the limits given in this certificate.  Equations 1 and 2 are the functions of the 
+absorbance  at  280 nm,  A280,  and  260 nm,  A260,  with  respect  to  pathlength  in  millimeters  for  component A  and 
+component B, respectively, measured against the TRIS buffer, with a spectral bandwidth of 0.8 nm, and a temperature 
+of 22.0 ºC ± 0.1 ºC.  The absorbance at the respective wavelengths are calculated as the absorbance of the component 
+solution, at 280 nm or 260 nm, minus the absorbance of the TRIS buffer at the same wavelength.  For conditions other 
+than 22 °C and 0.8 nm spectral bandwidth, there are correction factors for temperatures between 18 °C and 30 °C and 
+for spectral bandwidths from 0.8 nm to 5.0 nm given as equations 3 and 4 with coefficients and constants given in 
+Table 1.  Equation 5 and 6 are used to calculate the pathlength in millimeters.  The uncertainty is estimated from the 
+evaluation of multiple vials of each component and from the uncertainty of the pathlengths of the calibrated cuvettes, 
+temperature  and  spectral  bandwidth.    Uncertainties  are  given  in  the  form  of  equation 7,  and  are  dependent  on  the 
+measurement parameters of the SRM with coefficients and constants given in Table 2.  The measurand is pathlength.  
+Metrological traceability is to the SI unit for length, expressed as millimeters. 
+ 
+Information Values:  A NIST information value is a value that may be of interest to the SRM user, but insufficient 
+information is available to assess the uncertainty associated with the value, therefore no uncertainty is provided [1].  
+Values obtained with equations 10 and 11 are for information purposes only.  Information values cannot be used to 
+establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 2082 is valid, within the measurement uncertainty specified, 
+is 
+until  30 October 2020, provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+damaged, 
+Use”). 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+fy  the  purchaser. 
+changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST will  notify  the  purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Production  and  certification  of  this  SRM  were  performed  by  B.E. Lang,  K.D. Cole,  and  A.A. Urbas  of  the  NIST 
+Biosystems and Biomaterials Division, and S.J. Choquette.  
+ 
+Statistical consultation was provided by H.K. Liu of the NIST Statistical Engineering Division.  
+ 
+oordinated  through  the  NIST  Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 August 2016 
+
+Anne Plant, Chief 
+Biosystems and Biomaterials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+BE. 
+
+HLK. 
+
+Page 1 of 7 
+
+ 
+
+ 
+
+  
+
+SRM 2082 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE  
+ 
+Handling and Storage:  SRM 2082 should be stored at –20 °C until it is ready for use.  Keep the product in the dark 
+while in storage, as long term exposure to UV light can cause photo-degradation of component A (tryptophan).  It is 
+recommended that the  SRM  vials be kept in the  storage box, and be thawed at 4 °C overnight or thawed at room 
+temperature for a few hours.  The SRM vials should not be heated to thaw as this may promote degradation of the 
+SRM components.  
+ 
+Based upon our stability studies, SRM 2082 may be stored at 4 °C for up to three months without degradation.  It 
+should be mixed thoroughly and centrifuged before using after standing for long periods of time. 
+ 
+SRM  SOLUTIONS  MUST  BE  PROPERLY  MIXED  PRIOR  TO  USE.    After  the  SRM  has  been  completely 
+thawed,  the  individual  vials  must  be  mixed  thoroughly  since  it  has  been  observed  that  freezing  will  promote 
+concentration gradients and/or sample adhesion to the supplied tubes.  These gradients will remain in the vial after 
+thawing without adequate mixing.  Mixing should be accomplished by first inverting the vials 20 times, insuring that 
+the air bubble has traveled all the way up the vial, then by mechanical mixing using a vortexing mixer for 30 seconds.  
+The inversion of the vial and vortexing should be performed a total of 3 times to ensure the sample is ready for use.  
+Vortexing the vials at a low angle (30° from horizontal) will improve the efficiency of mixing.  Ensure that the vial is 
+securely closed before mixing.  Brief centrifugation before opening is recommended as well. 
+ 
+Use:  SRM 2082 is used to calibrate the pathlength for fixed pathlength cuvettes or microvolume spectrophotometers 
+that utilize fixed or variable pathlength sample cells and is certified for use with pathlengths between 0.1 mm and 
+2.0 mm.  SRM 2082 should be brought up to the temperature of the spectrophotometer on which the measurements 
+will  be  made.    Often  this  is  room  temperature;  however,  this  may  not  be  the  case  depending  on  the  set  up  of  the 
+instrument, and provisions should be made accordingly.  The spectrophotometer should be started and run using the 
+manufacturer’s recommendations with sufficient time to warm up to operating temperature if necessary. 
+ 
+Starting with the buffer solution, pipette enough of the liquid into the measurement chamber of the spectrophotometer 
+to  meet  the  manufacturer’s  specifications  for  proper  measurements.    Measure  a  baseline  UV  absorbance  at  the 
+wavelength(s)  of  interest,  which  is  ideally  a  spectrum  from  340 nm  to  240 nm.    The  baseline  may  be  subtracted 
+automatically by the instrument, or it may be subtracted manually at a later time.  Repeat the measurements using 
+component A (tryptophan) and component B (uracil).  Ensure that enough replicate measurements have been made 
+using all parts of SRM 2082 to achieve the desired statistical sampling for the measurements. 
+ 
+The vial used for the SRM should be opened, sample removed, and closed securely to prevent evaporation, which may 
+cause a change in the concentration of the solutions. 
+   
+When  using  SRM 2082,  the  temperature  of  the  room  or  instrument  should  be  recorded  along  with  the  spectral 
+bandwidth of the instrument.  The temperature should be measured with a calibrated thermometer that is accurate to 
+to 
+within  ± 0.25 K  and  is  traceable  to  the  International  Temperature  Scale  of  1990.    Spectral  bandwidth  of  the 
+spectrophotometer should be obtained from the instrument manufacturer. 
+ 
+For  user  convenience,  a  spreadsheet  containing  the  coefficients  of  the  certified  model,  confidence  band,  and  a 
+calculator 
+at  
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=2082 [2]. Utilizing estimates of absorbance uncertainty, u(Ec), 
+below  0.001  A  is  not  recommended  unless  the  user  has  performed  a  careful  uncertainty  analysis  of  their 
+instrumentation.  Instrument precision alone may significantly underestimate uncertainty. 
+ 
+Uracil  (#U0750,
+Preparation  and  Analysis:    The  SRM 2082  solutions  were  prepared  and  packaged  at  NIST.    Uracil  (#U0750, 
+Lot No. SLBD1250V) and L-Tryptophan (#93659, Lot No. 1400132V) were obtained from Sigma-Aldrich and used 
+as received.  A stock solution of TRIS buffer (1 M, pH 8.0) was obtained from Ambion Life Technologies (#AM9856, 
+Lot No. 1001017).  Bulk solutions were prepared to attain final concentrations of nominally 1.0 mM uracil and 1.5 mM 
+tryptophan in 10 mM TRIS buffer.  The prepared solutions were dispensed in 1.7 mL aliquots into sterile 2 mL sample 
+tubes in a sterile hood.  The packaged samples were stored at –20 ºC. 
+ 
+Cuvettes constructed from Spectrosil® quartz were obtained from Starna with nominal pathlengths of 0.5 mm, 1 mm, 
+and 2 mm.  Additional quartz cuvettes were obtained from Precision Cell Inc., with nominal pathlengths of 0.2 mm 
+and  0.1 mm.    The  pathlength  of  the  0.5 mm,  1.0 mm  and  2.0 mm  cuvettes  were  measured  by  NIST  Dimensional 
+Metrology Group using a coordinate measuring machine with a fiber probe having a tip with an ellipsoidal geometry.  
+The  uncertainty  for  this  instrument  has  been  shown  to  have  a  deviation  of  ± 0.11 µm  for  measurements  in  one 
+dimension.  Pathlengths for the 0.5 mm, 0.1 mm, and 0.2 mm cells were determined by interference fringes in the 
+
+and  may 
+
+uncertainty 
+
+pathlength 
+
+available 
+
+found 
+
+and 
+
+the 
+
+for 
+
+be 
+
+is 
+
+SRM 2082 
+
+ 
+
+Page 2 of 7 
+
+acil  and  tryptophan 
+
+near-infrared  spectral  region.    Measurements  across  the  collection  of  cuvettes  of  both  uracil  and  tryptophan  were 
+observed to be linear with respect to pathlength and thus adhered to the Beer-Lambert law. 
+ 
+To test for homogeneity, 12 units were selected using a step randomization method based on filling order, with two 
+random units selected out of every sequential hundred units.  All units were measured at 22 °C, at a spectral bandwidth 
+of 0.8 nm, using the same 0.5 mm cuvette.  No significant heterogeneity or correlations with respect to filling order 
+were observed and the lot was deemed suitably homogenous. 
+ 
+Certification:  The buffer corrected absorbance of component A and component B have been determined in the UV 
+region at the absorbance peaks of tryptophan and uracil, 280 nm and 260 nm, respectively.  The spectra of tryptophan 
+and  uracil  are  shown  in  Figure 1.    Absorbance  measurements  are  traceable  to  the  NIST  High  Accuracy 
+Spectrophotometer [3].    Absorbance  measurements  were  made  at  22 °C  and  a  spectral  bandwidth  of  0.8 nm.  
+Correction  factors  have  been  measured  to  allow  for  the  determination  of  the  pathlength  in  the  temperature  range 
+between 18 °C and 30 °C and for the variation in spectral bandwidth from 0.8 nm to 5.0 nm. 
+ 
+ 
+
+  
+
++++  tryptophan 
+
+uracil 
+
+  
+
+[ 
+
+        
+
+  
+
+0.9 
+
+0.8 
+
+0.7 
+
+0.6 
+
+0.5 
+
+0.4 
+
+0.3 
+
+0.2 
+
+0.1 
+
+  
+
+  
+
+240 
+
+250 
+
+260 
+
+270 
+
+280 
+
+290 
+
+300 
+
+310 
+
+320 
+
+330 
+
+340 
+
+wavelength  (nm) 
+
+ 
+
+Figure 1.  Absorbance spectrum (1 mm) of SRM 2082 component A (tryptophan) and component B (uracil) from 
+240 nm to 340 nm, at 22 °C and 0.8 nm spectral bandwidth. 
+
+ 
+ 
+The  absorbance, A,  of  component A  (tryptophan)  and  component B  (uracil)  follow  the  Beer-Lambert  law  for 
+the
+pathlengths used in the certification process (0.1 mm to 2.0 mm).  Thus, at 22 °C and 0.8 nm spectral bandwidth the 
+absorbance with respect to pathlength, l in millimeters, for components A and B are described by the following linear 
+equations: 
+ 
+ 
+ 
+ 
+ 
+where the constants of the equations can be expressed as the generic constant Ec 
+SRM 2082 
+
+A280(tryptophan)  =  0.83498(mm-1)·l 
+
+A260(uracil)  =  0.79903(mm-1)·l 
+
+ 
+Page 3 of 7 
+
+8¢nm 
+
+(1) 
+
+(2) 
+
+the 
+
+the 
+
+1s, 
+
+ 
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Table 1.  Coefficients and Constants for Pathlength Calculation Using SRM 2082 
+
+Component A, Tryptophan 
+
+Component B, Uracil 
+
+ 
+
+ 
+
+A280 
+
+Uncertainty 
+
+ 
+
+A260 
+
+0.83498 (mm-1)  
+
+0.000297 
+
+0.79903 (mm-1) 
+
+0.000304 
+
+4.997 × 10-4 
+
+1.108 × 10-5 
+
+2.266 × 10-4 
+
+-0.01097 
+
+2.648 × 10-4 
+
+-5.066 × 10-3 
+
+ 6.104 × 10-4 
+
+8.602 × 10-5 
+
+ 2.374 × 10-4 
+
+-2.656 × 10-5 
+
+5.428 × 10-4 
+
+-9.160 × 10-6 
+
+-6.198 × 10-4 
+
+6.558 × 10-4 
+
+-2.210 × 10-4 
+
+ 
+
+Uncertainty 
+
+1.033 × 10-5 
+
+2.470 × 10-4 
+
+3.623 × 10-5 
+
+2.286 × 10-4 
+
+2.768 × 10-4 
+
+ 
+
+ 
+
+ 
+
+Ec 
+
+a1 
+
+a0 
+
+b2 
+
+b1 
+
+b0 
+
+ 
+Coefficients used in the calculation of the pathlength based on the TRIS buffer corrected absorbance measurements 
+cbance  measurements 
+of SRM 2082 for Component A (tryptophan) and Component B (uracil) at 280 nm and 260 nm, respectively are shown 
+in  Table 1.   The  absorbance A,  of  tryptophan  and  uracil  follow  the  Beer-Lambert  law  in  the  region  studied.    The 
+constant Ec correlates the absorbance of the tryptophan or uracil solutions to the pathlength, l (in millimeters), through 
+the relationship A = Ec·l and are the same as the constants in equations 1 and 2.  Coefficients a1 and a0 are used in 
+equation 3 to relate the change in absorbance to temperature from 18 °C to 30 °C.  Coefficients b2, b1, and b0 are used 
+in equation 4 to relate the change in absorbance to the spectral bandwidth from 0.8 nm to 5.0 nm. 
+ 
+The pathlength can be determined from equations 1 and 2 by rearrangement into the form l = A/Ec.  If the absorbance 
+is  not  measured  at  22 °C  and  0.8 nm  spectral  bandwidth,  correction  factors  to  the  absorbance  must  be  applied  to 
+calculate the pathlength.  
+ 
+The absorbance change due to temperature is defined as ∆tA = A22°C − At, where A22°C is the absorbance at 22 °C and 
+At is the absorbance at temperature t, in Celsius.  The change in absorbance with respect to temperature for a 1 mm 
+pathlength is linear in the range from 18 °C to 30 °C, and can be expressed in the following form: 
+ 
+ 
+ 
+where  a1  and  a0  are  constants,  and  are  listed  in  Table 1  for  components  A  and  B.    The  value  of  ∆tA  scales 
+proportionately with pathlength, with equation 3 representing ∆tA at a reference condition of 1 mm.  
+ 
+The second correction to the absorbance measurements arises from the effect of the spectral bandwidth on the apparent 
+absorbance  of  the  SRM.    The  change  in  absorbance  due  to  the  spectral  bandwidth,  ∆BA,  is  defined  as 
+∆BA = A0.8 nm – ABλ,  where  A0.8 nm  is  the  absorbance  at  the  reference  spectral  bandwidth  of  0.8 nm  and  ABλ  is  the 
+measured absorbance at spectral bandwidth, Bλ, in nm.  The deviation of the absorbance with respect to the spectral 
+bandwidth is nonlinear and between 0.8 nm and 5 nm may be fit to quadratic equations of the form: 
+ 
+ 
+ 
+where b2, b1, and b0 are constants, and Bλ is the spectral bandwidth (in nanometers).  The constants for the deviation 
+of the absorbance due to spectral bandwidth over a 1 mm pathlength are given in Table 1.  The functions of ∆BA were 
+determined using absorbance measurements at two pathlengths, with the value of ∆BA scaling linearly with pathlength. 
+Equation 4 is defined at 1 mm pathlength as a convenient reference condition.  
+ 
+following 
+To  calculate  the  pathlength  in  mm  based  on  the  absorbance,  temperature,  and  spectral  bandwidth,  the  following 
+equation should be used: 
+
+∆tΑ  =  a1 • t  +  a0 
+
+2  +  b1 • Bλ +  b0 
+
+∆BA  =  b2 • Bλ
+
+and  B 
+
+(3) 
+
+(4) 
+
+A 
+
+T 
+
+(5) 
+
+ 
+
+A 
+ 
+l=  [E.—(ayt+a9  +b»  Bi  +b2B,+bo)| 
+
+=
+
+ 
+
+2
+�𝐸𝐸𝑐𝑐−�𝑎𝑎1𝑡𝑡+𝑎𝑎0+𝑏𝑏2𝐵𝐵𝜆𝜆
+
++𝑏𝑏2𝐵𝐵𝜆𝜆+𝑏𝑏0��
+
+𝑙𝑙
+
+ 
+
+𝐴𝐴
+
+ 
+
+SRM 2082 
+
+Page 4 of 7 
+
+Or alternatively 
+ 
+
+l= 
+=
+
+ 
+
+(6) 
+
+𝑙𝑙
+
+(E..  —  AA) 
+)
+(
+𝐴𝐴
+ 
+𝐸𝐸𝑐𝑐 − ∆𝐴𝐴
+range  of 
+where ∆A = ∆tA + ∆BA, from equations 3 and 4.  Absorbance values measured outside of the temperature range of 
+18 °C to 30 °C, and/or with a spectral bandwidth greater than 5 nm will NOT yield certified values for a calculated 
+pathlength. 
+ 
+Uncertainty  Calculation:    The  combined  standard  measurement  uncertainty  comprises  one  set  of  components 
+evaluated by application of statistical methods (Type A evaluation).  The Type A uncertainties include contributions 
+attributable to the uncertainties in the reference cuvette pathlength, the uncertainty in absorbance from the transfer 
+spectrophotometer,  variation  in  the  measured  spectral  bandwidth,  uncertainty  in  the  absolute  temperature,  and  the 
+sample to sample variation. 
+ 
+A certified model of the derived pathlength uncertainty was obtained by propagation of error methods in accordance 
+with  Supplement 1  to  the  ISO/JCGM  Guide [4].    The  combined  uncertainty  is  derived  from  uncertainties  of  the 
+absorbance  as  well  as  from  uncertainties  given  in  Table 1.    The  uncertainty  in  the  calculated  pathlength,  u(l),  as 
+calculated from equation 6 takes the form: 
+ 
+
+AZ 
+
+)
+
+(
+
+2
+𝐴𝐴
+𝐸𝐸𝑐𝑐 − ∆𝐴𝐴
+
+1
+
+(
+
+)
+
+2
+
+2 𝑢𝑢
+
+) 
+u  (l)  =  —7  [u2(E.)  +  u2  (A,A)  +  u2  (ApA)|  +  aaa  A) 
+
+)] +
+
+) +
+
+) =
+
+) +
+
+(
+
+(
+
+(
+
+(
+
+(
+
+[
+
+(7) 
+
+2
+
+2
+
+4
+
+𝑢𝑢
+
+𝐸𝐸𝑐𝑐
+
+2
+
+∆𝑡𝑡𝐴𝐴
+
+2
+
+∆𝐵𝐵𝐴𝐴
+
+𝑙𝑙
+
+𝑢𝑢
+
+𝑢𝑢
+
+𝑢𝑢
+
+𝐴𝐴
+
+a 
+
+), 
+
+𝐸𝐸𝑐𝑐 − ∆𝐴𝐴
+
+u2(∆tA) = au2·t2 + au1·t + au0 
+
+ 
+where  u(Ec)  is  the  uncertainty  of  the  absorbance  with  respect  to pathlength  (see  equations  1  and  2),  u(∆tA)  is  the 
+uncertainty of the temperature correction, u(∆BA) is the uncertainty of the spectral bandwidth correction, and u(A) is 
+the uncertainty of the measured absorbance.   
+ 
+The uncertainty of the temperature correction derives from the uncertainty of the constants a1 and a0 in equation 3 
+(listed in Table 1).  Since the constants are interrelated and dependent on the temperature, the total uncertainty from 
+temperature is determined as a function of t using the covariance between a1 and a0, and is expressed as a simple 
+quadratic equation of the form: 
+ 
+ 
+ 
+where au2, au1, and au0 are constants.  
+a 
+ 
+Similarly, the uncertainty of the spectral bandwidth correction derives from the uncertainty of the constants b2, b1, and 
+b0  from  equation 4  (listed  in  Table 1).   This  correction  factor  is  a  function  of  the  spectral  bandwidth,  Bλ,  and  the 
+ul 
+uncertainty  is  also  calculated  from  the  covariance  of  the  constants  b2,  b1,  and  b0.    The uncertainty  of  the  spectral 
+bandwidth can be expressed simply as a polynomial of the form: 
+ 
+ 
+ 
+where bu3, bu2, bu1, and bu0 are constants. 
+ 
+All of the constants for the calculation of the uncertainty are listed in Table 2 for both tryptophan and uracil. 
+ 
+The last term in equation 7 relates to the customer’s uncertainty in the experimental absorbance measurement.  It is 
+recommended that the user make ten replicate measurements of the absorbance A, with reloading of the sample for 
+each  measurement.  The average value of A  may be used to calculate l, and the standard deviation of  A, σA,  will 
+approximate u(A).  
+ 
+The  final  expanded  uncertainty  of  the  pathlength,  U95(l),  using  the  absorbance  of  SRM 2082  is  calculated  by 
+U95(l) = k·u(l), where k is the coverage factor for the 95 % confidence interval.  For the recommended ten replicate 
+uncertainty
+absorbance measurements, k = 2.26 and the expanded uncertainty is U95(l) = 2.26 u(l). 
+ 
+
+u2(∆BA) = bu4·Bλ
+
+2 + bu1·Bλ+ bu0 
+
+4 + bu3·Bλ
+
+3 +bu2·Bλ
+
+(9) 
+
+(8) 
+
+T 
+
+B 
+
+U 
+
+b 
+
+b 
+
+ 
+
+SRM 2082 
+
+ 
+
+Page 5 of 7 
+
+Table 2.  Coefficients and Constants for Uncertainty Calculation Using SRM 2082 
+ 
+Component A, Tryptophan 
+
+Component B, Uracil 
+
+ 
+
+ 
+
+ 
+
+u(Ec) 
+
+au2 
+
+au1 
+
+au0 
+
+bu4 
+
+bu3 
+
+bu2 
+
+bu1 
+
+bu0 
+
+A280 
+
+0.000297 
+
+1.2271 × 10-10 
+
+-5.7849 × 10-9 
+
+28 
+-7.0128 × 10-8 
+
+7.4002 × 10-9 
+
+-9.1491 × 10-8 
+
+3.9443 × 10-7 
+
+-6.7305 × 10-7 
+
+4.3012 × 10-7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A260 
+
+0.000304 
+
+1.0671 × 10-10 
+
+-5.0309 × 10-9 
+
+6.0988 × 10-8 
+
+1.3126 × 10-9 
+
+-1.6227 × 10-8 
+
+6.9996 × 10-8 
+
+-1.1970 × 10-7 
+
+7.6621 × 10-8 
+
+ 
+Coefficients  for  the  determination  of  the  uncertainty  of  the  pathlength  of  SRM 2082  utilizing  equation 7  for 
+.  The 
+Component A (tryptophan) and Component B (uracil) at 280 nm and 260 nm, respectively, are shown above.  The 
+constant u(Ec) corresponds to the uncertainty of equations 1 and 2.  Coefficients au2, au1, and au0 are used in equation 8 
+to map the uncertainty of change in absorbance to temperature, u(∆tA).  Coefficients bu3, bu2, bu1, and bu0 are from 
+equation 9 for the uncertainty of the change in absorbance from the spectral bandwidth, u(∆BA).  
+ 
+Information Values:  Some instruments may have fixed spectral bandwidths that are outside of the range measured 
+in the preparation of the certificate for SRM 2082.  To extend the useful range, we have used a convolution method 
+outlined  by  Travis  et  al.  to  calculate  spectra  out  to  a  spectral  bandwidth  of  10 nm  using  the  experimental  spectra 
+obtained at 1.0 nm spectral bandwidth [5]. 
+ 
+The change in absorbance due to spectral bandwidths larger than 5 nm for tryptophan at 280 nm is provided as an 
+information value only:  
+ 
+ 
+ 
+ 
+For  uracil,  the  change  in  absorbance  due  to  spectral  bandwidths  larger  than  5 nm  at  260 nm  is  provided  as  an 
+information value only:  
+ 
+ 
+ 
+these
+where Bλ is the spectral bandwidth in nanometers for both equations.  There are no uncertainty estimates for these 
+functions for spectral bandwidths greater than 5 nm.  Equations 10 and 11 do NOT give certified values and users 
+must apply these functions with caution.   
+ 
+
+2  +  2.135 × 10-5Bλ  –  7.113 × 10-5 
+
+2  –  8.861 × 10-4Bλ  –  5.040 × 10-5 
+
+∆BAtryp  =  –1.169 × 10-7Bλ
+
+∆BAuracil  =  2.485 × 10-4Bλ
+
+6  +  5.158 × 10-6Bλ
+
+5  –  7.783 × 10-5Bλ
+
+4  +  4.311×10-4Bλ
+
+–  2.084 × 10-4Bλ
+
+certaint 
+
+(10) 
+
+(11) 
+
+3 
+
+ 
+
+SRM 2082 
+
+ 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Aug 2016). 
+
+[2]  NIST  Standard  Reference  Materials,  SRM 2082,  https://www-s.nist.gov/srmors/view_detail.cfm?srm=2082, 
+
+(accessed Aug 2016). 
+
+[3]  Burke, R.W.; Mavrodineau, R.; Accuracy in Analytical Spectroscopy; NIST Special Publication 260-81 (1983); 
+
+[4] 
+
+available at http://www.nist.gov/srm/publications.cfm (accessed Aug 2016). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Aug 2016). 
+
+[5]  Travis, J.C.;  Acosta, J.;  Andor, G.;  Bastie, J.;  Blattner, P.;  Chunnilall, C.;  Crosson, S.;  Duewer, D.;  Early, E.; 
+Hengstberger, F.;  Kim, C.-S.;  Liedquist, L.;  Manoocheri, F.;  Mercader, F.;  Monard, L.;  Nevas, S.;  Mito, A.; 
+Nilsson, M.; Noël, M.; Rodriguez, A.; Ruı́z, A.; Schirmacher, A.; Smith,  M.V.; Valencia, G.; van Tonder, N.; 
+Zwinkels, J.;Intrinsic  Wavelength  Standard  Absorbance  Bands  in  Holmium  Oxide  Solution  for  UV/visible 
+Molecular Absorption Spectroscopy; J. Phys. Chem. Ref. Data, Vol. 34, pp. 41–56 (2005). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate  in their possession is current.  This can be accomplished by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+rtificate 
+)
+
+SRM 2082 
+
+ 
+
+Page 7 of 7 
+
+

@@ -1,0 +1,198 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 3016 
+
+ 
+
+ 
+
+sec-Butylbenzene in Methanol 
+ 
+(Nominal Mass Fraction – 0.01 g/g) 
+ 
+This Standard Reference Material (SRM) is intended primarily for the calibration of instrumentation and validation 
+of methods for volatile organic compound (VOC) determinations.  Because of its miscibility with water, this SRM 
+can also be used to fortify aqueous samples with known amounts of the VOC.  A unit of SRM 3016 consists of two 5 
+mL  sealed  borosilicate  glass  ampoules  of  a  gravimetrically  prepared  single  compound  solution  in  methanol.  
+Approximately 2.5 mL of this SRM mixture is supplied in each 5 mL glass ampoule.  
+ 
+Certified Value:  The certified concentration value [1] for sec-butylbenzene, reported as a mass fraction, is given 
+below. 
+ 
+ 
+ 
+A  NIST  certified  value  is  a  value  for  which  NIST  has  the highest  confidence  in  its  accuracy  in  that  all  known  or 
+suspected  sources  of  bias  have  been  investigated  or  taken  into  account  [1].    The  certified  value  is  an  unweighted 
+mean of the results from three analytical methods.  The uncertainty listed with each value is an expanded uncertainty 
+about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence),  calculated  by  combining  a  between-
+method variance [2] with a pooled, within-method variance following the ISO and NIST Guides [3]. 
+ 
+Reference  Value:    A  NIST  reference  value  is  a  non-certified  value  that  is  the  best  estimate  of  the  true  value; 
+however, the value does not meet NIST criteria for certification and is provided with an associated uncertainty that 
+may reflect only measurement precision and may not include all sources of uncertainty.  A reference value [1] for 
+density is provided for the calculation of volume to assist in the transfer of material during gravimetric dilutions of 
+the SRM. 
+ 
+
+sec-Butylbenzene (mass fraction):   
+
+0.0101 g/g    0.0002 g/g 
+
+Density of the SRM Solution at 22 °C:  0.79082 g/mL    0.00022 g/mL  
+
+ 
+
+ 
+
+ 
+Expiration of Certification:  The certification of SRM 3016 is valid, within the measurement uncertainty specified, 
+until 31 January 2015, provided the SRM is handled in accordance with the instructions given in this certificate (see 
+“Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall coordination and direction of the technical work required for this SRM certification were performed by 
+F.R. Guenther and M.M. Schantz of the NIST Analytical Chemistry Division. 
+ 
+The analytical measurements leading to the certification of this SRM were performed by T.L. Green, F.R. Guenther, 
+C.R.  Mack,  B.A.  Benner,  Jr,  M.M.  Schantz,  B.J.  Porter,  and  Siu-kay  Wong  of  the  NIST  Analytical  Chemistry 
+Division. 
+
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 December 2009 
+See Certificate Revision History on Last Page 
+
+ 
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 3016 
+
+Page 1 of 3 
+
+ 
+Partial  support  for  the  preparation  and  certification  of  this  Standard  Reference  Material  was  provided  by  the  U.S. 
+Environmental Protection Agency Office of Water, Office of Enforcement and Compliance Assurance, and Office of 
+Research and Development. 
+ 
+Statistical consultation was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+SRM Preparation:  This SRM was prepared by NIST using precise gravimetric mass determinations.  Chemicals 
+used  in  the  preparation  were  received  from  commercial  sources  and  were  assessed  for  purity  at  NIST  using 
+differential  scanning  calorimetry  (DSC),  gas  chromatography  with  flame  ionization  detection  (GC/FID),  and  gas 
+chromatography with mass selective detection (GC/MSD). 
+ 
+sec-Butylbenzene  Concentration  Value  Assignment:    The  certified  value  for  sec-butylbenzene  is  based  on 
+gravimetric preparation of the SRM and analysis by GC/FID and GC/MSD of randomly selected ampoules from the 
+lot.  The analytical method was calibrated using four calibration standards independently prepared by gravimetry. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Storage:  Sealed ampoules should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Opening of Ampoule:  Open ampoules carefully to prevent contamination and injury.  The ampoules are pre-scored 
+and should not be opened using a file.  It is recommended that aliquots be withdrawn at temperatures between 20 °C 
+and 25 °C.  Each ampouled solution must be opened in a clean, dry environment and processed without delay.  Each 
+ampouled  solution  of  the  SRM  is  intended  for  use  immediately  after  opening  and  may  not  be  reused,  even  if 
+resealed. 
+ 
+Preparation of Working Standard Solutions by Mass:  Great care must be used in handling this SRM.  Dilution 
+of this SRM should be made gravimetrically (weighed) and not by volumetric means (volume may be calculated for 
+transfer purposes only).  It is recommended that the SRM material be transferred in a gas-tight syringe to a septum 
+sealed  container  containing  the  diluent.    It  is  critical  that  the  SRM  be  injected  slowly  beneath  the  surface  of  the 
+diluent.  The syringe should be weighed before injecting the material and weighed again after solution transfer.  This 
+allows  subtraction  of  the  mass  of  the  syringe  and  any  SRM  material  that  remains  in  the  syringe.    The  amount  of 
+sec-butylbenzene added to the diluent can be determined from the mass added and the certified value.  
+
+SRM 3016 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; 
+
+[2] 
+
+[3] 
+
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of Reference Materials for Chemical Measurements; NIST Special Publication 260-136, U.S. Government 
+Printing Office:  Washington, DC (2000); available at 
+http://ts.nist.gov/MeasurementServices/ReferenceMaterials/upload/SP260-136.PDF. 
+Levenson, M.S., Banks, D.L., Eberhardt, K.R., Gill, L.M., Guthrie, W.F., Liu, H-k., Vangel, M.G., Yen, J.H., 
+and Zhang, N.F., “An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM,” 
+J. Res. Natl. Inst. Stand. Technol. 105, pp. 571-579, (2000). 
+JCGM 100:2008; Evaluation of Measurement Data  Guide to the Expression of in Measurement (ISO GUM 
+1995  with  Minor  Corrections);  Joint  Committee  for  Guides 
+in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf;  see  also  Taylor,  B.N.;  Kuyatt, 
+C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST 
+Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+http://physics.nist.gov/Pubs/. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    17  December  2009  (This  technical  revision  reports  an  extension  in  the  certification  period);  12  January  2006 
+(This technical revision reflects an extension in the expiration date); 24 October 2001 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+ 
+
+SRM 3016 
+
+Page 3 of 3 
+
+

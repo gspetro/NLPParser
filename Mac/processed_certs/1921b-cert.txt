@@ -1,0 +1,1242 @@
+﻿et 
+
+< 
+
+NT  OF  Coy 
+% 
+S 
+ 
+%
+0
+3
+
+ 
+,
+g
+e
+W
+
+ 
+p
+E
+
+ 
+*
+
+ 
+N
+W
+ 
+*
+e
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material 1921b 
+
+ 
+
+Infrared Transmission Wavelength/Wavenumber Standard 
+
+/Wavenumber 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  calibrating  the  wavelength/wavenumber 
+scale of spectrophotometers in the infrared (IR) spectral region from 3.2 µm to 18.5 µm (540 cm-1 to 3125 cm-1).  A unit 
+of SRM 1921b consists of a matte finish polystyrene film approximately 38 µm thick with a 25 mm diameter exposed 
+area, centered 38 mm from the bottom of a cardboard holder, which is 5 cm × 11 cm × 0.2 cm in size. 
+ 
+Certified Wavelength/Wavenumber Values:  The spectral transmittance of a statistically representative group of 
+the  polystyrene  film  SRM  specimens  was  measured  under  both  vacuum  and  purge  conditions.    The  positions  of 
+absorption  bands  in  the  range  of  3.2 µm  to  18.5 µm  were  obtained  using  both  a  centroid  method  as  well  as  a  band 
+minimum determination method.  Thirteen of the band locations were selected for certification based on experimental 
+and statistical analysis results.  The certified wavelength values and associated uncertainties of these bands are shown 
+in Tables 1 and 3 for the centroid and band minimum methods, respectively.  The corresponding wavenumber values 
+and  associated  uncertainties  of  the  bands  are  shown  in  Tables 2  and  4,  respectively.    (See  section  entitled  “Band 
+Wavenumber and Wavelength Determination” for details).  To aid the user in distinguishing among the bands during 
+measurement, a spectrum is shown in Figure 1, with arrows identifying the certified bands.  For band wavelength and 
+wavenumber  values  measured  in  air  or  under  purge  conditions,  see  section  entitled  “Correction  for  Air/Nitrogen 
+Purge”. 
+ 
+The expanded uncertainty, U, is provided for each certified band wavelength and wavenumber.  It is the product of 
+the coverage factor, k = 4, and the combined standard uncertainty.  The combined standard uncertainty is the root sum 
+of squares of all the uncertainty components [1,2]. 
+ 
+Expiration of Certification:  The certification of SRM 1921b is valid, within the measurement uncertainty specified, 
+until 31 December 2021, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Storage, Handling, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical measurements leading to certification were performed under the 
+supervision of R.V. Datla and L.M. Hanssen of the NIST Sensor Science Division. 
+ 
+Technical measurements leading to certification were performed by R. Saunders and L.M. Hanssen of NIST. 
+ 
+Statistical consultation was provided by B. Toman of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  24 August 2018 
+Certificate Revision History on Last Page 
+
+Gerald T. Fraser, Chief 
+Sensor Science Division 
+ 
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+asor  Science  Division
+
+Page 1 of 7 
+
+SRM 1921b 
+
+  
+
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+ 
+Storage and Handling:  When not in use, SRM 1921b should be kept in its accompanying protective cover.  For 
+storage, it is advisable to keep the SRM in a desiccator cabinet.  The SRM should always be handled with care; the 
+exposed film surface should never be touched by fingers or any other objects.  Dust may be removed by blowing with 
+clean, dry air. 
+ 
+Measurement Conditions: (1)  The calibration measurements were made using a Bomem DA-3.02 Fourier transform 
+spectrophotometer.  The instrument room temperature was maintained at 23 °C ± l °C and the humidity ranged from 
+30 % to 50 % during the measurements.  Calibration measurements were made under a purge gas of clean air (with 
+CO2 and H2O removed) at atmospheric pressure.  Details of the measurement methodology can be found in reference 2. 
+ 
+Source of Material:  The polystyrene film used for SRM 1921b was taken from a single roll.  It was manufactured 
+by the Dow Chemical Company and donated by the Coblentz Society. 
+ 
+SRM 
+Calibration Measurements:  Prior to calibration with SRM 1921b, the spectrophotometer should be set up under the 
+following conditions: 
+ 
+
+Step 1.  Set the instrumental resolution to any value up to a maximum of 4 cm-1.  For a resolution of 4 cm-1 used 
+with a Fourier transform spectrophotometer no (equivalent to Boxcar) apodization should be used in the 
+Fourier transform processing [3,4].  For 2 cm-1 or less resolution, other apodizations can be used.  Within 
+these constraints, the most appropriate resolution for calibration is the one that is used for typical sample 
+measurements.  
+
+Step 2.  Set the source aperture to provide sufficient signal for measurement, yet not greater than that required to 
+maintain  measurement  resolution.    The  setting  should  not  be  so  large  that  the  wavenumber  shift  error 
+becomes significant [5] or the detector becomes significantly non-linear [6,7]. 
+
+Step 3.  Close and purge or evacuate the sample chamber for a time suitable for the instrument to reach pressure 
+
+and temperature equilibrium. 
+
+Step 4.  Obtain at least six transmittance spectra of SRM 1921b for statistical evaluation. 
+Step 5.  Analyze the resulting spectra for band locations as described in the next section. 
+Step 6.  When  appropriate,  apply  the  results  to  correct  the  spectrometer’s  wavelength/wavenumber  scale  as 
+
+section.
+described in the last section. 
+
+ 
+The purpose of analysis in step 5 is to obtain band locations as discussed below. 
+ 
+Band  Wavenumber  and  Wavelength  Determination:    Two  methods  have  been  used  to  obtain  calibrated  band 
+locations: a centroid method with band fraction of 0.5 and a band minimum determination method.  Both methods 
+have  been  applied  to  spectra  in  wavenumbers.    Wavelength  values  can  be  obtained  from  the  wavenumber  values 
+through  the  relationship  λν = 1,  where  λ  is  the  wavelength  in  cm  (see  also  the  description  below  on  potential 
+atmospheric corrections).  The user can select either Tables 1 and 2 if they apply the centroid (with band fraction of 
+0.5) method, or Tables 3 and 4 if they apply any method designed to obtain the band minimum.  Note that calibration 
+values  are  now  provided  for  the  1943 cm-1  absorption  band (#9),  but  only  for  use  with  a  band  minimum  location 
+method; this is new for SRM 1921b.  (For band #9 use of the centroid method is associated with significantly greater 
+uncertainties and is not recommended.) 
+ 
+Centroid Method 
+ 
+The first method used to determine the band wavenumber (υ) and wavelength (λ) values of SRM 1921b is the centroid 
+(also known as the center of gravity) method [8,9].  This procedure is performed on the transmittance spectra using 
+wavenumber values only.  The wavenumber value is defined as the number of waves per unit length (cm).  Refer to 
+Figure 2 for the following band determination procedure description.  The process is applied for each calibration band. 
+ 
+ 
+
+ 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1921b 
+
+Page 2 of 7 
+
+First,  the  bounds  of  an  initial  wavenumber  range (νmin  to  νmax)  enclosing  the  band  are  determined;  they  are  the 
+the  differences 
+wavenumber values at which transmittance relative maxima occur on either side of the band.  Next, the differences 
+between the transmittance values at each bound and the transmittance at the band minimum, 
+ 
+ 
+ 
+are determined.  Then half the value of the smaller of ∆T(νmax) and ∆T(νmin), ∆To/2 is determined.  The wavenumber 
+range (ν1 to ν2) to be used in the centroid calculation is that between the wavenumber values where the transmittance 
+values on either side of the band equal the minimum transmittance value plus ∆To/2, 
+ 
+ 
+
+∆T(νmax) = [T(νmax) - T(ν band min)] and ∆T(νmin) = [T(νmin) - T(ν band min)], 
+
+ 
+
+ 
+
+ 
+
+=
+
+T
+1/ 2
+
+≡
+
+T
+
+ν
+(
+
+band
+
+min
+
+)
+
++ ∆
+
+T
+0
+
+/ 2
+
+=
+
+ν
+,
+
+∋
+
+T
+
+ν
+
+1,2
+
+specific  data 
+
+ 
+that  
+The 
+Th ≥ T1/2 > Th+1  and  Tk-1  <T1/2  <Tk  for  adjacent  points.    The  centroid  equation  for  finite  sums  (below)  effectively 
+averages data at the ends, ν1 and ν2, to reduce the error due to the finite data spacing.  The formula used is 
+
+spectrum,  h = υ1 
+
+end  points  of 
+
+selected 
+
+k = υ2 
+
+and 
+
+are 
+
+the 
+
+so 
+
+ 
+
+ν
+
+Cen
+
+=
+
+ν
+k
+
+
+
+
+
+
++ ∆ 
+ν
+
+
+
+
+
+
+T T
++
+(
+i
+i
+
+)
+
++
+1
+
+k
+
+i
+(
+
+−
+
+k
+
++
+
+∑
+i h
+= −
+1
+  
+
+2
+
+2
+
+−
+
+T
+1/ 2
+
+
+
+
+
+1
+
+)
+
+
+
+
+
+k
+
+∑
+
+i h
+= −
+1
+
+
+
+
+
+T
+(
+i
+
++
+
+T
+i
+
++
+1
+
+)
+
+2
+
+−
+
+T
+1/ 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+where ∆ν is the frequency spacing. 
+ 
+Band Minimum Determination Method 
+ 
+accurately
+A  NIST-designed  method  is  applied  to  determine  accurately  the  band  minimum  (or  maximum)  value  to  obtain 
+calibration values for SRM 1921b.  This  method is called the  extrapolated centroid method [10,11].  It entails the 
+calculation of centroid values for a set of fractions (approaching zero fraction) of the band and extrapolating a curve 
+fit through the set of values to a value for zero fraction that corresponds to the band minimum (or maximum).  Results 
+of any method that is designed to find the band minimum should produce essentially the same result and hence be 
+directly comparable [4,12]. 
+ 
+Correction for Air/Nitrogen Purge:  The NIST certification measurements were performed under clean air purge.  
+However, it should be noted that the wavelength values reported in Table 1 are vacuum values where the index of 
+refraction, n, equals 1.  For instruments that operate under vacuum, calibration measurements of SRM 1921b can be 
+directly compared to values in Table l.  Also, for instruments which give vacuum wavenumber and wavelength values 
+(such  as  Fourier  transform  infrared (FTIR)  spectrometers  which  use  helium-neon  lasers  for  determination  of  the 
+wavenumber scale) even when operated under air or purge gas, as in our case, no corrections are necessary.   
+ 
+In all other cases when measurements of SRM 1921b are made under air, nitrogen, or other purge gas, the wavenumber 
+and wavelength values need to be adjusted for the index of refraction of the gas (n = 1.000 26 for dry nitrogen gas at 
+atmospheric pressure and T = 298 K) [13,14].  Thus, for nitrogen purge, the user-measured wavenumber values should 
+be divided by 1.000 26, and the wavelength values should be multiplied by 1.000 26 to compare to the certified values 
+in Table l. 
+ 
+Corrections  due  to  Sample  Temperature:    The  certified  values  in  Tables 1  through  4  are  for  SRM 1921b  at  a 
+nominal temperature of 23 °C (296 K).  The expanded uncertainties include accommodation for a temperature range 
+of  ± 5 °C.    For  temperatures  outside  this  range  (18 °C  to  28 °C),  the  user  should  correct  the  values  using  the 
+temperature  coefficients  given  in  Table 5.    The  table  only  contains  values  for  those  bands  where  the  temperature 
+dependence  is  significant  relative  to  the  expanded  uncertainties.    Below  15 °C  and  above  35 °C,  the  appropriate 
+corrections have not been determined and the user is advised not to exceed this range. 
+ 
+
+SRM 1921b 
+
+Page 3 of 7 
+
+Corrections to Instrument Wavenumber Scale:  The resulting N (N ≥ 6) values for each peak at wavenumber, ν, 
+should be averaged to obtain a single band wavenumber value (laboratory mean,  y ν), and the standard deviation of 
+the values, sν, should be calculated.  In order to determine whether or not the laboratory measurements are biased 
+relative to SRM 1921a, calculate the difference, δν, between the laboratory mean,  y ν, and the certified value, Cν, as 
+follows: 
+ 
+
+A practical limit for evaluating consistency with the certified value is: 
+ 
+
+δν =  y ν - Cν 
+ 
+
+δ =
+c
+
+2
+
+2
+
+sν
+N
+
++
+
+U
+
+2
+user
+
+3
+
++
+
+2
+
+U
+
+3
+
+, 
+
+ 
+where Uuser is the user’s Type B evaluated expanded uncertainty [15] and U [1] is the uncertainty from Table 2.  If 
+νδ δ>
+should be corrected to the SRM.  If this is the case, generally a linear least squares fit of δν to ν for the 13 peaks should 
+provide a sufficient correction to the spectrophotometer  scale.  However, if  |δν| ≤ δc, the  wavenumber scale of the 
+spectrophotometer is considered to be accurate and correction is not advised. 
+
+, then the difference is greater than can be explained by chance, and the wavenumber scale of the instrument 
+
+Table 
+
+c
+
+ 
+Values  (in  Vacuum) 
+Table 1.  Certified Band Centroid Wavelength Values (in Vacuum) 
+
+Band Number 
+
+Band Wavelength 
+(µm) 
+
+U
+Expanded Uncertainty, U  
+(µm) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+10 
+11 
+12 
+13 
+14 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+10 
+11 
+12 
+13 
+14 
+
+18.3512 
+11.8751 
+11.0276 
+9.7237 
+9.3522 
+8.6608 
+6.3169 
+6.2446 
+3.50853 
+3.33178 
+3.30421 
+3.26782 
+3.24442 
+
+544.92 
+842.10 
+906.82 
+1028.42 
+1069.27 
+1154.62 
+1583.04 
+1601.38 
+2850.20 
+3001.40 
+3026.44 
+3060.14 
+3082.22 
+
+8.2  ×  10-2 
+1.8  ×  10-2 
+1.3  ×   10-3 
+2.5  ×   10-3 
+6.8  ×   10-3 
+7.0  ×   10-4 
+3.4  ×   10-4 
+4.1  ×   10-4 
+1.5  ×  10-4 
+1.0  ×   10-4 
+1.0  ×   10-4 
+9  ×   10-5 
+1.0  ×   10-4 
+
+2.43 
+1.29 
+0.10 
+0.27 
+0.77 
+0.09 
+0.09 
+0.11 
+0.12 
+0.09 
+0.09 
+0.09 
+0.09 
+
+Table 2.  Certified Band Centroid Wavenumber Values (in Vacuum) 
+
+Band Number 
+
+Band Wavenumber 
+(cm-1) 
+
+Expanded Uncertainty, U  
+(cm-1) 
+
+SRM 1921b 
+
+Page 4 of 7 
+
+es  (in  Vacuum) 
+Table 3.  Certified Band Minimum Wavelength Values (in Vacuum) 
+
+Band Number 
+
+Band Wavelength 
+(µm) 
+
+U
+Expanded Uncertainty, U  
+(µm) 
+
+Table 4.  Certified Band Minimum Wavenumber Values (in Vacuum) 
+ 
+
+Band Number 
+
+Band Wavenumber 
+(cm-1) 
+
+Expanded Uncertainty, U  
+(cm-1) 
+
+18.5385 
+11.8793 
+11.0297 
+9.7250 
+9.3525 
+8.6617 
+6.3172 
+6.2448 
+5.1467 
+3.50938 
+3.33197 
+3.30467 
+3.26778 
+3.24435 
+
+539.41 
+841.79 
+906.63 
+1028.27 
+1069.22 
+1154.50 
+1582.98 
+1601.29 
+1942.97 
+2849.48 
+3001.20 
+3025.99 
+3060.16 
+3082.26 
+
+9.0   ×  10-2 
+1.9  ×  10-2 
+4.3   ×  10-3 
+3.1  ×  10-3 
+8.7  ×  10-3 
+1.5  ×  10-3 
+3.7  ×  10-4 
+4.1  ×  10-4 
+1.7  ×  10-3 
+6.0  ×  10-4 
+2.0  ×  10-4 
+5.0  ×  10-4 
+2.6  ×  10-4 
+1.7  ×  10-4 
+
+2.63 
+1.32 
+0.36 
+0.33 
+0.99 
+0.20 
+0.09 
+0.10 
+0.66 
+0.49 
+0.18 
+0.46 
+0.25 
+0.16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+ 
+
+3 
+7 
+8 
+11 
+12 
+14 
+
+ 
+
+ 
+Table 5.  Temperature Coefficients for Band Locations 
+ 
+
+Band Number 
+
+Temperature Coefficient 
+(cm-1/K) 
+(µm/K) 
+
+Expanded Uncertainty 
+(cm-1/K) 
+(µm/K) 
+
+-0.008 
+-0.007 
+-0.010 
+-0.006 
+-0.009 
+-0.012 
+
+9.4  ×  10-5 
+2.8  ×  10-5 
+4.1  ×  10-5 
+×  10-6 
+7 
+1.0  ×  10-5 
+1.2  ×  10-5 
+
+0.003 
+0.000 
+0.000 
+0.002 
+0.002 
+0.001 
+
+4.0  ×  10-5 
+1  ×  10-6 
+2  ×  10-6 
+2  ×  10-6 
+2  ×  10-6 
+1  ×  10-6 
+
+ 
+
+SRM 1921b 
+
+Page 5 of 7 
+
+ 
+)
+s
+t
+i
+n
+u
+ 
+y
+r
+a
+r
+t
+i
+b
+r
+a
+(
+ 
+e
+c
+n
+a
+t
+t
+i
+
+ 
+)
+s
+t
+i
+n
+u
+ 
+y
+r
+a
+r
+t
+i
+b
+r
+a
+(
+ 
+e
+c
+n
+a
+t
+t
+i
+
+m
+s
+n
+a
+r
+T
+
+m
+s
+n
+a
+r
+T
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A 
+
+t 
+
+A 
+
+  
+
+4" 
+
+    
+  
+    
+  
+  
+
+Pe  pp 
+
+    
+
+  
+
+  
+
+  
+
+A 
+
+A 
+
+) 
+
+  
+
+500 
+
+1000 
+
+1500 
+
+2000 
+
+|  2500 
+
+3000 
+
+3500 
+
+Wavenumber (cm-1) 
+
+Figure 1.  Spectrum of polystyrene film showing locations of certified absorption bands. 
+
+ads 
+
+| 
+
+: 
+
+[" 
+
+ 
+)
+s
+t
+i
+n
+u
+ 
+y
+r
+a
+r
+t
+i
+b
+r
+a
+(
+ 
+e
+c
+n
+a
+t
+t
+i
+
+Tmax)  Pot  ! 
+
+AT  (Vmin) 
+T(Vmmin)  Tf  _ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.  Diagram indicating parameters used in the band wavenumber determination method (see text for details). 
+ 
+
+  
+      
+
+T(Vband  min)  v  _  | 
+| 
+
+awe 
+
+Wavenumber (cm-1) 
+
+AT  /2 
+
+  
+V2 
+
+Viray 
+
+(see  text  for  details)
+
+Vin 
+
+AT  (Vmax) 
+
+m
+s
+n
+a
+l 
+r
+T
+
+Yt 
+
+\ 
+
+| 
+
+| 
+
+  
+
+  
+
+| 
+: 
+
+ 
+
+| 
+
+! 
+
+SRM 1921b 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data − Guide to the Expression of in Measurement (GUM 1995 
+(2008);  available  at 
+with  Minor  Corrections); 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Aug 2018). 
+
+Joint  Committee 
+
+in  Metrology 
+
+for  Guides 
+
+[2]  Gupta, D.; Wang, L.; Hanssen, L.M.; Hsia, J.J.; Datla, R.V.; Standard Reference Materials: Polystyrene Films 
+Special 
+for  Calibrating  the  Wavelength  Scale  of  Infrared  Spectrophotometers  -  SRM  1921;  NIST  Special 
+Publication 260-122, U.S. Government Printing Office:  Washington, DC (1995). 
+
+‘T 
+
+[3]  Zhu, C.;  Hanssen, L.M.;  Comparison  and  Development  of  Absorption  Peak  Determination  Algorithms  for 
+
+Wavelength Standards; Proc. SPIE, Vol. 4103, pp. 62−68 (2000). 
+
+[4]  Hanssen, L.; Zhu, C.; Methods for Evaluation of Transmittance Minima in Wavenumber Standards Spectra: A 
+
+Comparison and Analysis; J. Vibrational Spec. (2002). 
+
+[5]  Griffiths, P.R.; DeHaseth, J.A.; Fourier Transform Infrared Spectrometry; Chapter 1, p. 34, John Wiley & Sons:  
+
+New York (1986). 
+
+[6]  ASTM E 1421-91;  Standard  Practice  for  Describing  and  Measuring  Performance  of  Fourier  Transform 
+Infrared FT-IR Spectrometers: Level Zero and Level One Tests; Annu. Book of ASTM Standards, Vol. 14.01 
+(1991). 
+
+[7]  Hirschfeld, T.;  Fourier  Transform  Infrared  Spectroscopy;  Chapter 6,  Ferraro, J.R.;  Basile, L.J.;  Eds., 
+
+Applications to Chemical Systems, Vol. 2, Academic Press: New York (1979). 
+
+[8]  Cameron, D.G.; Kauppienen, J.K.; Moffatt, D.J.; Mantsch, H.H.; Appl. Spectrosc., Vol. 36, p. 245 (1982). 
+[9]  Griffiths, P.R.;  DeHaseth, J.A.;  Fourier  Transform  Infrared  Spectrometry;  Chapter 6,  p. 235,  John  Wiley  & 
+
+Sons:  New York (1986). 
+
+[10]  Zhu, C.J.;  Hanssen, L.M.;  Studies  of  a  Polystyrene  Standard  Reference  Material  (SRM 1921),  in  Fourier 
+Transform  Spectroscopy:  11th  International  Conference;  J.A.  de  Haseth,  Ed.,  pp. 415−418,  The  American 
+Institute of Physics: New York (1998).  
+
+SPIE 
+[11]  Zhu, C.J.;  Hanssen, L.M.;  Absorption  Line  Evaluation  Methods  for  Wavelength  Standards;  Proc.  SPIE 
+
+Vol. 3425, pp. 111−118 (1998). 
+
+mal 
+[12]  Hanssen, L.M.; Zhu, C.; Wavenumber Standards for Mid-Infrared Spectrometry; in Handbook of Vibrational 
+Spectroscopy; Chalmers, J.M.; Griffiths, P.R.; Eds., John Wiley & Sons Ltd.:  Vol. 1, pp. 881−890 (2002). 
+
+[13]  Edlen, B.; The Refractive Index of Air; Metrologia, Vol. 2, p. 12 (1966). 
+;  Chapter  1,  p 
+[14]  Smith, F.G.,  Ed.;  Atmospheric  Propagation  of  Radiation;  Chapter  1,  p. 88,  SPIE  Optical  Engineering  Press: 
+
+Bellingham, Washington (1966). 
+
+[15]  Becker, D.  et.  al.;  Use  of  NIST  Standard  Reference  Materials  for  Decisions  of  Performance  of  Analytical 
+Chemical  Methods  and  Laboratories;  NIST  Special  Publication 829,  U.S.  Government  Printing  Office:  
+Washington, DC (1992). 
+
+Publication 
+
+ms  of 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  24 August 2018 (Title change; editorial changes); 11 June 2018 (Change of expiration date; editorial changes); 
+25 February 2016  (Change  of  expiration  date;  editorial  changes);  19 February 2014  (Extension  of  certification  period;  editorial  changes); 
+   
+  
+03 March 2010 (This revision updates the references); 16 January 2008 (Editorial changes); 17 April 2007 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail srminfo@nist.gov;  or  via  the 
+Internet at https://www.nist.gov/srm. 
+
+SRM 1921b 
+
+Page 7 of 7 
+
+

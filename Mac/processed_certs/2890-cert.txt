@@ -1,0 +1,231 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2890 
+
+Water Saturated 1-Octanol 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  validating  methods  and  calibrating 
+instruments for the measurement of trace concentration levels of water.  SRM 2890 is a solution of water saturated 
+1-octanol  which  is  certified  for  its  water  content.    A  unit  of  SRM  2890  consists  of  five  5  mL  ampoules,  each 
+containing approximately 2 mL of water saturated 1-octanol. 
+ 
+
+Certified Concentration (mass fraction) of Water Content 
+
+value 
+
+47.3  ±  1.0 mg/g 
+39.24  ±  0.85 mg/mL(a) 
+
+ 
+ 
+ 
+ 
+(a)  A density of 0.82930 g/mL at 21.5 °C ± 0.5 °C was used in the conversion between mass fraction (mg/g) and mass concentration (mg/mL).  
+ 
+he  equally  weighted 
+The measurand is the water content in SRM 2890.  The certified value of the water content is the equally weighted 
+mean of the  means of the results obtained  from:  (1) coulometric Karl  Fischer  measurements performed at NIST, 
+(2)  volumetric  Karl  Fischer  measurements  performed  at  NIST,  and  (3)  an  interlaboratory  comparison  exercise 
+involving 15 collaborating laboratories.  The expanded uncertainty in the certified value is equal to U = kuc where uc 
+is the combined standard uncertainty calculated according to the ISO/JCGM and NIST Guides [1] and k is the coverage 
+factor.  The value of uc is intended to represent at the level of one standard deviation the combined effect of all the 
+uncertainties in the certified value.  Here uc accounts for within-method and between-method variations.  The effective 
+degrees of freedom can be considered infinite; therefore the coverage factor, k = 2, is a value for a 95 % confidence 
+interval based on a normal distribution.  The certified value is metrologically traceable to the SI unit of mass, expressed 
+as milligrams per gram. 
+ 
+Expiration of Certification:  The certification of SRM 2890 is valid, within the measurement uncertainty specified, 
+until 30 June 2022, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see “Notice and Warning to Users”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise 
+aated,  or  otherwise 
+modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate this notification. 
+ 
+Preparation  and  analytical  measurements  were  performed  by  and  L.T.  Sniegoski  of  the  NIST  Chemical 
+Sciences Division and S.A. Margolis formerly of NIST. 
+ 
+“hemical  Sciences 
+Coordination of the technical measurements was under the direction of S.A. Wise of the NIST Chemical Sciences 
+Division and S.A. Margolis. 
+ 
+Statistical consultation was provided by M.S. Levenson formerly of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  02 July 2015 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+direction  of  S.A. 
+
+M.S.
+
+ 
+
+Page 1 of 3 
+
+  
+
+SRM 2890 
+
+NOTICE AND WARNING TO USERS 
+ 
+Storage, Handling and Use:  The ampoules are sealed under dry nitrogen and should be stored between 10 °C and 
+30 °C.  After opening an ampoule, caution should be taken not to contaminate the sample.  For the certified value to 
+be valid within the stated uncertainty, samples should be withdrawn from the ampoule into a dry syringe. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Preparation of SRM 2890:  1-Octanol (CAS Number 111-87-5), as supplied by the manufacturer, was stirred over 
+distilled water for 24 h at room temperature (21.5 °C ± 0.5 °C).  The octanol-water suspension was allowed to stand 
+and separate for three days.  The water saturated octanol (upper layer) was decanted into a second bottle and then 
+dispensed in 2.2 mL aliquots into washed and dried, nitrogen filled ampoules and flame sealed. 
+ 
+Analytical Methods:  At NIST two groups of 20 ampoules each were selected from the fill sequence of ampoules by 
+random stratified sampling.  One group of ampoules was analyzed by the coulometric Karl Fischer method and the 
+other group of ampoules was analyzed by the volumetric Karl Fischer method; each group of ampoules was analyzed 
+in a random order over four days.  The Karl Fischer instruments were calibrated with a series of five standards prepared 
+by the gravimetric addition of increasing amounts of water to dry octanol.  The Karl Fischer instruments were also 
+evaluated for systematic biases as described previously [2,3]. 
+ 
+An  interlaboratory  comparison  exercise  among  15  laboratories  and  NIST  was  conducted  to  determine  the  water 
+content of SRM 2890.  All analyses in the interlaboratory comparison exercise were performed using the coulometric 
+Karl Fischer methods and the reagents routinely used in the participating laboratories.  In addition, one laboratory 
+measured  the  water  content  by  using  a  head-space/gas  chromatography  method.    Each  laboratory  analyzed  two 
+subsamples from each of two ampoules of SRM 2890.  The participating laboratories are listed below. 
+ 
+All Karl Fischer measurements at NIST were performed on a volume basis and the results converted to a mass basis 
+using the density of the solution.  The density of SRM 2890 was determined to be 0.82930 g/mL (standard deviation 
+of 0.00049 g/mL, based on six measurements) at 21.5 °C ± 0.5 °C.  Evaluation of the effect of temperature on the 
+saturation of the 1-octanol indicated that the water content between 10 °C and 30 °C varied less than 5 % from the value 
+at room temperature (21.5 °C ± 0.5 °C). 
+  
+Homogeneity Study:  Samples from 10 ampoules, selected throughout the fill sequence, were measured in duplicate 
+at  NIST  in  a  random  order  within  a  single  day.    No  statistically  significant  variation  in  the  moisture  content  was 
+detected with fill sequence.  
+ 
+Analysts and Laboratories Participating in the Interlaboratory Comparison Exercise:  
+ 
+P. Griffin; Doble Engineering Co., Watertown, MA 
+J. Lloyd; United Power Services, Nashville, TN 
+G. Gauger; Cooper Power Systems, Franksville, WI 
+G. Thomas; Big Rivers Electric Corp., Henderson, KY 
+C. Smith; Cosa Instrument Co., Norwood, NJ 
+F. Mees; UMM Electronics, Indianapolis, IN 
+J. Sans; S D Meyers, Tallmadge, OH 
+M. Anderson; Bonneville Power Administration, Vancouver, WA 
+C. Claiborne; ABB Power T&D Co. Inc., Raleigh, NC 
+F. Koch; Brinkmann Instruments Inc., Westbury, NY 
+T. Zazulak; Boston Edison, Boston, MA 
+G. Humphry; JOAP TSC, Pensacola, FL 
+T. Shull; Robert Becker Laboratories, Patuxent River, MD 
+W. Zdrojewski; Mid-Atlantic Regional Materials Test Laboratory, Norfolk, VA 
+J. Jalbert; Institute de recherche de Hydro-Quebec, Variance, Quebec, Canada 
+
+SRM 2890 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+ 
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed July 2015); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed July 2015). 
+
+[2]  Margolis, S.A.; Sources of Systematic Bias in  the Measurement of  Water by the  Coulometric and Volumetric 
+
+Karl Fischer Methods; Anal. Chem., Vol. 23, pp. 4864−4871 (1997). 
+
+[3]  Margolis, S.A.; Systematic Errors in the Measurement of Moisture by Karl Fischer Methods; Third Intl. Symp. 
+
+on Humidity and Moisture, Vol. 2, pp. 133−140, National Physics Laboratory, Teddington, UK (1998). 
+
+Vol. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  02 July 2015 (Change of expiration date; editorial changes); 31 July 2008 (Update of expiration date; editorial 
+changes); 25 August 1998 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+is  current.  This  can  be  accomplished
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2890 
+
+Page 3 of 3 
+
+

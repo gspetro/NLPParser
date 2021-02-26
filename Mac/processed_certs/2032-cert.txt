@@ -1,0 +1,258 @@
+﻿LUS.  Department  of  Commerce 
+‘Fuanita  M.  Kreps 
+Secretary 
+
+National  Burese  of  Standards 
+Ernest  Ambler.  Director 
+
+Crystalline  Potassium  Iodide 
+
+Heterochromatic  Stray  Radiant  Energy  Standard  for 
+Ultraviolet  Absorption  Spectrophotometry 
+
+K.  D.  Mielenz  and  R.  Mavrodineanu 
+
+This  Standard  Reference  Material  consists  of  reagent-grade,  crystalline  potassium  iodide  (KI)  to  be  used  to 
+assess  heterochromatic  stray  radiant  energy  (stray  light)  in  ultraviolet  absorption  spectrophotometers  in  the 
+spectral  region  below  260  nm.  Stray  light  is  assessed  by  measuring  the  spectral  absorbance  of  aqueous  solutions 
+of 
+SRM  2032  of  known  pathlengths  and  concentrations,  and  comparing  the  result  with  the  certified  values  of the 
+specific  absorbance,  e. 
+
+Specific  Absorbance’ 
+
+e(Lg 
+
+cm’),  vs  Wavelength,  X  (nm),  at  23.5  °C 
+
+  
+
+240 
+
+25.6 
+
+€ 
+
+245 
+
+10.67 
+
+250 
+
+3.66 
+
+255 
+
+1.05 
+
+260 
+
+0.260 
+
+265 
+
+270 
+
+275 
+
+0.0560 
+
+0.0121 
+
+0.0031 
+
+““S  necific  absorbance”  is  defined  here  as  absorbance  per  unit  pathlength  and  unit  concentration.  The  term  “absorptivity”  has  been  avoided 
+since  it  is  ambiguously  defined.  See  K.  D.  Mielenz,  Anal.  Chem.  48,  1093-1094  (1976). 
+
+The  estimated  uncertainty  of  these  values  is  +  5%,  which  includes  the  random  and  systematic  errors  of  the 
+calibration  procedure,  as  well  as  variations  due  to  possible  instability  of  the  KI.  (See,  Certification  Procedure.) 
+
+The  material  used  to  produce  SRM  2032  was  obtained  from  the  J. 
+two  bottles,  as  reagent-grade  (99.8%  purity)  potassium  iodide, 
+
+T.  Baker  Chemical  Co.,  Phillipsburg,  N.J.,  in 
+
+SRM  2032  was  issued  with  the  technical  assistance  of  J.  R.  Baldwin,  R.  W.  Burke,  A.  L.  Cummings,  B.  I. 
+Diamondstone,  and  G.  A.  Sleater,  and  under  the  overall  direction  of  1.  L.  Barnes. 
+
+The  technical  and  support  aspects  concerning  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  W.  Seward. 
+
+Washington,  D.C.  20234 
+October  31,  1979 
+
+George  A.  Uriano,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+  
+
+  
+
+Material  Testing: 
+
+Supplementary  Information 
+
+Material  homogeneity  was  tested  by  measuring  the  absorbance  of  1%  aqueous  solutions  of the  KI  sampled  from 
+the  top,  middle,  and  bottom  of  each  bottle.  These  measurements,  at  265,  267,  and  270  nm,  showed  no  evidence  of 
+inhomogeneity.  Tests  for  moisture  content  (Karl  Fischer  method)  gave  an  average  of  0.007%.  This  vaiue  was 
+sufficiently  small  that  all  certified  data  are  based  on  weighed  samples  of  the  undried,  as  received,  material. 
+
+Stability  of  the  material  to  UV  and  visible  light  was  tested  by  exposing  the  KI  salt  in  a  low-actinic  glass  bottle  to 
+radiation  from  a  3  kW  xenon-arc  lamp  at  a  distance  of  25  cm  for  four  days  at  room  temperature.  The  average 
+absorbances  at  five  wavelengths  between  240  and  270  nm  of  aqueous  solutions  of  the  exposed  material  were 
+1.1%  lower  than  those  of  solutions  of  the  unexposed  material.  In  view  of  the  severity  of this  test,  this  change  was 
+considered  minor.  Nonetheless,  the  1.1%  was  included  in  the  overall  uncertainty  of  the  certified  values. 
+
+Certification  Procedure: 
+
+The  certified  specific  absorbances  were  measured  in  the  NBS  Center  for  Analytical  Chemistry  high-accuracy 
+spectrophotometer  [1,  2},  equipped  with  a  deuterium  lamp  and  UV  averaging  sphere  [3,  4].  Thirteen  aqueous 
+solutions  of  KI  with  concentrations  ranging  from  0.03  to.30  g  L!  were  prepared  and  measured  against  distilled 
+water,  using  standard  fused-silica  cuvettes  with  pathlengths  between  10.001  and  10.009  mmm’,  The  absorbance 
+measurements  were  performed  at  the  temperature,  t  =  23.5  +  0.5  °C.  A  0.2  nm  bandpass  was  used,  and 
+wavelength  settings  were  made  with  an  accuracy  of  0.05  nm.  The  measurements  were  made  on  at  least  three 
+concentrations  at  each  wavelength.  These  concentrations  were  chosen  so  that  most  absorbance  readings  fell 
+between  0.1  and  1.0  to  minimize  stray  light  and  bandwidth  errors.  The  data  were  found  to  obey  Beer’s  law. 
+
+Thus,  the  equation, 
+
+e=A/coQ 
+
+was  used  to  calculate  the  specific  absorbances,  ¢«,  from  the  measured  absorbances,  A,  and  the  known  values  of 
+concentration,  c,  and  pathlength,  2 
+
+. 
+
+Limits  to  random  error  (two  standard  deviations)  of  these  measurements  (including  the  photometric 
+imprecision  of  the  spectrophotometer,  errors  in  the  repositioning  of  cuvettes,  concentration  errors,  pathlength 
+uncertainties,  temperature  errors,  Beer’s  law  uncertainties,  and  bandwidth  errors)  were  determined  to  be  + 
++  1.1% 
+2.4%.  The  error  due  to  the  0.05  nm  uncertainty  of  the  wavelength  calibration  of the  spectrophotometer  is 
+
+The  uncertainty  of  5%  stated  on  the  face  of  this  certificate  represents  the  sum  of  these  errors  and  the  above 
+mentioned 
+1.1%  uncertainty  due  to  instability  of  the  KI.  No  corrections  were  applied  for  the  effects  of  internal 
+reflections  inside  the  sample  and  reference  cuvettes,  nor  were  the  weights  corrected  to  vacuum.  These  and  all 
+other  sources  of  error  were  considered  negligible. 
+
+The  temperature  coefficient  at  260  nm  was  determined  to  be 
+
+(1) 
+
+(2) 
+
+] 
+
+Gq  =  0.031 
+
+de 
+
+_ 
+
+onl 
+
+°C". 
+
+For  precision  measurements,  it  is  recommended  that  SRM  2032  be  used  in  thermostated  cuvettes  at  23.5  °C,  or 
+that  a  temperature  correction  according  to  Eq.  (2)  be  applied. 
+
+"Issued  by  NBS  as  SRM  932,  Quartz  Cuvettes  for  Spectrophotometry.
+
+Instructions  for  Use 
+
+Storage  and  Preparation: 
+SRM  2032  should  be  stored  in  the  original,  low-actinic  glass  bottle  and  the  cardboard  container  in  which  it  was 
+issued  to  protect  it  from  unnecessary  exposure  to  light  and  humidity.  When  so  stored,  the  expected  stability  of 
+this  material  is  at  least  three  years.  Thus,  until  additional  stability  data  are  obtained,  this  material  should  be  used 
+within  three  years  of  the  date  of  purchase. 
+
+Allsolutions  prepared  from  SRM  2032  should  be  made in  borosilicate  glass  containers  using  distilled  water  and 
+transfer  pipettes  (Pasteur  type)  of  the  same  glass  and  fitted  with  rubber  bulbs’.  Use  clean  spectrophotometer 
+cuvettes,  free  of  scratches,  made  of  non-fluorescent  fused  silica,  and  fitted  with  ground-glass  or  Teflon  stoppers 
+to  minimize  evaporation;  or  preferably  use  NBS  SRM  932.  Mark  all  cuvettes  to  assure  the  same  orientation  in 
+the  spectrophotometer,  and  place  them  into  their  respective  holders.  Using  transfer  pipettes  of  the  type 
+mentioned,  rinse  each  cuvette  several  times  with  distilled  water.  Prepare  a  solution  of  KI  in  distilled  water  (e.g., 
+1%),  fill  the  sample  cuvette  with  the  KI  solution  and  the  reference  cuvette  with  distilled  water.  Measure  the 
+absorbance,  leaving  the  cuvettes  in  their  holders,  empty  them  (using  the  pipettes),  and  repeat  the  rinsing  and 
+filling  operations  until  constant  absorbance  readings  are  obtained.  Fresh  solutions  should  be  made  before  every 
+test. 
+
+Measurements: 
+
+A  1%  KI  solution  (c  =  10  g  vy  with  a  |  cm  pathlength  exhibits  a  sharp  cutoff  in  transmittance  near  260  nm;  i.e., 
+it  transmits  more  than  90%  above  273  nm,  but  less  than  0.01%  below  258  nm.  Therefore,  with  the 
+monochromator  set  for  a  wavelength  below  260  nm,  any  appreciable  amount  of  light  detected  is 
+heterochromatic  stray  light,  which  consists  of  wavelengths  above  the  cutoff.  The  amount  of  stray  light  in  the 
+spectrophotometer  at  wavelength  4  may  be  determined  from  the  equations: 
+
+T(A)  = 
+
+TOA)  +  x) 
+1+  x(a) 
+
+. 
+x(A)  = 
+
+TOAd-TA 
+i-  TO) 
+
+(3) 
+
+4 
+(4) 
+
+where: 
+
+x{)  is  the  stray  light  ratio, 
+
+TA)  is  the  apparent  transmittance; 
+
+T(A)  is  the  true  transmittance. 
+
+The  stray  light  ratio,  x(A),  is  the  proportion  of  heterochromatic  stray  radiant  energy  in  the  spectrophotometer 
+for  the  wavelength  setting  A.  Equation  (4)  forms  the  theoretical  basis  for  the  determination  of the  stray  light  ratio 
+by  comparing  apparent  transmittance  to  true  transmittance.  For  SRM  2032,  the  true  transmittance,  T(A),  of  KI 
+solutions  may  be  calculated  as: 
+
+where  ¢(A)  is  the  certified  specific  absorbance  given  on  the  face  of  this  certificate. 
+
+TA)  =  19 MEL 
+
+“Soft  glass  containers  and  pipettes  contain  residual  amounts  of  UV  absorbing  material,  but  can  be  used  after  proper  cleaning.  Several  rinses, 
+first  with  isopropyl  alcohol  and  then  with  distilled  water,  are  generally  adequate.
+
+The  apparent  transmittances  of  KI  solutions  depend  not  only  on  the  stray  light  ratio  of  the  spectrophotometer, 
+but  also  on  the  wavelength  accuracy  and  the  spectral  bandwidth,  which  can  significantly  affect  the  results 
+obtained  because  of  the  steep  slope  of  the  absorbance  cutoff  of  KI.  A  low-pressure  mercury  discharge  lamp  is 
+suggested  for  verifying  the  wavelength  scale,  and  a  bandwidth  as  narrow  as  compatible  with  adequate  signal-to- 
+noise  ratios  should  be  used. 
+
+| 
+
+Many  instruments  do  not  permit  the  direct  measurement  of  transmittances 
+below  certain  limits,  e.g.,  1%  or 
+0.1%.  For  such  instruments,  the  use  of  SRM  2032  will  only  measure  stray  light  ratios  above  these  limits.  To 
+measure  stray  light  ratios  below  these  limits,  the  reference  beam  of  the  spectrophotometer  must  be  attenuated  to 
+extend  the  transmittance  scale  into  the  low-transmittance  region. 
+
+References 
+
+(1978). 
+
+1. 
+
+R.  Mavrodineanu,  J.  Res.  NBS  76A,  405-425  (1972). 
+
+2.  J.F.  Barkley,  F.  C.  Ruegg,  and  R.  Mavrodineanu,  29th  Pittsburgh  Conf.,  Abstract  452,  Cleveland,  Ohio, 
+
+3. 
+
+K.  D.  Mielenz,  R.  Mavrodineanu,  and  E.  D.  Cehelnik,  J.  Res.  NBS  78A,  631-635  (1974). 
+
+4. 
+
+K.  D.  Mielenz,  R.  Mavrodineanu,  and  E.  D.  Cehelnik,  Appl.  Optics  14,  1940-1947  (1975).
+
+

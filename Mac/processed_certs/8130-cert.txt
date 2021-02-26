@@ -1,0 +1,351 @@
+Microsoft Word - 8130.doc
+
+
+RM 8130 Page 1 of 5 
+
+ 
+
+  
+National Institute of Standard and Technology 
+
+ 
+
+Report of Investigation 
+ 
+
+Reference Material 8130 
+ 
+
+Coplanar Waveguide Calibration Set 
+ 
+
+This Reference Material (RM) is intended for use by industrial laboratories that wish to implement the procedure 
+described in Part 1 of the NIST/Industrial MMIC Consortium’s “Proposed Procedures for Verifying Probe Station 
+Integrity and On-wafer Measurement Accuracy” for the measurement of microwave probe station stability and for 
+verifying the ability to repeat on-wafer microwave measurements performed at NIST.  RM 8130 measures the 
+instrument drift (stability) of microwave probe stations and verifies the ability of a laboratory to repeat NIST 
+measurements.  It consists of a coplanar waveguide (CPW) calibration set fabricated on a gallium arsenide wafer. 
+Each RM is individually tested, bears a boule number, wafer number, a calibration set number (see Table 1), and 
+comes with a data disk unique to the RM.  The RM wafers are mounted on a glass slide for ease of handling. 
+ 
+
+Table 1. RM Calibration Set Data 
+ 
+
+Calibration Set Serial No.  
+
+Boule No.  5634 
+
+Wafer No.  
+
+Measured  Line Capacitance 
+(information value only) 
+
+1.7877 pF/cm 
+
+ 
+CPW is a planar microwave transmission line often used in microwave circuits and for microwave probe-station 
+calibrations and is comprised of three conductors; a signal line, and two outer ground planes evaporated on the 
+supporting wafer.  Each NIST calibration set contains standards for a multiline CPW thru-reflect-line (TRL) 
+calibration and twelve verification devices. 
+ 
+The data disk accompanying the RM, contains reference values measured at NIST and bounds on the 
+measurement errors due to instrument drift.  The values are only intended for comparison to those measured in 
+the user’s laboratory following the same calibration and measurement procedure as NIST.  A complete error 
+analysis is still in process for these reference values. For example, calibrations performed on some units have 
+additional systematic errors, due to nonuniformity of the metal resistance, that are not included in the reported 
+error bounds. Therefore, the RMs are for instrument verification only:  calibrating other measurements with these 
+RMs will result in significant systematic errors. 
+ 
+The technical direction leading to development of this RM was provided by D.F. Williams of the NIST 
+Electromagnetic Fields Division.  Assistance was provided by R.K.F. Kaiser, J.M. Morgan, R.B. Marks, 
+D. Walker, R.M. Judish, and J.R. Juroskek of the NIST Electromagnetic Fields Division, M. Young of 
+the NIST Optoelectronics Division, L.R. Vale of the NIST Electromagnetic Technology Division, and 
+K.J. Coakley of the NIST Statistical Engineering Divison. 
+ 
+The technical and support aspects involved in the preparation and issuance of this RM were coordinated through 
+the Standard Reference Materials Program by N.M. Trahey. 
+ 
+Gaithersburg, MD 20899 Thomas E. Gills, Chief 
+Certificate Issue Date: 2 September 1998  Standard Reference Materials Program 
+
+
+
+RM 8130 Page 2 of 5 
+
+Description of the RM 
+ 
+The RM consists of on-wafer calibration standards fabricated on a semi-insulating gallium arsenide (GaAs) 
+
+substrate, with a thickness between 450 μm and 550 μm, and is mounted on a glass slide. 
+ 
+
+Figure 1 shows the layout of the RM.  It contains a set of thru-reflect-lines (TRL) with a 550 μm long CPW 
+thru line, five longer lines of length 2.685 mm, 3.75 mm, 7.115 mm, 20.245 mm, and 40.55 mm, and two 
+
+shorts offset 225 μm from the beginning of the line.  The lines are designed with a center conductor width of 
+64 μm separated from two 261.5 μm wide ground planes by two 42 μm gaps.  These dimensions are typically 
+held to ± 5 μm from wafer to wafer.  The variation of these geometries within a wafer is typically less than 
+± 2 μm. 
+ 
+The RM also contains twelve verification devices.  The data disk provided contains the S-parameters of these 
+passive test structures as measured by NIST. The RM also contains a large metalized contact test area useful for 
+verifying that the probes are planar and make good contact with the metalization on the RM.  The RM type and 
+calibration set number are indicated on the left side of the RM. 
+ 
+
+Storage and Handling 
+ 
+Store the RM in its plastic case in a cool and dry environment and avoid subjecting the RM to temperature 
+extremes as mismatched thermal expansion coefficients can cause the GaAs calibration set to delaminate from the 
+glass slide carrier.  The RM may be handled by the edges of the slide on which it is mounted.  The calibration 
+substrate itself is fabricated on a GaAs substrate and should not be touched as GaAs is a toxic material.  The RM 
+should be replaced when the gold on the contact pads becomes dirty, worn, or damaged or when visual inspection 
+of the RM under a microscope reveals physical deterioration of any kind. 
+ 
+Instructions for Use 
+ 
+The proposed procedures require that the industrial laboratory perform a multiline TRL calibration [1] with 
+reference impedance correction based on the methods of [2] and [3] using the artifacts supplied on the RM.  The 
+laboratory measures twelve verification devices on the RM and then repeats the initial calibration.  A comparison 
+of the measurements performed by the laboratory to the same measurements performed at NIST verifies the 
+ability of the laboratory to repeat NIST measurements.  The calibrations performed before and after the test 
+structure measurements quantify the drift of the probe station with the method of [4].  The actual measurement 
+differences are also compared to bounds on the measurement deviations estimated from the measurements of 
+instrument drift at the industrial laboratory and at NIST. 
+ 
+Both NIST and the laboratory use the same calibration artifacts and test structures, all of which reside on the RM.  
+Thus this procedure is strictly comparative.  It verifies only that the laboratory can repeat NIST's measurements 
+using identical calibration standards and software.  The systematic error in the NIST measurements is not known 
+at this time and is being assessed. 
+ 
+In addition, RM 8130 is not applicable to the measurement of user devices and therefore cannot be used to verify 
+the accuracy of user measurements.  The RM calibration standard results in a calibration that is customized for 
+the test devices on the RM and cannot correct for the specific probe-tip-to-transmission-line launch leading to the 
+user device.  An accurate calibration for user devices usually requires custom standards embedded in the same 
+launch.  This is discussed at greater length in [4-6], and in the NIST/Industrial MMIC Consortium’s “Proposed 
+Procedures for Verifying Probe Station Integrity and On-wafer Measurement Accuracy.” 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+RM 8130 Page 3 of 5 
+
+Characterization of the RM 
+ 
+The methods of [2] and [3] are used to determine the characteristic impedance of the CPW lines.  These methods 
+require low-loss, low-dispersion substrates.  To insure that the NIST substrates have these properties, the 
+dielectric constant of samples from each boule of substrate material is measured at approximately 10 GHz using 
+the precision cavity method described in [7]. 
+ 
+NIST performs an initial calibration on the control RM, measures the verification devices on the control RM, 
+performs a calibration on the candidate RM, measures the twelve verification devices on the candidate RM, and 
+recalibrates on the candidate RM.  The two calibrations on the candidate RM are used to estimate the instrument 
+drift during the NIST measurements using the method of [4].  The calibrations on the control and candidate RMs 
+are compared with the method of [4] to insure the overall integrity of the calibration sets.  The measurements of 
+the twelve test structures on the control and candidate RMs are compared and evaluated to detect operator and 
+other gross measurement errors. 
+ 
+Instrument Drift Errors 
+ 
+The estimates of the bounds on the errors due to instrument drift are based on the assumption that measurement 
+errors are caused by a small monotonic drift of the measurement instrumentation:  Random errors are assumed to 
+be insignificant compared to this drift and, due to the comparative nature of the experiment, systematic calibration 
+
+errors are neglected.  The bounds are estimated from a comparison of calibrations performed both before and 
+after the measurements.  The bounds and their estimation are discussed in detail in [4-6], and in the 
+NIST/Industrial MMIC Consortium’s “Proposed Procedures for Verifying Probe Station Integrity and On-wafer 
+Measurement Accuracy.”1 
+ 
+Preliminary Preparation 
+
+ 
+
+Before beginning, a set of calibration structures and verification devices from NIST and a data disk with the NIST 
+measurements of the verification devices are required.  Measurement data and programs are available for both HP 
+9000 series computers running HP-BASIC 5.1 or greater and PCs running HTBasic 4.0 or greater with complex 
+arithmetic.2  Occasionally data saved on disks formatted on a different disk drive cannot be reread.  The 
+procedure also creates a number of new data files.  Thus it is recommended that each verification be initiated by 
+copying the files from the disk supplied by NIST to a hard drive or another disk. 
+ 
+Measurement:   
+ 
+Step 1.  Insure that there is at least one free calibration set in the VNA.  If a HP computer load is being used, run 
+
+program LOADFREQ.  This will set up the following frequency list (in GHz): 0.1, 0.2, 0.3, 0.4, 0.5, 
+0.6, 0.7, 0.8, 0.9, 1, 2, 3, ..., 39, 40.  The program will also set any VNA reference plane translations 
+to zero.  If a PC is being used, do this step directly using the VNA front panel.  If an analyzer that is not 
+capable of performing measurements over the entire range is being used, enter any continuous subset of 
+these frequencies into the VNA frequency list. 
+
+ 
+
+Step 2.  Load and run program MultiCal .  The program should load the calibration menu CALMENU from the 
+disk and recognize the analyzer.  Using this calibration menu, contact each calibration standard on the 
+NIST wafer; then, measure its uncorrected S-parameters by moving the cursor to the appropriate 
+standard and pressing the “MEASURE” softkey.  After all the measurements are complete, calibrate the 
+probe station to the probe-tips by pressing the “DEEMBED” softkey and load the calibration into the 
+
+analyzer.  Now exit from the MultiCal  output menu back to the main menu. 
+
+                                                           
+1
+Copy included with this document for information.
+
+.
+ 
+
+2
+The use of a tradename in this report of investigation is for identification only and does not imply endorsement of the product by the 
+
+National Institute of Standards and Technology. 
+
+ 
+
+
+
+RM 8130 Page 4 of 5 
+
+ 
+ 
+Step 3.  Load the menu “GAAS” into MultiCal by pressing the “GET menu” softkey.  Contact each of the 
+
+verification devices on the NIST wafer and measure its S-parameters by moving the cursor to the 
+appropriate standard and pressing the “MEAS” softkey.  One should now be reading data corrected by 
+the calibration performed in Step 2. Do not press the “DEEMBED” softkey.  Repeat for the menu 
+“GAAS 1”. 
+
+Step 4.  Load the menu “CALMEN2” into MultiCal with the “GET menu” softkey.  Reconnect each of the 
+calibration standards on the NIST GaAs standard set and measure its S-parameters by pressing the 
+“MEAS” softkey.  Again, one should be reading data corrected by the calibration performed in Step 2. 
+
+Analysis: 
+ 
+Step 5.  With the menu “CALMEN2” still loaded in MultiCal, press the “A” key to disable the VNA interface 
+
+and then press the “DEEMBED” softkey.  After the program has finished with the calculations, it will 
+enter the MultiCal output menu.  From this output menu, save the S-parameters of the two probe heads 
+in files S-Pl and S-P2 and the effective dielectric constant in file EPS.  Now exit from MultiCal by 
+pressing “Q”. 
+
+ 
+Step 6.  Load and run program VERIFY.  Press the “start” softkey.  After the calculations have finished, select 
+
+the “50 ohm” softkey and save the data in BDAT format in the file “VER.” 
+ 
+Step 7. Load and run the program EVALUATE.  Select the default ‘V’ option to perform the instrument 
+
+verification analysis and the one-tier ‘1’ option.  EVALUATE will then plot the estimated bounds on 
+measurement errors due to instrument drift during the experiment. 
+
+ 
+The preceding instructions are also found in Part 1 of the NIST/Industrial MMIC Consortium’s “Proposed 
+Procedures for Verifying Probe Station Integrity and On-wafer Measurement Accuracy”. 
+ 
+Interpretation of Results 
+ 
+The RM comparison procedure generates a graph comparing the results just generated to those obtained at NIST. 
+The curve labeled “laboratory instrument drift,” which is determined from a comparison of the calibrations 
+performed in the user’s laboratory before and after the measurements of the twelve verification devices, is an 
+estimated upper bound on measurement error due to instrument drift.  This bound typically increases with 
+frequency to a value between 0.01 and 0.1 at 40 GHz: values larger than this indicate either an atypically unstable 
+instrument, poorly repeated probe placement, or operator error. 
+ 
+The program will also plot the worst case deviations of the scattering parameters of the twelve verification 
+devices measured in the user’s laboratory and by NIST.  The plotted value for each device is the maximum 
+
+Sij-S ij for ij   {11, 12, 21, 22}, where Sij is the device scattering parameter measured by the 
+laboratory and S ij is the device scattering parameter measured by NIST. 
+ 
+The curve labeled “NIST instrument drift” is the estimated upper bound on the error in the NIST measurements 
+due to instrument drift and the sum of the NIST and laboratory bounds is labeled “sum of laboratory and NIST 
+instrument drift.” This sum should be greater than the maximum measurement deviations for the twelve devices 
+plotted on the graph.  Measurement deviations that exceed this sum indicate the presence of significant 
+measurement errors not due to instrument drift.  Some possibilities are reversed test ports, offsets in the 
+frequency synthesizer, random contact error, or failure to properly contact a test device. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+RM 8130 Page 5 of 5 
+
+ 
+ 
+ 
+
+REFERENCES 
+ 
+[1] Marks, R.B., “A Multi-line Method of Network Analyzer Calibration,” IEEE Trans.  Microwave Theory 
+
+Tech., Vol. 39, pp. 1205-1215, (1991). 
+[2] Marks, R.B. and Williams, D.F., “Characteristic Impedance Determination Using Propagation Constant 
+
+Measurement,” IEE Microwave and Guided Wave Letters 1, pp. 141-143, (June 1991). 
+[3] Williams, D.F. and Marks, R.B, “Transmission Line Capacitance Measurement,” IEEE Microwave and 
+
+Guided Wave Letters 1, pp. 243-245, (Sept. 1991). 
+[4] Williams, D.F., Marks, R.B., and Davidson, A., “Comparison of On-Wafer Calibrations,” 38th ARFTG 
+
+Conf. Dig. (San Diego, CA), pp. 68-81, (Dec. 1993). 
+[5] Marks, R.B. and Williams, D.F., “Verification of Commercial Probe-Tip Calibrations,” 42nd ARFTG 
+
+Conf. Dig. (San Jose, CA), pp. 37-44, (Dec. 1993). 
+[6] Williams, D.F. and Marks, R.B., “Calibration On-Wafer Probes to the Probe Tips,” 40th ARFTG Conf. 
+
+Dig., pp. 136-143, (Dec. 1992). 
+[7] Vanzura, E.J., Weil, C.M., and Williams, D.F., “Complex Permittivity Measurements of Gallium Arsenide 
+
+Using a High-Precision Resonant Cavity,” Proceedings of the 1992 Conference on Precision 
+Electromagnetic Measurements, pp. 103-104, (1992). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Figure 1.  The layout of the coplanar waveguide RM.  The thru lines have a physical length of 550 μm.  The 
+labels for the other lines in the calibration set indicate their additional length with respect to the 550 μm thru line.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this RM should ensure that the certificate in their possession is current. This can be accomplished by 
+
+contacting the SRM Program at:  Telephone (301) 975-6776 (select “Certificates”), Fax (301) 926-4751, e-mail 
+
+srminfo@nist.gov, or via the Internet http://ts.nist.gov/srm. 
+
+ 
+
+

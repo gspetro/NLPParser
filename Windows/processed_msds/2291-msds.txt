@@ -1,0 +1,656 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  2291
+MSDS Number:  2291
+SRM Name: Ethyl-t-butyl Ether in Reference
+
+Gasoline (Nominal 2.7 Weight Percent Oxygen)
+
+Date of Issue:  06 July 2012 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:  This Standard Reference Material (SRM) is intended primarily for use as a primary standard for the 
+calibration of  instruments  used  for  the  determination  of  the  oxygen  content  of  motor  fuels.    A  unit  of  SRM 2291 
+consists  of  two  ampoules  of  solution  of  ethyl-t-butyl ether  in  reference  gasoline  and  one  ampoule  of  reference 
+gasoline without the ethyl-t-butyl ether to use as a blank.  Each 20 mL ampoule contains approximately 18 mL of 
+solution. 
+
+Substance:  Gasoline and gasoline with ethyl-t-butyl ether.  
+
+Other Designations: 
+Gasoline (gasoline, unleaded; motor spirits; petrol; mid-grade gasoline; “A” grade gasoline [NRCA]). 
+Ethyl-t-butyl ether  (2-ethoxy-2methylpropane;  ether, tert-butyl ethyl;  1,1,-dimethylethyl ethyl ether;  ethyl  tert-butyl 
+ether; ETBE). 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4): 
+
+Health = 1 
+
+Fire = 3 
+
+Reactivity = 0 
+
+Note:    The  two  different  formulations  (gasoline  and  gasoline  with  ethyl-t-butyl  ether)  have  many  of  the  same 
+physical properties and present similar health hazards to the user.  This MSDS applies to both formulations unless 
+otherwise  noted.    Gasoline  contains  many  different  components  at  varying  concentrations  (See  Section 3, 
+“Composition and Information on Hazardous Ingredients”). 
+
+Major Health Hazards:  Potentially fatal on contact with the skin, harmful if swallowed, respiratory tract irritation, 
+skin  irritation,  eye  irritation,  aspiration  hazard,  blood  damage,  liver  damage,  central  nervous  system  depression, 
+nerve damage, and cancer. 
+
+Physical Hazards:  Extremely flammable liquid and vapor.  Vapor may cause flash fire. 
+
+Potential Health Effects (Acute and Chronic) 
+
+Inhalation:    Irritation,  ringing  in  ears,  nausea,  vomiting,  chest  pain,  difficulty  breathing,  irregular  heartbeat, 
+headache,  drowsiness,  symptoms  of  drunkenness,  disorientation,  visual  disturbances,  lung  congestions,  blood 
+disorders, paralysis, convulsions, and coma.  Long-term effects may include hearing loss, kidney damage, nerve 
+damage, reproductive effects, brain damage, and cancer. 
+
+Skin  Contact:    Short-term  contact  may  cause  irritation,  blisters,  rash, and kidney  damage;  long-term  contact 
+may cause burns and tingling sensation. 
+
+Eye Contact:  Tearing and irritation. 
+
+Ingestion:    Vomiting,  digestive  disorders,  chest  pain,  difficulty  breathing,  irregular  heartbeat,  headache, 
+drowsiness, symptoms of drunkenness, disorientation, visual disturbances, dilated pupils, bluish skin color, lung 
+congestion,  lung  damage,  liver  damage,  paralysis,  convulsions,  and  coma.    Long-term  effects  may  include 
+impotence and cancer. 
+
+MSDS 2291 
+
+Page 1 of 6 
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+X(a) 
+X(a,b,c) 
+X(a) 
+
+ 
+ 
+ 
+ 
+
+No 
+ 
+ 
+ 
+
+(a) NTP  lists  benzene  as  known  human  carcinogen.    IARC  lists  benzene  as  Group  1  (carcinogenic  to  humans).    OSHA  lists 
+
+benzene as a cancer hazard (see 29 CFR 1910.1028). 
+
+(b) IARC lists gasoline and possible components as Group 2B (possibly carcinogenic to humans). 
+(c) IARC lists toluene as Group 3 (not classifiable). 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+Gasoline 
+Components(a) 
+Toluene 
+Ethyl-t-butyl ether(b) 
+Benzene 
+
+ 
+
+ 
+ 
+ 
+
+CAS Number 
+8006-61-9 
+
+EC Number (EINECS) 
+232-349-1 
+
+108-88-3 
+637-92-3 
+71-43-2 
+
+203-625-9 
+211-309-7 
+200-753-7 
+
+Nominal Concentration 
+(%) 
+
+ 
+
+ 
+
+100 
+
+0 – 15 
+17 
+0 – 5 
+
+(a) This  material  is  a  complex  mixture  that  has  not  been  tested  as  a  whole.    Concentrations  of  the  components  are  listed  as 
+required  by  OSHA,  29 CFR 1910.1200 (g)(2)(i)(C)(1),  for  MSDS  information  with  hazardous  components  (1 %  or  greater) 
+and carcinogens (0.1 % or greater). 
+
+(b) Ethyl-t-butyl ether is not present in the ampoule labeled “Gasoline Blank”. 
+
+EC Classification 
+ 
+ 
+ 
+ 
+
+Gasoline:  T, Carc. Cat. 2, Muta Cat. 2, Xn 
+Toluene:  F, Repr. Cat. 3, Xn, Xi 
+Ethyl-t-butyl ether:  Not classified. 
+Benzene:  F, Carc. Cat. 1, Muta. Cat. 2, T, Xn, Xi 
+
+EC Risk Phrases (R No):  11, 36/38, 45, 46, 48/23/24/25, 48/20, 63, 65, 67 
+
+EC Safety Phrases (S No):  36/37, 45, 46, 53, 62 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration by 
+qualified personnel.  Seek immediate medical attention. 
+
+Skin  Contact:    Rinse  affected  area  with  soap  and  water  for  at  least  15 minutes.    Seek  medical  assistance  if 
+necessary. 
+
+Eye  Contact:    Immediately  flush  eyes,  including  under  the  eyelids,  with  copious  amounts  of  water  for  at  least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:    Contact  local  position  control  center  or  physician  immediately.    Never  make  an  unconscious  person 
+vomit  or  drink  fluids.    If  vomiting  occurs,  keep  head  lower  than  hips  to  help  prevent  aspiration.    If  person  is 
+unconscious, turn head to side.  Get help immediately. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at 
+distant ignition sources and flash back.  Vapor/air mixtures are explosive. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, fine water spray, and regular foam. 
+
+Fire Fighting:  Avoid inhalation of combustion by-products. 
+
+Flash Point:  –45 C (–49 F) 
+Method Used:  Estimate. 
+
+Autoignition Temperature:  280 C to 456 C (536 F to 853 F) 
+
+MSDS 2291 
+
+Page 2 of 6 
+
+Flammability Limits in Air 
+
+UPPER (Volume %): 
+LOWER (Volume %): 
+
+7.6 
+1.2 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Benzene 
+
+Toluene 
+
+Occupational Release:  Absorb with sand or other non-combustible material and collect in appropriate container for 
+proper  disposal.    Subject  to  California  Safe  Drinking  Water  and  Toxic  Enforcement  Act  1986  (Proposition 65).  
+Keep out of water supplies and sewers. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  There are no specific occupational limits established for gasoline.  The following limits are for 
+the individual components. 
+
+Components 
+
+OSHA (PEL) 
+
+ACGIH (TLV) 
+
+NIOSH (REL) 
+
+Exposure Limits 
+
+0.5 ppm Action level 
+1 ppm TWA(a) 
+5 ppm STEL (15 min) 
+25 ppm Ceiling  
+
+0.5 ppm TWA 
+2.5 ppm STEL 
+Skin(b) 
+
+0.1 ppm TWA 
+1 ppm STEL 
+500 ppm IDLH 
+
+200 ppm TWA 
+300 ppm Ceiling 
+
+20 ppm TWA 
+
+100 ppm TWA 
+(375 mg/m3 TWA) 
+150 ppm STEL 
+(560 mg/m3 STEL) 
+500 ppm IDLH 
+
+No occupational limits 
+established. 
+
+Ethyl-t-butyl ether 
+
+No occupational limits 
+established. 
+
+5 ppm TWA 
+
+(a) Cancer  hazard,  Flammable,  See  29 CFR 1910.128;  a  10 ppm  TWA  applies  to  industry  segments  exempt  from  the  benzene 
+
+standard (29 CFR 1910.128). 
+
+(b) Potential significant contribution to overall exposure by the cutaneous route. 
+
+Ventilation:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets  OSHA 
+29 CFR 1910.134 must be followed.  Refer to NIOSH 24 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Wear safety goggles.  An eyewash station and drench shower should be readily available near the 
+handling and use areas. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Appearance and Odor: 
+Molecular Formula: 
+Molar Mass: 
+Density: 
+
+Clear, colorless to amber liquid; gasoline odor (0.25 ppm threshold) 
+Not applicable. 
+Not applicable. 
+5.6 to 6.5 lbs/gal 
+
+Specific Gravity (water = 1): 
+Percent volatile (%): 
+
+0.7 to 0.8 at 15.6 C 
+100 
+
+Boiling Point: 
+
+27 C to 225 C (81 F to 437 F) 
+
+MSDS 2291 
+
+Page 3 of 6 
+
+Vapor Pressure: 
+Vapor Density (air = 1): 
+Melting Point: 
+Water Solubility: 
+Solvent Solubility: 
+pH: 
+
+330 mmHg to 775 mmHg at 37.8 C 
+>1 
+Not available. 
+Approximately 10 % 
+Soluble in absolute alcohol, ether, chloroform, and benzene 
+Not available. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+
+Stable 
+
+X 
+
+ 
+
+Unstable 
+
+ 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Containers may rupture or explode 
+if exposed to heat.  Keep out of water supplies and sewers.  
+
+Incompatible Materials:  Oxidizing materials, acids, bases, halocarbons, metals, metal salts, halogens, peroxides, 
+metal oxides, combustible materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+  Will Occur 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION 
+ 
+Route of Entry: 
+Toxicity data and endpoints listed by Registry of Toxic Effects of Chemical Substances (RTECS). 
+
+X  Will Not Occur 
+
+Inhalation 
+
+Ingestion 
+
+Skin 
+
+X 
+
+X 
+
+X 
+
+Components 
+Gasoline 
+
+Toluene 
+
+Toxicity Data 
+Rat, Inhalation LC50:  300 g/m3 (5 min) 
+Rat, Oral LD50: 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+
+13 600 mg/kg 
+No data available. 
+No data available. 
+Rat, Inhalation, TCLo:  2056 ppm (6 h); 1501 ppm (78 week) 
+
+636 mg/kg 
+
+Rat, Oral LD50: 
+Rat, Inhalation LC50:  12.5 mg/L (4 h); >26 700 ppm (1 h); 49 g/m3 (4 h) 
+Rabbit, Dermal LD50:  8390 mg/kg 
+Rat, Dermal LD50: 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+
+12 124 mg/kg; 14 100 μL/kg 
+Human, TC:  252 μg/L (19 years); Mouse, TD:  433 μg/kg (24 h) 
+Rat, Inhalation, TCLo:  1500 ppm (6 to 20 d pregnant) 
+No data available. 
+
+Ethyl-t-butyl ether 
+
+Benzene 
+
+7150 mg/kg 
+
+Rat, Oral LD50: 
+Rat, Inhalation LC50:  >5880 mg/m3 (4 h); 36 200 mg/m3 (4 h) 
+Rabbit, Dermal LD50:  >2 g/kg 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+
+No data available. 
+Rat, Oral, TDLo:  16 800 mg/kg (male; 14 d) 
+No data available. 
+
+1800 mg/kg 
+
+Rat, Oral LD50: 
+Rat, Inhalation LC50:  13 050 ppm-14 380 ppm (4 h) 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+ 
+
+Human, TC:  252 μg/L (19 years); Mouse, TD:  433 μg/kg (24 h) 
+Rat, Inhalation, TCLo:  150 ppm (24 h; 7 to 14 d pregnant) 
+Human, Inhalation, TC:  10 mg/m3 (11 years); 150 ppm (15 min) 
+Human, Inhalation, TCLo:  10 ppm (8 h) 
+
+Health Effects:  See Section 2, “Hazards Identification” for potential health effects. 
+Target Organs:  Central nervous system, nervous system, liver, immune system (blood). 
+
+Medical Conditions Aggravated by Exposure:  The following system disorders may be affected: central nervous, 
+kidney, liver, blood, nervous, eye, metabolic, immune, allergies, respiratory, and skin. 
+
+MSDS 2291 
+
+Page 4 of 6 
+
+12.  ECOLOGICAL INFORMATION 
+
+Components 
+Gasoline 
+
+Toluene 
+
+Ecotoxicity Data 
+Fish: 
+Algae: 
+
+Ethyl-t-butyl ether  No data available. 
+
+ 
+
+ 
+
+Rainbow trout (Oncorhynchus mykiss) LC50:  56 mg/L (96 h) 
+Green algae (Pseudokirchneriella subcapitata) EC50:  4700 mg/L (72 h) 
+
+Fish: 
+ 
+Algae: 
+Invertebrate:  Freshwater water flea (Daphnia magna) EC50:  11.5 mg/L (48 h) 
+
+Rainbow trout (Oncorhynchus mykiss) LC50:  5.8 mg/L (96 h) [semi-static] 
+Fathead minnow (Pimephales promelas) LC50:  12.6 mg/L (96 h) [static] 
+Green algae (Pseudokirchneriella subcapitata) EC50:  12.5 mg/L (72 h) [static] 
+
+Benzene 
+
+Fish: 
+Algae: 
+Invertebrate:  Freshwater water flea (Daphnia magna) EC50:  10 mg/L (48 h) 
+
+Rainbow trout (Oncorhynchus mykiss) LC50:  5.3 mg/L (96 h) [flow-through] 
+Green algae (Pseudokirchneriella subcapitata) EC50:  29 mg/L (72 h) 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to 
+disposal  regulations,  U.S.  EPA  40 CFR 262,  Hazardous  Waste  Number  D001.    Hazardous  waste  number:  D018.  
+Dispose of in accordance with U.S. EPA 40 CFR 262 for concentrations at or above the regulatory level (0.5 mg/L). 
+ 
+ 
+
+Toluene waste number U220 
+Benzene waste number U019 (ignitable waste); 0.5 mg/L regulatory level. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Gasoline, Hazard Class 3, UN1203, Packing Group II. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4): 
+
+Gasoline and ethyl-t-butyl ether are not regulated. 
+Toluene [1000 lb final RQ (454 kg)]. 
+Benzene [10 lb final RQ (4.54 kg) received an adjusted RQ of 10 lbs based on potential carcinogenicity in a 
+August 14, 1989 final rule]. 
+
+SARA  Title  III  Section  302  (40 CFR 355.30):    Gasoline,  ethyl-t-butyl  ether,  toluene,  and  benzene  are  not 
+regulated. 
+SARA  Title  III  Section  304  (40 CFR 355.40):    Gasoline,  ethyl-t-butyl  ether,  toluene,  and  benzene  are  not 
+regulated. 
+SARA Title III Section 313 (40 CFR 372.65):   
+
+Gasoline and ethyl-t-butyl ether are not regulated. 
+Toluene (1.0 % de minimis concentration). 
+Benzene (0.1 % de minimis concentration).   
+
+OSHA  Process  Safety  (29 CFR 1910.119):    Gasoline,  ethyl-t-butyl  ether,  toluene,  and  benzene  are  not 
+regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+Yes 
+No 
+No 
+
+State Regulations: 
+
+California Proposition 65: 
+
+Warning:  This material contains a chemical (benzene) known to the state of California to cause cancer. 
+Warning:    This  material  contains  chemicals  (toluene,  benzene,  ethyl-t-butyl  ether)  known  to  the  state  of 
+California to cause reproductive/developmental effects. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+MSDS 2291 
+
+Page 5 of 6 
+
+European Regulations 
+
+EC Classification 
+
+Gasoline:  T – Toxic, Carc. Cat. 2, Xn – Harmful, Muta Cat. 2 
+Toluene: 
+Ethyl-t-butyl ether:  Not classified. 
+Benzene:  F – Flammable, T – Toxic, Carc. Cat. 1, Xn – Harmful, Muta. Cat. 2, Xi – Irritant 
+
+F – Flammable, Xn – Harmful, Repr. Cat. 3, Xi – Irritant 
+
+EC Risk Phrases (R No): 
+
+R11 – Highly flammable. 
+R36/38 – Irritating to eyes and skin. 
+R45 – May cause cancer. 
+R46 – May cause heritable genetic damage. 
+R48/23/24/25 – Toxic:  danger  of  serious  damage  to  health  by  prolonged  exposure  through  inhalation,  in 
+
+contact with skin and if swallowed. 
+
+R48/20 – Harmful:  danger of serious damage to health by prolonged exposure through inhalation. 
+R63 – Possible risk of harm to the unborn child. 
+R65 – Harmful: may cause lung damage if swallowed. 
+R67 – Vapours may cause drowsiness or dizziness. 
+
+EC Safety Phrases (S No): 
+
+S36/37 – Wear suitable protective clothing and gloves. 
+S45 – In  case  of  accident  or  if  you  feel  unwell,  seek  medical  advice  immediately  (show  label  where 
+
+S46 – If swallowed, seek medical advice immediately and show this container or label. 
+S53 – Avoid exposure – obtain special instructions before use. 
+S62 – If swallowed, do not induce vomiting; seek medical advice immediately and show this container or 
+
+possible). 
+
+label. 
+
+National Inventory Status 
+
+U.S. Inventory (TSCA):  Listed. 
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+
+Sources:  ChemADVISOR, Inc., MSDS, Gasoline, Automotive, Unleaded, 14 March 2012. 
+
+ChemADVISOR, Inc., MSDS, Tert-Butyl Ethyl Ether, 20 December 2011. 
+
+EC; European Chemical Substance Information System (ESIS), Benzene, CAS No. 71-43-2, available at 
+http://esis.jrc.ec.europa.eu/index.php?PGM=cla (accessed July 2012). 
+
+EC; ESIS, Toluene, CAS No. 108-88-3, available at http://esis.jrc.ec.europa.eu/index.php?PGM=cla 
+(accessed July 2012). 
+
+EC; ESIS, Gasoline, CAS No. 8006-61-9, available at 
+(accessed July 2012). 
+
+http://esis.jrc.ec.europa.eu/index.php?PGM=cla 
+
+ConocoPhillips, MSDS, Unbranded Conventional Gasoline, SDS Number: 724020, 14 June 2011. 
+
+ConocoPhillips, MSDS, Unbranded  Conventional  Gasoline  Reformulated  with  Ethanol,  SDS 
+Number: 724060, 14 June 2011. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 2291 
+
+Page 6 of 6 
+
+

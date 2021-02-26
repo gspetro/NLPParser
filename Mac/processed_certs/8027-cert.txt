@@ -1,0 +1,637 @@
+﻿ 
+
+ 
+
+ 
+
+National Institute of Standards & Technology 
+Report of Investigation 
+ 
+Reference Material® 8027 
+ 
+Silicon Nanoparticles (Nominal Diameter 2 nm) 
+ 
+This  Reference  Material (RM)  is  intended  primarily  to  evaluate  and  qualify  methodology  and/or  instrument 
+performance related to the physical/dimensional characterization of nanoscale particles.  The RM may also be useful 
+in the development of in vitro assays designed to evaluate the biological response of nanomaterials and for use in 
+interlaboratory test comparisons.  A unit of RM 8027 consists of five hermetically sealed pre-scored glass ampoules 
+containing  nominally  1 mL  of  cyclohexane-stabilized  silicon (Si)  nanoparticles  suspended  in  toluene.    The 
+suspension contains particles (monomers) and a small percentage of clusters of primary particles. 
+ 
+Reference Values:  Reference mean size and mass fraction values derived from Dynamic Light Scattering (DLS) 
+and  Inductively  Coupled  Plasma-Optical  Emission  Spectrometry (ICP-OES)  measurements  respectively,  are 
+provided in Table 1.  Reference values are non-certified values that are the present best estimates of the true values; 
+however,  the  values do  not meet  the  NIST  criteria for  certification  and are provided with  associated uncertainties 
+that  may  reflect  only  measurement  precision,  may  not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of 
+sufficient agreement among multiple analytical methods [1]. 
+
+Information Values:  Information particle mean size values using Transmission Electron Microscopy (TEM) and 
+Analytical Ultracentrifugation (AUC) are provided in Table 2.  An information value is considered to be a value that 
+will be of interest to the RM user, but insufficient information is available to assess the uncertainty associated with 
+the value or only a limited number of analyses were performed [1].  Information values cannot be used to establish 
+metrological traceability. 
+ 
+Expiration  of  Value  Assignment:    The  values  of  RM 8027  are  valid,  within  the  measurement  uncertainty 
+specified, until 01 August 2018, provided the RM is handled and stored in accordance with the instructions given in 
+this report (see “Instructions for Handling, Storage, and Use”).  Accordingly, periodic recalibration or recertification 
+of this RM is not required.  The report is nullified if the RM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its value assignment.  If substantive changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+Overall  technical  coordination  for  material  preparation,  processing  and  measurement  activities  was  conducted  by 
+V. Reipa  of  the  NIST  Biosystems  and  Biomaterials  Division  and  K. Nontapot  of  the  Thai  National  Metrology 
+Institute. 
+ 
+ta  were  performed  by 
+Statistical  consultation  on  measurement  design  and  analysis  of  the  reference  value  data  were  performed  by 
+S.P. Lund of the NIST Statistical Engineering Division. 
+ 
+Measurements  were  performed  by  V. Reipa,  P. de  Rose,  and  A. Urbas  of  the  NIST  Biosystems  and  Biomaterials 
+Division;  S.A. Rabb,  M.R. Winchester,  and  G.C. Turk  of  the  NIST  Chemical  Sciences  Division;  J.A. Fagan, 
+yscale  Science  and
+V. Rastogi, V. Prabhu of the NIST Polymers Division; A.F. Myers of the NIST Center for Nanoscale Science and 
+Technology and K. Nontapot of the Thai National Metrology Institute. 
+ 
+Additional  technical  and  coordination  aspects  were  provided  by  the  following:  S. Choquette,  J.T. Elliott  and 
+A.L. Plant of the NIST Biosystems and Biomaterials Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  14 February 2014 
+
+Anne L. Plant, Chief 
+Biosystems and Biomaterials Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Material 
+
+and 
+
+RM 8027 
+
+ 
+
+Page 1 of 7 
+
+RM 
+
+Support  aspects  involved  in  the  issuance  of  this  RM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Value  Assignment  and  Uncertainty  Analysis:    Analyses  to  establish  reference  values  were  conducted  at  NIST 
+using  best  practices  as  determined  independently  for  each  measurement  method.    DLS  reference  values  were 
+calculated from the ampoule means and the expanded uncertainty was calculated as U = kuc, where uc is intended to 
+represent,  at  the  level  of  one  standard  deviation,  the  combined  standard  uncertainty  calculated  according  to  the 
+ISO/JCGM and NIST Guides [2,3].  The coverage factor k = 2, for 95 % expanded uncertainty intervals is based on 
+a  t multiplier  with  29 associated  degrees  of  freedom.    For  the  Silicon  mass  fraction  value  using  ICP-OES, 
+components of uncertainty were determined according to the ISO/JCGM Guide [2].  For the uncertainty components 
+estimated using Type A and Type B approaches, the effective degrees of freedom were calculated for each approach 
+using the Welch-Satterthwaite formula and then combined.  The expanded uncertainty (U) was obtained as follows: 
+ 
+
+U = 
+
+ky  Ug  +  Up 
+
++
+
+ where 
+
+  
++
+
+Ug  =  |e  *  Ssample  +  Cz  *  Shlank 
+
+— 
+=
+
+2 
+
+2 
+
+2 
+
+2 
+
+  
+ 
+
+Up  =  VC  *  Sta  +  Ca  *  Sip  +  Cs  *  Si2 
+
+— 
+=
+
++
+
++
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+ and 
+
+2
+�𝑐𝑐1
+
+2
+∗ 𝑠𝑠𝑠𝑠𝑎𝑎𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+
+𝑢𝑢𝑏𝑏
+
+𝑢𝑢𝑎𝑎
+
+𝑘𝑘�𝑢𝑢𝑎𝑎
+
+ 
+where c is the sensitivity coefficient, k is the coverage factor, ssample, sblank, sstd, sw1  and sw2  are the standard 
+uncertainties for the sample, blank, standard, standard weighing and sample weighing, respectively, and ua  and ub 
+are the combined uncertainties obtained using a Type A and Type B approach, respectively. 
+ 
+
+𝑢𝑢𝑏𝑏
+
+2
+𝑐𝑐4
+
+2
+∗ 𝑠𝑠𝑤𝑤1
+
+2
+𝑐𝑐5
+
+2
+∗ 𝑠𝑠𝑤𝑤2
+
+2
+𝑐𝑐2
+
+2
+∗ 𝑠𝑠𝑏𝑏𝑠𝑠𝑎𝑎𝑏𝑏𝑏𝑏
+
+2
+�𝑐𝑐3
+
+2
+∗ 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+
+rb) 
+Table 1.  Reference Values for RM 8027(a,b) 
+
+s  for  RM 
+
+ 
+Measurement 
+ 
+Particle Size (nm)  
+Si Mass Fraction (µg/g) 
+
+ 
+Value  
+
+2.20  ±  0.14 
+6.43  ±  0.31 
+
+Technique 
+
+DLS 
+ICP-OES 
+
+(a) Liquid suspension form. 
+(b) The  measurand  in  each  case  is  determined  by  the  methods  indicated  in  the  text.    Metrological  traceability  is  to  the  SI  unit 
+
+indicated for each value in Table 1. 
+
+ 
+
+Table 2.  Information Values Particle Mean Size for RM 8027(a) 
+
+ 
+Measurement 
+ 
+ 
+TEM(a) 
+AUC(b) 
+
+ 
+Particle Size  
+(nm) 
+
+1.9 
+1.7 
+
+Analyte Form 
+
+Dry, deposited on substrate 
+Liquid suspension  
+
+(a) TEM images were analyzed using ImageJ [4] software package.  The information value is a simple mean of 560 Si particles 
+
+grid.
+imaged on the carbon grid. 
+
+(b) AUC  measurements  were  performed  in  three  solvents  (toluene,  chloroform,  and  deuterated  toluene)  and  the  simple  mean 
+hydrodynamic diameter value is provided. Particle effective density was estimated from the sedimentation coefficients in three 
+above solvents [5]. 
+
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+RM 8027  is  NOT  intended  for  clinical  use  or  human  consumption.    NO  SONICATION  should  be  applied  to  this 
+reference material.  Appearance of a milky substance indicates that the RM has been compromised.   
+ 
+INSTRUCTIONS FOR HANDLING STORAGE, AND USE 
+ 
+Handling  and  Storage:    Until  required  for  use,  the  RM  should  be  stored  at  room  temperature  in  its  original 
+ampoule and package, and protected from intense direct light or ultraviolet radiation.  Refrigeration below 0 ºC or 
+heating above 40 ºC is discouraged.  Ampoules are best stored long term in a horizontal position. 
+ 
+Use:  Consult the Safety Data Sheet (SDS), enclosed with the RM shipment, for chemical hazard information.  Prior 
+to  opening,  the  glass  ampoule  containing  the  RM  should  be  gently  inverted  several  times  to  insure  homogeneity.  
+Liquid retained in the upper portion of the ampoule (the nipple), can be dislodged by gently flicking the nipple with 
+forefinger  while  tilting  the  ampoule.    The  ampoule  is  pre-scored  and  should  be  opened  by  applying  moderate 
+pressure with one’s thumb to snap off the nipple.  It is recommended that the contents of an ampoule be used the 
+same day as opened.   
+
+RM 8027 
+
+ 
+
+Page 2 of 7 
+
+Additional User Information:  Figures 1 through 3 provide additional images and graphs that may be of interest to 
+the RM user. 
+ 
+Optical  Absorbance:    The  optical  absorbance  of  RM 8027,  diluted  ten  times  in  toluene,  was  recorded  using  a 
+double-beam  spectrophotometer  and  shown  in  Figure 1.    Measurements  were  performed  using  matched  quartz 
+cuvettes  (10 mm  pathlength)  against  a  filtered  pure  toluene.    Scan  conditions  were  bandwidth  of  1.0 nm,  an 
+integration time of 0.08 s and a photomultiplier gain of 51, giving a source maximum at 510 nm that is 80 % of the 
+maximum detection efficiency. 
+
+  
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+     
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+600
+
+Figure 1.  Representative optical absorbance spectrum for a diluted RM 8027 suspension. 
+
+Wavelength (nm)
+
+ 
+
+ 
+
+ 
+
+ 
+
+RM 8027 
+
+ 
+
+Page 3 of 7 
+
+TEM Imaging:  TEM measures the projected image of particles deposited onto an electron-transparent substrate.  
+Internal structure, as well as surface morphology, may contribute to the image appearance.  Representative images 
+are presented in Figure 2. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 nm 
+  
+
+Figure 2.  Si nanoparticles sampled from a single representative TEM image. 
+Bottom image shows a high resolution TEM image of a single Si nanoparticle. 
+
+ 
+
+ 
+
+RM 8027 
+
+ 
+
+Page 4 of 7 
+
+ 
+y
+t
+i
+s
+n
+e
+D
+
+ 
+0
+.
+1
+
+ 
+8
+.
+0
+
+ 
+6
+.
+0
+
+ 
+4
+.
+0
+
+ 
+2
+.
+0
+
+ 
+0
+.
+0
+
+  
+
+Size Distribution Histogram:  Particle size distribution generated by TEM analysis of the two carbon grid image 
+areas is shown in Figure 3.  
+
+  
+
+——  Sheet 2 
+—-—  Sheet  3 
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+Diameter  (nm) 
+
+Figure 3.  RM 8027 particle size distributions, obtained from the two areas of the TEM grid. 
+
+ 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Material  Source  and  Processing:    RM 8027  was  prepared  at  the  NIST  Biosystems  and  Biomaterials  Division.  
+Si wafers  (<111>,  Boron  doped),  were  purchased  from  a  commercial  supplier.    The  wafers  were  etched  using 
+hydrofluoric  acid  and  placed  in  a  beaker  containing  toluene.    The  wafers  were  then  sonicated  to  produce  a 
+suspension.    Particle  surface  passivation  with  cyclohexane  was  done  by  hydrosilylation  under  ultraviolet 
+excitation [5].    A  two  stage  filtering  was  used  to  remove  larger  particulates  from  the  Si nanoparticle  colloidal 
+suspension in toluene.  A 100 nm pore size 90 mm diameter polytetrafluoroethylene (PTFE) based filter membrane 
+was used in the first stage and 20 nm pore size 47 mm diameter Anodisc 47 circular membrane filters in the second 
+stage.  The suspension was transferred to a clean 4 L capacity dark glass bottle and hermetically sealed.  This RM 
+was  subsequently  flame-sealed  into  2 mL  pre-scored  amber  glass  ampoules  using  an  automated  process.    Prior  to 
+use,  the  ampoules  were  cleaned  with  high  pressure  deionized  water  and  autoclaved,  then  flushed  with  argon  gas 
+prior and during filling. 
+ 
+Analysis  with  DLS:    DLS  measurements  were  performed  at  the  NIST  Biosystems  and  Biomaterials  Division.  
+Si nanoparticle hydrodynamic radius measurements were performed using a Nicomp 380 ZLS DLS system (Particle 
+Sizing Systems Inc., Santa Barbara, CA).  Samples were contained in glass disposable culture tubes.  Prior to sample 
+loading, the tubes were blown with nitrogen gas and filled with 0.3 ml of the RM sample from the ampoule.  The 
+tubes were sealed using parafilm and were then centrifuged at 14 000 rpm for 5 min to separate larger particles and 
+dust.    Samples  were  placed  in  the  instrument  and  allowed  to  reach  thermal  equilibrium.    A  nanoparticle  DLS 
+measurement  protocol  as  described  by  the  ISO 13321 [6]  standard  was  followed.    A  Laplace  inversion  based 
+Nicomp routine was used to find the distribution of decay rates.  The decay rates are linked to the effective-sphere 
+hydrodynamic diameters by the appropriate equations.  The size distribution is reported as a discrete set of diameter 
+bins  and  corresponding  intensity-weighted  fractions  as  probabilities  assigned  to  diameter  bins.    The  numbers 
+provided  from  the  instrument  were  normalized  such  that  the  largest  probability  (rather  than  the  sum  of  all 
+probabilities) was one for each ampoule.  Before further analysis, probabilities were renormalized so that the sum of 
+all  probabilities  was  one  for  each  ampoule.    To  extract  an  estimated  mean  from  each  ampoule,  least  squares 
+                                                 
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+>  of
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+RM 8027 
+
+Page 5 of 7 
+
+  
+
+  
+
+ 
+
+optimization was used to fit a three-parameter gamma distribution to the normalized probabilities.  Reference values 
+were determined based on intensity based distribution as measured by DLS. 
+ 
+DLS  Instrument Variability Assessment:    Additional  measurements  were  performed  at  NIST  on four randomly 
+selected samples using two other DLS instruments from different manufacturers to assess instrument effects.  These 
+machines  differed  in  scattering  angle,  laser  wavelength  and  data  analysis  software.    On  each  instrument,  four 
+ampoules of RM 8027 (nominal 2 nm), one sample of a 90 nm latex particle standard, and three samples of a 10 nm 
+particle  standard  were  measured.    Means  were  estimated  in  the  same  manner  as  previously  described.    A  95 % 
+posterior  credible  interval  for  the  consensus  mean  of  measurements  was  taken  with  a  90 degree  scattering  angle 
+based  on  a  Markov  chain  Monte  Carlo  fit  for  a  linear  model  that  included  random  machine  effects.    Analysis  of 
+Variance (ANOVA) of  the  nominal  10 nm  particle  data,  the  fixed  machine  effect  factor  had  an  F-statistic  of  1.10 
+with 2 and 6 degrees of freedom and a corresponding p-value of 0.39.  ANOVA of the nominal 2 nm particle data, 
+the  fixed  machine  effect  factor  had  an  F-statistic  of  0.87  with  2  and  9 degrees  of  freedom  and  a  corresponding 
+p-value of 0.39.  This data indicated there is no statistically significant evidence of machine-to-machine variability.  
+ 
+Analysis  with  ICP-OES:    Six  ampoules  of  RM 8027  were  used  for  the  analysis.    A  solution  of  known 
+Si concentration  was  used  as  a  control [7].    Sample  sizes  of  0.5 g  to  0.7 g  were  chosen  for  RM 8027  and  the 
+control.  Two aliquots were removed from each ampoule of RM 8027.  Four samples from the control RM and six 
+blanks were prepared for the analysis.  All samples were placed into 30 ml polyethylene bottles along with 2 mL of 
+concentrated  tetramethylammonium  hydroxide (TMAH).    For  the  controls  and  blanks,  0.5 g  of  toluene  was  also 
+added  to  mimic  the  matrix  of  RM 8027.    The  samples  were  capped  and  left  undisturbed  for  3 days  to  4 days  to 
+allow  digestion  of  the  Si  nanoparticles.    All  solutions  were  transferred  to  PTFE  beakers,  evaporated  and 
+reconstituted  with  25 g  of  pure  water.    The  final  solutions  contained  1 µg/g  of  phosphorus [8]  as  an  internal 
+standard in 2 %  TMAH.  To determine the Si mass fraction in RM 8027, the calibration was performed using the 
+method of standard additions to compensate for any matrix effects.  A Si spike solution was prepared from a silicon 
+standard [7].  Each sample was split into two subsamples  and one of them was spiked with 0.5 g of the Si spike 
+stock  solution  (1.43 µg/g Si).    A  PerkinElmer  Optima 5300  DV  ICP-OES  instrument  was  used  for  the  analysis.  
+The Si mass fraction in the samples was measured using 251.611 nm wavelength; while the P mass fraction in the 
+samples was measured using 213.617 nm wavelength; both Si and P used axial plasma view, an integration time 
+of 0.512 s and a read time of 8.192 s for the measurement.  Each sample measurement comprised five replicates, 
+and each solution was measured two different times for the analysis. 
+ 
+Heterogeneity  Assignment:    During  the  filling  process,  ampoules  were  stored  in  boxes  numbered  1  through  10, 
+with  box  number  corresponding  to  fill  order.    Homogeneity  testing  was  performed  using  measurements  of 
+hydrodynamic  size,  and  Si  mass  fraction.    For  hydrodynamic  radius  measurements  using  DLS,  one  sample  was 
+removed from each of 30 randomly selected ampoules (three from each box), for a total of 30 samples.  To extract 
+an  estimated  mean  from  each  ampoule,  least  squares  optimization  was  used  to  fit  a  three-parameter  gamma 
+distribution to the normalized probabilities.  A model including random day effects showed the estimated standard 
+deviation for day, 1.9 E–06 nm, was dominated by that for error, 0.209 nm.  A model allowing for fixed day effects 
+had a p-value of 0.702.  Thus, a single mean model was fit to the entire collection of data from all 30 ampoules.  The 
+variability  attributed  to  measurement  error  was  estimated  from  four  replicate  measurements  from  each  of  three 
+ampoules.    An  ANOVA  with  a  fixed  effect  for  an  ampoule  provided  an  estimated  variance  for  repeated 
+measurements on a single sample of 0.051668 with 9 degrees of freedom.  The F-statistic for an ampoule was 0.685 
+with 2 and 9 degrees of freedom and a corresponding p-value of 0.529, indicating there is no statistically significant 
+evidence of sample heterogeneity between ampoules. 
+ 
+Si  content  was  evaluated  using  ICP-OES  performed  on  two  samples  extracted  gravimetrically  from  each  of  six 
+randomly  selected  ampoules.    Sample  sizes  of  0.5 g  to  0.7 g  were  chosen  for  RM 8027  and  a  control [7].    Two 
+aliquots  were  removed  from  each  ampoule  of  RM 8027.    Four  samples  from  the  control,  and  six  blanks  were 
+prepared for the analysis.  Analysis followed addition of an internal standard [8], TMAH digestion, and dilution with 
+high-purity water.  The relative expanded uncertainty value for the experimental Si mass fraction for RM 8027 was 
+4.8 %.    Based  on  a  single  factor  ANOVA,  the  observed  differences  are  not  significant  among  the  ampoules  for 
+RM 8027 and therefore, heterogeneity was considered to be minimal. 
+ 
+
+ 
+
+RM 8027 
+
+ 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2014). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Feb 2014). 
+
+[3]  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Feb 2014). 
+
+[4]  Rasband, W.; ImageJ; National Institutes of Health; available at http://rsb.info.nih.gov/ij/ (accessed Feb 2014). 
+[5]  Nontapot, K.; Rastogi, V.; Fagan, J.A.; Reipa, V; Size and Density Measurement of Core-Shell Si Nanoparticles 
+
+by Analytical Ultracentrifugation; Nanotechnology, Vol 24, p. 155701 (2013). 
+pectroscopy 
+
+[6]  ISO 13321 1996;  Particle  Size  Analysis - Photon  Correlation  Spectroscopy;  International  Organization  for 
+
+Standardization; available at 
+http://www.iso.org/iso/home/search.htm?qt=13321&sort=rel&type=simple&published=on (accessed Feb 2014). 
+[7]  SRM 3150;  Silicon (Si)  Standard  Solution;  NIST;  U.S.  Department  of  Commerce:  Gaithersburg, MD 
+
+Gaithersburg, 
+
+ymmerce: 
+
+[8]  SRM 3139a;  Phosphorus (P)  Standard  Solution;  NIST;  U.S.  Department  of  Commerce:  Gaithersburg, MD 
+
+nmerce:  Gaithersburg,
+
+(19 November 2012).  
+
+(29 August 2011).  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+RM 8027 
+
+ 
+
+Page 7 of 7 
+
+

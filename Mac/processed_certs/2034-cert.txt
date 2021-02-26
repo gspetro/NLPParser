@@ -1,0 +1,656 @@
+﻿National Institute of Standards & Technology 
+
+Certificate 
+ 
+Standard Reference Material® 2034 
+
+ 
+
+Holmium Oxide Solution Wavelength Standard (240 nm to 650 nm) 
+
+(240 
+
+ 
+This Standard Reference Material (SRM) is a certified transfer standard intended for the verification and calibration 
+of the wavelength scale of ultraviolet and visible absorption spectrophotometers having nominal spectral bandwidths 
+not exceeding 3 nm.  SRM 2034 is certified for the wavelength location of minimum transmittance for 14 bands in the 
+spectral range from 240 nm to 650 nm and at six spectral bandwidths from 0.1 nm to 3 nm.   A unit of SRM 2034 
+consists of a solution in a flame-sealed, nonfluorescent, fused-silica cuvette of optical quality (parallel to ∼0.9 mrad 
+and  flat  to  ∼1 µm).    A  protective  cap  is  glued  over  the  fused  end  of  the  cuvette.    The  square-bottomed 
+(12.5 mm × 12.5 mm) cuvette has a nominal pathlength of 10 mm and the height is 60 mm, which fits in the sample 
+compartment  of  most  conventional  absorption  spectrophotometers.    The  solution  contains  4 %  (mass  fraction) 
+holmium oxide (Ho2O3) in 10 % (volume fraction) perchloric acid (HClO4). 
+ 
+Certified Values:  The certified wavelengths of minimum transmittance for 14 bands from 240 nm to 650 nm, and 
+of 
+for six spectral bandwidths from 0.1 nm to 3.0 nm, are given in Table 1.  These certified values apply to all series of 
+SRM 2034  as  well  as  the  present  one.    The  transmittance  spectrum  of  SRM 2034  for  a  1 nm  spectral  bandwidth, 
+referenced  to  air,  is  illustrated  in  Figure 1.    The  measurands  are  the  certified  wavelengths  in  Table  1  and  are 
+metrologically traceable to the SI derived units expressed as nanometers. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2034  is  valid  indefinitely,  within  the  measurement 
+uncertainties  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  Accordingly, periodic recalibration or recertification 
+of this SRM is not required.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+If  substantive  technical  changes  occur  that 
+Maintenance of SRM Certification:  NIST will monitor this material.  If substantive technical changes occur that 
+affect  the  certification,  NIST  will  notify  the  purchaser.    Registration  (see  attached  sheet  or  register  online)  will 
+facilitate notification. 
+ 
+Overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+S.J. Choquette of the NIST Office of Reference Materials. 
+ 
+Production  and  certification  of  this  SRM  were  performed  by  J.C. Travis,  M.V. Smith,  and  B. Lang  of  the  NIST 
+Biosystems and Biomaterials Division and D.L. Duewer of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation for this SRM was provided by H-k. Liu of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Vacuum testing and flame sealing of the fused-silica cuvettes for this SRM were performed by A. Kirchhoff of the 
+NIST Fabrication Technology Division. 
+ 
+ 
+ 
+ 
+ 
+
+Anne L. Plant, Chief 
+Biosystems and Biomaterials Division 
+
+ice  Materials 
+
+ordination 
+
+ 
+
+ 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  29 August 2016 
+Certificate Revision History on Last Page  
+ 
+
+ 
+
+  
+
+SRM 2034 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Page 1 of 4 
+
+Table 1.  SRM 2034 Certified Wavelengths (nm) of Minimum Transmittance and Uncertainties(a) 
+for 14 Bands at Six Spectral Bandwidths, Referenced to Air 
+ 
+
+1 nm 
+
+2 nm 
+
+3 nm 
+
+ 241.02  ± 0.05 
+ 249.81  ± 0.05 
+
+ 241.12  ± 0.05 
+ 249.89  ± 0.05 
+
+ 241.12  ± 0.05 
+ 250.03  ± 0.05 
+
+ 241.04  ± 0.05 
+ 250.07  ± 0.05 
+
+ 278.15  ± 0.05 
+
+ 278.13  ± 0.05 
+
+ 278.10  ± 0.05 
+
+ 278.05  ± 0.05 
+
+ 287.08  ± 0.05 
+
+ 287.22  ± 0.05 
+
+ 287.52  ± 0.05 
+
+ 287.57  ± 0.05 
+
+ 333.47  ± 0.05 
+
+ 333.48  ± 0.05 
+
+ 333.47  ± 0.05 
+
+ 333.47  ± 0.05 
+
+ 345.43  ± 0.05 
+
+ 345.38  ± 0.05 
+
+ 345.42  ± 0.05 
+
+ 345.53  ± 0.05 
+
+ 361.27  ± 0.05 
+
+ 361.25  ± 0.05 
+
+ 361.12  ± 0.05 
+
+ 361.11  ± 0.05 
+
+ 385.45  ± 0.04 
+
+ 385.61  ± 0.04 
+
+ 385.80  ± 0.04 
+
+ 386.00  ± 0.04 
+
+ 416.07  ± 0.05 
+-----(b) 
+
+ 416.25  ± 0.05 
+
+ 416.57  ± 0.05 
+
+ 416.89  ± 0.05 
+
+ 451.45  ± 0.05 
+
+ 451.32  ± 0.04 
+
+ 451.36  ± 0.04 
+
+ 467.80  ± 0.04 
+
+ 467.82  ± 0.04 
+
+ 467.90  ± 0.04 
+
+ 468.11  ± 0.04 
+
+ 485.21  ± 0.04 
+
+ 485.23  ± 0.04 
+
+ 485.25  ± 0.04 
+
+ 485.21  ± 0.04 
+
+ 536.45  ± 0.04 
+
+ 536.56  ± 0.04 
+
+ 536.86  ± 0.04 
+
+ 537.21  ± 0.04 
+
+ 640.41  ± 0.04 
+
+14 
+ 
+(a) The uncertainties represent U95, the expanded uncertainty calculated in accordance with reference l. 
+(b) The wavelengths for the three narrowest spectral bandwidths for Band No. 10 are not given because this band resolves into two 
+
+ 640.50  ± 0.04 
+
+ 640.43  ± 0.04 
+
+ 640.79  ± 0.04 
+
+ 640.41  ± 0.04 
+
+ 641.15  ± 0.04 
+
+transmittance minima for spectral bandwidths of nominally less than 1 nm. 
+
+4 
+
+6 
+
+9 
+
+7 
+
+5 
+
+8 
+
+3 
+
+10 
+
+11 
+
+13 
+
+12 
+
+0.1 nm 
+
+0.5 nm 
+
+0.3 nm 
+
+ 467.78  ± 0.04 
+
+ 485.20  ± 0.04 
+
+ 536.42  ± 0.04 
+
+ 287.03  ± 0.05 
+
+ 333.48  ± 0.04 
+
+ 385.36  ± 0.05 
+
+ 278.15  ± 0.05 
+
+ 361.27  ± 0.05 
+
+ 345.46  ± 0.05 
+
+ 485.21  ± 0.04 
+
+ 536.43  ± 0.04 
+
+ 467.79  ± 0.04 
+
+ 385.39  ± 0.04 
+
+ 287.04  ± 0.05 
+
+ 361.27  ± 0.05 
+
+ 333.47  ± 0.05 
+
+ 345.45  ± 0.05 
+
+ 278.15  ± 0.05 
+
+Band  
+No. 
+1 
+2 
+
+ 416.02  ± 0.05 
+-----(b) 
+
+ 240.97  ± 0.05 
+ 249.78  ± 0.05 
+
+ 416.04  ± 0.05 
+-----(b) 
+
+ 240.98  ± 0.05 
+ 249.79  ± 0.05 
+
+  
+
+ 
+
+(
+ 
+e
+c
+n
+a
+t
+t
+i
+
+m
+s
+n
+a
+r
+T
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+%
+
+25
+
+50
+
+75
+
+)
+
+9
+
+1
+
+8
+
+3
+
+4
+
+7
+
+2
+
+5
+
+6
+
+11
+
+ 
+ 
+
+12
+
+ 
+ 
+
+ 
+ 
+
+10
+
+ 
+ 
+
+13
+
+ 
+ 
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+Wavelength (nm)
+
+ 
+
+Figure 1.    Spectral  transmittance  at  1 nm  spectral  bandpass  of  a  4 %  solution  of  holmium  oxide  in  10 % 
+perchloric acid solution. 
+
+ 
+
+ 
+
+SRM 2034 
+
+ 
+ 
+
+14
+
+Page 2 of 4 
+
+Production  and  Certification  Procedure:    Specific  details  concerning  the  materials  and  methods  used  in  the 
+production  of  SRM 2034  are given  in  references 2  and 3.   The  wavelengths  of  minimum  transmittance  have  been 
+newly  assigned  based  on  a  multi-center,  multinational  study  involving  22 research-grade  spectrophotometers 
+calibrated  against  independent  wavelength  standards [4].    NBS  Special  Publication  260-102 [2]  discusses  the 
+influence  of  temperature,  as  well  as  the  purity  and  concentration  of  the  holmium  oxide  solution,  on  the  certified 
+wavelengths.   
+ 
+Certification  Uncertainty:    The  uncertainties  for  SRM 2034  are  based  upon  multiple  determinations  of  the 
+transmittance minima using the independently calibrated instruments of the multi-center study [4].  The expanded 
+uncertainty, U95, for each of the wavelength values given in Table 1 is the estimated standard deviation of the mean 
+of 15 values, with a coverage factor based on the Student's t-distribution.  The expanded uncertainty defines an interval 
+within which the unknown value of the band minimum wavelength can be asserted to lie with a level of confidence of 
+approximately 95 % [1].  Components of the measurement uncertainty including reproducibility, the calibration of the 
+wavelength scale of different spectrophotometers against atomic spectral lines, and the estimation of absorption band 
+minima are confounded into the final result by the experimental design.  Possible wavelength shifts due to temperature 
+and concentration of the solution have been shown to be negligible. 
+ 
+Information Values:  Information values for the prediction intervals at an approximate 95 % confidence level for the 
+certified  wavelengths are given in Table 2.  These values  are intended for a single future data acquisition  with an 
+instrument  from  the  population  of  22 pen-lamp  calibrated  research-grade  spectrophotometers  that  produced  the 
+certified values [4].  This table is presented as an aid in the normal application of this material to a single instrument 
+and  data  set  (see  “Instructions  for  Handling,  Storage,  and  Use”).    Information  values  cannot  be  used  to  establish 
+metrological traceability. 
+ 
+
+Table 2.  Information Values of the Approximate 95 % Prediction Intervals(a) 
+for 14 Bands at Six Spectral Bandwidths, Referenced to Air for SRM 2034 
+ 
+
+0.1 nm 
+
+0.3 nm 
+
+0.5 nm 
+
+1 nm 
+
+2 nm 
+
+3 nm 
+
+Band  
+No. 
+1 
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+240.76 – 241.18  240.77 – 241.19  240.81 – 241.23  240.89 – 241.35  240.83 – 241.41  240.66 – 241.42 
+249.57 – 249.99  249.58 – 250.00  249.60 – 250.02  249.67 – 250.11  249.76 – 250.30  249.73 – 250.41 
+
+277.95 – 278.35  277.95 – 278.35  277.95 – 278.35  277.91 – 278.35  277.83 – 278.37  277.70 – 278.40 
+
+286.83 – 287.23  286.84 – 287.24  286.88 – 287.28  287.00 – 287.44  287.25 – 287.79  287.22 – 287.92 
+
+333.30 – 333.66  333.29 – 333.65  333.28 – 333.66  333.28 – 333.68  333.21 – 333.73  333.13 – 333.81 
+
+345.26 – 345.66  345.26 – 345.64  345.24 – 345.62  345.18 – 345.58  345.17 – 345.67  345.20 – 345.86 
+
+9 
+
+7 
+
+8 
+
+10 
+
+361.08 – 361.46  361.08 – 361.46  361.08 – 361.46  361.04 – 361.46  360.86 – 361.38  360.78 – 361.44 
+
+415.81 – 416.23  415.84 – 416.24  415.86 – 416.28  416.03 – 416.47  416.30 – 416.84  416.54 – 417.24 
+
+385.17 – 385.55  385.21 – 385.57  385.27 – 385.63  385.42 – 385.80  385.56 – 386.04  385.69 – 386.31 
+
+  
+
+640.26 – 640.56  640.26 – 640.56  640.28 – 640.58  640.34 – 640.66  640.59 – 640.99  640.90 – 641.40 
+
+536.25 – 536.59  536.26 – 536.60  536.28 – 536.62  536.37 – 536.75  536.63 – 537.09  536.90 – 537.52 
+
+467.65 – 467.99  467.69 – 468.11  467.83 – 468.39 
+
+451.21 – 451.69  451.09 – 451.55  451.06 – 451.66 
+
+485.13 – 485.33  485.03 – 485.48  484.91 – 485.51 
+
+-----(b) 
+467.64 -467.96 
+
+467.63 – 467.93  467.63 -467.95 
+
+485.04 -485.38 
+
+485.04 -485.38 
+
+485.03 -485.37 
+
+-----(b) 
+
+-----(b) 
+
+11 
+
+14 
+
+13 
+
+12 
+
+measurement  from a  participating
+(a) The uncertainties represent P95, the approximate 95 % prediction interval for the next single measurement from a participating 
+
+P 
+
+instrument. 
+
+(b) The wavelengths for the three narrowest spectral bandwidths for Band No. 10 are not given because this band resolves into two 
+
+transmittance minima for spectral bandwidths of nominally less than 1 nm. 
+
+ 
+ 
+CAUTION:    SRM 2034  is  a  perchloric  acid  solution  of  holmium  oxide.    Each  SRM 2034  cuvette  has  been 
+individually vacuum-tested for leaks.  If the cuvette should develop a leak or if the cuvette is accidentally broken, 
+refer to the Safety Data Sheet (SDS) for safe handling instructions. 
+ 
+To maintain the integrity of  SRM 2034, the cuvette should be handled only by the capped end or by its opposing 
+frosted sides.  Avoid unnecessary stress to the glue seal of the cuvette cap.  While not in use, SRM 2034 should be 
+stored in the container provided at a temperature between 20 °C and 30 °C. 
+ 
+
+ 
+
+SRM 2034 
+
+Page 3 of 4 
+
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling and Storage:  Proper handling and storage of SRM 2034 is essential to maintain the integrity of the certified 
+wavelength values given in Table 1.  If the user determines at any time that this SRM has been exposed to adverse 
+conditions  that  could  affect  the  chemical  stability  of  the  solution,  discontinue  use  of  the  SRM  and  dispose  of  it 
+properly. 
+ 
+Use:  Carefully insert SRM 2034 into the sample beam of the spectrophotometer being tested and leave the reference 
+beam empty.  The height of 60 mm precludes the use of SRM 2034 on some instruments.  Scan the desired bands to 
+measure their locations of minimum transmittance for known spectral bandwidth conditions.  Take all measurements 
+at a temperature of 25 °C ± 5 °C.   
+ 
+Wavelength Scale Verification:  Compare the measured wavelength of a specific band’s minimum transmittance to 
+its certified  wavelength  in Table 1, for the spectral bandwidth  most representative of the spectrophotometer being 
+tested.  The absolute value of the difference between the measured and certified value for each band should not exceed 
+the  certification  uncertainty  given  in  Table 1  by  more  than  the  wavelength  accuracy  tolerance  specified  for  the 
+instrument under test or the desired application.  The prediction intervals of Table 2 represent realistic lower limits for 
+establishing accuracy tolerances for the various bands.  In the event that verification of the native wavelength scale is 
+not obtained over the wavelength range, an external calibration curve may be constructed. 
+ 
+Wavelength Scale Calibration:  Any significant biases indicated by subtracting the certified wavelengths from the 
+corresponding measured wavelengths may be plotted as a function of the wavelengths (either measured or certified, 
+since  the  difference  is  small).    This  plot,  with  a  smooth  line  drawn  through  the  fourteen  measured  bias  points, 
+represents  a  bias  correction  wavelength  calibration  for  the  instrument  under  test.    To  find  the  true  wavelength 
+corresponding  to  an  indicated  wavelength,  subtract  the  bias  corresponding  to  the  wavelength  from  the  indicated 
+wavelength.    To  find  the  indicated  wavelength  corresponding  to  a  desired  true  wavelength,  add  the  bias  value 
+corresponding to the wavelength to the true wavelength. 
+ 
+ 
+
+REFERENCES 
+ 
+
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2016). 
+
+[2]  Weidner, V.R.; Mavrodineanu, R.; Mielenz, K.D.; Velapoldi, R.A.; Eckerle, K.L.; Adams, B.; Holmium Oxide 
+Solution  Wavelength  Standard  from  240  to  640 nm  - SRM  2034;  NBS  Special  Publication  260-102  (1986); 
+available at http://www.nist.gov/srm/publications.cfm (accessed Aug 2016). 
+
+ications.cfm 
+
+[4 
+
+[3]  Weidner, V.R.;  Mavrodineanu, R.;  Mielenz, K.D.;  Velapoldi, R.A.;  Eckerle, K.L.;  Adams, B.;  Spectral 
+Transmittance Characteristics of Holmium Oxide in Perchloric Acid; J. Res. Natl. Bur. Stds., Vol. 90, No. 2, 
+pp. 115–125 (1985). 
+Travis, J.C.;  Acosta, J.C.;  Andor, G.;  Bastie, J.;  Blatner, P.;  Chunnilall, C.;  Crosson, S.C.;  Duewer, D.L.; 
+Early, E.A.;  Hengstberger, F.;  Kim, C-S.,  Liedquist, L.;  Manoocheri, F.;  Mercader, F.;  Mito, A.; 
+Monard, L.A.G.; Nevas, S.; Nilsson, M.; Noel, M.; Rodriquez, A.C.; Ruiz, A.; Schirmacher, A.; Smith, M.V.; 
+Valencia, G.;  van Tonder, N.;  Zwinkels, J.;  Intrinsic  Wavelength  Standard  Absorption  Bands  in  Holmium 
+Oxide Solution for UV/visible Molecular Absorption Spectrophotometry; J. Phys. Chem. Ref. Data, Vol. 34, 
+pp. 41–56 (2005). 
+
+ 
+ 
+
+ 
+Certificate  Revision  History:    29 August 2016  (Removed  series  number;  removed  expiration  date;  change  certified  values  in  Table  2  to 
+information  values;  editorial  changes);  07 April 2005  (Series  04-B);  21 October 2004  (Series 04-A);  18 December 2002  (Series 02); 
+04 February 2002  (Update  Table  l  for  Series  01);  28 November 2001  (Series  01);  01 March 2000  (Series  99);  15 December 1998  (Series  98); 
+02 December 1997  (Series  97);  30 July 1996  (Series  96);  06 June 1995  (Series  95);  17 February 1994  (Series  94  revision);  02 December 1993 
+(Series 94); 03 February 1992 (Series No. 91); 20 June 1985 (Original certificate date.) 
+
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2034 
+
+Page 4 of 4 
+
+

@@ -1,0 +1,409 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+
+ 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+
+Telephone:  301-975-2200 
+
+SRM Number:  1935a 
+MSDS Number:  1935a 
+SRM Name:  Potassium Dichromate  
+Solution for Use as an Ultraviolet 
+Absorbance Standard 
+
+Date of Issue: 19 December 2011 
+
+Emergency Telephone ChemTrec: 
+
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov  
+ 
+Description:  A unit of Standard Reference Material (SRM) 1935a consists of ten 10 mL ampoules, each containing 
+approximately  10 mL  of  solution.    Five  ampoules  are  perchloric  acid  “blank”  solutions  and  the  remaining  five 
+ampoules are potassium dichromate in perchloric acid. 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Substance:  Aqueous Potassium Dichromate, Perchloric acid solution. 
+
+Other Designations: 
+
+Potassium dichromate (Cichromic acid; dipotassium salt; potassium bichromate). 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4): 
+
+Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+Physical Hazards:  There are no known physical hazards associated with this potassium dichromate solution. 
+
+Major  Health  Hazards:    Eye,  skin,  and  respiratory  irritation.    Potassium  dichromate  is  listed  as  a  known  human 
+carcinogen. 
+
+Potential Health Effects: 
+
+Inhalation:  May cause irritation. 
+
+Skin Contact:  Skin contact may result in irritation with redness. 
+
+Eye Contact:  Irritation may occur. 
+
+Ingestion:  Ingestion of this material is unlikely under normal conditions of use. 
+
+Listed as a Carcinogen/Potential Carcinogen:  Potassium dichromate 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+
+ 
+
+Yes 
+X* 
+X* 
+X* 
+
+No 
+ 
+ 
+ 
+
+*The NTP classifies potassium dichromate as a Known Human Carcinogen.  The IARC classifies potassium dichromate as 
+Human Sufficient Evidence, Group 1.  OSHA Chromium (VI) compounds. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Components 
+
+CAS Number 
+
+Water, distilled 
+
+Potassium dichromate  
+
+Perchloric acid 
+
+7732-18-5 
+
+7778-50-9 
+
+7601-90-3 
+
+EC Number 
+(EINICS) 
+
+231-791-2 
+
+231-906-6 
+
+231-512-4 
+
+Nominal Concentration  
+(mass fraction) 
+
+≈94 % 
+
+6 % 
+
+0.01 % 
+
+Note:  This material contains aqueous solutions of perchloric acid and potassium dichromate with a trace amount of 
+perchloric acid.  The concentration of perchloric acid in these solutions do not meet OSHA minimum concentration 
+for  information  to  be  listed  in  an  MSDS  –  Health  hazards  1%  or  greater;  carcinogens  0.1%  or  greater,  29  CFR 
+1910.1200(d)(5)(ii). 
+
+MSDS 1935a 
+
+Page 1 of 4 
+
+ 
+
+EC Classification (assigned):  Xi 
+
+EC Risk (R):  R36/37/38, R45. 
+
+EC Safety (S):  S53. 
+
+4.  FIRST AID MEASURES 
+
+EC Risk/Safety Phrases:  Refer to Section 15, “Regulatory Information”. 
+
+NOTE:  The EC classification for potassium dichromate varies based on the concentration. 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Seek medical attention if needed. 
+
+Skin  Contact:    Wash  exposed  skin  with  copious  amounts  of  water  for  at  least  15  minutes.    Remove  any 
+contaminated clothing.  Seek medical attention if needed. 
+
+Eye  Contact:    Immediately  flush  eyes  with  copious  amounts  of  water  for  at  least  15  minutes.    Seek  immediate 
+medical attention. 
+
+Ingestion: If swallowed do not induce vomiting.  Seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+
+Fire Fighting:  Wear full protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (C):  Not applicable. 
+Autoignition Temp. (C):  Not applicable. 
+
+Flammability Limits in Air 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational  Release:    Avoid  contact.    Absorb  with  sand  or  other  non-combustible  material.    Collect  spilled 
+material and place in an appropriate container for disposal. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Store unopened ampoules in an 
+upright position under normal laboratory conditions. 
+
+Safe Handling Precautions:  Glass ampoules may shatter or break. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Potassium Dichromate: 
+
+OSHA (PEL):  0.1 mg/m3 (CrO3) ceiling 
+OSHA:  2.5 µg/m3 (Cr[VI]) action level 
+OSHA (TWA):  5 µg/m3 (Cancer hazard, see 29 CFR 1910.1026 as Cr). 
+NIOSH (TWA):  0.001 mg/m3 (as Cr, related to Chromates). 
+NIOSH (IDLH):  15 mg/m3 (as Cr, related to Chromates) 
+
+Ventilation:  Use a local exhaust ventilation system. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets 
+OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:   Wear splash resistant safety goggles.  An eyewash station should be readily available near areas of 
+use. 
+
+Personal  Protection:    Wear  appropriate  protective  clothing  and  chemically  resistant  gloves  to  prevent  skin 
+exposure. 
+
+MSDS 1935a 
+
+Page 2 of 4 
+
+ 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Potassium dichromate, aqueous solution 
+
+Chemical formula:  Not applicable. 
+
+Physical State:  Liquid. 
+
+Appearance and Odor:  Clear odorless liquid. 
+
+Relative Molecular Mass:  Not applicable. 
+
+Specific Gravity (water = 1):  ≈1 
+
+Melting Point (° C):  Not applicable 
+
+Volatility:  Not listed. 
+
+Vapor Density (air =1):  Not listed. 
+
+pH:  4.04 (1 % solution). 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+ 
+Conditions to Avoid:  Avoid heat, or flames. 
+
+Stable 
+
+X 
+
+ 
+
+Unstable 
+
+Incompatible Materials:  Metals; sulfuric acid; combustibles. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Miscellaneous decomposition products. 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Entry: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+ 
+
+ 
+
+Toxicity Data:  Potassium dichromate (pure) 
+
+Rat, Oral LD50:  25 mg/kg 
+
+Rabbit, Dermal LD50:  14 mg/kg 
+
+Rabbit, Eye Irritation:  140 mg severe 
+
+Health Effects 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  Potassium dichromate 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+(Acute and Chronic):  See Section 3: “Hazards Identification” for potential health effects. 
+
+Fish:  Blue gill (Lepomis macrochirus) LC50:  113.6–155.7 mg/L 96 h flow through. 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated due to low concentration of potassium dichromate and perchloric acid. 
+
+MSDS 1935a 
+
+Page 3 of 4 
+
+OSHA Process Safety (29 CFR 1910.119): Not regulated. 
+
+State Regulations: 
+
+California Proposition 65:  This product contains potassium dichromate (as Cr (VI) related compounds) that is 
+
+known to the state of California to cause cancer and reproductive/developmental effects. 
+
+ 
+
+ 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Sections 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Sections 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Sections 313 (40 CFR 372.65):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No 
+No 
+No 
+No 
+No 
+
+CANADIAN Regulations: 
+
+WHMIS Classification:  Not provided for this solution. 
+
+EUROPEAN Regulations: 
+
+EC Classification (assigned):  Xi - Irritant 
+
+EC Risk Phrases: 
+
+R36/37/38 – Irritating to eyes, respiratory system, and skin. 
+
+R45 – May cause cancer. 
+
+EC Safety Phrases: 
+
+R53 – Avoid exposure – obtain special instructions before use. 
+
+National Inventory Status 
+
+U.S. Inventory (TSCA):  Potassium dichromate is listed on inventory. 
+
+TSCA 12 (b) Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  ChemADVISOR, Inc., MSDS Potassium dichromate; 16 September 2011. 
+
+EC,  European  Chemical  Substance 
+CAS No. 7778-0-9; available at http://esis.jrc.ec.europa.eu (accessed Dec 2011). 
+
+Information  System 
+
+(ESIS),  Potassium  Dichromate, 
+
+EC,  European  Chemical  Substance  Information  System  (ESIS),  Perchloric  acid,  CAS  No.  7601 90-3; 
+available at http://esis.jrc.ec.europa.eu (accessed Dec 2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1935a 
+
+Page 4 of 4 
+
+

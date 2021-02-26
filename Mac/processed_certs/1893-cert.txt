@@ -1,0 +1,565 @@
+﻿ 
+
+% 
+
+ows 
+:  =|  ;  National  Institute  of  Standards  &  Cerlnolagy 
+
+A 
+%  ; 
+
+s 
+RY 
+
+Tares  OF 
+
+ 
+
+Qertificate 
+
+ 
+Standard Reference Material  1893 
+ 
+Copper Microhardness Test Block (Knoop) 
+ 
+Lot # 09 
+ 
+Serial No.  SAMPLE 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  use  as  a  primary  standard  in  calibrating  Knoop-type 
+microhardness testers and is  certified for  mean Knoop hardness  values at loads of  0.245 N, 0.490 N, and 0.980 N 
+(0.025 kgf,  0.050 kgf,  and  0.100 kgf,  respectively).    A  unit  of  SRM 1893  consists  of  a  square  test  block  of 
+electrodeposited bright  copper on an  AISI 1010 steel  substrate.  The test block  measures 1.35 cm on each side, is 
+approximately 1.5 mm thick, and is mounted in a thermosetting epoxy.  Five indentations were made on the SRM’s 
+polished  surface  for  each  load  at  positions  illustrated  in  Figure 1.    The  mean  Knoop  hardness  value  and  the 
+corresponding expanded uncertainty for the mean of the five indentations made for each load tested are presented in 
+Table 1.  Knoop hardness values are reported as Knoop hardness numbers (HK) in units kgf/mm2 and in SI units of 
+gigapascals (GPa).   Each  SRM  was individually  measured and bears a  serial  number imprinted on the side of the 
+epoxy mount. 
+ 
+
+Table 1.  Certified Mean HK and Expanded Uncertainties 
+
+ 
+
+Load 
+
+N 
+
+(kgf) 
+
+0.245 
+
+(0.025) 
+
+0.490 
+
+(0.050) 
+
+0.980 
+
+(0.100) 
+
+GPa 
+
+SAMPLE 
+
+SAMPLE 
+
+SAMPLE 
+
+Mean HK 
+
+(kgf/mm2) 
+
+(SAMPLE) 
+
+(SAMPLE) 
+
+(SAMPLE) 
+
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1893  is  valid  indefinitely,  within  the  measurement 
+uncertainty specified, provided the SRM  is  handled, stored, and used  in accordance  with the  instructions  given  in 
+this  certificate  (see  “Instructions  for  Handling,  Storage,  and  Use”).    Accordingly,  periodic  recalibration  or 
+recertification of this SRM is not required.  Aside from indentation, any physical damage or other alteration of the 
+surface of the specimen, including all processes that remove surface material such as repolishing, will invalidate the 
+certification. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical  changes occur that affect the certification, NIST will notify the purchaser.  Registration (see 
+attached sheet) will facilitate notification. 
+ 
+The coordination of the production and the technical measurements leading to the certification of SRM 1893 were 
+performed by D.R. Kelley of the Thin Film and Nanostructure Processing Group of the NIST Metallurgy Division. 
+ 
+Statistical analysis of the data was performed by N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 September 2012 
+Certificate Revision History on Last Page 
+
+ 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Frank W. Gayle, Chief 
+Metallurgy Division 
+
+Page 1 of 4 
+
+SRM 1893 
+
+ 
+
+ 
+
+ 
+
+SRM 1893 Serial No.: 
+Calibrated by: 
+ 
+
+SAMPLE 
+D.R. Kelley 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Figure 1.  Positions of Indentations 
+
+ 
+NIST  Specimen  Preparation:    The  starting  material  for  this  SRM  was  a  flat  sheet  of  electroformed  copper, 
+23 cm × 46 cm × 2 mm, over a steel substrate.  The  copper sheet/steel substrate combination was cut into coupons 
+that  were mounted and highly polished  to provide flat and  parallel surfaces suitable  for Knoop  microindentations.  
+After polishing, the 0.1 μm layer of gold was electroplated over the coper to prevent corrosion.  Finally, the samples 
+were indented and the Knoop hardness measured. 
+ 
+Certification Procedure:  The Knoop microindentations are located in the center and near the four corners of the 
+block as illustrated in Figure 1.  These indentations were made in accordance with the Knoop hardness test principle, 
+in  which  a  diamond  indenter,  in  the  form  of  a  rhombic-based  pyramid,  is  forced  into  the  surface  of  a  test  piece 
+followed by measurement of the long diagonal length of the indentation left in the surface after removal of the test 
+force.  The full test force was applied for 12.5 seconds with one set of five indentations made for each load.  The 
+certified mean HK of this block at three different loads are given in Table 1. Analysis of variance (ANOVA) of all 
+data collected led to the treatment of load and position as statistically significant factors. 
+ 
+Hardness values for this SRM were obtained using a dedicated, calibrated hardness tester.  The loading mechanism 
+of  the  hardness  tester  was  calibrated  with  a  miniature  precision  load  cell  that  was  calibrated  with  NIST-certified 
+weights.  The indentation sizes were measured on an optical microscope using a filar micrometer and/or an image 
+analyzer calibrated with a NIST-certified stage micrometer.  When using the 10 X filar micrometer for measuring 
+the  indentation  size,  the  total  magnification  was  1000 X  using  a  100 X  dry  objective  lens  with  a  numerical 
+aperture (NA)  of  0.90.    For  measurement  with  the  image  analyzer,  the  microscope  100 X  dry  objective  lens  was 
+used with a 1 X video camera lens. 
+ 
+The HK is obtained by dividing the applied force to the indenter by the projected area of the permanent indentation 
+made by the diamond indenter.  The value is computed from the following equation (taking into consideration the 
+Knoop indenter geometry shown in Figure 2): 
+ 
+
+ZB 
+
+ZA
+
+Figure 2.    Knoop  indenter  geometry  showing  A,  the 
+included  longitudinal  edge  angle,  and  B,  the  included 
+transverse angle 
+
+ 
+
+HK
+
+2
+
+tan
+
+ 
+ 
+
+tan
+
+A
+
+2
+
+B
+
+2
+
+ P 
+
+2
+
+d
+
+(1) 
+
+ 
+ 
+
+ 
+Where  A and  B are the included angles for the indenter as shown in Figure 2 above, P is the applied force to the 
+indenter,  and  d  is  the  length  of  the  long  diagonal  of  the  indentation.    For  the  ideal  indenter,  A = 172°30' 
+and  B = 130°0', thus, transforming Equation 1 into: 
+ 
+ 
+
+ 
+where P is expressed in kgf and d  in mm. 
+
+HK
+
+ 
+14.229
+
+ P 
+
+2
+
+d
+
+kgf/mm
+
+2
+
+(2) 
+
+Page 2 of 4 
+
+SRM 1893 
+
+ 
+Since the units of gram-force (gf) and micrometers (µm) are normally used in this field, the constant in Equation 2 
+can be modified to accommodate the conversion factors to ease use during computation.  The equation for  Knoop 
+hardness, still expressed in kgf/mm2, becomes: 
+ 
+
+HK
+
+ 
+14229
+
+ 
+
+ P'
+
+kgf/mm
+
+2
+
+ 
+where P' is expressed in gf and d ' in µm. 
+ 
+To express the HK in SI units of GPa,  with P'' in Newtons and d in mm, the constant must be further modified to 
+obtain 
+ 
+
+d
+
+2
+
+'
+
+(3) 
+
+(4) 
+
+0.014229
+
+ P" 
+
+HK
+
+GPa
+
+2
+
+d
+
+Discussion of Uncertainty:  The uncertainty in the average certified value of the  Knoop hardness measurement is 
+expressed as an expanded uncertainty, U, at the 95 % level of confidence, and is calculated according to the method 
+described  in  the  ISO Guide [1].    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc  represents  the 
+combined  effect  of  the  individual  sources  of  uncertainty  listed  in  Table  2  and  k = 2  is  the  coverage  factor.  
+These  sources  include  uncertainties  due  to  deviations  of  the  NIST  standardizing  tester  and  indenter  from  the 
+defined requirements for the hardness test (force, diagonal measurement, test cycle, and indenter shape).  The 
+value  of  uc  is  individually  calculated  for  each  SRM  unit  and  load.    The  expanded  uncertainty,  U,  provides  an 
+indication  of  the  precision  of  NIST’s  estimate  of  the  true  value  of  the  average  hardness  of  this  SRM.    The 
+uncertainty should not be interpreted as the range in expected hardness values that would be measured across the test 
+surface,  nor  is  it  a  limit  of  acceptable  hardness  values  for  verifying  the  hardness  equipment.    Similarly,  the 
+uncertainty components listed in Table 2 contribute to the overall uncertainty in the certified average hardness value.  
+These are not ranges of expected hardness results due to each source of uncertainty. 
+ 
+
+Table 2.  Sources of Uncertainty for the Certified Average HK 
+
+ 
+
+ 
+
+Type 
+
+Uncertainty Source 
+
+Uncertainty in kgf/mm2  
+(at the load listed) 
+
+ 
+
+0.025 kgf 
+
+  0.050 kgf 
+
+  0.100 kgf 
+
+A 
+
+Material Uniformity and 
+Measurement Repeatability 
+
+Standard Deviation, s, of 
+15 Measurements 
+
+B 
+
+Hardness Tester 
+
+ 
+
+0.569 
+
+  0.361 
+
+  0.270 
+
+Notes 
+
+/s
+
+15
+
+ 
+
+sources: 
+
+load 
+
+1bu
+ 
+  diagonal measurement 
+ 
+indenter 
+  dwell time 
+
+u b
+
+2
+
+h
+
+/
+
+3
+
+ 
+
+B 
+
+Standardizing Indenter (bias) 
+
+–1.20 
+
+–1.20 
+
+–1.22 
+
+ 
+ 
+For each load, one indentation is made at each of the five positions shown in Figure 1.  The long diagonal of each 
+indentation  is  measured  three  times.    The  average  value  for  the  diagonal  length  and  the  corresponding  standard 
+deviation are listed as information values in Table 3.  The average of the 15 hardness values calculated using each 
+diagonal length is used as the certified hardness value.  The standard deviation for the average of the measurements 
+, where s is the sample standard deviation.  
+of the five indents is calculated as the Type A uncertainty given by 
+1bu with  its  sources 
+For the Type B uncertainty, two components are considered.  The first component  is denoted 
+,  is  due  to  indenter  bias.    The  bias  error  is  considered  to  have  a 
+
+listed  in  Table 2.    The  second  component, 
+
+/s
+
+15
+
+uniform distribution with the magnitude of the bias corresponding to the height of such distribution, denoted as h.  
+
+Therefore, 
+
+the  standard  uncertainty 
+
+is 
+
+h
+
+/
+
+3
+
+. 
+
+  The 
+
+two  components  are  combined  using  a 
+
+2bu
+
+u b
+
+2
+
+root-sum-of-squares (RSS)  calculation,  to  yield  the  standard  uncertainty, 
+
+u
+
+b
+
+u
+
+2
+b
+
+1
+
+u
+
+2
+b
+
+2
+
+.    Finally,  the  standard 
+
+uncertainty  of  the  mean,  uc,  is  a  combination  of  the  Type A  and  the  Type B  uncertainty,  also  by  using  RSS 
+calculation. 
+
+SRM 1893 
+
+Page 3 of 4 
+
+ 
+
+Table 3.  Information Values 
+
+Load 
+
+Length of the Long Diagonal 
+
+  N 
+
+(kgf) 
+
+ 
+
+Mean, µm 
+
+Standard Deviation, s, µm 
+
+0.245 
+
+(0.025) 
+
+  SAMPLE 
+
+0.490 
+
+(0.050) 
+
+  SAMPLE 
+
+0.980 
+
+(0.100) 
+
+  SAMPLE 
+
+SAMPLE 
+
+SAMPLE 
+
+SAMPLE 
+
+ 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE  
+ 
+The  metallic  block  is  durable  but  may  be  susceptible  to  tarnish  or  corrosion  in  an  environment  of  high  humidity 
+and/or acidic sulfur or chlorine-bearing gases or liquids.  Oils, fingerprints, or skin oils should be removed from the 
+SRM before and after use.  The SRM unit may be cleaned with ethyl alcohol and soft wipe materials.  The surface 
+polish should be protected from abuse.  The blocks must  NEVER BE REPOLISHED, as this will invalidate the 
+certification. 
+ 
+This SRM is intended for use with microhardness testing machines whereby a Knoop indentation can be made and 
+then measured with an optical microscope.  When using this SRM, a minimum of five indentations must be made 
+for comparison to the certified mean Knoop hardness value and expanded uncertainty. 
+ 
+When making new indentations in the block, special care should be taken to ensure that the loading rates and load 
+duration are as prescribed by the applicable Knoop hardness test method standard.  There should be no vibrations or 
+impact imparted to the machine during the indentation cycle.  The surface of the test block and the indenter must be 
+clean  and  should  not  contain  skin  oils,  which  could  alter  the  friction  between  the  indenter  and  block  surface.  
+Indentations may be placed in any region of polished surface provided that they are not within 1.9 mm of any edge, 
+since  slight  edge  rounding  from  polishing  can  distort  the  indentation  shape  and  affect  the  size.    Guidelines  for 
+indentation spacing can be found in applicable Knoop hardness test method standards. 
+ 
+When measuring indentations, proper illumination and focus of the indentation tips are critical to obtain good clarity 
+and contrast.  The apparent indentation size will be affected by the magnification used since the numerical aperture 
+of the objective lens establishes the resolution limits. 
+ 
+Magnifications should be checked by use of a calibrated stage micrometer.  FSilar micrometers and image analyzing 
+systems should be calibrated with stage micrometers.  Proper use of filar crosshairs is essential.  For best results, it is 
+critical that the instructions of the hardness machine manufacturer and the applicable Knoop hardness test method 
+standard be followed.  Additional information on the preparation of this SRM can be found in references 2 and 3. 
+ 
+
+REFERENCES 
+
+ 
+[1]  JCGM 100:2008;  Evaluation  of  Measurement  Data 
+
+  Guide  to  the  Expression  of  in  Measurement  (ISO 
+GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sep 2012);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2012). 
+
+[2]  Kelley, D.R.;  Johnson, C.E.;  Lashmore, D.S.;  Electroformed  Microhardness  Standards;  Proceedings 37th 
+
+Meeting of the Mechanical Failure Prevention Group, Cambridge University Press, pp. 55-58 (1984). 
+
+[3]  Kelley, D.R.;  Johnson, C.E.;  Lashmore, D.S.;  Fabrication  and  Certification  of  Electroformed  Microhardness 
+Standards; Proceedings of IMS/ASTM Meeting, ASTM Special Technical Publication 889, pp. 186-195 (1985). 
+
+ 
+ 
+Certificate Revision History:  04 September 2012 (Certification procedure updated; editorial changes); 20 July 2011 (Original certificate date). 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.   This can be accomplished by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 1893 
+
+Page 4 of 4 
+
+

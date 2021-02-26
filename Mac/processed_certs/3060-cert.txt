@@ -1,0 +1,330 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3060 
+ 
+Monoester Phthalates in Acetonitrile 
+
+the  calibration  of  ch 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  calibration  of  chromatographic 
+instrumentation.  A unit of SRM 3060 consists of five 2 mL ampoules, each containing approximately 1.2 mL of an 
+acetonitrile solution of monoester phthalates. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values for monoester phthalates listed in Table 1 are 
+based on results obtained from the gravimetric preparation of this solution and from the analytical results determined 
+by  using  liquid  chromatography (LC) [1,2].    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account.  
+ 
+Reference Mass Fraction Values:  The reference mass fractions values for monoester phthalates listed in Table 2 are 
+based on results obtained from the gravimetric preparation of the solution and from the analytical results determined 
+by using liquid chromatography.  Reference values are values that are the best estimates of the true values; however, 
+the values do not meet the NIST criteria for certification and are provided with associated uncertainties that may reflect 
+only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical 
+agreement among multiple analytical methods [1]. 
+ 
+Information Mass Fraction Value:  An information mass fraction value for monoester phthalates is listed in Table 3.  
+An information value is considered to be a value that will be of interest and use to the SRM user, but insufficient 
+information is available to assess the uncertainty associated with the value [1].  Information values cannot be used to 
+establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 3060 is valid, within the measurement uncertainty specified, 
+until  30 April 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+icate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  on  this  SRM  was  under  the  direction  of 
+J.R. Kucklick and J.L. Reiner of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation for this SRM was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Analytical  measurements  were  performed  by  B.A. Benner Jr.,  A.S.P. Boggs,  J.R. Kucklick,  and  J.L. Reiner  of  the 
+NIST Chemical Sciences Division.  
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  26 July 2016 
+SRM 3060 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials
+Page 1 of 3 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+cal  Sciences 
+
+on  this 
+
+B.A. 
+
+s 
+
+; 
+
+  
+
+130 
+
+s0sal  methods. 
+
+INSTRUCTIONS FOR USE 
+ 
+Handling:  This material contains monoester phthalates, many of which have been reported to have toxic properties, 
+and should be handled with care.  Use proper disposal methods.  Please refer to the Safety Data Sheet for additional 
+health and safety information. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C. 
+ 
+Opening of Ampoule:  Open ampoules carefully to prevent contamination and injury.  The ampoules are pre-scored 
+and  should  NOT  be  opened  using  a  file.    Sample  aliquots  for  analysis  should  be  withdrawn  at  20 °C  to  25 °C 
+immediately after opening the ampoules and should be processed without delay for the values in Tables 1 and 2 to be 
+valid within the stated uncertainties.  Certified values are not applicable to material stored in ampoules that have been 
+opened for more than 5 min, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+SRM  Preparation:    The  monoester  phthalates  used  in  the  preparation  of  this  SRM  were  obtained  from  CanSyn 
+then
+Chemical  Corporation  (Toronto, Ontario,  Canada).    The  solution  was  prepared  at  NIST  by  weighing  and  then 
+dissolving the individual monoester phthalates into acetonitrile.  The total mass of this solution was measured, and the 
+mass fractions were determined for the components.  This bulk solution was then chilled to approximately –5 °C, and 
+1.2 mL aliquots were dispensed into 2 mL amber glass ampoules that were then flame sealed.  
+ 
+Liquid Chromatographic Analysis:  Aliquots from ampoules selected by a stratified random sampling were analyzed 
+by  using 
+tandem  mass  spectrometry (LC-MS/MS)  on  a  Betasil  Phenyl  column 
+(150 mm x 2.1 mm  x  3.0 µm,  Thermo  Scientific,  Waltham, MA).    An  internal  standard  solution  containing 
+13C-labeled  monoester  phthalates  was  added  to  each  sample  for  quantification  purposes.    Calibration  solutions 
+consisting  of  weighed  amounts  of  the  monoester  phthalates  and  internal  standard  compounds  in  acetonitrile  were 
+chromatographically analyzed to determine analyte response factors.  
+ 
+Certified Mass Fraction Values:  Each certified value, is a mean of average mass fractions, with one average from 
+gravimetric preparation and one average from chromatographic measurements.  The measurand is the mass fraction 
+for each monoester phthalate listed in Table 1.  The uncertainty provided with each value is an expanded uncertainty 
+about the mean to cover the measurand with approximately 95 % confidence.  The expanded uncertainty is calculated 
+as  U = kuc,  where  the  combined  uncertainty  uc  incorporates  the  observed  difference  between  the  results  from  the 
+methods and their respective uncertainties, consistently with the ISO/JCGM Guide and its Supplement 1, and k = 2 is 
+a coverage factor corresponding to approximately 95 % confidence [3–5].  Metrological traceability is to the derived 
+SI unit for mass fraction (expressed as milligrams per kilogram). 
+ 
+ 
+ 
+
+liquid  chromatography 
+
+Table 1.  Certified Mass Fractions Values for SRM 3060 Monoester Phthalates in Acetonitrile 
+
+ 
+
+ 
+
+Monoester Phthalate 
+
+CAS Number 
+
+Monobutyl phthalate 
+Monobenzyl phthalate 
+Mono(7-carboxyheptyl) phthalate 
+Mono(2-ethyl-5-carboxypentyl) phthalate 
+Mono(2-ethylhexyl) phthalate 
+Mono(2-ethyl-5-oxohexyl) phthalate 
+Monoethyl phthalate 
+Monoisobutyl phthalate 
+Monomethyl phthalate 
+ 
+
+131-70-4 
+2528-16-7 
+856869-57-3 
+40809-41-4 
+4376-20-9 
+40321-98-0 
+2306-33-4 
+30833-53-5 
+4376-18-5 
+
+Mass Fraction 
+(mg/kg) 
+
+3.29  ±  0.12 
+
+  32.7  ±  0.4 
+  15.3  ± 
+ 1.3 
+ 
+  21.7  ±  0.9 
+ 
+  13.3  ±  0.9 
+  131 
+  17.7  ±  0.2 
+ 
+
+±  3 
+
+3.03  ±  0.04 
+
+3.30  ±  0.10 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3060 
+
+Page 2 of 3 
+
+Reference Mass Fraction Values:  Each reference value is a mean of average mass fractions, with one average from 
+gravimetric preparation and one average from chromatographic measurements.  The measurand is the mass fraction 
+for each monoester phthalate listed in Table 2 as determined by the methods indicated.  The uncertainty provided with 
+each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  
+The  expanded  uncertainty  is  calculated  as  U = kuc,  where  the  combined  uncertainty  uc  incorporates  the  observed 
+difference between the results from the methods and their respective uncertainties, consistently with the ISO/JCGM 
+Guide and its Supplement 1, and k = 2 is a coverage factor corresponding to approximately 95 % confidence [3–5].  
+Metrological traceability is to the derived SI unit for mass fraction (expressed as milligrams per kilogram). 
+ 
+ 
+
+Table 2.  Reference Mass Fractions Values for SRM 3060 Monoester Phthalates in Acetonitrile 
+
+ass  Fractions  Values 
+
+Monoester Phthalate 
+
+CAS Number 
+
+Mono(2-ethyl-5-hydroxyhexyl) phthalate 
+Mono(3,5,5-trimethylhexyl) phthalate 
+Monooctyl phthalate 
+
+40321-99-1 
+297182-83-3 
+5393-19-1 
+
+Mass Fraction 
+(mg/kg) 
+
+  17.2  ±  3.0 
+ 0.38 
+3.39  ± 
+ 
+3.59  ±   0.66 
+ 
+
+ 
+ 
+Information  Mass  Fraction  Value:    The  information  value  was  determined  by  the  gravimetric  preparation.    No 
+uncertainty is provided because there is insufficient information available for its assessment. 
+ 
+
+Table 3.  Information Mass Fraction for SRM 3060 Monoester Phthalates in Acetonitrile 
+
+Monoester Phthalate 
+
+CAS Number 
+
+Mass Fraction 
+(mg/kg) 
+
+Mono(3-carboxypropyl) phthalate 
+
+66851-46-5 
+
+6.23 
+
+ 
+
+ 
+
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials 
+for 
+260-136, 
+U.S. Government Printing Office: Washington, DC (2000);  
+available at http://www.nist.gov/srm/upload/SP260-136.PDF (accessed July 2016). 
+
+Chemical  Measurements;  NIST 
+
+Publication 
+
+Special 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+Publication 811;  U.S.  Government 
+www.nist.gov/pml/pubs/index.cfm/ (accessed July 2016). 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data − Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  July 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed July 2016).  
+
+[4]  JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement”  -  Propagation  of  Distributions  using  a  Monte  Carlo  Method;  JCGM (2008); 
+available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed July 2016). 
+
+;  Chapman  &  Hall  (1993).
+[5]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 3060 
+
+Page 3 of 3 
+
+

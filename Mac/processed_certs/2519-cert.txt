@@ -1,0 +1,887 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+
+ 
+Standard Reference Material 2519 
+ 
+Wavelength Calibration Reference for 1530 nm – 1560 nm 
+—  1560  nm 
+Hydrogen Cyanide H13C14N 
+ 
+01020108
+Serial No.:  01020108 
+
+ 
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  calibrating  the  wavelength  scale  of  wavelength 
+measuring  equipment  in  the  spectral  region  from  1528  nm  to  1563 nm.    SRM  2519  is  an  optical-fiber-coupled 
+absorption  cell  containing  hydrogen  cyanide  (H13C14N)  gas.    Hydrogen  cyanide  has  more  than  50  accurately 
+measured absorption lines in the 1500 nm wavelength region. 
+ 
+Certified  Wavelength  Values:    The  vacuum  wavelengths  of  absorption  lines  in  the  R  and  P  branch  of  the  2ν3 
+rotational-vibrational band of H13C14N have been measured previously to high accuracy [1].   NIST has measured the 
+line  centers  and  pressure-induced  shifts  of  21  lines  and  certified  their  wavelengths  with  an  expanded  uncertainty 
+(coverage  factor  k  =  2)  of  ±  0.0006  nm.    The  remainder  of  the  lines  in  the  band  are  certified  with  an  expanded 
+uncertainty  of  ±  0.003  nm,  where  the  uncertainty  is  dominated  by  the  pressure  shift  uncertainty.    Details  of  the 
+measurement procedure and data analysis for the determination of the pressure shift can be found in reference 2.  A 
+spectrum of the absorption band is shown in Figure 1 and certified wavelength values are given in Table 1.  Figure 2 
+shows a higher resolution scan near lines P10 and P11. 
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  is  indefinite  within  the  measurement  uncertainties 
+specified, provided the SRM is handled, stored, and used in accordance with the instructions given in this certificate. 
+  
+Storage and Handling:  The protective caps provided for the FC/PC fiber connectors should be replaced when the 
+SRM is not in use.  This SRM is intended to be used in a laboratory environment near ambient room temperature 
+(22 °C ± 5 °C).  Optical alignment is critical; the user should avoid exposing the unit to large temperature variations, 
+temperature  cycling,  or  mechanical  shock,  as  these  may  cause  the  optical  alignment  to  degrade.    Optical 
+misalignment  affects  the  throughput  of  the  SRM  but  will  not  shift  the  centers  of  the  absorption  lines.    A  more 
+serious, but less likely problem, is cell breakage or leakage.  The unit should be replaced if the linewidths or depths 
+differ significantly from those shown in Figures 1 and 2 (when measured using comparable resolution). 
+  
+Development  of  the  SRM  and  supporting  measurements  were  performed  by  S.L.  Gilbert  and  W.C.  Swann  of  the 
+NIST Optoelectronics Division. 
+ 
+Statistical consultation was provided by C.M. Wang of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved in the preparation, certification, and issuance of this SRM were coordinated through 
+the NIST Standard Reference Materials Program by C.S. Davis of the NIST Measurement Services Division. 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 November 2003 
+See Certificate Revision History on Last Page 
+ 
+
+  
+
+SRM 2519 
+
+Kent B. Rochford, Chief 
+Optoelectronics Division 
+
+John Rumble, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 6 
+
+ 
+Table 1.  Certified Wavelengths for SRM 2519 
+
+ 
+The table lists the vacuum wavelengths of line centers in the H13C14N 2ν3 band for the 13.3 kPa (100 Torr) SRM cell 
+an  expanded  uncertainty  (coverage  factor 
+pressure.    The  21  lines  that  were  measured  at  NIST  are  certified  with  an  expanded  uncertainty  (coverage  factor 
+k = 2) of ± 0.0006 nm.  These lines are shown in the table with a (6) indicating the uncertainty in the last digit.  The 
+‘hese  values  are  certified  with  an  expanded
+remaining line centers listed are the literature values from reference 1.  These values are certified with an expanded 
+uncertainty of ± 0.003 nm, where the uncertainty is dominated by the pressure shift uncertainty. 
+ 
+
+R Branch 
+
+P Branch 
+
+Wavelength 
+(nm) 
+
+1528.054 
+
+1528.4862(6) 
+
+1528.9271(6) 
+
+1529.376 
+
+1529.8376(6) 
+
+1530.306 
+
+1530.786 
+
+1531.2764(6) 
+
+1531.774 
+
+1532.283 
+
+1532.8024(6) 
+
+1533.329 
+
+1533.867 
+
+1534.4159(6) 
+
+1534.972 
+
+1535.5401(6) 
+
+1536.1170(6) 
+
+1536.7034(6) 
+
+1537.2997(6) 
+
+1537.907 
+
+1538.5224(6) 
+
+1539.149 
+
+1539.786 
+
+1540.431 
+
+1541.087 
+
+1541.753 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25 
+
+24 
+
+23 
+
+22 
+
+21 
+
+20 
+
+19 
+
+18 
+
+17 
+
+16 
+
+15 
+
+14 
+
+13 
+
+12 
+
+11 
+
+10 
+
+9 
+
+8 
+
+7 
+
+6 
+
+5 
+
+4 
+
+3 
+
+2 
+
+1 
+
+0 
+
+Wavelength 
+(nm) 
+
+1543.1148(6) 
+
+1543.809 
+
+1544.515 
+
+1545.2314(6) 
+
+1545.9563(6) 
+
+1546.690 
+
+1547.435 
+
+1548.190 
+
+1548.9554(6) 
+
+1549.7302(6) 
+
+1550.5149(6) 
+
+1551.311 
+
+1552.116 
+
+1552.931 
+
+1553.756 
+
+1554.5892(6) 
+
+1555.4346(6) 
+
+1556.292 
+
+1557.157 
+
+1558.033 
+
+1558.919 
+
+1559.814 
+
+1560.7185(6) 
+
+1561.6344(6) 
+
+1562.563 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ 
+
+ 
+
+SRM 2519 
+
+Page 2 of 6 
+
+ 
+Measurement Conditions and Procedure:  The long term stability of hydrogen cyanide and the use of fundamental 
+molecular absorption lines render the SRM insensitive to changes in environmental conditions.  The purpose of the 
+certification procedure is to verify that the unit contains the correct pressure of H13C14N gas and has no significant 
+contaminants that produce additional absorption lines.  Measurements were made using a 0.05 nm resolution optical 
+spectrum analyzer.  Spectra similar to those shown in Figures 1 and 2 were taken of each SRM unit and compared 
+with  measurements  of  reference  absorption  cells  maintained  at  NIST.    High  resolution  scans using a tunable laser 
+and wavelength meter were made on at least one unit of each production run.  These scans serve to verify the center 
+wavelength of a selected line with an expanded uncertainty of less than ± 0.0006 nm. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+General Considerations:  The SRM can be used to calibrate a wavelength measuring instrument in the 1530 nm to 
+1560 nm region.  The wavelength calibration is vacuum wavelength; if the user requires the wavelength in air, the 
+appropriate correction for the index of refraction of air must be applied [3].  Depending on the type of instrument 
+being calibrated, a broadband source or a tunable narrowband source may be used. 
+ 
+Use With a Broadband Source:  A broadband source in the 1500 nm region (such as a light emitting diode, white 
+light,  or  amplified  spontaneous  emission  source)  is  useful  when  calibrating  a  low  resolution  instrument  such  as  a 
+diffraction  grating  based  optical  spectrum  analyzer  or  monochrometer.    A  schematic for this type of calibration is 
+shown  in  Figure  3(a).    Light  from  the  broadband  source  is  coupled  into  the  SRM  and  the  output  (transmission 
+through the SRM) is connected to the instrument that is being calibrated.  The absorption lines of hydrogen cyanide 
+appear as dips in the spectrum of the light source (see Figure 1). 
+ 
+Use With a Narrowband Source:  The SRM can be used to calibrate the wavelength scale of a tunable narrowband 
+source in this region (such as a diode laser or fiber laser).  Alternatively, a tunable source and the SRM can be used 
+to check the calibration of a wavelength meter, as shown in Figure 3(b).  The laser is tuned over one or more of the 
+hydrogen cyanide absorption lines.  The transmission through the SRM is monitored by a detector; the transmitted 
+power passes through a minimum at the center of an absorption line. 
+ 
+Suggested Procedure for Low-Accuracy Requirements; Calibration Uncertainty ≥ 0.1 nm:  Connect the light 
+source (either broadband or narrowband, as discussed above) to one of the fiber connectors on the SRM unit using a 
+single-mode  optical  fiber  terminated  with  a  clean  FC/PC  connector.    After  identifying  the  absorption  lines  by 
+comparing  to  the  spectrum  in  Figure  1,  find  the  center  or  the  minimum  point  of  a  line  listed  in  Table  1.    If  the 
+instrument has variable resolution, it is best to use a resolution of ≤ 0.2 nm.  For this level of accuracy, the procedure 
+used to find the line center can be quite simple: setting a cursor to the line center or minimum by eye is sufficient.  If 
+using  a  tunable  source,  simply  tune  it  to  the  transmission  minimum  of  the  line,  using  tuning  steps  of  ≤ 0.01 nm.  
+Calibrate the instrument to the wavelength of this line (from Table 1) using the calibration procedure specified by the 
+instrument  manufacturer.    The  instrument’s  linearity  can  be  checked  by  repeating  the  procedure  for  a  different 
+absorption line and comparing it to the value listed in Table 1. 
+ 
+Suggested Procedure for Moderate-Accuracy Requirements; Calibration Uncertainty in the Approximate Range 
+of 0.01 nm to 0.1 nm:  Connect the light source (either broadband or narrowband, as discussed above) to one of the 
+fiber connectors on the SRM unit using a single-mode optical fiber terminated with a clean FC/PC connector.  If the 
+source  power  varies  significantly  with  wavelength,  divide  the  SRM  transmission  spectrum  by  the  source spectrum to 
+obtain a normalized trace.  After identifying the absorption lines by comparing to the spectrum in Figure 1, make a high 
+resolution  scan  of  a  line  listed  in  Table  1.    If  the  instrument  has  variable  resolution,  it  is  best  to  use  a  resolution  of 
+≤ 0.1 nm with a data point density of at least one point every 0.005 nm. Find the wavelength readings on both sides of 
+the  line  where  the  absorption  is  50  %  of  the  maximum;  the  line  center  is  half-way  between  these  two  wavelength 
+readings.  Repeat this procedure five times and take the average of the five measurements for the line center.  Calibrate 
+the  instrument  to  the  center  wavelength  of  this  line  (from  Table  1)  using  the  calibration  procedure  specified  by  the 
+instrument  manufacturer.    The  instrument’s  linearity  can  be  checked  by  repeating  the  procedure  for  a  different 
+absorption line and comparing it to the value listed in Table 1. 
+ 
+Suggested Procedure for High-Accuracy Requirements; Calibration Uncertainty ≤ 0.01 nm:  [NOTE:  due 
+to the presence of weak nearby lines and background slope, this SRM is not recommended for a calibration with 
+an uncertainty of less than 0.001 nm.]  Connect the light source (either broadband or narrowband, as discussed 
+above) to one of the fiber connectors on the SRM unit using a single-mode optical fiber terminated with a clean 
+FC/PC connector.  Divide the SRM transmission spectrum by the source spectrum to obtain a normalized trace. 
+After identifying the absorption lines by comparing to the spectrum in Figure 1, make a high resolution scan of a 
+
+SRM 2519 
+
+Page 3 of 6 
+
+line listed in Table 1.  If the instrument has variable resolution, it is best to use a resolution of ≤ 0.1 nm with a 
+data  point  density  of  at  least  one  point  every  0.001 nm.    Using  a  fitting  technique  such  as  the  least  squares 
+technique,  fit  the  absorption  data to the appropriate lineshape (Lorentzian if the line shape is dominated by the 
+molecular absorption profile, Lorentzian convoluted with the instrument’s filter characteristics if the instrument 
+contributes significantly to the profile).  Details of line fitting procedure and potential error sources can be found 
+in reference 2.  Calibrate the instrument to the center wavelength of this line (from Table 1) using the calibration 
+procedure specified by the instrument manufacturer.  The instrument’s linearity can be checked by repeating the 
+procedure for a different absorption line and comparing it to the value listed in Table 1. 
+ 
+ 
+ 
+
+  
+
+R Branch
+
+P Branch
+
+26
+
+24
+
+22
+
+28
+
+26
+
+24
+
+22
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+e
+c
+n
+a
+
+t
+t
+i
+
+m
+s
+n
+a
+r
+T
+d
+e
+z
+
+ 
+
+i
+l
+
+a
+m
+r
+o
+N
+
+0
+
+1
+
+1
+
+2
+
+20
+
+18
+
+  
+
+16
+
+  
+
+  
+
+14
+
+  
+
+  
+
+  
+
+2
+
+  
+
+3
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+3
+
+  
+
+4
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+14
+
+  
+
+  
+
+  
+
+  
+
+12
+
+20
+
+18
+
+16
+
+8
+
+6
+
+5
+
+7
+
+4
+
+12
+
+109
+
+10 9 8 7 6 5
+
+    
+  
+
+ 
+
+0.0
+
+1525
+
+1530
+
+1535
+
+1540
+
+1545
+Wavelength (nm)
+
+1550
+
+1555
+
+1560
+
+1565
+
+ 
+Figure 1.  Hydrogen cyanide (H13C14N) spectrum taken by passing LED light through a SRM unit and recording the 
+spectrum of the transmitted light using an optical spectrum analyzer with 0.05 nm resolution.  The figure shows the 
+recorded  spectrum  divided  by  the  LED  spectrum.    The  HCN  gas  pressure  is  13 kPa  and  the  optical  path  length 
+through the gas is 22.5 cm. 
+ 
+
+ 
+
+SRM 2519 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+e
+c
+n
+a
+t
+t
+i
+
+m
+s
+n
+a
+r
+T
+d
+e
+z
+
+ 
+
+i
+l
+
+a
+m
+r
+o
+N
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+  
+
+P10
+
+P11
+
+    
+  
+
+ 
+
+1549.5
+
+1550.0
+
+1550.5
+
+1551.0
+
+Wavelength (nm)
+
+Figure 2.  The P10 and P11 lines from Figure 1 on an expanded wavelength scale to show lineshape.  
+
+ 
+
+SRM 2519 
+
+Page 5 of 6 
+
+  
+
+  
+
+  
+
+  
+
+(a)
+
+SRM
+Unit
+
+  
+
+Broadband
+Source
+
+Optical
+Spectrum
+Analyzer
+
+       
+  
+
+      
+    
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.  (a) Schematic of technique when using the SRM and a broadband source to calibrate an optical spectrum 
+analyzer.  (b) Schematic of technique when using the SRM and a narrowband source to calibrate a tunable laser or a 
+wavelength meter.  The wavelength meter is not required for a laser calibration. 
+ 
+ 
+ 
+ 
+[1]  Sasada, H.; Yamada, K.; Calibration Lines of HCN in the 1.5-μm Region; Appl. Opt., Vol. 29, pp. 3535-3547 
+
+    
+  
+
+SRM
+  
+    
+Unit
+
+Tunable
+Narrowband
+Source
+
+Wavelength
+Meter
+
+Detector
+    
+
+    
+
+REFERENCES 
+
+29,  pp.  3535- 
+
+(b)
+
+n  the  1.5- 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+(1990). 
+
+[2]  Gilbert,  S.L.;  Swann,  W.C.;  Wang,  C.M.;  Standard  Reference  Materials:    Hydrogen  Cyanide  H13C14N 
+Absorption Reference for 1530-1560 nm Wavelength Calibration – SRM 2519; NIST Special Publication 260-
+137 (1998). 
+
+Hydrogen  Cyanide  H 
+catio 
+
+rd  Reference  Materials: 
+
+[3]  Edlen, B.; The Refractive Index of Air; Metrologia, Vol. 2, p. 12, (1966); and CRC Handbook of Chemistry and 
+
+CRC  Han 
+
+Physics; 77th Ed., pp. 10-266 (1996). 
+
+ 
+ 
+ 
+  
+|   
+1998  (Original  certificate  date). 
+Certificate Revision History:  05 November 2003 (This certificate reflects editorial and contact changes); 23 July 1998 (Original certificate date). 
+ 
+ 
+ 
+ 
+This  can  be  accomplished  by
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This can be accomplished by 
+contacting  the  SRM  Program  at:  telephone  (30l) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+ 
+ 
+
+current. 
+
+SRM 2519 
+
+Page 6 of 6 
+
+

@@ -1,0 +1,222 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 2139 
+
+ 
+
+ 
+Zinc-Aluminum Alloy  
+ 
+(In cooperation with the ASTM International) 
+ 
+This Standard Reference Material (SRM) is in the form of milled chips intended for use with chemical methods of 
+analysis.  This material is one in a series of seven zinc base alloys prepared to cover a range of aluminum and lead 
+compositions of interest to the zinc and galvanizing industries.  The other zinc alloys in this series are SRMs 1736, 
+1737,  1738,  1739,  1740,  1741,  and  1742,  all  in  disk  form.    SRM  1739  is  the  same  material  as  SRM  2139  but 
+supplied in disk form. 
+ 
+Certified values for aluminum and lead are given in Table 1.  The analytical methods used for the characterization 
+of this SRM were flame atomic absorption spectrometry (FAAS) and inductively coupled plasma optical emission 
+spectrometry (ICP-OES).  All values are reported as mass fractions [1]. 
+ 
+Certified  Values  and  Uncertainties:    A  NIST-certified  value  is  the  present  best  estimate  of  the  true  value  for 
+which  NIST  has  the  highest  confidence  in  its  accuracy,  in  that  all  known  or  suspected  sources of bias have been 
+investigated or accounted for by NIST.  Each certified value is the mean of the laboratory means.  The uncertainty 
+in  each  certified  value  is  expressed  as  the  expanded  uncertainty,  U,  at  the  95  %  level  of  confidence,  and  is 
+calculated according to the method described in the ISO Guide [2].  The expanded uncertainty is calculated as U = 
+kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the  combined  effects  of  material 
+inhomogeneity, and between-laboratory and within-laboratory components of uncertainty.  The coverage factors, k 
+= 2.57 for Al and k = 2.37 for Pb are determined from the Student’s t-distribution corresponding to five and seven 
+degrees of freedom, respectively, and 95 % confidence for each analyte.  
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2139  is  valid  indefinitely,  within  the  measurement 
+uncertainties  specified,  provided the SRM is handled in accordance with instructions given in this certificate (see 
+“Instructions for Use”).  This certification is nullified if the SRM is damaged, contaminated, or modified.   
+ 
+Analytical consultation was provided by J.R. Sieber of the NIST Analytical Chemistry Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+Statistical analyses of the homogeneity and certification data were provided by S.B. Schiller and N.F. Zhang of the 
+NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  31 July 2008 
+See Certificate Revision History on Page 3 
+
+SRM 2139 
+ 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Robert L. Watters, Jr., Chief 
+Standard Reference Materials Program 
+
+ 
+
+Page 1 of 3 
+
+INSTRUCTIONS FOR USE 
+ 
+On  the  basis  of  the  test  methods  used  for  value  assignment,  it  is recommended to use a minimum sample size of 
+1.0 g to obtain results representative of the values and uncertainty estimates given on this certificate.  When not in 
+use, the material should be stored in its original container in a cool, dry location. 
+ 
+
+Table 1.  Certified Values for SRM 2139 Zinc-Aluminum Alloy 
+
+ 
+
+ 
+
+ 
+
+Element  
+
+ 
+
+Mass Fraction, in % 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Aluminum 
+Lead 
+
+0.2042  ±  0.0105 
+0.0302  ±  0.0010 
+
+ 
+ 
+ 
+ 
+Overall  coordination  of  the  material  preparation,  development  of  the  analytical  procedures  to  be  used  to  produce 
+certification data, and identification of the laboratories to participate in this study was provided by S. Bélisle of the 
+Centre  de  Technologie  Noranda,  Pointe-Claire,  Québec,  Canada  and  T.  Beckwith  of  the  Zinc  Corporation  of 
+America, Monaca, PA, USA.   
+ 
+Alloy  Preparation:    Each  alloy,  using  Special  High  Grade  (SHG)  zinc  ingots  as  the  base  material,  was 
+continuously  cast  (concast)  into  bars  3  m  in  length,  then  cut  into  1.5  m  sections  for  shipment.    The  material  was 
+cast, under contract, by Zincaloy Inc.1, Mississauga, Ontario, Canada.  Homogeneity testing of each cast material 
+was  performed  under  the  direction  of  T.  Beckwith  by  the  Zinc  Corporation  of  America,  Monaca,  PA,  USA.    At 
+NIST,  samples  for  homogeneity  testing  were  cut  from  the  Start  (S)  and  Finish  (F)  ends  of  each  rod.    Following 
+NIST evaluation of the homogeneity data, all the rods for SRMs 1736, 1737, 1738, 1740, 1741, and 1742 were cut 
+into disks.  For SRM 1739, half of the rods were made into disks while the remaining rods were milled to produce 
+chips and designated SRM 2139.  Disks from each SRM were then selected in accordance with the NIST statistical 
+plan, milled into chips, and samples were sent to the laboratories participating in the study. 
+ 
+Collaborating Laboratories: 
+ 
+Zinc Corporation of America, Monaca, PA, USA; T. Beckwith and M. Shiring 
+Centre de Technologie Noranda, Pointe-Claire, Québec, Canada; S. Bélisle and  M. Habib 
+Big River Zinc Corporation, Sauget, IL, USA, G. Fogleman 
+Hudson Bay Mining and Smelting Co., Ltd., Flin Flon, Manitoba, Canada; W. Friesen 
+Falconbridge Ltd., Kidd Creek Division, Timmins, Ontario, Canada; D. McGuire 
+Asturiana de Zinc, S.A., Avilés (Asturias), Spain; C. Muruzábal 
+Industrial Minera Mexico, S.A. de C.V., San Luis Potosi, S.L.P., Mexico; M. Nolan 
+Union Miniere, BU Zinkraffinage, Balen, Belgium; R. Pankert 
+Met-Mex Penoles, S.A. de C.V., Torreon, Coah, Mexico; A. Trevino and M. Ramirez O. 
+Norzink AS, Odda, Norway; V. Vetti and J. Preim 
+Outokumpu Zinc Oy, Kokkola, Finland; T. Witting and J. Urpinen 
+
+                                                 
+
+1 Certain commercial equipment, instrumentation, or materials are identified in this certificate to specify adequately the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the NIST, nor does it imply that 
+the materials or equipment identified are necessarily the best available for the purpose. 
+ 
+SRM 2139 
+ 
+
+Page 2 of 3 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Taylor, B.N.; Guide for the Use of the International System of Units (SI), NIST Special Publication 811, U.S. 
+
+Government Printing Office:  Washington, DC (1995). 
+
+[2]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization:  Geneva, Switzerland (1993); see Taylor, B.N.; Kuyatt, C.E.; Guidelines for 
+Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297, 
+U.S. Government Printing Office:  Washington, DC (1994). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  31 July 2008 (Removal of expiration date and editorial changes); 26 October 1998 (Original certificate date). 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; Fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+SRM 2139 
+ 
+
+ 
+
+Page 3 of 3 
+
+

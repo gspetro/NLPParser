@@ -1,0 +1,260 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 2842 
+
+ 
+
+ 
+
+ 
+Semiconductor Thin Film:  AlxGa1-xAs Epitaxial Layers 
+ 
+(Al mole fraction x near 0.30) 
+ 
+Serial Number:  SAMPLE 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  use  as  a  reference  standard  for  analytical  methods  that 
+measure  the  composition  of  thin  films,  such  as  electron  microprobe  analysis (EMPA),  photoluminescence (PL), 
+auger electron spectroscopy (AES) and X-ray photoelectron spectroscopy (XPS).  A unit of SRM 2842 consists of 
+an  epitaxial  layer  of  AlxGa1-xAs  with  certified  Al mole fraction x  grown  on  a  gallium  arsenide (GaAs)  substrate 
+mounted to a stainless steel disk by the use of adhesive tape.  Each unit is sealed in a Mylar envelope containing a 
+nitrogen  atmosphere.    Proper  use  of  the  SRM  as  a  comparison  standard  depends  on  the  analytical  method  (see 
+“Measurement Conditions and Procedures” and NIST Special Publication 260-163 [1]). 
+ 
+Certified Aluminum Value:  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or accounted for by NIST [2].  The 
+certified value for the aluminum (Al), expressed as a mole fraction, is provided in Table 1.  The certified value is 
+based on a confirmed correlation between Al mole fraction and the energy of the peak intensity in the PL spectrum 
+of the film [3,4].  The uncertainty of the certified value is an expanded uncertainty (k = 2) intended to approximate a 
+95 %  level  of  confidence [5].    Two  additional  quality  checks  were  performed  on  each  SRM  unit.    First,  the 
+molecular  beam  epitaxy  growth  system  was  monitored  during  the  growth  of  the  specimen.    For  acceptance  as  an 
+SRM, the Al mole fraction determined from the intensity oscillations of reflection high energy electron diffraction 
+for each unit had to agree with the certified value above within its expanded uncertainty.  Second, the free carrier 
+concentration of the film had to be between 1 × 1016 cm–3 and 5 × 1016 cm–3. 
+ 
+
+Table 1.  Certified Value (mole fraction) for Aluminum in SRM 2842 
+
+Aluminum:  SAMPLE    SAMPLE 
+
+ 
+ 
+ 
+Expiration of Certificate:  The certification of SRM 2842 is valid, within the measurement uncertainty specified, 
+until  01 August 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.  Surface oxidation and contamination will increase through use and storage of 
+the specimen.  For applications that are sensitive to surface contamination, the SRM and unknown specimens will 
+require in situ cleaning, typically light sputtering.  The SRM should be replaced if sputtering the film causes it to 
+visibly roughen or to show signs of selective sputtering. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  of  SRM 2842  was  provided  by 
+K.A. Bertness of the NIST Quantum Electronics and Photonics Division. 
+ 
+Statistical consultation was provided by C.-M. Wang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+
+Kent Rochford, Chief 
+Quantum Electronics and Photonics Division 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  18 October 2011 
+Certificate Revision History on Last Page 
+
+SRM 2842 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 3 
+
+Reference Photoluminescence Peak Energy Value:  A NIST reference value is a noncertified value that is the best 
+estimate  of  the  true  value  based  on  available  data;  however,  the  value  does  not  meet  the  NIST  criteria  for 
+certification [2]  and  is  provided  with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility, 
+may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple 
+analytical methods.  The reference value and expanded uncertainty (k = 2) for the energy of the peak intensity of the 
+PL spectrum for this SRM composition value is provided in Table 2.  The value has been corrected to an excitation 
+volume temperature equivalent of 25.2 °C including a laser heating correction of 0.1 °C above ambient temperature. 
+ 
+Table 2.  Reference Energy Value for the Peak Intensity of the PL Spectrum of SRM 2842 
+
+PL Spectrum:  SAMPLE eV    SAMPLE eV 
+
+ 
+ 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage and Handling:  AlGaAs is a stable chemical compound but the film is subject to surface contamination and 
+oxidation  during  storage  and  handling.    The  SRM  should  be  stored  in  a  dust-free  nitrogen  atmosphere  or  under 
+vacuum at temperatures below 50 °C.  Incidental exposure to air for transport to or use in an analysis system was not 
+seen  to  produce  significant  contamination  until  such  exposure  exceeds  thousands  of  hours.    The  SRM  should  be 
+handled by the metal mounting disk with clean, nonmetallic tweezers, without contacting the semiconductor region.  
+Particulate contamination of the semiconductor surface may be removed with deionized water or dry nitrogen flow, 
+and users must confirm that additional contamination has not been introduced.  The adhesive tape used to mount the 
+semiconductor to the stainless steel disk is soluble in isopropanol, acetone, and other organic solvents, and use of 
+those solvents could result in adhesive or tape particles  migrating to the specimen surface.  Extreme edges of the 
+specimen surface should be excluded from analysis. 
+ 
+Measurement  Conditions  and  Procedures:    Analytical  methods  vary  in  their  sensitivity  to  materials  properties 
+unrelated to the film composition.  A list of potential complications is provided in Table 3.  Glow discharge mass 
+spectrometry (GDS)  and  secondary 
+time-of-flight 
+SIMS (TOF-SIMS), are included.  More detailed discussion is contained in reference 1. 
+ 
+
+ion  mass  spectrometry (SIMS),  both  conventional  and 
+
+Table 3.  Potential Confounding Factors in Comparisons Between SRM 2842 and AlGaAs Test Films of Unknown 
+Composition. 
+
+X-ray Rocking Curves 
+
+AES, XPS, TOF-SIMS 
+
+ 
+ 
+Method 
+ 
+PL 
+
+SIMS, GDS 
+
+EMPA 
+
+ 
+ 
+
+Comments on Comparison Measurements 
+
+ 
+Wavelength  calibration, 
+low  doping  concentration,  and  specimen 
+temperature  correction  required [3].    Thin  layers  may  display  quantum 
+confinement energy shifts. 
+ 
+Not recommended for high accuracy comparisons. 
+ 
+Surface  oxides  and  hydrocarbons  alter 
+remove  surface 
+contamination  by  sputtering  both  SRM  film  and  test  film.    Monitor  for 
+selective sputtering.  Sampling depth may be an issue for thin test films. 
+ 
+Ignore  data  points  from  outer  10 nm  of  film.    Monitor  for  selective 
+sputtering, development of surface topography, and matrix effects. 
+ 
+Compare  films  of  similar  thickness  or  of  uniform  composition  over 
+sampling depths. 
+
+results; 
+
+ 
+
+SRM 2842 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+Bertness, K.A.;  Harvey T.E.;  Wang, C.-M.;  Paul, A.J.;  Robins, L.H.;  Composition  Standards  for  AlGaAs 
+Epitaxial Layers; NIST Special Publication 260-163; U.S. Government Printing Office:  Washington, DC 
+(2006). 
+May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.;  Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST 
+for 
+Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260-136; 
+U.S. Government Printing Office: Washington, DC (2000); available at 
+http://www.nist.gov/srm/publications.cfm (accessed Oct 2011). 
+Robins, L.H.;  Armstrong, J.T.;  Marinenko, R.B.;  Paul, A.J.;  Pellegrino, J.G.;  Bertness, K.A.;  J.  Appl. 
+Phys., Vol. 93, pp. 3747–3759 (2003). 
+Bertness, K.M.;  Wang, C.-M.;  Salit, M.L.;  Turk, G.C.;  Butler, T.A.;  Paul, A.J.;  Robins, L.H.; 
+High-accuracy  Epitaxial  AlGaAs  Composition  Determination  with  Inductively  Coupled  Plasma  Optical 
+Emission Spectroscopy; J. Vac. Sci. Technol., B, Vol. 24, No. 2, pp. 762–767 (2006). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  -  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); 
+available 
+(accessed 
+Oct 2011); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty 
+of  NIST  Measurement  Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office: 
+Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Oct 2011). 
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    18 October 2011  (Extension  of  certification  period;  editorial  changes);  30 January 2007  (Original  certificate 
+date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 926-4751; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 2842 
+
+Page 3 of 3 
+
+

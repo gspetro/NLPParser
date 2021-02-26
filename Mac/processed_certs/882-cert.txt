@@ -1,0 +1,470 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 882 
+ 
+y  (65Ni 
+Nickel-Copper Alloy (65Ni-31Cu-3Al) 
+(granule form) 
+
+- 
+
+- 
+
+ 
+This Standard Reference Material  (SRM) is intended primarily for use in validation of chemical and instrumental
+ 
+methods of analysis for element contents of nickel and nickel-copper alloys and materials of similar matrix.  It can be 
+containing 
+used to validate value assignment of in-house reference materials.  A unit of SRM 882 consists of one bottle containing 
+approximately 100 g of granules. 
+ 
+Certified  Mass Fraction  Values:   Certified  values for constituents  of  SRM 882  are  reported  in Table  1  as mass 
+fractions of the elements in a  nickel-copper alloy matrix [1].  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been taken into account [2].  
+A certified value is the present best estimate of the true value.  The certified values are metrologically traceable to the 
+SI  derived unit   for  mass fraction   (expressed as percent) .    The expanded uncertainty estimates are expressed at a 
+confidence level of approximately 95 %. 
+ 
+ 
+
+tof  SRM 
+
+Values  f 
+Table 1.  Certified Mass Fraction Values for SRM 882 Nickel-Copper Alloy 
+
+ 
+Constituent 
+
+Aluminum (Al) 
+Carbon (C) 
+Copper (Cu) 
+Iron (Fe) 
+Nickel (Ni) 
+Titanium (Ti) 
+
+Mass Fraction 
+(%) 
+
+Expanded Uncertainty 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.845 
+0.0065 
+
+31.035 
+
+0.0093 
+
+65.25 
+
+0.565 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.054 
+0.0016 
+0.075 
+0.0015 
+0.11 
+0.012 
+
+. 
+
+LT 
+
+SRM 
+
+in accordance with instructions given in this certificate (see 
+
+ 
+ 
+Expiration of Certification:  The certification of SRM 882 is valid indefinitely within the measurement uncertainty 
+h  instructions  given  in  this  certificate  (see 
+specified, provided the SRM is handled and stored 
+. 
+“Instructions for Handling, Storage, and Use”).  Periodic recertification of this SRM is not required.  The certification 
+is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:   NIST will monitor this SRM over the period of its certification.  If substantive 
+surchaser. 
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements was performed by J.I.  Schultz, formerly of NIST .  Review and revision of 
+values and uncertainty estimates were coordinated by J.R. Sieber of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation for this SRM was provided by A. Possolo of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved in the issuance of this SRM were coordinated through the NIST
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+20
+Certificate Issue Date:  20 April 2020 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+  Office of Reference 
+
+were 
+
+ 
+
+Page 1 of 4 
+
+  
+
+SRM 882 
+
+k 
+
+ANDLING,  STORAGE 
+
+the 
+. 
+
+ncertainty  are  > 
+
+is  certificate, divide the expanded uncertainty by  k = 2 to obtain the 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+The nickel-copper alloy granules may be analyzed in the as-received form.  To relate analytical determinations to the 
+ing,  it 
+certified values in this Certificate of Analysis, a minimum test portion of 500 mg should be used.  Before sampling, it 
+is recommended to mix the  granules by inverting and rotating the bottle by hand for at least one minute.   A bottle 
+containing unused material should be recapped immediately and stored at room temperature away from light. 
+ 
+To use the uncertainty estimates given in th
+combined standard uncertainty.  The effective degrees of freedom of the combined standard uncertainty are ≥ 60. 
+ 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+The material for SRM  882  was  prepared by water atomization at the
+  (Sterling 
+Forest, NY).  At NIST, the material was sieved to remove very coarse and very fine particles, thoroughly blended and 
+bottled. 
+ 
+Each certified value is a n unweighted mean of the results from the  methods listed in Table 2.  The uncertainty listed 
+with each certified value is an expanded uncertainty about the mean, with coverage factor, k = 2, calculated following 
+the ISO/JCGM Guide  [3-4].   Detailed descriptions of many of the methods of analysis may be found i
+n Part  12, 
+Chemical Analysis of Metals and Metal Bearing Ores, Annual Book of ASTM Standards for 1979 [5]. 
+ 
+Analyses leading to the 
+B.I. Diamondstone,  T.C. Rains,  M.B. Blackburn,  Y. Dokiya,  and R.K. Bell,   all  formerly  of the NIST Chemical 
+Sciences Division.  Analytical determinations were also performed by 
+S.W. Drigot,  GE Automatic Electric 
+Laboratories, Inc . (N orthlake, IL);  M.M. Yanak,  International Nickel Co.
+S. Kallmann, Ledoux & Company (Teaneck, NJ). 
+ 
+ 
+
+value assignments   of this SRM were performed at NIST by 
+
+, Inc. ( Sterling Forest , NY);  and 
+
+  International Nickel Co., Inc.
+
+E.R. Deardorff, 
+
+Table 2.  Test Methods Employed in the Value Assignments of SRM 882 Nickel-Copper Alloy 
+
+Value  Assignments  of  SRM 
+
+ 
+
+ 
+ 
+
+Element 
+
+Aluminum 
+
+Carbon 
+Copper 
+Iron 
+Manganese 
+Nickel 
+Silicon 
+Sulfur 
+Titanium 
+
+Test Methods Used at NIST and Collaborating Laboratories 
+
+ 
+Flame atomic absorption spectrometry (FAAS); Electrodeposition of Cu and Ni – NH4OH-
+cupferron-NH4OH-8-quinolinol spectrophotometric; Hg cathode separation-cupferron-Al2O3 
+gravimetric 
+Combustion with infrared detection; Combustion with chromatographic detection 
+Electrodeposition gravimetry 
+FAAS; Spectrochemical 
+Spark source mass spectrometry (SSMS); Atomic absorption spectrometry (AAS) 
+Gravimetric 
+SSMS; AAS 
+Combustion with iodometric titration; Combustion with infrared detection 
+Hg cathode separation-chromotropic acid spectrophotometric; H2O2 photometric; Hg cathode 
+separation-cupferron-H2O2 spectrophotometric; Hg cathode separation-diantipyrylmethane-
+H2O2 spectrophotometric 
+
+ 
+
+ 
+ 
+
+(1)   Certain commercial equipment, instruments or materials are identified in th
+
+is certificate to adequately specify the 
+
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 882 
+
+Page 2 of 4 
+
+ADDITIONAL CONSTITUENTS 
+ 
+Noncertified values are provided for the following additional constituents in SRM 882.  These values are not certified, 
+because NIST cannot vouch fully for the calibrations of the test methods and other details.   
+ 
+Reference Mass Fraction Values:  Reference values for two constituents of SRM 882 are reported in Table 3 as mass 
+fractions of the total elements in a nickel-copper matrix.  A NIST Reference Value is a non-certified value that is the 
+present best estimate based on available data; however, the value does not meet the NIST criteria for certification and 
+is provided with an associated uncertainty that may reflect only measurement  precision, may not include all sources 
+of uncertainty, or may reflect a lack of sufficient statistical agreement among m ultiple analytical methods  [2].  The 
+mass fraction reference values, as determined by the methods used, are expressed as percent.  Each reference value is 
+an unweighted mean   of results obtained using the test method s  in Table  2.  The expanded uncertainty,  U, is  an 
+expanded uncertainty about the mean, with coverage factor, k = 2 [3-4].  Results derived from the use of these values 
+are considered by NIST to be traceable only to the values themselves. 
+ 
+
+Table 3.  Reference Mass Fraction Values for SRM 882 Nickel-Copper Alloy 
+
+tion 
+
+Constituent 
+
+Mass Fraction 
+(%) 
+
+Expanded Uncertainty 
+(%) 
+
+Silicon (Si) 
+Sulfur (S) 
+
+ 
+ 
+
+0.006 
+0.0014 
+
+ 
+ 
+
+0.002 
+0.0007 
+
+ 
+ 
+Information Mass Fraction Values:  Information values for constituents in SRM 882 are reported as mass fractions 
+in Table 4.  A NIST Information Value is a value that may be of interest to the SRM user, but insufficient information 
+is available to assess the uncertainty associated with the value  [2].  Information values cannot be used  to establish 
+metrological traceability. 
+ 
+
+Table 4.  Information Mass Fraction Values for SRM 882 Nickel-Copper Alloy 
+
+‘alues  for  SRM
+
+ 
+
+ 
+
+Constituent 
+
+Arsenic (As) 
+Boron (B) 
+Chromium (Cr) 
+Cobalt (Co) 
+Lead (Pb) 
+Magnesium (Mg) 
+Manganese (Mn) 
+Selenium (Se) 
+Silver (Ag) 
+Tin (Sn) 
+Vanadium (V) 
+Zinc (Zn) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+0.0001 
+0.0001 
+0.0001 
+0.007 
+0.0006 
+0.001 
+0.0007 
+0.0002 
+0.0004 
+0.003 
+0.0001 
+0.0005 
+
+ 
+ 
+NOTICE TO USERS 
+ 
+NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee t he continued or continuous supply 
+of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a primary benchmark for the quality and 
+accuracy of the user’s in -house reference materials and working standards.  As such, the SRM should be used to 
+validate the more routinely used reference materials in a laboratory.  Compari sons between the SRM and in -house 
+reference materials or working measurement standards should take place at intervals  appropriate to the conservation 
+of the SRM and the stability of relevant in
+implemented, contact NIST by email at srms@nist.gov. 
+ 
+ 
+
+-house materials.  For further guidance on how this approach can be 
+
+ 
+
+SRM 882 
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.; Taylor,  B.N.;  Guide for the Use of the International System of Units
+
+Publication 811; U.S. Government Printing Office: Washington,
+https://www.nist.gov/pml/special-publication-811 (accessed Apr 2020). 
+
+rial 
+ (SI); NIST Special 
+
+ DC (2008); available at 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136: U.S. Government Printing 
+Office: Washington, DC (2000); available at https://www.nist.gov/system/files/documents/srm/SP260-136.PDF 
+(accessed Apr 2020). 
+
+[3]  Sieber, J.R., Possolo, A.M., Epstein, M.S., A Retuned Horwitz Procedure for Upgrading Certificates of Older 
+; NIST Special Publication 260
+
+Standard Reference Materials
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-198.pdf (accessed Apr 2020). 
+
+-198; available at 
+2¢ 
+
+[4]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections) ; Joint Committee for Guides in  Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2020); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note  1297, U.S. Government Printing Office: Washington,
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Apr 2020). 
+
+ DC (1994); available at 
+
+[5]  ASTM, Part 12, Chemical Analysis of Metals and Metal Bearing Ores; Annu. Book ASTM Stand., (1979).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Certificate Revision History:    20 April 2020  (Revised values and   uncertainties for Al, C, Cu. Fe and Ti; revised uncertainty for Ni; 
+reassignment of values for Si and S as reference values; reassignment of
+03 August 1979 (Original certificate date). 
+
+ Mn value as an information value;  title update;  editorial changes); 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is
+accomplished by contacting the SRM Program: telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+SRM 882 
+
+Page 4 of 4 
+
+ current.  This can be 
+
+ 975-2200; fax (301)
+
+ 948-3730; 
+
+

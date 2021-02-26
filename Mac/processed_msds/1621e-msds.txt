@@ -1,0 +1,692 @@
+﻿Date of Issue:
+
+10 January 2014
+
+
+
+SAFETY DATA SHEET
+
+
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+	SRM Number:  1621e
+
+	SRM Name:  Sulfur in Residual Fuel Oil (1 %)
+
+	Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in the calibration of instruments and the evaluation of methods used in the determination of total sulfur in fuel oils or materials of similar matrix.  A unit of SRM 1621e consists of 100 mL of commercial “No. 6” residual fuel oil as defined by ASTM D39695 Standard Specification for Fuel Oils.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+	1-800-424-9300 (North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+	+1-703-527-3887 (International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+	
+
+2. HAZARDS IDENTIFICATION
+
+Classification
+
+Physical Hazard:	Combustible Liquid, Category 4.
+
+Health Hazard: 	Carcinogenicity, Category 2.
+
+Label Elements
+
+Symbol 
+
+
+
+Signal Word
+
+WARNING
+
+Hazard Statement(s)
+
+H227		Combustible liquid.
+
+H351		Suspected of causing cancer (inhalation).
+
+Precautionary Statement(s)
+
+P201		Obtain special instructions before use.
+
+P202		Do not handle until all safety precautions have been read and understood.
+
+P235		Keep away from flames and hot surfaces.  – No Smoking.
+
+P280		Wear protective gloves/protective clothing/eye protection/face protection.
+
+P308+P313		If exposed or concerned: get medical advice/attention.
+
+P370+P378		In case of fire use dry chemical, carbon dioxide, or regular foam for extinction.
+
+P403		Store in a wellventilated place.
+
+P405		Store locked up.
+
+P501	Dispose of content/container in accordance with local, regional, national, and international regulations. 
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+Substance:  Fuel Oil, No 6.
+
+Other Designations:  Residual fuel oil; Bunker C oil; Grade 6.
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.
+
+Hazardous Component
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Fuel Oil No. 6
+
+68553-00-4
+
+271-384-7
+
+100
+
+	
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If breathing is difficult, qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, seek medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed
+
+Inhalation:  Irritation, cough, difficulty breathing, cancer (suspect).
+
+Skin Contact:  Irritation, repeated or prolonged contact may result in dermatitis.
+
+Eye Contact:  Irritation.
+
+	Ingestion:  Irritation.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Moderate fire hazard.  Vapor/air mixtures are explosive above the flash point.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+		Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam.
+
+		Unsuitable:  Avoid using straight water streams in order to avoid frothing.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 1	Fire = 2	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or noncombustible material and collect in appropriate container for disposal.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.
+
+	Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (oxidizing materials).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  No occupational exposure limits established.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+
+
+Properties
+
+Fuel Oil No. 6
+
+Molar Mass (g/mol)
+
+not applicable
+
+Molecular Formula
+
+not applicable
+
+Appearance (physical state, color, etc.)
+
+black, liquid paste
+
+Odor
+
+odor of tar
+
+Odor threshold
+
+not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+not available
+
+Relative Density as Specific Gravity (water = 1)
+
+0.9 to 1.1
+
+Density(a)
+
+1005.1 kg/m3 at 15 °C
+9.2 API at 60 °F
+
+Vapor Pressure
+
+0.2 mmHg at 20 °C
+
+Vapor Density (air = 1)
+
+not available
+
+Viscosity
+
+900 to 9000 SUS at 38 °C
+
+Kinematic Viscosity(a)
+
+	807.6 cSt at 40 °C
+370.7 cSt at 50 °C
+33.10 cSt at 100 °C
+
+Solubilities
+
+water:  insoluble
+
+Partition coefficient (noctanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+407 °C (765 °F)
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+>177 °C  (>351 °F)
+
+Explosive Limits, LEL
+
+1 %
+
+Explosive Limits, UEL
+
+5 %
+
+Flash Point(a)
+
+62 °C (143.6 °F)
+
+Flammability (solid, gas)
+
+not applicable
+
+	(a)	Property was determined for SRM 1621e (see Certificate of Analysis) using ASTM method.
+
+10. STABILITY AND REACTIVITY
+
+Reactivity:  This material is not reactive at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Containers may rupture or explode if exposed to heat.  Keep out of water supplies and sewers.  Dangerous gases may accumulate in confined spaces. 
+
+Incompatible Materials:  Oxidizing materials.
+
+Hazardous Decomposition:  Oxides of carbon, hydrogen sulfide. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Eye or skin irritation and possible skin disorders.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  Irritation hazard is low unless heated or misted.  High concentrations of vapor or mist may cause irritation and possibly systems of central nervous system depression.  Prolonged contact may cause irritation.
+
+Skin Contact:  May cause irritation and redness.  Smarting skin may occur.  Large concentrations may produce weight loss, anorexia, ataxia, and lethargy, and death.
+
+Eye Contact:  Irritation.
+
+Ingestion:  Large quantities may cause gastrointestinal distress; no other adverse effects identified.
+
+Numerical Measures of Toxicity
+
+Acute toxicity:  Not classified.
+
+	Rat, Oral, LD50:  4320 mg/kg
+
+	Rat, Oral, LD50:  >25 mL/kg
+
+	Rabbit, Dermal, LD50:  >2000 mg/kg
+
+Skin corrosion/irritation:  Not classified.
+
+		Rabbit, skin: 500 mg mild; 0.5 mL
+
+Serious eye damage/eye irritation:  Not classified.
+
+		Rabbit, eyes:  100 μL (24 h) mild.
+
+Respiratory sensitization:  No data available.
+
+Skin sensitization:  No data available.
+
+Germ Cell Mutagenicity:  No data available.
+
+Carcinogenicity:  Category 2.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+				X
+
+				Yes
+
+				
+
+				No
+
+	IARC lists residual fuel oils as Group 2b, possibly carcinogenic to humans.
+
+	Residual fuel oil No. 6 is not listed by NTP or OSHA as a carcinogen.  
+
+Skin application to mice of cracked bunker fuel (alone) and blended, induced benign and malignant skin tumors.
+
+Reproductive Toxicity:  No data available.
+
+Specific target organ toxicity, single exposure:  No data available.
+
+Specific target organ toxicity, repeated exposure:  No data available.
+
+Aspiration hazard:  Not applicable.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data
+
+		Fish, Zebrafish, Brachydanio rerio, LC50:  48 mg/L, semi-static, (96 h).
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+	U.S. DOT and IATA:  This material is not regulated by DOT in non-bulk packaging or by IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21)
+
+	ACUTE HEALTH:	No
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	Yes
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations:  Not listed.
+
+U.S. TSCA Inventory:  Fuel oil No. 6 is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  10 January 2014
+
+	Sources:	ChemADVISOR, Inc., MSDS Residual Fuel Oil, 17 June 2013.
+
+		World Health Organization, International Agency for Research on Cancer, Occupational Exposures in Petroleum Refining; Crude Oil and Major Petroleum Fuels, Vol. 45, (1998) available at http://monographs.iarc.fr/ENG/Monographs/vol45/volume45.pdf (accessed Jan 2014).
+
+		National Oceanic and Atmospheric Administration (NOAA), CAMEO Chemicals, Fuel Oil, [No. 6], http://www.cameochemicals.noaa.gov/chemical/11459 (accessed Jan 2014).
+
+		
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+TLV 
+
+Threshold Limit Value 
+
+LEL 
+
+Lower Explosive Limit 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NFPA 
+
+National Fire Protection Association 
+
+TWA 
+
+Time Weighted Average 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+UEL 
+
+Upper Explosive Limit 
+
+NIST
+
+National Institute of Standards and Technology
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1621e		Page 1 of 6

@@ -1,0 +1,2409 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 2391d 
+
+ 
+
+ 
+
+ 
+PCR-Based DNA Profiling Standard 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in the standardization of forensic and paternity 
+quality  assurance  procedures  for  polymerase  chain  reaction (PCR)-based  genetic  testing,  for  instructional  law 
+enforcement or non-clinical research purposes, and for quality assurance when assigning values to in-house control 
+materials.    It  is  not  intended  for  any  human  or  animal  clinical  diagnostic  use.    This  SRM  is  composed  of 
+well-characterized human deoxyribonucleic acid (DNA) in two forms; genomic DNA (Components A through D) and 
+DNA  to  be  extracted  from  cells  that  have  been  spotted  onto  FTA paper (Component E).    The  complete  listing  of 
+Components  is  included  in  Table 1.    A  unit  of  SRM 2391d  is  composed  of  one  vial  of  each  of  five  components 
+packaged together in one box. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or taken into account [1].  The certified values for the 
+components in SRM 2391d were derived from a combination of Capillary Electrophoresis (CE) and Next Generation 
+Sequencing (NGS)-based  characterizations  that  allowed  for  the  counting  and  direct  sequencing  of  short  tandem 
+repeats (STRs) at a locus.  High confidence allele calls were established by using multiple PCR-based STR typing kits 
+and NGS-based kits and technologies. The STR allele calls certified in SRM 2391d are traceable to the natural unit 
+count one by virtue of counting the number of repeat units through the analysis of CE and NGS data [2].  Tables 2 
+and 3 list CE and NGS-based methods used for characterization of the autosomal STR loci, Y-STR loci, and X-STR 
+loci.   
+ 
+Table 4  lists  genotypes  for  35 Certified  autosomal  STR  loci  plus  the  sex-typing  locus  Amelogenin.    Table 5  lists 
+Certified haplotypes for 28 Certified Y-STR loci.  Table 6 lists Certified genotypes/haplotypes for seven X-STR loci. 
+ 
+Information  Values:    A  NIST  Information  Value  is  data  that  may  be  of  interest  and  use  to  the  SRM  user,  but 
+insufficient information is available to assess the highest confidence of the assignment [1].  Information Values have 
+been assigned to the DNA concentrations of Components A through D (Table 1), the number of cells per paper punch 
+of  Component E  (Table 1),  and  the  genotypes/haplotypes  (when  typed  exclusively  with  CE  methods)  of  the  five 
+Components at 13 autosomal STR loci (Table 7), three Y-STR loci (Table 8), five X-STR loci (Table 9), 30 Insertion 
+and Deletion (Indel) loci (Table 10), and 20 Insertion and Null allele (INNUL) loci (Table 11).  Information Values 
+are also assigned to 101 autosomal identity single nucleotide polymorphism (SNP) loci, 34 Y-SNP loci, 188 autosomal 
+ancestry  and  phenotype  SNP  loci,  and  whole  mitochondrial  genome  DNA (mtDNA)  sequences  determined  by 
+sequencing. 
+ 
+Expiration of Certification:  The certification of SRM 2391d is valid, within the measurement uncertainty specified, 
+until  04 June 2024,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certification  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Overall  direction  and  coordination  of  the  technical  activities  leading  to  certification  were  under  the  leadership  of 
+C.R. Steffen of the NIST Biomolecular Measurement Division. 
+ 
+Analytical determinations and technical measurements leading to the certification of this SRM were performed by 
+E.L. Romsos,  A. Tona,  L.A. Borsuk,  K.M. Kiesler,  S. Riman,  and  K.B. Gettings  of  the  NIST  Biomolecular 
+Measurement and Biosystems and Biomaterials Divisions. 
+ 
+Statistical consultation was provided by H.K. Iyer of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  21 June 2019 
+
+Michael J. Tarlov, Chief 
+Biomolecular Measurement Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 2391d 
+
+Page 1 of 11 
+
+ 
+
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+‘icate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+through  the  NIST  Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNINGS TO USER 
+ 
+Warning:  SRM 2391d components are human source materials.  The suppliers of the source materials used to prepare 
+this  product  found  the  materials  to  be  non-reactive  when  tested  for  hepatitis B  surface  antigen (HBsAg),  human 
+immunodeficiency virus (HIV), hepatitis C virus (HCV), and human immunodeficiency virus 1 antigen (HIV-1Ag) 
+by  Food  and  Drug  Administration (FDA)  licensed  tests.    However,  because  no  test  method  can  offer  complete 
+assurance that HIV, hepatitis viruses, or other infectious agents are absent, this SRM should be handled at the Biosafety 
+Level 1  for  any  potentially  infectious  human  serum  or  blood  specimen [3].    SRM 2391d  components  and  derived 
+solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Storage:  Store refrigerated at a temperature range of 2 ºC to 8 ºC (do not freeze). 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Vials for Components A through D should be briefly vortexed and centrifuged prior to opening.  After opening the 
+vials, sample aliquots for analysis should be withdrawn immediately and processed without delay for the certified 
+values to be applicable.  Component E, cells on FTA paper, should be washed to reduce PCR inhibitors and salts prior 
+to PCR amplification. 
+ 
+SOURCE AND ANALYSIS(1) 
+ 
+Source of Material:  The human genomic DNA extracts prepared at NIST for Components A through C were derived 
+from  buffy  coat  white  blood  cells  from  single  source  anonymous  donors  under  the  approval  of  the  NIST  Human 
+Subjects Protection Office.  The cell line used for Component E was obtained from American Type Culture Collection 
+(Manassas, VA) under license and material transfer agreements.  All source materials have been tested and found 
+negative for HBsAg, HIV, HCV, and HIV-1Ag before use. 
+ 
+Interlaboratory Study:  Four laboratories participated in the characterization of the material comprising SRM 2391d 
+including  Promega  Corporation  (Madison, WI),  Qiagen  (Germantown, MD),  Verogen  (San  Diego, CA),  and  the 
+Armed Forces DNA Identification Laboratory (AFDIL) (Dover, DE).   
+ 
+Description of Components:  Five components are included in each unit.  Components A through D each contain 
+55 µL of extracted genomic DNA in TE-4 buffer, pH 8.0, and are packaged in perfluoroalkoxy fluoropolymer (PFA) 
+vials.  Table 1 lists the DNA concentration and expanded uncertainty for the Components based upon results from 
+droplet digital polymerase chain reaction (ddPCR).  Component E contains two 6 mm punches of FTA paper.  Each 
+punch was prepared to hold approximately 7.5 × 104 cells.  Component E is packaged in sterile 0.5 mL polypropylene 
+vials.  A detailed description of the individual components in SRM 2391d is listed in Table 1.  Note that SRM 2391d 
+is  modified from SRM 2391c in that Components A through D are different samples with different profiles; however, 
+Component E remains the same. 
+
+                                                           
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2391d 
+
+Page 2 of 11 
+
+Table 1.  Description of Components in SRM 2391d 
+  
+
+ 
+
+Component 
+
+Description 
+
+Volume 
+
+Concentration(a) 
+
+  
+
+A 
+
+B 
+
+  
+
+Anonymous single-source female  
+genomic DNA in TE-4 buffer 
+
+Anonymous single-source male  
+genomic DNA in TE-4 buffer 
+
+55 µL 
+
+55 µL 
+
+1.6 ± 0.5 ng/µL 
+
+1.7 ± 0.5 ng/µL 
+
+  
+
+C 
+
+     
+
+    
+    
+  
+  
+
+Anonymous single-source male  
+genomic DNA in TE-4 buffer 
+Mixed-source, 3:1 (3 parts Component A 
+and 1 part Component C) 
+genomic DNA in TE-4 buffer 
+Anonymous single-source female cells  
+spotted on FTA paper(b) 
+
+  
+
+7.5 × 104 cells per punch 
+
+Two 6 mm  
+punches 
+
+1.6 ± 0.2 ng/µL 
+
+1.5 ± 0.4 ng/µL 
+
+55 µL 
+
+55 µL 
+
+D 
+
+E 
+
+  
+
+(a)  DNA concentrations and cell counts are provided as Information Values. 
+UV  damage.  FTA 
+(b)  FTA paper cards contain chemicals that lyse cells, denature proteins and protect nucleic acids from nucleases, oxidation and UV damage.  FTA 
+
+cards rapidly inactivate organisms, including blood-borne pathogens, and prevent the growth of bacteria and other microorganisms. 
+
+uding  blood- 
+
+ 
+Table 2 lists the commercial CE multiplex kits used for SRM 2391d testing.  Commercial companies include Thermo 
+Fisher (Waltham, MA), Promega Corporation, Qiagen, and InnoGenomics (New Orleans, LA).  Table 3 lists the NGS 
+methods used for SRM 2391d testing.  Commercial companies include Thermo Fisher, Promega Corporation, Qiagen, 
+and Verogen.  Additional mtDNA sequencing was carried out using a protocol published by AFDIL  [4]. 
+ 
+ 
+
+Table 2.  Capillary Electrophoresis (CE) typing kits used for SRM 2391d testing 
+
+ 
+
+ 
+ 
+
+Thermo Fisher 
+
+Promega 
+
+Qiagen 
+
+InnoGenomics 
+
+PowerPlex S5 
+
+Investigator ESSplex SE Plus 
+
+InnoTyper 21 
+
+MiniFiler 
+
+Identifiler 
+
+Identifiler Plus 
+
+NGM 
+
+NGM SElect 
+
+NGM Detect 
+
+PowerPlex CS7 
+
+PowerPlex 16 
+
+Investigator HDplex 
+
+Investigator 24plex QS 
+
+Identifiler Direct 
+
+PowerPlex 16 HS 
+
+Investigator 24plex GO! 
+
+PowerPlex 18D 
+
+PowerPlex 21 
+
+PowerPlex ESX 17 
+
+Investigator Argus X-12 
+
+Investigator DIPplex 
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+GlobalFiler 
+
+VeriFiler Plus 
+
+VeriFiler Express 
+
+PowerPlex ESI 17 Pro 
+
+PowerPlex ESX 17 Fast 
+
+ 
+
+PowerPlex VersaPlex 27PY 
+
+PowerPlex ESI 17 Fast 
+
+PowerPlex Fusion 6C 
+
+GlobalFiler Express 
+
+PowerPlex Fusion 
+
+PowerPlex Y23 
+
+Yfiler Plus 
+
+Yfiler 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2391d 
+
+Page 3 of 11 
+
+ 
+
+AFDIL 
+
+MiSeq FGx 
+AFDIL mtGenome 
+protocol [4] 
+(mtDNAWhole 
+Genome)  
+
+  
+
+  
+
+  
+
+  
+
+Table 3.  Next Generation Sequencing (NGS) methods used for SRM 2391d testing 
+
+Verogen 
+
+MiSeq FGx 
+
+Thermo Fisher 
+
+Ion S5 XL 
+
+Promega 
+
+MiSeq FGx 
+
+Qiagen 
+
+MiSeq FGx 
+
+ForenSeq 
+Signature Prep Kit 
+
+Precision ID 
+GlobalFiler NGS STR 
+Panel v2 
+
+PowerSeq 46GY 
+System (prototype) 
+
+Human Mitochondrial 
+Panel (mtDNA Whole 
+Genome) 
+
+  
+
+  
+
+  
+
+  
+
+Precision ID Ancestry 
+Panel 
+
+Precision ID Identity 
+Panel 
+Ion Ampliseq DNA 
+Phenotype Panel 
+Precision ID mtDNA 
+Whole Genome Panel 
+
+PowerSeq CRM 
+Nested System 
+(mtDNA Control 
+Region) 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+ 
+The genotypes/haplotypes for this SRM are listed in Tables 4 through 11.  The Certified Values for 35 autosomal STR 
+loci plus Amelogenin are provided in Table 4.  The Certified Values for 28 Y-STR loci are provided in Table 5.  The 
+Certified Values for seven X-STR loci are provided in Table 6.  The Information Values for 13 autosomal STR loci 
+are provided in Table 7.  The Information Values for three Y-STR loci are provided in Table 8.  The Information 
+Values for five X-STR loci are provided in Table 9.  The Information Values for 30  Indels are provided in Table 10.  
+The Information Values for 20 INNULS are provided in Table 11. 
+ 
+Location of Data:  The Certified STR sequences for Components A, B, C, and E, including NGS length-based allele 
+calls, STRSeq ID [9], bracketed repeats, and full sequence strings (5’ flank, repeat region, and 3’ flank) are provided 
+at https://www-s.nist.gov/srmors/view_detail.cfm?srm=2391D under Material Details, Data and Information Files in 
+the “SRM 2391d_STRSeqID.xlsx” Excel file. 
+ 
+The Information Values for SNP loci of forensic interest for Components A, B, C, and E are provided at https://www-
+in 
+s.nist.gov/srmors/view_detail.cfm?srm=2391D  under  Material  Details,  Data  and 
+“SRM 2391d_AISNP-PISNP.xlsx” and “SRM 2391d_IISNP.xlsx” Excel files. 
+ 
+The Information Values for the mtDNA whole genome sequences for Components A, B, C, and E are provided at 
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=2391D under Material Details, Data and Information Files in the 
+“SRM 2391d_mtDNA.xlsx” Excel file. 
+ 
+The sequences for STR alleles, SNP alleles, and mtDNA whole genomes for Component D are not listed and should 
+be inferred as a combination of Component A and Component C. 
+ 
+
+Information  Files 
+
+ 
+
+SRM 2391d 
+
+Page 4 of 11 
+
+15.3,18.3 
+
+13,15.3 
+
+15,15.3,16,18.3 
+
+11,16.3 
+
+Table 4.  Certified Genotypes, 35 Autosomal STR Loci and Amelogenin 
+ 
+
+Component 
+
+Locus 
+
+AMEL 
+
+CSF1PO 
+
+D1S1656 
+
+D1S1677 
+
+D2S441 
+
+D2S1338 
+
+D2S1776 
+
+D3S1358 
+
+D3S4529 
+
+D4S2408 
+
+D5S818 
+
+D5S2800 
+
+D6S474(a) 
+
+D6S1043 
+
+D7S820 
+
+D8S1179 
+
+D9S1122 
+
+A 
+
+X,X 
+
+12,14 
+
+15,15 
+
+11,11 
+
+25,25 
+
+10,10 
+
+17,17 
+
+13,15 
+
+9,9 
+
+10,11 
+
+14,17 
+
+16,18 
+
+12,19 
+
+8,10 
+
+12,13 
+
+11,12 
+
+B 
+
+X,Y 
+
+12,12 
+
+14,15 
+
+11,11 
+
+17,23 
+
+9,11 
+
+15,17 
+
+13,14 
+
+10,10 
+
+12,12 
+
+14,17 
+
+14,16 
+
+13,18 
+
+10,10 
+
+12,15 
+
+11,13 
+
+C 
+
+X,Y 
+
+10,11 
+
+15,16 
+
+14,14 
+
+11,14 
+
+23,24 
+
+10,12 
+
+14,18 
+
+16,16 
+
+8,10 
+
+13,15 
+
+14,18 
+
+14,18 
+
+11,18 
+
+9,10 
+
+12,15 
+
+11,12 
+
+D 
+
+X,Y 
+
+10,11,12,14 
+
+14,15 
+
+11,14 
+
+23,24,25 
+
+10,12 
+
+14,17,18 
+
+13,15,16 
+
+8,9,10 
+
+10,11,13,15 
+
+14,17,18 
+
+14,16,18 
+
+11,12,18,19 
+
+8,9,10 
+
+12,13,15 
+
+11,12 
+
+E 
+
+X,X 
+
+10,11 
+
+14,16 
+
+10,10 
+
+19,20 
+
+9,11 
+
+14,15 
+
+13,16 
+
+8,8 
+
+11,13 
+
+17,17 
+
+14,16 
+
+11,11 
+
+8,10 
+
+11,13 
+
+11,11 
+
+9,11 
+
+9,12 
+
+9,12 
+
+8,12 
+
+17,18 
+
+12,14 
+
+12,14 
+
+14,15 
+
+17,18 
+
+17,18 
+
+13,15 
+
+14,15 
+
+12,13 
+
+14,14 
+
+10,14 
+
+11,13 
+
+11,12 
+
+13,17 
+
+12,17 
+
+17,22 
+
+12,13 
+
+12,15 
+
+12,16 
+
+11,11 
+
+21,24 
+
+10,14 
+
+19,20 
+
+11,13 
+
+13,14 
+
+9,12,13 
+
+9,12,14 
+
+D18S51 
+
+13,15,17 
+
+D19S433 
+
+D16S539 
+
+D12S391 
+
+D13S317 
+
+D10S1248 
+
+D17S1301 
+
+D14S1434 
+
+11,12,13,14 
+
+10,11,13,14 
+
+17,18,21,24 
+
+12,14,15,16 
+
+D12ATA63 
+
+  
+
+21,22,23,24 
+
+14,15,16,18 
+
+D22S1045 
+
+17,18,28.2 
+
+17(b),28.2 
+
+D20S482 
+
+13,14,15 
+
+12,13,14 
+
+14,15,16 
+
+29,30,31 
+
+14,17,19 
+
+Penta D 
+
+Penta E 
+
+D21S11 
+
+11,16.2 
+
+22,30.2 
+
+17,28.2 
+
+TPOX 
+
+7,8,9.3 
+
+8,9,13 
+
+8,9,10 
+
+TH01 
+
+13,15 
+
+11,14 
+
+14,15 
+
+16,18 
+
+14,14 
+
+14,17 
+
+13,15 
+
+13,14 
+
+13,15 
+
+15,16 
+
+15,15 
+
+12,14 
+
+21,24 
+
+14,16 
+
+22,23 
+
+28,29 
+
+14,15 
+
+17,18 
+
+29,30 
+
+20,23 
+
+24,26 
+
+29,30 
+
+11,13 
+
+29,31 
+
+12,15 
+
+14,14 
+
+16,17 
+
+13,19 
+
+13,14 
+
+14,17 
+
+17,18 
+
+17,19 
+
+15,17 
+
+SE33 
+
+vWA 
+
+FGA 
+
+7,9.3 
+
+6,9.3 
+
+8,9.3 
+
+8,12 
+
+9,13 
+
+8,10 
+
+8,11 
+
+7,7 
+
+8,9 
+
+8,9 
+
+5,7 
+
+(a)  When typing D6S474 with the Investigator HDplex kit from Qiagen the resulting allele calls are reported to be one repeat unit less (i.e. 
+
+reported  to  be 
+
+Component A (15,17), Component B (13,15), Component C (13,17), Component D (13,15,17), and Component E (13,15)) due to a difference 
+in the nomenclature as described in [5-7]. 
+
+the  certified  sequence  reveals
+(b)  A  17 allele  is  reported  for  Component B  at  SE33  using  all  commercial  CE  multiplex  kits  tested;  however,  the  certified  sequence  reveals 
+
+18 repeats with a 4 base pair (AAAA) deletion 85 base pairs upstream from the repeat. 
+
+ 
+
+SRM 2391d 
+
+Page 5 of 11 
+
+Table 5.  Certified Haplotypes, 28 Y-STR Loci 
+ 
+
+Component(a) 
+
+15,16 
+
+16,17 
+
+16,17 
+
+Locus 
+
+DYS19 
+
+DYS385 
+
+DYS389I 
+
+DYS389II 
+
+DYS390 
+
+DYS391 
+
+DYS392 
+
+DYS393 
+
+DYS437 
+
+DYS438 
+
+DYS439 
+
+DYS448 
+
+DYS456 
+
+B 
+
+15 
+
+12 
+
+30 
+
+21 
+
+11 
+
+11 
+
+13 
+
+14 
+
+11 
+
+13 
+
+21 
+
+15 
+
+C 
+
+16 
+
+12 
+
+31 
+
+21 
+
+10 
+
+11 
+
+13 
+
+14 
+
+11 
+
+12 
+
+22 
+
+15 
+
+D 
+
+16 
+
+12 
+
+31 
+
+21 
+
+10 
+
+11 
+
+13 
+
+14 
+
+11 
+
+12 
+
+22 
+
+15 
+
+13 
+
+13 
+
+28 
+
+18 
+
+11 
+
+26 
+
+17 
+
+13 
+
+18 
+
+11 
+
+13 
+
+10 
+
+10 
+
+12 
+
+12 
+
+10 
+
+28 
+
+DYS461 
+
+DYS481 
+
+DYS533 
+
+DYS458 
+
+DYS505 
+
+DYS522 
+
+DYS460 
+
+  
+
+YGATAH4 
+
+DYF387S1 
+
+DYS612(b) 
+
+DYS570 
+
+DYS635 
+
+DYS576 
+
+DYS643 
+
+DYS549 
+
+36,39 
+
+36,39 
+
+36,38 
+
+34 
+
+15 
+
+34 
+
+20 
+
+14 
+
+17 
+
+12 
+
+11 
+
+21 
+
+15 
+
+12 
+
+14 
+
+17 
+
+34 
+
+18 
+
+21 
+
+21 
+
+18 
+
+11 
+
+11 
+
+11 
+
+11 
+
+13 
+
+12 
+
+12 
+
+(a)  Components A and E do not have a Y-chromosome (female) and are not included in this table. 
+reported 
+(b)  When typing DYS612 for Components B, C, and D with the ForenSeq DNA Signature Prep Kit from Verogen the resulting allele call is reported 
+
+to be six repeat units less (i.e. 28) due to a difference in the nomenclature as described in [8]. 
+
+zat  un
+
+ 
+
+ 
+
+SRM 2391d 
+
+Page 6 of 11 
+
+Table 6.  Certified Genotypes/Haplotypes, 7 X-STR Loci 
+ 
+
+Component 
+
+(a)  Components B and C are males and do not have a second X chromosome. 
+
+>asecond  X 
+
+ 
+Table 7.  Information Genotypes, 13 Autosomal STR Loci 
+ 
+
+Locus 
+
+DXS7132 
+
+DXS7423 
+
+DXS8378 
+
+DXS10074 
+
+DXS10103 
+
+DXS10135 
+
+HPRTB 
+
+Locus 
+
+D2S1360 
+
+D3S1744 
+
+D4S2366 
+
+D5S2500 
+
+D7S1517 
+
+D8S1132 
+
+D10S2325 
+
+D21S2055 
+
+F13A01 
+
+A 
+
+14,14 
+
+14,15 
+
+11,12 
+
+7,19 
+
+18,19 
+
+21.1,23 
+
+12,13 
+
+A 
+
+22,22 
+
+16,19 
+
+10,14 
+
+12,15 
+
+19,24 
+
+17,22 
+
+7,12 
+
+25,26 
+
+6,12 
+
+B(a) 
+
+15 
+
+14 
+
+10 
+
+11 
+
+19 
+
+25 
+
+12 
+
+B 
+
+22.3,25 
+
+16,17 
+
+10,10 
+
+10,16 
+
+17,20 
+
+20,24 
+
+11,14 
+
+25,34 
+
+3.2,5 
+
+C(a) 
+
+14 
+
+15 
+
+11 
+
+18 
+
+19 
+
+18 
+
+13 
+
+Component 
+
+C 
+
+20,22.3 
+
+15,16 
+
+10,10 
+
+9,15 
+
+22,31 
+
+18,22 
+
+7,11 
+
+16.1,25 
+
+5,7 
+
+D 
+
+14,14 
+
+14,15 
+
+11,12 
+
+7,18,19 
+
+18,19 
+
+18,21.1,23 
+
+12,13 
+
+D 
+
+20,22,22.3 
+
+15,16,19 
+
+10,14 
+
+9,12,15 
+
+19,22,24,31 
+
+17,18,22 
+
+7,11,12 
+
+16.1,25,26 
+
+5,6,7,12 
+
+E 
+
+14,15 
+
+13,14 
+
+12,13 
+
+16,17 
+
+19,19 
+
+19,22 
+
+11,11 
+
+E 
+
+22,26 
+
+16,18 
+
+9,9 
+
+12,12 
+
+23,24 
+
+18,20 
+
+10,10 
+
+25,26 
+
+5,7 
+
+B 
+
+C 
+
+32 
+
+6,6 
+
+7,9 
+
+8,10 
+
+9,11 
+
+6,10 
+
+9,10 
+
+LPL 
+
+12,13 
+
+10,10 
+
+10,11 
+
+11,13 
+
+10,11 
+
+10,11 
+
+11,12 
+
+10,11 
+
+10,12 
+
+10,13 
+
+12,13 
+
+F13B 
+
+6,8,10 
+
+Locus 
+
+9,11,13 
+
+Penta C 
+
+DYS518 
+
+DYS449 
+
+10,12,13 
+
+FESFPS 
+
+Component(a) 
+
+ 
+Table 8.  Information Haplotypes, 3 Y-STR Loci 
+ 
+
+ 
+  
+
+DYS627 
+
+28 
+
+38 
+
+18 
+
+28 
+
+37 
+
+38 
+
+20 
+
+20 
+
+D 
+
+ 
+
+ 
+
+(a)  Components A and E do not have a Y-chromosome (female) and are not included in this table. 
+
+SRM 2391d 
+
+ 
+
+Page 7 of 11 
+
+Table 9.  Information Genotypes/Haplotypes, 5 X-STR Loci 
+ 
+
+Component 
+
+Locus 
+
+DXS10079 
+
+DXS10101 
+
+DXS10134 
+
+DXS10146 
+
+DXS10148 
+
+A 
+
+19,23 
+
+28.2,29 
+
+35,39 
+
+29,30 
+
+25.1,28.1 
+
+B(a) 
+
+21 
+
+26 
+
+35 
+
+28 
+
+40.1 
+
+ 
+
+(a)  Components B and C are males and do not have a second X chromosome. 
+
+ 
+
+ 
+
+C(a) 
+
+21 
+
+29 
+
+37 
+
+23 
+
+D 
+
+19,21,23 
+
+28.2,29 
+
+35,37,39 
+
+23,29,30 
+
+27.2,29.2 
+
+E 
+
+18,21 
+
+36,36 
+
+29,30 
+
+22.1 
+
+22.1,25.1,28.1 
+
+18,28.1 
+
+SRM 2391d 
+
+Page 8 of 11 
+
+Table 10.  Information Genotypes, 30 Insertion/Deletion (Indel) Loci(a) 
+ 
+Component 
+
+Locus 
+
+D6 
+
+D39 
+
+D40 
+
+D45 
+
+D48 
+
+D56 
+
+D58 
+
+D64 
+
+D67 
+
+D70 
+
+D77 
+
+D81 
+
+D83 
+
+D84 
+
+D88 
+
+D92 
+
+D93 
+
+D97 
+
+D99 
+
+D101 
+
+D111 
+
+D114 
+
+D118 
+
+D122 
+
+D124 
+
+D125 
+
+D128 
+
+D131 
+
+D133 
+
+D136 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+A 
+
+– 
+
+– 
+
+– 
+
++ 
+
++ 
+
+– 
+
++ 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
++ 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
+– 
+
+– 
+
+– 
+
+ – / + 
+
+ – / + 
+
++ 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
+B 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
++ 
+
+ – / + 
+
+ – / + 
+
++ 
+
+– 
+
++ 
+
++ 
+
++ 
+
++ 
+
+– 
+
+– 
+
++ 
+
++ 
+
++ 
+
+– 
+
++ 
+
+– 
+
+– 
+
+– 
+
+– 
+
++ 
+
++ 
+
+ – / + 
+
+ – / + 
+
+C 
+
+– 
+
+ – / + 
+
+ – / + 
+
+– 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
+– 
+
++ 
+
++ 
+
+– 
+
+– 
+
++ 
+
+– 
+
+– 
+
+– 
+
++ 
+
++ 
+
+– 
+
+– 
+
++ 
+
+– 
+
++ 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+D 
+
+– 
+
+ – / + 
+
+ – / + 
+
+– 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
++ 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+E 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
++ 
+
++ 
+
+– 
+
++ 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
++ 
+
+– 
+
++ 
+
+– 
+
+– 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+ – / + 
+
+– 
+
+ – / + 
+
+ – / + 
+
+– 
+
++ 
+
+(a)  Length Variation for indels:  + homozygous insertion; – homozygous deletion; –/+ heterozygous deletion/insertion. 
+ 
+
+ 
+
+SRM 2391d 
+
+Page 9 of 11 
+
+Table 11.  Information Genotypes, 20 Insertion/Null Allele (INNUL) Loci(a) 
+ 
+
+Component 
+
+Locus 
+
+AC1141 
+
+AC2265 
+
+AC2305 
+
+AC4027 
+
+ACA1766 
+
+ALU79712 
+
+HS4.69 
+
+MLS09 
+
+MLS26 
+
+A 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+N,N 
+
+I,N 
+
+I,I 
+
+N,N 
+
+B 
+
+N,N 
+
+I,N 
+
+N,N 
+
+I,N 
+
+I,I 
+
+N,N 
+
+I,I 
+
+I,I 
+
+I,N 
+
+C 
+
+N,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,I 
+
+I,N 
+
+I,N 
+
+I,N 
+
+D 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+E 
+
+I,I 
+
+I,N 
+
+N,N 
+
+I,I 
+
+N,N 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+N,N 
+
+N,N 
+
+I,I 
+
+I,I 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+N,I 
+
+N,I 
+
+N,I 
+
+N,I 
+
+N,I 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+NBC51 
+
+NBC10 
+
+NBC13 
+
+NBC102 
+
+NBC106 
+
+ 
+
+NBC216 
+
+NBC120 
+
+NBC148 
+
+SB19.12 
+
+TARBP 
+
+RG148 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+N,N 
+
+I,N 
+
+I,N 
+
+N,I 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+I,N 
+
+N,I 
+
+N,I 
+
+I,N 
+
+I,N 
+
+N,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+I,I 
+
+(a)  Length Variation for INNULS:  I,I homozygous insertion; N,N homozygous null allele; I,N heterozygous insertion/null allele; N,I 
+
+heterozygous null allele/insertion. 
+
+ 
+
+ 
+
+SRM 2391d 
+
+Page 10 of 11 
+
+REFERENCES 
+ 
+[1]  May, W.E.; Gills, T.E.; Parris, R.; Beck, II, C.M.; Fassett, J.D.; Gettings, R.J.; Greenberg, R.R.; Guenther, F.R.; 
+Kramer, G.; MacDonald, B.S.; Wise, S.A.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials 
+(2000); 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed June 2019). 
+
+for  Chemical  Measurements;  NIST  Special  Publication 260-136 
+
+[2]  De  Bidvre, P.;  Dybkaer, R.;  Fajgelj, A.;  Hibbert, D.B.  Metrological  Traceability  of  Measurement  Results  in 
+
+Chemistry: Concepts and implementation; Pure Appl. Chem., Vol. 83 Issue 10, pp. 1873–1935 (2011). 
+
+[3]  Biosafety  in  Microbiological  and  Biomedical  Laboratories,  5th  ed.;  HHS  publication  No. (CDC) 21-1112; 
+Chosewood, LC;  Wilson, DE,  Eds.;  US  Government  Printing  Office:  Washington, D.C.  (2009);  available  at 
+https://www.cdc.gov/biosafety/publications/bmbl5/index.htm (accessed June 2019). 
+
+[4]  Ring, J.D., Sturk-Andreaggi, K., Peck, M.A., Marshall, C. A performance evaluation of Nextera XT and KAPA 
+HyperPlus for Rapid Illumina Library Preparation of Long-Range Mitogenome Amplicons; Forensic Sci. Int. 
+Genet., Vol. 29, pp. 174–180 (2017). 
+
+[5]  Hill, C.R.;  Butler, J.M.;  Vallone, P.M.;  A  26Plex  Autosomal  STR  Assay  to  Aid  Human  Identity  Testing;  J. 
+
+t  Assay 
+
+Forensic Sci., Vol. 54 Issue 5, pp. 1008–1015 (2009). 
+
+[6]  Hill, C.R.; Kline, M.C.; Coble, M.D.; Butler, J.M.; Characterization of 26 MiniSTR Loci for Improved Analysis 
+
+of Degraded DNA Samples; J. Forensic Sci., Vol. 53 Issue 1, pp. 73–80 (2008). 
+
+[7]  Qiagen 
+
+Investigator 
+
+HDplex 
+
+Handbook, 
+
+November 
+
+20. 
+2012; 
+
+available 
+available 
+
+at 
+at 
+
+https://www.qiagen.com/us/resources/resourcedetail?id=7d1661bd-a47b-4b19-a882-357a61b48c64&lang=en 
+(accessed June 2019). 
+
+[8]  Ballantyne, K.N.;  Ralf, A.;  Aboukhalid, R.;  et  al.  Toward  Male  Individualization  with  Rapidly  Mutating 
+
+Rapidly 
+
+Y-Chromosomal Short Tandem Repeats; Human Mutat., Vol. 35, pp. 1021–1032 (2014). 
+
+award 
+.,  Vol. 
+
+[9]  Gettings, K.B.;  Borsuk, L.A.;  Ballard, D.;  Bodner, M.;  Budowle, B.;  Devesse, L.;  King, J.;  Parson, W.; 
+Phillips, C.; Vallone, P.M.; STRSeq: A Catalog of Sequence Diversity at Human Identification Short Tandem 
+Repeat Loci; Forensic Sci Int Genet., Vol. 31, pp. 111–117 (2017). 
+
+yp. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+This  can  be
+fax (301) 948-3730; 
+telephone 
+accomplished 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+SRM  Program: 
+
+(301) 975-2200; 
+
+assession  is  current. 
+
+contacting 
+
+the 
+
+by 
+
+SRM 2391d 
+
+Page 11 of 11 
+
+

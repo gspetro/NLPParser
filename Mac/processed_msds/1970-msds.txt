@@ -1,0 +1,636 @@
+﻿Date of Issue:
+
+15 June 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1.  Substance and Source Identification 
+
+Product Identifier
+
+SRM Number:  1970
+
+SRM Name:  Succinonitrile Triple-Point Standard
+
+	Other Means of Identification:  Not applicable.
+
+Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended to be used to calibrate thermometers near 58 °C.  Any thermometer smaller than about 4.5 mm in diameter can be calibrated in this SRM.  A unit of this SRM 1970 consists of approximately 60 g of succinonitrile, sealed under vacuum in a borosilicate glass tube containing a reentrant thermometer well.
+
+
+
+Company Information
+
+National Institute of Standards and Technology
+
+
+
+Standard Reference Materials Program
+
+
+
+100 Bureau Drive, Stop 2300
+
+
+
+Gaithersburg, Maryland 208992300
+
+
+
+
+
+
+
+Telephone:  3019752200
+
+Emergency Telephone ChemTrec:
+
+FAX:  3019483730
+
+	18004249300 (North America)
+
+Email:  SRMMSDS@nist.gov
+
+	+17035273887 (International)
+
+Website:  http://www.nist.gov/srm
+
+
+
+
+
+2.  Hazards Identification
+
+Note:  Under normal conditions of use, this material will remain enclosed in the borosilicate glass tube.  The following information is provided in case the glass tube breaks resulting in exposure to the succinonitrile.
+
+Classification
+
+	Physical Hazard:	Not classified.
+
+	Health Hazard:	Acute Toxicity, Oral	Category 4
+
+		Label Elements
+
+			Symbol
+
+			
+
+			Signal Word
+
+			WARNING.
+
+Hazard Statement(s): 
+
+		H302	Harmful if swallowed.
+
+	Precautionary Statement(s):  
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink or smoke when using this product. 
+
+	P301+P312	If swallowed: Call a doctor if you feel unwell.
+
+	P330	Rinse mouth.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+
+3.  Composition and Information on Hazardous Ingredients
+
+Substance:  Succinonitrile
+
+Other Designations:  Butanedinitrile, ethylene dicyanide; deprelin; suzil; s-dicyanoethane; dinile; C4H4N2.
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Succinonitrile
+
+		110-61-2
+
+203-783-9
+
+100
+
+
+
+4.  First Aid Measures
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  
+
+Ingestion:  Contact local poison control.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause mild or mechanical eye, skin, or respiratory tract irritation.  Harmful if swallowed.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5.  Fire Fighting Measures
+
+Fire and Explosion Hazards:  Slight fire hazard. 
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water, or alcoholresistant foam.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for FireFighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 1	Reactivity = 0
+
+6.  Accidental Release Measures
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Collect in appropriate container for disposal. 
+
+7.  Handling and Storage
+
+Safe Handling Precautions:  Avoid dust formation.  Avoid breathing vapors, mist or gas.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. Exposure Controls and Personal Protection
+
+Exposure Limits
+
+			OSHA (PEL):	5 mg/m3 TWA, as CN, related cyanide compounds.
+
+		Prevent or reduce skin absorption, related cyanide compounds.
+
+			NIOSH (REL):	20 mg/m3 (6 ppm) TWA
+
+		25 mg/m3 IDLH (except hydrogen cyanide) as CN, related cyanide compounds.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9.  Physical and Chemical Properties
+
+
+
+Properties
+
+	Succinonitrile
+
+Molar Mass (g/mol)
+
+	80.09
+
+Molecular Formula
+
+	C4H4N2
+
+Appearance (physical state, color, etc.)
+
+	colorless, waxy solid.
+
+Odor
+
+	odorless
+
+Odor threshold
+
+	not available
+
+pH
+
+	not available
+
+Evaporation rate
+
+	not available
+
+Melting point/freezing point
+
+	54 °C (129 °F)
+
+Relative Density (water = 1)
+
+	1.022 at 25 °C
+
+Density
+
+	not available
+
+Vapor Pressure
+
+	2 mmHg at 100 °C
+
+Vapor Density (air = 1)
+
+	2.1
+
+Viscosity
+
+	not available
+
+Solubilities
+
+	water:  12.8 % (soluble)
+
+	soluble: ether, alcohol, acetone, benzene, carbon disulfide.
+
+Partition coefficient (noctanol/water)
+
+	not available
+
+Thermal Stability Properties
+
+	
+
+Autoignition Temperature
+
+	not available
+
+Thermal Decomposition
+
+	not available
+
+Initial boiling point and boiling range
+
+	265 °C (509 °F)
+
+Explosive Limits, LEL (Volume %)
+
+	2.2 %
+
+Explosive Limits, UEL (Volume %)
+
+	not available
+
+Flash Point (Closed Cup)
+
+	132 °C (270 °F)
+
+Flammability (solid, gas)
+
+	not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.
+
+Incompatible Materials:  Oxidizing materials, acids.
+
+Hazardous Decomposition:  Hydrogen cyanide, oxides of nitrogen and carbon.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11.  Toxicological Information
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Irritation of skin, eye or respiratory tract may occur.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  May be irritating and slowly release cyanide which may cause dizziness, rapid respiration, vomiting, flushing, headache, drowsiness, drop in blood pressure.  Death in convulsions may occur within 5 hours as with other cyanide derivatives. 
+
+Skin Contact:  May be irritating, absorbed through the skin and slowly release cyanide when metabolized.  Effects as described in inhalation may occur.  Dermatitis may occur.
+
+Eye Contact:  Contact may cause irritation with redness and conjunctivitis.
+
+Ingestion:  Effects as described in inhalation may occur. 
+
+Numerical Measures of Toxicity
+
+	Acute Toxicity:  Category 4
+
+		Oral, Rat LD50:  450 mg/kg; 488.7 mg /kg
+
+	Skin Corrosion/Irritation:  Not classified.
+
+		Serious Eye Damage/Eye Irritation:  Not classified; no data available.
+
+		Respiratory Sensitization: Not classified; no data available.
+
+		Skin Sensitization:  Not classified; no data available.
+
+		Germ Cell Mutagenicity:  Not classified.
+
+	Carcinogenicity:  Not classified.
+
+	Listed as a Carcinogen/Potential Carcinogen
+
+	
+
+	Yes
+
+	X
+
+	No
+
+		Succinonitrile is not listed by IARC, NTP or OSHA as a carcinogen or potential carcinogen.
+
+	Reproductive Toxicity:  Not classified.
+
+	Intraperitoneal, Hamster TDLo:  365 mg/kg (pregnant 8 days)
+
+	STOT, Single Exposure:  Not classified; no data available.
+
+	STOT, Repeated Exposure:  Not classified; no data available.
+
+	Aspiration Hazard:  Not applicable.
+
+12.  Ecological Information
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13.  Disposal Considerations
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.
+
+14.  Transportation Information
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA.
+
+15.  Regulatory Information
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  1 % de minimis concentration (X=CN, where X = H+ or any other group where a formal dissociation can be made.  For example KCN or Ca(CN)2.  Chemical Category N106)(related to cyanide compounds).
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65:  Not regulated.
+
+U.S. TSCA Inventory:  Succinonitrile is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+16.  Other Information
+
+	Issue Date:	15 June 2015
+
+	Sources:	ChemADVISOR, Inc., SDS Succinonitrile, 20 March 2015.
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STOT
+
+Specific Target Organ Toxicity
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STEL 
+
+Short Term Exposure Limit 
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate.
+
+
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1970		Page 5 of 5

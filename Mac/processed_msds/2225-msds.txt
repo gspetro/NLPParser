@@ -1,0 +1,727 @@
+﻿Date of Issue: 
+
+30 August 2016
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	2225
+
+		SRM Name:	Mercury for Thermal Analysis
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in calibrating differential scanning calorimeters, differential thermal analyzers, and similar instruments.  A unit of SRM 2225 consists of 2.5 g of very high purity mercury (Hg).  It is packaged in a vial with a septum through which a sample a mercury can be withdrawn by a syringe.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Corrosive to Metals	Category 1
+
+		Health Hazard:	Acute Toxicity, Inhalation	Category 2
+
+			Skin Sensitization	Category 1B
+
+			Reproductive Toxicity	Category 1B
+
+			STOT, Repeated Exposure 	Category 1
+
+		
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word
+
+			DANGER
+
+			Hazard Statement(s) 
+
+	H290	May be corrosive to metals.
+
+	H330	Fatal if inhaled.
+
+	H317	May cause allergic skin reaction.
+
+	H360	May damage fertility or the unborn child.
+
+	H372	Causes damage to organs through prolonged or repeated inhalation exposure.
+
+Precautionary Statement(s)
+
+	P201	Obtain special instructions before use.
+
+	P202	Do not handle until all safety precautions have been read and understood.
+
+	P234	Keep only in original container.
+
+	P260	Do not breathe fumes, mists, vapors, or spray.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink or smoke when using this product.
+
+	P271	Use only outdoors or in a well-ventilated area.
+
+	P284	In case of inadequate ventilation, wear respiratory protection.
+
+	P272	Contaminated work clothing must not be allowed out of the workplace.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	
+
+	P304+P340	If inhaled:  Remove person to fresh air and keep comfortable for breathing.
+
+	P310	Immediately call a doctor.
+
+	P302+P352	If on skin:  Wash with plenty of water. 
+
+	P333+P313	If skin irritation or rash occurs:  Get medical attention.
+
+	P308+P313	If exposed or concerned: Get medical attention.
+
+	P363	Wash contaminated clothing before reuse.
+
+	P390	Absorb spillage to prevent material damage.
+
+	
+
+	P403+P233	Store in a well-ventilated place.  Keep container tightly closed. 
+
+	P405	Store locked up.
+
+	P406	Store in corrosive resistant container or a container with a resistant inner liner.
+
+	
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance: Mercury
+
+	Other Designations:  colloidal mercury; metallic mercury; inorganic mercury; elemental mercury; quicksilver; hydrargyrum.
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Mercury
+
+		7439-97-6
+
+231-106-7
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Get immediate medical attention.  Thoroughly clean and dry contaminated clothing before reuse. Destroy contaminated shoes.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  Contact a poison control center immediately for instructions.  If vomiting occurs, keep head lower than hips to prevent aspiration.  Seek immediate medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:   Damage to the nervous system, kidneys, and lungs caused by mercury poisoning.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Regular dry chemical, carbon dioxide, water, regular foam.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition will form oxides of nitrogen and mercury.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 2	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel of spills.  Absorb with sand or other noncombustible material.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry.  
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:
+
+	NIOSH (REL):	0.05 mg/m3 TWA as Hg vapor
+
+			10 mg/m3 IDLH
+
+			0.1 mg/m3 Ceiling
+
+			Potential for dermal absorption (related to Mercury compounds)
+
+	ACGIH (TLV):	0.025 mg/m3 TWA
+
+	Skin - potential significant contribution to overall exposure by the cutaneous route
+
+	OSHA (PEL):	0.1 mg/m3 Ceiling
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+
+
+
+
+
+
+
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties:
+
+Mercury
+
+Appearance (physical state, color, etc.)
+
+	gray liquid
+
+Molecular Formula
+
+	Hg
+
+Molar Mass (g/mol)
+
+	200.59
+
+Odor
+
+	odorless
+
+Odor threshold
+
+	not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+– 39 °C (– 38.2 °F)
+
+Relative Density (as specific gravity water = 1)
+
+13.5939
+
+Vapor Pressure
+
+0.002 mmHg at 25 °C
+
+Vapor Density (air = 1)
+
+7
+
+Viscosity (cP)
+
+1.55 cP at 20 °C
+
+Solubility(ies)
+
+insoluble in water, alcohol, ether, hydrochloric acid, hydrogen bromide, and hydrogen iodide;  
+soluble in hot sulfuric acid, nitric acid and lipids.
+
+Partition coefficient (n-octanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+not available
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+357 °C (675 °F)
+
+Explosive Limits, LEL (Volume %)
+
+not available
+
+Explosive Limits, UEL (Volume %)
+
+not available
+
+Flash Point
+
+not available
+
+Flammability (solid, gas)
+
+not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Contact with combustible or incompatible materials.
+
+Incompatible Materials:  Acids, combustible materials, amines, oxidizing materials, metals, halogens, metal carbide.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of nitrogen and mercury.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Damage to the nervous system, kidneys, and lungs caused by mercury poisoning.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Difficult breathing, headache, chest pain, cough, nausea, vomiting; at higher exposure levels, inflammation of the lungs, pulmonary edema, pneumothorax, central nervous system disturbances, and death.  Chronic exposure can also damage the kidneys, gastrointestinal tract, and reproductive system.
+
+Skin Contact:  Exposure to intact skin may result in redness, pain, skin burns, and sensitization.  Long-term exposure may result in effects reported for chronic inhalation.
+
+Eye Contact:  Exposure may cause eye redness, pain and blurred vision.
+
+Ingestion:  A small ingested dose may have no apparent effect, or it may cause burning of the mouth and throat with thirst, nausea, and vomiting.  The effects of a larger dose may be similar to those of inhalation.  Chronic ingestion may severely damage the gastrointestinal tract, kidneys, liver, and central nervous system.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Inhalation, Category 2
+
+Inhalation, Rat, LC50:  27 mg/m3 (2 h)
+
+Skin Corrosion/Irritation:  Not classified.
+
+	Woman, Skin — open: 0.5 %
+
+Serious Eye Damage/Irritation:  Not classified.
+
+Respiratory Sensitization:  Not classified.
+
+Skin Sensitization:  Category 1B
+
+	May cause allergic response including contact dermatitis.
+
+Germ Cell Mutagenicity:  Not classified.
+
+	Mutagenic, Mouse:  2.71 µg/L (1 h); DNA damage; Man, unreported route, 150 μg/m3; Cytogenetic analysis
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Inorganic mercury compounds are listed by IARC as Group 3 (not classifiable) and is not listed by NTP and OSHA as carcinogenic/potential carcinogen.
+
+	Tumorigenic, Rat, Intraperitoneal TDLo:  400 mg/kg (14 d)
+
+	Reproductive Toxicity:  Category 1B; mercury can cross the placenta, reduce male sex drive; cause male and female infertility, spontaneous abortions, birth defects, growth retardation, and contaminate breast milk.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1; mercury can accumulate in body tissues and damage organs via inhalation.
+
+Aspiration Hazard:  No data available.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:
+
+	Mercury:  Carp, Cyprinus carpio LC50 (96 h): 0.5 mg/L; 0.16 mg/L [semi-static]; 0.18 mg/L [static].
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to disposal regulations:  U.S. EPA 40 CFR 262, Waste Numbers: mercury - U151, concentrations at or above the regulatory level of 0.2 mg/L.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  UN2809, Mercury, Hazard Class 8, Sub Risk 6.1, Packing Group III.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	1 lb (0.454 kg) final RQ.
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	Mercury compounds, 1 % Supplier notification limit.
+
+	OSHA Process Safety (29 CFR 1910.119):	Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes.
+
+	CHRONIC HEALTH:	Yes.
+
+	FIRE:	No.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  Warning!  This material contains a chemical (mercury) known to the state of California to cause reproductive/developmental effects.
+
+U.S. TSCA Inventory:  Mercury is listed.
+
+TSCA 12(b), Export Notification:  Section 5, 1 % de minimus concentration.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  30 August 2016
+
+	Sources:	ChemAdvisor, Inc., SDS Mercury, 15 December 2014.
+
+	Concise International Chemical Assessment, IPCS INCHEM, Elemental Mercury and Inorganic Mercury Compounds:  Human Health Aspects, World Health Organization, Geneva (2003) available at:  http://www.inchem.org/documents/cicads/cicads/cicad50.htm (accessed Aug 2016).
+
+
+
+					Key of Acronyms:
+
+					
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transport Association 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2225		Page 1 of 6

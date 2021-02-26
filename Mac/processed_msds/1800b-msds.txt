@@ -1,0 +1,649 @@
+﻿Date of Issue:
+
+27 February 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	1800b
+
+	SRM Name:	Eighteen NonMethane Hydrocarbon Compounds in Nitrogen 
+
+		(Nominal AmountofSubstance Fraction 5 nmol/mol)
+
+		Other Means of Identification:  Not Applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is a primary gas mixture of nonmethane hydrocarbon (NMHC) in nitrogen supplied in a DOT 3ALspecification aluminum (6061 alloy) cylinder with a water volume of 6 L.  Mixtures are shipped with a nominal pressure exceeding 12.4 MPa (1800 psig), which provides the user with 0.73 m3 (25.8 ft3) of useable mixture.  The cylinder is the property of the purchaser and is equipped with a CGA350 stainless steel valve, which is the recommended outlet for this NMHC mixture.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+	1-800-424-9300 (North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887 (International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+	
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+	Physical Hazard:	Compressed Gas
+
+		Health Hazard:	Simple Asphyxiant
+
+	Label Elements
+
+			Symbol 
+
+				
+
+			Signal Word
+
+			WARNING
+
+			Hazard Statement(s)
+
+	H280	Contains gas under pressure; may explode if heated.
+
+	------	May displace oxygen and cause rapid suffocation.
+
+	
+
+Precautionary Statement(s)
+
+	P410+P403	Protect from sunlight.  Store in a wellventilated place.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Nitrogen, compressed gas mixture
+
+	Other Designations:  
+
+			Nitrogen:  Dinitrogen; nitrogen compressed.
+
+The concentration of non-methane hydrocarbon compounds (see Certificate of Analysis) in the identified NIST cylinder are below the reportable limits for hazardous components (1 %) and/or carcinogens (0.1 %), as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information.
+
+Hazardous Components
+
+CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Concentration
+(%)
+
+Nitrogen
+
+		7727-37-9
+
+231-783-9
+
+	>99
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Not applicable.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  Ingestion of a gas is unlikely.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Potentially fatal if inhaled.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.  
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard applicable to the identified NIST cylinder.  Cylinders may rupture or explode if exposed to heat.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Use extinguishing media appropriate to the surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  not applicable.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move cylinder from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 1	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Shut off gas supply if this can be done safely.  Isolate area until gas has dispersed. 
+
+Methods and Materials for Containment and Clean up:  Stop leak if possible without personal risk.  Isolate hazard area and deny entry.  Ventilate closed spaces before entering.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Secure cylinder to prevent physical damage.  Close valve after each use and when empty.  Keep value protection cap on cylinder when not in use.  
+
+Storage:  Store and handling in accordance with all current regulations and standards.  Keep separated from incompatible substances.  Store in well-ventilated area.  Subject to storage regulations, OSHA 29 CFR 1910.101.
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits
+
+		Nitrogen
+
+ACGIH (TLV):  Simple asphyxiant.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield. An eye wash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product. Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+NOTE:  The physical and chemical data provided are for nitrogen.  The actual behavior of the gas mixture may differ from the individual component.
+
+Descriptive Properties:
+
+Nitrogen
+(>99 %)
+
+Appearance (physical state, color, etc.)
+
+colorless compressed gas
+
+Molecular Formula
+
+N2
+
+Molar Mass (g/mol)
+
+28
+
+Odor
+
+odorless
+
+Odor threshold
+
+not available
+
+pH
+
+not applicable
+
+Evaporation rate
+
+not applicable
+
+Melting point/freezing point
+
+–210 ºC (–346 ºF)
+
+Relative Density (g/L)
+
+1.2506
+
+Vapor Pressure
+
+760 mmHg at –196 ºC
+
+Vapor Density (air = 1)
+
+0.967
+
+Viscosity (cP)
+
+0.01787 at 27 ºC
+
+Solubility(ies)
+
+water (1.6 % at 20 ºC) and liquid ammonia
+
+Partition coefficient (n-octanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+not applicable
+
+Thermal Decomposition
+
+not applicable
+
+Initial boiling point and boiling range
+
+–196  ºC  (–321 ºF)
+
+Explosive Limits, LEL (Volume %)
+
+not applicable
+
+Explosive Limits, UEL (Volume %)
+
+not applicable
+
+Flash Point
+
+not applicable
+
+Flammability (solid, gas)
+
+not applicable
+
+
+
+10. STABILITY AND REACTIVITY
+
+Reactivity:  Stable at normal temperature and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Protect from physical damage; containers may rupture or explode if exposed to heat.
+
+Incompatible Materials:  Oxidizing materials and metals.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Miscellaneous decomposition products. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+
+
+Skin
+
+
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Nausea, headache, weakness, drowsiness.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Nitrogen:  Nitrogen compressed gas is a simple asphyxiant.  Release in an enclosed space may result in asphyxiation.  The symptoms of asphyxia depend on the rapidity with which the oxygen deficiency develops and how long it continues.  In sudden acute asphyxia, unconsciousness may be immediate.  With slow development, there may be rapid respiration and pulse, air hunger, dizziness, reduced awareness, tightness in the head, tingling sensations, incoordination, faulty judgment, emotional instability, and rapid fatigue.  As the asphyxia progresses, nausea, vomiting, collapse, unconsciousness, convulsions, deep coma, and death are possible. 
+
+Skin Contact:   No adverse effects reported.
+
+Eye Contact:  No adverse effects reported.
+
+Ingestion:  Ingestion of a gas is unlikely under normal conditions of use.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity: Not classified.
+
+Nitrogen: Simple asphyxiant.
+
+Skin Corrosion/Irritation:  Not applicable.
+
+Serious Eye Damage/ Eye Irritation:  Not applicable.
+
+Respiratory Sensitization:  No data available.
+
+Skin Sensitization:  No data available.
+
+Germ Cell Mutagenicity:  No data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+Nitrogen is not listed by NTP, IARC or OSHA as a carcinogen/potential carcinogen.
+
+Reproductive Toxicity:  No data available.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified.
+
+Specific Target Organ Toxicity, Repeated Exposure:  No data available.
+
+Aspiration Hazard:  Not classified.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:  No data available.
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  UN1956, compressed gas, n.o.s. (Eighteen Non-Methane Hydrocarbon Compounds in nitrogen), Hazard Class 2.2.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Identified cylinder not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Identified cylinder not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Identified cylinder not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Identified cylinder not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Identified cylinder not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	Yes
+
+
+
+State Regulations:
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  Nitric oxide and nitrogen are listed.
+
+TSCA 12(b), Export Notification:  No components are listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+Issue Date:  27 February 2015
+
+	Sources:	ChemADVISOR, Inc., MSDS, Nitrogen, Compressed Gas, 15 December 2014.
+
+					
+
+					
+
+					
+
+					
+
+					Key of Acronyms:  
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not otherwise specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 1800b		Page 2 of 6

@@ -1,0 +1,784 @@
+﻿Date of Issue:
+
+30 April 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1.  Substance and Source Identification 
+
+Product Identifier
+
+		SRM Number:	1816a
+
+		SRM Name:  		Reference Fuel Isooctane (2,2,4-Trimethylpentane)
+
+	Other Means of Identification:  Not applicable.
+
+Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use as a primary standard in the octane rating of motor aviation fuels as specified in ASTM test methods and evaluating ASTM methods for chemical analysis of fuels by gas chromatography.  A unit of SRM 1816a consists of one ampoule, containing approximately 100 mL of isooctane.
+
+Company Information
+
+National Institute of Standards and Technology
+
+
+
+Standard Reference Materials Program
+
+
+
+100 Bureau Drive, Stop 2300
+
+
+
+Gaithersburg, Maryland 208992300
+
+
+
+
+
+
+
+Telephone:  3019752200
+
+Emergency Telephone ChemTrec:
+
+FAX:  3019483730
+
+	18004249300 (North America)
+
+Email:  SRMMSDS@nist.gov
+
+	+17035273887 (International)
+
+Website:  http://www.nist.gov/srm
+
+
+
+
+
+2.  Hazards Identification
+
+Classification
+
+		Physical Hazard:	Flammable liquid	Category 2
+
+		Health Hazard:	Skin Corrosion/Irritation	Category 2
+
+			Eye Irritation	Category 2B
+
+			STOT, Single Exposure	Category 3
+
+			Aspiration Hazard	Category 1
+
+Label Elements
+
+Symbol
+
+
+
+Signal Word
+
+DANGER
+
+Hazard Statement(s)
+
+	H225
+
+Highly flammable liquid and vapor.
+
+	H304
+
+May be fatal if swallowed and enters airways.
+
+	H315+H320
+
+Causes skin and eye irritation.
+
+	H336
+
+May cause drowsiness or dizziness.
+
+	Precautionary Statement(s)
+
+P210
+
+Keep away from heat, sparks, open flames, hot surfaces. — No smoking.
+
+P241
+
+Use explosionproof electrical, ventilating, and lighting equipment.
+
+P242
+
+Use only nonsparking tools.
+
+P243
+
+Take precautionary measures against static discharge.
+
+P261
+
+Avoid breathing mist, vapors, or spray.
+
+P264
+
+Wash hands thoroughly after handling.
+
+P271
+
+Use only outdoors or in a well-ventilated area.
+
+P280
+
+Wear protective gloves, eye protection, and protective clothing.
+
+P301+P310
+
+If swallowed:  Immediately call a doctor.
+
+P331
+
+Do NOT induce vomiting.
+
+
+
+
+
+P303+P361+P353
+
+If on skin (or hair):  Take off immediately all contaminated clothing.  Rinse skin with water.
+
+P305+P351+P338
+
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses, if present and easy to do.  Continue rinsing.
+
+P332+P337+P313
+
+If skin or eye irritation occurs:  Get medical attention.
+
+
+
+
+
+P304+P340
+
+If inhaled:  Remove person to fresh air and keep comfortable for breathing.
+
+P312
+
+Call a doctor if you feel unwell.
+
+
+
+
+
+P362+P364
+
+Take off contaminated clothing and wash it before reuse.
+
+
+
+
+
+P403+P235+P233
+
+Store in a wellventilated place.  Keep cool.  Keep container tightly closed.
+
+P405
+
+Store locked up.
+
+
+
+
+
+P501
+
+Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+
+3.  Composition and Information on Hazardous Ingredients
+
+Substance:  2,2,4Trimethylpentane
+
+Other Designations:  Isooctane; isobutyltrimethylmethane
+
+Hazardous Component(s)
+
+CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+2,2,4Trimethylpentane
+
+		540841
+
+2087591
+
+	>99.9
+
+
+
+4.  First Aid Measures
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  Give artificial respiration if not breathing.  Get immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Thoroughly clean and dry before reuse. Get medical attention, if needed.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention.
+
+Ingestion:  Aspiration hazard.  Do not induce vomiting.  If vomiting occurs, keep head lower than hips to help prevent aspiration.  Get immediate medical attention.  Give artificial respiration if not breathing.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, aspiration hazard, central nervous system depression.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5.  Fire Fighting Measures
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapor/air mixtures are explosive above the flash point.  Vapors or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water, or alcoholresistant foam.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for FireFighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 3	Reactivity = 0
+
+6.  Accidental Release Measures
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or noncombustible material and collect in appropriate container for disposal. 
+
+7.  Handling and Storage
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. Exposure Controls and Personal Protection
+
+Exposure Limits:  No occupational exposure limits established.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties
+
+	2,2,4Trimethylpentane
+
+Molar Mass (g/mol)
+
+	114.23
+
+Molecular Formula
+
+	C8H18
+
+Appearance (physical state, color, etc.)
+
+	clear, colorless, free-flowing liquid
+
+Odor
+
+	gasoline odor
+
+Odor threshold
+
+	not available
+
+pH
+
+	not available
+
+Evaporation rate
+
+	<1 (ether = 1)
+
+Melting point/freezing point
+
+	–107 °C (–161 °F)
+
+Relative Density (water = 1)
+
+	0.6919
+
+Density
+
+	not available
+
+Vapor Pressure
+
+	41 mmHg at 21 °C
+
+Vapor Density (air = 1)
+
+	3.9
+
+Viscosity
+
+	not available
+
+Solubilities
+
+	immiscible with water; soluble in ether, alcohol, acetone, benzene, toluene, chloroform, xylene, carbon disulfide, carbon tetrachloride, dimethylformamide, oils
+
+Partition coefficient (noctanol/water)
+
+	not available
+
+
+
+
+Thermal Stability Properties
+
+	2,2,4-Trimethylpentane
+
+Autoignition Temperature
+
+	415 °C (779 °F)
+
+Thermal Decomposition
+
+	not available
+
+Initial boiling point and boiling range
+
+	99 °C (210 °F)
+
+Explosive Limits, LEL (Volume %)
+
+	1.1
+
+Explosive Limits, UEL (Volume %)
+
+	6
+
+Flash Point (Closed Cup)
+
+	–12 °C (10 °F)
+
+Flammability (solid, gas)
+
+	not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  Avoid inhalation of material or combustion byproducts.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Oxidizing materials, reducing agents.
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11.  Toxicological Information
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin irritation, eye irritation, central nervous system depression, and nerve damage.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  Acute exposure may cause irritation of the mucous membranes, rapid breathing, dizziness, fatigue, and headache.  Extreme exposure may cause unconsciousness and respiratory arrest.  Repeated and prolonged exposure may cause polyneuropathy.
+
+Skin Contact:  Short term exposure may cause irritation with redness.  If sufficient amounts are absorbed, systemic toxicity may occur.  Long term exposure may cause dermatitis due to defatting action.
+
+Eye Contact:  May cause irritation with redness.
+
+Ingestion:  Aspiration hazard.  Lung damage may occur if aspirated into the lungs and may be fatal.  Symptoms may include coughing, difficulty breathing, cyanosis and pulmonary edema.  May cause diarrhea, fatigue and slight central nervous system depression.
+
+Numerical Measures of Toxicity
+
+Acute Toxicity:  Not classified.
+
+		Rat, Oral, LD50:  >2500 mg/kg
+
+		Rat, Inhalation, LC50:  34.7 mg/L (4 h); 47.4 mg/L (1 h)
+
+Skin Corrosion/Irritation:  Category 2; may cause irritation, redness, and defatting of the skin.
+
+Serious Eye Damage/Eye Irritation:  Category 2B; may cause irritation with redness.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified.
+
+			Rat:  500 mg/kg
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	2,2,4Trimethylpentane is not listed by IARC, NTP, or OSHA as a carcinogen/potential carcinogen.
+
+Reproductive Toxicity:  Not classified; no data available.
+
+STOT, Single Exposure: Category 3, has shown to cause central nervous system depressant.
+
+STOT, Repeated Exposure:  Not classified; no data available.
+
+Aspiration Hazard:  Category 1; aspiration hazard.
+
+12.  Ecological Information
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13.  Disposal Considerations
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to hazardous waste regulations US EPA 40 CFR 262:  Hazardous waste number D001.
+
+14.  Transportation Information
+
+U.S. DOT and IATA:  UN1262; Octanes; Hazard Class 3; Packing Group II; Excepted Quantity: E2.
+
+15.  Regulatory Information
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  1000 lbs (454 kg) final RQ.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	Yes
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  2,2,4trimethylpentane is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16.  Other Information
+
+	Issue Date:	30 April 2015
+
+	Sources:	ChemADVISOR, Inc., SDS 2,2,4-Trimethylpentane, 20 March 2015.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community RighttoKnow Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short Term Exposure Limit
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1816a		Page 2 of 6

@@ -1,0 +1,670 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+14 July 2014 
+
+ 
+
+1. SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+696 
+Bauxite (Surinam) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  evaluating  chemical  and  instrumental 
+methods of analysis.  A unit of SRM 696 consists of 100 g of fine powder (<0.08 mm). 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2. HAZARDS IDENTIFICATION 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+The Certificate of Analysis reports the concentrations of the individual constituents as oxides.  The oxides are not 
+freely available in the material as sold.  The health and safety information provided in this SDS are for  bauxite, not 
+for its individual constituents, with the exception of free crystalline silica, quartz which has additional health hazards 
+addressed below. 
+
+Classification  
+
+Health Hazard:  Carcinogenic 
+ 
+ 
+Label Elements 
+Symbol  
+
+Category 1 
+STOT, Repeated Exposure  Category 1 
+
+`
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+H350 
+H372 
+
+May cause cancer (lung) via inhalation. 
+Causes damage to lungs through prolonged or repeat inhalation. 
+
+Precautionary Statement(s) 
+P201 
+P202 
+P260 
+P264 
+P270 
+P280 
+P308+P313 
+P405 
+P501 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Wear eye protection, protective gloves and clothing. 
+If exposed or concerned:  Get medical attention. 
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+SRM 696 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Bauxite 
+
+Other Designations:  Al2O3∙XH2O; florite; porocel; porocel O; flouride; beauxite 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  The material contains trace amounts of other 
+oxide components; for the actual values see the NIST Certificate of Analysis. 
+
+Component 
+
+CAS Registry 
+
+EC Number (EINECS) 
+
+ 
+
+ 
+
+1318-16-7 
+
+14808-60-7 
+
+603-521-7 
+
+238-878-4 
+
+Nominal Concentration 
+(%) 
+100 
+
+<2 
+
+Bauxite 
+
+ 
+
+Silica, crystalline quartz 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+Skin Contact:  Wash skin with soap and water. 
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Prolonged exposure to respirable silica particles can cause 
+lung damage (silicosis) and cancer. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5. FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard.  Avoid generating dust.  See Section 9, “Physical and Chemical 
+Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special  Protective  Equipment  and  Precautions  for  Fire-Fighters:    Avoid  inhalation  of  material  or  combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 0 
+
+6. ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces 
+should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal.  Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry. 
+
+7. HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  Routine housekeeping should 
+be instituted to ensure that dust does not accumulate on surfaces.  See Section 8, “Exposure Controls and Personal 
+Protection”.  Avoid contact with incompatible materials (see Section 10, “Stability and Reactivity”). 
+
+Storage:  Store and handling in accordance with all current regulations and standards. 
+
+SRM 696 
+
+ 
+
+Page 2 of 6 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+ 
+
+Exposure Limits 
+
+Components 
+
+OSHA (PEL) 
+
+ACGIH (TLV) 
+
+NIOSH (REL) 
+
+Bauxite 
+
+Silica, crystalline 
+quartz 
+
+No occupational limits established. 
+
+TWA:  0.025 mg/m3 
+(respirable fraction) 
+
+TWA:  0.05 mg/m3 
+(respirable dust) 
+IDLH:  50 mg/m3 
+(respirable dust) 
+
+TWA:  30/(SiO2 + 2) mg/m3 
+
+(total dust) 
+
+TWA:  10/(SiO2 +2) mg/m3 
+(respirable fraction) 
+
+TWA:  250/(SiO2 + 5) mppcf 
+  (respirable fraction) 
+
+Engineering  Controls:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+NOTE:  No physical or chemical data are available for the mixture of minerals.  The actual behavior of the material 
+may differ from the individual components. 
+
+Descriptive Properties 
+
+Appearance (physical state, color, etc.) 
+Molecular Formula 
+Molar Mass (g/mol) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Density (specific gravity) 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity (cP) 
+Solubility(ies) 
+Partition coefficient (n-octanol/water) 
+Nominal Particle Size 
+
+Bauxite 
+
+powder 
+Al2O3·X(H2O) 
+not applicable 
+not available 
+not available 
+not available 
+not available 
+not available 
+2 to 2.55 
+not available 
+not available 
+not available 
+water:  insoluble 
+not available 
+< 80 µm 
+
+SRM 696 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties 
+
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point 
+Flammability (solid, gas) 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Bauxite 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid generating dust.   Avoid heat, flames, sparks, and other sources of ignitions.  Avoid 
+contact with incompatible materials. 
+
+Incompatible Materials:  Metals, metal carbide, oxidizing materials, reducing agents and peroxides. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce miscellaneous compounds. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+
+11. TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    May  aggravate  respiratory 
+disorders.   
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Irritation, cough phlegm.  Prolonged or repeated exposure to mixtures containing respirable silica 
+may cause cough, expectoration, dyspnea, wheezing, pharyngitis, chronic bronchitis, emphysema, and silicosis. 
+Skin Contact:  May cause mechanical irritation. 
+Eye Contact:  May cause irritation or eye damage. 
+Ingestion:  May cause irritation. 
+
+Numerical Measures of Toxicity 
+
+Acute toxicity:  Not classified. 
+
+Silica, crystalline quartz:  Rat, Oral LD50:  500 mg/kg 
+
+Skin corrosion/irritation:  No data available. 
+
+Serious eye damage/eye irritation:  No data available. 
+
+Respiratory sensitization:  No data available. 
+
+Skin sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+Carcinogenicity:  Category 1. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+X  Yes 
+
+ 
+
+No 
+
+Bauxite is not listed by OSHA, IARC, or NTP as a carcinogen/potential carcinogen. 
+
+Silica, crystalline quartz is listed as Group 1, carcinogenic to humans by IARC, known human carcinogen 
+(respirable size) by NTP, and is not listed by OSHA as a designated carcinogen. 
+ 
+  Mutagenic data:  Human, 120 mg/L (24 h) 
+
+Tumorigenic data:  Rat, Inhalation, TCLo:  50 mg/m3 (6 h) 
+
+SRM 696 
+
+ 
+
+Page 4 of 6 
+
+Reproductive Toxicity:  No data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1, Lungs. 
+
+Repeated  and  prolonged  exposure  to  respirable  quartz  may  cause  chronic  bronchitis,  emphysema,  and 
+silicosis. 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+Aspiration hazard:  Not applicable. 
+
+12. ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13. DISPOSAL CONSIDERATIONS 
+
+14. TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15. REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+No 
+Yes 
+No 
+No 
+No 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+State Regulations: 
+
+California  Proposition  65:    Warning!    This  product  contains  a  chemical  (quartz)  known  to  the  state  of 
+California to cause cancer. 
+
+U.S. TSCA Inventory:  Bauxite and quartz are listed. 
+
+TSCA 12(b), Export Notification:  Bauxite and quartz are not listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+ 
+
+ 
+
+SRM 696 
+
+ 
+
+Page 5 of 6 
+
+16. OTHER INFORMATION 
+
+Issue Date: 
+
+14 July 2014 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Bauxite, 19 June 2014. 
+
+ChemADVISOR, Inc., SDS, Quartz, 21 March 2014. 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the 
+data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 696 
+
+ 
+
+Page 6 of 6 
+
+

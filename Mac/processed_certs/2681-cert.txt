@@ -1,0 +1,314 @@
+﻿    
+=) 
+U.S.  Department  of  Commerce 
+
+"C.  William  Verity 
+
+Secretary 
+
+=" 
+
+National  Bureau  of  Standards 
+
+Gertificate  of  Analysis 
+
+Standard  Reference  Materials 
+2678,  2680,  and  2681 
+
+Trace  Constituent  Elements  in  Blank  Filters 
+
+filter  to  remove  the  chemical  hazard.  SRM’s  2678,  2680,  and  2681  are  blank  filters  that  have  been  * 
+
+These  Standard  Reference  Materials  (SRM’s)  are  intended  primarily  for  use  in  evaluating  the  performance  of  air 
+sampling  filter  methods  wherein  dust,  particulates,  aerosols,  mists,  etc.  are  collected  by  passing  a  known  volume  of 
+air  through  a 
+analyzed  at  NBS  using  technique  and  methods  generally  employed  in  the  NBS  certification  procedures.  Thirty-one 
+constituent  elements,  including  some  listed  as  Environmental  Protection  Agency  (EPA)  priority  pollutants,  were 
+determined  and  or  analyzed  in  the  three  different  filter  types  or  sizes  that  are  commonly  used  in  air  sampling  of  in- 
+dustrial  atmospheres.  For  information  only,  the  filter  types  and  descriptions  are  listed  below. 
+
+Blank  Filters 
+
+. 
+
+Nominal 
+
+2678 
+2680 
+2681 
+
+Cellulose  Acetate  Membrane 
+Cellulose  Acetate  Membrane 
+Ashiless 
+
+0.45  micron 
+0.80  micron 
+--- 
+
+47  mm 
+37  mm 
+42.55  mm 
+
+0.09 
+0.05 
+0.14 
+
+The  filters  were  analyzed  for  constituent  elements  using  instrumental  neutron  activation  analysis  (INAA)  and  for 
+leachable  cations  and  anions  using  ion  chromatography  (IC).  The  leachable  constituent  elements  were  brought  into 
+solution  using  a  standardized  procedure  (see  Ion  Chromatography  under  Analysis  Section). 
+
+The  certified  values  presented  as  tolerance  intervals  for  these  SRM’s  are  given  in  Tables  1  and  2.  Two-sided  tolerance 
+intervals  for  the  constituent  elements  are  given  whenever  possible  and  one-sided  tolerance  intervals  are  given  for 
+the  constituent  elements  for  which  the  data  would  not  support  two-sided  intervals.  In  cases  where  a  constituent  ele- 
+ment  was  not  detected,  a  limit  of  detection  (Xp)  is  given  based  on  conditions  and  sensitivity  of  the  technique 
+employed.  (See  Definitions.) 
+
+The  statistical  analysis  of  the  data  for  these  SRM’s  was  performed  by  S.B.  Schiller  and  K.R.  Eberhardt  of  the  Statis- 
+tical  Engineering  Division. 
+
+Analyses  for  certification  were  performed  in  the  Inorganic  Analytical  Research  Division  by  L.A.  Holland,  W.F. 
+Koch,  K.W.  Pratt,  S.F.  Stone,  and  R.  Zeisler. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  T.E.  Gills. 
+
+May  2,  1988 
+Gaithersburg,  MD  20899 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+  
+
+Notice  and  Recommended  Use:  These  SRM’s  are  commercial  filters  that  were  not  treated  or  washed  before  analysis. 
+The  variation  in  concentration  levels  of  the  constituent  elements  may  or  may  not  be  typical  of  the  variability  found 
+in  similar  commercial  filters,  as  production  and  treatment  processes  do  differ.  However,  NBS  has  characterized 
+each  of  the  three  SRM  lots  to  give  the  user  a  stated  confidence  level  for  the  range  of  concentration  levels  of  con- 
+stituent  elements.  Thus  the  user  can  use  the  filters  to  accurately  assess  the  magnitude  of  blank  levels  of  the  air  in 
+the  workplace  or  industrial  environment. 
+
+‘ 
+
+Analysis 
+Instrumental  Neutron  Activation  Analysis  (INAA):  The  filters  were  pelletized  using  a  cleaned  pellet  press,  and 
+packaged  in  acid-cleaned  linear  polyethylene  film.  The  analysis  procedure  used  was  the  general  INAA  scheme, 
+using  a  comparator  technique  with  appropriate  standards  and  control  samples  [1]. 
+
+Ion  Chromatography:  The  filters  were  analyzed  for  soluble  chloride,  fluoride,  nitrate,  sulfate,  sodium,  and  potas- 
+sium  using  ion  chromatography.  Individual  filters  were  covered  in  polyethylene  vessels  using  distilled,  deionized 
+water.  The  samples  were  then  placed  in  an  ultrasonic  bath  for  periods  of  15  minutes  (SRM’s  2678,  2680)  and  for 
+30  minutes  (SRM  2681)  to  assure  complete  dissolution  of  the  soluble  species.  Shorter  times  less  than  those  listed 
+above  yielded  low,  variable  results. 
+
+The  cations  and  anions  were  determined  simultaneously  using  a  two  channel  ion  chromatograph  and  ion  chromatog- 
+raphy  software  for  peak  integration. 
+
+[1]  Greenberg,  R.R.,  Fleming,  R.F.,  and  Zeisler,  R.,  "High  Sensitivity  Neutron  Activation  Analysis  of  Environmen- 
+tal  and  Biological  Standard  Reference  Materials,"  Environ.  Intern.,  10,  129-136,  (1984). 
+
+Table  i 
+Certified  Values  for  Blank  Filters 
+
+Element 
+
+SRM  2678 
+
+SRM  2680 
+
+SRM  2681 
+
+Ag  (ug) 
+Al  (ug) 
+As  (ug) 
+Au  (ng) 
+Ba  (ug) 
+Ca  (pg) 
+Cd  (ug) 
+Ce  (ug) 
+Cl  (ug) 
+Co  (ug) 
+Cr  (ug) 
+Cs  (ug) 
+Cu  (ug) 
+Fe  (ug) 
+I  (ug) 
+K  (ug) 
+La  (ug) 
+Mg  (yg) 
+Mn  (ug) 
+Mo  (ug) 
+Na  (yg) 
+Rb  (yg) 
+Sb  (ug) 
+Sc  (ug) 
+Se  (ug) 
+Sm  (ng) 
+Sn  (ug) 
+Ti  (ug) 
+V  (ug) 
+Zn  (ug) 
+
+Xp:  <0.015 
+0.03-0.42 
+Xp:  <  0.0006 
+0-0,32 
+Xp:  <0.2 
+1.2-2.4 
+Xp:  <  0.006 
+Xp:  <0.004 
+10-14 
+0-0.003 
+0.06-0.22 
+Xp:  <  0.002 
+0-0.09 
+0-13 
+0.004-0.008 
+0-22 
+0-0.0006 
+0.8-2.1 
+0.005-0.02 
+Xp:  <  0.005 
+8.2-13.2 
+Xp:  <0.05 
+0.0004-0.001 
+Xp:  <  0.0002 
+Xp:  <  0.010 
+0-0.002 
+Xp:  <0.8 
+0-0.10 
+0-0.0007 
+0-11 
+
+Xp:  <0.004 
+0-0.18 
+Xp:  <  0.0005 
+0.005-0.075 
+Xp:  <0.07 
+19-41 
+0-0.002 
+Xp:  <0.001 
+7-13 
+0-0.009 
+0.03-0.23 
+Xp:  <  0.0007 
+0.15-0.36 
+0-0.53 
+0.006-0.013 
+0-13 
+0-0.0007 
+1:6-3.0 
+0.002-0.011 
+0-0.003 
+3.2-48 
+Xp:  <0.016 
+0.0003-0.0008 
+0-0.0004 
+Xp:  <  0.003 
+0-0.009 
+Xp:  <03 
+0-0.065 
+0.0002-0.001 
+0-0.04 
+
+" 
+
+Xp:  <0,012 
+0.10-0.86 
+0-0.001 
+0.008-0.95 
+Xp:  <0.16 
+11-35 
+Xp:  <0.005 
+Xp:  <0.003 
+7To12 
+Xp:  <0.002 
+0.03-0.66 
+Xp:  <0.002 
+0-0.08 
+0-1.0 
+0-0.004 
+Xp:  <0.8 
+0-0.0008 
+0-12 
+0.003-0.016 
+Xp:  <0.004 
+52-71 
+Xp:  <0.04 
+0.0001-0.008 
+0-0.06 
+Xp:  <  0.008 
+0-0.08 
+Xp:  <0.6 
+0-0.21 
+0-0.001 
+0-0.08
+
+" 
+
+Table  2 
+
+Certified  Values  for  Leachable  Anions  and  Cations 
+
+Constituent 
+
+SRM  2678 
+
+SRM  _2680 
+
+SRM  2681 
+
+45-79 
+Xp:  <1 
+0.33-0.80 
+73-121 
+47-85 
+Xp:  <3 
+
+. 
+
+3.9  -10.4 
+Xp:  <1 
+0.37-0.69 
+30-47 
+Xp:  <10 
+Xp:  <12 
+
+43-77 
+Xp:  <1 
+Xp:  <1 
+2.2-3.6 
+0.82  -  4.7 
+Xp:  <1.5 
+
+CT  (ug) 
+F  (ug) 
+K*  (ug) 
+Na*  (ug) 
+NOS"  (ug) 
+SO4~  (ug) 
+
+Definitions: 
+
+Limit  of  detection  (Xp):  The  Xp  refers  to  the  underlying  true  analyte  concentration  that  the  employed  chemical 
+measurement  process  is  capable  of  detecting.  [Ref:  "Detection  in  Analytical  Chemistry  -  Importance,  Theory,  and 
+Practice,"  ACS  Symposium  Series  361,  pp  10,  Lloyd  A.  Currie,  Editor,  1988.] 
+
+Two-sided  Tolerance  Interval: 
+A  two-sided  tolerance  interval  was  computed  for  those  constituent  elements  in 
+which  no  “less  than"  results  were  reported.  The  computed  two-sided  tolerance  intervals  are  constructed,  at  the 
+90%  confidence  level,  to  cover  the  analyte  concentrations  of  90%  of  the  population  of  filters.  These  intervals  were 
+computed  as  X  +  (2.077)s  for 
+n=25  and  X  +  (2.065)s  for  n=26,  after  the  data  were  first  converted  to  logarith- 
+mic  scale. 
+
+” 
+
+One-sided  Tolerance  Interval  (interval  from  0  to  some  limit):  For  elements  that  had  one  or  more  "less  than"  values 
+in  the  measurement  data,  a  one-sided  upper  tolerance  interval  was  computed  using  a  nonparametric  method.  [Ref.: 
+Natrella,  Mary  G.,  Experimental  Statistics,  National  Bureau  of  Standards  Handbook  91,  U.S.  Government  Print- 
+ing  Office,  1966,  page  2-15.]  These  intervals,  which  extend  from  0  to  the  maximum  observed  concentration,  are 
+also  constructed  to  cover  90%  of  the  population  of  filters  at  a  confidence  level  of  90%.
+
+

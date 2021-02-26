@@ -1,0 +1,1429 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 3280 
+ 
+Multivitamin/Multielement Tablets 
+
+ 
+validating  analytical  methods  for  the 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of vitamins, carotenoids, and elements in dietary supplement tablets and similar matrices.  This SRM 
+can  also be  used  for quality  assurance when  assigning  values  to  in-house  control  materials.   A unit  of  SRM 3280 
+consists of five bottles, each containing 30 tablets.  The SRM is provided as whole tablets because some of the vitamins 
+are  coated  or  encapsulated  to  provide  stability  and  grinding  would  compromise  this  coating.    Each  tablet  weighs 
+approximately 1.5 g. 
+ 
+The  development  of  SRM 3280  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health (NIH), Office of Dietary Supplements (ODS). 
+ 
+Values were derived from the combination of results provided by NIST and collaborating laboratories.  The certified and 
+reference values in this material are the equally weighted means of the individual sets of NIST results and the means of 
+the individual sets of measurements made by collaborating laboratories, as available.  The associated uncertainties are 
+expanded uncertainties at the 95 % level of confidence, as described below [1–4].  Values are reported on a dry-mass 
+basis in mass fraction units [5]. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values of selected vitamins, carotenoids, and elements 
+are provided in Tables 1 and 2.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [6]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for additional vitamins, carotenoids, and elements 
+are provided in Tables 3 and 4.  Reference values are noncertified values that are the best estimate of the true values 
+based on available data; however, the values do not meet the NIST criteria for certification [6] and are provided with 
+associated uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, 
+or may reflect a lack of sufficient statistical agreement among multiple analytical methods. 
+ 
+Expiration of Certification:  The certification of SRM 3280 is valid, within the measurement uncertainty specified, 
+until  31 October 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Warning and Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+icate,  NIST  will  notify  the
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Support  for  the  development  of  SRM 3280  was  provided  in  part  by  the  NIH-ODS.    Technical  consultation  was 
+provided by J.M. Betz of NIH-ODS. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.C. Sander 
+and  S.A. Wise  of  the  NIST  Chemical  Sciences  Division  and  K.E. Sharpless  of  the  Special  Programs  Office.  
+Acquisition of the material was coordinated by K.E. Sharpless. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  01 August 2019 
+Certificate Revision History is on Page 9 
+
+  
+
+SRM 3280 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 13 
+
+ 
+
+Analytical  measurements  from  the  NIST  Chemical  Sciences  Division  were  performed  by  C.Q. Burdette, 
+S.J. Christopher,  D. Cleveland,  R.D. Day,  C.G. Jongsma,  S.E. Long,  E.A. Mackey, A.F. Marlow,  B.C. Nelson, 
+R.L. Paul,  K.W. Phinney,  B.J. Porter,  C.A. Rimmer,  J.R. Sieber,  R.O. Spatz,  J.B. Thomas,  R.Q. Thompson, 
+L.J. Wood, L.L. Yu, and R. Zeisler. 
+ 
+Analytical  measurements  from  the  U.S.  Department  of  Agriculture (USDA, Beltsville, MD)  were  performed  by 
+e  direction  of 
+R. Atkinson,  P. Chen, and R. Goldschmidt under the direction of W.R. Wolf and E. Greene under the direction of 
+J. Harnly. 
+ 
+Laboratories participating in a European Committee for Standardization (CEN) interlaboratory comparison exercise 
+that provided results are:  Danish Institute for Food and Veterinary Research, Søborg, Denmark; DSM Nutritional 
+Products,  Research  and  Development  Analytical  Research  Center,  Kaiseraugst, Switzerland;  Food  and  Consumer 
+Product  Safety  Authority (VWA),  Eindhoven, The  Netherlands;  Nestlé  Research  Center,  Quality  and  Safety 
+Assurance Department, Lausanne, Switzerland; Swedish National Food Administration, Research and Development 
+Department, Uppsala, Sweden. 
+ 
+Laboratories  participating  in  an  interlaboratory  comparison  exercise  organized  by  the  Grocery  Manufacturers 
+Association (GMA)  Food  Industry Analytical  Chemists  Committee (FIACC)  that  provided  results  are:    Campbell 
+Soup  Company,  Camden, NJ;  Covance,  Madison, WI;  General  Mills,  Inc.,  James  Ford  Bell  Technical  
+Center,  Golden  Valley, MN;  Krueger  Food  Laboratories,  Inc.,  Billerica, MA;  Novartis  Nutrition  Corporation, 
+St. Louis  Park, MN.    The  GMA  FIACC  interlaboratory  comparison  exercise  was  coordinated  by  I-P. Ho  of 
+GMA (Washington, DC). 
+ 
+Office  of  Reference 
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+WARNING AND INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Warning:  For research use.  Not for human consumption.  Individual tablets should not be analyzed because of 
+tablet-to-tablet  variability.    The  variation  of  measured  element  mass  fractions  from  tablet  to  tablet  ranges  from 
+approximately 15 % to 25 %, therefore instructions for use (below) must be followed. 
+ 
+Storage:  The material should be stored at controlled room temperature (20 °C to 25 °C), in an unopened bottle, until 
+required for use.  Freshly ground powder was observed to gain an average of 0.075 % of its original mass in 3 h after 
+grinding.  After 24 h, the average gain was 0.11 % at 44 % relative humidity and a temperature of 21 °C.  Vitamins are 
+stable for at least 4 d following opening of the bottle; some vitamins have been observed to be unstable in ground material 
+but this instability has not been fully investigated.  Use of a freshly ground portion for vitamin analyses is recommended. 
+ 
+Use:  At least 15 tablets must be ground to obtain a homogeneous sample prior to removal of a test portion for analysis.  
+NIST analysts used two methods to grind tablets to a powder prior to analysis: (1) thirty tablets were ground in a disk 
+mill, which involved shaking in an orbital pattern for 6 min, (2) batches of 15, 20, or 30 tablets were ground for 10 min 
+using an automated mortar and pestle.  (Note that 6 min of shaking in a disk mill did not grind the tablets, particularly 
+the coating material, as finely as did the other technique.)  For certified values to be valid, test portions of the powder 
+equal to or greater than 0.6 g to 2 g for carotenoids and fat-soluble vitamins, 0.3 g to 2 g for water-soluble vitamins, 
+and 0.25 g to 4.5 g for elements should be used.  Test portions should be analyzed as received and results converted 
+to a dry-mass basis by determining moisture content (described below) on a separate test portion. 
+ 
+PREPARATION AND ANALYSIS(1) 
+
+Material  Acquisition  and  Preparation:    A  manufacturer  of  multivitamin/multielement  tablets  prepared  a 
+non-commercial  batch  of  tablets  according  to  their  normal  procedure.    SRM 3280  is  a  direct-compression  tablet 
+formulation  produced  by  blending  a  vitamin  and  a  mineral  pre-mix  with  the  remaining  bulk  of  the  formulation, 
+compression,  and  tablet  film  coating.    Fat-soluble  vitamins  and  carotenoids  (retinyl  acetate,  β-carotene,  lutein, 
+ergocalciferol, and dl-α-tocopheryl acetate) were added as gelatin beadlets.  The film  coating consisted of triethyl 
+citrate, polysorbate 80, yellow #6 aluminum-lake, hypromellose, and titanium dioxide. 
+ 
+Analytical Approach for Determination of Vitamins and Carotenoids:  Value assignment of the mass fractions of 
+the vitamins and carotenoids in SRM 3280 was based on the combination of measurements from several different 
+analytical methods at NIST and USDA and in two interlaboratory comparison exercises involving the GMA FIACC 
+                                                 
+(1)Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+ate 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+National  Institute  of  Standards
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3280 
+
+Page 2 of 13 
+
+times. 
+
+  An 
+
+  The 
+
+repeated 
+
+extraction  was 
+
+isocratic  LC method  with 
+
+and  CEN  laboratories [7].    NIST  provided  measurements  by  using  a  combination  of  liquid  chromatography (LC) 
+methods  with  different  detection  methods,  i.e.,  evaporative  light  scattering  detection (ELSD)  and  mass 
+spectrometry (MS),  positive-ion  and  negative-ion  MS/MS,  and  absorbance  detection (abs),  as  described  below.  
+USDA  used  LC/abs,  LC/fluorescence,  and  LC/MS  for  measurement  of  water-soluble  vitamins.    GMA  and  CEN 
+laboratories  used  their  usual  methods.    Methods  used  for  measurement  of  vitamins  and  carotenoids  are  listed  in 
+Table A1. 
+ 
+NIST Analyses  for  Carotenoids  and  Fat-Soluble Vitamins:   Vitamin E  (as  α-tocopheryl  acetate)  and  vitamin K 
+(phylloquinone  or  phytonadione)  were  measured  by  using  a  combination  of  LC/abs  and  LC/MS  methods,  and 
+carotenoids (lutein,  cis-β-carotene,  and  trans-β-carotene)  were  measured  by  using  two  LC/abs  methods [8,9]; 
+vitamin A (measured  as  retinyl  acetate  and  reported  as  retinol  equivalents)  and  vitamin D2 (ergocalciferol)  were 
+he 
+measured at NIST using LC/MS [9].  Calibrants were prepared gravimetrically at levels intended to approximate the 
+nd
+levels of the analytes in the SRM.  Internal standards were employed; a single solution was used for the calibrants and 
+samples. 
+ 
+for  Measurement  of  Retinyl  Acetate,  α-Tocopheryl  Acetate,  Ergocalciferol,  and 
+LC/MS  Detection 
+Phylloquinone (Phytonadione).    Tablets  were  ground  as  described  above  in  “Warning  and  Instructions  for  
+Storage  and  Use”.    Single  0.6 g  portions  of  the  powder  from  each  of  six  bottles  were  combined  with 
+ethylenediaminetetracetic acid (EDTA) solution and held at 45 °C to dissolve the gel encapsulation of some of the 
+fat-soluble vitamins.  An internal standard solution containing retinyl acetate-d6, vitamin K1-d4, or vitamin D2-d3, was 
+added and samples were placed in an ultrasonicating bath for 10 min.  Analytes were extracted into hexane by shaking 
+a 
+five 
+overnight. 
+methanol/acetonitrile (ACN)/ammonium  acetate  mobile  phase  and  a  polymeric  C18 column  were  used  for  LC/MS 
+determination of the fat-soluble vitamins.  The separation was monitored at 287 nm, and MS was used for quantitation.  
+A typical separation is provided in Appendix B [9]. 
+ 
+LC/abs for Measurement of Carotenoids, Retinyl Acetate, and α-Tocopheryl Acetate – Method 1.  Tablets were ground 
+as described above.  Two 2 g portions of the powder from each of six bottles were combined with dilute hydrochloric 
+acid and were placed in a 37 °C ultrasonicating bath for about 25 min with intermittent manual shaking.  An internal 
+standard solution (δ-tocopherol) was added to each sample, and samples were returned to the ultrasonicating bath for 
+an additional 5 min.  Analytes were extracted into hexane by shaking overnight.  At least three subsequent extractions 
+into hexane were performed (1 h on the shaker) until the organic layer was colorless.  Hexane layers were combined, 
+and  10 mL  extract  was  removed,  evaporated  to  dryness  under  nitrogen,  and  reconstituted  in  ethanol  containing 
+butylated hydroxytoluene (BHT).  An isocratic LC method with a methanol/triethylamine (TEA)/ACN mobile phase 
+and  a  polymeric  C18 column  held  at  25 °C  were  used  for  the  determination  of  carotenoids,  retinyl  acetate,  and 
+α-tocopheryl acetate, with absorbance measured at 450 nm, 325 nm, and 284 nm, respectively.  The absorbance of the 
+internal standard, δ-tocopherol, was measured at 284 nm.  A typical separation is provided in Appendix B [8].  (Note 
+that this method was used for determination of the mass fraction of retinyl acetate and its homogeneity on the original 
+certificate dated 14 January 2009.  Results obtained by using this method were not used when the reference value for 
+retinol was updated in 2011.) 
+ 
+LC/abs Detection for Measurement of Carotenoids – Methods 2a and 2b.  Tablets were ground as described above.  
+Approximately 0.6 g portions of the powder from each of eight bottles were combined with an EDTA solution and an 
+internal standard solution, containing either trans-β-apo-8’-carotenal or trans-β-apo-10’-carotenal oxime, and held at 
+45 °C to dissolve gel encapsulation.  Analytes were then extracted into hexane for 60 min five times, and the extracts 
+were combined.  For Method 2a, a C30 carotenoid column and water/ammonium acetate/acetone gradient were used 
+for  the  determination  of  lutein  with  absorbance  measured  at  450 nm.    For  Method 2b,  a  C18 column  and  an 
+ACN/methanol  (containing  ammonium  acetate)/ethyl  acetate  gradient  were  used  for  the  determination  of  cis-  and 
+trans-β-carotene at 450 nm.  Typical separations are provided in Appendix B [8]. 
+ 
+NIST  Analyses  for  Water-Soluble  Vitamins:    Water-soluble  vitamins,  including  vitamin B1  (thiamine  HCl), 
+vitamin B2 (riboflavin), vitamin B3 (niacinamide), vitamin B5 (pantothenic acid), vitamin B6 (pyridoxine HCl), folic 
+acid, biotin, cyanocobalamin, and vitamin C (ascorbic acid), were measured by using combinations of two LC methods 
+with  absorbance  detection,  ELSD,  MS,  MS/MS,  or  inductively  coupled  plasma  mass  spectrometry (ICP-MS).  
+Calibrants were prepared gravimetrically at levels intended to approximate the levels of the vitamins in the SRM.  In 
+cases where an internal standard was employed, a single solution was used for the calibrants and samples. 
+ 
+LC/abs for Analysis of Vitamins B1, B2, B6, C, and Niacinamide.  Tablets were ground as described above in “Warning 
+and Instructions for Storage and Use”.  Vitamins B1, B2, B6, C, and niacinamide were measured by LC/abs in single 
+2 g test  portions  taken  from  each  of  six  bottles.    Test  portions  were  combined  with  HCl,  and  an  internal  solution 
+containing 4-pyridoxic acid was added.  The mixture was sonicated and centrifuged, and a portion of the supernatant 
+was removed and filtered prior to analysis.  A gradient LC method with potassium phosphate dibasic buffer and ACN 
+
+SRM 3280 
+
+Page 3 of 13 
+
+. 
+
+Folic  Acid. 
+
+and  a  C18 column  were  used  with  absorbance  detection  at  260 nm  for  vitamins B1, B6, C,  and  niacinamide,  and  at 
+266 nm for vitamin B2.  A typical separation is provided in Appendix C. 
+ 
+LC/MS for Analysis of Vitamins B1, B2, B6, Niacinamide, and Pantothenic Acid.  Vitamins B1, B2, B6, niacinamide, 
+and pantothenic acid were measured by LC/MS in two 0.25 g test portions taken from each of six bottles.  Four internal 
+standards were added:  13C3-thiamine chloride, 2H4-niacinamide, 13C3,15N-calcium pantothenate, and 13C4-pyridoxine 
+HCl.   The  analytes  and  internal  standards were  extracted  into dilute  acetic  acid for  analysis  by  positive-ion  mode 
+LC/MS.  A gradient LC method with an ammonium formate buffer/methanol mobile phase and a C18 column were 
+used for determination of B1, B2, B6, niacinamide, and pantothenic acid.  Transitions were measured at:  m/z 265 for 
+thiamine, m/z 268 for 13C3-thiamine, m/z 123 for niacinamide, m/z 127 for 2H4-niacinamide, m/z 220 for pantothenic 
+acid, m/z 224 for 13C3,15N-pantothenic acid, m/z 170 for pyridoxine and m/z 174 for 13C4-pyridoxine.  The transition 
+for riboflavin was measured at m/z 377, with 13C4-pyridoxine as the internal standard.  A typical separation is provided 
+in Appendix C [9]. 
+ 
+Folic  acid 
+Negative-Ion  Mode  LC/MS/MS  for  Analysis  of  Folic  Acid.    Tablets  were  ground  as  described  above.    Folic  acid 
+measurements were made on two 0.3 g test portions taken from each of six bottles.  An internal standard, 13C5-folic 
+acid,  was  added.    The  internal  standard  and  folic  acid  were  extracted  into  water  containing  dithiothreitol  and 
+ammonium hydroxide for negative-ion mode LC/MS/MS.  A gradient LC method with a water/methanol/acetic acid 
+mobile  phase  and  a  pentafluorylphenyl  column  were  used.    The  transitions  at  m/z 440 → m/z 311 (folic  acid)  and 
+m/z 445 → m/z 311 (13C5-folic acid) were monitored [10]. 
+ 
+Positive-Ion  Mode  LC/MS/MS  for  Analysis  of  Folic  Acid.    Tablets  were  ground  as  described  above.    Folic  acid 
+Folic  acid
+measurements were made on two 0.3 g test portions taken from each of six bottles.  An internal standard, 13C5-folic 
+acid,  was  added.    The  internal  standard  and  folic  acid  were  extracted  into  a  methanol/water  mixture  containing 
+dithiothreitol for positive-ion mode LC/MS/MS.  A gradient LC method with a water/methanol/formic acid mobile 
+phase  and  a  pentafluorylphenyl  column  were  used.    The  transitions  at  m/z  442 → m/z 295 (folic  acid)  and 
+m/z 447 → m/z 295 (13C5-folic acid) were monitored [10]. 
+ 
+LC/MS for Analysis of Biotin.  Tablets were ground as described above.  Biotin was measured in two 1.5 g test portions 
+taken from each of six bottles.   2H2-biotin was added as an internal standard, and the analytes were extracted into 
+methanol [11].  An isocratic LC method with a water/methanol/formic acid mobile phase and a C18 column were used.  
+Transitions for biotin and 2H2-biotin were measured at m/z 245 and m/z 247, respectively. 
+ 
+LC/ELSD for Analysis of Biotin.  Tablets were ground as described above.  Biotin was measured in two 1.5 g test 
+portions  taken  from  each  of  six  bottles.    Desthiobiotin  was  added  as  an  internal  standard,  and  the  analytes  were 
+extracted into an aqueous formic acid solution.  An isocratic LC method with a water/methanol/formic acid mobile 
+phase and a cyanopropyl column were used for LC/ELSD determination of biotin. 
+ 
+LC/ICP-MS  for  Analysis  of  Cyanocobalamin.    Tablets  were  ground  as  described  above.    Cyanocobalamin  was 
+measured in 4.5 g test portions taken from each of ten bottles.  Water-soluble vitamins were extracted into water, and 
+gallium  was  added  as  an  internal  standard.    An  isocratic  LC  method  with  a  methanol/water  mobile  phase  and  a 
+C18 column  were  used  for  separation  of  cyanocobalamin  from  cobalt  and  other  extracted  constituents.  
+Cyanocobalamin was measured as cobalt using LC/ICP-MS. 
+ 
+Analytical Approach for Determination of Elements:  Value assignment of the mass fractions of the elements in 
+SRM 3280 was based on the combination of measurements from several different analytical methods at NIST and in 
+an interlaboratory comparison exercise involving GMA FIACC laboratories.  NIST provided measurements by using 
+prompt gamma activation analysis (PGAA), instrumental neutron activation analysis (INAA), radiochemical neutron 
+activation analysis (RNAA), X-ray fluorescence spectrometry (XRF), and inductively coupled plasma spectrometry 
+with optical emission (ICP-OES) or ICP-MS detection with isotope dilution (ID) in some cases.  GMA laboratories 
+used their usual methods.  Table A2 lists the methods used for measurement of the elements. 
+ 
+NIST Analyses for As, B, Cd, Cu, Hg, I, K, Mo, Ni, P, Pb, Se, Sn, V, and Zn by Using ICP-OES and ICP-MS:  
+Tablets were ground as described above in “Warning and Instructions for Storage and Use”.  Copper, molybdenum, 
+nickel, phosphorus, potassium, vanadium, and zinc were measured by ICP-OES in duplicate test portions (0.35 g to 
+0.4 g) taken from each of six bottles of SRM 3280.  Samples for ICP-OES analysis were digested in Teflon beakers 
+in  nitric,  perchloric,  and  hydrofluoric  acids.    Arsenic,  boron,  iodine,  nickel,  selenium,  and  tin  were  measured  by 
+ICP-MS in single test portions (0.25 g to 0.45 g) taken from each of six or ten bottles.  Except for samples in which 
+iodine was measured, samples for ICP-MS and ID-ICP-MS analyses were digested in microwave systems; samples in 
+which arsenic, boron, nickel, selenium, and tin were measured were digested in nitric and hydrofluoric acids, samples 
+in  which  cadmium  was  measured  were  digested  in  nitric  and  hydrofluoric  acids,  and  samples  in  which  lead  was 
+measured were digested in nitric acid.  Samples in which iodine was measured were digested in an alkaline solution 
+
+SRM 3280 
+
+Page 4 of 13 
+
+of  sodium  hydroxide  and  sodium  sulfite  and  were  measured  by  ICP-MS  with  standard  additions.    Cadmium  was 
+isolated  from  interferences  (Mo  and  Sn,  in  particular)  by  solid-phase  extraction  and  measured  by  ID-ICP-MS  in 
+collision-cell mode in single test portions (0.25 g) taken from each of ten bottles.  Lead was measured by ID-ICP-MS 
+in single test portions (0.5 g) taken from each of six bottles.  Mercury was measured by using ID cold vapor ICP-MS 
+(ID-CV-ICP-MS) in two 0.5 g test portions taken from a single bottle.  Samples for mercury analysis were digested 
+in  a  mixture  of  nitric  acid  and  hydrogen  peroxide.    The  mass  fraction  of  mercury  was  too  low  for  quantitation.  
+Quantitation for ICP-OES and non-ID-ICP-MS analyses was based on the method of standard additions. 
+ 
+NIST Analyses for Ca, Co, Cr, Cu, Fe, I, La, Mg, Mn, Mo, Na, Sb, Se, V, and Zn by Using INAA:  Tablets were 
+ground as described above, and antimony, calcium, cobalt, chromium, copper, iodine, iron, lanthanum, magnesium, 
+manganese, molybdenum, selenium, sodium, vanadium, and zinc were measured using INAA.  Individual disks were 
+prepared from 0.2 g test portions taken from each of eight bottles; a duplicate was prepared from one of the bottles.  
+Disks were formed using a stainless steel die and hydraulic press.  Standards were prepared by transferring a weighed 
+portion  of  a  solution  containing  a  known  amount  of  each  element  onto  filter  papers  or  from  pure  elements  or 
+compounds of known purity.  For analysis of short-lived nuclides (calcium, copper, iodine, magnesium, manganese, 
+sodium, and vanadium), samples, standards, and controls were packaged individually in clean polyethylene bags and 
+irradiated individually at 20 MW.  For analysis of long-lived nuclides (antimony, cobalt, chromium, iron, lanthanum, 
+molybdenum, selenium, and zinc), samples, standards, and controls were irradiated for 3 h; irradiation capsules were 
+then inverted 180º, and materials were irradiated another 3 h.  Short-lived nuclides were counted for 5 min after a 
+2 min decay and again for 20 min following a 15 min decay.  For the long-lived irradiations, a 4 h count followed a 
+5 d decay and an 8 h count followed a 25 d decay. 
+ 
+NIST Analyses for B, Cl, Cu, Fe, K, and Ti by Using PGAA:  Tablets were ground as described above, and boron, 
+chlorine, copper, iron, potassium, and titanium were measured by using PGAA.  Individual disks were formed from 
+0.75 g test portions taken from each of six bottles and duplicate test portions taken from each of two bottles of the 
+SRM.  Disks were formed using a stainless steel die and hydraulic press.  Standards were prepared by transferring a 
+weighed portion of a solution containing a known amount of each element onto filter papers.  Disks were formed from 
+the dried filter papers.  Samples, standards, and controls were packaged individually in clean polyethylene bags and 
+irradiated individually at 20 MW, which provided a neutron fluence rate of 3.0 × 108 cm–2s–1.  The following γ-ray 
+lines were used for quantitation:  477 keV line from 10B (corrected for 10B in the background and for 23N at 472 keV 
+from the sample), 770 keV line from 39K, 6111 keV line from 35Cl, 341 keV and 1381 keV lines from 48Ti, 278 keV 
+line from 63Cu, and 352 keV line from 56Fe. 
+ 
+NIST Analyses for As by Using RNAA:  Tablets were ground as described above, and arsenic was measured by using 
+RNAA.  Individual disks were formed from 0.2 g test portions taken from each of five bottles of the SRM.  Disks 
+were formed using a stainless steel die and hydraulic press.  Standards were prepared by transferring a weighed portion 
+of a solution containing a known amount of arsenic onto filter papers.  Disks were formed from the dried filter papers.  
+Samples,  standards,  and  controls  were  packaged  individually  in  clean  polyethylene  bags  and  irradiated  in  one 
+polyethylene irradiation vessel for 2 h at 20 MW, which provided a neutron fluence rate of 1.0 × 1014 cm–2s–1.  Samples 
+and controls were combined with 77As tracer and digested in nitric and perchloric acids.  Arsenic was sequestered on 
+hydrated manganese dioxide resins, which were then counted.  The 559 keV line from decay of  76As was used for 
+quantitation.  The 239 keV line from decay of 77As was evaluated for yield determination. 
+ 
+NIST Analyses for Ca, Cr, Fe, K, Mg, Mn, Mo, P, Si, and Sr by Using XRF:  Tablets were ground as described 
+above,  and  calcium,  chromium,  iron,  magnesium,  manganese,  molybdenum,  phosphorus,  potassium,  silicon,  and 
+strontium were measured by using XRF in duplicate or triplicate test portions of 4.5 g taken from each of six bottles. 
+Samples were prepared by borate fusion, and samples were cast as 40 mm diameter beads.  (Average loss on fusion 
+at 975 °C was 53.2 % of the average (as-received) mass.)  The K-L2,3 characteristic X-ray lines of calcium, chromium, 
+iron, magnesium, manganese, molybdenum, phosphorus, potassium, silicon, and strontium were used for quantitation.  
+Sample beads were bracketed with at least four synthetic standards for calibration [12,13]. 
+ 
+Determination of Moisture:  Moisture content of SRM 3280 was determined at NIST in ground tablets (see “Warning 
+and Instructions for Storage and Use”) by (1) freeze-drying to constant mass over 8 d; (2) drying over magnesium 
+perchlorate in a desiccator at room temperature for 5 d, 7 d, and 12 d; and (3) drying for 4 h in a forced-air oven at 
+80 °C.  Unweighted results obtained using all three techniques were averaged to determine a conversion factor of 
+(0.9863 + 0.0051) gram dry mass per gram as-received mass, which was used to convert data from an as-received to 
+a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty.  An uncertainty component for the 
+conversion  factor (0.26 %)  obtained  from  the  moisture  measurements  is  incorporated  in  the  uncertainties  of  the 
+certified and reference values, reported on a dry-mass basis, that are provided in this certificate. 
+ 
+Homogeneity Assessment:  The homogeneity of carotenoids, retinol, and α-tocopheryl acetate was assessed at NIST 
+by using the LC/abs method described above.  The homogeneity of vitamins B1, B2, B6, niacinamide, and pantothenic 
+
+SRM 3280 
+
+Page 5 of 13 
+
+acid was assessed at NIST by using the LC/MS method described above.  The homogeneity of folic acid and biotin 
+was assessed at NIST using both value-assignment methods described above.  The homogeneity of various elements 
+was assessed at NIST by using ICP-OES, INAA, PGAA, and XRF.  Analysis of variance did not show inhomogeneity 
+for the test portions analyzed.  All measurands were treated as though they were homogeneously distributed, although 
+homogeneity of all measurands was not assessed. 
+ 
+Certified Mass Fraction Values for Vitamins, Carotenoids, and Elements:  Each certified mass fraction value, 
+expressed on a dry-mass basis, is an equally weighted mean of the individual sets of results provided by the individual 
+NIST methods, individual means of two USDA methods, the mean of the CEN laboratories’ data, and the mean of the 
+GMA data, where available.  The uncertainty in the certified value, calculated according to the method described in 
+the  ISO/JCGM  Guide and  its  Supplement 1 [1–4],  is  expressed  as  an  expanded  uncertainty, U.    The  expanded 
+uncertainty  is  calculated  as  U = kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the 
+combined  effect  of  between-laboratory,  within-laboratory,  and  drying  components  of  uncertainty.    The  coverage 
+factor k corresponds to approximately 95 % confidence for each analyte.  The measurand is the total mass fractions of 
+each vitamin, carotenoid, and element in Tables 1 and 2.  Metrological traceability to the SI derived unit for mass 
+fraction (expressed as milligrams per gram, micrograms per gram, or nanograms per gram as noted in the tables). 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for Vitamins and Selected Carotenoids in SRM 3280 
+
+ 
+
+ 
+
+α-Tocopherol(a,b,c,d,e) 
+Ascorbic acid(b,d,e,g) 
+Thiamine hydrochloride(b,c,d,f,g) 
+Riboflavin(b,c,e,h) 
+Niacinamide(b,c,d,f,g) 
+Pantothenic acid(c,d,e,g) 
+Pyridoxine hydrochloride(b,c,d,g,h) 
+ 
+ 
+
+Folic acid(c,d,e,g) 
+Cyanocobalamin(d,e,i) 
+Biotin(c,d,e,g,j) 
+Phylloquinone(c,d,e) 
+Trans-β-carotene(b,d) 
+Total β-carotene(b,d) 
+
+Mass Fraction 
+(mg/g) 
+
+21.4  ± 
+42.2  ± 
+1.06  ± 
+1.32  ± 
+14.10  ± 
+7.30  ± 
+1.81  ± 
+
+3.5 
+3.7 
+0.12 
+0.17 
+0.23 
+0.96 
+0.17 
+
+Mass Fraction 
+(μg/g) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Coverage Factor, k 
+
+2.78 
+3.15 
+2.77 
+3.17 
+2.49 
+3.17 
+2.76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coverage Factor, k 
+
+22 
+1.0 
+3.2 
+2.2 
+
+± 
+4.8  ± 
+23.4  ± 
+22.8  ± 
+
+  394 
+ 
+ 
+ 
+  420 
+  514 
+
+±  100 
+87 
+± 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.74 
+2.00 
+2.77 
+2.36 
+2.45 
+2.00 
+
+ 
+(a) α-Tocopherol was added to SRM 3280 as α-tocopheryl acetate.  The certified value is expressed as α-tocopherol equivalents. 
+(b) LC/abs (NIST) 
+(c) LC/MS (NIST) 
+(d) CEN 
+(e) GMA 
+(f)  LC/abs (USDA) 
+(g) LC/MS (USDA) 
+(h) LC/fluorescence (USDA) 
+(i)  LC/ICP-MS (NIST) 
+(j)  LC/ELSD (NIST) 
+ 
+
+ 
+
+SRM 3280 
+
+Page 6 of 13 
+
+Table 2.  Certified Mass Fraction Values for Selected Elements in SRM 3280 
+
+ 
+
+ 
+
+Boron (B)(a,b) 
+Calcium (Ca)(c,d,e) 
+Chloride (Cl)(b,e) 
+Copper (Cu)(b,c,e,f) 
+Iodine (I)(a,c) 
+Iron (Fe)(b,c,d,e) 
+Magnesium (Mg)(c,d,e) 
+Manganese (Mn)(c,d,e) 
+Phosphorus (P)(d,e,f) 
+Potassium (K)(b,d,e,f) 
+Zinc (Zn)(c,e,f) 
+ 
+
+ 
+
+Arsenic (As)(a,g) 
+Chromium (Cr)(c,d) 
+Lead (Pb)(h) 
+Molybdenum (Mo)(c,d,f) 
+Nickel (Ni)(a,e) 
+Selenium (Se)(a,c) 
+ 
+ 
+
+Mass Fraction 
+(mg/g) 
+
+0.141 
+
+ 
+± 
+  110.7 
+± 
+53.0 
+ 
+± 
+± 
+1.40 
+ 
+0.1327  ± 
+ 
+± 
+ 
+± 
+ 
+± 
+ 
+± 
+ 
+± 
+ 
+ 
+± 
+ 
+
+12.35 
+67.8 
+1.44 
+75.7 
+53.1 
+10.15 
+
+0.007 
+5.3 
+2.3 
+0.17 
+0.0066 
+0.91 
+4.0 
+0.11 
+3.2 
+7.0 
+0.81 
+
+Mass Fraction 
+(μg/g) 
+
+± 
+0.132 
+93.7 
+± 
+0.2727  ± 
+± 
+70.7 
+± 
+8.43 
+± 
+17.42 
+
+0.044 
+2.7 
+0.0024 
+4.5 
+0.30 
+0.45 
+
+Mass Fraction 
+(ng/g) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Coverage Factor, k 
+
+2.36 
+2.45 
+2.45 
+2.12 
+2.23 
+3.18 
+2.31 
+2.57 
+2.16 
+2.02 
+2.00 
+ 
+Coverage Factor, k 
+
+2.00 
+2.06 
+2.14 
+2.57 
+2.00 
+2.00 
+ 
+Coverage Factor, k 
+
+Cadmium (Cd)(h) 
+
+80.15 
+
+± 
+
+0.86 
+
+2.03 
+
+ 
+(a) ICP-MS (NIST) 
+(b) PGAA (NIST) 
+(c) INAA (NIST) 
+(d) XRF (NIST) 
+(e) GMA 
+(f)  ICP-OES (NIST) 
+(g) RNAA (NIST) 
+(h) ID ICP-MS (NIST) 
+ 
+
+ 
+
+SRM 3280 
+
+Page 7 of 13 
+
+Reference  Mass  Fraction Values  for Vitamins A  and  D,  Carotenoids  and  Elements:    Reference  mass  fraction 
+values for carotenoids and elements, expressed on a dry-mass basis, are equally weighted means of the individual sets 
+of results provided by the individual NIST methods, the mean of the CEN laboratories’ data, and the mean of the 
+GMA data, where available.  The uncertainty in the reference values, calculated according to the method described in 
+the ISO/JCGM Guide [1–3], is expressed as an expanded uncertainty, U.  The expanded uncertainty is calculated as 
+U = kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the  combined  effect  of 
+within-laboratory and drying components of uncertainty.  The coverage factor (k) is determined from the Student's 
+t-distribution corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence for 
+each analyte.  The measurand is the mass fraction of each vitamin, carotenoid, and element listed in Tables 3 and 4, as 
+determined by the methods indicated.  Metrological traceability to the SI derived unit for mass fraction (expressed as 
+micrograms per gram). 
+ 
+The reference mass fraction value for vitamin A is expressed on a dry-mass basis as retinol equivalents and is the 
+mean of NIST results provided using LC/MS.  The uncertainty in the reference value, calculated according to the 
+method described in the ISO/JCGM Guide [1], is expressed as an expanded uncertainty, U.  The expanded uncertainty 
+is calculated as U = kuc, where uc incorporates within-method uncertainty and components for the use of two different 
+retinyl  acetate  absorptivities  (1535 dL/g cm  and  1560 dL/g cm)  and  for  spectrophotometric  measurement  of  the 
+calibrants, and k is a coverage factor corresponding to approximately 95 % level of confidence. 
+ 
+The reference mass fraction value for vitamin D, expressed on a dry-mass basis, is the mean of NIST results provided 
+using LC/MS.  The uncertainty in the reference value is expressed as an expanded uncertainty, U calculated as U = kuc, 
+where uc incorporates within-method uncertainty and a component for inhomogeneity, consistent with the ISO/JCGM 
+Guide  and  its  Supplement 1 [1,3,4],  and  k  is  a  coverage  factor  corresponding  to  approximately  95 %  level  of 
+confidence.  The value for vitamin D was redetermined in 2013 following questions about its stability.  The variability 
+in measurements had increased since the original characterization, and a component for heterogeneity is now included 
+in the assigned value. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Vitamins A and D and Selected Carotenoids in SRM 3280 
+
+ 
+
+Retinol(a,b) 
+Lutein(c,d,e) 
+Cis-β-carotene(c) 
+Ergocalciferol(b) 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(μg/g) 
+
+444  ±  46 
+205  ±  50 
+7 
+72  ± 
+2.6 
+8.6 ± 
+
+Coverage Factor, k 
+
+ 
+ 
+ 
+ 
+
+2.00 
+2.16 
+2.06 
+2.00 
+
+(a) Retinol was added to SRM 3280 as retinyl acetate.  The reference value is expressed as retinol equivalents. 
+(b) LC/MS (NIST) 
+(c) LC/abs (NIST 
+(d) CEN 
+(e) GMA 
+ 
+ 
+
+Table 4.  Reference Mass Fraction Values for Selected Elements in SRM 3280 
+ 
+
+Coverage Factor, k 
+
+ 
+
+ 
+
+Antimony (Sb) (a) 
+Cobalt (Co)(a) 
+Lanthanum (La)(a) 
+Silicon (Si)(b) 
+Sodium (Na)(a) 
+Strontium (Sr)(b) 
+Tin (Sn)(c) 
+Titanium (Ti)(d) 
+Vanadium (V)(a,e) 
+
+Mass Fraction 
+(μg/g) 
+
+0.159  ± 
+0.81  ± 
+0.70  ± 
+
+0.008 
+0.01 
+0.01 
+
+ 
+ 
+ 
+ 2010 
+  330 
+  29.8 
+  11.1 
+ 5400 
+8 
+ 
+
+±  10 
+±  20 
+± 
+± 
+±  300 
+2 
+± 
+
+0.2 
+0.9 
+
+2.30 
+2.22 
+2.23 
+2.00 
+2.36 
+2.00 
+2.56 
+2.25 
+2.00 
+
+(a) INAA (NIST) 
+(b) XRF (NIST) 
+(c) ICP-MS (NIST) 
+(d) PGAA (NIST) 
+(e) ICP-OES (NIST) 
+
+SRM 3280 
+
+Page 8 of 13 
+
+REFERENCES 
+
+ 
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+[5] 
+
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Aug 2019); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Aug 2019). 
+Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+JCGM  101:2008;  Evaluation  of  Measurement  Data  –  Supplement 1  to  the  Guide  to  the  Expression  of 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method; 
+Uncertainty 
+JCGM (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Aug 2019). 
+Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+Publication 811;  U.S.  Government  Printing  Office:  Washington, DC 
+at 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Aug 2019). 
+
+available 
+
+(2008); 
+
+[7] 
+
+[6]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed Aug 2019). 
+Sander, L.C.;  Sharpless, K.E.;  Wise, S.A.;  Long, S.E.;  Mackey, E.A.;  Malow, A.F.;  Nelson, B.C.; 
+Phinney, K.W.;  Porter, B.J.;  Rimmer, C.A.;  Sieber, J.R.;  Spatz, R.O.;  Thomas, J.B.;  Turk, G.C.;  Wood, L.J.; 
+Yu, L.L.;  Zeisler, R.;  Yen, J.H.;  Duewer, D.L.;  Atkinson, R.;  Chen, P.;  Goldschmidt, R.;  Greene, E.; 
+Harnly, J.;  Wolf, W.R.;  Ho, I-P.;  Betz, J.M.;  Certification  of  SRM 3280  Multivitamin/Multielement  Tablets; 
+Anal. Chem., Vol. 83, pp. 99–108 (2011). 
+Phinney, K.W.;  Rimmer, C.A.;  Thomas, J.B.;  Sander, L.C.;  Sharpless, K.E.;  Wise, S.A.;  Isotope  Dilution 
+Liquid  Chromatography  –  Mass  Spectrometry  Methods  for  Fat-  and  Water-Soluble  Vitamins  in  Nutritional 
+Formulations; Anal. Chem., Vol. 83, pp. 92–98 (2011). 
+Thomas, J.B.;  Sharpless, K.E.;  Yen, J.H.;  Rimmer, C.A.;  Determination  of  Fat-Soluble  Vitamins  and 
+Carotenoids 
+in  Standard  Reference  Material 3280  Multivitamin/Multi-element  Tablets  by  Liquid 
+Chromatography with Absorbance Detection, J. AOAC Intl., Vol. 94, pp. 815–822 (2011). 
+
+[8] 
+
+[9] 
+
+[10]  Nelson, B.C.;  Sharpless, K.E.;  Sander, L.C.;  Quantitative  Determination  of  Folic  Acid  in  Multivitamin/ 
+Multielement  Tablets  Using  Liquid  Chromatography/Tandem  Mass  Spectrometry;  J.  Chromatogr.  A., 
+Vol. 1135, pp. 203 (2006). 
+
+rv  the  Separation 
+[11]  Nelson, B.C.;  Sharpless, K.E.;  Sander, L.C.;  Improved  Liquid  Chromatography  Methods  for  the  Separation 
+and  Quantification  of  Biotin  in  Multivitamin/Multielement  Tablets;  J.  Agric.  Food  Chem.,  Vol. 54,  
+pp. 8710–8715 (2006). 
+
+[12]  Sieber, J.R.; Matrix-Independent XRF Methods for Certification of Standard Reference Materials; Adv. X-Ray 
+
+Anal., Vol. 45, pp. 493–504 (2002). 
+
+[13]  Sieber, J.;  Broton, D.;  Fales, C.;  Leigh, S.;  MacDonald, B.;  Marlow, A.;  Nettles, S.;  Yen, J.;  Standard 
+
+Reference Materials for Cements; Cem. Concr. Res., Vol. 32, pp. 1899–1906 (2002). 
+
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  01 August 2019 (Change of expiration date; editorial changes); (11 May 2016 (Change of expiration date; editorial 
+changes);  05 August 2014  (Extension  of  certification  period;  editorial  changes);  31 July 2013  (Changed  Vitamin  D2  value  from  certified  to 
+reference;  editorial  changes);  11 February 2013  (Corrected  Table 1  footnotes  for  ascorbic  acid;  editorial  changes);  09 May 2012  (Corrected 
+Table 1 footnotes for ascorbic acid and riboflavin, Table 2 footnotes for iron and molybdenum, Table 3 footnote for Cis-β-carotene, Table 4 footnote 
+for  vanadium;  editorial  changes);  31 October 2011  (Addition  to  the  description  of  preparation  and  analysis  of  ICP-MS  I  samples); 
+12 September 2011 (Correction to the units for Cd in Table 2 and units in Table 4); 17 June 2011 (Addition of certified values for As, Cd, and Pb; 
+change  of  reference  values  to  certified  values  for  Ni,  Se,  and  Vitamin B12;  change  in  the  reference  value  for  retinol;  editorial  changes); 
+14 January 2009 (Original certificate date). 
+  
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+; 
+(301) 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+their  possession  is  current. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+. 
+fax 
+
+ 
+
+- 
+
+ 
+
+SRM 3280 
+
+Page 9 of 13 
+
+APPENDIX A 
+ 
+Table A1.  Summary of CEN and GMA FIACC Analytical Methods Used for Measurement of Vitamins and 
+Carotenoids. 
+
+ 
+
+ 
+
+Retinol 
+
+Ergocalciferol (Vitamin D2) 
+
+α-Tocopherol (Vitamin E) 
+
+Phylloquinone (Phytonadione,  
+Vitamin K) 
+
+β-carotene 
+Lutein 
+
+Ascorbic acid (Vitamin C) 
+
+ 
+
+Methods 
+
+Saponification - RPLC/abs (3), Saponification - NPLC/abs (5), 
+Extraction - RPLC/abs (1),Extraction - NPLC/abs (1) 
+
+Saponification - RPLC/abs (4), Saponification - NPLC/abs (1), 
+Extraction - NPLC/abs (1), Saponification - RPLC/NPLC/abs (1) 
+
+Saponification - NPLC/fluorescence (3), Saponification - NPLC/abs (1), 
+Extraction - RPLC/abs (1) 
+
+RPLC/reduction - fluorescence (4), Enzymatic reduction - fluorescence (1) 
+
+Extraction - RPLC/abs (3) 
+
+Saponification - RPLC/abs (1), Extraction - RPLC/abs (1), 
+Extraction - NPLC/abs (1) 
+
+Abs (1), Fluorescence (4), RPLC/electrochemical (1),  
+Electrochemical titration (1) 
+
+Thiamine HCl (Vitamin B1 HCl)  Digestion - fluorescence (1), Extraction - RPLC/abs (1), 
+
+Riboflavin (Vitamin B2) 
+
+Extraction - RPLC/fluorescence (2) 
+
+Digestion - fluorescence (3), Extraction - RPLC/abs (1) 
+Extraction - RPLC/fluorescence (3) 
+
+Niacin (Niacinamide) 
+
+Microbiological (2), Extraction - RPLC/abs (1) 
+
+Pantothenic Acid (Vitamin B5) 
+
+Microbiological (3), RPLC/abs (1), RPLC/MS (1) 
+
+Pyridoxine HCl (Vitamin B6 
+HCl) 
+
+Microbiological (1), Extraction - RPLC/fluorescence (2) 
+
+Biotin (Vitamin B7) 
+
+Microbiological (3), RPLC/abs (1), RPLC/MS (1) 
+
+Folic acid (Vitamin B9) 
+
+Microbiological (4), RPLC/abs (2) 
+
+Cyanocobalamin (Vitamin B12)  Microbiological (4) 
+
+ 
+NOTE:  RPLC: Reversed-phase LC, NPLC: Normal-phase LC.  Number in () corresponds to number of laboratories 
+using the method. 
+ 
+ 
+ 
+
+Table A2.  Summary of GMA FIACC Analytical Methods Used for Measurement of Elements. 
+
+ 
+
+Element 
+
+Calcium 
+Chloride 
+Copper 
+Iron 
+Magnesium 
+Manganese 
+Phosphorus 
+Potassium 
+Zinc 
+
+Methods 
+
+ICP-OES (4), FAAS (1) 
+Potentiometric titration (2) 
+ICP-OES (3), FAAS (1) 
+ICP-OES (4), FAAS (1) 
+ICP-OES (4), FAAS (1) 
+ICP-OES (3), FAAS (1) 
+ICP-OES (3), Colorimetry (1) 
+ICP-OES (4), FAAS (1) 
+ICP-OES (4), FAAS (1) 
+
+ 
+NOTE:  Number in () corresponds to number of laboratories using the method. 
+ 
+
+ 
+
+ 
+
+SRM 3280 
+
+Page 10 of 13 
+
+ 
+Chromatograms of fat-soluble vitamins and carotenoids by LC/MS (Figure B1) and LC/abs Method 1 (Figure B2) and 
+Method 2 (Figure B3). 
+ 
+
+APPENDIX B 
+
+trans-retinyl acetate
+
+13-
+
+cis
+
+-retinyl acetate
+
+trans-retinyl acetate-d6
+
+α-Tocopheryl acetate
+
+D2
+
+D -d2
+
+3
+
+m/z=269
+
+m/z=275
+
+m/z=473
+
+m/z=398
+
+m/z=401
+
+K1
+
+m/z=452
+
+K -d1
+
+4
+
+m/z=456
+
+20
+
+ 
+
+5
+
+10
+
+15
+
+Time (minutes)
+
+Figure B1.    Chromatographic  conditions  for  LC/MS  were  as  follows:    A  15 cm  ACE C18 column 
+(Advanced Chromatography Technologies, Aberdeen, Scotland) was held at 25 °C.  The isocratic mobile 
+phase  consisted  of  methanol:    ACN  (40 %:60 %  volume  fractions)  containing  5 mmol/L  ammonium 
+acetate  at  a  flow  rate  of  1 mL/min.    MS detection  conditions  were  as  follows:    nebulizer  pressure 
+240 kPa (35 psi), fragmentor 100 V, drying gas temperature 350 °C, drying gas flow rate 6 L/min, corona 
+current 4 µA, capillary voltage 3500 V, and vaporizer temperature 350 °C. 
+
+ 
+ 
+
+ 
+ 
+
+SRM 3280 
+
+Page 11 of 13 
+
+Retinyl acetate
+
+5-Tocopherol 
+(I.S.) 
+
+α-Tocopheryl acetate
+
+  
+
+  
+cc” 
+
+  
+
+λ2
+
+Lutein
+
+  A    
+
+λ3
+
+  
+
+0
+
+λ1
+
+Trans- -carotene
+
+β
+
+Zeaxanthin
+
+Cis- -carotene
+
+β
+
+  
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Time (min)
+
+30
+
+ 
+
+Figure B2.  Chromatographic conditions for LC/abs Method 1.  Polymeric C18 column (Vydac 201TP; The 
+Separations  Group,  Hesperia, CA)  was  held  at  25 ºC  and  a  mobile  phase  consisting  of  96 % ACN/4 % 
+methanol  containing  0.05 %  TEA  at  a  flow  rate  of  0.8 mL/min.    Absorbance  was  measured  at  325 nm 
+(retinyl acetate), 284 nm (tocopherols), and 450 nm (carotenoids). 
+
+ 
+
+ 
+ 
+
+YMC column
+
+Trans-B-apo-8'-carotenal  (I.S.) 
+
+Lutein
+
+wl 
+
+Time (min)
+
+Trans- -carotene
+
+β
+
+  
+
+  
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+Bakerbond column
+
+Trans- -apo-10’-carotenal oxime
+(I.S.)
+
+β
+
+    
+
+Cis- -carotene isomers
+ers 
+
+β
+
+30
+
+ 
+
+ 
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Time (min)
+
+ 
+Figure B3.    Chromatographic  conditions  for LC/abs  Methods 2a  and 2b:    For  Method 2a, on  the YMC 
+C30 carotenoid column (Waters Corporation, Milford, MA), the separation was performed using a gradient 
+to 
+of  40 %  solvent A (2 mmol/L  ammonium  acetate 
+100 % solvent B (volume  fractions)  at  a  flow  rate  of  1 mL/min.    Column  temperature  was  25 °C,  and 
+absorbance  detection  was  at  450 nm.    For  Method 2b,  on  the  Bakerbond  C18 column  (J.T. Baker, 
+Phillipsburg, NJ),  a  ternary  solvent  method  was  used.  Solvent A  was  ACN,  solvent B  was  methanol 
+containing 0.05 mol/L  ammonium  acetate, and  solvent C was  ethyl  acetate.   Each of  the  three  solvents 
+contained a volume fraction of 0.05 % TEA.  The method consisted of two linear gradients and an isocratic 
+component. 
+to 
+75 % solvent A/18 % solvent B/7 % solvent C  in  10 min.    A  second  linear  gradient  ran  from  this 
+composition  to  68 %  solvent A/25 %  solvent B/7 % solvent C  in  5 min.    The  flow  rate  was  1 mL/min, 
+column temperature was 29 °C, and absorbance detection was at 450 nm. 
+
+in  water)  and  60 %  solvent B (acetone) 
+
+solvent A/2 % solvent B 
+
+gradient 
+
+98 % 
+
+from 
+
+first 
+
+The 
+
+ran 
+
+ 
+
+  
+
+SRM 3280 
+
+Page 12 of 13 
+
+  
+
+0
+
+  
+
+0
+
+APPENDIX C 
+
+ 
+Chromatograms of water-soluble vitamins by LC/MS (Figure C1) and LC/abs Method 1 (Figure C2).  Peak identities:  
+acid,  B6 = pyridoxine 
+B1 = thiamine  hydrochloride,  B2 = riboflavin,  B3 = niacinamide,  B5 = pantothenic 
+hydrochloride, C = ascorbic acid, and 4-PA = 4-pyridoxic acid (internal standard). 
+ 
+ 
+
+B3
+
+B6
+
+B1
+
+  
+
+B5
+
+  
+     
+
+B2
+
+  
+
+5
+
+10
+
+15
+
+30
+
+35
+
+40
+
+25
+
+20
+Time (min)
+
+ 
+Figure C1.    Chromatograms  of  water-soluble  vitamins  by  LC/MS:    A  25 cm  Cadenza  CD-C18 column 
+(Silvertone  Sciences,  Philadelphia, PA)  was  held  at  22 °C.    The  gradient  mobile  phase  consisted  of 
+methanol and an aqueous solution of 20 mmol/L ammonium formate (pH 4.0) at a flow rate of 0.8 mL/min.  
+MS detection conditions were as follows:  nebulizer pressure, 350 kPa (50 psig); fragmentor, 110 V; drying 
+gas temperature, 350 °C; drying gas flow rate, 13 L/min; and capillary voltage, 4000 V. 
+
+ 
+
+C
+
+B3
+
+  
+
+B1
+
+  
+
+  
+  
+  
+     
+
+4-PA
+
+ 
+
+B2
+
+B6
+
+Time (min)
+
+ 
+Figure C2.  Chromatographic conditions for LC/abs:  Pro C18 column (YMC, Waters, Milford, MA) held 
+at 26 ºC and a gradient mobile of 0.02 mol/L potassium phosphate dibasic (pH 3.1) as solvent A and ACN 
+as solvent B) at a flow rate of 1 mL/min.  Solvent A was held constant at 100 % for 20 min, then conditions 
+were changed to 75 % A and 25 % B over 5 min.  These conditions were held constant for an additional 
+15 min.  Absorbance was measured at 260 nm for vitamins B1, B3, B6, and C and at 266 nm for vitamin B2. 
+
+SRM 3280 
+
+Page 13 of 13 
+
+ 
+
+ 
+
+

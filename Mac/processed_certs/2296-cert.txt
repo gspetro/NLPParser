@@ -1,0 +1,1021 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2296 
+
+ 
+
+ 
+Reformulated Gasoline (13 % ETBE) 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  calibration  of  instruments  and  the 
+evaluation of methods used for the determination of total sulfur, benzene, toluene, and ethyl tert-butyl ether (ETBE) 
+in  reformulated  gasoline  or  similar  matrices.    A  unit  of  SRM 2296  consists  of  a  set  of  two  20 mL  ampoules 
+containing a synthetic gasoline blend of 25 organic compounds. 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  and  associated  95 %  confidence  intervals  are 
+given in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or taken into account [1]. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  and  associated  95 %  confidence  intervals  are 
+given in Table 2.  A NIST reference value is a noncertified value that is an estimate of the true value.  However, the 
+value does not meet the NIST criteria for certification and is provided with an associated uncertainty that may reflect 
+only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical 
+agreement among multiple analytical methods [1]. 
+ 
+Expiration of Certification:  The certification of SRM 2296 is valid, within the measurement uncertainty specified, 
+until 31 December 2022, provided that the SRM is handled and stored in accordance with the instructions given in 
+this  certificate.  (See  “Instructions  for  Storage  and  Use.”)    However,  the  certification  is  nullified  if  the  SRM  is 
+damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification.  
+ 
+The  overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+G.W. Kramer and F.R. Guenther of the NIST Analytical Chemistry Division. 
+ 
+Analytical  measurements 
+this  SRM  were  performed  by  S.N. Chesler, 
+S.J. Choquette, F.R. Guenther, T.L. Green, W.R. Kelly, J.L. Mann, S.A. Margolis, L.C. Sander, and R.D. Vocke, Jr. 
+of the NIST Analytical Chemistry Division.  Data analysis was performed by D.L. Duewer of the NIST Analytical 
+Chemistry Division.  
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  18 September 2012 
+Certification Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+for  certification  of 
+
+required 
+
+SRM 2296 
+
+ 
+
+Page 1 of 5 
+
+NOTICE AND WARNING TO USERS 
+ 
+Consult the Material Safety Data Sheet for details on safe handling before use.  Ensure local exhaust or adequate 
+ventilation in storage and laboratory facilities meet published gasoline exposure limits.  Prevent contact with heat, 
+sparks, or open flame.  Those handling gasoline should wear appropriate clothing and gloves to prevent skin contact 
+with this material and appropriate safety goggles to prevent eye contact. 
+ 
+Protect ampoules from physical damage.  The unscored, thick-walled ampoules of this SRM must be opened with 
+care and attention.  Score the ampoule completely around the neck with a sharp triangular file or other scoring tool.  
+Wrap the body of the ampoule in a thick cotton towel or use leather gloves while snapping the neck from the body 
+of the ampoule. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C to 30 °C away 
+from incompatible materials (see “Notice and Warning to Users”).  Ampoules should be opened as described above. 
+ 
+Use:    Aliquots  for  analysis  (minimum  sample  size  of  1 g)  should  be  withdrawn  at  20 °C  to  25 °C  and  used 
+immediately  after  opening  the  ampoules.   Samples  must  be  processed without delay  for  the  certified  values  to  be 
+valid within the stated confidence intervals. 
+ 
+SOURCE AND PREPARATION 
+ 
+This  SRM  was  prepared  by  Spectrum  Quality  Standards,  Inc.  at  their  facilities  in  Houston,  TX(1).    All  chemicals 
+used in the preparation of this material were obtained from commercial sources.  The synthetic gasoline base was 
+prepared from twenty-one reagent-grade saturate, olefinic, and aromatic stock materials.  A typical gas chromatogram 
+of the reformulated gasoline base is shown in Figure 1.  Three reagent-grade thionate stock materials were mixed with 
+HPLC-grade ETBE.  Known masses of synthetic gasoline base, thionate/ETBE mixture, and ETBE were combined, 
+mixed, and chilled in a pressurized vessel.  The solution was dispensed into 20 mL glass ampoules; the ampoules 
+were cooled to –30 °C and flame sealed. 
+ 
+Homogeneity Assessment:  The homogeneity of SRM 2296 was assessed at NIST at a 1 g sample size. 
+ 
+Value Assignment:  The mass fraction (mass constituent/total mass) of sulfur is based on isotope-dilution thermal 
+ionization  mass  spectrometry [2].    The  mass  fraction  of  benzene  and  the  mass  fraction  of  ETBE  are  based  upon 
+split-injection,  flame-ionization  detection  gas  chromatographic  (GC-FID)  analysis  coupled  with  gravimetry.    The 
+mass fraction of toluene is based upon reverse-phase liquid chromatography, GC-FID analysis, and gravimetry.  The 
+reference value of water is based on coulometric Karl Fischer titration.  The major aromatic and olefinic constituents of the 
+synthetic base gasoline were determined using GC-FID after a rigorous evaluation of the purity of the constituent stock 
+materials by gas chromatography-mass spectrometry (GC/MS).  The reference values of the organic components of this 
+SRM have been deduced from the GC-FID measurements of the base gasoline composition combined with the known 
+mass of the various components of the mixture.  The aromatic, olefinic, and saturate composite reference values are the 
+sum of all constituents identified as belonging to each of these groupings.  The reference value of the total organic oxygen 
+composite is the sum of the oxygen mass fraction of all identified organic oxygenates. 
+ 
+The  95 %  confidence  interval  for  each  certified  and  reference  value  has  been  assigned  on  the  basis  of  analytical 
+judgment [3,4].    It  incorporates  estimates  of  analytical  precision,  known  biases  among  methods  of  differing 
+analytical reliability, reliability estimates for the mass-spectrometric identification of impurities, and allowance for 
+apparent  heterogeneity  among  the  ampoules.    The  certified  mass  fraction  of  each  component  is  expected  to  lie 
+within the specified interval with a 95 % level of confidence.  The reference values do not meet NIST criteria for 
+certification and the uncertainty associated with each reference value may not include all sources of uncertainty. 
+ 
+
+                                                           
+
+(1) Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by NIST, nor does it imply that the 
+materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2296 
+
+Page 2 of 5 
+
+ 
+
+Table 1.  Certified Mass Fraction Values for Selected Constituents of SRM 2296 
+
+Constituent 
+
+CAS 
+Registry Number 
+
+Total sulfur 
+Benzene 
+Toluene 
+ETBE 
+
+ 
+ 
+ 
+ 
+
+71-43-2 
+108-88-3 
+637-92-3 
+
+Mass Fraction 
+(g/g) 
+40.0  ×  10-6 
+1.01 ×  10-2 
+8.02 ×  10-2 
+13.02 ×  10-2 
+
+ 
+ 
+ 
+ 
+
+95 % Analytical Confidence Interval 
+(g/g) 
+
+ 
+ 
+ 
+ 
+
+(39.6 
+
+(1.00 
+(7.92 
+(12.87 
+
+to  40.4)  ×  10-6 
+1.02)  ×  10-2 
+to 
+8.11)  ×  10-2 
+to 
+to  13.17)  ×  10-2 
+
+Table 2.  Reference Mass Fraction Values for Selected SRM 2296 Constituents 
+
+Constituent 
+
+CAS Registry 
+Number 
+
+Mass Fraction 
+( 10-2) 
+(g/g) 
+
+95 % Analytical Confidence
+Interval ( 10-2) 
+(g/g) 
+
+1,2,4,5-Tetramethylbenzene 
+Naphthalene 
+Ethylbenzene 
+1,3,5-Trimethylbenzene 
+o-Xylene 
+1,2,4-Trimethylbenzene 
+m-Xylene and p-xylene 
+
+Total identified aromatics 
+ 
+1-Pentene 
+2,3-Dimethyl-2-butene 
+1-Heptene 
+Total identified olefins 
+ 
+n-Pentane 
+n-Hexane 
+n-Decane 
+n-Heptane 
+2,4-Dimethylpentane 
+n-Octane 
+Cyclohexane 
+2,2,4-Trimethylpentane 
+Total identified saturates 
+ 
+Thiophene 
+Benzo[b]thiophene 
+3-Methylthiophene 
+ 
+Water 
+ 
+Total oxygen from identified 
+organic oxygenates 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+95-93-2 
+91-20-3 
+100-41-4 
+108-67-8 
+95-47-6 
+95-63-6 
+108-38-3 
+106-42-3 
+
+109-67-1 
+563-79-1 
+592-76-7 
+
+109-66-0 
+110-54-3 
+124-18-5 
+142-82-5 
+108-08-7 
+111-65-9 
+110-82-7 
+540-84-1 
+
+110-02-1 
+95-15-8 
+616-44-4 
+
+7732-18-5 
+
+0.98 
+1.17 
+1.99 
+2.01 
+2.01 
+2.05 
+5.98 
+
+25.38 
+ 
+0.75 
+1.61 
+1.63 
+4.14 
+ 
+3.63 
+3.77 
+4.21 
+7.92 
+8.05 
+8.13 
+9.01 
+12.02 
+57.10 
+ 
+
+0.0031 
+0.0069 
+0.0036 
+
+ 
+
+0.018 
+
+ 
+2.06 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+25.27 
+
+to  25.56 
+
+0.96 
+1.15 
+1.98 
+1.99 
+1.99 
+2.02 
+5.96 
+
+0.73 
+1.59 
+1.60 
+4.12 
+
+3.62 
+3.76 
+4.20 
+7.91 
+8.04 
+8.12 
+9.00 
+12.01 
+57.05 
+
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+
+to 
+to 
+to 
+to 
+
+1.03 
+1.19 
+2.01 
+2.04 
+2.05 
+2.08 
+6.02 
+
+0.78 
+1.64 
+1.66 
+4.18 
+
+3.64 
+to 
+3.78 
+to 
+4.22 
+to 
+7.93 
+to 
+8.06 
+to 
+8.14 
+to 
+9.02 
+to 
+to  12.03 
+to  57.14 
+
+0.0030  to 
+0.0068  to 
+0.0035  to 
+
+0.0032 
+0.0070 
+0.0037 
+
+0.017 
+
+to 
+
+0.019 
+
+2.01 
+
+to 
+
+2.08 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+SRM 2296 
+
+ 
+
+Page 3 of 5 
+
+e
+u
+e
+w
+e
+d
+-
+u
+ 
+
+ 
+ 
+
+e
+u
+s
+j
+u
+e
+g
+-
+L
+ 
+
+—
+~
+ 
+
+s
+u
+l
+,
+ 
+
+U
+o
+R
+U
+S
+}
+I
+e
+Y
+N
+ 
+
+3
+g
+1
+5
+ 
+—
+>
+}
+ 
+
+10
+
+e
+u
+e
+x
+e
+y
+o
+j
+o
+k
+D
+ 
+
+k
+e
+ 
+
+e
+u
+e
+x
+e
+H
+-
+u
+ 
+
+ 
+ 
+
+e
+u
+e
+i
+n
+g
+-
+z
+-
+l
+A
+U
+u
+j
+o
+w
+i
+g
+-
+¢
+e
+'
+z
+ 
+
+°
+F
+ 
+
+S
+u
+B
+j
+U
+S
+d
+|
+A
+Y
+J
+O
+W
+U
+N
+G
+-
+P
+'
+T
+ 
+
+ 
+ 
+
+ 
+ 
+
+e
+u
+e
+z
+u
+e
+q
+ 
+
+|
+ 
+
+z
+_
+ 
+
+e
+u
+s
+l
+d
+e
+}
+{
+-
+1
+ 
+
+2
+ 
+
+S
+u
+B
+e
+j
+U
+S
+E
+d
+W
+U
+j
+ 
+A
+Y
+y
+ 
+
+-
+p
+'
+z
+'
+T
+ 
+
+e
+u
+e
+j
+d
+e
+p
+H
+-
+u
+
+  
+ 
+ 
+ 
+
+20 
+
+ 
+ 
+
+ 
+ 
+
+s
+u
+s
+n
+j
+o
+L
+ 
+
+e
+u
+e
+p
+o
+-
+u
+ 
+
+e
+u
+s
+j
+|
+A
+x
+-
+O
+ 
+
+U
+S
+A
+ 
+
+D
+U
+ 
+
+A
+ 
+
+e
+u
+e
+z
+u
+s
+e
+q
+j
+A
+u
+I
+S
+
+n
+   
+ 
+t
+ 
+ 
+ 
+
+e
+u
+e
+z
+u
+e
+d
+i
+A
+u
+j
+e
+u
+-
+n
+p
+'
+s
+Z
+'
+ 
+ 
+
+1
+ 
+
+e
+u
+e
+z
+u
+e
+q
+A
+u
+y
+i
+s
+u
+l
+l
+i
+i
+-
+s
+‘
+e
+'
+L
+ 
+
+E
+b
+ 
+
+e
+u
+e
+s
+e
+q
+g
+-
+u
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+e
+u
+e
+z
+u
+s
+d
+i
+A
+Y
+y
+j
+e
+U
+u
+l
+e
+s
+j
+-
+}
+S
+‘
+9
+p
+8
+'
+Z
+4
+‘
+ 
+ 
+
+L
+ 
+
+—
+—
++
+ 
+
+s
+u
+s
+j
+e
+u
+j
+y
+d
+e
+n
+ 
+—
+—
+ 
+
+30 
+
+40 
+
+50 
+
+60 
+
+Minutes 
+
+Figure 1.  Chromatogram of reformulated gasoline base.  Conditions:  100 m methylpolysiloxane column; 
+injector  temperature  200 °C;  split  ratio  200:1;  initial  temperature  35 °C,  hold  10 min,  programming  rate 
+4 °C per min to 200 °C, final hold 10 min; detector temperature 280 °C.  Except for m-xylene and p-xylene, 
+the  components  unresolved  by  the  conditions  used  to  obtain  the  chromatogram  in  Figure 1  may  be 
+separated  using  the  following:  30 m  (6 %  cyanopropyl)  methylpolysiloxane  column;  injector  temperature 
+200 °C; split ratio 200:1 initial temperature 30 °C, initial hold 5 min, programming rate 25 °C per min to 
+200 °C, final hold 0.2 min; detector temperature 280 °C. 
+
+ 
+
+ 
+
+ 
+
+SRM 2296 
+
+ 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Sep 2012). 
+
+[2]  Kelly, W.R.; Paulsen, P.J.; Murphy, K.E.; Vocke, R.D.; Chen, L.-T.; Determination of Sulfur in Fossil Fuels 
+
+[3] 
+
+[4] 
+
+by Isotope Dilution Thermal Ionization Mass Spectrometry; Anal. Chem., Vol. 66, p. 2505 (1994). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) 
+(2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed 
+Sep 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2012). 
+JCGM  101:2008;  Evaluation  of  measurement  data  –  Supplement  1  to  the  Guide  to  the  Expression  of 
+Uncertainty in Measurement – Propagation of Distributions Using a Monte Carlo Method; Joint Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Sep 2012). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  18 September 2012 (Extension of certification period; editorial changes); 05 January 2007 (Corrected reference 
+values  for  3-methylthiophene  and  benzo[b]thiophene);  22 February 2006  (Editorial  changes);  04 January 2006  (Editorial  changes); 
+30 December 2005 (Extension of certification period); 10 March 1998 (Original certificate date).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301)  948-3730; 
+ 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+fax 
+
+SRM 2296 
+
+ 
+
+Page 5 of 5 
+
+

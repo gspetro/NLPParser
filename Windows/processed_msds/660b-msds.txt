@@ -1,0 +1,588 @@
+﻿Date of Issue: 
+01 August 2013 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+660b 
+Line Position and Line Shape Standard for Powder Diffraction 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended for use in calibration of diffraction line positions and line 
+shapes  determined  through  powder  diffractometry.    A  unit  of  SRM 660b  consists  of  approximately  6 g  of 
+lanthanum hexaboride, LaB6, powder bottled under argon. 
+
+Company Information 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+Label Elements 
+
+Not classified. 
+Not classified. 
+
+Symbol:  No Symbol 
+
+Signal Word:  No Signal Word 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Lanthanum Boride 
+
+Other Designations:  Lanthanum hexaboride. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the Certificate of 
+Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+ 
+
+12008-21-8 
+
+234-531-6 
+
+100 
+
+Lanthanum Boride 
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:    If  adverse  effects  occur,  remove  to  uncontaminated  area.    If  not  breathing,  give  artificial 
+respiration or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+SRM 660b 
+
+ 
+
+Page 1 of 5 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If a large amount is swallowed, seek medical attention. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    No  data  available;  generated  dust  may  result  in 
+irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing media appropriate for the surrounding area. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).  Move 
+container from fire area if it can be done without risk.  Stay upwind and keep out of low areas. 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Keep unnecessary personnel away.  
+Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Notify  safety  personnel  of  spills.    Collect  spilled 
+material in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Avoid generating dust.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handling in accordance with all current regulations and standards. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  No occupational exposure limits have been established for this material.  The exposure limits for 
+Particulates Not Otherwise Regulated are applicable. 
+
+OSHA (PEL):  15 mg/m3 (TWA, total particulates) 
+ 
+
+5 mg/m3 (TWA, respirable particulates) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face  Protection:    Wear  splash  resistant  safety  goggles  with  a  face  shield.    An  eyewash  station  should  be 
+readily available near areas of use. 
+
+Skin  and  Body  Protection:    Personal  protective  equipment  for  the  body  should  be  selected  based  on  the  task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+ 
+
+ 
+
+SRM 660b 
+
+ 
+
+Page 2 of 5 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+ 
+Descriptive Properties: 
+
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Particle Size (if relevant) 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC) 
+
+Flammability (solid, gas): 
+
+ 
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+purple crystalline powder 
+
+LaB6 
+203.78 
+not available 
+not available 
+not available 
+not applicable 
+not available 
+2.610 (relative to water) 
+not applicable 
+not applicable 
+not applicable 
+insoluble in water and HCl 
+not available 
+
+not available 
+ 
+
+not available 
+
+not available 
+
+decomposes 
+not available 
+not available 
+not available 
+
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  No data available. 
+
+Conditions to Avoid:  Generating dust. 
+
+Incompatible Materials:  No data available. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of lanthanum and boron. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION 
+ 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  No data available; generated 
+dust may result in irritation. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:    No  data  available;  exposure  may  result  in  respiratory  tract  irritation.    Chronic  exposure  to  the 
+vapors of some rare earth salts have been reported to result in itching and sensitivity to heat; bronchiolitis and 
+chemical pneumonitis have also been reported. 
+
+SRM 660b 
+
+ 
+
+Page 3 of 5 
+
+Skin  Contact:    No  data  available;  skin  exposure  may  result  in  mechanical  irritation.    Rare  earth  salts  are 
+unlikely to cause irritation to intact skin 
+
+Eye Contact:  No data available; dust may cause mechanical irritation. 
+
+Ingestion:  No data available; ingestion of large amounts  may result in  adverse effects  to the gastrointestinal 
+system. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified; no data available. 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+ Yes 
+Listed as a Carcinogen/Potential Carcinogen 
+Lanthanum boride is not listed by NTP, IARC or OSHA as a carcinogen. 
+
+X  No 
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified; no data available. 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+SRM 660b 
+
+ 
+
+Page 4 of 5 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+No. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  01 August 2013 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS Lanthanum Boride, 23 June 2009. 
+
+CDC;  NIOSH;  NIOSH  Pocket  Guide  to  Chemical  Hazards;  Department  of  Health  and  Human 
+Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and 
+Health; 
+at 
+http://www.cdc.gov/niosh/npg/npgd0480.html (accessed July 2013). 
+
+4 April 2011; 
+
+Particulates 
+
+regulated, 
+
+otherwise 
+
+available 
+
+not 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Level 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short  Term Exposure Level  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the  material.   The SDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current. This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 660b 
+
+ 
+
+Page 5 of 5 
+
+

@@ -1,0 +1,515 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8535a 
+ 
+VSMOW2 Vienna Standard Mean Ocean Water 2 
+ 
+(Hydrogen and Oxygen Isotopes in Water) 
+ 
+This  Reference  Material (RM)  is  an  international  measurement  standard [1]  that  defines  the  zero  of  the 
+VSMOW-SLAP  (Vienna  Standard  Mean  Ocean  Water-Standard  Light  Antarctic  Precipitation)  δ-scales  for 
+isotope-number ratios of hydrogen (H) and oxygen (O).  The equivalent name for this RM, as used by the International 
+Atomic Energy Agency (IAEA) and the U.S. Geological Survey (USGS), is VSMOW2.  A unit of RM 8535a consists 
+of one ampoule containing approximately 20 mL of water. 
+
+Water 
+
+Table 1.  Reference Values for the Relative H and O Isotope-Number Ratios of RM 8535a 
+  
+
+IAEA Name 
+
+ 
+103  δ 2HVSMOW-SLAP 
+
+Expanded Uncertainty 
+103  δ 2HVSMOW-SLAP 
+
+ 
+103  δ 18OVSMOW-SLAP 
+
+Expanded Uncertainty 
+103  δ 18OVSMOW-SLAP 
+
+    
+  
+
+VSMOW2 
+
+0.02 
+
+0.00 
+
+0.3 
+
+0.0 
+
+ 
+Reference  Values  for  the  Relative  Difference  in  Isotope-Number  Ratios:    The  differences  in  measured 
+isotope-number  ratios  of  stable  hydrogen  isotopes [N(2H)/N(1H)]  and  stable  oxygen  isotopes [N(18O)/N(16O)]  are 
+reported  as  δ2H  and  δ18O  values,  respectively.    The  relative  difference  in  isotope-number  ratios  for  hydrogen  and 
+oxygen are defined as:  
+
+hydrogen 
+
+δ2H = ([N (2H)sample /N (1H) sample] – [N (2H) VSMOW-SLAP /N (1H)VSMOW-SLAP]) / [N (2H)VSMOW-SLAP /N (2H)VSMOW-SLAP] 
+
+δ18O = ([N (18O)sample /N (16O)sample] – [N (18O)VSMOW-SLAP /N (16O)VSMOW-SLAP]) / [N (18O)VSMOW-SLAP /N (16O)VSMOW-SLAP
+] 
+
+VSMOW-SLAP refers to the Vienna SMOW-SLAP δ-scales, which are defined by assigning δ2H and δ18O values of 
+0 ‰  to  VSMOW2 (RM 8535a)  and  values  of  –427.5 ‰ (δ2H)  and  –55.50 ‰ (δ18O)  to  measurements  of 
+SLAP2 (RM 8537a)  for  the  purpose  of  normalizing  stable  hydrogen  and  oxygen  isotope  measurements  (see 
+“Normalization”) [2-4]. 
+ 
+Expiration  of  Value  Assignment:    RM 8535a  is  valid,  within  the  measurement  uncertainty  specified,  until 
+ition 
+31 December 2020, provided the RM is handled in accordance with instructions given in this Report of Investigation 
+ged, 
+(see  “Instructions  for  Handling,  Storage,  and  Use”).    The  reference  values  are  nullified  if  the  RM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration 
+(see attached sheet or register online) will facilitate notification. 
+ 
+Technical aspects involved in the issuance of this RM were coordinated through the NIST Chemical Sciences Division 
+by R.D. Vocke, Jr. 
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Office of Reference Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  08 January 2020 
+Report Revision History on Last Page 
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Office  of  Reference  Materials
+
+NIST  Chemi 
+
+ 
+
+Page 1 of 4 
+
+  
+
+RM 8535a 
+
+of  RM 
+
+its  U 
+ting 
+Rep 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Intended Use:  The international measurement standard VSMOW2 is a calibration reference material that, when used 
+together with SLAP2 (RM 8537a), provides water standards with reference values of their relative difference in 2H/1H 
+and  18O/16O  isotope-number  ratios  that  define  the  VSMOW–SLAP δ-scales.    A  third  reference  material,  GISP 
+(Greenland Ice Sheet Precipitation, RM 8536), is also available to check the calibration of internal laboratory standards 
+when  using  VSMOW2  and  SLAP2.    These  three  materials  are  available  from  the  International  Atomic  Energy 
+Agency (IAEA,  Vienna,  Austria)  and  from  the  National  Institute  of  Standards  and  Technology (NIST, 
+Gaithersburg, MD).  
+ 
+international 
+Distribution:    The  distribution  of  RM 8535a (VSMOW2)  is  limited  to  one  unit  per  year.    As  an  international 
+measurement standard, this RM, together with SLAP2 (RM 8537a), is intended to calibrate working standards and 
+allow investigators to produce δ2H and δ18O data that are comparable worldwide [5,6] on the VSMOW–SLAP scale.  
+Users are strongly advised to prepare their own standards for daily use and calibrate those standards against these 
+international reference materials. 
+ 
+Storage and Stability:  The original unopened ampoules of RM 8535a should be stored at ambient temperature in 
+due  to  the  strong  possibility 
+the dark.  The unused fractions of this RM should be discarded immediately after opening due to the strong possibility 
+be  used 
+of evaporative losses causing significant isotope fractionation.  Furthermore, aliquots of this RM should not be used 
+for repeated calibrations by repeated stable isotope measurements using water/CO2 equilibration devices over multiple 
+days due to isotopic exchange  with the applied gas and resulting  shift of the isotopic composition of the  material 
+during the preparation process.  The reference values in this Report of Investigation apply only to freshly opened 
+ampoules. 
+ 
+Absolute  Isotope-Number  Ratios  in  VSMOW2:    No  absolute  isotope-number  ratios  have  been  determined  for 
+VSMOW2.  As the isotopic composition of this material is very close to that of VSMOW (RM 8535), the published 
+absolute  isotope-number  ratios  of  RM 8535  provide  a  good  estimate  of  the  absolute  isotope-number  ratios  in 
+VSMOW2 [7-11].  These values are listed in Table 2 of the Reports of Investigation for Reference Materials 8535, 
+8536, and 8537 [12].  The isotopic values are the same as those recommended by the Bureau International de Poids et 
+Mesures (BIPM) for isotopic corrections to the definition of the kelvin temperature scale in 2005 [13]. 
+ 
+Information Values:  The δ17O value of VSMOW is zero by consensus, just as its δ18O value is zero by consensus.  
+The  δ17O  value  of  VSMOW2  was  measured  and  compared  with  that  of  VSMOW [14]  and  is  identical  within  an 
+uncertainty of about ± 0.03 ‰.  Additional  measurements  were conducted by Y. Lin at the University of Chicago 
+(Chicago, Illinois, USA) in 2007 comparing VSMOW2 and SLAP2 with VSMOW and SLAP, respectively.  These 
+measurements confirmed their equivalence within an uncertainty of about ± 0.05 ‰ for both cases [15]. 
+ 
+The  tritium  activity  concentration  of  VSMOW2,  determined  at  the  IAEA  by  direct  gas  counting,  was 
+3.5 TU ± 1.0 TU (tritium  unit)  on  06 July 2007.    The  reported  uncertainty  is  one  standard  deviation.    Information 
+values cannot be used to establish metrological traceability. 
+ 
+Sample Preparation:  The decision to produce a new international  measurement  standard, VSMOW2, to replace 
+VSMOW came from a recommendation of a Consultants Group Meeting convened by the IAEA in December, 1996.  
+VSMOW2 was prepared at the IAEA Isotope Hydrology Laboratory in 1999 from three fresh water samples: one from 
+Lake Bracciano located near Rome, Italy (R. Gonfianini, G.-M. Zuppi), another from Lake Galilee, Israel (E. Adar), 
+and a third from a well located near Cairo, Egypt (F. Hussein).  These raw water samples were selected because they 
+were close to the isotopic composition of VSMOW and could be mixed in appropriate proportions to give an isotopic 
+composition nearly identical to the original VSMOW.  The δ2H of one of these raw materials had to be adjusted by 
+about 6 ‰ to allow the production of about 300 liters of VSMOW2.  This adjustment was performed via a modified 
+platinum  catalytic  exchange  reaction  using  the  diffusive  exchange  of  hydrogen  gas  between  membrane-separated 
+compartments containing the raw water and deuterated water.  This approach avoided changing the δ17O and δ18O 
+values of the raw material.  The final mixing was performed after measuring the isotopic composition of the raw water 
+in  five  selected  laboratories:    IAEA  Isotope  Hydrology  Laboratory,  Vienna, Austria  (M. Gröning);  USGS  Reston 
+Stable 
+Isotope  Research, 
+Groningen, Netherlands (H.A.J. Meijer); GFZ Isotope Hydrology  Laboratory, Neuherberg, Germany (W. Stichler); 
+and University of East Anglia Isotope Hydrology Laboratory, U.K. (P. Dennis).  Altogether, 300 liters of VSMOW2 
+were prepared by gravimetrically mixing the three water samples in a specially constructed storage container.  Initially 
+5000 glass ampoules were filled with 20 mL of VSMOW2 each.  The remaining portion of about 200 liters remains 
+in the original container for ampouling when needed. 
+ 
+Homogeneity:    A  random  selection  of  27 ampoules  was  taken  from  the  first  production  run  of  5000 ampoules  to 
+assess  the  homogeneity  of  the  mixed  waters  and  any  effects  resulting  from  the  filling  procedure.    Multiple 
+
+5000 
+ing  from  the  filling  procedure
+
+Isotope  Laboratory,  Reston, Virginia, USA 
+
+(T.B. Coplen);  Center 
+
+for 
+
+RM 8535a 
+
+Page 2 of 4 
+
+sould  be  made  on 
+
+over 
+measurements were taken of each ampoule over one to two days, and the resultant data were used to evaluate the 
+tween  the  average  of  all  the 
+analytical reproducibility. The differences between the average of all the data and the individual ampoule means were 
+were
+used to estimate the degree of homogeneity within the sampled population.  The between-ampoule variability was 
+also calculated by single-factor ANOVA analysis [16,17].  The homogeneity uncertainty contribution of the mixed 
+waters to the total uncertainty of measurements between ampoules was found to be negligible, less than 0.004 ‰ for 
+δ18O and less than 0.07 ‰ for δ2H.  The largest uncertainty component in the uncertainty budget was a consequence 
+of the limited number of measurements that could be made on water from any one ampoule. 
+ 
+Characterization  and  Value  Assignment:    The  δ2H  and  δ18O  reference  values  for  VSMOW2  came  from  a 
+characterization study directly comparing VSMOW2 and VSMOW, thereby minimizing the resulting uncertainty of 
+the value assignment processes.  The characterization was carried out by three isotope hydrology laboratories:  the 
+USGS laboratory in Reston, Virginia, USA, the Center for Isotope Research, University of Groningen, Netherlands, 
+and  the  IAEA  Isotope  Hydrology  Laboratory,  Vienna,  Austria.    For  both  δ2H  and  δ18O,  the  mean  value  and  the 
+combined  standard  uncertainty  are  the  result  of  combining  all  measurements  from  the  three  laboratories.    The 
+combined standard uncertainties include contributions from the upper limits for the inhomogeneity between bottled 
+glass ampoules and the residual biases of the mean values.  The results of this study suggest that the δ18O value and 
+the  δ2H  value  of  VSMOW2  are  identical  to  those  in  VSMOW,  within  measurement  uncertainty.    The  combined 
+standard uncertainty associated with the δ2H and δ18O reference values of VSMOW2, as provided in Table 1, should 
+be included in any uncertainty analysis of measurement results when VSMOW2 is used as a calibrator.  Note that the 
+δ-values of the predecessor material, VSMOW, had no associated uncertainty as those  values  were defined as the 
+zeros of the respective δ-scales. 
+ 
+Normalization:    The  δ-values  for  hydrogen  and  oxygen,  when  measured  in  samples,  are  presented  as  parts  per 
+thousand  differences (per  mill; ‰)  from  the  VSMOW  δ-value  normalized  with  the  defined  SLAP  δ-value.    The 
+adoption of VSMOW as the zero point of the δ-scale and of a fixed SLAP δ-value by convention corresponds to the 
+normalization  of  δ-values  on  the  VSMOW-SLAP  scale [2].    A  general  formula  for  normalizing  hydrogen  isotope 
+measurement results using two laboratory standards LS1 (VSMOW2) and LS2 (SLAP2) can be expressed as: 
+ 
+
+2
+H
+δ
+
+sample,cal
+
+=
+
+δ
+
+2
+
+H
+
+LS
+
+1
+
+,cal
+
+(
+2
+H
+δ
+
++
+
+sample,WS
+
+LS
+
+1
+
+,WS
+
+2
+H
+−
+δ
+
+)
+
+×
+
+f
+
+   
+
+ 
+where the normalization factor f is: 
+ 
+
+(
+2
+H
+δ
+
+−
+
+δ
+
+2
+
+H
+
+LS
+
+,2
+
+cal
+
+LS
+
+,1
+
+cal
+
+)
+
+f
+
+=
+
+(
+2
+H
+δ
+
+LS
+
+,2
+
+WS
+
+−
+
+δ
+
+2
+
+H
+
+LS
+
+,1
+
+ 
+
+)WS
+
+ 
+
+ 
+
+ 
+
+(1) 
+
+(2) 
+
+ 
+where   WS denotes measurements made versus a transfer gas (working standard),  
+
+made 
+
+cal denotes calibrated measurements made versus the VSMOW–SLAP scale, and  
+δ2H  LS1,cal  and  δ2HLS2,cal  are  the  conventionally  fixed  δ2H  values  for  VSMOW2  and  SLAP2  or  those  of 
+calibrated laboratory working standards. 
+
+ 
+Similar formulae are used for δ18O. 
+ 
+The  δ-definition  of  Eq. (1)  is  identical  to  the  one  in  conventional  use [9]  if  and  only  if  f = 1,  that  is  if  no  scale 
+compression occurs and the δ-values measured on a given instrument correspond exactly to the recommended values 
+for δVSMOW2 and δSLAP2. 
+ 
+Please note that the reporting scales for δ2H and δ18O are still denoted and referred to as the VSMOW-SLAP scales in 
+spite of the exhaustion of the original supply of VSMOW and SLAP [18].  Therefore in Eq. 1 and Eq. 2, the measured 
+values for the new international measurement standards VSMOW2 and SLAP2 are entered for LS1 and LS2.  The 
+data  are  then  normalized  to  the  VSMOW-SLAP  scale  using  VSMOW2  and  SLAP2.    Of  course,  the  standard 
+uncertainties of VSMOW2 and SLAP2 isotopic values have to be included in any uncertainty budget. 
+ 
+Reporting  of  Stable  Isotope  δ-Values:    The  following  recommendations  are  provided  for  reporting  the  relative 
+difference of hydrogen and oxygen stable isotope-number ratios using the δ-notation modified from Coplen [19], it is 
+recommended that: 
+
+mly  if  f 
+‘tot 
+
+budget 
+
+• 
+
+• 
+
+δ2H values of all hydrogen-bearing substances be expressed relative to VSMOW-SLAP on a scale where 
+δ2HSLAP2  = –427.5 ‰;  
+δ18O values of all oxygen-bearing substances be expressed relative to VSMOW-SLAP or relative to Vienna 
+PeeDee Belemite (VPDB; for carbonates) on a scale such that δ18O SLAP2 = –55.5 ‰ or δ18O NBS19 = –2.2 ‰, 
+respectively;  
+
+RM 8535a 
+
+Page 3 of 4 
+
+• 
+
+the reporting of the relative difference of stable isotope-number ratios relative to SMOW and PDB (PeeDee 
+Belemnite) be discontinued [20]. 
+
+REFERENCES 
+ 
+
+[1] 
+
+ISO/IEC, International Vocabulary of Metrology (VIM); Basic and General Concepts and Associated Terms; 
+Guide 99-12:2007; Joint Committee for Guides in Metrology, International Organization for Standardization, 
+Geneva, 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2008.pdf 
+(accessed Jan 2020). 
+
+pp. 1-127 (2008), 
+
+[2]  Gonfiantini, R.;  Standards  for  Stable  Isotope  Measurements  in  Natural  Compounds;  Nature,  Vol. 271, 
+
+pp 534-536 (1978). 
+
+[3]  Hut, G.; Stable Isotope Reference Samples for Geochemical and Hydrological Investigations (Rep. Consultants 
+Group Meeting, Vienna, 1985). International Atomic Energy Agency, Vienna, pp. 1-42 (1987), available at 
+https://www-naweb.iaea.org/NAALIHL/publications3.shtml (accessed Jan 2020) 
+
+[4]  Coplen, T.B.; Normalization of Oxygen and Hydrogen Data; Chemical Geology, Vol. 72, pp. 293-297 (1988). 
+[5]  Craig, H.; Standard for Reporting Concentrations of Deuterium and Oxygen-18 in Natural  Waters;  Science, 
+
+Vol. 133 pp. 1833-1834 (1961). 
+
+[6]  Craig, H.; Isotopic Variations in Meteoric Waters; Science, Vol. 133, pp. 1702-1703 (1961). 
+[7]  Hagemann, R.; Nief, G.; Roth, E.; Absolute Isotopic Scale for Deuterium Analysis of Natural Waters; Absolute 
+
+D/H ratio for SMOW; Tellus, Vol. 22, pp. 712-715 (1970). 
+
+[8]  De Wit, J.C.; Van der Straaten, C.M.; Mook,W.G.; Determination of the Absolute Hydrogen Isotopic Ratio of 
+
+VSMOW and SLAP; Geostandards Newsletter, No. 4(1), pp. 33-36 (1980). 
+
+[9]  Tse, R.S.; Wong, S.C.; Yuen, C.P.; Determination of Deuterium/Hydrogen Ratios in Natural Waters by Fourier 
+
+Transform Nuclear Magnetic Resonance Spectrometry; Analytical Chemistry, Vol. 52, pp. 2445-2448 (1980). 
+
+[10]  Baertschi, P.;  Absolute  18O  Content  of  Standard  Mean  Ocean  Water;  Earth  and  Planetary  Science  Letters, 
+
+Vol. 31, pp. 341-344 (1976). 
+
+[11]  Li, W.; Ni, B.; Jin, D.; Zhang, Q.; Measurement of the Absolute Abundance of Oxygen-17 in V-SMOW; Kexue 
+
+O 
+
+Tongbao (Chinese Science Bulletin), Vol. 33(19), pp. 1610-1613 (1988). 
+
+rechnology;  U.S.  Department  of 
+[12]  Reference  Materials 8535,  8536,  8537;  National  Institute  of  Standards  and  Technology;  U.S.  Department  of 
+
+Commerce: Gaithersburg, MD (03 March 2005); available at 
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=8535 (accessed Jan 2020). 
+
+[13]  CCQM; Clarification of the Definition of the Kelvin Unit of Thermodynamic Temperature: Recommendation 
+2 (CI-2005);  International  Committee  for  Weights  and  Measures (CCQM),  Bureau  International  de  Poids  et 
+Mesures BIPM, Paris, p. 1 (2005); available at https://www.bipm.org/cc/CIPM/Allowed/94/CIPM-Recom2CI-
+2005-EN.pdf, (accessed Jan 2020). 
+
+[14]  Barkan, E.;  Luz, B.;  High  Precision  Measurements  of  17O/16O  and  18O/16O  ratios  in  H2,O;  Rapid 
+
+Communications in Mass Spectrometry, Vol. 19, pp. 3737-3742 (2005). 
+
+[15]  Lin, Y.;  Clayton, R.N.;  Groening, M.;  Calibration  of  δ17O  and  δ18O  of 
+Standards - VSMOW2, SLAP and SLAP2 - relative to VSMOW (submitted) (2009). 
+
+International  Water 
+
+[16]  Van der Veen, A.M.H.;  Pauwels, J.;  Uncertainty  Calculations 
+
+the  Certification  of  Reference 
+Materials 1; Principles  of  Analysis  of  Variance,  Accreditation  and  Quality  Assurance,  Vol. 5, 
+pp. 464-469 (2000). 
+
+in 
+
+[17]  Van der Veen, A.M.H.;  Linsinger, T.; Pauwels, J.; Uncertainty  Calculations in the Certification of Reference 
+
+Materials 2, Homogeneity study; Accreditation and Quality Assurance, Vol. 6, pp. 26-30 (2001). 
+
+[18]  Gröning, M.; International Stable Isotope Reference Materials; Stable Isotope Analytical Techniques; Vol. 1; 
+
+De Groot, P.A., Eds.; Elsevier, Amsterdam, pp. 874-906 (2004). 
+
+[19]  Coplen, T.B.;  Reporting  of  Stable  Hydrogen,  Carbon  and  Oxygen  Isotopic  Abundances;  Pure  &  Applied 
+
+Chemistry, Vol. 66, No. (2), pp. 273-276 (1994). 
+
+[20]  Coplen, T.; Discontinuance of SMOW and PDB; Nature 375; Nature Publishing Group, pp. 285 (1995). 
+ 
+ 
+
+  
+
+Report Revision History:  08 January 2020 (Updated title; editorial changes); 22 June 2011 (Original report date). 
+
+ 
+
+ 
+ 
+ 
+ 
+Users of this RM should ensure that the Repot of Investigation in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via 
+the Internet at https://www.nist.gov/srm. 
+ 
+
+RM 8535a 
+
+Page 4 of 4 
+
+

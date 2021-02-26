@@ -1,0 +1,962 @@
+﻿Date of Issue: 
+23 March 2016 
+
+ 
+SAFETY DATA SHEET PACKET 
+ 
+
+1934 
+Fluorescent Dyes for Quantitative Flow Cytometry (Visible Spectral Range) 
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+ 
+SRM Description: 
+
+This Standard Reference Material (SRM) is intended for use in assigning fluorescence intensity values to 
+calibration  standards  for  quantitative  flow  cytometry  in  the  visible  spectral  range.    A  unit  of  SRM 1934 
+consists of four amber ampoules,  each containing 2 mL of a different fluorophore solution or suspension.  
+The solutions include Part A: Fluorescein Solution (60 μM aqueous borate buffer solution); Part B: Nile Red 
+Solution (60 μM acetonitrile solution); Part C: Coumarin 30 Solution (acetonitrile solution); and Part D: APC 
+Suspension (Allophycocyanin fluorescent protein in aqueous buffer solution, 100 µL). 
+ 
+
+SRM 1934 Parts: 
+
+Part A:  Fluorescein Solution 
+Part B:  Nile Red Solution 
+Part C:  Coumarin 30 Solution 
+Part D:  APC Suspension 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This page intentionally left blank. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE:  23 March 2016 
+ 
+Product Identifier 
+
+SRM Number: 
+SRM Name: 
+SRM Part: 
+
+1934 
+Fluorescent Dyes for Quantitative Flow Cytometry (Visible Spectral Range) 
+Part A:  Fluorescein Solution 
+
+Under the U.S. Department of Labor, Occupational Safety and Health Administration (OSHA) 29 CFR 1910.1200, 
+this Standard Reference Material (SRM) is NOT classified as a physical hazard or a health hazard, a simple asphyxiant, 
+combustible  dust,  pyrophoric  gas,  or  hazard  not  otherwise  classified.    There  are  no  hazard  pictograms,  hazard 
+statements or signal word associated with it.  Safety Data Sheet information is not required.  This document may be 
+used in conjunction with your hazard communication program. 
+ 
+Description:  This SRM is  intended  for  use  in  assigning fluorescence intensity values to calibration standards for 
+quantitative flow cytometry in the visible spectral range.    A unit of SRM 1934 consists of four amber ampoules, each 
+containing  2 mL  of  a  different  fluorophore  solution  or  suspension.    The  solutions  include  Part A: Fluorescein 
+Solution (60 μM  aqueous  borate  buffer  solution);  Part B:  Nile  Red  Solution  (60 μM  acetonitrile  solution);  Part C: 
+Coumarin 30 Solution (acetonitrile solution); and Part D: APC Suspension (Allophycocyanin fluorescent protein in 
+aqueous buffer solution, 100 µL). 
+ 
+The fluorescein solution is approximately 61 µmol/kg in an aqueous borate buffer (0.10 mol/L) and is not classified 
+as hazardous by OSHA’s 29 CFR 1910.1200. 
+ 
+Disposal:  SRM 1934 Part A: Fluorescein Solution should be disposed of in accordance with local, state, and federal 
+regulations. 
+ 
+Transport  Information:    Fluorescein  solution  is  not  regulated  by  the  U.S.  Department  of  Transportation (DOT) 
+and/or International  Air Transport Association (IATA).  However, as sold as part of  SRM 1934, it is regulated as 
+UN1648, Acetonitrile solution, Hazard Class 3, Packing Group II, Excepted Qty. E2. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  This document was prepared carefully, using current references.  Users of this SRM should ensure that 
+this document and the corresponding Certificate of Analysis in their possession are current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+SRM 1934 
+
+Part A:  Fluorescein Solution 
+
+Page1 of 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This page intentionally left blank. 
+
+ 
+SAFETY DATA SHEET 
+
+Date of Issue:  
+23 March 2016 
+
+1. SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+1934 
+SRM Number: 
+Fluorescent Dyes for Quantitative Flow Cytometry (Visible Spectral Range) 
+SRM Name: 
+Part B:  Nile Red Solution  
+SRM Part: 
+Part C:  Coumarin 30 Solution  
+ 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This SRM is  intended  for  use  in  assigning fluorescence intensity values to calibration standards for quantitative 
+flow  cytometry  in  the  visible  spectral  range.    A  unit  of  SRM 1934  consists  of  four  amber  ampoules,  each 
+containing 2 mL of a different fluorophore solution or suspension.    The solutions include Part A: Fluorescein 
+Solution (60 μM aqueous borate buffer solution); Part B: Nile Red Solution (60 μM acetonitrile solution); Part C: 
+Coumarin 30 Solution (acetonitrile solution); and Part D: APC Suspension (Allophycocyanin fluorescent protein 
+in aqueous buffer solution, 100 µL).  
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2. HAZARDS IDENTIFICATION 
+
+Note:  The Nile Red solution and Couramin 30 solution are classified as hazardous due to the solvent acetonitrile.  
+The health and safety information is provided in this SDS is for Part B:  Nile Red Solution and Part C:  Coumarin 30 
+Solution. 
+
+Classification 
+
+Physical Hazard: 
+Health Hazard:  
+ 
+ 
+ 
+
+Flammable Liquid 
+Acute Toxicity, Oral 
+Acute Toxicity, Dermal 
+Acute Toxicity, Inhalation 
+Eye Damage/Irritation 
+
+Category 2 
+Category 4 
+Category 4 
+Category 4 
+Category 2A 
+
+Label Elements 
+Symbol  
+
+Signal Word 
+DANGER 
+
+ 
+
+ 
+
+Hazard Statement(s) 
+H225 
+Highly flammable liquid and vapor. 
+H302+H312+H332  Harmful if swallowed, in contact with skin, or if inhaled. 
+H319 
+
+Causes serious eye irritation. 
+
+ 
+
+ 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 1 of 6 
+
+Keep away from heat, sparks, open flames, hot surfaces. — No smoking. 
+Keep container tightly closed. 
+Use explosion-proof electrical and ventilating equipment.  Use only non-sparking tools. 
+Take precautionary measures against static discharge. 
+Avoid breathing fumes, mist, vapors, or spray. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Use only outdoors or in a well-ventilated room. 
+Wear protective gloves, eye protection, and protective clothing. 
+
+If swallowed:  Rinse mouth. 
+If on skin (or hair):  Take off immediately all contaminated clothing.  Rinse skin with water.  
+If inhaled: Remove person to fresh air and keep comfortable for breathing.  
+If in eyes:  Rinse cautiously  with  water  for several  minutes.  Remove contact lenses, if 
+present and easy to do.  Continue rinsing.   
+Call a doctor if you feel unwell. 
+If eye irritation persists:  Get medical attention. 
+Take off contaminated clothing and wash it before reuse. 
+
+Precautionary Statement(s) 
+Prevention 
+P210 
+P233 
+P241+P242 
+P243 
+P261 
+P264 
+P270 
+P271 
+P280 
+ 
+Response 
+P301+P330 
+P303+P361+P353 
+P304+P340 
+P305+P351+P338 
+
+P312 
+P337+P313 
+P362+P363 
+ 
+Storage 
+P403+P405+P235 
+ 
+Dispose 
+P501 
+
+Store in a well-ventilated place.  Keep cool. 
+
+Dispose of contents and container according to local regulations.  
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Acetonitrile solutions 
+Other Designations:  Acetonitrile (cyanomethane; ethanenitrile; ethyl nitrile; methanecarbonitrile; methyl cyanide) 
+
+in  compliance  with 
+Hazardous  components  1 %  or  greater;  carcinogens  0.1 %  or  greater  are 
+OSHA 29 CFR 1910.1200.  There is a trace amount of Nile Red [9-(Diethylamino)-5H-5H-Benzo(a)phenoxazin-5-
+one; nile blue A ozazone; phenoxazone 9; C20H18N2O2] or Coumarin 30.  For the actual concentrations, see the NIST 
+Certificate of Analysis. 
+
+listed 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+ 
+
+75-05-8 
+
+200-835-2 
+
+>99 
+
+Acetonitrile 
+
+ 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to well-ventilated (uncontaminated) area.  If breathing is difficult, 
+qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  
+Seek immediate medical attention.  
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild 
+detergent and water.  Seek medical attention if need; bring the container. 
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+Ingestion:  If ingested, immediately call a doctor.  If vomiting occurs, keep head lower  than the hips to help 
+prevent aspiration. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    Difficulty  breathing,  chest  pain,  vomiting,  dizziness, 
+confusion, convulsions, unconsciousness and coma.  Note:  health effects may be delayed.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 2 of 6 
+
+5. FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor/air mixtures are explosive above the flash point.  Vapors 
+or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for 
+flammability properties. 
+Extinguishing Media 
+ 
+ 
+Specific Hazards Arising from the Chemical:  Not applicable. 
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or alcohol-resistant foam. 
+Unsuitable:  None listed. 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 3 
+
+6. ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see 
+Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  
+Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or 
+non-combustible material and collect in appropriate container for disposal.  
+
+7. HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+Storage and Incompatible Materials:  Store in a well-ventilated area.  Keep separated from incompatible substances 
+(see Section 10, “Stability and Reactivity”). 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits 
+
+Acetonitrile 
+
+OSHA (PEL): 
+ 
+ACGIH (TLV): 
+ 
+NIOSH (REL): 
+
+40 ppm (70 mg/m3) TWA  
+Prevent or reduce skin absorption (related to cyanide compounds). 
+20 ppm TWA 
+Skin – potential significant contribution to overall exposure by the cutaneous route. 
+20 ppm (34 mg/m3) TWA 
+500 ppm IDLH 
+
+ 
+
+ 
+
+Engineering  Controls:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that 
+meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+ 
+
+ 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 3 of 6 
+
+ 
+
+ 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+
+Acetonitrile 
+>99 % 
+
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate (butyl acetate = 1) 
+Melting point/freezing point 
+Relative Density as Specific Gravity (water = 1) 
+Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+41.05 
+CH3CN 
+clear, colorless liquid 
+sweet odor 
+40 ppm 
+not available 
+5.79 
+–46 °C (–50.8 °F) 
+0.7857 
+not available 
+73 mmHg at 20 °C 
+1.42 
+0.35 cP at 20 °C 
+soluble in water 
+solvent:  alcohol, ether, ethyl acetate, methyl acetate, 
+benzene, acetone, chloroform, carbon tetrachloride, ethylene 
+chloride, acetamide solutions, unsaturated hydrocarbons 
+not available 
+
+Partition coefficient (n-octanol/water) 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Open Cup) 
+Flammability (solid, gas) 
+
+10. STABILITY AND REACTIVITY 
+
+ 
+
+524 °C (975.2 °F) 
+not available 
+82 °C (179.6 °F) 
+3 % 
+16 % 
+6 °C (42.8 °F) 
+not applicable 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  
+Avoid inhalation of material or combustion by-products.  Keep out of water supplies and sewers.  
+
+Incompatible Materials:  Acids, bases, combustible materials, metals, oxidizing materials, and reducing agents. 
+
+Hazardous Decomposition:  Oxides of carbon, nitrogen, and cyanides.  
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+
+11. TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Nausea, vomiting, respiratory 
+failure, hypotension, convulsions. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Acute and chronic exposure to high concentrations of acetonitrile may cause irritation of the nose 
+and throat, cough with bloody sputum, nausea, vomiting of blood or bile-like substance, chest or abdominal pain, 
+dizziness, headache, dyspnea or tachypnea, low blood pressure, shock, unconsciousness, coma and death due to 
+nervous  system  depression.    Chronic  exposure  may  also  cause  anorexia,  profuse  sweating,  hypersalivation, 
+rigidity of the neck, urinary frequency, and albuminuria. 
+Skin Contact:  Acute exposure to acetonitrile may result in irritation, absorption may occur resulting in systemic 
+toxicity. 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 4 of 6 
+
+Eye  Contact:    Acute  exposure  to  acetonitrile  may  cause  irritation  and  tearing.    Chronic  exposure  may  cause 
+conjunctivitis. 
+Ingestion:  Ingestion of sufficient amounts may cause systemic toxicity as detailed for inhalation. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Category 4 for Oral, Dermal, and Inhalation.  
+
+Rabbit, Dermal, LD50:  >2000 mg/kg 
+Rat, Oral, LD50:  2460 mg/kg 
+Rat, Inhalation, LC50:  17 100 ppm (4 h); 7551 ppm (8 h) 
+
+Skin Corrosion/Irritation:  Not classified. 
+ 
+
+Rabbit, skin:  500 mg open skin, mild 
+
+Serious Eye Damage/Irritation:  Category 2A. 
+Rabbit, eyes:  100 µL (24 h) moderate 
+ 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Acetonitrile is not listed by IARC, NTP, or OSHA as a carcinogen/potential carcinogen. 
+Tumorigenic:  Rat, Inhalation, TCLo:  400 ppm (6 h) 
+Mutagenic:  Hamster: 5 g/L; Drosophila melanogaster: 131 ppm; Saccharomyces cerevisiae: 47 600 ppm 
+
+X  No 
+
+Yes 
+
+ 
+
+Reproductive Toxicity:  Not classified. 
+ 
+ 
+ 
+
+Hamster, Inhalation, TCLo: 8000 ppm (1 h, pregnant 8 d) 
+Hamster, Oral, TDLo: 300 mg/kg (pregnant 8 d) 
+Rat, Inhalation, TCLo: 1800 ppm (6 h, pregnant 6 d to 20 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified. 
+
+Aspiration Hazard:  Not classified. 
+
+12. ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: Fish, Bluegill (Lepomis macrochirus), LC50: 1850 mg/L (96 h) static 
+Persistence and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13. DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to US EPA 
+40 CFR 262; hazardous waste number U003. 
+
+U.S. DOT and IATA:  UN1648, Acetonitrile solution, Hazard Class 3, Packing Group II, Excepted Qty. E2. 
+
+14. TRANSPORTATION INFORMATION 
+
+15. REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Acetonitrile: 5000 lb (2270 kg) final RQ 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Acetonitrile: 1.0 % de minimis concentrations. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 5 of 6 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+No 
+Yes 
+No 
+No 
+
+State Regulations:  California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Acetonitrile is listed. 
+TSCA 12(b), Export Notification:  Section 4, 1 % de minimus concentration. 
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+16. OTHER INFORMATION 
+
+Issue Date:  23 March 2016 
+
+Sources:  ChemADVISOR, Inc., SDS Acetonitrile, 09 December 2015. 
+
+CDC, 
+CAS 
+http://www.cdc.gov/niosh-rtecs/AL757E20.html (accessed Mar 2016). 
+
+RTECS# AL7700000, 
+
+Acetonitrile, 
+
+NIOSH, 
+
+No. 75-05-8; 
+
+available 
+
+at 
+
+International  Programme  on  Chemical  Safety,  Environmental  Health  Criteria  154,  Acetonitrile,  World 
+Health Organization, Geneva, 1993. 
+
+European  Chemicals  Agency,  Registered  Substances,  Acetonitrile  CAS  No. 75-05-8,  Harmonised 
+classification, available at:  http://echa.europa.eu/ (accessed Mar 2016). 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Specific Target Organ Toxicity 
+STOT 
+Short Term Exposure Limit 
+STEL  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the 
+data in the SDS.  The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 1934 
+
+Part B: Nile Red Solution; Part C: Coumarin 30 Solution 
+
+Page 6 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE:  23 March 2016 
+ 
+Product Identifier 
+
+SRM Number: 
+SRM Name: 
+SRM Part: 
+
+1934 
+Fluorescent Dyes for Quantitative Flow Cytometry (Visible Spectral Range) 
+Part D:  APC Suspension 
+
+Under the U.S. Department of Labor, Occupational Safety and Health Administration (OSHA) 29 CFR 1910.1200, 
+this Standard Reference Material (SRM) is NOT classified as a physical hazard or a health hazard, a simple asphyxiant, 
+combustible  dust,  pyrophoric  gas,  or  hazard  not  otherwise  classified.    There  are  no  hazard  pictograms,  hazard 
+statements or signal word associated with it.  Safety Data Sheet information is not required.  This document may be 
+used in conjunction with your hazard communication program. 
+ 
+Description:  This SRM is  intended  for  use  in  assigning fluorescence intensity values to calibration standards for 
+quantitative flow cytometry in the visible spectral range.    A unit of SRM 1934 consists of four amber ampoules, each 
+containing  2 mL  of  a  different  fluorophore  solution  or  suspension.    The  solutions  include  Part A: Fluorescein 
+Solution (60 μM  aqueous  borate  buffer  solution);  Part B:  Nile  Red  Solution  (60 μM  acetonitrile  solution);  Part C: 
+Coumarin 30 Solution (acetonitrile solution); and Part D: APC Suspension (Allophycocyanin fluorescent protein in 
+aqueous buffer solution, 100 µL). 
+ 
+The  APC Suspension is approximately  4 mg/mL  solution in 60 % saturated ammonium  sulfate,  50 mM potassium 
+phosphate, pH 7.0 and is not classified as hazardous by OSHA’s 29 CFR 1910.1200. 
+ 
+Disposal:    SRM 1934  Part D:  APC  Suspension  should  be  disposed  of  in  accordance  with  local,  state,  and  federal 
+regulations. 
+ 
+
+the  U.S.  Department  of 
+Transport  Information: 
+Transportation (DOT) and/or International Air Transport Association (IATA).  However, as sold as part of SRM 1934, 
+it is regulated as UN1648, Acetonitrile solution, Hazard Class 3, Packing Group II, Excepted Qty. E2. 
+
+  SRM 1934,  APC  Suspension 
+
+is  not  regulated  by 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  This document was prepared carefully, using current references.  Users of this SRM should ensure that 
+this document and the corresponding Certificate of Analysis in their possession are current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+ 
+SRM 1934 
+
+Part D: APC Suspension 
+
+Page 1 of 1 
+
+

@@ -1,0 +1,588 @@
+﻿Date of Issue:  
+04 August 2016 
+
+ 
+SAFETY DATA SHEET 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+ 
+
+Product Identifier 
+
+ 
+
+(Nano-Crystalline Zinc Oxide Powder) 
+
+SRM Number:  1979 
+SRM Name:  Powder Diffraction Line Profile Standard for Crystallite Size Analysis 
+ 
+SRM Part:   Zinc Oxide Powder 15 nm Crystallites 
+ 
+Zinc Oxide Powder 60 nm Crystallites 
+Other Means of Identification:  Not applicable. 
+ 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended for use in the analysis of crystallite size through the degree of 
+profile broadening in a powder diffraction experiment.  A unit of SRM 1979 consists of two samples of zinc oxide 
+powder, the first with a mean crystallite size of approximately 15 nm and a second with a mean of approximately 
+60 nm.  Each sample contains approximately 3 g of powder bottled in an argon atmosphere. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+Label Elements 
+
+Not classified. 
+Not classified. 
+
+Symbol:  No symbol/No pictogram. 
+
+Signal Word:  No signal word. 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Zinc oxide  
+
+Other Designations:  Zinc white; Chinese white; flowers of zinc; zinc monoxide; zinc gelatin; white zinc; permanent 
+white; philosopher’s wool; zincoid; snow white; ZnO 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate 
+of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+Zinc oxide 
+
+ 
+
+SRM 1979 
+
+1314-13-2 
+
+ 
+
+EC Number 
+(EINECS) 
+215-222-5 
+
+Nominal Mass Concentration  
+(%) 
+100 
+
+Page 1 of 5 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated 
+clothing before reuse. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 0 
+
+Fire = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal.  Avoid generating dust.  Clean up residue with a high-efficiency particulate filter vacuum. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  It is recommended that the unused portion of the powder be stored in its original bottle, tightly capped and 
+in a dry environment.  Store and handling in accordance with all current regulations and standards.  Keep separated 
+from incompatible substances (See Section 10, “Stability and Reactivity”). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+ACGIH (TLV): 
+
+2 mg/m3 (TWA, respirable particulates) 
+  10 mg/m3 (STEL, respirable particulates) 
+
+NIOSH (REL): 
+
+5 mg/m3 (TWA, dust and fume) 
+
+  10 mg/m3 (STEL, fume) 
+  15 mg/m3 (Ceiling, dust) 
+  500 mg/m3 (IDLH) 
+
+OSHA (PEL): 
+
+5 mg/m3 (TWA, fume) 
+  15 mg/m3 (TWA, total dust) 
+ 
+
+5 mg/m3 (TWA, respirable fraction) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+SRM 1979 
+
+ 
+
+Page 2 of 5 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA 29CFR 1910.134  must  be  followed.    Refer  to  NIOSH  42 CFR 84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties: 
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH (solution): 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/mL): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+white or gray, powder 
+
+ZnO 
+81.37 
+odorless 
+not available 
+6.95 to 7.37 
+not applicable 
+1975 (3587 ºF) 
+5.6 
+0.0 at 21 °C 
+>1 
+not applicable 
+water soluble (1.6 ppm at 29 °C); 
+soluble in dilute acetic acid, mineral acids, 
+ammonia, ammonium chloride solutions, 
+ammonium salt solutions, fixed alkali 
+hydroxide solutions, strong alkali 
+not available 
+15 nm or 60 nm (as indicated) 
+
+ 
+
+ 
+
+Partition coefficient (n-octanol/water): 
+Particle Size: 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+Flammability (solid, gas): 
+
+not applicable 
+not available 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not available 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid generating dust. 
+
+Incompatible Materials:  Halo carbons, combustible materials, metals, acids, oxidizing materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce zinc, oxides of zinc. 
+
+SRM 1979 
+
+ 
+
+Page 3 of 5 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Exposure may cause irritation. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Acute: irritation; inhaled fumes may cause metal fume fever, difficulty breathing; chronic: nausea 
+and liver damage. 
+
+Skin Contact:  Acute: low potential for skin irritation, although it can alter skin pigmentation; chronic: skin 
+disorders. 
+
+Eye Contact:  Acute: mechanical irritation, redness, and pain; chronic: no information available. 
+
+Ingestion:  Acute: nausea, diarrhea, constipation; chronic: no information available. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+
+Rat, Oral LD50:  >5000 mg/kg 
+Mouse, Inhalation LC50:  2500 mg/m3 
+
+Skin Corrosion/Irritation:  Not classified. 
+Rabbit, Skin (mild): 500 mg (24 h) 
+
+Serious Eye Damage/Irritation:  Not classified. 
+
+Rabbit, Eyes (mild): 500 mg (24 h) 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Zinc oxide is not listed by IARC, NTP or OSHA as a carcinogen. 
+
+ Yes 
+
+X  No 
+
+Reproductive Toxicity:  Not classified. 
+
+Rat, Oral TDLo: 6846 mg/kg (pregnant 1 d to 22 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified; no data available. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+Persistence and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+SRM 1979 
+
+ 
+
+Page 4 of 5 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  1.0 % de minimis concentration (related to Zinc compounds). 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+No. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:   
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  04 August 2016 
+
+Sources: 
+ 
+ 
+Key of Acronyms: 
+
+ChemAdvisor, Inc., SDS Zinc Oxide, 09 December 2015. 
+
+ACGIH 
+
+ALI 
+CAS  
+CEN 
+CERCLA  
+
+CFR  
+CPSU 
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+ISO 
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+MSHA 
+ 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+European Committee for Standardization 
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Coal Mine Dust Personal Sample Unit 
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+International Organization for Standardization 
+Lethal Concentration, 50 %  
+Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+Mine Safety and Health Administration 
+ 
+
+NIOSH  
+
+NIST 
+NRC 
+NTP  
+OSHA  
+
+PEL  
+RCRA  
+REL  
+RM 
+RQ  
+
+SARA  
+SCBA  
+SRM  
+STEL  
+TDLo 
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS 
+
+National Institute for Occupational Safety and 
+Health  
+National Institute of Standards and Technology 
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+
+Permissible Exposure Limit 
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Toxic Dose Low 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+RTECS 
+
+Registry of Toxic Effects of Chemical Substances 
+
+ 
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm.  
+
+SRM 1979 
+
+ 
+
+Page 5 of 5 
+
+

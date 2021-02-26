@@ -1,0 +1,288 @@
+﻿   Ned 
+
+z 
+
+*  Nationa!  drstitute  ot  Standards  ano  Technology 
+
+Qertificate 
+
+Standard  Reference  Material®  2523 
+
+Optical  Fiber  Ferrule  Geometry  Standard 
+
+Serial  Number: 
+
+This  Standard  Reference  Materid  (SRM)  is  intended  pramanlyfor  calbrating  instummerts  used  for  diarreter  measurements  of artifacts 
+sich  as  optical  fher  ferules.  Each  SRM  unit  isindpadnally  catbrated 
+and  bears  a  unique  serial  murber.  The  SRM  conssts  of  asmele 
+ceramuc  optical  fiber  ferrule  with  a  notch  etched  nto  one  end  to  identty  the  O°  plane  wed  for  postiomme.  The  outer  diameter  of  the 
+
+of  the  0.124  om  hole has  been  preserved,  The  romdness 
+ferrule  has  been  meanred  inthe  certer,  parallelto  the  notch.  The  condition 
+data  in igure  1  have  been  inchided  for  mfoumation in  fiture  measurement  appleations  or  for  measurement  equipment  where  the 
+roundness  of  the  artifact is  an  nnportat  conaderation. 
+
+Certittied  Outer  Diameter  (forthe  central  2  nan  region) 
+
+mim  +  0.000  050  mm 
+
+Expiration  of  Certification:  The  certficaton  of  ths  $RM  is  valid  indefiuteb  within  the  meanmemernt  wiwertanties  specifieL 
+provided  the  SRM  is  wed  m  accordance  with  the  Instuctions  for  Use  and  Handing and  C  are  sections  offis  certificate.  The  SEM 
+
+may  wear  vith  repeated  use. 
+certiication  of  this  SRM  2523  unit,  eortact  the  HIST  Calibration  Program  Office  at  (301)  975-2002. 
+
+If  excessive  wear  is  suspected,  the  SRM  may  be  rehomed  to  HIST  for  venficahon. 
+
+To  vert 
+
+Discussion  of  Uncertaimiies:  Uncertanties  were  calculated  according  to  the  procedures  described  in  reference  [1].  Readily 
+measired  (Type  A)  uncertamthes  were  assumed  to  be  normally  distubuted.  Estimated  [Type  Bi  uncertamties  were  assumed  to  be 
+desenbed  by  a  rectangular  probability  distubution  fimection  and  wieorrelated. 
+The  uncertamtes  were  combined  by  adding  ther 
+variances,  where  the  variance  of a  rectangular  distubution is  one-thind  the  square  of  ats  half-width.  Table  1  Ists  all denthable  sources 
+of uncertainty. 
+
+The  ferrules  used  for  SRM  2523  were  donated  by  the  Coo  Ceramics  Company,  Electreme  Products  Group,  Golden,  CO. 
+
+The  technucal  direction,  measurement  process  development  and  anabrsis,  and  physical  measurements  leading to  certification  of  this 
+SRM  were  provided  by  JE.  Stoup  and  T.D.  Doiron  of  the  HIST  Precision  Engmeerng  Division,  and  M.  Young  of  the  MIST 
+Opteelectromes  Division. 
+
+The  support  aspects  mrvolved  in  the  preparation,  certification,  and  issuance  of  ths  SRM  were  coordinated  through  the  Standard 
+
+Reference  Matenals  Program by  R.J.  Gettngs. 
+
+Gaithesbug,  MD  20899 
+
+Certificate  Issue  Date:  15  August  1997 
+
+Thomas  E.  Gills,  Chief 
+
+Standard  Reference  Materials  Progran
+
+Instructions  for  Use:  Use  of  ths  SRM  xs  relatereby  shaightfo2rand;  it  can  be  used  to  set  comparator type  struments  orto  calibrate 
+absolute  measurmg  msbuments. 
+Measurements  should be  made  radially  withm  five  degrees  of  the  locaton  of  the  notch.  To  extend  the  life  ofthe  SRM,  measurements 
+
+The  SRM  should  be  used  with  the  central  2  mim  region  that  defines  the  cerbfied  area. 
+
+should be  made  randonib  within  this  certified  ares.  Repeated use  of  the  exact  same  postition  on  the  ferme  is  not  recommended  as 
+tt  will  camse  we  ar  at  this  position and  will  not  comecthy  sample  the  variations  in  diameter  of  the  fermle  m  the  resultme  measurements. 
+
+CAUTION:  The  we  of meannement  forces  exceeding  1.1 
+4  (4  oz)  may  mduce  an  uncorected  compression  of  the  ferrule  due  to 
+the  existence  of  the  0.126  wm  diameter  hole  through  the  center  of  the  femule.  At  lower  forces,  the  ferme  behaves  as  a  solid  artifact 
+and  the  resuling  defoumation  can  be  calculated  fromm  standard  deformation  formas  outIned  in  reference  [2].  This  SRM  should  not 
+be  subjected  to  measurement  confgurations  that  may  wesult  m  appheation  of  lage  mstartanecus  forces  excee  ding  2.2  N  or  permanent 
+damage  may  renilt. 
+
+Handling  and  Care:  Handle  the  SEM  carefully.  Take  care  when  movme  the  ferrule  around  the  labomtory  and  positieeme  tt  mthe 
+test  equipment  to  avoid  losmgit  or  mustalang tt  for  a  comumon  test  femule.  The  notched  and  face  has  been  intentionally left  unbeveled 
+to  aid  inthe  identification  of  the  SRM. 
+
+Follow  standard  laboratory  practice  to  extend  the  Ife  of  the  ferme  and  to  mamtain  the  integnby  of  the  rents.  Clean  the  ferme 
+carefully  with  ethanol,  sopropyl  alcohol  or  acetone  before  each  we.  Lighth  blow  the  ferrule  dey  with  compressed  air,  and  allow  to 
+thermalze  before  use.  Reclean  and  store  the  SRM  in  the  supplied  case  when  not  muse.  Keep  the  case  in  a  clean  laboratory 
+
+environment  or  nside  a  dust-free  plastic  bag. 
+
+Certification  of  Ferrule  Diameter:  The  outer  diameter  of  each  SRI  was  measured  wing  a  nuicrometer  combmed  with  a  laser 
+
+displacement  ptedérometer.  Milipk  diareter  measurements  were  made  in  the  center  Pd  eachfermie  mthe  plme  defined  by  the  notch 
+and  the  center ine  of  the  fermale.  This  measurement  wes  repeated  at  various  measurement  fowes  and  the  final  udefomned  diameter 
+was  determmed  by  projectmg  the  total  results  to  zero  force.  These  measurements  sampled  only  the  effects  of  taper  mthe  central  2 
+rin  and  did  not  sample  the  effects  of  roundness.  Mo  atternpt  was  made  to  locate  the  maxim  or  mame  diameter  posihons  on 
+each  ferrule.
+
+144 
+
+23.3 
+
+5.8 
+
+«0.1 
+
+ol 
+
+O.1 
+
+0.7? 
+
+0.1 
+
+rect.  dist  of  data 
+
+rect.  dist.  of  data 
+
+slope  anabysis 
+
+2 
+
+10% m 
+
+#20.05°C 
+
++10Pa 
+
+2% 
+
+Source  of  Uncertanthy 
+
+Anabrsis  Method 
+
+(L  =  length =  2.5  non) 
+
+1 
+
+go  Equivalent  Value 
+
+(m  ww) 
+
+  
+
+  
+
+Table  1.  Uncestanty  Budget 
+
+  
+
+  
+
+  
+
+  
+
+Index  of  Refraction  of  Ai 
+
+uncertanty  of  calculation 
+
+  
+
+Fertule  Geometry:  central  2  ro 
+
+central  5  non 
+
+Elastic  Defounation  Correction 
+
+Laser  Wavelength 
+
+Ag  Temperahire  Measurement 
+
+Au  Pressure  Measurement 
+
+Vapor  Pressure  Measurement 
+
+  
+
+  
+
+  
+
+13 
+
+O54 
+
+rect.  dist. 
+
+Abbe  Offset 
+
+1  mmx  0.1" 
+
+(0.5  x  10*)L) 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Instrument  Motion  Exror 
+
+of  contact  foun  errors 
+
+Micrometer  Contact  Geametyy 
+
+Temperature  Measurement  of  Part 
+
+Thennal  Expansion  Uncertainty 
+
+(0.5  x  10%y0.1  *CL)]  =  0.05  x  10% 
+
+ 
+    
+    
+  
+
+Combined  Standard  Uncertamty 
+
+Combined  Standard  Uncertanty 
+
+rect.  dist.  of  0.02  °C  range 
+
+Themnometer  Cabbration 
+
+Expanded  Uncertanty 
+
+(CTEW+  0.05  "C(L) 
+
+&  =  2  (central  2  mm) 
+
+Expanded  Uncertanty 
+
+&  =  2  (central  S  mm) 
+
+u,  (central  2  nom) 
+
+  
+
+  
+
+  
+
+ue(central  5  nun) 
+
+19.4 
+
+11.5 
+
+31.6 
+
+o1 
+
+13 
+
+O.1 
+
+39 
+
+63 
+
+REFERENCES 
+
+Tayler,  BN.  and  Kuyatt,  CE  ,"Guidelmes  for  Evahistme  and  Expressing the  Uncertamty  of  NIST 
+
+fl] 
+MIST  Techmeal  Note  1297,  0.8  Government  Prntme  Office,  Washmeton  DC,  (1994). 
+[2] 
+
+FPuttock,  M.J.  and  Thwaite,  E.G.,  Elastic  Compression  of  Spheres  and  Cylinders  at  Pout  ad  Line  Contact, 
+
+Measuement  Resk," 
+
+CSIRG, 
+
+National  Standards  Laboratory  Teclnical  Paper  No.  25,  (1969). 
+
+itis  tha  responsibil  ef  users  of  this  GRIM  te  assure  that  tha  cardficata  in  thatr  possassien  fs  currant 
+avcompiishad  by  eontachng  tha  SRI  Progeom  at  Fhoma:  (300)  O75  6776  falact  *Carnfieates  4.  Fas: 
+mal:  smunfo  Grist  gov  or  WW  Ret  its  nist.  go  isin. 
+
+Thu  can  ba 
+(707)  S2Od75L  a- 
+
+

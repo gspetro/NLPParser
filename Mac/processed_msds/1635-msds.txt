@@ -1,0 +1,390 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+MSDS Coordinator:  Mario Cellarosi
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+ 
+
+SRM Number:  1635 
+MSDS Number:  1635 
+SRM Name:  Trace Elements in Coal
+
+(Subbituminous) 
+
+Date of Issue:  03 August 2011 
+
+Emergency Telephone ChemTrec:
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:  This Standard Reference Material (SRM) is intended for use in the calibration of apparatus and the 
+evaluation  of  techniques  employed  in  the  analysis  of  trace  elements  in  coal  and  similar  materials.    A  unit  of 
+SRM 1635 consists of 75 g of finely powdered coal ground to pass a 230 μm sieve and homogenized. 
+ 
+Substance:  Coal Powder 
+
+Other Designations:  Subbituminous coal; ground subbituminous coal, coal dust. 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4):  Health = 1 
+
+Fire = 1 
+
+Reactivity = 0 
+
+Major Health Hazards:  Cancer (in humans)(a) 
+
+Physical Hazards:  Dust/air mixtures may ignite or explode. 
+
+Potential Health Effects (Acute and Chronic): 
+
+Inhalation: 
+
+Acute: irritation. 
+
+Chronic: chest pain, difficulty breathing, lung damage. 
+
+Skin Contact:  No information available. 
+
+Eye Contact:  No information available. 
+
+Ingestion:  No information available. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the  International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+ 
+
+ 
+
+ 
+Yes 
+X(a) 
+X(a) 
+X(a) 
+
+ 
+No 
+ 
+ 
+ 
+
+(a) Silica  may  be  included  as  a  small  percentage  in  coal  dust.    NTP  lists  silica,  crystalline,  as  a  known  carcinogen;  IARC  lists 
+
+silica (quartz) as a Group 1 (carcinogenic to humans); silica (respirable) size is listed by OSHA. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+Coal powder 
+
+CAS Number 
+
+125612-26-2 
+
+EC Number 
+(EINECS) 
+
+not assigned 
+
+Nominal Concentration 
+(%) 
+
+100 
+
+NOTE:    The  material’s  average  particle  size,  as  manufactured,  is  above  the  inhalation  or  respirable  size  limits 
+(100 µm or 100 microns, inhalation; 10 µm or 10 microns, respirable) established by the ACGIH, Appendix D.  This 
+material  contains  various  other  elements  (see  Certificate  of  Analysis),  which  have  been  reported  to  have  toxic, 
+mutagenic,  and/or  carcinogenic  properties,  and  should  be  handled  with  care.    The  concentrations  of  the  ones  not 
+listed above are below the reportable limit:  hazardous components (1 %); carcinogens (0.1 %), required by OSHA, 
+29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information. 
+MSDS 1635 
+
+Page 1 of 4 
+
+ 
+
+EC Classification:  Not classified. 
+
+EC Risk (R No.):  Not assigned. 
+
+EC Safety (S No.):  Not assigned. 
+
+4.  FIRST AID MEASURES 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area. If not breathing, give artificial respiration by 
+qualified personnel.  Seek immediate medical attention. 
+
+Skin  Contact:    Rinse  affected  area  with  soap  and  water  for  at  least  15 minutes.    Seek  medical  assistance  if 
+necessary. 
+
+Eye  Contact:    Immediately  flush  eyes,  including  under  the  eyelids,  with  copious  amounts  of  water  for  at  least 
+15 minutes.  Seek immediate medical attention.  
+
+Ingestion:  If a large amount is swallowed, seek medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  Dust/air mixtures may ignite or explode. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, water, regular foam. 
+
+Fire Fighting:  Avoid inhalation of combustion by-products. 
+
+Flash Point (C):  Not applicable. 
+
+Method Used:  Not applicable. 
+
+Autoignition Temp. (C):  Not applicable. 
+
+Flammability Limits in Air 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Collect spilled material in appropriate container for proper disposal. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+Safe Handling Precautions:  See Section 8 “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Coal Dust: 
+
+OSHA PEL (TWA):  2.4 mg/m3 (respirable, SiO2, dust fraction <5 % total dust) 
+OSHA PEL (TWA):  10 mg/m3/(%SiO2 + 2) (respirable, SiO2, dust fraction >5 % total dust) 
+NIOSH REL (TWA):  1 mg/m3 [measured according to MSHA method (CPSU)] 
+NIOSH REL (TWA):  0.9 mg/m3 (measured according to ISO/CEN/ACGIH criteria) 
+ACGIH (TWA):  0.9 mg/m3 (respirable, SiO2, dust fraction <5 % total dust) 
+
+Ventilation:  Local exhaust ventilation system. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets 
+OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Wear safety goggles.  An eye wash station and drench shower should be readily available near the 
+handling and use areas. 
+
+Personal Protection:  Chemically resistant gloves and clothing are recommended. 
+
+MSDS 1635 
+
+Page 2 of 4 
+
+ 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Coal powder 
+
+Appearance and Odor:  Black powder, odorless. 
+
+Molecular Formula:  Not applicable. 
+Density (g/cm3):  Not available 
+
+Water Solubility:  Insoluble. 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X  Stable 
+
+ 
+
+Unstable 
+
+ 
+
+Stable at normal temperature and pressure. 
+
+Conditions  to  Avoid:    Avoid  heat,  flames,  sparks,  and  other  ignition  sources.    Avoid  generating  dust.    Avoid 
+contact with incompatible materials. 
+
+Incompatible Materials:  Oxidizing materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+ 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+ 
+Route of Entry: 
+
+Inhalation 
+
+X 
+
+Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Coal Dust Toxicity Data:  May cause irritation and a cough. 
+
+Health Effects:  See Section 2: “Hazards Identification” for potential health effects. 
+
+Target Organs:  Respiratory tract. 
+
+Medical Conditions Generally Aggravated by Exposure:  Respiratory disorders. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  Not applicable. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+ 
+
+ 
+
+MSDS 1635 
+
+Page 3 of 4 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA TITLE III SARA SECTIONS 311/312 HAZARDOUS CATEGORIES (40 CFR 370.21): 
+
+California Proposition 65:  Known as cancer causing for silica crystalline particles of respirable size. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No 
+ACUTE HEALTH: 
+CHRONIC HEALTH:  Yes 
+No 
+FIRE: 
+No 
+REACTIVE: 
+No 
+PRESSURE: 
+
+STATE REGULATIONS 
+
+CANADIAN REGULATIONS 
+
+WHMIS Information:  Not provided for this information. 
+
+EUROPEAN REGULATIONS 
+
+EC Classification:  Not classified. 
+
+EC Risk and Safety Phrases:  Not assigned. 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Not listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  ChemAdvisor, MSDS Coal Dust, 06 April 2011. 
+
+ChemAdvisor, MSDS Ground Coal, 06 April 2011. 
+
+CDC; NIOSH; NIOSH Pocket Guide to Chemical Hazards; Coal Dust, 18 November 2010; available at 
+http://www.cdc.gov/niosh/npg/npgd0144.html (accessed Aug 2011).  
+
+NIOSH  Registry  of  Toxic  Effects  of  Chemical  Substances (RTECS),  Coal  Dust  No. GF8281000, 
+May 2009; available at http://www.cdc.gov/niosh-rtecs/GF7E5BA8.html (accessed Aug 2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1635 
+
+Page 4 of 4 
+
+

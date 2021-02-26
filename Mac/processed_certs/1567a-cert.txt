@@ -1,0 +1,309 @@
+﻿ 
+A
+
+ 
+ 
+*
+y
+ 
+i
+r
+C
+o
+
+ 
+)
+
+ 
+i
+
+ 
+a
+
+National  Institute  of  Standards  &  Technology 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  1567a  _ 
+
+Wheat  Flour 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  calibrating  instruments  and  evaluating  the 
+reliability  of  analytical  methods  for  the  determination  of  minor  and  trace  elements  in  wheat  flour  and  similar  agricul- 
+tural  food  products. 
+
+Certified  Concentrations  of  Constituent  Elements:  The  certified  concentrations  of  the  constituent  elements  are 
+shown in  Table  1.  Except  for  sulfur,  the  concentrations  are  based  on  results  obtained  by  two  or  more  independent, 
+reliable  analytical  methods.  Non-certified  values  which  are  given  for  information  only,  appear  in  Table  2.  Sulfur 
+is  certified  based  on  its  determination  by  a  definitive  method,  isotope  dilution  thermal  ionization  mass  spectrometry. 
+All  values  are  based  on  a  minimum  sample  size  of  500  mg  and  are  reported  on  a  "dry  weight"  basis.  (See  "Instruc- 
+tions  for  Drying”). 
+
+Notice  and  Warnings  to  Users: 
+
+Expiration  of Certification:  This  certification  will  be  invalid  after  5  years  from  the  date  of  shipping.  Should  it  be 
+invalidated  before  then,  purchasers  will  be  notified  by  NIST. 
+
+Storage:  The  material  should  be  kept in  its  original  bottle  and  stored  at  temperatures  between  10-30  °C.  It  should 
+not  be  exposed  to  intense  sources  of  radiation,  including  ultraviolet  lamps  or  sunlight.  Ideally,  the  bottle  should 
+be  kept  in  a  desiccator  in  the  dark  at  the  temperature  indicated. 
+
+Use:  The  following  procedures  should  be  followed  to  relate  the  analytical  determinations  to  the  values  reported 
+in  this  certificate.  The  bottle  should  be  shaken  well  before  each  use,  and  a  minimum  sample  of  500  mg  of  the 
+material  should  be  used.  Mercury  should  be  determined  without  drying  and  the  concentration  values  adjusted  for 
+the  moisture  content  of  the  material  using  separate  samples.  Other  elements  may  be  determined  either  on  samples 
+without  drying  as  indicated  above  or  on  samples  vacuum-dried  for  24  hours  as  indicated  under  "Instructions  for 
+. 
+Drying." 
+
+. 
+
+Coordination  of  some  technical  measurements  leading  to  this  certificate  was  performed  by  M.S.  Epstein  of  the  In- 
+organic  Analytical  Research  Division. 
+
+Statistical  analysis  of  the  experimental  data  was  performed  by  K.R.  Eberhardt  of  the  NIST  Statistical  Engineering 
+Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  Alvarez. 
+
+September  8,  1988 
+Gaithersburg,  MD  20899 
+(Revision  of  certificate 
+dated  10-23-87) 
+
+. 
+
+| 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+Table  1.  Certified  Concentrations  of  Constitutent  Elements* 
+
+Minor  Constituents 
+
+Trace  Constituents 
+
+Element” 
+
+Calcium’? 
+Magnesium!#2*4 
+Phosph 
+Potassium” 
+Ss 
+
+Element” 
+
+Aluminum*** 
+Cadmium Tb  4b 
+Cop  oe 
+Iron 
+ot  nese 
+Molybdenum”>**# 
+Rubidium!>44 
+Selenium'** 
+Sodium” 
+Zinc laa 
+
+Concentration, 
+Percent  by  Weight® 
+
+0.0191  +  0.0004 
+0.040 
+0.134 
+0.133 
+0.165 
+
++  0.002 
++  0.006 
++  0.003 
++  0.002 
+
+Concentration,  yg/e 
+
+5.7 
+0.026 
+2.1 
+14.1, 
+9.4 
+0.48 
+0.68 
+Ld 
+6.1 
+11.6 
+
+13 
+0.002 
+0,2 
+0.5 
+0.9 
+0.03 
+0.03 
+0.2 
+0.8 
+0.4 
+
+ 
+I
+E
+
+ 
+A
+H
+
+ 
+H
+H
+H
+
+ 
+h
+
+ 
+t
+t
+
+4  Analytical  values  are  based  on  the  "dry-weight"  of  material  (see  "Instructions  for  Drying”). 
+
+b  Number  and  letter  code,  as  superscripts,  indicate  methods  used  for  certification.  (See  Analytical  Methods). 
+
+©  The  certified  concentration  is  the  weighted  mean  computed  according  to  the  procedure  described  by  R.C.  Pauie  and  J.  Mandel  (NBS  Journal  of 
+Research,  87,  1982,  pp.  377-385).  The  uncertainty  is  stated  as  a  95%  confidence  interval  plus  an  additional  allowance  for  systematic  erroramong 
+the  methods  used.  The  allowance  for  systematic  error  is  the  greatest  difference  between  the  weighted  mean  and  the  component  means  for  the 
+analytical  methods  used.  For  manganese,  an  additional  allowance  for  material  inhomogeneity is  inciuded,  so  that  the  uncertainty tepresents  a  95% 
+expected  coverage  statistical  tolerance  interval. 
+
+Analytical  Methods 
+
+1.  Atomic  Absorption  Spectrometry 
+
+a.  Flame 
+b.  Graphite  Furnace 
+c.  Hydride  Generation 
+
+2.  Atomic  Emission  Spectrometry 
+
+a.  DC  Plasma 
+b.  Flame 
+c.  Inductively  Coupled  Plasma 
+
+3.  Mass  Spectrometry 
+
+a.  Isotope  Dilution  Inductively  Coupled  Plasma 
+b.  Isotope  Dilution  Thermal  Ionization 
+
+4,  Neutron  Activation  Analysis  _ 
+
+a.  Instrumental 
+b.  Radiochemical 
+
+5.  Spectrophotometry 
+
+-2-
+
+Table  2.  Noncertified  Concentrations  of  Constituent  Elements* 
+
+NOTE:  The  values  shown  in  this  table  are  not  certified  because  they  are  not  based  on  the  results  of  either  two  or 
+more  independent  reliable  methods  or  a  definitive  method  of  known  high  accuracy.  These  values  are  included  for 
+information  only  and  therefore  no  uncertainty  limits  are  provided. 
+
+Element 
+
+Arsenic 
+Bromine 
+Chlorine 
+Cobalt 
+Iodine 
+Lead 
+
+Concentration, 
+veg 
+_ 
+
+(0.006) 
+(6) 
+(565) 
+
+(0.006) 
+(0.0009) 
+(<0.020) 
+
+Trace  Constituents 
+
+; 
+
+Element 
+
+Mercury 
+Tin 
+Tungsten 
+Uranium 
+Vanadium 
+
+Concentration, 
+ug/g 
+
+| 
+
+(0.0005) 
+(0.0033) 
+(0.0008) 
+(0.0003) 
+(0.011) 
+
+9  Analytical  values  are  based  on  the  "dry-weight”  of  material  (see  "Instructions  for  Drying").  Mercury  should  be  determined  on  samples  without 
+drying  and  the  results  adjusted  to  a  “dry-weight"  basis  by  determining  moisture  on  separate  samples. 
+
+Preparation  of  Materjal:  The  wheat  flour  for  this  Standard  Reference  Material  was  described  by  the  supplier  as 
+milled  from  a  blend  of  Hard  Red  Spring  and  Hard  Red  Winter  wheat  grown  primarily in  South  Dakota.  The  flour 
+was  taken  from  the  mill  packer  during  the  middle  of  a  run  to  obtain  homogeneous  material.  The  flour  had  been 
+bleached  and  brominated in  accordance  with  standard  treatments  for  commercial  bakery  use.  At  NIST,  the  material 
+was  passed  through  a  sieve  with  openings  of  425  4m  (No.  40)  and  blended.  The  bottled  material  was  then  subjected 
+to  2.5  megarads  of  Co-60  radiation  for  microbiological  control  at  Neutron  Products,  Inc.,  Dickerson,  Md. 
+
+Homogeneity  Assessment:  Homogeneity  was  evaluated  by  instrumental  neutron  activation  using  samples  of  ap- 
+proximately  500  mg  and  counting  the  radionuclidic  activities.  The  uncertainties  for  the  concentrations  in  Table  1 
+include  these  results.. 
+
+Instructions  for  Drying:  Except  for  mercury,  elements  should  be  determined  on  samples  which  have  been  dried  as 
+follows:  vacuum-dry  the  material  at  approximately  25  °C  for  24  hours  at  a  pressure  not  greater  than  70  Pa  (0.5  mm 
+Hg)  with  a  cold  trap  at  a  temperature  of  about  -30  °C  or  below. 
+
+Mercury  should  be  determined  on  undried  samples.  However,  because  the  certificate  values  are  reported  on  a 
+"dry-weight"  basis,  the  elemental  concentration  determined  on  undried  samples  should  be  adjusted  for  the  mois- 
+ture  content  of  the  samples.  The  moisture  content,  which  was  approximately  9%  when  bottled,  should  be  deter- 
+mined  on  separate  samples  by  the  vacuum-drying  procedure  described  above.  Samples  for  analysis  should  not  be 
+oven-dried  lest  elements  be  lost  by  volatilization. 
+
+Analysts,  Analytical  Chemistry  Division,  National  Institute  of  Standards  and  Technology 
+
+1,  ES.  Beary 
+2.  T.A.  Butler 
+3.  M.S.  Epstein 
+4.  J.D.  Fassett 
+5.  R.R.  Greenberg 
+6.  L.B.  Jassie 
+7.  W.R.  Kelly 
+8.  H.M.  Kingston 
+
+9. 
+J.R.  Moody 
+10.  PJ.  Paulsen 
+11.  T.C.  Rains 
+12.  T.A.  Rush 
+13.  S.F.  Stone 
+14,  R.L.  Watters,  Jr. 
+15.  LJ.  Wood 
+16.  L.J.  Yu,  Guest  Scientist 
+
+Cooperating  Analysts 
+
+N.J.  Miller-Ihhli,  Beltsville  Human  Nutrition  Center,  U.S.  Department  of  Agriculture,  Beltsville,  Md. 
+A.R.  Byme,  M.  Dermelj,  and  A.  Vakselj,  Institut  "Josef  Stefan"  Ljubljana,  Yugoslavia. 
+
+-3-
+
+

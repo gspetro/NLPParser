@@ -1,0 +1,723 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2383a 
+ 
+Baby Food Composite 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining proximates, 
+calories, sugars, carotenoids, and elements in food matrices.  This SRM can also be used for quality assurance when 
+assigning values to in-house control materials.  The baby food composite is a mixture of fruits, vegetables, macaroni, 
+rice  flour,  and  milk  powder.    A  unit  of  SRM 2383a  consists  of  four  jars,  each  containing  approximately  70 g  of 
+material. 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  for  carotenoids  and  elements  in  SRM 2383a, 
+reported on an as-received basis, are provided in Tables 1 and 2.  A NIST certified value is a value for which NIST 
+has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or 
+taken  into  account [1].    Analyses  for  value  assignment  were  performed  by  NIST  and  collaborating  laboratories.  
+Certified values were calculated as the unweighted mean of the mean values from NIST methods and the median of 
+the  mean  of  results  provided  by  collaborating  laboratories,  where  appropriate.    The  associated  uncertainties  are 
+expressed at an approximately 95 % level of confidence [2–4]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for additional analytes in SRM 2383a, reported 
+on an as-received basis, are provided in Tables 3 through 6.  A NIST reference value is a noncertified value that is the 
+best  estimate  of  the  true  value  based  on  available  data;  however,  the  value  does  not  meet  the  NIST  criteria  for 
+certification [1]  and  is  provided  with  an  uncertainty  that  may  reflect  only  measurement  reproducibility,  may  not 
+include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods.    The  reference  mass  fraction  values  were  derived  from  results  reported  by  NIST  and/or  collaborating 
+laboratories. 
+ 
+Information Mass Fraction Values:  Information mass fraction values for several elements in SRM 2383a, reported 
+on an as-received basis, are provided in Table 7.  A NIST information value is a value that may be of interest to the 
+SRM user, but insufficient information is available to assess the uncertainty associated with the value, and therefore 
+no uncertainty is provided [1].  Information values may not be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 2383a is valid, within the measurement uncertainty specified, 
+until  01 January 2029,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips 
+and L.J. Wood of the NIST Chemical Sciences Division, K.E. Sharpless of the NIST Special Programs Office, and 
+S. Ehling of the Grocery Manufacturers Association (GMA, Washington, DC). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  28 August 2019 
+Certificate Revision History on Last Page  
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+SRM 2383a 
+
+Page 1 of 8 
+
+ 
+
+Mills, 
+
+Steins 
+
+General 
+
+Eurofins 
+
+(Vejen, Denmark); 
+
+Analyses at NIST were performed by C. Boonyakong, C. Bryan, W.C. Davis, R. Oflaz, D.J. O’Kelly, T.O. Okumu, 
+Y. Nuevo Ordóñez, R.L. Paul, J.B. Thomas, B.E. Tomlin, and L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+Analysts at the following laboratories performed measurements that contributed to the value assignment of nutrients 
+in SRM 2383a Baby Food Composite as part of the GMA Food Industry Analytical Chemists Committee (FIACC) 
+interlaboratory  comparison  exercise  and  as  part  of  an  interlaboratory  comparison  exercise  coordinated  by  NIST:  
+Campbell  Soup  Company  (Camden, NJ);  ConAgra  Foods  Analytical  Laboratory  (Omaha, NE);  Covance 
+Laboratories (Madison, WI);  Del  Monte 
+Foods (Walnut  Creek, CA);  Eurofins  Central  Analytical 
+Laboratories (Metairie, LA);  Eurofins  Nutritional  Analysis  Center,  Inc. (Des  Moines, IA);  Eurofins  Strasburger  & 
+Siegel (Hanover, MD); 
+Inc./Medallion 
+Laboratories (Minneapolis, MN);  Hormel  Foods  Corporation (Austin, MN);  Krueger  Food  Labs (Billerica, MA); 
+Land  O’  Lakes (Arden  Hills, MN);  Merieux  NutriSciences (Crete, IL);  Nestlé  QA  Center (Dublin, OH);  Silliker, 
+JR  Laboratories (Burnbury, BC,  Canada);  The  National  Food 
+Inc. (Chicago  Heights, IL);  Silliker 
+Laboratory (Livermore, CA); and The Schwan Food Company (Salina, KS). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE TO USERS 
+ 
+SRM 2383a IS INTENDED FOR RESEARCH USE, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored under refrigeration at a temperature between 2 °C and 8 °C, in the dark, and in 
+the original sealed jars.  The certification does not apply to contents of previously opened jars that have been stored 
+for more than one day as the stability of all analytes beyond this period has not been investigated. 
+ 
+Use:  Before use, the contents of the jar should be mixed thoroughly.  The following masses used for NIST analyses 
+should be used as the minimum sample size to ensure valid results: 1.5 g for carotenoids; 1 g to 3.5 g for elements 
+(see Analytical Approach for Determination of Elements below).  Results obtained in analyses should include their 
+own estimates of uncertainty and can be compared to the certified and reference values using procedures described in 
+reference 5. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  SRM 2383a is a mixture of the following ingredients (in order of decreasing mass):  water, 
+orange juice concentrate, corn, rice flour, papaya puree, spinach, macaroni, carrots, tomato paste, and non-fat milk 
+powder.    This  material  is  different  from  its  predecessor,  SRM 2383,  in  that  infant  formula  was  not  added  to  the 
+material.  Therefore, it contains no preformed vitamin A nor other constituents that would be present in a fortified 
+food product. 
+ 
+Analytical Approach for Determination of Carotenoids:  Value assignment of the mass fractions of the carotenoids 
+in  SRM 2383a  was  based  on  the  combination  of  measurements  from  two  analytical  methods  at  NIST  and  results 
+obtained  by  collaborating  laboratories,  where  available.    NIST  provided  measurements  by  using  liquid 
+spectrometric 
+chromatography  methods  with  absorbance  detection 
+detection (LC-MS). 
+ 
+NIST  Analyses  for  Carotenoids  Using  LC-Absorbance:    Lutein,  zeaxanthin,  and  β-carotene  were  measured  by 
+LC-absorbance  in  duplicate  1.5 g  test  portions  taken  from  each  of  ten  jars.    An  aliquot  of  internal  standard, 
+trans-β-apo-10’-carotenal oxime in ethanol containing butylated hydroxytoluene (BHT) as an antioxidant, was added 
+to each sample.  The sample was suspended in approximately 6 mL of stabilized tetrahydrofuran:methanol (50:50, 
+volume fraction) by ultrasonic mixing for 1 min.  The sample was saponified by addition of methanolic potassium 
+hydroxide and heated at 40 °C for 1 h with constant stirring.  The pH of the sample was adjusted to approximately 
+pH 7 using glacial acetic acid and the analytes extracted into at least three 15-mL portions of hexane:petroleum ether 
+(50:50 volume fraction) following addition of 10 mL of aqueous sodium chloride solution.  Hexane:petroleum ether 
+
+(LC-absorbance)  and  with  mass 
+
+                                                           
+
+ately  specify  the
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2383a 
+
+Page 2 of 8 
+
+two 
+
+jars. 
+
+test  portions 
+
+  Aliquots  of 
+
+taken  from  each  of  eight 
+
+phases  were  combined  and  washed  with  water  prior  to  evaporation  under  a  stream  of  nitrogen.    The  residue  was 
+redissolved in 0.5 mL of ethyl acetate and injected for LC-absorbance analysis using a C18 column.  Carotenoids were 
+separated  using  a  gradient  method  consisting  of  acetonitrile/methanol/ethyl  acetate  each  containing  0.05 % 
+triethylamine.    The  methanol  phase  also  contained  0.5  mol/L  ammonium  acetate.    Elution  of  carotenoids  was 
+monitored using absorbance at 450 nm.  Calibrants were prepared gravimetrically, at levels intended to approximate 
+the  levels  of  the  carotenoids  in  the  SRM,  and  concentrations  were  assigned  based  on  spectrophotometric  purity 
+evaluation.  A single internal standard solution was used for the calibrants and samples. 
+ 
+NIST  Analyses  for  Carotenoids  Using  LC-MS:    Lutein,  zeaxanthin,  and  β-carotene  were  measured  by  LC-MS  in 
+internal  standards, 
+duplicate  2.5 g 
+trans-β-apo-10’-carotenal oxime and d6-β-carotene, each in ethanol containing butylated hydroxytoluene (BHT) as an 
+antioxidant, were added to each sample.  Approximately 0.5 g of calcium carbonate was added and the sample was 
+suspended in approximately 100 mL of hexane:petroleum ether (50:50, volume fraction) by vortex mixing for 1 min.  
+The mixture was vacuum filtered and the filtrate rinsed with tetrahydrofuran:methanol (50:50, volume fraction) until 
+all  orange  color  was  removed  from  the  solids.    The  solids  were  then  combined  with  an  aqueous  sodium  chloride 
+solution and the analytes extracted into diethyl ether:petroleum ether (50:50, volume fraction).  The organic fraction 
+was washed with water prior to evaporation to 0.5 mL under a stream of nitrogen.  The residue was redissolved in 
+3.5 mL of ethanol.  The ethanol extract was saponified for 30 min at room temperature by addition of methanolic 
+potassium hydroxide containing pyrogallol.  The pH of the sample was adjusted to approximately pH 7 using ascorbic 
+acid and the analytes extracted into diethyl ether:petroleum ether (50:50, volume fraction).  The organic phase was 
+washed with water prior to evaporation under a stream of nitrogen.  The residue was redissolved in 1 mL of ethanol 
+and injected for LC-MS analysis using a C30 column.  Carotenoids were separated using a gradient method consisting 
+of water and acetone.  Elution of carotenoids was monitored using atmospheric pressure photoionization and mass 
+spectrometric detection in selected ion monitoring (SIM) mode using the following ions: m/z 551 for lutein; m/z 569 
+for zeaxanthin; m/z 417 for trans-β-apo-10’-carotenal oxime; m/z 537.4 for β-carotene; m/z 543.4 for d6-β-carotene.  
+Calibrants were prepared gravimetrically, at levels intended to approximate the levels of the carotenoids in the SRM, 
+and concentrations were assigned based on spectrophotometric purity evaluation.  A single internal standard solution 
+was used for the calibrants and samples. 
+ 
+Analytical Approach for Determination of Elements:  Value assignment of the mass fractions of the elements in 
+SRM 2383a was based on the combination of measurements from at least two different analytical methods at NIST or 
+a single NIST result and results obtained by collaborating laboratories, where available.  NIST provided measurements 
+by  using  inductively  coupled  plasma  optical  emission  spectrometry (ICP-OES),  inductively  coupled  plasma  mass 
+spectrometry (ICP-MS),  instrumental  neutron  activation  analysis (INAA),  and  radiochemical  neutron  activation 
+analysis (RNAA). 
+ 
+NIST Analyses for Ba, Ca, Co, Cr, Cu, Fe, I, K, Mg, Mn, Mo, Ni, P, Na, Sr, Sn, and Zn by ICP-OES and/or ICP-MS:  
+Mass  fractions  of  calcium,  copper,  iron,  magnesium,  manganese,  phosphorus,  potassium,  sodium,  and  zinc  were 
+determined by ICP-OES from duplicate 3.5 g test portions taken from each of ten jars of SRM 2383a.  Samples were 
+digested  in  a  nitric  acid/hydrofluoric  acid  mixture  in  open  beakers  on  a  hotplate.    For  the  determination  of  mass 
+fractions of barium and strontium by ICP-OES and the determination of barium, chromium, cobalt, molybdenum, 
+nickel, strontium, and tin by ICP-MS, duplicate 1.5 g test portions were taken from each of ten jars of SRM 2383a 
+and  were  digested  in  a  nitric  acid/hydrofluoric  acid  mixture  in  closed  vessels  in  a  microwave  oven.    For  the 
+determination of iodine by ICP-MS, single 1 g test portions were taken from six jars of SRM 2383a and from four 
+other jars several months later.  Samples were digested in aqueous tetramethylammonium hydroxide in closed vessels 
+in a microwave oven.  Quantitation was based on the method of standard additions using the SRM 3100 series single 
+element standard solutions. 
+ 
+NIST Analyses for Co, Cr, Se, and Zn by INAA:  For the determination of the mass fractions of chromium, cobalt, 
+selenium, and zinc by INAA, material in ten jars of SRM 2383a was freeze dried and pulverized, and individual disks 
+were prepared from 0.2 g test portions taken from the resulting powder.  Standards were prepared from compounds of 
+known purity.  Samples, standards, and controls were packaged individually in clean polyethylene bags and irradiated 
+individually at 20 MW for 8 h.  Nuclides were counted for 8 h after decays of more than 120 d for chromium and 
+180 d for cobalt, selenium, and zinc.  The following gamma-ray energies were used in the INAA analyses:  1173 keV 
+and  1332 keV  for  the  determination  of  cobalt,  320 keV  for  chromium,  136 keV  and  265 keV  for  selenium,  and 
+1115 keV for zinc. 
+ 
+NIST Analyses for As by RNAA:  For the determination of the mass fraction of arsenic by RNAA, material in ten jars 
+of SRM 2383a was freeze dried and pulverized, and individual disks were prepared from 0.2 g test portions taken 
+from the resulting powder.  Standards were prepared from SRM 3103a Arsenic (As) Standard Solution.  Samples, 
+standards, and controls were packaged individually in clean polyethylene bags and irradiated individually at 20 MW 
+for 8 h.  Samples were combined with 77As prior to chemical separation.  Samples were dissolved in a mixture of nitric 
+
+SRM 2383a 
+
+Page 3 of 8 
+
+and perchloric acids, and As was separated from the matrix as described in reference 6.  The 559 keV line from decay 
+of 76As was used for quantitation.  The 239 keV line from decay of 77As was evaluated for yield determination. 
+ 
+Collaborating Laboratories’ Analyses:  The GMA FIACC laboratories were asked to use their usual methods to 
+make single measurements on test portions taken from each of two jars of SRM 2383a.  The laboratories participating 
+in the NIST exercise were asked to make duplicate measurements on each of two days.  Because of the variability 
+among data provided by laboratories participating in an interlaboratory comparison exercise, the median of the means 
+is used.  Collaborating laboratories’ data alone were used to assign reference values for proximates, sugars, and amino 
+acids. 
+ 
+Homogeneity Assessment:  The homogeneity of carotenoids and elements was assessed at NIST using the methods 
+and test portion sizes described above; analysis of variance did not show statistically significant heterogeneity.  All 
+analytes have been treated as though they are homogeneously distributed in the material although the homogeneity of 
+the other analytes that were measured by collaborating laboratories (e.g., proximates) was not assessed. 
+ 
+Value Assignment:  For calculation of assigned values for analytes that were measured only by NIST, the mean of 
+the mean values from NIST results were used.  For calculation of assigned values for analytes that were measured 
+only by the collaborating laboratories, the median of the laboratory means was used.  For carotenoids and elements 
+that  were  measured by  NIST  and  collaborating  laboratories,  the  median  of  the  individual  collaborating  laboratory 
+means and the mean of the individual sets of NIST data were averaged, as appropriate. 
+ 
+Certified Mass Fraction Values for Carotenoids:  Each certified mass fraction value, reported on an as-received 
+basis, is the mean from the combination of means of NIST data sets and the median of the mean results provided by 
+collaborating  laboratories.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the  certified  value  and  U95%(x)  is  the 
+expanded uncertainty of the certified value.  The true value of the analyte lies within the interval x ± U95%(x) with 
+95 % confidence.  To propagate this uncertainty, treat the certified value as a normally distributed random variable 
+with mean x and standard deviation U95%(x)/2 [2-4].  The measurand is the total mass fraction of each carotenoid in 
+baby food composite as listed in Table 1 on an as-received basis.  Metrological traceability is to the SI measurement 
+unit for chemical mass fraction, expressed as milligrams per kilogram through the molar absorptivity of the compound. 
+ 
+
+Table 1.  Certified Mass Fraction Values for Carotenoids in SRM 2383a 
+
+ 
+
+Analyte 
+
+Total Lutein(a,b) 
+Total Zeaxanthin(a,b,c)
+
+ 
+
+(a) Collaborating laboratories 
+(b) NIST LC-absorbance 
+(c)  NIST LC-MS 
+ 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+0.89  ±  0.20 
+0.67  ±  0.11 
+
+ 
+ 
+
+SRM 2383a 
+
+Page 4 of 8 
+
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value, reported on an as-received basis, 
+is  the  mean  from  the  combination  of  means  of  NIST  data  sets  and  the  median  of  the  mean  results  provided  by 
+collaborating laboratories, where appropriate.  Values are expressed as x ± U95%(x), where x is the certified value and 
+U95%(x)  is  the  expanded  uncertainty  of  the  certified  value.    The  true  value  of  the  analyte  lies  within  the  interval 
+x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, treat the certified value as a normally distributed 
+random variable with mean x and standard deviation U95%(x)/2 [2-4].  The measurand is the total mass fraction of each 
+element in baby food composite as listed in Table 2 on an as-received basis.  Metrological traceability is to the SI 
+measurement unit for chemical mass fraction, expressed as milligrams per kilogram. 
+ 
+
+Table 2.  Certified Mass Fraction Values for Elements in SRM 2383a 
+
+ 
+
+ 
+
+Analyte 
+
+Barium (Ba)(a,b) 
+Calcium (Ca)(a,c) 
+Cobalt (Co)(b,d) 
+Copper (Cu)(a,c) 
+Iron (Fe)(a,c) 
+Magnesium (Mg)(a,c) 
+Manganese (Mn)(a,c) 
+Phosphorus (P)(a,c) 
+Potassium (K)(a,c) 
+Sodium (Na)(a,c) 
+Strontium (Sr)(a,b) 
+Zinc (Zn)(a,c,d) 
+
+Mass Fraction 
+(mg/kg) 
+
+342.6 
+
+0.020 
+0.278  ± 
+5.0 
+± 
+0.005 
+0.048  ± 
+0.082 
+0.758  ± 
+0.51 
+4.42  ± 
+4.0 
+± 
+0.064 
+0.963  ± 
+± 
+11 
+±  220 
+29 
+± 
+0.047 
+4.445  ± 
+0.18 
+2.22  ± 
+
+212.2 
+
+453 
+2910 
+195 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) NIST ICP-OES 
+(b) NIST ICP-MS 
+(c) Collaborating laboratories 
+(d) NIST INAA 
+ 
+ 
+Reference  Mass  Fraction  Values  for  trans-β-Carotene  and  Tocopherol:    Each  reference  mass  fraction  value, 
+reported on an as-received basis, is the mean from the combination of means of NIST data sets and the median of the 
+mean results provided by collaborating laboratories, where appropriate.  Values are expressed as x ± U95%(x), where x 
+is the reference value and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the analyte 
+lies within the interval x ± U95%(x) with about a 95 % confidence [2-4].  The measurand is the mass fraction for each 
+analyte listed in Table 3 on an as-received basis as determined by the methods indicated.  Metrological traceability is 
+to the measurement processes and standards used by NIST and collaborating laboratories. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Additional Analytes in SRM 2383a 
+
+Analyte 
+
+Total α-Tocopherol(a) 
+trans-β-Carotene(a,b,c)
+
+ 
+
+(a) Collaborating laboratories 
+(b) NIST LC-absorbance 
+(c)  NIST ID-LC-MS 
+ 
+ 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+5.4 
+3.1 
+
+±  1.4 
+±  1.1 
+
+ 
+ 
+
+SRM 2383a 
+
+Page 5 of 8 
+
+Reference Mass Fraction Values for Elements:  Each reference mass fraction value, reported on an as-received 
+basis, is the mean of the results of a single NIST data set.  Values are expressed as x ± U95%(x), where x is the reference 
+value and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the analyte lies within the 
+interval x ± U95%(x) with about a 95 % confidence [2-4].  The measurand is the mass fraction for each element listed 
+in  Table 4  as  determined  by  the  methods  indicated.    Metrological  traceability  is  to  the  SI  measurement  unit  for 
+chemical mass fraction, expressed as milligrams per kilogram or micrograms per kilogram, as realized by the methods 
+used. 
+ 
+
+Table 4.  Reference Mass Fractions for Elements in SRM 2383a 
+
+Analyte 
+
+Iodine (I)(a) 
+Tin (Sn)(a) 
+ 
+ 
+
+Selenium (Se)(b) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.0737  ±  0.0083 
+0.361  ±  0.019 
+
+Mass Fraction 
+(µg/kg) 
+0.028  ±  0.001 
+
+ 
+ 
+ 
+
+ 
+
+(a) NIST ICP-MS 
+(b) NIST INAA 
+ 
+ 
+Reference  Values  for  Proximates,  Sugars,  and  Calories:    Each  reference  mass  fraction  value,  reported  on  an 
+as-received basis, is the median of the mean values provided by collaborating laboratories.  Values are expressed as 
+x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific 
+value of the analyte lies within the interval x ± U95%(x) with about a 95 % confidence [2-4].  For proximates and sugars, 
+the measurands are the mass fractions of each analyte listed in Table 5, as determined by the methods indicated.  For 
+calories, the measurand is the caloric content listed in Table 5, as determined by the method indicated.  Metrological 
+traceability is to the measurement processes and standards used by collaborating laboratories. 
+ 
+
+Table 5.  Reference Mass Fraction Values for Proximates, Sugars, and Calories in SRM 2383a 
+
+Analyte 
+
+Solids 
+Ash 
+Protein 
+Carbohydrates 
+Total Fat (as Sum of Fatty Acids as Triglycerides) 
+Polyunsaturated Fatty Acids (as Free Fatty Acids) 
+Saturated Fatty Acids (as Free Fatty Acids) 
+Total Sugars 
+Sucrose 
+Glucose 
+Fructose 
+Lactose 
+
+ 
+
+Calories(a) 
+
+Mass Fraction 
+(g/100 g) 
+
+22.45  ±  0.68 
+0.705  ±  0.021 
+1.96  ±  0.06 
+19.41  ±  0.70 
+0.29  ±  0.20 
+0.122  ±  0.077 
+0.072  ±  0.035 
+12.05  ±  0.50 
+3.57  ±  0.12 
+3.80  ±  0.11 
+3.96  ±  0.09 
+0.50  ±  0.10 
+Energy 
+(kcal per 100 g) 
+
+89.0 
+
+±  3.5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+(a)  The reference value for calories is the median of lab mean caloric calculations from the interlaboratory comparison exercise.  If 
+the  mean  proximate  values  are  used  for  calculation,  with  caloric  equivalents  of  9,  4,  and  4  for  fat  (total),  protein,  and 
+carbohydrate, respectively, the mean caloric content is 88.1 kcal/100 g. 
+
+ 
+
+SRM 2383a 
+
+Page 6 of 8 
+
+ 
+
+ 
+
+ 
+
+Reference Mass Fraction Values for Amino Acids:  Each reference mass fraction value, reported on an as-received 
+basis,  is  the  median  of  the  mean  results  provided  by  collaborating  laboratories,  using  either  LC-fluorescence  or 
+LC-absorbance.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the  reference  value  and  U95%(x)  is  the  expanded 
+uncertainty of the value at a confidence level of approximately 95 %.  The measurand is the mass fraction for each 
+amino acid listed in Table 6 as determined by the method indicated.  Metrological traceability is to the measurement 
+processes and standards used by collaborating laboratories. 
+ 
+
+Table 6.  Reference Mass Fraction Values for Amino Acids in SRM 2383a 
+
+Jes  for  Am
+
+ 
+
+ 
+
+ 
+
+Alanine 
+Arginine 
+Aspartic Acid 
+Cystine 
+Histidine 
+Phenylalanine 
+Tyrosine 
+Valine 
+
+Mass Fraction 
+(g/100 g) 
+
+0.0734  ±  0.0084 
+0.126  ±  0.022 
+0.1993  ±  0.0063 
+0.0188  ±  0.0068 
+0.0545  ±  0.0038 
+0.0236  ±  0.0073 
+0.0452  ±  0.0054 
+0.070  ±  0.012 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Information Mass Fraction Values for Elements:  Each information mass fraction value (except for chromium) is 
+the mean result of a NIST analysis using a single method.  The chromium value is the mean from two sets of NIST 
+results.  No uncertainty is provided because there is insufficient information available for its assessment. 
+ 
+
+Table 7.  Information Mass Fraction Values for Elements in SRM 2383a 
+
+Analyte 
+
+Chromium (Cr)(a,b) 
+Molybdenum (Mo)(b) 
+Nickel (Ni)(b) 
+Arsenic (As)(c) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.2 
+0.06 
+0.2 
+0.003 
+
+(a) NIST INAA 
+(b) NIST ICP-MS 
+(c) NIST RNAA 
+ 
+ 
+
+ 
+
+SRM 2383a 
+
+Page 7 of 8 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Aug 2019). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Aug 2019). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures (BIPM),  Sèvres, France  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Aug 2019). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+Dietary  Supplements 
+[5]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+
+[3] 
+
+Int., Vol. 91, pp. 1298–1302 (2008). 
+
+[6]  Paul, R.L.; Determination of Arsenic in Food and Dietary Supplement Standard Reference Materials by Neutron 
+
+Activation Analysis; Anal. Chem., Vol. 83, pp. 152-156 (2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  28 August 2019 [Addition of reference values for total fat (as the sum of fatty acids as triglycerides), polyunsaturated 
+fatty acids, saturated fatty acids, amino acids, and α-tocopherol; correction of units for selenium value from mg/kg to µg/kg; removal of values for 
+water-soluble vitamins, total lycopene, trans-lycopene, α-carotene, β-carotene, 9-cis-β-carotene, β-cryptoxanthin, and total dietary fiber; editorial 
+ditorial  changes); 
+changes]; 21 July 2015 (Addition of values for carotenoids; clarification and addition of footnotes for water-soluble vitamins; editorial changes); 
+18 October 2012 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program  at:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+  
+
+possession  is  current. 
+
+rotenoids 
+
+ 
+
+SRM 2383a 
+
+Page 8 of 8 
+
+

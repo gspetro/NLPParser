@@ -1,0 +1,925 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2393 
+ 
+CAG Repeat Length Mutation in Huntington’s Disease 
+
+ 
+ignment  of  the  number  of 
+This Standard Reference Material (SRM) is intended primarily for use in the value assignment of the number of 
+Huntington’s  disease  [CAG]  trinucleotide  repeats  contained  in  a  human  genomic  material  [1–3].    The  six 
+component  genomic  DNA  materials,  labeled  A  to  F,  are  from  DNA  extracted  from  cell  lines  derived  from 
+Huntington’s  disease  samples.    A  unit  of  SRM  2393  consists  of  six  sterile  0.5  mL  perfluoroalkoxy  (PFA) 
+fluoropolymer vials, each vial containing approximately 50 µL of DNA solution of each individual component. 
+ 
+Certified Values of the Number of Huntington’s Disease [CAG] Repeats:  Table 1 lists the certified number of 
+[CAG]  repeats  for  each  component.    These  certified  values  were  determined  by  counting  the  number  of 
+[CAG]  repeat  units  in  the  component  alleles  by  Sanger  sequencing  technology  and  confirmed  by  fragment 
+analysis (genotyping).  The complete agreement among results from independent forward and the reverse direction 
+sequencing and fragment analysis provides the highest confidence in the assigned integer counts.  Other techniques 
+were explored and there is no reason to doubt these results.  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated.  The 
+certified value of the number of CAG repeats is traceable to the SI unit of count (1). 
+ 
+Information Values of Conventional DNA Mass Concentration:  Table 2 lists information values for the DNA 
+mass concentration of the SRM 2393 components.  These values are the average of results from five quantitative 
+polymerase  chain  reaction  (PCR)  methods  calibrated  with  Component  A  from  SRM  2372  Human  DNA 
+Quantitation Standard.  Relatively high results from a commercial quantitative PCR method that amplifies at the 
+hTERT locus were excluded from the average as this locus is sometimes over-expressed in cell line DNA [4,5].  
+An information value is considered to be a value that will be of use to the SRM user, but insufficient information 
+is  available  to  assess  the  uncertainty  associated  with  the  value.    Information  values  cannot  be  used  to  establish 
+metrological traceability.  
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2393  is  valid,  within  the  measurement  uncertainty 
+specified, until 31 January 2021, provided the SRM is handled and stored in accordance with the instructions given 
+in this certificate (see “Warning and Instructions for Handling, Storage, and Use”).  The certification is nullified if 
+and  Use”).  The  certification  is  nullified  if 
+the SRM is damaged, contaminated, or otherwise modified. 
+ 
+If 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+ate,  NIST  will 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification was under the direction of M.C. Kline and 
+J.M.  Butler  of  the  NIST  Biomolecular  Measurement  Division.    Evaluation  of  the  data  was  performed  by 
+D.L. Duewer of the NIST Chemical Sciences Division and reviewed by J.H. Yen of the NIST Statistical Engineering 
+Division.  M.C. Kline prepared the materials and performed the homogeneity and certification measurements with 
+the  assistance  of  staff  from  the  divisions  formerly  known  as  the  NIST  Biochemical  Science  and  Analytical 
+Chemistry Divisions. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+October 
+Certificate Issue Date:  01 October 2015 
+Last
+Certificate Revision History on Last Page 
+
+ 
+Michael J. Tarlov, Chief 
+Biomolecular Measurement Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 4 
+
+  
+
+SRM 2393 
+
+WARNING AND INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:    SRM  2393  IS  A  HUMAN-SOURCE  MATERIAL.    SINCE  THERE  IS  NO  CONSENSUS  ON  THE 
+INFECTIOUS STATUS OF  EXTRACTED DNA, HANDLE THE SRM 2393 COMPONENTS AS BIOSAFETY 
+LEVEL 1 MATERIALS CAPABLE OF TRANSMITTING INFECTIOUS DISEASE [6].  SRM 2393 components 
+and derived solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+IZE. 
+Storage:  All vials of SRM 2393 should be stored in the dark between 2 °C to 8 °C.  DO NOT FREEZE. 
+ 
+Use:    Component  vials  should  be  mixed  briefly  and  centrifuged  (without  opening  the  vial  cap)  prior  to  removing 
+sample  aliquots  for  analysis.    For  the  certified  and  informational  values  to  be  applicable,  materials  should  be 
+withdrawn  immediately after  opening  the  vials and processed  without delay.  Dilutions  of these  materials  may be 
+made as appropriate, but they must be used immediately.  Certified and information values do not apply to any material 
+remaining in recapped vials.  DO NOT EXPOSE ANY DNA SOLUTION TO DIRECT SUNLIGHT. 
+ 
+PREPARATION AND ANALYSIS(1) 
+
+salt 
+
+acid 
+
+adjusted 
+
+disodium 
+
+solubilized 
+
+(Camden,  NJ.) 
+
+(disodium  EDTA) 
+
+for  Medical  Research, 
+
+ethylenediaminetetra-acetic 
+
+  The  purchased  materials  were 
+
+Sample  Preparation:    DNA  extracts  from  the  National  Institute  of  General  Medical  Sciences  (NIGMS)  
+Human  Genetic  Cell  Repository,  Inherited  Disorders  subcollection  [7]  were  purchased  from  Coriell 
+Institute 
+in 
+deionized  water  with  10  mmol/L  2-amino-2-(hydroxymethyl)-1,3-propanediol  hydrochloride  (Tris  HCl)  and 
+to 
+0.1  mmol/L 
+pH 8.0 (TE-4, pH 8.0 buffer).  After concentration adjustment the materials were allowed to equilibrate at 4 °C in PFA 
+containers until vialing.  Just prior to vialing, each material was brought to room temperature in its PFA container 
+inside a laminar flow hood and gently mixed.  In separate sessions, each solution was transferred with a manual pipette 
+to sterile PFA vials, which were then capped and labeled. After the production run for that component was complete, 
+all vials were placed into storage at 4 °C. 
+ 
+Material Qualification:  Figure 1 displays electropherograms of the PCR amplification products at the Huntington’s 
+Disease locus for components A to F.  Peaks for stutter products for one or more [CAG] repeat units less than the 
+certified value (“reverse stutter”) and one repeat more than the certified value (“forward stutter”) are visible for alleles 
+15, 17, 29, 35, 36, 39, 40, and 45.  There are two forward stutter peaks visible  for the 50 allele and three for the 
+75 allele.  Since genomic DNA rather than PCR products are supplied the stutter amounts may differ depending on 
+user PCR conditions.  PCR amplifications of the Huntington’s Disease locus with more severe stutter than shown here 
+can produce reverse stutter peaks that have greater height and area than the parent allele.  The extent of both reverse 
+and forward stutter increases with increasing number of [CAG] repeats. 
+ 
+ 
+
+‘]  Repeats 
+Table 1.  Certified Values of the Number of Huntington’s Disease [CAG] Repeats 
+ 
+
+Component 
+
+Allele 1 
+
+Allele 2 
+
+A 
+B 
+C 
+D 
+E 
+F 
+
+15 
+17 
+15 
+35 
+39 
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+29 
+36 
+40 
+45 
+50 
+75(a) 
+
+ 
+highest  for  the  parent  allele,  as  is 
+(a) Template slippage (“stutter”) may result in the PCR product Peak area and/or height not being highest for the parent allele, as is 
+
+observed for the 75 repeat for the parent allele (See Figure 1). 
+
+Figure
+
+ 
+ 
+
+Table 2.  Information Values of Conventional DNA Mass Concentration 
+ 
+
+Component 
+
+A  B  C  D  E  F 
+
+[DNA] ng/µL 
+
+8  10  12  9  10  9 
+
+                                                           
+
+(1)Certain commercial instruments, materials, or processes are identified in this report to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology,  nor  does  it  imply  that  the  instruments,  materials,  or  processes  identified  are  necessarily  the  best  available  for  the 
+purpose. 
+SRM 2393 
+
+Page 2 of 4 
+
+ 
+
+A 
+
+4ooo+ 
+
+B 
+
+C 
+
+ago t 
+anon t 
+ot 
+
+D 
+
+20004 
+
+a 
+
+E 
+
+2800  — 
+
+sano 
+
+a0 
+aoa 
+
+60) 
+
+ral 
+
+a0 
+
+40 
+
+100 
+
+110 
+
+420 
+
+1350 
+
+440 
+
+  
+
+dont 
+    
+ol 
+
+i 
+
+ak 
+2
+7
+ 
+
+2
+5
+ 
+
+2
+6
+ 
+
+2
+8
+ 
+
+2
+9
+ 
+
+3
+0
+ 
+
+* 
+
+60 
+
+70 
+
+ao 
+
+90 
+
+100 
+
+410 
+
+120 
+
+430 
+
+dQ) 
+
+450 
+
+  
+
+    
+
+in  ab 
+
+ah 
+
+0 
+
+50 
+
+60 
+
+70 
+
+ao 
+
+a 
+
+400 
+
+440 
+
+420 
+
+430 
+
+450 
+
+460 
+
+  
+
+    
+
+A 
+
+a 
+
+3
+2
+ 
+
+3
+3
+ 
+
+3
+4
+ 
+
+3
+5
+ 
+
+3
+6
+ 
+
+3
+7
+ 
+
+* 
+
+440 
+
+3
+6
+ 
+
+3
+7
+ 
+
+3
+8
+ 
+
+3
+9
+ 
+
+4
+0
+ 
+
+4
+1
+ 
+
+* 
+
+i 
+1
+1
+3
+4
+ 
+ 
+
+1
+5
+ 
+
+* 
+
+i 
+
+1
+5
+ 
+
+1
+6
+ 
+
+1
+7
+ 
+
+* 
+
+ah 
+14
+1
+5
+ 
+ 
+
+* 
+
+eo 
+
+50 
+
+60 
+
+70 
+
+a0 
+
+400 
+
+410 
+
+420 
+
+  
+
+    
+
+éo 
++ 
+
+70 
++ 
+
+Fa 
++ 
+
+a 
++ 
+
+400 
++ 
+
+4410 
++ 
+
+420 
++ 
+
+430 
++ 
+
+140 
++ 
+
+450 
++ 
+
+460 
++ 
+
+  
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
+480 
++ 
+
+441 
++ 
+
+    
+
+ate  le  iL 
+
+ol 
+
+3
+2
+ 
+
+3
+3
+ 
+
+3
+4
+ 
+
+3
+5
+ 
+
+3
+6
+ 
+
+* 
+
+4
+1
+ 
+
+4
+2
+ 
+
+4
+3
+ 
+
+4
+4
+ 
+
+4
+5
+ 
+
+4
+6
+ 
+
+* 
+
+q70 
++ 
+
+F 
+
+t 
+
+t 
+
+t 
+
+70 
+t 
+
+ao 
+t 
+
+éo 
+t 
+
+120 
+50 
+  
+sooo 
+t 
+t 
+anno t 
+  
+a 
+A 
+  
+1
+1
+5
+6
+ 
+ 
+
+1
+7
+ 
+
+4410 
+t 
+
+400 
+t 
+
+a0 
+t 
+
+t 
+
+t 
+
+t 
+
+* 
+
+3
+6
+ 
+
+3
+7
+ 
+
+3
+8
+ 
+
+3
+9
+ 
+
+4
+0
+ 
+
+* 
+
+4
+6
+ 
+
+4
+7
+ 
+
+4
+8
+ 
+
+4
+9
+ 
+
+5
+0
+ 
+
+5
+1
+ 
+
+5
+2
+ 
+
+* 
+
+230 
+| 
+
+2a 
++ 
+
++ 
+
+250 
++ 
+
+| 
+
+260 
++ 
+
++ 
+
+270 
++ 
+
++ 
+
+  
+
+pe  hh 
+7
+7
+0
+5
+* 
+ 
+ 
+
+7
+3
+ 
+
+7
+1
+ 
+
+7
+2
+ 
+
+6
+8
+ 
+
+6
+9
+ 
+
+7
+4
+ 
+
+7
+6
+ 
+
+7
+7
+ 
+
+7
+8
+ 
+
+Figure  1.    Example  electropherograms  of  SRM  2393  components.    The  y-axis  represents  relative 
+fluorescence units (RFUs).  The RFU scale for the 75 repeat allele of Component F has been expanded to 
+facilitate  visualization of the “stutter” pattern and is not shown.    The  x-axis  represents  base  pair  size  as 
+estimated from an internal size standard.  Values below the x-axis line are the number of [CAG] repeats 
+for  PCR  products  having  peak  heights  of  50  RFU  or  more.    The  parent  allele  in  each  set  of  PCR 
+amplification products is marked with a “”. 
+
+ 
+Measurement of [CAG] Repeat Number:  Both alleles for each component were sequenced in both forward and 
+reverse directions or in multiple forward directions using Big Dye v 3.1 Sanger sequencing chemistry and capillary 
+electrophoresis [8].  The number of [CAG] repeat units were counted.  The counts were confirmed by genotyping 
+the components and evaluating the relationships between the count and the apparent electrophoretic size of the PCR 
+products and between the count and the peak area fraction of stutter products relative to the peak area of the parent 
+allele. 
+ 
+f  relative  peak  areas  of  the  PCR
+Homogeneity Assessment:  Material homogeneity was evaluated by comparison of relative peak areas of the PCR 
+products at the Huntington’s Disease locus.  Five vials of each component were randomly selected and analyzed in 
+duplicate. 
+
+ 
+Commutability  of  the  Huntington’s  Disease  CAG  repeat  Certified  Values:    The  commutability  of  the 
+SRM 2393 components was evaluated by two independent European HD Registry reference laboratories [9]. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2393 
+
+  
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  Potter, N.T.; Spector, E.B.; Prior, T.W.; Technical Standards and Guidelines for Huntington Disease; Standards 
+Standards 
+and  Guidelines  for  Clinical  Genetics  Laboratories;  American  College  of  Medical  Genetics:  Bethesda,  MD 
+). 
+(2006); available at http://www.acmg.net/Pages/ACMG_Activities/stds-2002/HD.htm (accessed Sep 2015). 
+
+"MG_  Activities/stds 
+
+[2]  Walker, F.O.; Huntington’s Disease; Lancet, Vol. 369, pp. 218–228 (2007). 
+[3]  Huntington’s Disease Society of America; available at http://www.hdsa.org/ (accessed Oct 2015). 
+[4]  Bodnar,  A.G.;  Ouellette,  M.;  Frolkis,  M.;  Holt,  S.E.;  Chiu,  C.;  Morin,  G.B.;  Harley,  C.B.;  Shay,  J.W.; 
+Lichtsteiner, S.; Wright, W.E.; Extension of Life-Span by Introduction of Telomerase into Normal Human Cells; 
+Science, Vol. 279, pp. 349–352 (1998). 
+
+[5]  Lee,  K.M.;  Choi,  K.H.;  Ouellette,  M.M;  Use  of  Exongenous  hTERT  to  Immortalize  Primary  Human  Cells; 
+
+Cytotechnology, Vol. 45, pp. 33–38 (2004). 
+
+[6]  CDC/NIH:  Biosafety 
+
+in  Microbiological  and  Biomedical  Laboratories,  5th  ed.;  HHS  publication 
+No. (CDC) 21-1112; Chosewood, L.C.; Wilson, D.E.; Eds.; US Government Printing Office: Washington, D.C. 
+(2009); available at http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf; (accessed Oct 2015). 
+http://ccr.coriell.org/ 
+[7]  NIGMS  Human  Genetic  Cell  Repository,  Inherited  Disorders  Subcollection;  available  at  http://ccr.coriell.org/ 
+
+[8]  Kline, M.C.; Hill, C.R.; Decker, A.E.; Butler, J.M.; STR Sequence Analysis for Characterizing Normal, Variant, 
+(2010); 
+Int. 
+
+and 
+http://www.fsigenetics.com/article/S1872-4973(10)00156-0/abstract (accessed Oct 2015). 
+
+publication 
+
+electronic 
+
+Forensic 
+
+Alleles; 
+
+Genet., 
+
+Null 
+
+Sci. 
+
+[9]  European Huntington’s Disease Network Registry; available at http://www.euro-hd.net/html/registry (accessed 
+
+(accessed Oct 2015). 
+
+Oct 2015). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    01  October  2015  (Change  of  expiration  date;  editorial  changes);  17  December  2012  (Reference  laboratory 
+ 
+information updated; editorial changes); 03 March 2011 (Original certificate issue date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301)  948-3730, 
+ 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+1  their  possession  is  current. 
+(301)  975-2200; 
+
+the  SRM  Program: 
+
+telephone 
+
+fax 
+
+SRM 2393 
+
+Page 4 of 4 
+
+

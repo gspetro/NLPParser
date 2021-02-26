@@ -1,0 +1,464 @@
+﻿National Institute of Standards & Technology
+
+
+
+Report of Investigation
+
+
+
+Reference Material 8456
+
+
+
+Ultra High Molecular Weight Polyethylene
+
+
+
+This Reference Material (RM) is intended primarily for use in mechanical characterization of material properties and laboratorysimulated performance.  Each unit of RM 8456 is ultra high molecular weight polyethylene (UHMWPE), supplied as a cylindrical polyethylene bar, with nominal dimensions of 7.62 cm (3.00 in) in diameter by 152.4 cm (60 in) in length.  This RM is not intended for use in human implantation or any human biomedical device.
+
+			
+
+			Reference Values:  Reference values and uncertainties for Young’s modulus, yield strength, ultimate strength, and elongation are shown in Table 1.  Reference values are noncertified values that are the best estimates of the true value.  However, the values do not meet the NIST criteria for certification and are provided with associated uncertainties that may not include all sources of uncertainty. 
+
+	
+
+	Information Values:  Information values for the composition trace elements and material properties of RM 8456 are given in Table 2.  These values are based on manufacturersupplied information on the composition and are considered to be information values.  These are noncertified values with no reported uncertainties as there is insufficient information to assess uncertainties.  The information values are given to provide additional characterization of the material and should not be used for calibration or quality control.
+
+
+
+Expiration of Value Assignment:  RM 8456 is valid, within the measurement uncertainty specified, until 01 January 2017, provided the RM is handled and stored in accordance with instructions given in this Report of Investigation (see “Instructions for Handling, Storage and Use”).  This report is nullified if the RM is damaged, contaminated, or otherwise modified. 
+
+
+
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+Stability:  This material is considered stable when stored at ambient room temperature and protected from prolonged exposure to ultraviolet radiation.  However, its stability has not been rigorously assessed.  NIST will monitor this material and will report any significant changes to the purchaser.
+
+
+
+	The overall direction and coordination of the analyses were under J.A. Tesk of the NIST Polymers Division.
+
+	
+
+	Testing services were provided by F.C. Eichmiller of the American Dental Association Health Foundation Paffenbarger Research Center located in the NIST Polymers Division.
+
+
+
+Statistical consultation was provided by M.C. Croarkin of the NIST Statistical Engineering Division.
+
+
+
+The information values reported in Table 2 were provided by R.K. Wilhelm of Poly Hi Solidur, Inc., Fort Wayne, IN.
+
+
+
+Support aspects involved in the issuance of this RM were coordinated through the NIST Measurement Services Division.
+
+
+
+
+
+	
+
+	Eric K. Lin, Chief
+
+	Polymers Division
+
+	
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Report Issue Date:  12 June 2012	Measurement Services Division
+
+		Report Revision History on Last Page
+Notice and Warnings to Users
+
+
+
+RM 8456 IS NOT INTENDED FOR USE IN HUMAN IMPLANTATION OR ANY HUMAN BIOMEDICAL DEVICE.
+
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE
+
+
+
+Storage:  Until required for use, RM 8456 should be stored at room temperature in its original container and not exposed to intense, direct light, or ultraviolet radiation.
+
+
+
+Use:  The reference properties given represent mean values and expanded uncertainties that characterize the bar across the center 5.62 cm (2.21 in) of its diameter and down the entire length of the bar.  Values derived for the outside 1 cm of the bar diameter differ from these reported values.  Samples made from this RM, therefore, should be fabricated from the central 5.62 cm of the 7.62 cm diameter of the bar.
+
+
+
+Source, Preparation and Analysis():
+
+
+
+Source of Material:  Premium Grade UHMWPE bars were provided by the MediTECH Division of Poly Hi Solidur, Inc., Fort Wayne, IN.  These bars were taken from 304.8 m (1000 ft) of continuous production material and labeled to identify their relative order and longitudinal orientation.
+
+
+
+Methods of Analysis Used in Value Assignment:  Specimens were prepared according to ASTM D 63896 dimensions for Type IV tensile specimens [1].  The thickness for the test specimens was 3.25 mm.  Test bars, 0.3048 m (1 ft) in length, were supplied from the two ends of the continuous production run and every 30.48 m (100 ft) of the 304.8 m (1000 ft) manufactured bars for a total of 11 test bars.
+
+
+
+A section approximately 12.7 cm (5 in) long was cut with a band saw from the end of each test bar and rough cut to a rectangular block adequate in size for 10 tensile test specimens.  Computeraided machining was used to cut the profile for these dumbbellshaped specimens, each of which was roughly formed by cutting it from the block with a band saw; it was then resurfaced, on the cut side, to the specified thickness.  Feed rate and tool speeds were set to give a surface free from visible defects and as smooth as possible, a surface finish equivalent to a surface of a maximum roughness of 1.5 m peak to valley in a profile cut (1.5 P) was the reference finish sought.  A small recessed tab, on which the test specimen identification was stamped, was left extending from the lower grip end of each specimen.  Stamping was done to identify which end of the test bar the specimen was cut from, with the labeled end of the bar corresponding to the labeled end of the test specimen.  Specimens were cut along the long axis of the bar according to the orientation and numbering scheme shown in Figure 1.  Ten test specimens were cut from each bar, spacing them evenly across the diameter of the bar, as shown in the figure.  This orientation produced specimens 1 and 10 representing the outermost portion of the bar diameter, and specimens 5 and 6 representing the innermost portion.
+
+
+
+A randomized table for testing order and data recording was made.  Randomization was done according to the test bar letter designation and blocked according to the numerical specimen order within the test bars.  All specimens were visually inspected for obvious nicks or machining defects.  Any such defective specimens were labeled and not tested.
+
+
+
+	Young’s Modulus:  Note 15 of ASTM D 63896 states, “Modulus of materials is determined from the slope of the linear portion of the stressstrain curve.  For most plastics, this linear portion is very small, occurs very rapidly, and must be recorded automatically”.  The linear portion of the stressstrain curve for this UHMWPE occurred at strains well below 0.5 %.  Therefore, elastic modulus testing was conducted by making six repeated measurements on each specimen at peak strains between 0.15 % and 0.25 %.
+
+	
+
+	The protocol was as follows:
+
+	Specimen fixed in grips starting at a zero load.
+
+	Crosshead speed set at 50 mm/min.
+
+	Load cell and extensometer specifications as described in ASTM D 63896, calibrated every 10 tests electronically, both before and after the testing session, with dead weights.
+
+	Data collection rate set at maximum for the instrument.
+
+	
+The test procedure was as follows:
+
+	
+
+	Step 1. 	Measured specimen thickness and width to within  0.01 mm and recorded values.
+
+	Step 2. 	Calibrated load cell and extensometer.
+
+	Step 3. 	Mounted sample and balanced load cell and extensometer in the neutral position.
+
+	Step 4. 	Loaded sample to 0.3 % maximum strain while recording stressstrain data.
+
+	Step 5. 	Returned to neutral position and waited (3 to 5) min for specimen relaxation.
+
+	Step 6. 	Repeated loading and relaxation (steps 3 to 5) for a total of six measurements.
+
+		Step 7. 	If peak strain did not fall between 0.15 % and 0.25 % for any of the measurements, repeated steps 3 through 5 until a total of six measurements fell within this range.
+
+	Step 8. 	Averaged the Young’s modulus values for the six measurements and recorded average and standard deviation for each specimen.
+
+		
+
+	Comparison of Modulus at Varying Strains:  A comparison was made of the modulus values taken at 1 %, 2 %, and 3 % strain.  Ten specimens, which exhibited similar mean 0.3 % strain Young’s modulus values, were chosen from the 110 specimens.  These specimens were tested using the same instrument setup, but with a maximum strain limit of 3.5 %.  One test was run on each specimen and the stressstrain curve was analyzed to determine the secant modulus between 0 % to 1 %, 0 % to 2 %, and 0 % to 3 % strain.  The mean secant modulus and standard deviations are given in Table 3.
+
+	
+
+	The reproducibility of the modulus was consistent; however, the value was highly dependent upon maximum strain limit.  It was determined that, after loading, specimens strained beyond 1 % took more than 20 minutes to fully relax to original length.  Therefore, the material was characterized at the lower strain of 0.3 %, where measurements could be easily replicated without risking permanent deformation.
+
+	
+
+	Yield Strength:  Yield strength, ultimate tensile strength, and elongation were all determined from a single destructive test of each specimen.  ASTM D 63896 does not define the manner for determining the yield point, the point when yield occurs at a lower load than the ultimate strength.  The loaddeflection curve for UHMWPE specimens has a characteristic nearlinear region at low strain followed by a peak value where yield occurs.  The load then decreases for a short strain period before continuing to increase to the break load.  Since every specimen exhibited a characteristic maximum load at yield, the yield point was determined as the highest zeroslope point on the load deflection curve by leastsum regression of betweenpoint slopes using a minimum of five consecutive points along the curve.
+
+	
+
+	The test setup was as follows:
+
+	
+
+	Specimen fixed in grips starting at a zero load.
+
+	Crosshead speed set at 50 mm/min.
+
+	Load cell specifications as described in ASTM D 63896, electronically calibrated every 10 tests, dead weight calibration before and after each testing session.
+
+	Data collection rate set at a minimum of 10 points per second.
+
+	No extensometer was used for this test.
+
+	
+
+	The test procedure was as follows:
+
+	
+
+		Step 1.	Measured specimen thickness and width to within  0.01 mm and recorded values.
+
+		Step 2.	Calibrated load cell.
+
+		Step 3.	Mounted sample and balanced load cell in the neutral position.
+
+		Step 4.	Marked gauge length and set up video camera as described in elongation methods.
+
+		Step 5.	Loaded sample until failure and collected loaddeflection data.
+
+		Step 6.	Calculated zeroslope yield stress by dividing the load determined at the maximum zeroslope point of the loaddeflection curve by the original cross sectional area of the specimen.
+
+	
+
+	Ultimate Tensile Strength:  Ultimate tensile strength was calculated as the load measured at failure divided by the original cross sectional area of the specimen.  Specimens that released from the grip prior to failure were omitted from the calculated means.  It was also observed that more than half of the specimens failed were outside of the gauge length.
+
+	
+
+	Elongation:  Elongation was measured by video taping the specimen during testing and tracking the change in distance between the gauge marks.  Specimens were marked by masking the 25 mm gauge portion on the face of the specimen with TeflonTM tape.  Red paint was then used to mark a thin line against the edge of the tape.  The tape was removed and the specimen mounted for testing.  It was important to mark the specimen just before testing and not allow the paint to completely dry.  If the paint was allowed to dry, it deformed with the specimen and would peel off during testing.  A 1 m measure was fixed immediately behind the specimen and a video camera was positioned where it could clearly image both the gauge marks and the 1 mm divisions of the measure.  The camera was operated during testing to failure and the tape reviewed in slow motion or framebyframe to determine the total distance between gauge marks immediately prior to failure.  Elongation was calculated dividing the distance at failure by the original gauge length and multiplying the result by 100.  Specimens that released from the grips prior to failure were omitted from the data set. 
+
+	
+
+	Statistical Analysis:  The largest differences in properties were found at the outer edges of the test bars, specimens 1 and 10 in Figure 1.  The reference value region, therefore, is limited to the region that was evaluated by testing of specimens at positions 2 through 9; this excludes the outside 1 cm of the bar’s diameter.  Small differences were noted for results among the test bars for positions 2 through 9.  For each property, no significant differences were noted between test specimens within a bar.  Because of the positional differences, the uncertainty is computed and reported as the standard deviation of a single future predicted value at any single position chosen at random from the lot.  In addition to the uncertainty reported here, the uncertainty of the user's measurement should take into account the precision of the user's measurement process, which is not included in this calculation.  The equation for uncertainty of the reference values is
+
+	
+
+	
+
+
+
+where s2between is the variance that accounts for differences among positions on a single RM unit and s2mean is the variance of the reported value as calculated from measurements on J (J = 11) bars at each of eight central positions.  There were 11 bars for the study, but because of missing data for some of the specimen positions, the number of bars, J, for each position and property of interest was sometimes fewer than 11, but it was never fewer than 7.
+
+
+
+Table 1.  Reference Values and Uncertainties for Selected Properties of RM 8456
+
+	
+
+			Property
+
+							Mean
+
+							uc
+
+							U(a)
+
+							Units
+
+							Young’s Modulus
+
+									1258
+
+									22
+
+									44
+
+							MPa
+
+							Yield Strength
+
+									23.56
+
+									0.33
+
+									0.66
+
+							MPa
+
+							Ultimate Tensile Strength
+
+									45.8
+
+									3.0
+
+									6.0
+
+							Mpa
+
+							Elongation
+
+									460
+
+									20
+
+									40
+
+							%
+
+(a)The expanded uncertainty is computed as U = 2uc to approximate a 95 % confidence interval [2].
+
+
+
+
+
+Table 2.  Information Composition Values for RM 8456
+
+
+
+Material:	TIVAR 1000 Premium Grade UHMWPE
+
+	Poly Hi Solidur, Inc. MediTECH Division Production Code PG9981
+
+	Virgin UHMWPE Raw Material Lot No. 332945 
+
+Source Identified as TICONA GUR 1050
+
+
+
+Total trace element concentration:  46 mg/kg
+
+	Aluminum	7 mg/kg		Chlorine		20 mg/kg
+
+	Calcium	0 mg/kg		Titanium	18 mg/kg
+
+	
+
+Material Properties:
+
+Polymer powder does not contain extraneous matter or discoloring material greater than 300 m.
+
+		Intrinsic Viscosity	3000 mL/g
+
+		Ash Weight	0.01 %
+
+		Relative Viscosity	3.3
+
+		Viscosity Number	3600 mL/g
+
+			Particle size	 No. 16 sieve
+
+		Density	932 kg/m3	
+
+		Hardness (Shore D)	69
+
+		Ash	120 mg/kg
+
+	
+
+	
+
+		
+Table 3.  RM 8456 Mean Secant Modulus and Standard Deviations
+
+	
+
+		Strain
+
+		Secant Modulus (Mean)
+(MPa)
+
+		Standard Deviation
+(MPa)
+
+0 % to 1 %
+
+945
+
+19 (n = 10)
+
+0 % to 2 %
+
+678
+
+18 (n = 10)
+
+0 % to 3 %
+
+532
+
+12 (n = 10)
+
+	
+
+	
+
+	
+
+	
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+A
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Figure 1.  Test specimen orientations and order within each of the 11 test bars taken from the 304.8 m (1000 ft) production run, from which test specimens were taken.
+
+			
+
+			
+
+			REFERENCES
+
+				
+
+			[1]	Standard Test Method for Tensile Properties of Plastics, Annual Book of ASTM Standards,  ASTM D 63896, West Conshohocken, PA, Vol. 08.01, (1997).
+
+			[2]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed June 2012).
+
+				
+
+			
+
+			
+
+			Report Revision History:  12 June 2012 (Extension of expiration of value assignment date; editorial changes) 07 July 2011 (Editorial changes); 30 May 2008 (Extension of expiration date; editorial changes); 26 August 2003 (Corrected Ash Weight information value); 16 October 2000 (Original report date).
+
+	
+
+	
+
+	Users of this RM should ensure that the Report of Investigation in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			RM 8456	Page 5 of 5

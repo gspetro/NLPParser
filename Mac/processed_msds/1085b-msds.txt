@@ -1,0 +1,430 @@
+﻿ 
+
+ 
+
+ 
+
+ 
+
+MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+
+SRM Number:  1085b 
+MSDS Number:  1085b 
+SRM Name:  Wear Metals in Lubricating 
+ 
+
+Oil 
+
+MSDS Coordinator:  Mario Cellarosi  
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+Date of Issue:  13 January 2009 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Description:    A  unit  of  SRM  1085b  consists  of  five  5  mL  amber  borosilicate  ampoules  each  containing 
+approximately 1.2 g of a blend of constituent elements in a base oil at a nominal concentration of 300 mg/kg; and 
+five ampoules, each containing approximately 1.2 g of a matching base oil intended for use as an analytical blank 
+and for matrix matching. 
+
+Substance:  Lubricating Base Oil 
+
+Other Designations:  Lubricating Base Oil (mineral oil; distillates [petroleum], hydrotreated middle). 
+
+2.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+CAS Registry 
+
+EC Number (EINECS) 
+
+Mass Fraction (%) 
+
+Lubricating Base Oil 
+
+64742-46-7 
+
+265-148-2 
+
+100 % 
+
+NOTE  -  Hazardous  components  1 %  or  greater;  carcinogens  0.1 %  or  greater  are  listed  in  compliance  with 
+OSHA 29 CFR 1910.1200.  SRM 1085b contains trace amounts of different metals, each in a concentration of less than 1.0% 
+(see Certificate of Analysis 1085b); no MSDS information is required for the trace elements under current OSHA regulations. 
+
+EC Classification (assigned):  Carcinogen Category 2 
+
+EC Hazard Symbol:  T 
+
+EC Risk (R):  R45 
+
+EC Safety (S):  S45, S53 
+
+EC Risk/Safety Phrases:  See Section 15 “Regulatory Information” 
+
+3.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4): 
+
+ 
+
+Health = 1 
+
+Fire = 1  
+
+Reactivity = 0  
+
+Major Health Hazards:  Central nervous system depression, aspiration hazard, suspected cancer hazard in animals. 
+
+Potential Health Effects 
+
+Inhalation:  Respiratory tract irritation.  Symptoms of drunkenness, headache, dizziness, drowsiness, coma. 
+
+Skin Contact:  Prolonged or repeated contact may result in irritation or dermatitis. 
+
+Eye Contact:  Slight irritation with acute exposure. 
+
+Ingestion:    Same  effects  reported  as  in  inhalation,  gastrointestinal  irritation,  digestive  disorders,  diarrhea, 
+symptoms of drunkenness, aspiration hazard.  
+
+MSDS 1085b 
+
+Page 1 of 4 
+
+ 
+
+Listed as a Carcinogen/Potential Carcinogen: 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens. 
+In the International Agency for Research on Cancer (IARC) Monographs. 
+By the Occupational Safety and Health Administration (OSHA). 
+ 
+4.  FIRST AID MEASURES 
+
+Yes 
+ 
+ 
+ 
+
+No 
+  X 
+X 
+X 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing have qualified personnel give 
+artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Wash exposed skin with soap and water for at least 15 minutes.  Remove any contaminated clothing. 
+
+Eye  Contact:    Immediately  flush  eyes  with  copious  amounts  of  water  for  at  least  15  minutes.    Seek  immediate 
+medical attention. 
+
+Ingestion:  Aspiration hazard.  If swallowed DO NOT induce vomiting.  If vomiting occurs, keep head lower than 
+hips  to  prevent  aspiration.    Seek  immediate  medical  attention.    If  not  breathing  have  qualified  personnel  give 
+artificial respiration. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, regular foam. 
+
+Fire Fighting:  Wear full protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard. 
+
+Flash Point (°C):  > 93.3 (> 200 °F) 
+Method Used:  TCC 
+
+Autoignition Temp. (°C):  > 210 (> 410 °F) 
+
+Flammability Limits in Air 
+ 
+ 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Absorb small spills with sand or other non-combustible materials.  Collect spilled material 
+and place in an appropriate container for disposal 
+
+Disposal:Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Store in a cool dry place. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+ 
+ 
+ 
+ 
+ 
+
+Mineral Oil Mist: 
+OSHA:  5 mg/m3 TWA 
+NIOSH:  5 mg/m3 recommended TWA (10 hours)  
+NIOSH:  10 mg/m3 recommended STEL 
+ACGIH STEL:  10 mg/m3  
+
+MSDS 1085b 
+
+Page 2 of 4 
+
+ 
+
+Ventilation:  Use a local exhaust ventilation system.  Ensure compliance with applicable exposure limits 
+
+Respirator:    A  respiratory  protection  program  that  meet  OSHA  29  CFR  1910.134  and  ANSI  Z88.2  requirements 
+must be followed if workplace conditions warrant a respirator.  Refer to the “NIOSH Guide to the Selection and Use 
+of Particulate Respirators Certified under 42 CFR 84” for selection and use of respirators certified by NIOSH. 
+
+Eye Protection:  Wear safety goggles.  An eye wash station should be readily available near areas of use. 
+
+Personal Protection:  Wear  appropriate  protective  clothing  and  chemically  resistant  gloves  to  prevent  skin 
+exposure. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Lubricating Base Oil 
+
+Appearance and Odor:  Clear, colorless, oily liquid.  Faint petroleum odor. 
+Density (g/cm3):  0.79 – 0.87 
+
+Boiling Point (°C):  205 to 400 (401 °F to 752 °F) 
+
+Freezing Point (°C):  –38 to –1 (–36 °F to 30 °F) 
+
+Volatility (%):  19.2 
+
+Water Solubility:  < 0.01 % @ 25 °C 
+
+Solvent Solubility:  Soluble in hydrocarbons. 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid contact with incompatible materials, heat, flame, sparks and other sources of ignition. 
+
+Incompatible Materials:  Oxidizers. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition produces oxide of carbon and aldehydes. 
+
+Hazardous Polymerization: 
+ 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+11.  TOXICOLOGICAL INFORMATION  
+
+Route of Entry: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Petroleum Distillate Toxicity Data:   
+
+ 
+
+Carcinogen Status:  Category  2 (EC) 
+
+Health Effects:  See section 3: “Hazards Identification” for potential health effects. 
+
+Target Organs:  Central nervous system. 
+
+Medical Conditions Aggravated by Exposure:  Skin disorders, respiratory disorders. 
+
+ 
+
+ 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  Not expected to leach through the soil or the sediment.  Accumulates very little in the bodies of 
+living organisms. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and ICAO/IATA:  This material is not regulated. 
+
+MSDS 1085b 
+
+Page 3 of 4 
+
+ 
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/1103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Sections 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Sections 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Sections 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119): Not regulated 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACUTE:   
+Yes  
+CHRONIC:   
+Yes 
+FIRE:  
+No 
+No 
+REACTIVE:  
+SUDDEN RELEASE:  No  
+
+STATE REGULATIONS 
+
+California Proposition 65: Not regulated. 
+
+CANADIAN REGULATIONS 
+
+WHMIS Classification:  Not determined. 
+
+EUROPEAN REGULATIONS 
+
+EC Classification:  
+
+T – Toxic.  Carcinogen Category 2. 
+
+EC Risk Phrases:   
+
+R45  May cause cancer. 
+
+EC Safety Phrases: 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12 (b) Export Notification:  Not listed. 
+
+S45  In case of accident or if you feel unwell, seek medical advice immediately (show label if possible). 
+
+S53  Avoid exposure – obtain special instructions before use. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  ChemAdvisor, Inc., MSDS Hydrotreated Middle Distillate, 13 September 2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1085b 
+
+Page 4 of 4 
+
+

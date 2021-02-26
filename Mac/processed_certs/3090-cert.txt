@@ -1,0 +1,272 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 3090
+
+
+
+Aroclors in Transformer Oil
+
+(SRMs 3075 to 3080)
+
+
+
+This Standard Reference Material (SRM) is a set of six different solutions of individual Aroclors in transformer oil and consists of six 2 mL ampoules, each containing approximately 1.2 mL of each of the following SRMs: SRM 3075, Aroclor 1016 in Transformer Oil; SRM 3076, Aroclor 1232 in Transformer Oil; SRM 3077, Aroclor 1242 in Transformer Oil; SRM 3078, Aroclor 1248 in Transformer Oil; SRM 3079, Aroclor 1254 in Transformer Oil; and SRM 3080; Aroclor 1260 in Transformer Oil.  This SRM is intended primarily for calibrating chromatographic instrumentation and methods of analysis used for the determination of Aroclors and polychlorinated biphenyls (PCBs) in transformer oil.  The SRMs that comprise SRM 3090 are also available individually as a set of five 2 mL ampoules, each containing approximately 1.2 mL of each Aroclor in transformer oil.
+
+
+
+In addition, SRMs are available that consist of a set of five 2 mL ampoules of each Aroclor listed above in methanol (SRMs 3081 to 3086) and as a set of six solutions in methanol, each containing approximately 1.2 mL of each of the listed Aroclors (SRM 3091).
+
+
+
+Certified Concentrations of Aroclors:  The certified concentrations [1,2] given below are based on results obtained from the gravimetric preparation of each solution and from the analytical results determined using gas chromatography.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account.
+
+
+
+SRM
+
+Type of Aroclor
+
+CAS Registry Number(a)
+
+Concentration (mg/kg)
+
+Concentration (mg/L)
+
+	3075
+
+	Aroclor 1016
+
+12674-11-2
+
+						17.1		1.0 
+
+						15.2		0.9
+
+3076
+
+Aroclor 1232
+
+11141-16-5
+
+				4252		114
+
+				3789		106
+
+3077
+
+Aroclor 1242
+
+53469-21-9
+
+				4102		87
+
+				3656		82
+
+3078
+
+Aroclor 1248
+
+12672-29-6
+
+				3658		161
+
+				3260		146
+
+3079
+
+Aroclor 1254
+
+11097-69-1
+
+				3579		154
+
+				3190		139
+
+3080
+
+Aroclor 1260
+
+11096-82-5
+
+				1079		98
+
+				962		88
+
+(a)Chemical Abstracts Service (CAS) Registry Number
+
+
+
+The results are expressed as the certified value  the expanded uncertainty.  The certified values are the unweighted average of the concentrations determined by gravimetric and gas chromatographic measurements.  The expanded uncertainties, at the 95 % level of confidence, are calculated as U = kuc, where uc is a combined standard uncertainty calculated according to the ISO Guide [3] and k = 2 is the coverage factor. The value of uc includes an allowance for differences between the concentration determined by gas chromatographic measurements for various sources of Aroclors and gravimetric preparation.  The concentrations expressed in mg/L were obtained by multiplying the certified values, expressed as mass fractions, by the measured density (22 °C) of the SRMs, 0.8912 g/mL  0.0205 g/mL, where 0.0205 represents one standard deviation (1s) and is incorporated in the uncertainty associated with the concentration expressed in mg/L.
+
+
+
+Expiration of Certification:  The certification of SRM 3086 is valid, within the measurement uncertainty specified, until 31 July 2030, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Handling, Storage, and Use”).  However, the certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+
+
+	Stephen A. Wise, Chief
+
+			Analytical Chemistry Division
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Certificate Issue Date:  20 June 2012	Measurement Services Division
+
+		Certificate Revision History on Last Page
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+The coordination of the technical measurements leading to the certification was under the direction of D.L. Poster and M.M. Schantz of the NIST Analytical Chemistry Division.  Analytical measurements of the SRM were performed by D.L. Poster.
+
+
+
+Partial support for the preparation and certification of this SRM was provided by the U.S. Environmental Protection Agency (EPA) Office of Water, Office of Enforcement and Compliance Assurance, and Office of Research and Development.
+
+
+
+				Preparation of the SRM was performed by M.P. Cronise of the NIST Measurement Services Division and D.L. Poster.
+
+
+
+Statistical consultation on the statistical design of the experimental work and evaluation of the data were provided by S.D. Leigh of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services Division.
+
+
+
+NOTICE AND WARNING TO USERS
+
+
+
+This material is a solution of a PCB mixture.  PCBcontaining materials are reported to be toxic.  Consult the Material Safety Data Sheet (MSDS), enclosed with the SRM shipment, for details.  Contact your regional EPA office for information regarding proper disposal.
+
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE
+
+
+
+Handling and Storage:  Extreme caution and care should be exercised during the handling of SRM 3090.  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C.
+
+
+
+Use:  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules and should be processed without delay for the certified value to be valid within the stated uncertainty.  Certified values are not applicable to material stored in ampoules that have been opened for more than 5 minutes, even if they are resealed.
+
+
+
+	PREPARATION AND ANALYSIS()
+
+
+
+The Aroclors used in the preparation of this SRM were obtained from the U.S. EPA with the exception of Aroclor 1016 which was obtained from a commercial source.  Each oil in SRM 3090 was prepared at NIST by weighing and mixing each Aroclor into transformer oil (Univolt 60, Exxon).  The Aroclors were added to transformer oil and mixed until completely dissolved and homogenized.  The total mass of each solution was measured and aliquots (1.2 mL) were dispensed into 2 mL amber glass ampoules, which were then flame sealed.  Aliquots from nine ampoules of each Aroclor in transformer oil, selected randomly, were analyzed using capillary gas chromatography with electron capture detection and an immobilized nonpolar (5 % phenyl methylpolysiloxane) stationary phase column.  For each solution of Aroclor, an internal standard solution containing chlorinated compounds that were not present in the Aroclor was added to each sample for quantification purposes.  Prior to gas chromatography, samples were placed on aminopropyl solid phase extraction columns and eluted with hexane.  The concentrated eluants were then placed on a semipreparative aminopropylsilane column using hexane as the mobile phase.  Calibration solutions consisting of weighed amounts of each Aroclor and internal standard compounds in transformer oil were processed alongside the samples and chromatographically analyzed to determine response factors for each Aroclor relative to the internal standards.  The results for each Aroclor are based on the areas of the dominant Aroclor PCB peaks relative to the internal standard peaks (Figure 1).  This approach is similar to U.S. EPA Method 505 (Analysis of organohalide pesticides and commercial polychlorinated biphenyl products in water by microextraction and gas chromatography, revision 2.0).
+
+
+
+
+
+
+REFERENCES
+
+
+
+				[1]	May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office:  Washington, DC (2000); available at http://www.nist.gov/srm/upload/SP260-136.PDF (accessed June 2012).
+
+				[2]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; U.S. Government Printing Office:  Washington, DC (2008); available at http://www.nist.gov/pml/pubs/sp811/indexfull.cfm (accessed June 2012).
+
+[3]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; (ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed June 2012).
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+				Certificate Revision History:  20 June 2012 (Extension of certification period; editorial changes); 14 July 2005 (This technical revision clarifies the determination of the certified value expressed in mg/L); 23 May 2003 (Original certificate date).
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+				SRM 3090	Page 1 of 5

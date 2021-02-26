@@ -1,0 +1,941 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2373 
+ 
+Genomic DNA Standards for HER2 Measurements 
+
+HER2
+
+that all known or suspected sources of bias have been inve
+
+ 
+This Standard Reference Material (SRM) is for use to assign  ratios of the human epidermal growth factor receptor 2 
+gene (HER2, the official gene  symbol ERBB2) to unamplified reference genes .  Measurements of the amplification 
+(increased copies) of the HER2 gene in breast cancer samples are used as a biomarker for determining the classification 
+and the best treatment for breast cancers [1].  SRM 2373 consists of genomic DNA extracted from five breast cancer 
+cell lines with different amounts of amplification of the HER2 gene.  The five purified genomic DNAs were solubilized 
+in a buffer consisting of  10 mmol/L tris(hydroxymethyl)aminomethane and 0.1  mmol/L ethylenediaminetetraacetic 
+acid disodium salt (EDTA) pH 8.0 (TE-4).  The five components are genomic DNA materials derived from human cell 
+lines SK-BR-3, MDA-MB-231, MDA-MB-361, MDA-MB-453, and BT-474, labeled A, B, C, D, and E, respectively.  
+A unit of SRM 2373 consists of five vials, one of each component, containing approximately 100 μL of DNA solution.  
+Each of these vials is labeled and is sealed with a color-coded screw cap. 
+ 
+Certified Values:  Certified ratios of HER2 copies per reference genes are shown in Table 1.  Certified ratios of HER2 
+copies per reference genes with   the 95  % uncertainty intervals  and  prediction  intervals at 68  % confidence (one 
+standard d eviation) are  also  shown  in Table 1.   A NIST  certified  value is a value for which NIST has the highest 
+confidence in its accuracy in 
+stigated or taken into 
+account [2].   
+ 
+Information Values:  Information values for  HER2 and four Reference Genes Copies  are shown in Tables 2 and 3.  
+While measurements were done using the four reference genes, the 
+information values were determined using data 
+from the three reference genes that had the best agreement [3].  A NIST information value is considered to be a value 
+that will be of interest and use t o the SRM user, but insufficient information is available to assess the un
+certainty 
+associated with the value or only a limited number of analyses were performed [2].  Information values cannot be used 
+to establish metrological traceability.   
+ 
+Expiration of Certification:  The certification of SRM 2373 is valid, within the measurement uncertainty specified, 
+until 30 November 2020, provided the SRM is handled and stored in accordance with the instruct
+ions given in this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If subst antive 
+technical  changes occur that affect the certification before the expiration of
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical  measurements leading to the certification of SRM  2373  were 
+provided by K.D. Cole and S. Choquette of the NIST Biosystems and Biomaterials Division.   
+ 
+Sample preparation and analytical measurements were do
+ne by H .-J. He, K.D.  Cole,  J. Almeida  of the NIST 
+Biosystems and Biomaterials   Division.  Additional measurements were supplied by  S. Maragh and J. Kralj  of the 
+NIST Biosystems and Biomaterials Division, and D. Catoe and C.R. Hill both formerly of NIST.  
+ 
+Statistical consultation was provided by S. Lund of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  28 April 2020 
+Certificate Revision History on Last Page 
+
+Sheng Lin-Gibson, Chief 
+Biosystems and Biomaterials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ this certificate, NIST will notify the 
+
+Page 1 of 6 
+
+ 
+ 
+
+SRM 2373 
+
+were 
+
+Office  of  Reference 
+
+    For the certified and informational values to be applicable, materials s
+
+ssuance of this SRM  were  coordinated through the NIST Office of Reference 
+
+Support aspects involved in the i
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 2373 IS A HUMAN SOURCE MATERIAL.  SINCE THERE IS NO CONSENSUS ON THE INFECTIOUS  
+STATUS OF EXTRACTED DNA, HANDLE THE SRM
+ 2373 COMPONENTS AS BIOSAFETY LEVEL  1 
+MATERIALS CAPABLE OF TRANSMITTING INFECTIOUS DISEASE [4].  SRM 2373 components and derived 
+solutions should be disposed of in accordance with local, state, and federal r egulations. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  All vials of SRM 2373 should be stored in the dark between 2 °C to 8 °C.  DO NOT FREEZE. 
+ 
+ng  the  vial  cap)  prior  to  removing 
+ap) prior to removing 
+Use:    Component vials should be mixed briefly and centrifuged (without opening the vial c
+hould be 
+sample aliquots for analysis.
+ay.   Dilutions of these materials may  be 
+withdrawn immediately after opening the vials and processed without del
+made as appropriate, but the dilutions  should be used immediately  and not stored .  Certified and information values 
+do not apply to any material remaining in recapped vials.  There is no minimum sample size requirement, the amount 
+required by any given assay will be dictated by the nature of the assay.  DO NOT EXPOSE ANY DNA SOLUTION 
+ (IHC) or in -situ hybridization 
+TO DIRECT SUNLIGHT .   SRM 2373 is not suitable for immunohistochemical
+ This standard is suitable only for 
+techniques (ISH-type tests) that rely upon tissues or cells for the measurements. 
+measurement techniques that utilize purified DNA. 
+ 
+For use with  quantitative polymerase chain reaction  (qPCR) Assays:  Use the provided certified ratio t o assign 
+secondary standard DNA solutions for routine use.  Users may calibrate their assays to SRM 2373 using one or more 
+dilution series, with each series prepared from one SRM  2373 component.   Use the provided information value of 
+HER2 and reference genes copies per microliter to perform the dilutions.   
+ 
+For use with digital PCR polymerase chain reaction (dPCR) Assays:  Use the provided certified ratios to assign 
+secondary standard DNA samples for routine use.  Use the information value of HER2 and reference genes copies per 
+microliter and the approximate concentration values for dilution. 
+ 
+Certified Values:   Table 1 contains the certified average ratios of  HER2 copies per copy of the selected reference  
+genes, the approximate 95 % confidence interval about the average ratios, and an approximate one standard deviation 
+prediction interval (68 %).  The measurand is the ratio of HER2 copies per average of the reference gene copies.  While 
+measurements were done using the four reference genes, the 
+three reference genes that had the best agreement [3].  Metrological traceability is to the SI unit for mass.   
+ 
+
+certified  values were determined using data from the 
+
+Table 1.  Certified Ratios of HER2 Copies per Average of the Reference Gene Copies 
+ 
+  
+
+AE 
+
+95 % 
+Uncertainty Interval 
+
+68 % 
+Prediction Interval 
+
+Cell Line 
+
+B 
+
+A 
+
+white 
+
+SK-BR-3 
+
+Color Code 
+
+Component 
+
+Ratio 
+  
+9.7 
+  
+1.3 
+  
+6.4 
+  
+2.9 
+
+    
+    
+  
+  
+
+MDA-MB-453 
+
+MDA-MB-231 
+
+MDA-MB-361 
+
+15.9  –  19.5 
+
+11.7  –  45.3 
+
+1.1  –  1.5 
+
+5.7  –  7.1 
+
+8.7  –  10.7 
+
+2.6  –  3.2 
+
+4.8  –  14.2 
+
+5.8  –  20.8 
+
+1.4  –  7.2 
+
+0.6  –  1.9 
+
+BT-474 
+
+yellow 
+
+green 
+
+17.7 
+
+blue 
+
+red 
+
+D 
+
+C 
+
+E 
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The average gene abundance ratio, 
+
+Ratio, , 
+
+, is based on a collection of gene abundance ratios: 
+
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑠𝑠𝑠𝑠
+
+. 
+Ratio,, 
+
+ 
+2
+_  HER2 
+   =   
+= 
+
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑠𝑠𝑠𝑠
+
+𝐻𝐻𝐻𝐻𝑅𝑅
+ 
+
+Sref., 
+
+ 
+
+𝑠𝑠
+�
+𝑅𝑅𝑅𝑅𝑓𝑓𝑠𝑠𝑠𝑠
+
+ denotes one of the five  components included in SRM  2373, 
+
+where 
+denotes the measured abundance of HER2 in sample 
+in sample 
+ 
+
+.   
+
+𝑠𝑠
+
+𝑠𝑠
+
+S 
+
+, and 
+
+Refsg
+
+𝑅𝑅𝑅𝑅𝑓𝑓𝑠𝑠𝑠𝑠
+
+2
+ denotes one of the  reference genes, 
+ denotes the measured abundance of reference gene 
+𝐻𝐻𝐻𝐻𝑅𝑅
+
+𝑔𝑔
+
+ 
+ 
+
+𝑠𝑠
+
+𝑔𝑔
+
+Page 2 of 6 
+
+𝑠𝑠
+SRM 2373 
+
+bottles,  differences among suitable reference genes,
+
+The values in Table  1 come from fitting a statistical model to the measurements made on the  SRM 2373 materials 
+using both digital and quantitative PCR  methods.  The Bayesian paradigm  with vague priors was used for statistical 
+inference [5].  The expan ded uncertainty is an interval calculated in a manner consistent with 
+the ISO/JCGM 
+Guide [6], and it expresses contributions from all recognized sources of uncertainty, in cluding differences between 
+analytical methods and operators, differences among 
+  and 
+dispersion of values resulting from sample preparation and replicated measur ement.  The nominal  coverage for the 
+interval is 95 % and can be interpreted in the following manner.   The average gene copy rat io between  HER2 and 
+suitable reference gene s (examples of  suitable reference genes are identified in Table  4) among all bottles  prepared 
+for this SRM lies  within  the  provided uncertainty   interval with approximately 95  % confidence.   The p rediction 
+intervals provide the approximate range of values NIST would reasonably expect upon t he next single, independent 
+measurement of the  HER2  copy number ratio for each of the five components, based upon the measurement 
+performance of NIST analysts and instruments.  The value would be expected to fall within the interval approximately 
+68 % of the time. 
+ 
+PREPARATION AND ANALYSIS(1)
+ 
+ 
+Sample Preparation:  NIST SRM 2373 consists of genomic DNA samples prepared from  five human breast cancer 
+cell lines.    After the ini tial extraction using the Zymo Quick -gDNA™ midiPrep kit (Zymo   Research Corporation, 
+Irvine, CA), the samples were pre-treated with bovine pancreatic ribonuclease A before re-extraction [7].  All purified 
+genomic DNA samples were dissolved or eluted in TE -4  buffer (10 mmol/L Tris, 0.1  mmol/L EDTA, pH  8.0) and 
+stored at 4 ºC. The DNA samples from the cell lines were genotyped u sing STR analysis and the results agree with 
+the values provided by the cell line repository. 
+ 
+qPCR data analysis:  The qPCR assays for  HER2 and reference genes were developed according to The Minimum 
+Information for Publication of Quantitative Real -Time PCR Experiments  (MIQE) guidelines [8].  The primers and 
+probes for the HER2 and reference genes for the qPCR assays are listed in Table 4.  The efficiency and specificity of 
+the assays were determined [9].  Using a calibration curve based quantitation method, the HER2 gene copies and the 
+copies of the  reference genes were quantified by external standard curves  assays using individual PCR assays and 
+SYBER® Green master mix.  The qPCR data was evaluated using SRM  2372 component A as a calibrant to produce 
+standard curves.  SRM 2372 component A, produced from a single male donor, was shown to contain  a single copy 
+of HER2 gene per haploid genome.  The absorbance of SRM  2372 component A is a certified value and the DNA 
+mass concentration derived from the absorbance value is  an information value, because the conversion is done using 
+a factor of uncharacterized uncert ainty.  The followin g assumptions were used:  (1) SRM 2372 component A has a 
+DNA concentration of 57 ng/µL (information value from the Certificate of Analysis) [10]; (2) There are three hundred 
+and thirty-three copies of single -copy genes in 1  ng of human g enomic DNA.   HER2 and the reference gene copy 
+number were obtained by  qPCR assays by comparing the Cq  (Quantitation Cycle from the qPCR instrument) of the 
+samples with their respective standard curves.   
+ 
+and  negative
+ve and negative 
+dPCR Assays :  MIQE guidelines for dPCR were followed and include sample replicates, positi
+controls, and proper documentation [11].  TaqMan probes are shown in Table 5.  BHQ-1™ (Black hole quencher) and 
+FAM labeled probes were obtained from  Biosearch Technologies (Novato, CA).  MGB® (minor groove binder) and 
+FAM labeled probes were obtained from Life Technologies (Carlsbad, CA).  The calculations for DNA copy number 
+were calculated using Poisson sampling statistics assuming that the  DNA molecules are partitioning independently 
+from each other into the individual droplets or chambers.  We used two restricti on enzymes, RsaI and  MseI, to test 
+that the DNA with high levels of HER2 amplification were partitioning as single molecules.  Treatment of the genomic 
+DNA with the restriction enzymes did not increase the copy numbers obtai ned with the dPCR assays.   The results 
+were obtained from assays performed by two analysts using a Bio
+-Rad QX100 droplet digital PCR system ; t he 
+Bio-Rad software used a droplet size of 0.91 nL for determination of DNA copy number.   
+ 
+Homogeneity and Stability Studies:  Each of the components of SRM 2373 was distributed into 350 tubes that were 
+then stored at 4  °C in the dark.  Homogeneity studies were accomplished by selecting 10
+components that were distributed throughout the order of dispensing .  These vials were analyzed by both qPCR and 
+dPCR methods.  Analysis of the data did not indicate any detectable changes in 
+components that varied with dispensing order (given the uncertainty of the m easurements).  Stability te sting was 
+conducted on the samples that were stored at 4  °C in the dark for different periods of time.  The  HER2 copy number 
+or the ratio of HER2 to the reference gene RPS27A were measured by dPCR and the data did not show any significant 
+changes in any of  the five components for periods of time up to 856  days, the last storage time analyzed  (given the 
+uncertainty of the measurements). 
+
+the values of any of the five 
+
+ vials of each of the 
+
+ 
+
+  
+
+ 
+
+(1) Certain commercial equipment, instruments or material
+
+fy the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2373 
+
+s are identified in this certificate to adequately speci
+
+Page 3 of 6 
+
+Information Values:  The approximate concentration of components A, B, C, D, and E dete rmined by absorbance 
+measurements at 260 nm are 23.4 µg/mL, 22.2 µg/mL, 22.3 µg/mL, 22.3 µg/mL, and 22.4 µg/mL, respectively.  The 
+absorbances at 260 nm of the components (six replicates) were measured and a conversion factor (one optical density 
+at 260 nm with a pathlength of 1 cm is 50 ng DNA/µL).  The approximate values are used to determine the appropriate 
+dilution of the samples for use with the desired measurement technique.   It is important to consider the level of HER2 
+amplification in the samples and appropriate dilutions needed to ensure t hat the  HER2 copy number is within the 
+working range of the assay.   
+ 
+Tables 2 and 3 contain the information values for the concentrations (copies per mic roliters) of the  HER2 gene and 
+the reference genes in the components of SRM  2373, determined by qPCR and dPCR , respectively.  This data is a 
+subset of the data used to calculate the certified ratios in Table 1.  The samples were measured using qPCR and dPCR 
+using the reference genes indicated in the respective tables. 
+ 
+ 
+
+Table 2.  Information Values for HER2 and Reference Genes Copies per Microliter by qPCR(a) 
+ 
+
+HER2 
+
+Component 
+
+Mean of 3 Reference Genes 
+
+HER2 
+
+64358 
+
+8839 
+
+47128 
+
+17493 
+
+99440 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+6912 
+
+6525 
+
+7014 
+
+6613 
+
+6030 
+
+ten 
+
+(a) Mean values of ten samples, the average coefficient of variation for the measurements was 8. 1 %. 
+ 
+ 
+
+Table 3.  Information Values for HER2 and Reference Genes Copies per microliter by dPCR(a) 
+ 
+     
+
+HER2 
+
+dPCR 
+
+Component 
+A 
+B 
+C 
+D 
+E 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+
+HER2 
+66964 
+8707 
+46277 
+19218 
+104655 
+
+Mean of 3 Reference Genes 
+6547 
+6501 
+6942 
+6196 
+5634 
+
+(a) Mean values of ten samples, the average coefficient of variation for the measurements  was 7.3 %. 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+
+SRM 2373 
+
+Page 4 of 6 
+
+Table 4.  PCR Primer Information for Reference Genes and HER2 Assays 
+ 
+
+  
+
+Primer 
+Name(a) 
+
+    
+
+HER2-2F  CTCATCGCTCACAACCAAGT 
+
+  112 bp 
+
+Sequence 
+
+PCR 
+Amplicon 
+
+Gene 
+Name 
+
+  
+
+HER2 
+(ERBB2) 
+
+Exon 7 
+(chr17:37864601-37864620) 
+
+Location 
+(GRCh37/hq19  
+nucleotide number) 
+ 
+
+  
+
+  
+
+HER2-2R  GGTCTCCATTGTCTAGCACG 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EIF5-F 
+
+GGCCGATAAATTTTTGGAAATG 
+
+  112 bp 
+
+EIF5B 
+
+  
+
+EIF5-R 
+
+GGAGTATCCCCAAAGGCATCT 
+
+  97 bp 
+
+RPS27A 
+
+-R 
+2PR4-R 
+
+-F 
+2PR4-F 
+
+-F 
+R4Q5-F 
+
+  
+
+CGGGTTTGGGTTCAGGTCTT 
+
+CTCAGAAAAATGGTGGGAATGTT 
+
+TGCTACAATGAAAACATTCAGAAGTCT 
+
+  
+    
+  
+  
+  
+
+CCCCTAAGAGGTCTGTTGTGTTG 
+
+AGGTCTGGTGGCTTCTCCAAT 
+
+GCCATTCAGAGAGGCAAGCT 
+
+  
+
+-F 
+22C3-F 
+
+-R 
+R4Q5-R 
+
+-R 
+22C3-R 
+
+  78 bp 
+
+  122 bp 
+
+PMM1 
+
+DCK 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3-37864712) 
+(chr17:37864693-37864712) 
+
+Intron 1 
+(chr2:99974140-99974161) 
+
+(chr2:99974231-99974251) 
+
+-9997425  1)  | 
+
+Intron 4 
+(chr2:55462316-55462335) 
+
+(chr2:55462386-55462412) 
+
+-55462412)  | 
+
+Exon 3 
+(chr4:71888097-71888119) 
+
+(chr4:71888199-71888218) 
+
+71888218)  | 
+
+Intron 7 
+(chr22:41973739-41973759) 
+
+(chr22:41973682-41973704) 
+
+-41973704)  | 
+
+| 
+
+  
+
+  
+
+  
+
+  
+
+(a)  F:  Forward primer. 
+  R:  Reverse primer. 
+
+ 
+ 
+ 
+Table 5.  TaqMan® Fluorescent Probe Sequences 
+ 
+
+Probe Name 
+
+Sequence 
+
+5’ Label 
+
+3’ Quencher 
+
+HER2-2 (BHQ) 
+
+ACCCAGCTCTTTGAGGACAACTATGC 
+
+HER2-2 (MGB)  AGCTCTTTGAGGACAACTA 
+
+EIF5-P 
+
+2PR4-P 
+
+R4Q5-P 
+
+22C3-P 
+
+TTCAGCCTTCTCTTCTCATGCAGTTGTCAG 
+
+TTTGTCTACCACTTGCAAAGCTGGCCTTT 
+
+CCTTCCAAACATATGCCTGTCTCAGTCGA 
+
+CAAATCACCTGAGGTCAAGGCCAGAACA 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+BHQ-1 
+
+MGB 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ SRM 2373 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  Wolff, A.C.; Hammond,
+
+ M.E.; Schwartz,
+
+ M.; 
+Fitzgibbons, P.L.; Hanna, W.M.; Langer, A.; McShane, L.M.; Paik, S.; Pegram, M.D.; Perez, E.A.; Press, M.F.; 
+Rhodes, A.; Sturgeon, C.; Taube, S.E.; Tubbs, R.; Vance, G.H.; van de Vijver, M.; Wheeler, T.M.; Hayes, D.F.; 
+American Soc iety of Clinical Oncology/College of American Pathologists Guideline Rec
+ommendations for 
+Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer ; J. Clin. Oncol., Vol.  25, pp. 118–145 
+(2007). 
+
+ D.C.;  Cote, R.J.; Dowsett,
+
+ J.N.; Hagerty,
+
+ K.L.; Allred,
+
+[2]  May, W.; Parris,  R.; Beck,  C.; Fassett,  J.; Greenb erg, R.; Guenther,  F.; Kramer,  G.; Wise,  S.; Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value -Assignment 
+of Reference Materials for Chemical Measurements ; NIST Special Publication 260 -136 (2000); available at 
+https://www.nist.gov/system/files/documents/srm/SP260-136.PDF (accessed Apr 2020). 
+
+3] 
+[3]  He, H.-J.;  Almeida, J.;  Lund, S.;  Hill, C.R.;  Choquette, S.;  Cole, K.D.;  Development of NIST Standard 
+
+Reference Material ® 2373:   Genomic DNA Standards for HER2 Measurements ;  Biomolecular Detection and 
+Quantification; Vol. 8, pp. 1–8 (2016). 
+
+[4]  CDC/NIH:  Biosafety in Microbiological and Biomedical 
+
+n 
+No. (CDC) 21-1112; Chosewood, L.C.; Wilson, D.E.; Eds.; US Government Printing Office: Washington, DC 
+(2009);  available at 
+https://www.cdc.gov/labs/pdf/CDC-BiosafetyMicrobiologicalBiomedicalLaboratories-
+2009-P.PDF (accessed Apr 2020). 
+
+Laboratories, 5th ed.; HHS publicatio
+
+[5]  Gelman, A.; Carlin, J.B.; Stern, H.S.; Rubin, D.B.; Bayesian Data Analysis; Chapman and Hall: London (1995). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of U ncertainty in Measurement 
+[6] 
+(GUM 1995 with Minor Corrections) ; Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf   (accessed  Apr 2020); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technica l Note 1297 ;  U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Apr 2020). 
+ D.L.; Travis , J.C.; Smith,
+
+ A.E.; 
+Butler, J.M.; Production and Certification of NIST Standard Reference Material 2372 Human DNA Quantitation 
+Standard; Anal. Bioanal. Chem., Vol. 394, pp. 1183–1192 (2009). 
+
+7] 
+[7]  Kline, M.C.; Duewer,
+
+ M.V.; Redman,
+
+ J.W.; Vallone,
+
+ P.M.; Decker,
+
+3] 
+[8]  Bustin, S.A.;  Benes, V.;  Garson, J.A.;  Hellemans, J.;  Huggett, J.;  Kubista, M.;  Mueller, R.;  Nolan, T.; 
+Pfaffl, M.W.; Shipley, G.L.; Vandesompele, J.; Wittwer, C.T.; The MIQE Guidelines: Minimum Information for 
+Publication of Quantitative Real-Time PCR Experiments; Clin. Chem., Vol. 55, pp 611–622 (2009). 
+
+| 
+[9]  D'haene, B.; Vandesompele, J.; Hellemans, J.; Accurate and Objective Copy Number Profiling Using Real-Time 
+)] 
+
+Quantitative PCR; Methods, Vol. 50, pp. 262–270 (2010). 
+
+[10]  SRM 2372;  Human DNA Quantitation Standard
+U.S. Department of Commerce: Gaithersburg
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=2372 (accessed Apr 2020). 
+ V.; Emslie,
+
+[11]  Huggett, J.F.; Foy,
+
+ J.A.; Haynes,
+
+ C.A.; Benes,
+
+;  National Institute of Standards and Technology; 
+available at 
+, MD (08
+
+ January 2013); 
+
+ M.; 
+Mueller, R.D.; Nolan,  T.; Pfaffl,  M.W.; Shipley,  G.L.; Vandesompele,  J.; Wittwer,  C.T.; Bustin,  S.A.;  The 
+Digital MIQE Guidelines: Minimum Information for Publication of Quantitative Digital PCR Experiments; Clin. 
+Chem., Vol. 59, pp. 892–902 (2013). 
+
+ R.; Hellemans,
+
+ K.; Garson,
+
+ J.; Kubista,
+
+I] 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  28 April 2020 (Change of expiration date; editorial changes); 13 October 2015 (Original certificate date). 
+ 
+
+13   
+
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate 
+accomplished by contacting the SRM Program:  telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+of Analysis  in their possession is current.  This can 
+
+their  possession  is  current. 
+ 975-2200; fax (301)
+
+be 
+ 948-3730; 
+
+1]
+
+SRM 2373 
+
+Page 6 of 6 
+
+

@@ -1,0 +1,639 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+03 March 2016 
+ 
+
+ 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:   921 
+SRM Name:  Cortisol (Hydrocortisone)  
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the calibration and standardization of 
+procedures for cortisol determinations and for routine critical evaluation of the daily working standards used in 
+these procedures.  A unit of SRM 921 consists of 1 g of material.  This SRM is for research use. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Health Hazard:  
+ 
+
+Reproductive Toxicity 
+ 
+
+Label Elements 
+Symbol  
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+ 
+
+Category 2 
+
+ 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s) 
+H361 
+ 
+Precautionary Statement(s) 
+P201 
+P202 
+P280 
+
+Suspected of damaging fertility or the unborn child. 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Wear protective gloves, eye protection, and protective clothing. 
+
+P308+P313 
+
+If exposed or concerned: Get medical attention. 
+
+P405 
+
+P501 
+
+Store locked up. 
+
+Dispose of contents and container in accordance with local regulations.  
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+SRM 921 
+
+ 
+
+Page 1 of 6 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Cortisol (Hydrocortisone) 
+Other  Designations:    11,17,21-trihydroxypregn-4-ene-3,20-dione;  anti-inflammatory  hormone;  hydrocortisyl; 
+hydrocorticosterone; 17-hydroxycorticosterone 
+
+NOTE:  Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  For actual values, see the NIST 
+Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+Cortisol (Hydrocortisone) 
+
+ 
+
+50-23-7 
+
+200-020-1 
+
+99 
+
+ 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area. Give artificial respiration if not breathing. 
+Get immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get medical attention, if needed. Thoroughly clean and dry contaminated clothing and shoes before reuse. 
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Systemic poisoning and irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  Dust/air mixtures may ignite or explode.  See Section 9, “Physical 
+and Chemical Properties” for flammability properties. 
+
+Extinguishing Media 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 1 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal. Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry. 
+
+ 
+
+SRM 921 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe  Handling  Precautions:    Use  methods  to  minimize  dust.    See  Section 8,  “Exposure  Controls  and  Personal 
+Protection”. 
+
+Storage and Incompatible Materials:  Keep this SRM refrigerated (4 ºC) in a well-closed container away from direct 
+sunlight.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  This material is a particulate matter and adequate inhalation/respiratory protection should be used 
+to minimize exposure.  No occupational exposure limits have been established for this material.  The exposure limits 
+for Particulates Not Otherwise Regulated are applicable.  
+
+OSHA (PEL): 
+ 
+
+15 mg/m3 (TWA, total particulates) 
+5 mg/m3 (TWA, respirable particulates) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+ 
+
+Properties 
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate (butyl acetate = 1) 
+Melting point/freezing point 
+Relative Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Closed Cup) 
+Flammability (solid, gas) 
+
+10.  STABILITY AND REACTIVITY 
+
+Cortisol (Hydrocortisone) - (99 %) 
+362.5 
+C21H30O5 
+white, crystalline solid 
+Odorless 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+slightly soluble in water 
+solvent:  sulfuric acid, alcohol, ether, 
+
+chloroform 
+
+not available 
+ 
+
+not available 
+211 °C to 220 °C (412 °F to 428 °F) 
+not available 
+not available 
+not available 
+not available 
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+SRM 921 
+
+ 
+
+Page 3 of 6 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with incompatible 
+material.  
+
+Incompatible Materials:  Oxidizing materials. 
+
+Hazardous Decomposition:  Oxides of nitrogen, sulfur.  
+
+Hazardous Polymerization: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:  Systemic  poisoning  and 
+irritation. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Prolonged exposure may cause irritation, hoarseness and increase susceptibility to fungal infections 
+of the mouth and throat.  Systemic poisoning is possible at high dosage. 
+
+Skin  Contact:    Prolonged  topical  application  may  cause  itching,  erythema,  dryness,  epidermal  and  dermal 
+atrophy manifested by thinning of the skin, possible pustulation, perioral dermatitis, impede healing of ulcers, 
+and local hypertrichosis.   
+
+Eye  Contact:   Topical  application  may  cause reversible mydriasis.    Prolonged  topical application may  cause 
+ptosis.    Systemic  poisoning  is  possible  resulting  in  ocular  effects  such  as  increased  susceptibility  to  fungal 
+infections, corneal thinning, cataract formation, optic nerve damage, and blindness.  Other systemic effects may 
+occur as described in chronic ingestion. 
+
+Ingestion:  A large single dose of corticosteroids is reported to be virtually without harmful effects.  Systemic 
+corticosteroid poisoning from chronic exposure may cause fluid retention, hypotension or shock-like reactions, 
+muscle  weakness  and  fatigue,  osteoporosis,  cardiovascular  effects,  pituitary  and  adrenal  suppression, 
+hyperglycemia, mental symptoms, acne, peptic ulcers, and increased susceptibility to infection. 
+
+Numerical Measures of Toxicity 
+
+Acute toxicity:  Not classified; no data available. 
+
+Skin corrosion/irritation:  Not classified. 
+
+Human, Dermal: 0.5 %; 1 % (moderate) 
+
+Serious eye damage/eye irritation:  Not classified; no data available. 
+
+Respiratory sensitization:  Not classified; no data available. 
+
+Skin sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+
+Yes 
+
+X  No 
+
+Cortisol (Hydrocortisone) is not listed by IARC, NTP, or OSHA as a carcinogen. 
+Mutagenic:  Human TC:  2 mmol/L (1h) 
+
+Reproductive Toxicity:  Category 2; Effects on the embryo or fetus have been reported from ocular contact in 
+
+rabbits during pregnancy. Rat, Subcutaneous TDLo:  220 mg/kg (pregnant 9 d to19 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified.   
+
+Systemic poisoning may result if therapeutic levels are exceeded for prolonged periods; see “Potential Health 
+Effects (Acute, Chronic, and Delayed)” for information on chronic effects. 
+
+Aspiration hazard:  Not applicable. 
+
+SRM 921 
+
+ 
+
+Page 4 of 6 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+Persistence and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No 
+No 
+No 
+No 
+No 
+
+State Regulations:  California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  03 March 2016 
+
+Sources: 
+
+ChemADVISOR, Inc., MSDS Hydrocortisone, 09 December 2016. 
+
+ChemIDplus  Advanced,  National  Institutes  of  Health,  Department  of  Health  &  Human  Services, 
+Hydrocortisone, CAS# 50-23-7; available at http://chem.sis.nlm.nih.gov/chemidplus/ 
+(accessed Mar 2016). 
+
+ 
+
+ 
+
+SRM 921 
+
+ 
+
+Page 5 of 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short Term Exposure Limit  
+STEL  
+Specific Target Organ Toxicity  
+STOT  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+Upper Explosive Limit  
+UEL  
+ 
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 921 
+
+ 
+
+Page 6 of 6 
+
+

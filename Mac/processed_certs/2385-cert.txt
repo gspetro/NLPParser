@@ -1,0 +1,850 @@
+﻿NUT 
+
+Date of Issue: 
+02 February 2018 
+ 
+
+Standard Reference Material 2385 
+Slurried Spinach 
+CERTIFICATE OF ANALYSIS 
+
+ 
+
+Purpose:    This  Standard  Reference  Material (SRM)  is  intended  for  use  in  validating  methods  for  determining 
+elements,  vitamins,  proximates,  and  calories  in  spinach  and  similar  matrices,  and  for  qualifying  in-house  control 
+materials analyzed using those methods. 
+ 
+Description:  A unit of SRM 2385 consists of four jars, each containing approximately 7 g of slurried spinach. 
+ 
+Certified Values:  Certified values are provided in Table 1.  A NIST certified value is a value for which NIST has 
+the highest confidence in that all known or suspected sources of bias have been evaluated [1,2]. 
+ 
+ 
+
+ning  approximately  7 
+
+evaluated 
+
+Table 1.  Certified Values for Elements in SRM 2385 
+Values are metrologically traceable to the International System of Units (SI) derived unit for mass 
+fraction expressed as milligrams per kilogram. 
+
+for  Elements  in  SRM 
+national  System  of  Unit: 
+
+ 
+
+ 
+
+  
+
+ 
+
+Calcium (Ca) 
+Iron (Fe) 
+Magnesium (Mg) 
+Manganese (Mn) 
+Phosphorus (P) 
+Potassium (K) 
+Zinc (Zn) 
+
+Mass Fraction(a,b) 
+(mg/kg) 
+
+624 
+± 
+17.1  ± 
+± 
+368 
+3.81  ± 
+323.7  ± 
+
+ 
+ 
+ 
+ 
+ 
+  3650 
+ 
+
+8.37  ± 
+
+40 
+1.9 
+30 
+0.10 
+6.6 
+
+0.37 
+
+±  250 
+
+(a)  Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty 
+of the certified value.  The true value of the analyte is believed to lie within the interval x ± U95%(x) with 
+95 % confidence.  To propagate this uncertainty, treat the certified value as a normally distributed random 
+ibuted  random 
+variable with mean x and standard deviation U95%(x)/2.  Values are based on a minimum required sample 
+mass of 7 g. 
+
+(b)  Determined at NIST as described in Appendix E. 
+
+ 
+ 
+Expiration of Certification:  The certification of SRM 2385 is valid, within the measurement uncertainty specified, 
+until  30 June 2027,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+  
+ 
+ 
+ 
+ 
+ 
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+Certificate Revision History on Page 4 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+‘ed,  or  other
+
+ 
+
+Page 1 of 8 
+
+ 
+
+ 
+ 
+
+Non-Certified Values:  Tables 2 and 3 list values that do not meet the NIST criteria for certification.  Non-certified 
+values were formerly known as Reference and Information values. 
+ 
+ 
+
+criteria  for  certification 
+
+Table 2.  Estimated Mass Fraction Values for Constituents in SRM 2385(a) 
+calibration  procedures  and 
+Values are metrologically traceable to the measurement methods and the calibration procedures and 
+standards used. 
+ 
+
+  
+
+ 
+
+Copper (Cu)(c) 
+Sodium (Na)(c) 
+) 
+trans-β-Carotene(d) 
+ 
+ 
+
+Solids(e) 
+
+Mass Fraction(b) 
+(mg/kg) 
+
+0.90  ±  0.16 
+47 
+15.1  ± 
+
+±  1 
+
+ 3.1 
+
+(g/100 g) 
+
+5.28  ±  0.10 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+(a)  Values are based in whole or in part on measurements made at NIST.  Additional results were provided by 
+
+the collaborating laboratories listed in Appendices C and D. 
+
+(b)  Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty 
+of the value.  As measured by the specific method(s), the true value of the analyte is believed to lie within 
+ved  to  lie  within
+the interval x ± U95%(x) with about a 95 % confidence.  To propagate this uncertainty, treat the value as a 
+normally distributed random variable with mean x and standard deviation U95%(x)/2. 
+
+(c)  Values are based on a minimum required sample mass of 7 g. 
+(d)  Values are based on a minimum required sample mass of 1.5 g. 
+(e)  No  minimum  required  sample  mass  is  provided  since  mass  used  is  dependent  on  individual  drying 
+
+protocols. 
+
+ 
+
+SRM 2385 
+
+ 
+
+Page 2 of 8 
+
+ 
+
+Table 3.  Consensus Values for Constituents in SRM 2385(a) 
+this 
+Values  are  metrologically  traceable  to  calibration  procedures  and  standards  used  within  this 
+experienced measurement community. 
+
+ 
+
+  
+
+ 
+
+ 
+
+Niacin (Vitamin B3) 
+ 
+ 
+
+Ash 
+Fat (as sum of fatty acids as triglycerides) 
+Protein 
+Carbohydrates 
+Total Dietary Fiber 
+ 
+
+Calories, reported calculations(d) 
+Calories, estimated from proximates(e) 
+
+ 
+
+  
+
+v(b) 
+
+7 
+ 
+v(b) 
+12 
+7 
+10 
+10 
+5 
+ 
+v(b) 
+8 
+25 
+
+Mass Fraction(c) 
+(mg/kg) 
+
+2.99  ±  0.43 
+ 
+(g/100 g) 
+
+0.97  ±  0.05 
+0.20  ±  0.06 
+1.42  ±  0.13 
+2.73  ±  0.18 
+1.55  ±  0.28 
+
+(kcal/100 g) 
+
+18.16  ±  0.50 
+18.40  ±  0.80 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+(a)  Values are based on results provided by the collaborating laboratories listed in Appendices C and D. 
+(b)  Number of effective degrees of freedom, typically one less than the number of independent measurements. 
+(c)  Values are expressed as x ± U95%(x), where x denotes the mean of participant mean results and U95%(x) is 
+ 
+the expanded uncertainty associated with the mean, evaluated as (
+is the 97.5th percentile of the Student’s t distribution with v degrees of freedom and MAD is the median 
+𝑣𝑣
+of the absolute differences between the participant means and their overall mean [3].  The true value of 
+the  analyte  is  believed  to  lie  within the  interval  x ± U95%(x)  with  95 %  confidence.    To propagate  this 
+ degrees of freedom with mean x and 
+uncertainty, treat the value as a Student’s t random variable having 
+standard deviation s = (
+
+)(1.8582)(MAD/
+
+) where 
+
+2)/(
+
+√𝑛𝑛
+
+). 
+
+𝑡𝑡0
+
+𝑡𝑡0
+
+)/
+
+975
+
+975
+
+(
+
+(
+
+𝑣𝑣
+
+.
+
+,
+
+.
+
+,
+
+)
+(d)  As reported by individual laboratories. 
+𝑣𝑣
+(e)  Using consensus values in Table 3. 
+
+𝑈𝑈95%
+
+𝑡𝑡0
+
+975
+
+𝑥𝑥
+
+,
+
+.
+
+�
+
+𝑣𝑣 −
+
+𝑣𝑣
+
+𝑣𝑣
+
+ 
+Storage and Handling:  The SRM should be stored in the original, unopened jars under refrigeration (4 °C) until 
+required for use.  Prior to removal of a test portion for analysis, the contents of a jar of spinach should be  mixed 
+thoroughly and homogenized (e.g., using a rotor/stator type blender) for 1 min prior to removal of a test portion. 
+ 
+Use:  The minimum sample mass indicated in Tables 1 through 3 should be used to relate analytical determinations 
+to the certified values in this Certificate of Analysis.  Results obtained in analyses should include their own estimates 
+of uncertainty and can be compared to the listed values using procedures described in references 3 and 4.  NIST strives 
+to maintain the SRM inventory supply, but NIST cannot guarantee the continued or continuous supply of any specific 
+SRM.  Accordingly, NIST encourages the use of this SRM as a benchmark for the quality and accuracy of the user’s 
+in-house reference materials and working standards.  As such, the SRM should be used to validate the more routinely 
+used reference materials in a laboratory.  Comparisons between the SRM and in-house reference materials or working 
+measurement standards should take place at intervals appropriate to the conservation of the SRM and the stability of 
+relevant in-house materials.  For further guidance on how this approach can be implemented, see reference 3 or contact 
+NIST by email at srms@nist.gov. 
+ 
+th  use;  not  for  human  consumption.
+Safety:  SRM 2385 is intended for research use; not for human consumption. 
+ 
+Source: SRM 2385 was prepared from a spinach crop that was held under refrigeration following harvesting, then 
+washed lightly in a wash reel with cold water and blanched at 93 °C.  The spinach was then pureed using a Bertocchi 
+cold extractor 0.635-cm (0.250-inch) screen.  The puree was heated to 90.5 °C in a batch tank and the consistency was 
+adjusted to 3 to 5 Bostwick units with water.  The puree was then passed through a Fitzmill 0.084-cm (0.033-inch) 
+screen, filled into jars to contain approximately 70 g (2.5 oz) of slurried spinach each, and capped.  The spinach was 
+processed in two retort loads.  The jars were retorted at 121 °C and 207 kPa for 35 min. 
+ 
+ 
+ 
+ 
+
+SRM 2385 
+
+ 
+
+Page 3 of 8 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials  for  Chemical  Measurements;  NIST  Special Publication  260-136,  U.S.  Government  Printing  Office:  
+Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Feb 2018). 
+
+rial 
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Feb 2018). 
+
+available 
+
+(2008); 
+
+[3]  Rukhin, A.L. Compatibility Verification of Certified Reference Materials and User Measurements.  Metrologia, 
+
+Vol. 51, pp. 11–17 (2014). 
+
+[4]  Sharpless, K.E.; Lippa, K.A.; Duewer, D.L.; Rukhin, A.L.; The ABCs of Using Standard Reference Materials in 
+the  Analysis  of  Foods  and  Dietary  Supplements:  A  Practical  Guide;  NIST  Special  Publication 260-181;  U.S. 
+Government 
+at 
+Washington, DC 
+http://www.nist.gov/srm/upload/SP260-181.pdf (accessed Feb 2018).  
+
+available 
+
+Printing 
+
+(2014); 
+
+Office: 
+
+[5]  Epler, K.S.; Ziegler, R.G.; Craft, N.E.; Liquid Chromatographic Method for the Determination of Carotenoids, 
+Retinoids,  and  Tocopherols  in  Human  Serum and  in  Food;  J.  Chromatogr.  (Biomed.  Applications),  Vol. 619, 
+pp. 37–48 (1993). 
+
+[6]  Brown Thomas, J.;  Kline, M.C.;  Schiller, S.B.;  Ellerbe, P.M.;  Sniegoski, L.T.;  Duewer, D.L.;  Sharpless, K.E.; 
+Certification  of  Fat-Soluble  Vitamins,  Carotenoids,  and  Cholesterol  in  Human  Serum:  Standard  Reference 
+Material 968b; Fresenius’ J. Anal. Chem., Vol. 356, pp. 1–9 (1996). 
+
+il.  Chem.,  Vol. 
+
+[7]  Sander, L.C.;  K.E. Sharpless;  Craft, N.E.;  Wise, S.A.;  Development  of  Engineered  Stationary  Phases  for  the 
+
+Separation of Carotenoid Isomers; Anal. Chem., Vol. 66, pp. 1667–1674 (1994). 
+
+[8]  Sharpless, K.E.;  Brown  Thomas, J.;  Sander, L.C.;  Wise, S.A.;  Liquid  Chromatographic  Determination  of 
+Carotenoids in Human Serum Using an Engineered C30 and a C18 Stationary Phase; J. Chromatogr., B Vol. 678, 
+pp. 187–195 (1996). 
+
+lutein,  total  B 
+2 
+
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  02 February 2018 (Change of expiration date; removal of values for total lutein, total β-carotene, and vitamin B2 
+based  on  NIST's  decision  to  no  longer  support  these  measurement  capabilities  in  this  matrix;  editorial  changes);  26 April 2012  (Change  of 
+ 
+expiration date; editorial changes); 09 December 2003 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certain commercial equipment, instruments or materials may be identified in this Certificate of Analysis to adequately 
+specify  the  experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the 
+National  Institute  of  Standards  and  Technology,  nor  does  it  imply  that  the  materials  or  equipment  identified  are 
+necessarily the best available for the purpose. 
+ 
+NIST  will  monitor  this  SRM  until  its  certification  expires.    If  substantive  technical  changes  occur  that  affect  the 
+certified values before this certificate expires, NIST will notify the purchaser.  Registration (see attached sheet or 
+register online) will facilitate notification. 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  Contact the Office of 
+Reference Materials 100 Bureau Drive, Stop 2300, Gaithersburg, Maryland 20899-2300; telephone (301) 975-2200; fax 
+(301) 948-3730; e-mail srminfo@nist.gov; or the Internet at https://www.nist.gov/srm. 
+ 
+ 
+
+heir  possession  is  current. 
+
+ 
+
+> 
+
+SRM 2385 
+
+ 
+
+Page 4 of 8 
+
+ 
+
+APPENDIX A  
+
+  M.M. Phillips,  L.J. Wood,  and  K.E. Sharpless  of  NIST;  H.B. Chin  and  D.W. Howell  of 
+
+Responsibilities for SRM 2385 
+ 
+Coordination: 
+GMA  (Dublin, CA, and Washington, DC). 
+ 
+Analytical measurements:  J.M. Brown Thomas, B.J. Porter, K.E. Sharpless, and L.J. Wood of NIST; analysts at 
+organizations participating in the GMA FIACSG interlaboratory comparison exercise (see Appendix C for the list of 
+exercises  for 
+participating  organizations);  analysts  at  organizations  participating  in  NIST  interlaboratory  comparison  exercises  for 
+value assignment of vitamins and carotenoids (see Appendix D for the list of participating organizations). 
+ 
+Statistical analysis:  J.H. Yen 
+
+D.W. 
+
+ 
+APPENDIX B 
+
+are 
+
+ 
+The following abbreviations are used in this Certificate of Analysis. 
+ 
+BHNRC  
+DCP-AES 
+ 
+FAAS 
+FAES 
+ 
+FIACSG  
+ 
+GC 
+GMA 
+ 
+ICP-OES 
+ 
+LC 
+ 
+NPLC 
+ 
+RPLC 
+ 
+USDA 
+
+Beltsville Human Nutrition Research Center 
+direct current plasma atomic emission spectrometry 
+flame atomic absorption spectrometry 
+flame atomic emission spectrometry 
+Food Industry Analytical Chemists Share Group 
+gas chromatography 
+Grocery Manufacturers Association 
+inductively coupled plasma optical emission spectrometry 
+liquid chromatography 
+normal phase liquid chromatography 
+reversed phase liquid chromatography 
+United States Department of Agriculture 
+ 
+ 
+APPENDIX C 
+
+ 
+TACSG  interlaboratory
+Analysts  at  the  following  laboratories  analyzed  SRM 2385  as  blind  samples  in  a  GMA  FIACSG  interlaboratory 
+comparison exercise. 
+ 
+Campbell Soup Company (Camden, NJ, USA) 
+Centro de Investigación y Asistencia Técnica a la Industria (Provincia de Río Negro, Argentina) 
+Covance, Inc. (Madison, WI, USA) 
+Del Monte Foods (Walnut Creek, CA, USA) 
+General Mills, Inc. (Golden Valley, MN, USA) 
+Gerber Products Company (Fremont, MI, USA) 
+Hormel Foods Corporation (Austin, MN, USA) 
+Kraft Foods, Inc. (Glenview, IL, USA) 
+Nabisco, Inc. (East Hanover, NJ, USA) 
+National Food Laboratory (Dublin, CA, USA) 
+Nestlé Food Corporation (Dublin, OH, USA) 
+Novartis Nutrition Technical Center (St. Louis Park, MN, USA) 
+TPC Labs/Pillsbury (St. Paul, MN, USA) 
+USDA, Food Composition Laboratory (Beltsville, MD, USA) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+SRM 2385 
+
+ 
+
+Page 5 of 8 
+
+ 
+
+ 
+
+APPENDIX D 
+ 
+Analysts  at  the  following  laboratories  analyzed  SRM 2385  as  blind  samples  in  three  separate  interlaboratory 
+comparison exercises organized by NIST in which vitamins and carotenoids were measured. 
+ 
+AgriQuality (Auckland, New Zealand) 
+Anchor Products (Waitoa, New Zealand) 
+Harvard School of Public Health (Boston, MA, USA) 
+Inspectorate for Health Protection and Veterinary Public Health (Maastricht, The Netherlands) 
+Institute of Nutrition, Directorate of Fisheries (Bergen, Norway) 
+Institut National de la Recherche Agronomique (Saint-Genès Champanelle, France) 
+Laboratoire Marcel Merieux (Lyon, France) 
+Livsmedelsverket (Uppsala, Sweden) 
+Metametrix Clinical Laboratory, Inc. (Norcross, GA, USA) 
+Nestlé Research Center (Lausanne, Switzerland) 
+New Zealand Dairy Research Institute (Palmerston North, New Zealand) 
+Puerta de Hierro (Madrid, Spain) 
+Roche Vitamins Ltd. (Basel, Switzerland) 
+TNO Nutrition and Food Research (Zeist, The Netherlands) 
+University of Illinois at Chicago (Chicago, IL, USA) 
+University of Ulster (Coleraine, Ireland) 
+USDA, BHNRC (Beltsville, MD, USA) 
+USDA – Human Nutrition Research Center on Aging at Tufts University (Boston, MA, USA) 
+U.S. Food and Drug Administration (College Park, MD, USA) 
+ 
+ 
+
+APPENDIX E 
+
+ 
+NIST Analytical Approach for Determination of Elements:  Mass fractions of calcium, copper, iron, magnesium, 
+manganese, phosphorus, potassium, sodium, and zinc were measured at NIST using ICP-OES.  Two 7 g test portions 
+were  taken  from  each  of  five  jars  of  spinach  and  digested  with  nitric  acid  using  a  microwave  sample  preparation 
+system.  Quantification was based on the method of standard additions using calibration solutions prepared from the 
+SRM 3100 series of single-element standard solutions. 
+ 
+NIST Analytical Approaches for Determination of trans-β−Carotene:  The mass fraction of trans-β-carotene was 
+measured at NIST by using two sample preparation approaches and two LC methods.  For each jar sampled, the entire 
+jar of spinach was homogenized for 1 min using a rotor/stator-type tissue homogenizer.  One or two 1.5 g test portions 
+were taken from homogenized jars.  In the first sample preparation approach, test portions were combined with calcium 
+carbonate,  an  ethanolic  internal  standard  solution,  tetrahydrofuran (THF),  and  methanol,  and  the  mixture  was 
+homogenized for 1 min.  This mixture was then vacuum-filtered and aqueous sodium chloride solution was added to 
+the filtrate.  The analyte was extracted into a mixture of hexane and diethyl ether, and the organic phase was washed 
+with water and then evaporated under nitrogen.  Dried extracts were reconstituted with 1 mL ethanol prior to analysis.  
+In the second sample preparation approach, test portions were combined with ethanolic internal standard solution, 
+THF, and methanol.  The mixture was homogenized for approximately 45 s, and saponified at 40 °C for 30 min using 
+methanolic potassium hydroxide.  Glacial acetic acid was then added to neutralize any remaining potassium hydroxide, 
+an aqueous sodium chloride solution was added, and the analyte was extracted into a mixture of hexane and diethyl 
+ether.  The organic phase was washed with water and then evaporated under nitrogen.  The residue was redissolved in 
+500 µL ethanol prior to analysis.  Measurements of all test portions were made using a C18 analytical column and a 
+gradient consisting of acetonitrile, methanol, and ethyl acetate [5,6] and using a C30 analytical column and a gradient 
+consisting of methanol, water, and methyl tert-butyl ether [7,8].  A programmable absorbance detector was used for 
+measurement of the trans-β−carotene at 450 nm.  The purity of the trans-β−carotene calibrant material was determined 
+at NIST using spectrophotometry at 452 nm (molar extinction coefficient of 2560 dL·g-1cm-1) in combination with 
+LC-absorbance at 452 nm. 
+ 
+Analyses by Collaborating Laboratories:  Data from four additional sources was used for value assignment of this 
+material:    an  interlaboratory  comparison  exercise  organized  by  the  GMA’s  FIACSG  including  14 participating 
+laboratories, and three separate interlaboratory comparison exercises organized by NIST in  which carotenoids and 
+vitamins  were  measured  by  19 laboratories.    Not  every  laboratory  measured  every  analyte.    The  laboratories 
+participating in the GMA FIACSG interlaboratory comparison exercise were asked to use AOAC methods or their 
+equivalent, to make single measurements from each of two jars, and to report the analytical method that was used.  
+The laboratories participating in interlaboratory comparison exercises organized by NIST were asked to use their usual 
+methods to make single measurements of carotenoids and/or vitamins in each of two or three jars.  Data from these 
+SRM 2385 
+Page 6 of 8 
+
+ 
+
+of  values
+
+exercises were combined with NIST data for assignment of values (acronyms are defined in Appendix B and methods 
+used are listed in Appendix F). 
+ 
+Homogeneity  Assessment:    The  homogeneity  of  calcium,  copper,  iron,  magnesium,  manganese,  phosphorus, 
+potassium, sodium, zinc, and trans-β−carotene was assessed at NIST using the methods and test portions described 
+above.  Analysis of the  variance showed statistically  significant heterogeneity in some  cases, and a component of 
+inhomogeneity has been added to the uncertainty for calcium, copper, magnesium, and potassium.  Homogeneity of 
+constituents measured solely by collaborating laboratories was not assessed, although the data were treated as though 
+these analytes were homogeneously distributed. 
+ 
+Value Assignment:  The certified values in this SRM were derived from results of analyses performed by NIST and 
+the 33 collaborating institutions listed in Appendices B and C [1].  For calculation of assigned values for analytes that 
+were measured only by NIST, the mean of the mean values from NIST results was used.  The collaborating laboratories 
+reported the individual results for each of their analyses for a given analyte.  The mean of each laboratory’s results 
+was then determined.  For calculation of assigned values for analytes that were measured only by the GMA FIACSG 
+laboratories, the mean of the laboratory means was used.  For analytes that were also measured by NIST, the mean of 
+the individual sets of NIST data were averaged with the mean of the individual GMA FIACSG laboratory means. 
+ 
+
+ 
+
+SRM 2385 
+
+ 
+
+Page 7 of 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX F 
+ 
+
+Methods Used for Analytical Determinations 
+ 
+
+Analyte 
+
+Method 
+
+Elements 
+
+DCP-AES, FAAS, ICP-OES 
+
+Ca 
+
+Cu 
+
+Fe 
+
+K 
+
+Mg 
+
+Mn 
+
+Na 
+
+P 
+
+Zn 
+
+DCP-AES, FAAS, ICP-OES 
+
+DCP-AES, FAAS, ICP-OES 
+
+DCP-AES, FAAS, FAES, ICP-OES 
+
+DCP-AES, FAAS, ICP-OES 
+
+DCP-AES, FAAS, ICP-OES 
+
+ICP-OES 
+
+Absorption Spectrophotometry, FAAS, ICP-OES 
+
+DCP-AES, FAAS, ICP-OES 
+
+Proximates 
+
+Ash 
+
+Mass loss after ignition in muffle furnace 
+
+Calories 
+
+Calculation, [9×Fat + 4×Protein + 4×Carbohydrates] 
+
+Carbohydrates 
+
+Calculation, [solids – (protein + fat (as the sum of fatty acids) + ash)] 
+
+Fat 
+
+Sum of fatty acids as triglycerides as determined by hydrolysis with GC. 
+
+Moisture 
+
+Freeze drying, forced air oven, and vacuum oven. 
+
+Protein 
+
+Nitrogen determination using thermal conductivity or pyrolysis with  
+thermal conductivity, nitrogen determination using pyrolysis with GC or 
+pyrolysis with  thermal conductivity and GC; and Kjeldhal nitrogen 
+determination.  A factor of 6.25 was used to convert nitrogen to protein. 
+
+Total dietary fiber 
+
+Enzymatic hydrolysis followed by gravimetry. 
+
+Vitamins 
+ 
+
+Niacin 
+
+Microbiological assay, extraction followed by RPLC absorbance, acid 
+digestion followed by absorption detection. 
+
+trans-β-carotene 
+
+Extraction and/or saponification followed by RPLC absorbance or NPLC 
+absorbance. 
+
+ 
+
+ 
+
+ 
+
+SRM 2385 
+
+ 
+
+Page 8 of 8 
+
+

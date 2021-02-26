@@ -1,0 +1,233 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 1584
+
+
+
+Priority Pollutant Phenols in Methanol
+
+
+
+	This Standard Reference Material (SRM) is intended primarily for use in the calibration of chromatographic instrumentation used in the determination of phenols.  This SRM contains certified values for 11 of the EPA priority pollutants.  Because of its miscibility with water, this SRM can also be used to fortify aqueous samples with known amounts of phenols.  A unit of SRM 1584 consists of five ampoules, each containing approximately 1.2 mL of solution.
+
+			
+
+			Certified Mass Fraction Values:  Certified values for the 11 phenols are provided in Table 1.  These certified values are based on analytical results obtained by gas chromatography (GC) with mass spectrometric detection (GC/MS) and either GC with flame ionization (GC/FID) or liquid chromatography (LC) with ultraviolet absorbance detection (LCUV), and on the gravimetric preparation of the SRM.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].
+
+
+
+Expiration of Certification:  The certification of SRM 1584 is valid, within the measurement uncertainty specified, until 31 March 2027, provided the SRM is handled and stored in accordance with instructions given in this certificate (see “Instructions for Handling, Storage, and Use”).  This certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+The coordination of the technical measurements leading to the update of the certification of SRM 1584 was performed by B.A. Benner, Jr. and L.C. Sander of the NIST Analytical Chemistry Division.
+
+
+
+Analytical measurements for the update of SRM 1584 were performed by B.A. Benner, Jr.; the original certification measurements were performed by J.B. Thomas, S.N. Chesler, D.K. Hancock, W.F. Kline, R.M. Parris, and R.E. Rebbert of the NIST Analytical Chemistry Division.
+
+
+
+	Evaluation of the data was provided by N.A. Heckert, S.D. Leigh, and A.L. Pintar of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services Division.
+
+
+
+
+
+
+
+
+
+
+
+		Stephen A. Wise, Chief
+
+		Analytical Chemistry Division
+
+	
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Certificate Issue Date:  26 June 2012	Measurement Services Division
+
+Certificate Revision History on Last Page
+
+	
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE
+
+
+
+Handling:  This solution was prepared from neat phenols diluted in methanol and contains toxic components in a toxic and flammable solvent.  This material should be handled in a chemical fume hood using appropriate personal protection equipment.  Consult the Material Safety Data Sheet (MSDS), enclosed with the SRM shipment, for details.  
+
+	
+
+	Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 ºC to 30 ºC.
+
+	
+
+	Use:  Samples for analysis should be withdrawn from ampoules immediately after opening and processed without delay for any certified value in Table 1 to be valid within the stated uncertainty.  Certified values are not applicable to ampoules stored after opening, even if they are resealed.
+
+	
+
+	PREPARATION AND ANALYSIS()
+
+	
+
+	The methanol solution of the 11 phenols was prepared gravimetrically, chilled, and ampouled into 2 mL amber glass ampoules.  The ampoules were purged with nitrogen just prior to filling and sealed under nitrogen.  Samples representing early, middle, and final stages of ampouling were analyzed by using LC.  No significant differences in mass fractions of the 11 compounds were found.
+
+	
+
+	Randomly selected ampoules were analyzed for four of eleven phenols by LC on a reversed-phase C8 (5 µm) column using an aqueous acetic acid/acetonitrile/methanol mobile phase and ultraviolet absorbance detection at 254 nm.  Four external standard solutions were used to provide response factors for quantification by external standards.  GC/FID on a fused silica OV1701 capillary column was used for the determination of seven of the eleven compounds.  Four independent calibration solutions were used to obtain compound responses relative to 6chloromcresol, the internal standard.  All 11 of the phenols were measured by GC/MS using a nonpolar stationary phase column and external calibrations.
+
+	
+
+Certified Mass Fraction Values:  The certified value is a weighted mean of average mass fractions, with one average each from three analytical methods [2,3].  The expanded uncertainty is the half width of a symmetric 95 % parametric bootstrap confidence interval [4], and is consistent with the ISO Guide [5,6].  The effective coverage factor, k, is given in Table 1.
+
+	
+
+	Table 1.  Certified Mass Fraction Values of Phenols in SRM 1584
+
+	
+
+			Compound	CAS No.	Mass Fractions	k
+
+		mg/kg
+
+	
+
+					Phenol(a)	108-95-2	39.1		1.0	1.97
+
+					2-Chlorophenol(a)	95-57-8	85.9		3.8	1.97
+
+					2-Nitrophenol(a)	88-75-5	31.6		4.8	1.97
+
+					2,4-Dimethylphenol(a)	105-67-9	69.2		3.8	1.96
+
+					2,4-Dichlorophenol(a)	120-83-2	46.4		0.7	1.97
+
+					4-Chloro-m-cresol(a)	59-50-7	35.9		0.9	1.97
+
+					2,4,6-Trichlorophenol(a)	88-06-2	29.1		3.9	1.96
+
+					4-Nitrophenol(b)	100-02-7	28.7		2.4	1.97
+
+					4,6-Dinitro-o-cresol(b)	534-52-1	26.4		1.5	2.25
+
+					Pentachlorophenol(b)	87-86-5	22.0		3.5	1.97
+
+						2,4-Dinitrophenol(b)	51-28-5	28.7		2.1	2.04
+
+						
+
+								(a)	Methods used were gravimetric preparation, GCFID, and GC/MS.
+
+									(b)	Methods used were gravimetric preparation, LCUV, and GC/MS.
+
+								
+
+								
+
+
+		REFERENCES
+
+		
+
+	[1]	May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G..; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office: Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed June 2012).
+
+	[2]	Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177188 (1986).
+
+	[3]	Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323331 (2009).
+
+			[4]	Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993).
+
+	[5]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed June 2012).
+
+		[6]	JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the Guide to Expression of Uncertainty in Measurement; Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in Metrology (BIPM, IEC, IFCC, ILAC, ISO, IUPAC, IUPAP and OIML), International Bureau of Weights and Measures (BIPM), Sèvres, France (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed June 2012).
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+Certificate Revision History:  26 June 2012 (Updated mass fraction values in Table 1; Reference value for 2,4-dinitrophenol was validated and updated to a certified value; added expiration date; editorial changes); 20 April 1984 (Original certification date).
+
+						
+
+			
+
+			
+
+			
+
+			
+
+			
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+
+
+			SRM 1584	Page 3 of 3

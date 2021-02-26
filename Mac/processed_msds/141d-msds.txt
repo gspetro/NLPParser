@@ -1,0 +1,551 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+19 May 2014 
+ 
+
+ 
+
+ 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:   141d 
+SRM Name:  Acetanilide CH3CONHC6H5 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in validating microchemical procedures 
+for the determination of carbon, hydrogen, and nitrogen in organic matter.  SRM 141d is supplied in crystalline 
+form in a 2 g unit. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Health Hazard:  
+  
+
+Acute Toxicity, Oral, Category 4 
+
+Label Elements 
+Symbol  
+
+ 
+
+Signal Word 
+Warning 
+
+Hazard Statement(s) 
+H302 
+ 
+Precautionary Statement(s) 
+Prevention 
+P260 
+P264 
+P270 
+P280 
+ 
+Response 
+P301+P312 
+P330 
+ 
+Dispose 
+P501 
+
+Harmful if swallowed. 
+
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink, or smoke when using this product 
+Wear protective gloves, protective clothing, and eye protection. 
+
+If swallowed:  Immediately call a doctor if you feel unwell. 
+Rinse mouth. 
+
+Dispose of contents and container according to local regulations.  
+
+SRM 141d 
+
+ 
+
+Page 1 of 5 
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Acetanilide 
+Other Designations:  Acetanilide (acetic acid anilide; acetanil; N-phenylacetamide) 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+103-84-4 
+
+203-150-7 
+
+100 
+
+Acetanilide 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to well-ventilated (uncontaminated) area.  If breathing is difficult, 
+qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  
+Seek immediate medical attention.  
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild 
+detergent and water.  If skin irritation persists, seek medical aid and bring the container or label. 
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention. 
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Cyanosis of lips and nose, chest pain. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+Unsuitable:  None listed. 
+
+Fire and Explosion Hazards:  Slight fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability 
+properties. 
+Extinguishing Media 
+ 
+ 
+Specific Hazards Arising from the Chemical:  When heated to decomposition, emits highly toxic fumes. 
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 1 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+Methods and Materials for Containment and Clean up:  Collect spilled material in an appropriate container for 
+disposal.  Keep out of water supplies and sewers. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+Storage  and  Incompatible  Materials:    Store  in  accordance  with  all  current  regulations.    Keep  separated  from 
+incompatible substances (see Section 10, “Stability and Reactivity”). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  No established occupational exposure limits. 
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+SRM 141d 
+
+ 
+
+Page 2 of 5 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Properties 
+
+ 
+
+ 
+
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate (butyl acetate = 1) 
+Melting point/freezing point 
+Relative Density as Specific Gravity (water = 1) 
+Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Open Cup) 
+Flammability (solid, gas) 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Acetanilide 
+100 % 
+
+135.17 
+C8H9NO 
+lustrous white crystalline powder 
+odorless 
+not available 
+not available 
+not available 
+113 °C (235.4 °F) 
+1.2105 
+not available 
+1 mmHg at 114 °C 
+4.7 
+not applicable 
+soluble in water 0.5 %; 
+soluble in acetone, alcohol, ether, 
+benzene, chloroform, glycerol, 
+dioxane;  
+slightly soluble in petroleum ether. 
+not available 
+
+ 
+540 °C (1004 °F) 
+not available 
+306 °C (582 °F) 
+not available 
+not available 
+169 °C (336.2 °F) 
+not applicable 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact with incompatible 
+material.  Keep out of water supplies and sewers.  
+
+Incompatible Materials:  Acids, bases, combustible materials, metal salts. 
+
+Hazardous Decomposition:  Oxides of nitrogen.  
+
+Hazardous Polymerization: 
+ 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+SRM 141d 
+
+ 
+
+Page 3 of 5 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Cyanosis. 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Ingestion:  Acute exposure to a large dose of acetanilide may cause methemoglobin resulting in cyanosis of the 
+lips, nose, and earlobes.  Accompanying symptoms including weakness, dizziness, severe headache, ataxia rapid 
+shallow  respiration,  drowsiness,  nausea,  vomiting,  confusion,  lethargy,  and  stupor.    Chronic  daily  doses 
+exceeding 1 gram may result in methemoglobin and hemolytic anemia. 
+
+Skin Contact:  Acute and chronic exposure to acetanilide may result in irritation and contact dermatitis. 
+
+Eye Contact:  Acute and chronic exposure to acetanilide may cause irritation and conjunctivitis. 
+
+Inhalation:  Acute exposure may cause the same effects as listed for ingestion.  Chronic exposure may result in 
+chest pain, giddiness, epigastric pain, and highly-colored urine.  Symptoms may be delayed as a result of delayed 
+absorption. 
+
+ 
+
+Yes 
+
+X  No 
+
+Numerical Measures of Toxicity 
+
+Acute toxicity:  Category 4 for oral 
+Rat, Oral, LD50:  800 mg/kg 
+
+Skin corrosion/irritation:  Not classified. 
+
+Serious eye damage/eye irritation:  Not classified; no data available. 
+
+Respiratory sensitization:  Not classified; no data available. 
+
+Skin sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Acetanilide is not listed by NTP, IARC or OSHA as a carcinogen. 
+Tumorigenic:  Not classified; no data available. 
+Mutagenic:  Not classified. 
+Mouse:  50 mg/kg  
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Specific target organ toxicity, single exposure:   
+
+Specific target organ toxicity, repeated exposure:  Not classified. 
+
+Fish, Bluegill (Lepomis macrochirus), LC50:  100 mg/L (96 h) static 
+
+Aspiration hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Persistence and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+SRM 141d 
+
+ 
+
+Page 4 of 5 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.  
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+No 
+No 
+No 
+No 
+
+State Regulations:  California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Acetanilide is listed. 
+TSCA 12(b), Export Notification:  Not listed. 
+Canadian Regulations:  WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  19 May 2014 
+
+Sources:  ChemADVISOR, Inc., MSDS Acetanilide, 11 September 2013. 
+
+Hazardous Substances Data Bank (HSDB), National Library of Medicine's TOXNET system, Acetanilide 
+CAS No. 103-84-4; available at http://toxnet.nlm.nih.gov/ (accessed May 2014). 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short Term Exposure Limit 
+STEL  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 141d 
+
+ 
+
+Page 5 of 5 
+
+

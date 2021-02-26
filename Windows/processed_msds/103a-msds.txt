@@ -1,0 +1,556 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  103a
+MSDS Number:  103a
+SRM Name:  Chrome Refractory 
+
+Date of Issue:  14 September 2012 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:    This  Standard  Reference  Material (SRM)  is  intended  for  use  in  checking  chemical  methods  of 
+analysis and in calibration with instrumental methods of analysis.  A unit of SRM 103a contains 60 g of powder in a 
+bottle. 
+
+Substance:  Chrome refractory 
+
+Other Designations:  No information available. 
+
+2.  HAZARDS IDENTIFICATION  
+
+NFPA Ratings (Scale 0-4):  Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+Note:    This  material  contains  inorganic  compounds  which  have  been  reported  to  have  toxic,  mutagenic,  and/or 
+carcinogenic properties and should be handled with care.  The inorganic compounds are reported as oxides, but are 
+not freely available in the material as sold.  Health and safety information associated with these oxides is provided 
+as a reference for the user.  For actual concentrations, see the Certificate of Analysis. 
+
+Major Health Hazards:  May cause respiratory tract irritation and lung damage.  Cancer hazard (in animals). 
+
+Physical Hazards:  There are no known physical hazards associated with this material. 
+
+Potential Health Effects (Acute and Chronic) 
+
+Inhalation:  Exposure may cause respiratory irritation.  Repeated or prolonged exposure may result in cough, 
+weight loss, chest pain, difficulty breathing, bluish skin color, metal fume fever, lung damage, and cancer. 
+
+Skin Contact:  Exposure to intact skin may cause irritation. 
+
+Eye Contact:  Particulates may cause mechanical irritation. 
+
+Ingestion:  Ingestion of this material may result in irritation. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency Report on Carcinogens (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+  X(a)
+  X(a,b)
+ 
+
+ 
+
+ 
+
+No 
+ 
+ 
+X 
+
+(a) IARC lists titanium dioxide as Group 2b (possibly carcinogenic to humans). 
+(b) IARC lists chromium(III) oxide as Group 3 (not classifiable as to its carcinogenicity to humans). 
+
+ 
+
+ 
+
+MSDS 103a 
+
+ 
+
+Page 1 of 5 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+Component 
+
+CAS Registry 
+
+EC Number 
+(EINECS) 
+
+Nominal Concentration  
+(%) 
+
+not applicable 
+
+not applicable 
+
+100 
+
+Chrome refractory 
+
+Components(a) 
+Aluminate silicate  
+
+Chromium(III) oxide (Cr2O3) 
+Magnesium oxide (MgO) 
+
+Iron oxide (FeO) 
+
+Titanium dioxide (TiO2) 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1327-36-2 
+
+1308-38-9 
+
+1309-48-4 
+
+1345-25-1 
+
+13463-67-7 
+
+215-475-1 
+
+215-160-9 
+
+215-171-9 
+
+215-721-8 
+
+236-675-5 
+
+ 
+34.6 
+
+32.1 
+
+18.5 
+
+12.4 
+
+0.2 
+
+(a) Concentrations of the components are listed as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information 
+
+with hazardous components (1 % or greater) and carcinogens (0.1 % or greater). 
+
+EC Classification:  No classification assigned. 
+
+EC Risk (R No) and EC Safety (S No):  Not assigned. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  
+Seek immediate medical attention. 
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Seek medical attention, if needed. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Seek medical attention, if needed. 
+
+Ingestion:  If a large amount is swallowed, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard. 
+
+Extinguishing Media:  Use extinguishing agents appropriate to surrounding fire. 
+
+Fire Fighting:  Avoid inhalation of combustion by-products. 
+
+Flash Point:  Not applicable. 
+
+Autoignition Temp:  Not applicable. 
+
+Flammability Limits in Air 
+ 
+ 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational  Release:    Collect  spilled  material  in  appropriate  container  for  disposal.    Avoid  generating  dust.  
+Clean up residue with a high-efficiency particulate filter vacuum. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Handling and Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated 
+from incompatible substances. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+ 
+
+ 
+
+MSDS 103a 
+
+ 
+
+Page 2 of 5 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+No occupational exposure limits are established for chrome refractory.  The limits listed below are for the individual 
+components. 
+
+Exposure Limits 
+
+Components 
+
+OSHA (PEL) 
+
+ACGIH (TLV) 
+
+NIOSH (REL) 
+
+Aluminate silicate 
+
+Chromium(III) oxide 
+(as Cr, related to Chromium 
+(III) Compounds) 
+
+No occupational exposure limits established. 
+
+0.5 mg/m3 TWA 
+
+No occupational exposure 
+limits established. 
+
+0.5 mg/m3 TWA 
+25 mg/m3 IDLH 
+
+Magnesium oxide 
+
+15 mg/m3 TWA 
+(fume, total particulate) 
+
+No occupational exposure 
+limits established. 
+
+10 mg/m3 TWA 
+(inhalable fraction) 
+750 mg/m3 IDLH 
+(fume) 
+
+Iron oxide 
+
+Titanium dioxide 
+
+No occupational exposure limits established. 
+
+15 mg/m3 
+TWA (total dust) 
+
+10 mg/m3 TWA 
+5000 mg/m3 IDLH 
+
+No occupational exposure 
+limits established. 
+
+Ventilation:  Use local exhaust ventilation system.  Ensure compliance with applicable exposure limits. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets 
+OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Wear chemical safety goggles.  An eyewash station should be readily available near areas of use. 
+
+Personal Protection:  Wear appropriate chemical resistant clothing and gloves to prevent skin exposure. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES
+
+Appearance and Odor:  Solid, fine powder; no odor information available. 
+Molecular Formula: 
+Density: 
+Melting Point: 
+Water Solubility: 
+
+Not applicable. 
+Not available. 
+Not available. 
+Insoluble. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+
+Stable 
+
+X 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid generating dust. 
+
+ 
+
+Unstable 
+
+Incompatible Materials:  Acids, bases, combustible materials, halogens, metals, oxidizing materials, halo carbons. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Miscellaneous decomposition products. 
+
+Hazardous Polymerization: 
+ 
+
+ 
+ 
+
+Will Occur 
+
+X  Will Not Occur 
+
+MSDS 103a 
+
+ 
+
+Page 3 of 5 
+
+11.  TOXICOLOGICAL INFORMATION 
+ 
+Route of Entry: 
+
+Inhalation 
+
+X 
+
+There  is  no  toxicity  data  and  endpoints  listed  by  Registry  of  Toxic  Effects  of  Chemical  Substances (RTECS)  for 
+chrome refractory.  Toxicity data and endpoints listed by RTECS are below for the individual components. 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Components 
+
+Toxicity Data 
+
+Aluminate silicate 
+
+No data available. 
+
+Chromium(III) oxide 
+
+Magnesium oxide 
+
+No data available. 
+Rat, Inhalation LC50: 
+Rat, Oral LD50: 
+No data available. 
+Rabbit, Dermal LD50:  No data available. 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+
+Bacillus subtilis: 10 mmol/L; Hamster:  34 mg/L 
+No data available. 
+Rat, Intratracheal TDLo:  90 mg/kg 
+
+No data available. 
+Rat, Inhalation LC50: 
+Rat, Oral LD50: 
+No data available. 
+Rabbit, Dermal LD50:  No data available. 
+No data available. 
+Mutagenic: 
+No data available. 
+Reproductive: 
+Hamster, Intratracheal TDLo:  480 mg/kg (30 weeks) 
+Tumorigenic: 
+
+Iron oxide 
+
+No data available. 
+
+Titanium dioxide 
+
+No data available. 
+>10000 mg/kg 
+
+Rat, Inhalation LC50: 
+Rat, Oral LD50: 
+Rabbit, Dermal LD50:  No data available. 
+Mutagenic: 
+Reproductive: 
+Tumorigenic: 
+
+Human:  5 µmol/L (72 h); 20 µg/disk (4 h) 
+No data available. 
+Rat, Inhalation TCLo:  250 mg/m3 (6 h) 
+
+Health Effects (Acute and Chronic):  See Section 2, “Hazards Identification” for potential health effects. 
+
+Medical Conditions Aggravated by Exposure:  Respiratory disorders, skin disorders, eye disorders, and allergies. 
+
+Target Organs:  Respiratory tract. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No ecotoxicity data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste  Disposal:    Dispose  in  accordance  with  all  applicable  regulations.  Hazardous  Waste  Number(s):  D007. 
+Dispose  of  chromium(III)  oxide  in  accordance  with  U.S. EPA 40 CFR 262  for  concentrations  at  or  above  the 
+Regulatory level of 5.0 mg/L. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated for this material. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated for this material. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated for this material. 
+SARA Title III Section 313 (40 CFR 372.65):  1.0 % de minimis concentration (except for Chromite ore mined 
+in  the  Transvaal  Region  of  South  Africa  and  the  unreacted  ore  component  of  the  Chromite  ore  processing 
+residue (COPR), Chemical Category N090, related to Chromium(III) Compounds). 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated for this material. 
+
+MSDS 103a 
+
+ 
+
+Page 4 of 5 
+
+California  Proposition 65:    Warning!    This  product  contains  titanium  dioxide  which  is  known  to  the  state  of 
+California to cause cancer. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ 
+ 
+ 
+ 
+ 
+
+ACUTE: 
+CHRONIC: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+State Regulations 
+
+Yes 
+Yes 
+No 
+No 
+No 
+
+WHMIS Classification:  Not provided for this material. 
+
+Canadian Regulations 
+
+European Regulations 
+
+EC Classification:  No classification assigned. 
+
+EC Risk and EC Safety Phrases:  Not assigned. 
+
+National Inventory Status 
+
+dioxide are listed. 
+
+TSCA 12(b); Export Notification: Not listed. 
+
+16.  OTHER INFORMATION 
+
+Sources:  ChemAdvisor, Inc., MSDS, Aluminate Silicate, 23 June 2009. 
+
+ChemAdvisor, Inc., MSDS, Chromium(III) Oxide, 18 June 2012. 
+
+ChemAdvisor, Inc., MSDS, Magnesium Oxide, 20 December 2011. 
+
+ChemAdvisor, Inc., MSDS, Iron(II) Oxide, 10 June 2011. 
+
+ChemAdvisor, Inc., MSDS, Titanium Dioxide, 18 June 2012. 
+
+U.S. Inventory (TSCA):  Aluminate silicate, chromium(III) oxide, magnesium oxide, iron oxide, and titanium 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 103a 
+
+ 
+
+Page 5 of 5 
+
+

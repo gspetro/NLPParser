@@ -1,0 +1,1400 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1958 
+ 
+Organic Contaminants in Fortified Human Serum 
+
+ 
+
+(Freeze-Dried) 
+
+8 
+
+A 
+
+‘ention 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected  polychlorinated  biphenyl (PCB)  congeners,  chlorinated  pesticides,  and  polybrominated  diphenyl 
+ether (PBDE)  congeners  in  human  serum  and  similar  matrices.    Reference  values  are  provided  for  selected 
+polychlorinated  dibenzo-p-dioxins (PCDDs),  polychlorinated  dibenzofurans (PCDFs),  non-ortho  PCB  congeners, 
+perfluorinated compounds (PFCs), and serum lipid.  Information values are provided for selected toxaphene congeners 
+and hydroxylated compounds.  A unit of SRM 1958 consists of five vials, each containing freeze-dried fortified human 
+serum.  Before use, the serum in each bottle must be reconstituted with 10.7 mL of distilled or HPLC-grade water. 
+ 
+The  development  of  SRM 1958  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the Division of Laboratory Sciences, Organic Analytical Toxicology Branch, U.S. Centers 
+for Disease Control and Prevention (CDC). 
+ 
+Certified  Mass  Fraction  Values:    Certified  values,  expressed  as  mass  fractions,  for  PCB  congeners,  chlorinated 
+pesticides, and PBDE congeners along with one polybrominated biphenyl congener are provided in Tables 1, 2, and 3, 
+respectively [1].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or taken into account [2].  The certified values for the 
+PCB congeners, chlorinated pesticides, and PBDE congeners are based on the agreement of results obtained at NIST 
+using  one  or  more  analytical  techniques,  additional  results  from  CDC,  and  from  an  interlaboratory  study  using 
+different analytical techniques.  Values are reported based on the reconstituted serum in mass fraction units.  
+ 
+Reference  Mass  Fraction  Values:    Reference  values,  expressed  as  mass  fractions,  are  provided  in  Table 4  for 
+additional PCB congeners and chlorinated pesticides; Table 5 for selected PFC compounds; and Table 6 for selected 
+PCDD and PCDF congeners and non-ortho PCB congeners [1].  Reference values for serum lipids are provided in 
+Table 7.  Reference values are noncertified values that are estimates of the true value; however, the values do not meet 
+the NIST criteria for certification and are provided with associated uncertainties that may reflect only measurement 
+precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among 
+multiple analytical methods [2].  Values are reported based on the reconstituted serum in mass fraction units. 
+ 
+Information  Mass  Fraction  Values:    Information  values,  expressed  as  mass  fractions,  for  selected  toxaphene 
+congeners, additional compounds, and Aroclor 1260 are provided in Table 8 [2].  An information value is considered 
+to be a value that will be of use to the SRM user, but insufficient information is available to assess the uncertainty 
+associated with the value or only a limited number of analyses were performed [1].  Values are reported based on the 
+reconstituted serum in mass fraction units.  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1958 is valid, within the measurement uncertainty specified, 
+ed  in  accordance  with  instructions  given  in  this 
+until  31 August 2025,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+ae  certification  is  nullified  if  the  SRM  is  damaged, 
+certificate (see “Instructions for Stability, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.  
+ 
+Overall direction and coordination of technical measurements leading to certification were performed by J.L. Reiner, 
+Division.
+L.C. Sander, M.M. Schantz, and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 October 2018 
+Certificate Revision History on Page 10 
+
+ 
+
+  
+
+SRM 1958 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 11 
+
+in 
+
+the 
+
+an 
+
+study 
+
+included 
+
+interlaboratory 
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Organic 
+Partial  support  for  the  development  of  SRM 1958  was  provided  by  the  Division  of  Laboratory  Sciences,  Organic 
+Analytical Toxicology Branch, CDC (Atlanta, GA). 
+ 
+Analytical measurements at NIST were performed by R.M. Heltsley, J.M. Keller, M.M. Schantz, and S.S. Vander Pol 
+of  the  NIST  Chemical  Sciences  Division.    Analytical  measurements  at  CDC  were  performed  by  A. Calafat, 
+D. Patterson,  A. Sjödin,  and  W. Turner  of  the  Organic  Analytical  Toxicology  Branch,  CDC.    Laboratories 
+participating 
+3M  Corporation (Maplewood, MN),  Axys 
+Analytical (Sidney, B.C., Canada),  Institut  national  de  santé  publique  du  Québec (Québec, Canada),  Stockholm 
+University (Stockholm, Sweden), and University of Liege (Liege, Belgium). 
+ 
+Statistical consultation was provided by S.D. Leigh and N.A. Heckert of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1958  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.    HANDLE 
+PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE.  
+The  supplier  has  reported  that  each  donor  unit  of  plasma  used  in  the  preparation  of  this  product  was  tested  by 
+FDA-licensed tests and found to be negative for human immunodeficiency virus (HIV), HIV-1 antigen, hepatitis B 
+surface antigen, and hepatitis C.  However, no known test method can offer complete assurance that hepatitis B virus, 
+hepatitis C virus, HIV, or other infectious agents are absent from this material.  Accordingly, this human blood-based 
+product should be handled at the Biosafety Level 2 or higher as recommended for any POTENTIALLY INFECTIOUS 
+HUMAN SERUM OR BLOOD SPECIMEN in the CDC/National Institutes of Health (NIH) Manual [3]. 
+ 
+INSTRUCTIONS FOR STABILITY, STORAGE, AND USE 
+ 
+Stability and Storage:  The serum is freeze-dried and should be stored in a refrigerator at temperatures between 2 °C 
+and 8 °C until ready for use.  It should not be frozen or exposed to sunlight or ultraviolet radiation.  After reconstitution, 
+the contents should be used immediately or stored between 2 °C and 8 °C until ready for use, preferably within 4 h.  
+Freezing of the reconstituted material is not recommended. 
+ 
+Use:  Bring the vial to room temperature, remove the metal closure, and lightly tap the bottom of the vial to dislodge 
+any dried serum particles from the stopper.  Carefully remove the stopper to avoid possible loss of serum particles.  
+Use a dispenser of known accuracy to slowly add 10.7 mL of distilled or HPLC-grade water at 20 °C to 25 °C to 
+the sides of the vial while continually turning the vial.  Replace the stopper, swirl the vial two or three times, and let 
+stand for approximately 10 min.  Mix contents by gently swirling, let stand for approximately 30 min, swirl again, let 
+stand 10 min, and finally invert the vial several times.  Do not shake vigorously because this will cause frothing.  Total 
+time for reconstitution is approximately 1 h.  After reconstituting, use contents as soon as possible or store between 
+2 °C and 8 °C until analysis, preferably within 4 h. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Source  of  Material:    Plasma  was  acquired  from  various  blood  banks  located  around  the  U.S.:    Wilmington  and 
+Greenville, NC;  Jacksonville  and  Orlando, FL;  Jonesboro, AR;  Flagstaff, AZ;  Gallup  and  Albuquerque, NM; 
+Memphis, TN; Portland, ME; and Carbondale, IL. 
+ 
+Preparation  of  Material:    Preparation  of  the  serum  was  performed  by  Aalto  Scientific,  Ltd.,  Carlsbad, CA.  
+Following the precipitation of fibrin and filtration, the serum was pooled (approximately 200 L total) and was stored 
+at 4 °C.  The pool was split into two for production of SRMs 1957 and 1958.  Before bottling, approximately 710 mL 
+of methanol containing 169 compounds at varying mass concentrations (Appendix A) was added to 100 L of serum, 
+which was then stirred for 4 h.  Using a calibrated automatic pipette, 10.7 mL aliquots of serum were dispensed into 
+30 mL amber glass vials.  The samples were lyophilized.  The samples were considered dry when a stable vacuum 
+and temperature were achieved. 
+
+ITY,  STORAGE,  AND 
+
+                                                           
+
+‘eport  to  adequately  specify  the
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1958 
+
+Page 2 of 11 
+
+ANALYTICAL METHODS USED AT NIST  
+ 
+For NIST Method 1, the freeze-dried serum in each of ten vials was reconstituted by adding 10.7 mL (mass known) 
+of HPLC-grade water.  A known amount of internal standard solution (containing selected 13C-labeled PCB congeners, 
+selected 13C-labeled pesticides, 13C-labeled PBDE 209, fluorinated PBDE 47, PCB 103, and PCB 198) was added to 
+each bottle, which was sonicated for 15 min and allowed to equilibrate overnight under refrigeration.  After samples 
+were removed from refrigeration and allowed to reach ambient temperature, 10 mL of formic acid was added, as a 
+denaturation  agent,  followed  immediately  by  10 mL  of  a  1:1 (volume  fraction)  mixture  of  n-hexane  and  methyl 
+tert-butyl ether for extraction.  The samples were vortexed and left to stand for 0.5 h with occasional mixing.  After 
+centrifugation to obtain a sharp phase boundary, the upper organic phase was transferred to a concentration vessel.  
+The extraction was repeated twice with 10 mL of n-hexane each time.  The combined hexane layers were concentrated 
+using an automated evaporation system to approximately 4 mL.  Approximately 2 mL of concentrated sulfuric acid 
+was added to the concentration vessel with swirling.  Following phase separation, the hexane phase was removed, and 
+the  sulfuric  acid  phase  was  washed  twice  using  4 mL  portions  of  n-hexane.    The  combined  hexane  phases  were 
+concentrated to approximately 0.5 mL for silica solid-phase extraction (SPE) clean-up.  The fraction of interest was 
+eluted with 15 mL of 10 % (volume fraction) dichloromethane in hexane.  The concentrated samples were analyzed 
+using gas chromatography/mass spectrometry (GC/MS) operated in both the electron impact (EI) and negative ion 
+chemical ionization (NICI) mode.  A 0.25 mm × 60 m fused silica capillary column containing a non-polar proprietary 
+phase (DB-XLB, Agilent Technologies, Wilmington, DE) 0.25 µm film thickness was used for the EI analysis (NIST 
+Method 1a)  while  a  0.25 mm × 60  m  fused  silica  capillary  column  containing  a  50 % (mole  fraction) 
+phenyl-substituted  methylpolysiloxane  phase (DB-17MS,  Agilent  Technologies)  was  used  for 
+the  NICI 
+analysis (NIST Method 1b).  All injections were 1 µL using an on-column inlet. 
+ 
+For NIST Method 2, the freeze-dried serum in each of six vials was reconstituted by adding 10.7 mL (mass known) 
+of HPLC-grade water.  A known amount of internal standard solution (containing selected 13C-labeled PCB congeners, 
+selected 13C-labeled pesticides, 13C-labeled PBDE 209, and selected fluorinated PBDE congeners) was added to a 2 g 
+serum subsample from each bottle, vortexed, and allowed to equilibrate overnight under refrigeration.  After samples 
+were removed from refrigeration and allowed to reach ambient temperature, 2 mL of formic acid was added followed 
+by 3 mL of 20 % (volume fraction) dichloromethane in hexane.  Samples were extracted using focused microwave 
+extraction.  Following extraction, samples were centrifuged, the organic phase was removed, and another 3 mL of 
+20 % (volume fraction) dichloromethane in hexane was added.  The extraction was repeated, and the organic phases 
+were  combined.    Following  concentration  with  a  solvent  exchange  to  iso-octane,  samples  were  cleaned-up  on  a 
+sulfuric-acid  silica  column  followed  by  clean-up  on  an  alumina  column (5 %  deactivated).    The  eluant  from  the 
+clean-up columns  was concentrated to 0.2 mL  with a solvent change to iso-octane  for analysis.  The concentrated 
+samples were analyzed using GC/MS in the EI mode (NIST Method 2a) with a 0.18 mm × 30 m fused silica capillary 
+column  containing  a  5 %  (mole  fraction)  phenyl-substituted  methylpolysiloxane  phase (DB-5MS,  Agilent 
+Technologies)  0.18 µm  film  thickness. 
+  All  injections  were  20 µL  using  a  programmable  temperature 
+vaporization (PTV) inlet.  For NIST Method 2b, the same extracts, same column, and PTV inlet were used with the 
+GC/MS in the NICI mode.  For NIST Method 2c, the same extracts were analyzed by GC/MS in the NICI mode using 
+on-column  injection  into  a  0.18 mm × 10  m  fused  silica  capillary  column  containing  a  5 % (mole  fraction) 
+phenyl-substituted methylpolysiloxane phase (DB-5MS, Agilent Technologies), 0.18 µm film thickness. 
+ 
+For NIST Method 3, the freeze-dried serum in each of six vials was reconstituted by adding 10.7 mL (mass known) 
+of HPLC-grade water.  A known amount of internal standard solution (containing selected 13C-labeled hydroxylated 
+compounds)  was  added  to  each  bottle,  vortexed,  and  allowed  to  equilibrate  overnight  under  refrigeration.    After 
+samples were removed from refrigeration and allowed to reach ambient temperature, 2 mL of formic acid and 0.5 mL 
+of 6 mol/L  hydrochloric acid (HCl)  were added to the serum sample followed by 2 mL of 20 % (volume  fraction) 
+dichloromethane  in  hexane.    Samples  were  extracted  using  focused  microwave  extraction.    Following  extraction, 
+samples  were  centrifuged,  the  organic  phase  was  removed,  and  another  3 mL  of  20 % (volume  fraction) 
+dichloromethane  in  hexane  was  added.    The  extraction  was  repeated,  and  the  organic  phases  were  combined.  
+Potassium hydroxide (KOH) was then added to the organic phase.  The samples were shaker-extracted for 15 min and 
+centrifuged,  and  the  KOH  was  removed.    This  step  was  repeated  two  times  and  the  KOH  phases  combined.  
+HCl (6 mol/L) was added to the KOH phases, followed by 2 mL 20 % (volume fraction) dichloromethane in hexane.  
+The 
+combining  
+the  hexane  phases.    A  silica  column  was  used  for  clean-up  followed  by  analysis  using  liquid  chromatography  
+coupled  to  a  triple  quadrupole  mass  spectrometer (LC/MS/MS)  using  a  C18 column  (Agilent  Eclipse  Plus C18, 
+3.0 mm × 150 mm × 3.5 μm, Agilent Technologies) with a methanol-water gradient. 
+ 
+ 
+
+phase  was 
+
+step  was 
+
+removed, 
+
+repeated 
+
+hexane 
+
+times 
+
+two 
+
+this 
+
+and 
+
+ 
+
+SRM 1958 
+
+Page 3 of 11 
+
+in  Hexane (Nominal  Concentration  2 µg/mL),  SRM 2262  Chlorinated  Biphenyl  Congeners 
+
+For NIST Method 4, the freeze-dried serum in each of five vials was reconstituted by adding 10.7 mL (mass known) 
+of HPLC-grade water.  A known amount of internal standard solution (containing selected  13C-labeled PFCs) was 
+added to a 0.15 g serum subsample from each bottle, vortexed, and allowed to equilibrate overnight under refrigerated 
+conditions.  After samples  were removed from refrigeration and allowed to reach ambient temperature, 0.6 mL of 
+50 % (volume fraction) formic acid in water was added, and the samples were loaded onto 60 mg Oasis WAX SPE 
+columns (Waters, Milford, MA).  Compounds of interest were eluted off the columns using methanol followed by 
+2 mL of 1 % (volume fraction) ammonium hydroxide in methanol.  Following concentration, samples were analyzed 
+using  LC/MS/MS  with  a  C8  column (Thermo  Betasil  C8,  100 mm × 2.1 mm × 5 μm,  Thermo  Fisher  Scientific, 
+Waltham, MA) and methanol-ammonium acetate in water gradient. 
+ 
+For all of the NIST methods, multi-point calibration response curves  for the compounds of interest relative to the 
+internal  standards  were  determined  by  processing  gravimetrically  diluted  solutions  of  SRM 2261  Chlorinated 
+in 
+Pesticides 
+2,2,4-Trimethylpentane (Nominal Concentration 2 µg/mL), SRM 2274 PCB Congener Solution-II in Isooctane, and 
+SRM 2275 Chlorinated Pesticide Solution-II in Isooctane plus gravimetrically prepared solutions of the additional 
+analytes of interest with the internal standards added.  SRM 1589a PCBs, Pesticides, PBDEs, and Dioxins/Furans in 
+Human Serum was analyzed with each set of samples as a quality control material. 
+ 
+CDC
+ANALYTICAL METHODS USED AT CDC 
+ 
+For  the  analytes  other  than  PFCs,  details  for  the  analytical  methods  used  at  CDC  can  be  found  in  Patterson  and 
+Turner [3]  and  Sjödin  et  al. [4].    In  summary,  the  freeze-dried  serum  was  reconstituted  by  adding  10.7 mL  of 
+HPLC-grade water and mixing.  The samples were stored overnight at 5 °C.  Sample extraction was performed using 
+a C18 SPE method.  After addition of the internal standard solution and formic acid, the sample was eluted through an 
+SPE  column  using  appropriate  solvents.    The  eluant  was  then  cleaned-up  using  a  Universal  Prep  system (Fluid 
+Management Systems, Waltham, MA) containing an acid/neutral/base silica column, an alumina column, and a carbon 
+column.  Corresponding 13C-labeled compounds were used as internal standards for the majority of the analytes.   
+ 
+Gas chromatography/high-resolution mass spectrometry (GC/HRMS) with mass resolution of 10 000 was used for the 
+determination  of  the  PCBs,  chlorinated  pesticides,  PBDEs,  PCDDs,  and  PCDFs.    The  GC  column  was  a 
+0.25 mm × 30 m 
+fraction)  phenyl-substituted 
+methylpolysiloxane  phase (DB-5MS,  J&W  Scientific,  Folsom, CA),  0.25 µm  film  thickness.    All  injections  were 
+splitless with helium as the carrier gas. 
+ 
+For  determination  of  the  PFCs,  the  freeze-dried  serum  in  each  of  three  vials  was  reconstituted  by  adding 
+10.7 mL (mass  known)  of  HPLC-grade  water.    A  known  amount  of  internal  standard  solution  containing  selected 
+13C-labeled PFCs was added to two 0.2 mL serum subsamples from each bottle along with 0.5 mL of 0.1 mol/L formic 
+acid. 
+  The  
+  The  samples  were  sonicated  for  20 min  and  placed  on  an  on-line  SPE-HPLC  system. 
+samples  were  loaded  onto  C18  SPE  cartridges,  and  the  compounds  of  interest  were  eluted  off  the  cartridges  
+directly  into  the  LC/MS/MS  with  separation  on  a  C8 column (Thermo  Betasil  C8,  50 mm × 3 mm × 5 μm, 
+ThermoHypersil-Keystone, Bellefonte, PA) using a gradient of methanol and ammonium acetate in water. 
+ 
+INTERLABORATORY STUDY 
+ 
+The four laboratories participating in the interlaboratory study used their usual methods for these analyses.  Not every 
+laboratory reported data for every analyte.  When more than one laboratory did report data for a particular analyte, the 
+mean of the results was used for combination with other data to assign the certified and reference mass fraction values.  
+ 
+Total Cholesterol and Associated Analytes:  The reference mass fractions total cholesterol and triglycerides were 
+determined using standard enzymatic methods by the CDC and the Institut national de santé publique du Québec.  In 
+the cholesterol analysis, the esters were first cleaved (using cholesterol esterase), and then the total serum cholesterol 
+was measured by a cholesterol oxidase - peroxidase method.  The absorbance of the resulting chromophore at 540 nm 
+is directly proportional to total cholesterol.   “Free” cholesterol was  measured by an enzymatic  method similar the 
+method for total cholesterol but did not include the cholesterol esterase.  In the triglyceride analysis, glycerides were 
+hydrolyzed with a fungal lipase and the liberated glycerol was estimated from the rate of change in absorbance at 
+340 nm.    No  corrections  were  made  for  the  free  glycerol  content  of  the  serum.    Serum  choline-containing 
+phospholipids were also measured by an enzymatic method in which the phospholipids are hydrolyzed to free choline 
+by phospholipase D. 
+ 
+
+silica  capillary  column  containing  a  5 % (mole 
+
+fused 
+
+ 
+
+SRM 1958 
+
+Page 4 of 11 
+
+Table 1.  Certified Mass Fraction Values for PCB Congeners(a) in Reconstituted Serum SRM 1958 
+
+[ass  Fraction 
+
+y) 
+
+ 
+
+PCB Congeners 
+
+ 
+
+ 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+ 
+
+ 
+18 
+28 
+44 
+49 
+52 
+66 
+74 
+87 
+99 
+101 
+105 
+110 
+118 
+128 
+138 
+146 
+149 
+151 
+153 
+156 
+157 
+158 
+167 
+170 
+172 
+177 
+178 
+180 
+183 
+187 
+189 
+194 
+195 
+196 
+199 
+203 
+206 
+209 
+ 
+
+ 
+2,2’,5-Trichlorobiphenyl(c,d,e) 
+2,4,4'-Trichlorobiphenyl(c,e,f) 
+2,2',3,5'-Tetrachlorobiphenyl(c,d,e) 
+2,2',4,5'-Tetrachlorobiphenyl(c,d,e) 
+2,2',5,5'-Tetrachlorobiphenyl(c,d,e,f) 
+2,3',4,4'-Tetrachlorobiphenyl(c,d,e) 
+2,4,4',5-Tetrachlorobiphenyl(c,d,e,f) 
+2,2',3,4,5'-Pentachlorobiphenyl(c,d,e) 
+2,2',4,4',5-Pentachlorobiphenyl(c,d,e,f,g) 
+2,2',4,5,5'-Pentachlorobiphenyl(c,d,e,f,g) 
+2,3,3',4,4'-Pentachlorobiphenyl(c,d,e,f,g) 
+2,3,3',4',6-Pentachlorobiphenyl(c,d,e,g) 
+2,3',4,4',5-Pentachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3',4,4'-Hexachlorobiphenyl(c,e,f,g) 
+2,2',3,4,4',5'-Hexachlorobiphenyl(c,d,e) 
+2,2',3,4',5,5'-Hexachlorobiphenyl(c,d,e,f,g) 
+2,2',3,4',5',6-Hexachlorobiphenyl(c,d,e,g) 
+2,3,3',4,4'-Hexachlorobiphenyl(c,e,f,g) 
+2,2',4,4',5,5'-Hexachlorobiphenyl(c,e,f) 
+2,3,3',4,4',5-Hexachlorobiphenyl(c,d,e,f,g) 
+2,3,3',4,4',5'-Hexachlorobiphenyl(c,d,e,f,g) 
+2,3,3',4,4',5'-Hexachlorobiphenyl(c,d,g) 
+2,3',4,4',5,5'-Hexachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3',4,4',5-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3',4,5,5'-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3', 4',5,6-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3',5,5',6-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,4, 4',5,5'-Heptachlorobiphenyl(c,e,f) 
+2,2',3,4,4',5',6-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,4',5,5',6-Heptachlorobiphenyl(c,d,e,f,g) 
+2,3,3',4,4',5,5'-Heptachlorobiphenyl(c,d,e,f,g) 
+2,2',3,3',4,4',5,5'-Octachlorobiphenyl(d,e,f,g) 
+2,2',3,3',4,4',5,6-Octachlorobiphenyl(d,e,f,g) 
+2,2',3,3',4,4',5,6'-Octachlorobiphenyl(f,g) 
+2,2',3,3',4,5,5',6'-Octachlorobiphenyl(d,e) 
+2,2',3,4,4',5,5',6-Octachlorobiphenyl(f,g) 
+2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl(d,e,f,g) 
+Decachlorobiphenyl(d,e,f,g) 
+ 
+
+Mass Fraction(b) 
+(ng/kg) 
+
+407  ±  14 
+402  ±  12 
+408  ±  21 
+414  ±  15 
+401  ±  14 
+414  ± 
+6 
+414  ±  46 
+396  ±  23 
+385  ±  28 
+409  ±  27 
+419  ±  31 
+397  ±  26 
+412  ±  35 
+420  ±  17 
+473  ±  54 
+378  ±  26 
+373  ±  22 
+381  ±  18 
+457  ±  36 
+418  ±  19 
+420  ±  42 
+365  ±  48 
+403  ±  26 
+422  ±  23 
+395  ±  28 
+9 
+392  ± 
+386  ±  15 
+459  ±  49 
+407  ±  36 
+411  ±  38 
+402  ±  31 
+387  ±  20 
+385  ±  25 
+397  ± 
+379  ±  21 
+398  ±  49 
+8 
+366  ± 
+338  ±  16 
+
+6(h) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [5] and later revised by Schulte and 
+
+Zell 
+
+Malisch [6] to conform with IUPAC rules.  PCB 199 is PCB 201 under the Ballschmiter and Zell scheme in this table. 
+
+(b) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance [10]  following  the  ISO/JCGM 
+Guides [11,12].    The  measurand  is  the  total  mass  fraction  for  each  PCB  congener  in  reconstituted  serum  listed  in  Table  1.  
+Metrological traceable to the SI derived unit for mass fraction (expressed as nanograms analyte per kilogram sample). 
+
+(c) NIST Method 1a, liquid-liquid extraction followed by GC/MS in the EI mode. 
+(d) NIST Method 2a, focused microwave extraction followed by GC/MS in the EI mode. 
+(e) CDC method, GC/HRMS. 
+(f) Results from interlaboratory study. 
+(g) NIST Method 1b, liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+(h) The coverage factor used for PCB 196 was k = 4. 
+ 
+
+‘Method
+
+ 
+
+SRM 1958 
+
+Page 5 of 11 
+
+ 
+
+ 
+
+Table 2.  Certified Mass Fraction Values for Chlorinated Pesticides in Reconstituted Serum SRM 1958 
+
+Iass  Fraction 
+
+ 
+
+ 
+
+Hexachlorobenzene(b,c,d,e,f) 
+cis-Chlordane(d,e,f,g) 
+trans-Chlordane(d,e,g) 
+cis-Nonachlor(d,e,f,g) 
+trans-Nonachlor(d,e,f,g) 
+Mirex(c,d,e,f,g) 
+Octachlorostyrene(c,e,f) 
+2,4'-DDE(b,c,e) 
+4,4'-DDE(b,c,e,f) 
+2,4'-DDD(b,c) 
+4,4'-DDD(b,c) 
+2,4’-DDT(b,c,e) 
+4,4'-DDT(b,c,e) 
+ 
+
+Mass Fraction(a) 
+(ng/kg) 
+
+442  ± 
+412  ± 
+412  ± 
+425  ± 
+469  ± 
+384  ± 
+359  ± 
+450  ± 
+
+46 
+25 
+6(h) 
+23 
+6 
+59 
+19 
+20 
+1250  ±  130 
+46 
+17 
+43 
+12 
+
+347  ± 
+416  ± 
+313  ± 
+293  ± 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, k = 2 
+(unless  otherwise  noted),  calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance [10] 
+following the ISO/JCGM Guides [11,12].  The measurand is the total mass fraction for each chlorinated pesticide in reconstituted 
+serum listed in Table 2.  Metrological traceable to the SI derived unit for mass fraction (expressed as nanograms analyte per 
+kilogram sample). 
+
+(b) NIST Method 1a, liquid-liquid extraction followed by GC/MS in the EI mode. 
+(c) NIST Method 2a, focused microwave extraction followed by GC/MS in the EI mode. 
+(d) NIST Method 2b, focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+(e) CDC method, GC/HRMS. 
+(f) Results from interlaboratory study. 
+(g) NIST Method 1b, liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+(h) The coverage factor used for trans-chlordane was k = 4. 
+ 
+
+k 
+
+a)
+Table 3.  Certified Mass Fraction Values for PBDE Congeners and for PBB 153(a)  
+
+Iass  Fraction 
+
+PBB 
+
+in Reconstituted Serum SRM 1958 
+
+ 
+
+ 
+
+ 
+
+ 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBDE 
+PBB 
+ 
+
+ 
+
+2,2',4-Tribromodiphenyl ether(c,d,e,f) 
+2,4,4'-Tribromodiphenyl ether(e,f,g) 
+2,2',4,4'-Tetrabromodiphenyl ether(c,d,e,f,g) 
+2,3',4,4'-Tetrabromodiphenyl ether(c,d,e,f,g) 
+2,2',3,4,4'-Pentabromodiphenyl ether(c,d,e,f,g) 
+2,2',4,4',5-Pentabromodiphenyl ether(c,d,e,f,g) 
+2,2',4,4',6-Pentabromodiphenyl ether(c,d,e,f,g) 
+2,2',4,4',5,5'-Hexabromodiphenyl ether(c,d,e,f,g) 
+2,2',4,4',5,6'-Hexabromodiphenyl ether(c,e,g) 
+2,2',3,4,4',5',6-Heptabromodiphenyl ether(c,d,e,f) 
+2,2',3,3',4,4',5,5',6-Nonabromodiphenyl ether(c,d) 
+
+ 
+17 
+28 
+47 
+66 
+85 
+99 
+100 
+153 
+154 
+183 
+206 
+209  Decabromodiphenyl ether(c,d) 
+153 
+ 
+
+2,2',4,4',5,5'-Hexabromobiphenyl(c,e,f) 
+
+ 
+
+Mass Fraction(b) 
+(ng/kg) 
+ 
+458  ±  32 
+462  ±  19 
+651  ±  29 
+440  ±  41 
+475  ±  39 
+492  ±  15 
+475  ±  27 
+455  ±  54 
+441  ±  39 
+453  ±  42 
+4(h) 
+426  ± 
+417  ± 
+5 
+421  ±  13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) PBDE congeners and PBB 153 are numbered according to IUPAC rules. 
+(b) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, k = 2 
+(unless  otherwise  noted),  calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance [10] 
+following the ISO/JCGM Guides [11,12].  The measurand is the total mass fraction for each PBDE congeners and for PBB 153 
+in reconstituted serum listed in Table 3.  Metrological traceable to the SI derived unit for mass fraction (expressed as nanograms 
+analyte per kilogram sample). 
+
+(c) NIST Method 1b, liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+(d) NIST Method 2c, focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+(e) CDC method GC/HRMS 
+(f) Results from interlaboratory study 
+(g) NIST Method 2a, focused microwave extraction followed by GC/MS in the NICI mode. 
+(h) The coverage factor used for PBDE 206 was k = 4. 
+
+SRM 1958 
+
+Page 6 of 11 
+
+Table 4.  Reference Mass Fraction Values for PCB Congeners(a), PBDE Congeners(a), and Chlorinated Pesticides  
+in Reconstituted Serum SRM 1958 
+ 
+
+Vass  Fraction 
+
+4) 
+
+ 
+
+ 
+
+ 
+
+PCB 
+PCB 
+PCBs 
+
+114 
+123 
+153 and 132  2,2',4,4',5,5' Hexachlorobiphenyl and  
+
+2,3,4,4',5-Pentachlorobiphenyl(c,d,e,f,g) 
+2',3,4,4',5-Pentachlorobiphenyl(e,g) 
+
+2,2',3,3',4,6' Hexachlorobiphenyl 
+
+PCBs 
+
+180 and 193  2,2',3,4, 4',5,5' Heptachlorobiphenyl and  
+
+PBDEs  28 and 31 
+
+2,3,3', 4',5,5',6 Heptachlorobiphenyl 
+2,4,4' Tribromodiphenyl ether and  
+2, 4',5-Tribromodiphenyl ether 
+Pentachlorophenol(g,,k) 
+Pentabromophenol(g,,k) 
+α-HCH(c,e,g,l) 
+β-HCH(c,e,g,l) 
+γ-HCH(c,e,g,l) 
+Oxychlordane(d,e,f,g,l) 
+
+Mass Fraction(b) 
+(ng/kg) 
+
+46.6  ± 
+52.5  ± 
+± 
+490 
+
+495 
+
+484 
+
+± 
+
+± 
+
+8.4 
+4.8 
+23(h) 
+
+11(i) 
+
+18(j) 
+
+2780 
+445 
+260 
+278 
+315 
+226 
+
+±  550 
+93 
+± 
+44 
+± 
+47 
+± 
+43 
+± 
+43 
+± 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [5] and later revised by Schulte and 
+
+Malisch [6] to conform with IUPAC rules.  PBDE congeners are numbered according to IUPAC rules. 
+
+(b) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance [10]  following  the  ISO/JCGM 
+Guides [11,12].    The  measurand  is  the  total  mass  fraction  of  each  constituent  in  reconstituted  serum  listed  in  Table 4  as 
+determined by the method or methods indicted.  Metrological traceable to the SI derived unit for mass fraction (expressed as 
+nanograms analyte per kilogram sample). 
+
+(c) NIST Method 1a, liquid-liquid extraction followed by GC/MS in the EI mode. 
+(d) NIST Method 2a, focused microwave extraction followed by GC/MS in the EI mode. 
+(e) CDC method GC/HRMS. 
+(f) NIST Method 1b, liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+(g) Results from interlaboratory study. 
+(h) Based on data from Method 1b, Method 2a, and the interlaboratory study, a reference mass fraction value for PCB 153 with 
+
+contribution from PCB 132. 
+
+(i)  Based on data from Methods 1b and CDC, a reference mass fraction value for PCB 180 with contribution from PCB 193. 
+(j) Based on data from Method 1b and Method 2b, a reference mass fraction value for PBDE 28 with contribution from PBDE 31. 
+(k)NIST Method 3, focused microwave extraction followed by LC/MS/MS analysis. 
+(l) NIST Method 2b, focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+ 
+ 
+ 
+
+[ass  Fraction 
+8 
+Table 5.  Reference Mass Fraction Values for PFCs in Reconstituted Serum SRM 1958 
+Plus 
+(Reported as Linear Plus Branched Isomers) 
+
+ 
+
+ 
+
+Pentadecafluorooctanoic acid (PFOA)(b,c) 
+Heptadecafluorononanoic acid (PFNA)(b,c) 
+Perfluorohexanesulfonic acid (PFHxS)(b,c) 
+Perfluorooctanesulfonic acid (PFOS)(b,c) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction(a) 
+(µg/kg) 
+4.11  ±  0.17 
+0.66  ±  0.13 
+2.66  ±  0.07 
+
+16.6 
+
+±  0.9 
+
+(a) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance [10]  following  the  ISO/JCGM 
+Guides [11,12].  The measurand is the total mass fraction of each PFC in reconstituted serum listed in Table 5 as determined by 
+icrograms  analyte
+the method or methods indicted.  Metrological traceable to the SI derived unit for mass fraction (expressed as micrograms analyte 
+per kilogram sample). 
+
+(b) NIST Method 4, SPE followed by LC/MS/MS analysis. 
+(c) CDC method, on-line SPE with LC/MS/MS analysis. 
+ 
+
+ 
+
+SRM 1958 
+
+Page 7 of 11 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Table 6.  Reference Mass Fraction Values for Dibenzo-p-dioxin and Dibenzofuran Congeners  
+
+and Two Non-Ortho PCB Congeners in Reconstituted Serum SRM 1958  
+
+ 
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin 
+1,2,3,7,8-Pentachlorodibenzo-p-dioxin 
+1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin 
+1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin 
+1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin 
+1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin 
+Octachlorodibenzo-p-dioxin 
+2,3,7,8-Tetrachlorodibenzofuran 
+1,2,3,7,8-Pentachlorodibenzofuran 
+2,3,4,7,8-Pentachlorodibenzofuran 
+1,2,3,4,7,8-Hexachlorodibenzofuran 
+1,2,3,6,7,8-Hexachlorodibenzofuran 
+1,2,3,7,8,9-Hexachlorodibenzofuran 
+2,3,4,6,7,8-Hexachlorodibenzofuran 
+1,2,3,4,6,7,8-Heptachlorodibenzofuran 
+1,2,3,4,7,8,9-Heptachlorodibenzofuran 
+Octachlorodibenzofuran 
+ 
+PCB 126  3,4,5,3',4'-Pentachlorobiphenyl 
+PCB 169  3,4,5,3',4',5'-Hexachlorobiphenyl 
+
+Mass Fraction(a) 
+(pg/kg) 
+
+7.8 
+94.2  ± 
+12 
+106 
+± 
+9.9 
+95.3  ± 
+60 
+340 
+± 
+7.2 
+99.6  ± 
+± 
+565 
+90 
+±  280 
+2570 
+3 
+± 
+104 
+15 
+± 
+98 
+30 
+199 
+± 
+9.3 
+95.9  ± 
+11 
+± 
+102 
+± 
+94 
+11 
+±  110 
+900 
+9 
+289 
+± 
+12 
+± 
+84 
+1.7 
+83.3  ± 
+
+7780 
+8100 
+
+±  1140 
+±  330 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+(a) The reference mass fraction value is a weighted mean of the mass fractions determined by three methods (CDC, Axys Analytical, 
+and University of Liege) for the dioxins and furans and two methods (CDC and Université de Liège) for the non-ortho PCB 
+congeners [8].  The uncertainty listed with each value is an expanded uncertainty about the mean [8,9], with coverage factor, 
+k = 2, calculated by combining a pooled within-method variance with a between-method variance [10] following the ISO/JCGM 
+Guides [11,12].  The measurand is the total mass fraction of each congener in reconstituted serum listed in Table 6 as determined 
+by the method or methods indicted.  Metrological traceable to the SI derived unit for mass fraction (expressed as picograms 
+analyte per kilogram sample). 
+
+Table 7. Reference Mass Fraction Values for Serum Lipids in Reconstituted Serum SRM 1958 
+
+ 
+
+Total Cholesterol (TC) 
+Free Cholesterol (FC) 
+Phospholipids (PL) 
+Triglycerides (TG) 
+ 
+
+Mass Fraction(a) 
+mg/dL 
+± 
+  129 
+ 
+31.3  ± 
+  150.0  ± 
+ 
+95.6  ± 
+ 
+
+2 
+0.7 
+0.2 
+5.4 
+
+(a) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  two  methods (CDC  and  Institut 
+national  de  santé  publique  du  Québec) [8].    The  uncertainty  listed  with  each  value  is  an  expanded  uncertainty  about  the 
+mean [8,9],  with  coverage  factor,  k = 2,  calculated  by  combining  a  pooled  within-method  variance  with  a  between-method 
+variance [10]  following  the  ISO/JCGM  Guides [11,12].    The  measurand  is  the  total  concentration  of  each  serum  lipid  in 
+reconstituted serum listed in Table 7 as determined by the method or methods indicted.  Metrological traceable to the SI derived 
+unit for mass concentration (expressed as milligrams analyte per deciliter solution). 
+
+ 
+
+SRM 1958 
+
+Page 8 of 11 
+
+ 
+
+ 
+ 
+
+Information Values 
+ 
+
+ 
+
+Table 8.  Information Mass Fraction Values for Additional Compounds, Aroclor 1260, and Total Lipids  
+in Reconstituted Serum SRM 1958 
+
+Mass  Fraction 
+
+2-endo,3-exo,5-endo,6-exo,8,8,10,10-octachlorobornane (Parlar 26)(a,b,c) 
+2-endo,3-exo,5-endo,6-exo,8,8,9,10,10-nonachlorobornane (Parlar 50)(a,b,c) 
+2,2,5,5,8,9,9,10,10-nonachlorobornane (Parlar 62)(a,c) 
+Pentachloronitrobenzene(d) 
+2,3,4,6-Tetrabromophenol(d) 
+2,3,4,6-Tetrachlorophenol(d) 
+Aroclor 1260(d) 
+ 
+ 
+Total Lipids(e) 
+
+Mass Fraction 
+(ng/kg) 
+340 
+230 
+320 
+480 
+150 
+98 
+5730 
+ 
+
+(mg/dL) 
+441 
+
+ 
+(a) CDC method using GC/HRMS. 
+(b) Results from interlaboratory study. 
+(c) NIST Method 2c using focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+(d) Mass fractions determined by Institut national de santé publique du Québec. 
+(e) The total lipids in the serum may be calculated from: TL = 1.677 x (TC - FC) + FC + TG + PL, where TL is total lipids, TC is 
+ids.  The  constant  1.677  is  based  on  fatty  acid 
+total cholesterol, FC is free cholesterol, TG is triglycerides, and PL is phospholipids.  The constant 1.677 is based on fatty acid 
+analysis of serum cholesterol esters and has been described elsewhere [13,14]. 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/index.cfm (accessed Oct 2018). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G..;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/publications.cfm  (accessed 
+Oct 2018). 
+
+[3]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, D.C.  (2009);  available  at  https://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf 
+(accessed Oct 2018). 
+
+[4]  Patterson, D.G., Jr;  Turner, W.E.;  Analysis  of  Serum,  Adipose  Tissue,  and  Breast  Milk  for  PCDDs,  PCDFs, 
+cPCBs,  PCB  Congeners,  Chlorinated  Pesticides  by  High  Resolution  Gas  Chromatography  Isotope-Dilution 
+High  Resolution  Mass  Spectrometry;  CLIA  Document,  Environmental  Health  Laboratory,  Center  for 
+Environmental Health, Centers for Disease Control and Prevention, Atlanta, GA, pp. 1–253 (1997). 
+
+[5]  Sjödin, A.;  Jones, R.S.;  Lapeza, C.R.;  Focant, J.-F.;  McGahee, E.E. III;  Patterson, D.G. Jr;  Semiautomated 
+High-Throughput Extraction and Cleanup Method for the Measurement of Polybrominated Diphenyl Ethers, 
+Polybominated Biphenyls, and Polychlorinated Biphenyls in Human Serum; Anal. Chem., Vol. 76, pp. 1921–
+1927 (2004). 
+
+[6]  Ballschmiter, K.;  Zell, M.;  Analysis  of  Polychlorinated  Biphenyls (PCB)  by  Glass  Capillary  Gas 
+Chromatography - Composition of Technical Aroclor- and Clophen-PCB Mixtures; Fresenius Z. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+nmental  Samples.  I.  Investigation  of  the
+[7]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius Z. Anal. Chem., Vol. 314, pp. 545–551 (1983). 
+[8]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[9]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[10]  Horn, R.A.;  Horn, S.A.;  Duncan, D.B.;  Estimating  Hetroscedastic  Variance  in  Linear  Models;  J.  Am.  Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+SRM 1958 
+
+Page 9 of 11 
+
+[11]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing  Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/pubs/index.cfm (accessed Oct 2018). 
+
+[12]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Oct 2018). 
+
+[13]  Akins, J.R.; Waldrep, K.; Bernert, J.T., Jr.; The Estimation of Total Serum Lipids by a Completely Enzymatic 
+
+‘Summation’ Method; Clin. Chim. Acta., Vol. 184, pp. 219–226 (1989). 
+
+;  Clin.  Chim.  Acta 
+
+[14]  Cheek, C.S.; Wease, D.F.; A Summation Technique for Serum Total Lipids; Clin. Chem., Vol. 15, pp. 102–107 
+
+(1969). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    11 October 2018  (Changes  in  values  of  PCB  180/193,  PCB  196,  and  Phospholipids;  editorial  changes); 
+30 November 2015 (Editorial changes); 29 December 2014 (Change of expiration date; editorial changes); 17 December 2013 (Updated data from 
+CDC; revised statistical methods used; editorial changes); 26 August 2010 (Corrected the units in Table 5 to µg/kg); 05 August 2009 (Corrected 
+the substituent location numbers for 1,2,3,4,7,8,9-Heptachlorodibenzofuran in Table 6); 13 May 2009 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+fax (301) 948-3730; 
+accomplished 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+ 
+
+   
+
+telephone (301) 975-2200; 
+
+SRM  Program: 
+
+contacting 
+
+the 
+
+by 
+
+11 
+
+SRM 1958 
+
+Page 10 of 11 
+
+APPENDIX A 
+ 
+Details of Spiking Solution Used for SRM 1958 
+ 
+
+Compound Class  
+
+Number of 
+Compounds 
+
+Mass Concentration 
+Range of Spike 
+
+ortho-PCBs 
+non-ortho PCBs 
+Chlorinated pesticides 
+Toxaphene congeners 
+Chlorobenzenes and octachlorostyrene 
+PBDEs and PBB 153 
+Hexabromocyclododecane, 1,2-bis(2,4,6-
+tribromophenyoxy)ethane, hexabromobenzene, 
+and decabromodiphenylethane 
+PCDD/PCDF 
+Brominated dioxins and furans 
+Chloro-bromo dioxins and furans 
+PCNs 
+Halogenated phenolic compounds 
+Hydroxylated PCBs 
+
+38 
+4 
+22 
+6 
+8 
+18 
+
+4 
+
+18 
+17 
+8 
+9 
+12 
+5 
+
+50 pg/mL to 500 pg/mL 
+0.4 pg/mL to 0.8 pg/mL 
+500 pg/mL 
+500 pg/mL 
+500 pg/mL 
+500 pg/mL 
+
+500 pg/mL 
+
+0.1 pg/mL to 2.4 pg/mL 
+0.05 pg/mL 
+0.05 pg/mL 
+1 pg/mL 
+500 pg/mL 
+500 pg/mL 
+
+ 
+
+SRM 1958 
+
+Page 11 of 11 
+
+

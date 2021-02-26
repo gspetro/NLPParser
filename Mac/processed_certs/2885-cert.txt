@@ -1,0 +1,172 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2885 
+ 
+Polyethylene 
+
+ 
+
+ 
+
+g/mol) 
+(Mass-Average Molar Mass [Mw] 6 280 g/mol) 
+ 
+This Standard Reference Material (SRM) is intended primarily for use in calibration and performance evaluation of 
+instruments used to determine molar mass, previously expressed as molecular weight [1], and molar mass distribution 
+by size exclusion chromatography.  A unit of SRM 2885 consists of approximately 0.3 g of polyethylene powder.   
+ 
+Certified  Values  and  Uncertainty:    The  certified  value  for  Mw  was  measured  using  static  light  scattering  with 
+1-chloronaphthalene as the solvent at 130 °C [2].  The certified value for the intrinsic viscosity was determined in 
+1,2,4-trichlorobenzene at 130 °C.  The certified values and uncertainties for mass-average molar mass and intrinsic 
+viscosity are presented in Table 1. 
+ 
+
+Table 1.  Certified Properties 
+
+ 
+
+Property 
+
+Certified Value 
+
+Mass-Average Molar Mass (Mw) 
+
+6.28 x 103 g/mol  ±  0.56 x 103 g/mol 
+
+Intrinsic Viscosity [η]  
+
+22.3 mL/g  ±  0.20 mL/g 
+
+ 
+The certified measurement uncertainty is expressed as a combined expanded uncertainty with a coverage factor, k = 2, 
+calculated in accordance with NIST procedure [3].  Type A and Type B contributions to the expanded uncertainty of 
+the  measured  mass-average  molar  mass  include  the  uncertainties  in  the  Rayleigh  ratio  of  the  scattering  standard, 
+optical alignment, and calibration of the differential refractometer.  The measurands are mass-average molar mass and 
+intrinsic viscosity.  The certified values are metrologically traceable to the SI unit of mass expressed as grams per 
+mole, and to the SI unit of viscosity expressed as milliliters per gram, respectively. 
+ 
+Expiration of Certification:  The certification of SRM 2885 is valid, within the measurement uncertainty specified, 
+until  01 June 2020,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage”).  The certification is nullified if the SRM is damaged, contaminated, or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST will  notify  the  purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Technical coordination leading to the certification of this SRM was provided by B.M. Fanconi of the NIST Materials 
+Science and Engineering Division.  Technical measurements and data interpretation were provided by C.M. Guttman, 
+of the NIST Materials Science and Engineering Division, and J.R. Maurey, W.R. Blair, and C.R. Schultheisz formerly 
+of the NIST Polymers Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date: 25 May 2018 
+Certificate Revision History on Last Page 
+
+John E. Bonevich, Acting Chief 
+Material Science and Engineering Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 2 
+
+  
+
+SRM 2885 
+
+INSTRUCTIONS FOR STORAGE 
+ 
+The SRM should be stored in the original bottle with the lid tightly closed under normal laboratory conditions. 
+ 
+Homogeneity and Characterization:  The homogeneity of SRM 2885 was tested by size exclusion chromatography 
+ribed  in 
+analysis  of  solutions  in  1,2,4-trichlorobenzene  at  130 °C.    The  characterization  of  this  polymer  is  described  in 
+reference 2.  SRM 2885 is the result of a clean-up, blending, and rebottling of the fractionation of SRM 1475.  It was 
+produced in the same fractionation as SRM 1482, SRM 1483, and SRM 1484 [4]. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+
+). 
+Publication 811 (2008); available at: https://physics.nist.gov/cuu/pdf/sp811.pdf (accessed May 2018). 
+
+st.gov/cuu/pdf/sp8  1  1  .pdf 
+
+[2]  Guttman, C.M.;  Maurey, J.R.;  Blair, W.R.;  Certification  of  the  Relative  Molecular  Mass  and  the  Limiting 
+
+[3] 
+
+Viscosity of SRM 2885, a Polyethylene of Narrow Molecular Mass Distribution; NISTIR 6454. 
+JCGM 100:2008; Evaluation of Measurement Data − Guide to the Expression of Uncertainty in Measurement 
+(ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at  https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2018);  see 
+also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST 
+Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); 
+available at https://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed May 2018). 
+
+ition  period   
+
+[4]  Verdier, P.H.;  Wagner, H.L.;  The  Characterization  of  Linear  Polyethylene  SRM’s  1482,  1483,  and  1484,  I. 
+Introduction; NBS Special Publication 260–61; or National Bureau of Standards, Journal of Research, Vol. 83, 
+No. 2, pp. 169−171 (1978). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    25 May 2018  (Title  update;  editorial  changes);  24 July 2015  (Change  of  expiration  date;  editorial  changes); 
+29 November 2007 (Update of certification period); 06 April 2001 (original certificate date). 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+24 
+
+SRM 2885 
+
+Page 2 of 2 
+
+

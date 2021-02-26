@@ -1,0 +1,258 @@
+﻿ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 3037 
+ 
+Arsenous Acid (AsIII) Standard Solution 
+ 
+This Standard Reference Material (SRM) is intended for use as a primary calibration standard for the quantitative 
+determination of the arsenic species arsenous acid (AsIII).  This SRM can be used for quality assurance when assigning 
+values  to  in-house  control  materials.    A  unit  of  SRM 3037  consists  of  two  10 mL  sealed  borosilicate  glass  amber 
+ampoules of an acidified aqueous solution prepared gravimetrically to contain a known mass fraction of arsenous acid.  
+The  solution  contains  hydrochloric  acid  at  a  volume  fraction  of  approximately  1 %,  which  is  equivalent  to  a 
+concentration (molarity) of approximately 0.12 mol/L.  Due to digestion of the starting material, arsenic trioxide, with 
+sodium hydroxide, sodium is present in the ampoules at approximately 1000 mg/kg. 
+ 
+
+Certified Mass Fraction Value of AsIII: 
+
+Value  of  AsIII 
+
+ 
+
+1.0442 mg/g  ±  0.0020 mg/g 
+
+ 
+A NIST certified value [1] is a value for which NIST has the highest confidence in its accuracy in that all known or 
+suspected sources of bias have been investigated or taken into account [2].  The expanded uncertainty is calculated as 
+U = kuc, where uc is the combined uncertainty, at the level of one standard deviation, due to material variability and 
+measurement uncertainty following the ISO/JCGM guide [3] and reference 4.  Analyses for value assignment were 
+performed by NIST using gravimetric titrimetry.  The associated uncertainty is expressed at an approximately 95 % 
+level of confidence with a coverage factor of k = 2.086.  The certified value is metrologically traceable to the derived 
+SI unit for mass fraction, expressed as milligrams per gram. 
+ 
+Information Mass Fraction Value:  The information value for the impurity arsenic acid, AsV, is listed in Table 1.  
+This information value may be of interest to the SRM user [2] and is given to provide additional characterization of 
+the material only.  The value should not be used for calibration or to monitor or assess analytical performance.  The 
+information value cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 3037 is valid, within the measurement uncertainty specified, 
+until 30 September 2027, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+icate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by S.A. Rabb of 
+the NIST Chemical Sciences Division. 
+ 
+W.C
+Analytical measurements at NIST were performed by W.C. Davis, K.W. Pratt, and L.L. Yu of the NIST Chemical 
+Sciences Division. 
+ 
+Statistical analysis was provided by N.A. Heckert of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  01 February 2018 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+of 
+
+ 
+
+Page 1 of 3 
+
+  
+
+SRM 3037 
+
+PREPARATIO 
+
+NOTICE TO USERS:  SRM 3037 IS INTENDED FOR RESEARCH USE, NOT FOR HUMAN CONSUMPTION. 
+ 
+NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee the continued or continuous supply 
+of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a primary benchmark for the quality and 
+accuracy  of  the  user’s  in-house  reference  materials  and  working  standards.    As  such,  the  SRM  should  be  used  to 
+validate the more routinely used reference materials in a laboratory.  Comparisons between the SRM and in-house 
+reference materials or working measurement standards should take place at intervals appropriate to the conservation 
+of  the  SRM  and  the  stability  of  relevant  in-house  materials.    For  further  guidance  on  how  this  approach  can  be 
+implemented, contact NIST by email at srms@nist.gov. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage and Use:  The SRM is an acid solution contained in tip-sealed borosilicate glass ampoules with pre-scored 
+stems.  Therefore, all appropriate safety precautions, including use of gloves during handling, should be taken.  Prior 
+to opening, any liquid inside the tip of the ampoule should be drained, the area of the stem where the pre-scored band 
+is located (≈ 5 mm below the encircling metallic band) should be wiped with a clean, damp cloth, and the body of the 
+ampoule wrapped in absorbent material.  To open, hold the ampoule steady while grasping the stem at the metallic 
+band with thumb and forefinger, and then snap off the stem by applying minimal thumb pressure.  The stem should 
+break off easily and cleanly where pre-scored.  Using a metal file to break off the stem is NOT recommended.  Excess 
+liquid or glass from the ampoule should be cleaned off before emptying contents into another container for further 
+processing or storage.  Unopened ampoules should be stored at 21 °C ± 3 °C in an upright position inside the original 
+container supplied by NIST. 
+ 
+SOURCE AND PREPARATION(1) 
+ 
+Source and  Preparation:  High purity arsenic trioxide was purchased from a commercial vendor to produce the 
+SRM.  This material was dissolved at NIST using sodium hydroxide and then stabilized with hydrochloric acid to 
+prevent oxidation of the AsIII to AsV.  Aliquots of the SRM were later dispensed into ampoules. 
+ 
+ANALYSIS 
+ 
+The certification of AsIII was based on the NIST gravimetric titrimetry primary method.  In addition, the impurity 
+arsenic species were measured by ion chromatography-inductively coupled plasma mass spectrometry (IC-ICP-MS) 
+and liquid chromatography (LC) ICP-MS.  
+ 
+Gravimetric Titrimetry method:  Aliquots of 2.8 g of solution from the SRM 3037 ampoules were dispensed using 
+a syringe into a bottle.  A drop of phenolphthalein  was added and, then subsequently, 1 mol/kg NaOH was added 
+dropwise until the endpoint  was reached.  A phosphate solution (10 mL) was used to buffer the solution.  A slight 
+excess of I2 titrant was added to the solution, changing the solution from colorless to light amber.  The excess I2 was 
+back-titrated with dilute As2O3 standard solution to the starch endpoint. 
+ 
+IC-ICP-MS method [5]:  Aliquots of 0.5 g of solution from the SRM 3037 ampoules were diluted with 25 g of DI 
+H2O for the impurity analysis.  Separation of the arsenic species was carried out using a gradient chromatographic 
+method at a flow rate of 1 mL/min with a Dionex IonPac guard column (4 mm x 50 mm) and AS7 (4 mm x 250 mm) 
+analytical column.  The mobile phases were prepared with nitric acid, acetic acid, and sodium acetate.  Calibrants, 
+containing  a  mixture  of  monomethylarsonic  acid (MMA),  dimethylarsinic  acid (DMA), 
+trimethylarsine 
+oxide (TMAO), arsenobetaine (AB), arsenocholine (AC), AsV, and AsIII from commercial vendors, were created to 
+determine the level of As impurities.  The assigned values for all the calibrants are traceable to the derived SI unit for 
+mass fraction. 
+ 
+LC-ICP-MS method [5]:  Aliquots of 0.1 g of solution from the SRM 3037 ampoules were diluted with 100 g of 
+sub-boiling distilled H2O for the impurity analysis.  Separation of the arsenic species was carried out using a gradient 
+chromatographic method at a flow rate of 1 mL/min with a CC 8/4 Nucleosil 100-5 SA guard column (4 mm x 8 mm) 
+and analytical column (4 mm x 250 mm).  The mobile phases were prepared with pyridine and methanol in water.  
+Calibrants, containing a mixture of MMA, DMA, TMAO, AB, AC, AsV, and AsIII from commercial vendors, were 
+created to determine the level of As impurities. The assigned values for all the calibrants are traceable to the derived 
+SI unit for mass fraction. 
+ 
+
+                                                           
+
+identified  in  this  certificate  to  adequately
+(1)Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately 
+specify the experimental procedure.  Such identification does not imply that the instruments, materials, or processes 
+identified are necessarily the best available for the purpose. 
+SRM 3037 
+
+Page 2 of 3 
+
+Table 1.  Information Mass Fraction Value for Arsenic Acid in SRM 3037 
+
+ 
+
+Arsenic acid (AsV)(a,b) 
+
+Mass Fraction 
+(µg/kg) 
+
+171 
+
+ 
+
+ 
+[1] 
+
+(a)  IC-ICP-MS 
+(b) LC-ICP-MS 
+ 
+ 
+
+REFERENCES 
+
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+Publication  811;  U.S.  Government  Printing  Office:  Washington,  DC (2008); 
+at 
+https://www.nist.gov/pml/pubs/ (accessed Feb 2018).  
+
+available 
+
+ 
+[3] 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing Office: Washington, DC (2000); available at  
+https://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2018). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed  Feb 2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+https://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2018). 
+Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[4] 
+
+[5]  Davis, W.C.;  Zeisler, R.;  Sieber, J.R.;  Yu, L.L.;  Methods  for  the  Separation  and  Quantification  of  Arsenic 
+Species  in  SRM  2669  Arsenic  Species  in  Frozen  Human  Urine;  Anal.  Bioanal.  Chem.,  Vol. 396,  
+pp. 3041–3050 (2010). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished 
+fax (301) 948-3730; 
+email srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+telephone (301) 975-2200; 
+
+SRM  Program: 
+
+contacting 
+
+the 
+
+by 
+
+ 
+
+SRM 3037 
+
+Page 3 of 3 
+
+

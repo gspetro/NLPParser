@@ -1,0 +1,1312 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 3274 
+
+ 
+
+ 
+Botanical Oils Containing Omega-3 and Omega-6 Fatty Acids 
+
+ 
+w
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of fatty acids in botanical oils and similar matrices.  This SRM can also be used for quality assurance 
+when assigning values to in-house reference materials.  A unit of SRM 3274 consists of a total of four ampoules, one 
+each  of  four  seed  oils:    (3274-1  Borage  [Borago  officinalis],  3274-2  Evening  Primrose  [Oenothera  biennis], 
+3274-3 Flax [Linium usitatissimum], and 3274-4 Perilla [Perilla frutescens]).  Each ampoule contains approximately 
+1.2 mL of oil under argon. 
+ 
+Certified Mass Fraction Values:  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  The certified 
+mass fraction values of selected fatty acids are provided in bold typeface in Table 1.  Values were derived from the 
+combination of results provided by two or three analytical methods employed at NIST.  The certified values in this 
+material  are  the  equally  weighted  means  of  the  individual  sets  of  data;  the  associated  uncertainties  are  expanded 
+uncertainties at the 95 % level of confidence [2,3].  Values are reported on an “as-received” basis in mass fraction units [4]. 
+ 
+Reference Mass Fraction Values:  Reference values are noncertified values that are the best estimate of the true 
+values based on available data; however, the values do not meet the NIST criteria for certification and are provided 
+with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all  sources  of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [1].  Reference 
+mass fraction values for additional fatty acids are provided in normal typeface in Table 1. 
+ 
+Expiration of Certification:  The certification of SRM 3274 is valid, within the measurement uncertainty specified, 
+in  accordance  with  instructions  given  in  this 
+until  28  February  2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+ataminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.C. Sander, 
+K.E. Sharpless, and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements at NIST were performed by M.M. Schantz formerly of NIST. 
+ 
+Acquisition and preparation of the material was coordinated by K.E. Sharpless.  Material preparation prior to 
+ampouling was performed by M.C. Tims and R.J. Case of the NIST Chemical Sciences Division. 
+ 
+The development of SRM 3274 was a collaboration between NIST and the National Institutes of Health (NIH), Office 
+of Dietary Supplements (ODS).  Technical consultation was provided by J. Betz of NIH-ODS. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved with the certification and issuance of this SRM were coordinated through the NIST Office 
+of Reference Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  25 June 2015 
+Certificate Revision History on Page 5 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+“hemical  Sciences
+
+Page 1 of 7 
+
+  
+
+SRM 3274 
+
+yroximately  1.2 
+
+STORAGE  AND 
+
+NOTICE AND WARNING TO USERS 
+ 
+WARNING:  FOR LABORATORY USE ONLY; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The material should be stored under refrigeration (0 °C to 4 °C), in an unopened ampoule, until required for 
+use. 
+ 
+Use:  Prior to removal of a test portion for analysis, the contents of an ampoule of material should be allowed to warm 
+to room temperature and mixed thoroughly.  (Solids that have precipitated during refrigeration should redissolve when 
+the material reaches room temperature.)  Test portions used for fatty acid analyses described below were 0.5 g.  For 
+certified values to be valid, test portions of at least 0.5 g should be used. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Material Acquisition and Preparation:  Borage oil, evening primrose oil, flaxseed oil, and perilla oil from single 
+  Individual  oils  were  combined  with 
+lots  were  obtained  from  Arista  Industries,  Inc.,  (Wilton,  CT). 
+tert-butylhydroquinone (TBHQ), an antioxidant, to yield a final TBHQ concentration of approximately 190 mg/L.  To 
+facilitate dissolution of the TBHQ, the mixture was stirred overnight, at room temperature, using a magnetic stir bar.  
+SRM 3274 was ampouled under argon with each ampoule containing approximately 1.2 mL of oil. 
+ 
+Analytical Approach for Determination of Fatty Acids:  Value assignment of the concentrations of the fatty acids 
+in SRM 3274 was based on the combination of measurements from three different analytical methods at NIST:  a 
+combination  of  two  independent  sample  preparation  methods  and  two  gas  chromatography  (GC)  methods  with 
+different detection (i.e., flame ionization detection [FID] and mass spectrometry [MS] as described below). 
+ 
+NIST ANALYSES FOR FATTY ACIDS 
+ 
+Fatty acids were measured by using combinations of two sample preparation methods and two GC methods with FID 
+or MS detection.  Six independently prepared calibrants were used for each of the methods.  Calibrants were prepared 
+gravimetrically, at levels intended to approximate the levels of the fatty acids in the SRM.  A single internal standard 
+solution containing stearic-d35 acid and myristic-d27 acid was used for the calibrants and samples.  Calculations are 
+based on average response factors for the calibrants. 
+ 
+Sample Preparation Method 1:  Two 0.5 g test portions from each of ten ampoules were combined with the internal 
+standard  solution.    Approximately  0.5  mL  of  MethPrep  II  (0.1  mol/L  methanolic  [m-trifluoromethylphenyl]-
+trimethylammonium hydroxide, Alltech; Deerfield, IL) was added, samples were mixed for 1 min, and allowed to 
+stand for at least 30 min prior to addition of toluene and analysis by using GC-FID. 
+ 
+Sample Preparation Method 2:  Two 0.5 g test portions from one ampoule and single 0.5 g test portions from each 
+of another nine ampoules were combined with the internal standard.  A two-step process involving methanolic sodium 
+hydroxide and boron trifluoride was used to convert the fatty acids to their methyl esters.  Methyl esters were extracted 
+into hexane three times, and the combined hexane portions were concentrated to approximately 1 mL.  Following the 
+addition of toluene, samples were analyzed by using GC/MS and GC-FID. 
+ 
+GC  with  Flame  Ionization  Detection:    GC-FID  was  performed  using  a  0.25  mm  ×  100  m  biscyanopropyl 
+polysiloxane fused silica capillary column.  A typical separation is provided in Appendix A. 
+ 
+GC  with  Mass  Spectrometric  Detection:    GC/MS  was  performed  using  a  0.25  mm  ×  60  m  cyanopropyl  and 
+phenylpolysiloxane fused silica capillary column.  The MS was operated in the scan mode (70 amu to 400 amu). 
+ 
+Homogeneity Assessment:   The  homogeneity  of  fatty  acids  was  assessed  at  NIST  by  using  the  GC-FID  method 
+ince  did  not  show  inhomogeneity  for  a  0.5 
+described above.  An analysis of variance did not show inhomogeneity for a 0.5 g sample. 
+ 
+ilable  for  that  analyte.  Each 
+Value Assignment:  Each value is the equally weighted average of the method means available for that analyte.  Each 
+method mean is the mean of the measurements for that analyte.  Certified values are means of either two or three 
+method means.  A reference value may be based on one to three method means.  The uncertainty of each value is 
+estimated following the method in the ISO/JCGM Guide [2]. 
+
+provided  in  Appen 
+
+                                                           
+
+identified  in  this  certificate  to  adequately  specify  the
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3274 
+
+Page 2 of 7 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Octanoic Acid (C8:0) 
+(Caprylic Acid) 
+ 
+
+Decanoic Acid (C10:0) 
+(Capric Acid) 
+ 
+
+Dodecanoic Acid (C12:0) 
+(Lauric Acid) 
+ 
+
+Tetradecanoic Acid (C14:0) 
+(Myristic Acid) 
+ 
+
+Pentadecanoic Acid (C15:0) 
+
+Hexadecanoic Acid (C16:0) 
+(Palmitic Acid) 
+ 
+
+(Z)-9-Hexadecenoic Acid (C16:1 n-7) 
+ 
+
+(Palmitoleic Acid) 
+
+Heptadecanoic Acid (C17:0) 
+(Margaric Acid) 
+ 
+
+Octadecanoic Acid (C18:0) 
+ 
+
+(Stearic Acid) 
+
+(Z)-9-Octadecenoic Acid (C18:1 n-9) 
+ 
+
+(Oleic Acid) 
+
+(E)-9-Octadecenoic Acid (t-C18:1 n-9) 
+ 
+
+(Elaidic Acid) 
+
+(Z)-11-Octadecenoic Acid (C18:1 n-7) 
+ 
+
+(Vaccenic Acid) 
+
+Acid  (C18:2  n-6) 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n-6) 
+ 
+
+(Linoleic Acid) 
+
+-3) 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3 n-3) 
+ 
+
+(α-Linolenic Acid) 
+
+(Z,Z,Z)-6,9,12-Octadecatrienoic Acid (C18:3 n-6) 
+ 
+
+(γ-Linolenic Acid) 
+
+ 
+
+SRM 3274  
+
+Table 1.  Certified (in Bold) and Reference (in Normal Typeface) Mass Fraction Values for Selected Fatty Acids (as Triglycerides) in SRM 3274(a) 
+Mass  Fraction 
+
+ 
+Mass Fraction 
+(mg/g) 
+
+ 
+
+3274-1 
+
+3274-2 
+
+3274-3 
+
+3274-4 
+
+Borage(b) 
+
+Evening Primrose(c)   (k) 
+
+Flax(d) 
+
+(k) 
+
+Perilla(e) 
+
+(k) 
+
+ 
+
+ 
+
+ 
+
+0.053 ±  0.010 
+ 
+
+   
+
+ 
+
+(3.18) 
+
+(k) 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.021  ±  0.002 
+
+(2.57) 
+
+1)
+0.020  ±  0.011  (12.71) 
+
+0.016  ±  0.001  (2.26) 
+
+0.62  ±  0.11 
+
+(2.01) 
+
+0.363 ±  0.030  (2.23) 
+
+0.271  ±  0.008  (2.20) 
+
+0.206  ±  0.025 
+
+(2.03) 
+
+0.074 ±  0.008  (2.12) 
+
+0.099 ±  0.011  (2.57) 
+
+0.151  ±  0.016  (2.13) 
+
+0.061  ±  0.009 
+
+(2.04) 
+
+110 
+
+±  12 
+
+(2.13) 
+
+58.2  ±  6.1 
+
+(2.04) 
+
+44.8 
+
+±  5.0 
+
+(2.06) 
+
+56.4 
+
+±  5.5 
+
+(2.07) 
+
+1.77  ±  0.14 
+
+(2.45) 
+
+0.402 ±  0.043  (2.16) 
+
+0.383  ±  0.031  (2.36) 
+
+0.776  ±  0.081 
+
+(2.16) 
+
+0.500 ±  0.086  (2.00) 
+
+0.188 ±  0.008  (2.36) 
+
+0.212  ±  0.011  (2.26) 
+
+0.159  ±  0.040 
+
+(2.00) 
+
+33.1  ±  4.0 
+
+(2.03) 
+
+18.30  ±  0.838  (2.36) 
+
+30.4 
+
+±  2.4 
+
+(2.31) 
+
+20.9 
+
+±  1.1 
+
+(2.57)
+
+148.7  ±  8.7 
+
+(2.09) 
+
+68.9  ±  3.7 
+
+(2.78) 
+
+165.7 
+
+±  6.2 
+
+(2.45) 
+
+166.8 
+
+±  7.8 
+
+(2.36) 
+
+0.117 ±  0.020  (2.14) 
+
+ 
+
+5.76  ±  0.18 
+
+(2.36) 
+
+5.95  ±  0.37 
+
+(2.18) 
+
+5.61  ±  0.16 
+
+(2.26) 
+
+7.89  ±  0.22 
+
+(2.23) 
+
+374 
+
+±  35 
+
+(2.11) 
+
+742 
+
+±  24 
+
+(2.57) 
+
+171 
+
+±  11 
+
+(2.23) 
+
+160 
+
+±  14 
+
+(2.02) 
+
+1.97  ±  0.11 
+
+(2.57) 
+
+1.60  ±  0.12 
+
+(2.57) 
+
+579 
+
+±  30 
+
+(2.31) 
+
+629 
+
+±  28 
+
+(2.78) 
+
+251 
+
+±  24 
+
+(2.06) 
+
+99.9  ±  4.1 
+
+(2.31) 
+
+1.55  ±  0.25 
+
+(2.16) 
+
+2.08  ±  0.48 
+
+(2.09) 
+
+Page 3 of 7 
+
+ 
+Eicosanoic Acid (C20:0) 
+(Arachidic Acid) 
+ 
+
+(Z)-11-Eicosenoic Acid (C20:1 n-9) 
+ 
+
+(Gondoic Acid) 
+
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic Acid (C20:4 n-6) 
+ 
+
+(Arachidonic Acid) 
+
+Docosanoic Acid (C22:0) 
+(Behenic Acid) 
+ 
+
+Tetracosanoic Acid (C24:0) 
+(Lignoceric Acid) 
+ 
+
+(Z)-15-Tetracosenoic Acid (C24:1) 
+ 
+
+(Nervonic Acid) 
+
+Table 1 (continued).  Certified (in Bold) and Reference (in Normal Typeface) Mass Fraction Values for Selected Fatty Acids (as Triglycerides) in SRM 3274(a) 
+
+Fatty  Acids  (as  Triglycerides)  in  SRM 
+
+ 
+Mass Fraction 
+(mg/g) 
+
+ 
+
+3274-1 
+
+3274-2 
+
+3274-3 
+
+3274-4 
+
+Borage(b) 
+
+(k) 
+
+Evening Primrose(c)   (k) 
+
+Flax(d) 
+
+(k) 
+
+Perilla(e)  
+
+(k) 
+
+2.13  ±  0.46 
+
+(2.00) 
+
+2.71  ±  0.37 
+
+(2.18) 
+
+1.04  ±  0.15 
+
+(2.02) 
+
+1.21  ±  0.26 
+
+(2.00) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.84  ±  0.12 
+
+(2.36) 
+
+0.022 ±  0.002  (2.78) 
+
+0.633  ±  0.029  (2.23) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Heneicosanoic Acid (C21:0) 
+
+2.36  ±  0.32 
+
+(2.00) 
+
+0.132 ±  0.029  (2.31) 
+
+ 
+
+ 
+
+0.083  ±  0.004 
+
+(2.09) 
+
+1.509 ±  0.070  (2.26) 
+
+0.91  ±  0.25 
+
+(2.01) 
+
+0.62  ±  0.13 
+
+(2.00) 
+
+0.118  ±  0.004 
+
+(2.09) 
+
+0.334 ±  0.074  (2.00) 
+
+0.369 ±  0.060  (2.05) 
+
+0.308  ±  0.059  (2.01) 
+
+0.096  ±  0.022 
+
+(2.00) 
+
+7.80  ±  0.61 
+
+(2.78) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.084  ±  0.003 
+
+(2.11) 
+
+ 
+ 
+ty  in  each  value,  calculated  according  to  the  method  described 
+(a)  Each certified and reference mass fraction value is an equally weighted mean of the results provided by NIST.  The uncertainty in each value, calculated according to the method described 
+in the ISO/JCGM Guide [2,3], is expressed as an expanded uncertainty, U.  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one standard 
+deviation, the combined effect of between-laboratory and within-laboratory components of uncertainty.  The coverage factor (k) is determined from the Student's t-distribution corresponding 
+to the appropriate associated degrees of freedom and approximately 95 % confidence for each analyte.  All certified and reference values are based on results from three methods (GC-FID 
+using sample preparation methods 1 and 2 [GC-FID1 and GC-FID2, respectively] and GC/MS) except as indicated below.  The measurands for the certified values are mass fractions 
+as  determined  by  the  methods  indicated  above.  The  values  are 
+reported in bold in Table 1; the measurands for the reference values are the mass fractions in Table 1, normal font, and are as determined by the methods indicated above.  The values are 
+metrologically traceable to the SI unit of mass.  
+
+(b)  For  SRM  3274-1  Borage  Oil,  heneicosanoic  acid  was  determined  by  using  GC-FID1  and  GC-FID2;  vaccenic  acid  was  determined  by  using  GC-FID2  and  GC/MS;  behenic  acid  was 
+
+determined by using GC-FID1 and GC/MS; and α-linolenic and elaidic acid were determined by using GC-FID1. 
+
+(c)  For SRM 3274-2 Evening Primrose Oil, vaccenic acid and gondoic acid were determined by using GC-FID1 and GC/MS; caprylic acid and margaric acid were determined by using GC/MS; 
+
+α-linolenic acid was determined using GC-FID1; and arachidonic acid was determined by using GC-FID2. 
+
+'y  using  GC 
+
+(d)  For SRM 3274-3 Flax Oil, arachidonic acid was determined by using GC-FID1 and GC-FID2; lauric acid was determined by using GC-FID2; and margaric acid and vaccenic acid were 
+-  acid  were
+
+determined by using GC/MS. 
+
+(e)  For SRM 3274-4 Perilla Oil, margaric acid was determined by using GC-FID2 and GC/MS; nervonic acid was determined by using GC-FID1 and GC-FID2; heneicosanoic acid and behenic 
+
+acid were determined by using GC-FID1; caprylic acid and capric acid were determined by using GC-FID2; and vaccenic acid was determined by using GC/MS. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 3274  
+
+Page 4 of 7 
+
+REFERENCES 
+ 
+[1]  May, W.; Parris, R.; Beck II, C; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government  Printing  Office:  
+Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed June 2015). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2015); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed June 2015). 
+
+[2] 
+
+[3]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[4]  Thompson,  A.;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+  available  at 
+
+Publication  811,  U.S.  Government  Printing  Office,  Washington,  DC 
+http://www.physics.nist.gov/Pubs (accessed June 2015). 
+
+(2008); 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  25 June 2015 (Change expiration date; editorial changes); 02 January 2013 (Reference mass fraction values updated 
+for α-linolenic acid in SRM 3274-1 and SRM 3274-2; k values added to Table 1; editorial changes); 27 January 2009 (Original certificate issue 
+   
+date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+changes) 
+
+SRM 3274 
+
+Page 5 of 7 
+
+APPENDIX A 
+
+ 
+Typical chromatogram from the analysis of SRM 3274 using GC-FID on an SP 2560 (Supelco, Bellefonte, PA).  The 
+column was held isothermally at 100 ºC for 4 min and then temperature programmed at 2.5 ºC per min to 240 ºC for 
+50 min.  The injection port and FID were maintained at 240 ºC.  All injections were done in the split mode (1 µL) with 
+helium as a carrier gas at a constant flow rate of 1 mL/min. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i
+
+d
+c
+A
+ 
+c
+i
+t
+i
+
+l
+
+m
+a
+P
+
+i
+
+d
+c
+A
+ 
+c
+e
+O
+
+l
+
+i
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+n
+e
+o
+n
+L
+-
+α
+
+i
+
+l
+
+  
+
+  
+
+i
+
+d
+c
+A
+ 
+c
+i
+r
+a
+e
+t
+S
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+e
+o
+n
+L
+
+l
+
+i
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+n
+e
+o
+n
+L
+-
+γ
+
+l
+
+i
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+e
+o
+n
+L
+
+i
+
+l
+
+i
+
+d
+c
+A
+ 
+c
+i
+t
+i
+
+l
+
+m
+a
+P
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+n
+e
+o
+n
+L
+-
+γ
+
+i
+
+l
+
+  
+
+i
+
+d
+c
+A
+ 
+c
+e
+O
+
+i
+
+l
+
+i
+
+d
+c
+A
+ 
+c
+i
+r
+a
+e
+t
+S
+
+  
+
+  
+
+{Ah  hy 
+
+3274-1  Borage 
+
+  
+
+3274-2  Evening  Primrose 
+      
+
+| 
+
+| 
+
+ 
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time (min)
+
+SRM 3274 
+
+Page 6 of 7 
+
+APPENDIX A, continued. 
+
+i
+
+d
+c
+A
+ 
+c
+e
+o
+n
+L
+
+i
+
+l
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+e
+O
+
+i
+
+l
+
+i
+
+d
+c
+A
+ 
+c
+i
+t
+i
+
+l
+
+m
+a
+P
+
+i
+
+d
+c
+A
+ 
+c
+i
+r
+a
+e
+t
+S
+
+i
+
+i
+
+d
+c
+A
+ 
+c
+n
+e
+o
+n
+L
+-
+α
+
+i
+
+l
+
+  
+
+i
+
+d
+c
+A
+ 
+c
+n
+e
+o
+n
+L
+-
+α
+
+  
+
+3274-3  Flax 
+
+  
+
+i
+
+l
+
+i
+
+    
+
+3274-4  Perilla 
+ 
+
+d
+c
+A
+ 
+c
+e
+o
+n
+L
+
+d
+c
+A
+ 
+c
+i
+r
+a
+e
+t
+S
+
+d
+c
+A
+ 
+c
+e
+O
+
+d
+c
+A
+ 
+c
+i
+t
+i
+
+m
+a
+P
+
+  
+
+i
+
+i
+
+l
+
+i
+
+l
+
+i
+
+i
+
+i
+
+l
+
+i
+
+  
+
+pot 
+
+20
+
+t 
+
+40
+
+I 
+
+60
+
+Time (min)
+
+Po 
+
+80
+
+TT 
+
+100
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0
+
+ 
+ 
+
+SRM 3274 
+
+Page 7 of 7 
+
+

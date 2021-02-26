@@ -1,0 +1,115 @@
+﻿Uus.  Department  of  Commerce 
+Juanita  M.  Kreps 
+Secretary 
+
+National  Bureau  of  Standards 
+Ernest  Anpbler,  Acting  Phrector 
+
+National  ®ureau  of  Standards 
+Certificate 
+Standard  Reference  Material  624 
+
+Lead-Silica  Glass  for  dc  Volume  Resistivity 
+
+M.  J.  Cellarosi 
+
+This  Standard  Reference  Material  is  in  the  form  of  a  block  of  fine  annealed  lead-silica  glass  approximately  5cm 
+square  by  2.5  cm  thick  (about  0.2  kg)  from  which  several  specimens  can  be  cut. 
+It  is  certified  and  designed  to 
+check  test  methods  and  to  calibrate  equipment  for  determination  of  the  dc  volume  resistivity  of  glass  in  accord- 
+ance  with  ASTM  C  657-72(1). 
+
+. 
+
+Using  vacuum-evaporated  gold  electrodes  and  a  dc  voltage  of  100  V,  the  volume  resistivity  is: 
+
+Temperature 
+
+Logio  Electrical  Volume  Resistivity 
+
+  
+
+250  °C 
+300 
+350 
+
+11.07  +  0.03  O-cm 
+9.88  + 
+8.88  + 
+
+.04 
+.05 
+
+The  indicated  uncertainties  are  the  95  percent  tolerance  limits  for  coverage  of  at  least  95  percent  of  these 
+specimens  (see  NBS  Mono  148,  pp.  13-14).  In  brief,  if  all  specimens  were  measured,  95  percent  of  the  measured 
+values  would  fall  within  the  indicated  tolerance  limits  95  percent  of  the  time.  Included  in  this  uncertainty  are 
+possible  specimen  inhomogeneities,  preparation  of  specimens,  and  measurement  errors. 
+
+The  dependence  of  the  resistivity,  p,  on  temperature,  t,  within  the  range  200  °C  to  375  °C  can  be  expressed  as 
+
+7139 
+logiop  =  t+  273.15  —  2.577. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard 
+Reference  Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  K.  Kirby. 
+
+Washington,  D.C.  20234 
+October  25,  1977 
+
+J.  Paul  Cali,  Chief 
+
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+SUPPLEMENTARY  INFORMATION 
+
+  
+
+Direction  and  coordination  of  the  ASTM  interlaboratory  comparisons  were  given  by  Henry  E.  Hagy,  Chair- 
+man,  ASTM  Subcommittee  C-14.04  on  Physical  and  Mechanical  Properties  of  Glass.  The  laboratories  that 
+cooperated  in  these  measurements  are: 
+
+Corning  Glass  Works,  Corning,  New  York 
+General  Electric  Co.,  Richmond  Hts.,  Ohio 
+Motorola  Inc.,  Phoenix,  Arizona 
+National  Bureau  of  Standards,  Washington,  D.C. 
+Ontario  Research  Foundation,  Mississauga,  Ontario,  Canada 
+Owens-Illinois,  Inc.,  Toledo,  Ohio 
+PPG  Industries,  Creighton,  Pennsylvania 
+Rensselaer  Polytechnic  Institute,  Troy,  New  York 
+
+Statistical  analysis  of  the  data  leading  to  certification  was  performed  by  H. 
+Standards. 
+
+H.  Ku,  National  Bureau  of 
+
+The  nominal  composition  of  this  SRM  is  offered  for  information  only: 
+
+46.0  wt.  % 
+
+45.3 
+5.6 
+
+2.5 
+
+0.6 
+
+Si02 
+
+PbO 
+K20 
+
+Na20 
+
+R20; 
+
+References: 
+
+Part  17.
+
+This  glass  was  annealed  at  440  °C  and  cooled  at  a  rate  of  about  |  °C/hour. 
+
+(1)  ASTM  Method  of  Test,  C657-72,  for  D-C  Volume  Resistivity  of  Glass,  1977  Book  of  ASTM  Standards, 
+
+

@@ -1,0 +1,118 @@
+﻿Rite  ast 
+U.S.  Departhigiiof  Commerce 
+
+Malco 
+
+olne  Baldrige 
+pecretary/ 
+    i 
+ap 
+  
+of  Standards 
+Bureaa 
+‘Ambler,  Di 
+Director 
+
+mbler, 
+Sct 
+
+Migs  oe 
+
+National 
+Ernest 
+
+National  Bureau  of  Standards 
+
+Goertificate 
+
+Standard  Reference  Material  1965 
+
+Microsphere  Slide  (10-um  Polystyrene  Spheres) 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  as  an  optical  microscopy  measurement  standard  and  teaching 
+a  microscope  slide  with  two  different  groupings  of  10-ym  “‘space  beads’’  permanently  deposited  on  the 
+tool.  The  SRM  is 
+surface  and  sealed  in  an  air  chamber  (Figure  1).  Each  slide  contains  a  few  thousand  microspheres.  The  microspheres  are 
+from  SRM  1960,  Nominal  10-sm  Diameter  Polystyrene  Spheres,  the  first  commercially  available  made-in-space  product. 
+The  microspheres  in  SRM  1965  are  deposited  in  two  different  groupings:  hexagonally  ordered  arrays  and  unordered  clusters. 
+The  number  average  diameter  of  the  particles  in  both  groupings  were  measured  by  Center  Distance  Finding  (CDF),  an  optical 
+technique  related  to  array  sizing  [1].  The  certified  values  are: 
+
+Hexagonal  array 
+Unordered  clusters 
+
+_Number  Average  Diameter,  wm  _
+
+_
+
+ 
+
+  
+
+9.94 
+9.89 
+
+Uncertainty,  pm 
+
++0.04 
++0.04 
+
+The  uncertainty  consists  of  both  random  and  systematic  errors,  and  includes  sample-to-sample  variability. 
+The  number  average  diameter  of  the  particles  in  the  unordered  clusters  is  the  same  as  that  of  the  microspheres  in  SRM  1960, 
+from  which  the  slides  were  prepared.  The  number  average  diameter  of  the  spheres  as  measured  in  the  hexagonal  arrays  is 
+slightly  greater  due  to  a  combination  of  three  effects:  (1)  the  measured  mean  diameter  of  spheres  in  hexagonal  arrays  is  larger 
+than  the  actual  mean  diameter  by  0.04  ym  due  to  the  Kubitschek  Effect  (See  SP  260-107  for  detailed  discussion);  (2)  the 
+spheres  are  slightly  swollen,  by  0.03  pm,  due  to  the  processing  required  to  produce  the  hexagonally-ordered  arrays,  and  (3) 
+the  spheres  are  flattened  at  the  contact  areas  by  0.02  ym. 
+The  size  distribution  of  the  polystyrene  spheres  from  which  SRM  1965  was  prepared,  as  determined  by  CDF  [1],  is  a  narrow 
+Gaussian  with  a  standard  deviation  of  0.9%  (excluding  particles  with  diameters  not  on  the  main  peak).  The  number  of  under- 
+sized  particles  is  negligible  and  the  number  of  oversized  particles  is  less  than  1%. 
+The  microsphere  slide  is  expected  to  have  an  indefinite  shelf  life  as  long  as  the  sealed  cavity  is  not  disturbed  and  the  slide 
+is  handled  with  normal  precautions  and  care. 
+Recommended  Use:  SRM  1965  can  be  used  for  a  number  of  calibrations  and  exercises  in  micrometrology.  The  hexagonal 
+arrays  can  be  used  as  a  two-dimensional  microlength  standard  to  replace  calibrated  ‘‘stage’’  micrometers.  The  hexagonal 
+array  can  also  be  used  for  array  sizing,  diffraction  experiments  in  crystallography,  and  for  calibrating  microscope  image 
+distortion  and  magnification.  These  applications,  and  a  number  of  other  exercises  and  techniques  for  optical  micrometrology 
+are  described  in  detail  in  NBS  Special  Publication  SP  260-107,  which  is  supplied  with  the  SRM. 
+
+. 
+
+January  15,  1987 
+Gaithersburg,  MD  20899 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(Over)
+
+  
+
+The  technology  necessary  to  produce  these  latex  particles  was  developed  by  the  Lehigh  University  and  the  National 
+Aeronautics  and  Space  Administration  (NASA)  during  five  shuttle  missions  in  1982  and  1983.  The  10-um  particles  in  this 
+SRM  were  manufactured  in  space  aboard  the  Space  Shuttle  CHALLENGER  during  the  NASA  STS-6  mission,  4-9  April 
+1983.  The  particles  were  provided  by  NASA  for  certification  by  NBS  as  a  Standard  Reference  Material  to  be  made  available 
+to  the  scientific  and  technical  communities. 
+
+The  technical  direction,  production  and  physical  measurements  leading  to  the  preparation  and  certification  were  provided 
+by  A.W.  Hartman  of  the  Precision  Engineering  Division. 
+
+Manufacture  of  the  particles  was  carried  out  under  the  direction  of  J.W.  Vanderhoff  of  the  Lehigh  University  and 
+D.M.  Kornfeld  of  the  National  Aeronautics  and  Space  Administration. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.L.  McKenzie. 
+
+[1]  Hartman,  A.W.,  Powder  Technol,  42  (1985)  269. 
+
+SRM  1965,  Microsphere  slide 
+10  pm  Polystyrene  Spheres 
+
+Hexagonally 
+Ordered  Array 
+
+Unordered 
+Ciusters
+
+  
+
+

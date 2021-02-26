@@ -1,0 +1,1704 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1941b 
+
+ 
+
+Organics in Marine Sediment 
+
+ 
+This Standard Reference Material (SRM) is marine sediment collected at the mouth of the Baltimore (MD) Harbor.  
+SRM 1941b is intended for use in evaluating analytical methods for the determination of selected polycyclic aromatic 
+hydrocarbons (PAHs), polychlorinated biphenyl (PCB) congeners, and chlorinated pesticides in marine sediment and 
+similar matrices.  Information values are also provided for total organic carbon (TOC), total carbon, hydrogen, and 
+nitrogen.  All of the constituents for which certified, reference, and information values are provided in SRM 1941b 
+were naturally present in the sediment before processing.  A unit of SRM 1941b consists of a bottle containing 50 g 
+of radiation-sterilized, freeze-dried sediment. 
+ 
+chlorinated 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  for  PAHs,  PCB  congeners,  and  chlorinated 
+pesticides are provided in Table 1 through Table 3.  The certified values for the PAHs, PCB congeners, and chlorinated 
+pesticides are based on the agreement of results obtained at NIST from two or more chemically independent analytical 
+techniques along with results from an interlaboratory comparison study [1].  A NIST certified value is a value for 
+which  NIST  has  the  highest  confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been 
+investigated or taken into account [1]. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  for  additional  PAHs  (some  in  combination), 
+additional PCB congeners, and additional chlorinated pesticides are provided in Table 4 through Table 7.  Reference 
+values for alkylated PAH groups are provided in Table 8 and for selected hopanes and steranes in Table 9.  A reference 
+value  for total organic carbon is provided in Table 10.  Reference  values are noncertified values that are  the best 
+estimate of the true value; however, the values do not meet the NIST criteria for certification and are provided with 
+associated uncertainties that may reflect only measurement precision, may not include all sources of uncertainty, or 
+may reflect a lack of sufficient statistical agreement among multiple analytical methods [1]. 
+ 
+Information Mass Fraction Values:  Information mass fraction values are provided in Table 11 for carbon, hydrogen, 
+and nitrogen.  An information value is considered to be a value that will be of use to the SRM user, but insufficient 
+information is available to assess the uncertainty associated with the value [1].  Information values cannot be used to 
+establish metrological traceability. 
+ 
+fied,
+Expiration of Certification:  The certification of SRM 1941b is valid, within the measurement uncertainty specified, 
+until 01 October 2020, provided the SRM is  handled and  stored in accordance  with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  This certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this material was under the leadership of 
+M.M. Schantz and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements for the certification of SRM 1941b were performed at NIST by J.R. Kucklick, B.J. Porter, 
+D.L. Poster, M.M. Schantz, P. Schubert, S. Tutschku, and L.L. Yu of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  16 January 2015 
+Certificate Revision History on Page 13
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 1941b 
+
+Page 1 of 15 
+
+ 
+ 
+
+Measurements  for  TOC  were  provided  by  a  commercial  laboratory  and  T.L.  Wade  of  the  Geochemical  and 
+Environmental Research Group, Texas A&M University (College Station, TX).  The carbon, hydrogen, and nitrogen 
+data  were  provided  by  a  commercial  laboratory.    Results  for  the  PAHs,  PCBs,  and  chlorinated  pesticides  from 
+38 laboratories (see Appendix A) that participated in an interlaboratory comparison exercise coordinated by NIST 
+were used.  Results for the alkylated PAH groups, hopanes, and steranes from 33 laboratories (see Appendix B) that 
+participated in another interlaboratory comparison exercise coordinated by NIST were also used. 
+ 
+Office  of 
+Collection and preparation of SRM 1941b were performed by M.P. Cronise and C.N. Fales of the NIST Office of 
+Reference  Materials  and  B.J.  Porter  and  M.M.  Schantz  of  the  NIST  Chemical  Sciences  Division.    The  sediment 
+material  was  collected  with  the  assistance  of  G.G.  Lauenstein,  J.  Collier,  and  J.  Lewis  (National  Oceanic  and 
+Atmospheric Administration, Silver Spring, MD). 
+ 
+Consultation on the statistical design of the experimental work and evaluation of the data were provided by S.D. Leigh 
+and J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material is naturally occurring marine sediment from an urban area and may contain constituents of 
+unknown toxicities; therefore, caution and care should be exercised during its handling and use. 
+ 
+Storage:    SRM  1941b  must  be  stored  in  its  original  bottle  at  temperatures  less  than  30  °C  and  away  from  direct 
+sunlight. 
+ 
+Use:  Prior to removal of subsamples for analysis, the contents of the bottle should be mixed.  The mass fractions of 
+constituents in SRM 1941b are reported on a dry-mass basis.  The SRM, as received, contains a  mass  fraction of 
+approximately 2.4 %  moisture (see “Conversion  to Dry-Mass Basis”).  The sediment sample should be dried to a 
+constant  mass before  weighing for analysis; or a separate subsample of the sediment should be removed from the 
+bottle at the time of analysis  and dried to determine the  mass  fraction on a dry-mass basis.  If the constituents of 
+interest are volatile, then the moisture must be determined with a separate subsample. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample Collection and Preparation:  The sediment used to prepare this SRM was collected from the Chesapeake 
+Bay at the mouth of the Baltimore (MD) Harbor near the Francis Scott Key Bridge (39o12.3’N and 76o31.4’W).  This 
+location is very near the site where SRM 1941 and SRM 1941a were collected.  The sediment was collected using a 
+Kynar-coated modified Van Veen-type grab sampler.  A total of approximately 3300 kg of wet sediment was collected 
+from the site.  The sediment was freeze-dried, sieved at 150 µm (100 % passing), homogenized in a cone blender, 
+radiation  sterilized  (60Co),  and  then  packaged  in  screw-capped  amber  glass  bottles  each  containing  approximately 
+50 g. 
+ 
+Conversion to Dry-Mass Basis:  The results for the constituents in SRM 1941b are reported on a dry-mass basis; 
+however,  the  material  “as  received”  contains  residual  moisture.    The  amount  of  moisture  in  SRM  1941b  was 
+determined by measuring the mass loss after freeze-drying subsamples of 1.1 g to 1.3 g for four days at 1 Pa with a  
+–10 °C shelf temperature and a –50 °C condenser temperature.  The moisture content in SRM 1941b at the time of the 
+certification analyses was 2.39 % ± 0.08 % (95 % confidence level).  Analytical results for the organic constituents 
+were determined on an as-received basis and then converted to a dry-mass basis by dividing by the conversion factor 
+of 0.9761 (gram dry mass per gram as-received mass). 
+ 
+Polycyclic  Aromatic  Hydrocarbons:    The  general  approach  used  for  the  value  assignment  of  the  PAHs  in 
+SRM 1941b was similar to that reported in detail elsewhere [2].  The approach consisted of combining results from 
+analyses using various combinations of different extraction techniques and solvents, clean-up/isolation procedures, 
+and chromatographic separation and detection techniques:  Soxhlet extraction and pressurized-fluid extraction (PFE) 
+using dichloromethane (DCM) or a hexane/acetone mixture, cleanup of the extracts using solid-phase extraction (SPE) 
+or normal-phase liquid chromatography (LC), followed by analysis using the following techniques:  (1) reversed-phase 
+liquid chromatography with fluorescence detection (LC-FL) analysis of the total PAH fraction, (2) reversed-phase 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1941b 
+
+Page 2 of 15 
+
+LC-FL  analysis  of  isomeric  PAH  fractions  isolated  by  normal-phase  LC  (i.e.,  multidimensional  LC),  (3)  gas 
+chromatography/mass  spectrometry  (GC/MS)  analysis  of  the  PAH  fraction  on  three  stationary  phases  of  different 
+selectivity,  i.e.,  a  5  %  (all  column  compositions  are  given  as  mole  fractions  in  %)  phenyl-substituted 
+methylpolysiloxane phase, a 50 % phenyl-substituted methylpolysiloxane phase, and a relatively non-polar proprietary 
+phase. 
+ 
+Three sets of GC/MS results, designated as GC/MS (I), GC/MS (II), and GC/MS (III), were obtained using  three 
+columns with different selectivities for the separation of PAHs.  For GC/MS (I) analyses, duplicate subsamples of 
+approximately 1 g from ten bottles of SRM 1941b were extracted using PFE with DCM.  Copper powder was added 
+to the extract to remove elemental sulfur.  The concentrated extract was passed through an aminopropyl SPE cartridge 
+and eluted with 2 % DCM in hexane (all solvent concentrations are given as volume fractions in %).  The processed 
+extract  was  then  analyzed  by  GC/MS  using  a  0.25  mm  i.d.  ×  60  m  fused  silica  capillary  column  with  a  5  % 
+phenyl-substituted methylpolysiloxane phase (0.25 µm film thickness; DB-5 MS, J&W Scientific, Folsom, CA).  The 
+GC/MS (II) analyses were performed using 5 g subsamples from six bottles of SRM 1941b.  These samples were 
+extracted using PFE with DCM.  The high molecular mass compounds were removed from the extracts using size 
+exclusion chromatography (SEC) with a preparative-scale divinylbenzene-polystyrene column (10 µm particle size 
+with 10 nm diameter pores), and the sulfur was removed from the extracts by adding copper powder.  The concentrated 
+extract was passed through an aminopropyl SPE cartridge and eluted with 10 % DCM in hexane.  The analysis was 
+by  GC/MS  using  a  0.25  mm  i.d.  ×  60  m  fused  silica  capillary  column  with  a  50  %  phenyl-substituted 
+methylpolysiloxane phase (0.25 µm film thickness; DB-17 MS, J&W Scientific).  For the GC/MS (III), 9 g subsamples 
+from six bottles of SRM 1941b were Soxhlet-extracted for 18 h  with 250 mL of a  mixture of 50 % hexane/50 % 
+acetone.  Copper powder was added to the extract to remove elemental sulfur, and the concentrated extract was passed 
+through a silica SPE cartridge and eluted with 10 % DCM in hexane.  The processed extract was then analyzed by 
+GC/MS  using  a  0.25  mm  i.d.  ×  60  m  fused  silica  capillary  column  with  a  relatively  non-polar  proprietary  phase 
+(0.25 µm film thickness; DB-XLB, J&W Scientific). 
+ 
+ertification  process. 
+Two sets of LC-FL results, designated as LC-FL (total) and LC-FL (isomer), were used in the certification process.  
+For the LC-FL (total), subsamples of approximately 1 g from six bottles of SRM 1941b were extracted using PFE 
+with  a  mixture  of  50  %  hexane/50  %  acetone.    The  extracts  were  concentrated  and  then  processed  through  an 
+aminopropylsilane SPE cartridge using 2 % DCM in hexane to obtain the total PAH fraction.  For the LC-FL (isomer), 
+a 5 g subsample from the six bottles was extracted using PFE with DCM and processed through an aminopropylsilane 
+SPE  cartridge  using  10  %  DCM  in  hexane;  the  PAH  fraction  was  then  fractionated  further  on  a  semi-preparative 
+aminopropylsilane column (µBondapak NH2, 9 mm i.d. × 30 cm, Waters Associates, Milford, MA) to isolate isomeric 
+PAH fractions as described previously [3–6].  The total PAH fraction and the isomeric PAH fractions were analyzed 
+using a 5 µm particle-size polymeric octadecylsilane (C18) column (4.6 mm i.d. × 25 cm, Hypersil-PAH, Keystone 
+Scientific, Inc., Bellefonte, PA) with wavelength-programmed fluorescence detection [4,5]. 
+ 
+For the GC/MS and LC-FL measurements described above, selected perdeuterated PAHs were added to the sediment 
+prior to solvent extraction for use as internal standards for quantification purposes. 
+ 
+In addition to the analyses performed at NIST, SRM 1941b was used in an interlaboratory comparison exercise in 
+1999 as part of the NIST Intercomparison Exercise Program for Organic Contaminants in the Marine Environment [7].  
+Results from 38 laboratories that participated in this exercise were used as the sixth data set in the determination of 
+the  certified  values  for  PAHs  in  SRM  1941b.    The  laboratories  participating  in  this  exercise  used  the  analytical 
+procedures routinely used in their laboratories to measure the analytes of interest. 
+ 
+Homogeneity Assessment for PAHs:  The homogeneity of SRM 1941b was assessed by analyzing duplicate samples 
+of approximately 1 g from ten bottles selected by stratified random sampling.  Samples were extracted, processed, and 
+10ng  bottles  were  observed  for
+analyzed as described above for GC/MS (I).  No statistically significant differences among bottles were observed for 
+the PAHs at this sample size.  
+ 
+PAH Isomers of Molecular Mass 300 and 302:  For the determination of the molecular mass 300 and 302 isomers, 
+three subsamples of approximately 5 g each were extracted using PFE with DCM.  The extracts were then concentrated 
+with a solvent change to hexane and passed through an aminopropyl SPE cartridge and eluted with 10 % DCM in 
+hexane. The processed extract was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column 
+with  a  50  %  phenyl-substituted  methylpolysiloxane  phase  (0.25  µm  film  thickness;  DB-17MS,  J&W  Scientific).  
+Perdeuterated dibenzo[a,i]pyrene was added to the sediment prior to extraction for use as an internal standard [8].  
+ 
+PCBs  and  Chlorinated  Pesticides:    The  general  approach  used  for  the  determination  of  PCBs  and  chlorinated 
+pesticides  in  SRM  1941b  consisted  of  combining  results  from  analyses  using  various  combinations  of  different 
+extraction  techniques  and  solvents,  cleanup/isolation  procedures,  and  chromatographic  separation  and  detection 
+techniques.  Techniques and solvents included Soxhlet extraction and PFE using DCM or a hexane/acetone mixture, 
+
+1C/MS 
+
+SRM 1941b 
+
+Page 3 of 15 
+
+clean-up/isolation using SPE or LC, followed by analysis using GC/MS and gas chromatography with electron capture 
+detection (GC-ECD) on two columns with different selectivity for the separation of PCBs and chlorinated pesticides.  
+The analytical methods are described in detail elsewhere [2]. 
+ 
+Six  sets  of  results  were  obtained  and  designated  as  GC-ECD  (I)  A  and  B,  GC/MS  (I) A  and  B,  GC/MS  (II),  and 
+Interlaboratory Comparison Exercise.  For the GC-ECD (I) analyses, approximately 10 g subsamples from six bottles 
+of SRM 1941b were extracted using PFE with DCM.  Copper powder was added to the extract to remove elemental 
+sulfur, and SEC, as described above, was used to remove the high molecular mass compounds.  The concentrated 
+extract  was  then  fractionated  on a semi-preparative aminopropylsilane column  to isolate  two  fractions containing:  
+(1) the PCBs and lower-polarity pesticides and (2) the more polar pesticides.  GC-ECD analyses of the two fractions 
+were performed on two columns of different selectivities for PCB separations:  0.25 mm × 60 m fused silica capillary 
+column with a 5 % phenyl-substituted methylpolysiloxane phase (0.25 µm film thickness; DB-5, J&W Scientific), 
+and a 0.25 mm  × 60  m fused silica capillary column  with a non-polar proprietary phase (0.25  µm  film  thickness; 
+DB-XLB, J&W Scientific).  The results from the 5 % phenyl phase are designated as GC-ECD (IA) and the results 
+from the proprietary phase are designated as GC-ECD (IB).  For the GC-ECD analyses, two PCB congeners that are 
+not significantly present in the sediment extract (PCB 103 and PCB 198 [9,10]) and endosulfan I-d4, 4,4’-DDE-d8, 
+4,4'-DD-d8,  and  4,4'-DDT-d8  were  added  to  the  sediment  prior  to  extraction  for  use  as  internal  standards  for 
+quantification purposes. 
+ 
+Two sets of results were obtained by GC/MS.  For GC/MS (I), approximately 9 g subsamples from six bottles were 
+Soxhlet- extracted with a mixture of 50 % hexane/50 % acetone for approximately 18 h.  Copper powder was added 
+to the extract to remove elemental sulfur, and the concentrated extract was passed through a silica SPE cartridge and 
+eluted with 10 % DCM in hexane.  The processed extract was then analyzed by GC/MS with two ionization modes, 
+electron  impact  (EI)  and  negative  ion  chemical  ionization  (NICI).    The  GC/MS  EI  method,  GC/MS  (IA),  used  a 
+0.25  mm  i.d.  ×  60  m  fused  silica  capillary  column  with  a  relatively  non-polar  proprietary  phase  (0.25  µm  film 
+thickness; DB-XLB, J&W Scientific).  The GC/MS NICI method, GC/MS (IB), used a 0.25 mm i.d. × 60 m fused 
+silica capillary column with a 5 % phenyl-substituted methylpolysiloxane phase (0.25 µm film thickness; DB-5MS, 
+J&W Scientific).  The GC/MS (II) results were obtained in the same manner as the GC/MS (IA) analyses except that 
+three  subsamples  were  Soxhlet-extracted  with  DCM  for  approximately  18  h.    For  the  GC/MS  analyses,  selected 
+carbon-13 labeled PCB congeners and chlorinated pesticides were added to the sediment prior to extraction for use as 
+internal standards for quantification purposes. 
+ 
+In addition to the analyses performed at NIST, SRM 1941b was used in an interlaboratory comparison exercise in 
+1999 as part of the NIST Intercomparison Exercise Program for Organic Contaminants in the Marine Environment [7].  
+Results from 38 laboratories that participated in this exercise were used as the sixth data set in the determination of 
+the certified values for PCB congeners and chlorinated pesticides in SRM 1941b.  The laboratories participating in 
+this exercise used the analytical procedures routinely used in their laboratories to measure the analytes of interest. 
+ 
+The reference value for PCB 77 was determined from a separate fraction.  The samples were extracted and processed 
+as  for  GC-ECD  (I)  above.    The  first  (PCB  and  lower-polarity  pesticide)  fraction  from  the  semi-preparative 
+aminopropylsilane column was further fractionated using a Cosmosil PYE (pyrenylethyl group bonded) column (5 µm 
+particle size, 4.6 mm i.d. × 25 cm ; Phenomenex, Torrance, CA) [11].  Three fractions were collected:  the first fraction 
+contained  the  pesticides  and  multi-ortho  PCBs,  the  second  fraction  contained  the  polychlorinated  naphthalenes, 
+non-ortho PCB congeners, and some mono-ortho PCB congeners, and the third fraction removed the residual planar 
+compounds  from  the  column.    The  second  fraction  was  analyzed  by  GC/MS  NICI  using  the  same  column  as 
+GC/MS (IB) above.  Carbon-13 labeled PCB 77 was used as an internal standard for quantification purposes. 
+ 
+Alkylated PAH Groups, Hopanes, and Steranes:  SRM 1941b was used in an interlaboratory comparison exercise 
+in 2011 [12].  Results  from 33 laboratories that participated in this exercise were used in the determination of the 
+reference  values  for  alkylated  PAH  groups,  hopanes,  and  steranes  in  SRM  1941b.    Note  that  not  all  laboratories 
+returned data for each analyte.  The laboratories participating in this exercise used the analytical procedures routinely 
+used in their laboratories to measure the analytes of interest.  For the alkylated PAHs, the majority of the laboratories 
+(>90 %) used the parent PAH for determination of the response factor for the corresponding alkylated group. 
+ 
+Total  Organic  Carbon  (TOC):    Two  laboratories  provided  results  for  TOC  using  similar  procedures.    Briefly, 
+subsamples of approximately 200 mg were reacted with 6 mol/L hydrochloric acid and rinsed with deionized water 
+prior to combustion in a gas fusion furnace.  The carbon monoxide and carbon dioxide produced were measured and 
+compared to a blank for calculation of the percent TOC.  Each laboratory analyzed subsamples from three bottles of 
+SRM 1941b.  One of the laboratories also analyzed three subsamples from three bottles of SRM 1941b for carbon, 
+hydrogen, and nitrogen. 
+ 
+
+SRM 1941b 
+
+Page 4 of 15 
+
+ction  Values
+Table 1.  Certified Mass Fraction Values for PAHs in SRM 1941b 
+
+ 
+
+PAHs 
+
+Naphthalene(b,c,d,e,f,g) 
+Fluorene(b,c,d,e,f,g) 
+Phenanthrene(b,c,d,e,f,g) 
+Anthracene(b,c,d,e,f,g) 
+3-Methylphenanthrene(b,c,d) 
+2-Methylphenathrene(b,c,d) 
+1-Methylphenanthrene(b,c,d,g) 
+Fluoranthene(b,c,d,e,f,g) 
+Pyrene(b,c,d,e,f,g) 
+Benz[a]anthracene(b,c,d,e,f,g) 
+Chrysene(d,f) 
+Triphenylene(d,f) 
+Benzo[b]fluoranthene(c,e) 
+Benzo[k]fluoranthene(b,c,d,e) 
+Benzo[e]pyrene(b,c,d,g) 
+Benzo[a]pyrene(b,c,d,f,g) 
+Perylene(b,c,d,f,g) 
+Benzo[ghi]perylene(b,c,d,f,g) 
+Indeno[1,2,3-cd]pyrene(b,c,d,f,g) 
+Dibenz[a,j]anthracene(b,c,d,f) 
+Dibenz[a,c]anthracene(c,f) 
+Dibenz[a,h]anthracene(c,f) 
+Benzo[b]chrysene(b,c,d,f) 
+Picene(b,c,d) 
+
+Mass Fractions(a) 
+(µg/kg) 
+
+± 
+848 
+± 
+85 
+± 
+406 
+± 
+184 
+± 
+105 
+128 
+± 
+73.2  ± 
+± 
+651 
+± 
+581 
+± 
+335 
+± 
+291 
+± 
+108 
+± 
+453 
+± 
+225 
+± 
+325 
+± 
+358 
+± 
+397 
+± 
+307 
+341 
+± 
+48.9  ± 
+36.7  ± 
+± 
+53 
+53 
+± 
+46.6  ± 
+
+95(h) 
+15(h) 
+44(h) 
+18(h) 
+13(h) 
+14(h) 
+5.9(h) 
+50(h) 
+39(h) 
+25(h) 
+31(h) 
+5(i) 
+21(h) 
+18(h) 
+25(h) 
+17(h) 
+45(h) 
+45(h) 
+57(h) 
+4.6(h) 
+5.2(h) 
+10(h) 
+12(h) 
+4.7(h) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) GC/MS (I) on 5 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(c) GC/MS (II) on 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(d) GC/MS (III) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(e) LC-FL (total) of total PAH fraction after PFE with DCM. 
+(f) LC-FL (isomer) of isomeric PAH fractions after PFE with DCM. 
+(g) 1999 Interlaboratory Comparison Study [7] with 21 to 29 laboratories submitting data for each PAH. 
+(h) Certified values are weighted means of the results from two to six analytical methods [13].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence),  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-method  variance  following  the 
+ISO/JCGM Guide [14,15].  The measurand is the total mass fraction of the constituent listed and the values are metrologically 
+traceable to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+(i)  The certified value is an unweighted mean of the results from two analytical methods.  The uncertainty listed with the value is 
+an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [16] with 
+a  pooled,  within-method  variance  following  the  ISO/JCGM  Guide  [14,15].    The  measurand  is  the  total  mass  fraction of  the 
+constituent listed and the value is metrologically traceable to the SI unit of mass, expressed as micrograms per kilogram on a 
+dry-mass basis. 
+
+SRM 1941b 
+
+Page 5 of 15 
+
+Table 2.  Certified Mass Fraction Values for PCB Congeners(a) in SRM 1941b 
+
+ction  Values 
+
+ 
+
+PCB Congeners 
+
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+
+(2,4'-Dichlorobiphenyl)(c,d,e,f,g) 
+(2,2',5-Trichlorobiphenyl)(c,d,e,f,g) 
+(2,4,4'-Trichlorobiphenyl)(c,d,e,f,g) 
+(2,4',5-Trichlorobiphenyl)(c,e,f) 
+(2,2'3,5'-Tetrachlorobiphenyl)(c,d,e,f,g) 
+(2,2'4,5'-Tetrachlorobiphenyl)(c,d,e,f) 
+(2,2',5,5'-Tetrachlorobiphenyl)(c,d,e,f,g) 
+(2,3',4,4'-Tetrachlorobiphenyl)(c,e,f,g,j) 
+(2,2',3,4,5'-Pentachlorobiphenyl)(c,d,f,j) 
+(2,2',3,5',6-Pentachlorobiphenyl)(c,e,f,g) 
+(2,2',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g) 
+(2,2',4,5,5'-Pentachlorobiphenyl)(c,e,f,g,j) 
+(2,3,3',4,4'-Pentachlorobiphenyl)(c,d,e,f,g,j) 
+(2,3,3',4',6-Pentachlorobiphenyl)(c,e,f,j) 
+(2,3',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g,j) 
+(2,2',3,3',4,4'-Hexachlorobiphenyl)(c,d,e,f,g,j) 
+(2,2',3,4,4',5'-Hexachlorobiphenyl)(c,e,f,j) 
+(2,2',3,4',5',6-Hexachlorobiphenyl)(c,d,e,j) 
+(2,2',4,4',5,5'-Hexachlorobiphenyl)(c,d,e,f,g,j) 
+(2,3,3',4,4',5-Hexachlorobiphenyl)(c,d,e,f,j) 
+(2,2',3,3',4,4',5-Heptachlorobiphenyl)(c,d,e,f,g,j) 
+(2,2',3,4,4',5,5'-Heptachlorobiphenyl)(c,d,e,f,g,j) 
+(2,2',3,4,4',5',6-Heptachlorobiphenyl)(c,d,e,j) 
+(2,2',3,4',5,5',6-Heptachlorobiphenyl)(c,d,e,f,g,j) 
+(2,2',3,3',4,4',5,5'-Octachlorobiphenyl)(c,d,e,j) 
+(2,2',3,3',4,4',5,6-Octachlorbiphenyl)(c,e,g,j) 
+(2,2',3,3',4,5',6,6'-Octachlorobiphenyl)(c,e,j) 
+(2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl)(c,e,f,g,j) 
+
+8 
+18 
+28 
+31 
+44 
+49 
+52 
+66 
+87 
+95 
+99 
+101 
+105 
+110 
+118 
+128 
+138 
+149 
+153 
+156 
+170 
+180 
+183 
+187 
+194 
+195 
+201 
+206 
+209  Decachlorobiphenyl(c,d,e,f,g,j) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fractions(b) 
+(µg/kg) 
+
+± 
+1.65 
+± 
+2.39 
+± 
+4.52 
+± 
+3.18 
+± 
+3.85 
+± 
+4.34 
+± 
+5.24 
+± 
+4.96 
+± 
+1.14 
+± 
+3.93 
+± 
+2.90 
+± 
+5.11 
+± 
+1.43 
+± 
+4.62 
+4.23 
+± 
+0.696  ± 
+± 
+3.60 
+± 
+4.35 
+5.47 
+± 
+0.507  ± 
+± 
+1.35 
+3.24 
+± 
+0.979  ± 
+± 
+2.17 
+1.04 
+± 
+0.645  ± 
+0.777  ± 
+± 
+2.42 
+± 
+4.86 
+
+0.19(h) 
+0.29(h) 
+0.57(h) 
+0.41(h) 
+0.20(i) 
+0.28(i) 
+0.28(i) 
+0.53(i) 
+0.16(h) 
+0.62(i) 
+0.36(i) 
+0.34(i) 
+0.10(i) 
+0.36(i) 
+0.19(i) 
+0.044(i) 
+0.28(i) 
+0.26(h) 
+0.32(i) 
+0.090(h) 
+0.09(i) 
+0.51(i) 
+0.087(h) 
+0.22(i) 
+0.06(h) 
+0.060(i) 
+0.034(h) 
+0.19(i) 
+0.45(i) 
+
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [9] and later revised by Schulte and 
+Malisch [10] to conform to IUPAC rules, except PCB 201.  Under the Ballschmiter and Zell numbering system, the IUPAC 
+PCB 201 is listed as PCB 200.  
+
+(b) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(c) GC/MS (IA) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture.  
+(d) GC-ECD (IA) on 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(e) GC-ECD (IB) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (IA). 
+(f) GC/MS (II) on a relatively non-polar proprietary phase after Soxhlet extraction with DCM. 
+(g) 1999 Interlaboratory Comparison Study [7] with 13 to 31 laboratories submitting data for each PCB congener. 
+(h) Certified values are unweighted means of the results from three to five analytical methods.  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2,  calculated  by  combining  a  between-method 
+variance [16] with a pooled, within method variance following the ISO/JCGM Guide [14,15].  The measurand is the total mass 
+fraction of the constituent listed and the values are metrologically traceable to the SI unit of mass, expressed as micrograms per 
+kilogram on a dry-mass basis. 
+
+(i)  Certified values are weighted means of the results from three to six analytical methods [13].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence),  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-method  variance  following  the 
+ISO/JCGM Guide [14,15].  The measurand is the total mass fraction of the constituent listed and the values are metrologically 
+traceable to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+x  analytical  methods
+
+(j) GC/MS (IB) on 5 % phenyl-substituted methylpolysiloxane phase; same extracts analyzed as in GC/MS (IA). 
+ 
+
+SRM 1941b 
+
+Page 6 of 15 
+
+Table 3.  Certified Mass Fraction Values for Chlorinated Pesticides in SRM 1941b 
+
+ction  Values 
+
+Chlorinated Pesticides 
+
+Hexachlorobenzene(b,c,d,e) 
+cis-Chlordane(b,c,d,e,g) 
+trans-Chlordane(b,c,e) 
+cis-Nonachlor(b,e,g) 
+trans-Nonachlor(b,c,d,e,g) 
+4,4'-DDE(b,d,e,g) 
+4,4'-DDD(b,d,e,g) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fractions(a) 
+(µg/kg) 
+
+5.83  ±  0.38(f) 
+0.85  ±  0.11(h) 
+0.566  ±  0.093(f) 
+0.378  ±  0.053(h) 
+0.438  ±  0.073(f) 
+3.22  ±  0.28(h)  
+4.66  ±  0.46(h) 
+
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) GC/MS (IA) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(c) GC/MS (IB) on 5 % phenyl-substituted methylpolysiloxane phase; same extracts analyzed as in GC/MS (IA). 
+(d) GC/MS (II) on a relatively non-polar proprietary phase after Soxhlet extraction with DCM. 
+(e) 1999 Interlaboratory Comparison Study [7] with 13 to 31 laboratories submitting data for each pesticide.  
+(f) Certified values are unweighted means of the results from three to five analytical methods.  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2,  calculated  by  combining  a  between-method 
+variance [16] with a pooled, within-method variance following the ISO/JCGM Guide [14,15].  The measurand is the total mass 
+fraction of the constituent listed and the values are metrologically traceable to the SI unit of mass, expressed as micrograms per 
+kilogram on a dry-mass basis. 
+
+(g) GC-ECD (IA) on 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM.  
+ch 
+(h) Certified values are weighted means of the results from three to five analytical methods [13].  The uncertainty listed with each 
+ilated  by 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence),  calculated  by 
+wing  the 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-method  variance  following  the 
+listed  are
+ISO/JCGM Guide [14,15].  The measurand is the total mass fraction of the chlorinated pesticides listed and the values listed are 
+metrologically traceable to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+ 
+
+ 
+
+ 
+ 
+
+SRM 1941b 
+
+Page 7 of 15 
+
+‘action  Values
+Table 4.  Reference Mass Fraction Values for PAHs in SRM 1941b 
+
+ 
+
+PAHs 
+
+1-Methylnaphthalene(b,c,d,e) 
+2-Methylnaphthalene(b,c,d,e) 
+2,6-Dimethylnaphthalene(b,c,d,e) 
+2,3,5-Trimethylnaphthalene(b,c,d,e) 
+Biphenyl(b,c,d,e) 
+Acenaphthylene(b,c,d,e) 
+Acenaphthene(b,c,d,e) 
+9-Methylphenanthrene(c) 
+4-Methylphenanthrene and 
+9-Methylphenanthrene(b,d) 
+2-Methylanthracene(c,d) 
+8-Methylfluoranthene(b) 
+7-Methylfluoranthene(b) 
+1-Methylfluoranthene(b) 
+3-Methylfluoranthene(b) 
+2-Methylpyrene(b) 
+4-Methylpyrene(b) 
+1-Methylpyrene(b) 
+Acephenanthrene(d) 
+Benzo[c]phenanthrene(b,c,d) 
+Benzo[a]fluoranthene(b,c,d) 
+Benzo[j]fluoranthene(c) 
+Indeno[1,2,3-cd]fluoranthene(d) 
+Pentaphene(d) 
+
+Mass Fractions(a) 
+(µg/kg) 
+
+127 
+276 
+75.9 
+25.5 
+74.0 
+53.3 
+38.4 
+63.5 
+
+80.1 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+± 
+
+36 
+49.5 
+45.4 
+42.4 
+28.8 
+78.7 
+66.4 
+52.5 
+30.5 
+58 
+73 
+217 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+9.63  ± 
+± 
+
+25.3 
+
+14(f) 
+53(f) 
+4.5(f) 
+5.1(f) 
+8.0(f) 
+6.4(f) 
+5.2(f) 
+2.5(g) 
+
+4.8(f) 
+
+15(f) 
+2.7(g) 
+1.5(g)  
+2.1(g)  
+1.3(g)  
+4.0(g)  
+2.6(g)  
+2.3(g) 
+1.9(g)  
+15(f) 
+18(f) 
+5(g) 
+0.34(g) 
+1.0(g) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) GC/MS (I) on 5 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(c) GC/MS (II) on 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(d) GC/MS (III) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(e) 1999 Interlaboratory Comparison Study [7] with 14 to 26 laboratories submitting data for each PAH.  
+(f) Reference values are weighted means of the results from two to four analytical methods [13].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence),  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-method  variance  following  the 
+ISO/JCGM Guide [14,15].  The measurand is the total mass fraction of PAHs listed as determined by the methods indicted.  The 
+values are metrologically traceable to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+(g) Reference values are the means of results obtained by NIST using one analytical technique.  The expanded uncertainty, U, is 
+calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined 
+from the Student’s t-distribution for the associated degrees of freedom (19 for footnote b and 5 for footnotes c and d) and 
+95 % confidence level for each analyte.  The measurand is the total mass fraction of the PAHs listed as determined by the 
+method indicted.  The values listed are metrologically traceable to the SI unit of mass, expressed as micrograms per kilogram on 
+a dry-mass basis. 
+
+SRM 1941b 
+
+Page 8 of 15 
+
+Table 5.  Reference Mass Fraction Values for PAHs of Molecular Mass 300 and 302 in SRM 1941b 
+ 
+
+Mass  Fr 
+
+Mass
+
+PAHs of Molecular Mass 300 and 302 
+
+Coronene 
+Dibenzo[b,e]fluoranthene 
+Naphtho[1,2-b]fluoranthene 
+Naphtho[1,2-k]fluoranthene and 
+Naphtho[2,3-j]fluoranthene 
+Naphtho[2,3-b]fluoranthene 
+Dibenzo[b,k]fluoranthene 
+Dibenzo[a,k]fluoranthene 
+Dibenzo[j,l]fluoranthene 
+Dibenzo[a,l]pyrene 
+Naphtho[2,3-k]fluoranthene 
+Naphtho[1,2-a]pyrene 
+Naphtho[2,3-e]pyrene 
+Dibenzo[a,e]pyrene 
+Naphtho[2,1-a]pyrene 
+Dibenzo[e,i]pyrene 
+Naphtho[2,3-a]pyrene 
+Benzo[b]perylene 
+Dibenzo[a,i]pyrene 
+Dibenzo[a,h]pyrene 
+
+Mass Fractions(a,b,c) 
+(µg/kg) 
+± 
+± 
+± 
+
+72.6 
+10.3 
+91.0 
+
+4.7 
+0.3 
+3.1 
+
+79.8 
+
+± 
+
+2.5 
+
+23.5 
+95.6 
+26.6 
+63.8 
+11.1 
+10.7 
+16.7 
+33.2 
+76.1 
+59.2 
+35.0 
+16.5 
+38.2 
+25.5 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+6.94  ± 
+
+0.3 
+3.1 
+0.4 
+1.8 
+1.0 
+0.6 
+1.4 
+2.3 
+3.6 
+1.8 
+2.4  
+0.6 
+1.2 
+1.0 
+0.29 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) Reference values are the means of results obtained by NIST using one analytical technique.  The expanded uncertainty, U, is 
+calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined 
+from the Student’s t-distribution for two degrees of freedom and 95 % confidence level for each analyte.  The measurand 
+is the total mass fraction of the constituent listed as determined by the method indicted.  The values are metrologically traceable 
+to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+(c) GC/MS on 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM [8]. 
+
+SRM 1941b 
+
+Page 9 of 15 
+
+Table 6.  Reference Mass Fraction Values for PCB Congeners(a) in SRM 1941b 
+
+for 
+
+a)
+
+ 
+
+PCB Congeners 
+
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+
+45 
+56 
+63 
+70 
+74 
+77 
+107 
+132 
+146 
+158 
+163 
+174 
+193 
+
+(2,2',3,6-Tetrachlorobiphenyl)(d,e) 
+(2,3,3',4'-Tetrachlorobiphenyl)(d,f,g) 
+(2,3,4',5-Tetrachlorobiphenyl)(e,f,g) 
+(2,3',4',5-Tetrachlorobiphenyl)(e,f,g) 
+(2,4,4',5-Tetrachlorobiphenyl)(e,f,g) 
+(3,3',4,4'-Tetrachlorobiphenyl)(h) 
+(2,3,3',4',5-Pentachlorobiphenyl)(d,e,f,g) 
+(2,2',3,3',4,6'-Hexachlorobiphenyl)(d,f,g) 
+(2,2',3,4',5,5'-Hexachlorobiphenyl)(e,f,g) 
+(2,3,3',4,4',6-Hexachlorobiphenyl)(d,e,f,g) 
+(2,3,3',4',5,6-Hexachlorobiphenyl)(e,f,g) 
+(2,2',3,3',4,5,6'-Heptachlorobiphenyl)(d,e,f,g) 
+(2,3,3',4',5,5',6-Heptachlorobiphenyl)(d,e,f,g) 
+
+Mass Fractions(b,c) 
+(µg/kg) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.73 
+1.21 
+0.213 
+4.99 
+2.04 
+0.31 
+0.628 
+1.28 
+1.22 
+0.65 
+1.28 
+1.51 
+0.292 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+0.12 
+0.11 
+0.040 
+0.29 
+0.15 
+0.03 
+0.028 
+0.27  
+0.12  
+0.15  
+0.06  
+0.39  
+0.075  
+
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [9] and later revised by Schulte and 
+Malisch [10] to conform with IUPAC rules, except PCB 107.  Under the Ballschmiter and Zell numbering system, the IUPAC 
+PCB 107 is listed as PCB 108. 
+
+(b) Mass fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(c) For these PCB congeners except PCB 77, the reference values are unweighted means of the results from two to four analytical 
+methods.  The uncertainty listed with each value is an expanded uncertainty about the mean, with coverage factor 2, calculated 
+by combining a between-method variance [16] with a pooled within-method variance following the ISO/JCGM Guide [14,15].  
+For  PCB  77,  the  reference  value  is  the  mean  of  results  obtained  by  NIST  using  one  analytical  technique.    The  expanded 
+uncertainty, U, is calculated as  U = kuc,  where uc is one standard  deviation of the analyte  mean, and the coverage  factor, k, is 
+determined from the Student’s t-distribution corresponding to two degrees of freedom and 95 % confidence level for PCB 77.  The 
+measurand is the total mass fraction of the PCB Congeners listed as determined by the method or methods indicted.  The values 
+listed are metrologically traceable to the SI unit of mass, expressed as microgram per kilogram on a dry-mass basis. 
+
+(d) GC-ECD (IA) on 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(e) GC-ECD (IB) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (IA). 
+(f) GC/MS (IA) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(g) GC/MS (IB) on 5 % phenyl-substituted methylpolysiloxane phase; same extracts analyzed as in GC/MS (IA). 
+(h) GC/MS NICI on a 5 % phenyl-substituted methylpolysiloxane phase; same extracts analyzed as in GC-ECD (I) fractionated 
+
+using a PYE column. 
+
+SRM 1941b 
+
+Page 10 of 15 
+
+Table 7.  Reference Mass Fraction Values for Selected Chlorinated Pesticides in SRM 1941b 
+
+yrinated  Pesticides  in  SRM 
+
+'raction  Value 
+
+Chlorinated Pesticides 
+
+2,4'-DDE(c,d) 
+4,4'-DDT(e,f) 
+
+Mass Fractions(a,b) 
+(µg/kg) 
+
+ 
+ 
+
+0.38 
+1.12 
+
+± 
+± 
+
+0.12 
+0.42 
+
+(a) Mass Fractions reported on dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) The reference values are unweighted means of the results from two analytical methods.  The uncertainty listed with each value 
+is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [16] 
+with a pooled, within-method variance following the ISO/JCGM Guide [14,15].  The measurand is the total mass fraction of the 
+chlorinated pesticides listed as determined by the methods indicted.  The values listed are metrologically traceable to the SI unit 
+of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+(c) GC/MS (IB) on 5 % phenyl-substituted methylpolysiloxane phase; same extracts analyzed as in GC/MS (IA). 
+(d) GC-ECD (IB) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (IA). 
+(e) GC/MS (II) on a relatively non-polar proprietary phase after Soxhlet extraction with DCM. 
+(f) 1999 Interlaboratory Comparison Study [7] with 10 laboratories submitting data for 4,4'-DDT. 
+ 
+ 
+
+Table 8.  Reference Mass Fraction Values for Alkylated PAH Groups in SRM 1941b 
+
+Mass
+
+ 
+
+ 
+
+Alkylated PAH Group 
+
+C2-decalins 
+C4-decalins 
+C2-naphthalenes 
+C3-naphthalenes 
+C1-benzothiophenes 
+C2-benzothiophenes 
+C3-benzothiophenes 
+C4-benzothiophenes 
+C1-fluorenes 
+C2-fluorenes 
+C3-fluorenes 
+C1-phenanthrenes/anthracenes 
+C2-phenanthrenes/anthracenes 
+C3-phenanthrenes/anthracenes 
+C4-phenanthrenes/anthracenes 
+C1-dibenzothiophenes 
+C2-dibenzothiophenes 
+C3-dibenzothiophenes 
+C4-dibenzothiophenes 
+C1-fluoranthenes/pyrenes 
+C2-fluoranthenes/pyrenes 
+C3-fluoranthenes/pyrenes 
+C4-fluoranthenes/pyrenes 
+C1-benzanthraces/chrysenes/triphenylenes 
+C2-benzanthraces/chrysenes/triphenylenes 
+C3-benzanthraces/chrysenes/triphenylenes 
+C4-benzanthraces/chrysenes/triphenylenes 
+
+Mass Fraction(a,b) 
+(μg/kg) 
+
+18 
+41 
+187 
+158 
+25 
+20 
+22 
+18 
+57 
+122 
+128 
+313 
+247 
+165 
+87 
+54 
+91 
+84 
+57 
+252 
+205 
+102 
+121 
+208 
+120 
+73 
+41 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+5 
+4 
+53 
+42 
+14 
+11 
+13 
+5 
+18 
+43  
+31 
+99 
+62 
+46 
+36 
+13 
+18 
+15 
+13 
+48 
+38 
+22 
+59 
+43 
+24 
+31 
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a)  The reference mass fraction value reported on a dry-mass basis is the median of results using one analytical technique.  The 
+expanded uncertainty, U, is calculated as U = kuc, where uc is one standard deviation of the median, and the coverage factor, k = 2.  
+The measurand is the total mass fraction of the alkylated PAH groups listed as determined by the interlaboratory study methods.  
+The  values  listed  are  metrologically  traceable  to  the  SI  unit  of  mass  fraction,  expressed  as  micrograms  per  kilogram  on  a 
+dry-mass basis. 
+
+(b) Data from the interlaboratory study [12]. 
+
+SRM 1941b 
+
+Page 11 of 15 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Table 9.  Reference Mass Fraction Values for Hopanes and Steranes in SRM 1941b 
+
+action  Value 
+
+ranes 
+
+Hopane or Sterane 
+
+17α(H)-22,29,30-Trisnorhopane 
+17α(H)-21β(H)-30-Norhopane 
+17α(H)-21β(H)-30-Hopane 
+17α(H)-21β(H)-22R-Homohopane 
+17α(H)-21β(H)-22S-Homohopane 
+5α(H)-14α(H),17α(H)-Cholestane 20R 
+5α(H)-14β(H),17β(H)-Cholestane 20R 
+5α(H)-14β(H),17β(H)-24-Methylcholestane 20R 
+5α(H)-14α(H),17α(H)-24-Ethylcholestane 20R 
+5α(H)-14β(H),17β(H)-24-Ethylcholestane 20R 
+
+Mass Fraction(a,b) 
+(μg/kg) 
+
+54 
+137 
+215 
+44 
+48 
+41 
+27 
+21 
+19 
+41 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+18 
+21 
+44 
+10 
+13 
+11 
+6 
+8 
+5  
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a)  The reference mass fraction value reported on a dry-mass basis is the median of results using one analytical technique.  The 
+expanded uncertainty, U, is calculated as U = kuc, where uc is one standard deviation of the median, and the coverage factor, k = 2.  
+interlaboratory 
+The measurand is the total mass fraction of the constituent listed as determined by the methods used during the interlaboratory 
+study.  The values are metrologically traceable to the SI unit of mass, expressed as micrograms per kilogram on a dry-mass basis. 
+
+(b) Data from the interlaboratory study [12]. 
+ 
+ 
+
+Table 10.  Reference Mass Fraction Value for Total Organic Carbon in SRM 1941b 
+ 
+
+Total Organic Carbon (TOC) 
+
+2.99 %  ±  0.24 %(a,b) 
+
+(a) Mass fraction is reported on a dry-mass basis; material as received contains approximately 2.4 % moisture. 
+(b) The reference value for total organic carbon is a weighted mean value from routine measurements made by two laboratories [21].  
+The uncertainty listed is an expanded uncertainty about the mean, with coverage  factor 2 (approximately 95 % confidence), 
+calculated by  combining a between-method variance incorporating inter-method bias with a pooled within-method variance.  
+The reporting follows the ISO/JCGM Guides [2].  The measurand is the total mass fraction of TOC listed as determined by the 
+methods indicted.  The values listed are metrologically traceable to the SI unit of mass, expressed as a percent on a dry-mass 
+basis. 
+
+1  contains  approximately  2.4 
+
+ues  for  Carbon
+Table 11.  Information Mass Fraction Values for Carbon, Hydrogen, and Nitrogen in SRM 1941b 
+
+Elements 
+
+Carbon 
+Hydrogen 
+Nitrogen 
+
+Mass Fractions(a) 
+(%) 
+
+3.3 
+1.2 
+<0.5 
+
+(a) Mass fraction is reported on a dry-mass basis; material as received contains approximately 2.4 % moisture. 
+ 
+
+SRM 1941b 
+
+Page 12 of 15 
+
+REFERENCES 
+
+ 
+[1]  May,  W.E.;  Parris,  R.M.;  Beck  II,  C.M.;  Fassett,  J.D.;  Greenberg,  R.R.;  Guenther,  F.R.;  Kramer,  G.W.; 
+Wise, S.A.; Gills, T.E.; Colbert, J.C.; Gettings, R.J.; MacDonald, B.R.; Definition of Terms and Modes Used at 
+NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260-
+136 (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Jan 2015). 
+
+[2]  Wise,  S.A.;  Poster,  D.L.;  Schantz,  M.M.;  Kucklick,  J.R.;  Sander,  L.C.;  Lopez  de  Alda,  M.;  Schubert,  P.; 
+Parris,  R.M.;  Porter,  B.J.;  Two  New  Marine  Sediment  Standard  Reference  Materials  (SRMs)  for  the 
+Determination of Organic Contaminants; Anal. Bioanal. Chem., Vol. 378, pp. 1251–1264 (2004). 
+
+[3]  Wise, S.A.; Chesler, S.N.; Hertz, H.S.; Hilpert, L.R.; May, W.E.; Chemically-Bonded Aminosilane Stationary 
+Phase for the High Performance Liquid Chromatographic Separation of Polynuclear Aromatic Hydrocarbons; 
+Anal. Chem., Vol. 49, pp. 2306–2310 (1977). 
+
+ns  in  Air 
+[4]  May, W.E.; Wise, S.A.; Liquid Chromatographic Determination of Polycyclic Aromatic Hydrocarbons in Air 
+
+Particulate Extracts; Anal. Chem., Vol. 56, pp. 225–232 (1984). 
+
+[5]  Wise, S.A.; Benner, B.A.; Byrd, G.D.; Chesler, S.N.; Rebbert, R.E.; Schantz, M.M.; Determination of Polycyclic 
+Aromatic Hydrocarbons in a Coal Tar Standard Reference Material; Anal. Chem., Vol. 60, pp. 887-894 (1988). 
+[6]  Wise,  S.A.;  Deissler,  A.;  Sander,  L.C.;  Liquid  Chromatographic  Determination  of  Polycyclic  Aromatic 
+Hydrocarbon  Isomers  of  Molecular  Weight  278  and  302  in  Environmental  Standard  Reference  Materials; 
+Polycyclic Aromat. Compd., Vol. 3, pp. 169–184 (1993). 
+
+[7]  Schantz,  M.M.;  Parris,  R.M.;  Wise,  S.A.;  NIST/NOAA  Intercomparison  Exercise  Program  for  Organic 
+Contaminants in the Marine Environment: Description and Results of 1999 Organic Intercomparison Exercises; 
+NOAA Technical Memorandum NOS NCCOS CCMA 146, Silver Spring, MD (2000). 
+
+[8]  Schubert, P.; Schantz, M.M.; Sander, L.C.; Wise, S.A.; Determination of Polycyclic Aromatic Hydrocarbons 
+with  Molecular  Mass  300  and  302  in  Environmental-Matrix  Standard  Reference  Materials  by  Gas 
+Chromatography-Mass Spectrometry; Anal. Chem., Vol. 75, pp. 234–246 (2003). 
+
+[9]  Ballschmiter,  K.;  Zell,  M.;  Analysis  of  Polychlorinated  Biphenyls  (PCB)  by  Glass  Capillary  Gas 
+Chromatography - Composition of Technical Aroclor- and Clophen-PCB Mixtures; Fresenius’ Z. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+[10]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius’ Z. Anal. Chem., Vol. 314, pp. 545–551 (1983). 
+[11]  Brubaker,  W.W.,  Jr.;  Schantz,  M.M.;  Wise,  S.A.;  Determination  of  Non-ortho  Polychlorinated  Biphenyls  in 
+Environmental Standard Reference Materials; Fresenius’ J. Anal. Chem., Vol. 367, pp. 401–406 (2000). 
+[12]  Schantz,  M.M.;  Kucklick,  J.R..;  NIST  Interlaboratory  Analytical  Comparison  Study  to  Support  Deepwater 
+Horizon  Natural  Resource  Damage  Assessment:  Description  and  Results  for  Crude  Oil  QA10OIL01; 
+NISTIR 7793 (2011). 
+
+[13]  Ruhkin,  A.L.; Vangel, M.G.;  Estimation of a Common Mean and Weighted Means Statistics; J.  Am. Statist. 
+
+Assoc., Vol. 93, pp. 303–308 (1998). 
+
+[14]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan  2015);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Jan 2015). 
+
+[15]  JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the “Guide to the expression of uncertainty 
+in  measurement”  -  Propagation  of  distributions  using  a  Monte  Carlo  method;  JCGM  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2015). 
+
+[16]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000).  
+
+   
+
+ 
+ 
+  
+Certificate  Revision  History:    16  January  2015  (Corrected  IUPAC  name  for  PCB-56  and  PCB-107;  editorial  changes);  10  June  2014  (Units 
+corrected from mg/kg to μg/kg in Tables 8 and 9; editorial changes); 10 April 2012 (Reference value added for alkylated PAH groups, hopanes, 
+and steranes; extension of certification period; editorial changes); 16 August 2004 (Reference values for the butyl tins removed; editorial changes); 
+15 July 2002 (Original certificate date). 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301)  948-3730; 
+ 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+fax 
+
+SRM 1941b 
+
+Page 13 of 15 
+
+APPENDIX A 
+ 
+PAHs,  PCBs,  and 
+The  laboratories  listed  below  performed  measurements  that  contributed  to  the  certification  of  PAHs,  PCBs,  and 
+chlorinated pesticides in SRM 1941b Organics in Marine Sediment. 
+ 
+Arthur D. Little, Inc; Cambridge, MA 
+Axys Analytical Services; Sidney, BC, Canada 
+B & B Laboratories; College Station, TX 
+Battelle Ocean Sciences; Duxbury, MA 
+Bedford Institute of Oceanography; Dartmouth, NS, Canada 
+California Department of Fish and Game; Rancho Cordova, CA 
+Central Contra Costa Sanitary District; Martinez, CA 
+Chesapeake Biological Laboratory; Solomons, MD 
+Centro de Investigacionies Energeticas Medioambientales y Tecnologicas; Madrid, Spain 
+City of Los Angeles Environmental Monitoring Division; Playa del Rey, CA 
+City of San Jose Environmental Services Department; San Jose, CA 
+Columbia Analytical Services; Kelso, WA 
+East Bay Municipal Utility District; Oakland, CA 
+Florida Department of Environmental Protection; Tallahassee, FL 
+Manchester Environmental Laboratory; Port Orchard, WA 
+Murray State University; Murray, KY 
+Massachusetts Water Resources Authority Central Lab; Winthrop, MA 
+National Research Council of Canada; Ottawa, Ontario, Canada 
+<e  Bay
+National  Oceanic  and  Atmospheric  Association  (NOAA),  National  Marine  Fisheries  Service  (NMFS),  Auke  Bay 
+
+Laboratory; Juneau, AK 
+
+NOAA, National Ocean Service/Center for Coastal Environmental Health and Biomolecular Research; Charleston, SC 
+NOAA, NMFS, Sandy Hook Marine Laboratory; Highlands, NJ 
+NOAA, NMFS, Northwest Fisheries Science Center; Seattle, WA 
+Orange County Sanitation District; Fountain Valley, CA 
+Philip Analytical Services; Burlington, Ontario, Canada 
+Serv de Hidrografia Naval; Buenos Aires, Argentina 
+Skidaway Institute of Technology; Savannah, GA 
+Southwest Laboratory of Oklahoma; Broken Arrow, OK 
+Severn Trent Knoxville Laboratory; Knoxville, TN 
+Texas A&M University, Geochemical and Environmental Research Group; College Station, TX 
+Texas Parks and Wildlife Department; San Marcos, TX 
+University of California at Los Angeles, Institute of Geophysics and Planetary Physics; Los Angeles, CA 
+University of Connecticut, Environmental Research Institute; Storrs, CT 
+University of Rhode Island, Graduate School of Oceanography; Narragansett, RI 
+US Department of Agriculture, Environmental Chemistry Laboratory; Beltsville, MD 
+US Environmental Protection Agency, Atlantic Ecology Division; Narragansett, RI 
+US Geological Survey, National Water Quality Laboratory; Denver, CO 
+Woods Hole Group Environmental Lab; Raynham, MA 
+Wright State University; Dayton, OH 
+
+SRM 1941b 
+
+Page 14 of 15 
+
+APPENDIX B 
+ 
+The laboratories listed below performed measurements that contributed to the certification of alkylated PAH groups, 
+hopanes, and steranes in SRM 1941b Organics in Marine Sediment. 
+ 
+Alpha Analytical, Inc.; Mansfield, MA 
+Analytical Resources, Inc.; Tukwila, WA 
+Axys Analytical Services; Sydney, BC, Canada 
+Battelle Analytical & Environmental Chemistry Laboratory; Duxbury, MA 
+Center for Laboratory Sciences; Pasco, WA 
+Columbia Analytical Services; Jacksonville, FL 
+Columbia Analytical Services; Rochester, NY 
+Columbia Analytical Services, Kelso, WA 
+Florida Department of Environmental Protection; Tallahassee, FL 
+Florida International University; North Miami, FL 
+Michigan Department of Natural Resources and Environment; Lansing, MI 
+Mississippi State Chemical Laboratory; Mississippi State, MS 
+NIST; Charleston, SC 
+NIST; Gaithersburg, MD 
+NOAA/NCCOS/NOS; Charleston, SC 
+NOAA/NMFS/Alaska Fisheries Science Center; Juneau, AK 
+NY State Department of Health; Albany, NY 
+Pace Analytical Services, Inc. Minneapolis; Minneapolis, MN 
+RJ Lee Group, Inc; Monroeville, PA 
+TDI/B&B Laboratories, Inc.; College Station, TX 
+TestAmerica Laboratories; Mobile, AL 
+TestAmerica Laboratories; West Sacramento, CA 
+TestAmerica Laboratories; University Park, IL 
+TestAmerica Laboratories; Schriever, LA 
+TestAmerica Laboratories; Edison, NJ 
+TestAmerica Laboratories; Knoxville, TN 
+TestAmerica Laboratories; Pittsburgh, PA 
+TestAmerica Laboratories; South Burlington, VT 
+TestAmerica Laboratories; Tacoma, WA 
+US Army Engineer Research and Development Center; Vicksburg, MS 
+USGS Columbia Environmental Research Center; Columbia, MO 
+University of Iowa, State Hygienic Laboratory; Iowa City, IO 
+Washington State Public Health Laboratories; Shoreline, WA 
+ 
+ 
+
+SRM 1941b 
+
+Page 15 of 15 
+
+

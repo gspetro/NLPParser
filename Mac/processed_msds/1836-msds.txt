@@ -1,0 +1,406 @@
+﻿ 
+
+ 
+
+ 
+
+MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+
+MSDS Coordinator:  Mario Cellarosi  
+Telephone:  301-975-6776 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  1836 
+MSDS Number:  1836 
+SRM Name:  Nitrogen in Lubricating 
+ 
+Base Oil 
+Date of Issue:  05 November 2007 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Description:  A unit of SRM 1836 consists of four 5 ml vials each of four different lubricating base oils.  Each vial 
+contains approximately 4 g of liquid. 
+
+Substance: Lubricating Base Oil 
+
+Other Designations:  Lubricating Base Oil (mineral oil; distillates [petroleum], hydrotreated middle). 
+
+2.  COMPOSITION AND INFROMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+CAS Registry 
+
+EC Number (EINECS) 
+
+Mass Fraction (%) 
+
+Lubricating Base Oil 
+
+64742-46-7 
+
+265-148-2 
+
+100 % 
+
+ 
+(a) Hazardous components 1 % or greater; carcinogens 0.1 % or greater are listed in compliance with OSHA 29 CFR 1910.1200. 
+
+EC Classification (assigned):  Carcinogen Category 2 
+
+EC Hazard Symbol:  T 
+
+EC Risk (R):  R45 
+
+EC Safety (S):  S45, S53 
+
+3.  HAZARDS IDENTIFICATION 
+
+Major Health Hazards:  None listed. 
+
+ 
+Potential Health Effects 
+
+EC Risk/Safety Phrases:  See Section 15 “Regulatory Information” 
+
+NFPA Ratings (Scale 0–4): 
+
+ 
+
+Health = 1 
+
+Fire = 1  
+
+Reactivity = 0  
+
+Inhalation:  Acute exposure by inhalation of mists of insoluble oils are not usually harmful to the respiratory 
+tract.  Chronic exposure may cause fibrotic nodules and lipid pneumonia. 
+
+Skin Contact:  Prolonged or repeated contact may result in irritation or dermatitis. 
+
+Eye Contact:  Slight irritation with acute exposure. 
+
+Ingestion:  Ingestion of this material is unlikely under normal laboratory conditions.  Lung damage may occur 
+if aspirated into the lungs and may be fatal.  Symptoms include coughing, difficulty breathing and pulmonary 
+edema.  Mineral oils may cause gastrointestinal disturbances such as diarrhea. 
+
+MSDS 1836 
+
+Page 1 of 4 
+
+ 
+
+ 
+ 
+ 
+
+Listed as a Carcinogen/Potential Carcinogen: 
+
+In the National Toxicology Program (NTP) Report on Carcinogens. 
+In the International Agency for Research on Cancer (IARC) Monographs. 
+By the Occupational Safety and Health Administration (OSHA). 
+ 
+4.  FIRST AID MEASURES 
+
+Yes 
+
+No 
+
+ 
+ 
+ 
+
+  X 
+X 
+X 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing have qualified personnel give 
+artificial respiration.  Get immediate medical attention. 
+
+Skin Contact:  Wash exposed skin with soap and water for at least 15 minutes.  Remove any contaminated clothing. 
+
+Eye  Contact:    Immediately  flush  eyes  with  copious  amounts  of  water  for  at  least  15  minutes.    Get  immediate 
+medical attention. 
+
+Ingestion:  Aspiration hazard.  If swallowed DO NOT induce vomiting.  If vomiting occurs, keep head lower than 
+hips  to  prevent  aspiration.    Seek  immediate  medical  attention.    If  not  breathing  have  qualified  personnel  give 
+artificial respiration. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide, regular foam. 
+
+Fire Fighting:  Wear full protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard. 
+
+Flash Point (°C) :  184 °C to 204 °C  
+Method Used:  TCC 
+
+Autoignition Temp. (°C):  > 210 °C. 
+
+Flammability Limits in Air 
+ 
+ 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Absorb small spills with sand or other non-combustible materials.  Collect spilled material 
+and place in an appropriate container for disposal 
+
+Disposal:Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Store in a cool dry place. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+ 
+ 
+ 
+ 
+ 
+
+Mineral Oil Mist: 
+OSHA (PEL):  5 mg/m3 TWA (oil mist) 
+NIOSH:  5 mg/m3 recommended TWA (10 hours)  
+NIOSH:  10 mg/m3 recommended STEL 
+ACGIH STEL:  10 mg/m3  
+
+MSDS 1836 
+
+Page 2 of 4 
+
+ 
+
+Ventilation:  Use a local exhaust ventilation system.  Ensure compliance with applicable exposure limits 
+
+Respirator:    A  respiratory  protection  program  that  meet  OSHA  29  CFR  1910.134  and  ANSI  Z88.2  requirements 
+must be followed if workplace conditions warrant a respirator.  Refer to the “NIOSH Guide to the Selection and Use 
+of Particulate Respirators Certified under 42 CFR 84” for selection and use of respirators certified by NIOSH. 
+
+Eye Protection:  Wear safety goggles.  An eye wash station should be readily available near areas of use. 
+
+Personal Protection:  Wear  appropriate  protective  clothing  and  chemically  resistant  gloves  to  prevent  skin 
+exposure. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Lubricating Base Oil 
+
+Appearance and Odor:  Clear, colorless, oily liquid.  Faint petroleum odor. 
+
+Specific Gravity:  0.80 – 0.87  
+
+Boiling Point:  205 °C to 400 °C 
+
+Volatility:  19.2 % 
+
+Water Solubility:  < 0.01 % @ 25 °C 
+
+Solvent Solubility:  Soluble in hydrocarbons. 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+ 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Conditions to Avoid:  Avoid contact with incompatible materials, heat, flame, sparks and other sources of ignition. 
+
+Incompatible Materials:  Oxidizers. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition produces oxide of carbon and aldehydes. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION  
+
+Route of Entry: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+ 
+
+ 
+
+Toxicity Data:  Not available 
+ 
+Health Effects (Acute and Chronic):  See section 3: “Hazards Identification” for potential health effects. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  Not available. 
+
+Environmental Summary:  The material is NOT expected to leach through the soil and accumulates very little in 
+the bodies of living organisms. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and ICAO/IATA:  This material is not regulated. 
+
+MSDS 1836 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/1103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Sections 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Sections 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Sections 313 (40 CFR 372.65):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+Yes  
+ACUTE:   
+Yes 
+CHRONIC:   
+No 
+FIRE:  
+REACTIVE:  
+No 
+SUDDEN RELEASE:    No 
+
+OSHA Process Safety (29 CFR 1910.119): Not regulated  
+
+EC Classification (Assigned):  Carcinogen Category 2. 
+(EC Classification my be inconsistent with independently researched data). 
+
+California Proposition 65: Not regulated. 
+
+STATE REGULATIONS 
+ 
+ 
+CANADIAN REGULATIONS 
+ 
+ 
+EUROPEAN REGULATIONS 
+ 
+ 
+
+WHMIS Classification:  Not determined 
+
+Danger/Hazard Symbol:  T – Toxic. 
+
+EC Risk Phrases:   
+
+R45  May cause cancer. 
+
+EC Safety Phrases: 
+
+ 
+ 
+ 
+ 
+National Inventory Status 
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12 (b) Export Notification:  Not listed. 
+
+S45  In case of accident or if you feel unwell, seek medical advice immediately (show label if possible). 
+S53  Avoid exposure – obtain special instructions before use. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  MDL Information Systems, Inc., MSDS Hydrotreated Middle Distillate, 14 June 2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  Physical and chemical data contained in this MSDS are provided only for use as a guide in assessing 
+the hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST 
+does  not  certify  the  data in the MSDS.  The certified values for this material are given in the NIST Certificate of 
+Analysis. 
+
+MSDS 1836 
+
+Page 4 of 4 
+
+

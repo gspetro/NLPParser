@@ -1,0 +1,575 @@
+﻿owe, 
+Ne  g- 
+
+Somes  or
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2037 
+
+ 
+
+ 
+Solvent Red 24 Diesel Fuel Dye 
+ 
+This Standard Reference Material (SRM) is intended for the verification and calibration of spectrophot ometers used 
+to measure the concentration of Solvent Red dyes employed as colorants to mark “off-road” diesel fuel.  SRM 2037 
+is certified for the purity of the Solvent Red 24 Dye (C
+24H20N4O, molecular mass 380.45) and for the second-
+derivative-based molecular absorption coefficients (extinc tion coefficients) of solutions of Solvent Red 24 Dye in 
+p-xylene and in 97:3 (v:v) kerosene:
+screw-capped bottle containing approximately 100 mg of solid Solvent Red 24 Dye. 
+ 
+Certified Values:   A NIST certified value is a value for which NIST  has the highest confid ence in its accuracy and 
+that all known or suspected sources of bias have been investigated or accounted for by NIST [1].  The certified mass 
+fraction (purity) of the Solvent Red 24 dye is given in Table 1.  The certified second-derivative-
+based molecular 
+absorption coefficients, defined as  ∆D2 / bc, which corresponds to an absorption coefficient based on second 
+derivative absorbance spectra, where  ∆D2 is the difference between the local  maximum and local minimum second 
+e concentration, for 
+derivative absorbance values at the wavelengths given in Table 2, b is the pathlength and c is th
+solutions of SRM 2037 at a 95 % uncertainty interval (at 22.5 °C  ±  0.5 °C) are listed in Table 2. 
+ 
+
+p-xylene.  Each unit of SRM 2037 consists of an amber 30 mL (1 oz), 
+
+Table 1.  Mass Fraction (Purity) of Solvent Red 24 Dye  
+
+ 
+  
+  
+ Constituent 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Solvent   
+ 
+ 
+ 
+p-Xylene 534 
+
+ 
+
+ 
+Mass 
+
+95 
+
+(%) 
+
+Interval 
+
+Solvent Red 24 Dye 
+ 
+
+Fraction  Uncertainty 
+
+% 
+
+98.0 
+
+92.3 %  to  100 % 
+
+Table 2.  Second-Derivative-Based Molecular Absorption Coefficients 
+for Solutions of Solvent Red 24 Dye 
+
+Wavelength of Second 
+Derivative Maximum 
+(nm) 
+
+(nm) 
+
+ 
+
+(L 
+
+Wavelength of Second 
+Derivative Minimum 
+
+557 0.088 
+
+Second-Derivative-Based 
+Absorption Coefficients 
+g-1cm-1) (L 
+  ±   0.005 
+
+mol-1cm-1) 
+33   ±   2 
+
+  ±   0.006 
+
+39   ±   3 
+
+Kerosene:p-Xylene 531 
+
+555 
+
+0.101 
+
+ NIST will monitor this SRM over the period of its certification.  If 
+
+ 
+Expiration of Certification:  The certification of this SRM is valid until  31 October 2014, within the measurement 
+uncertainties specified, provided the SRM  is handled and stored in accordance w ith the instructions given here (see 
+“Instructions for Use”).   
+ 
+Maintenance of SRM Certification: 
+substantive changes occur that affect the certification befo re the expiration of this certificate, NIST will notify the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of technical meas
+G.W. Kramer of the NIST Analytical Chemistry Division.   
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:   23 February 2005 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+urements leading to certification were performed by 
+
+ 
+
+SRM 2037 
+
+ 
+
+Page 1 of 4 
+
+Production and certification of SRM 2037 were performed by P.C. DeRose, B. Coxon, and G.W. Kramer of the NIST 
+Analytical Chemistry Division with a
+tterfield, D.M. Bunk, M.J. Welch, 
+ssistance from D.L. Duewer, M.B. Sa
+E. White V, S.A. Margolis, J.R. Sieber, B.J. Porter, and M.M. Schantz of the NIST Analytical Chemistry Division.   
+ 
+Statistical consultation was provided by H–k. Liu of the NIST Statistical Engineering Division. 
+ 
+Packaging of SRM 2037 was coordinated through the NIST Standard Reference Materials Program by M.P. Croni se 
+of the NIST Measurement Services Division.   
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Standa
+Materials Program by B.S. MacDonald of the NIST Measurement Services Division.  
+ 
+Reference Values:   A NIST reference value is a non-certified value th
+however, the value does not meet NIST criteria for certification and is provided with associated uncertainty that may 
+reflect only measurement preci sion and may not include all sources of uncertainty [1].  Reference values for the 
+molecular absorption coefficient for solutions of SRM 2037 at a 95 % uncertainty interval (at 22.5  °C  ±  0.5 °C) are 
+listed in Table 3. 
+ 
+
+at is the best estimate of the true value; 
+
+rd Reference 
+
+Table 3.  Molecular Absorption Coefficients for Solutions of Solvent Red 24 Dye 
+
+ 
+
+Solvent 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+p-Xylene 520.5 
+
+Kerosene:p-Xylene 515.3 87.9 
+
+Wavelength  Molecular 
+
+(nm) 
+
+(L g
+
+Absorption Coefficients 
+mol-1cm-1) 
+
+-1cm-1) (L 
+
+87.4   ±   5.7 
+
+33 200   ±   2 200 
+
+  ±   5.7 
+
+33 400   ±   2 200 
+
+ 
+Information Values:  A NIST information value is considered to be a value that will be of interest and use to the 
+SRM user, but insufficient information is available to assess  adequately the uncertainty associated with the value or 
+d for information 
+only a limited number of analyses were performed [1].  A NIST information value is provide
+purposes only.  Information values for the temperature coe fficients of the second-deriv ative-based coefficients and 
+the temperature coefficients of the absorption coefficients are listed in Table 4. 
+ 
+
+Table 4.  Temperature Coefficients of the Second-Derivative-Based Coefficients and  
+Temperature Coefficients of the Absorption Coefficients 
+
+Temperature 
+
+Temperature Coefficients 
+
+of the  
+
+Second-Derivative-Based Coefficients the 
+(% per ºC) 
+
+Temperature Coefficients of  
+Absorption Coefficients 
+
+(% per ºC) 
+
+ 
+  
+Solvent Range 
+ 
+ 
+p-Xylene 19 
+
+ 
+ 
+
+ 
+
+Kerosene:p-Xylene 19 
+
+to 37 
+
+ 
+
+(ºC) 
+
+to 37 
+
+ 
+
+ 
+
+ 
+
+−1.2 
+
+−1.1 
+
+−0.22 
+
+−0.25 
+
+ 
+INSTRUCTIONS FOR USE 
+ 
+CAUTION:   Solvent Red 24 has been   designated a possible mutagen   and is a common biological colorant for
+ 
+staining lipids and fatty substances in cells and tissues.  Proper hand and eye protection should always  be used when 
+e amounts of the solid dye 
+handling this SRM.  The material and its solutions are intensely red and nearly invisibl
+can stain clothing, equipment, etc. if handled improperly.  Any unused material should be discarded properly
+ (see 
+the Material Safety Data Sheet (MSDS) accompanying the SRM. 
+ 
+This material is not hydroscopic under the normal conditions of storage as described above and can be used without  
+preliminary drying. 
+ 
+This material is not easily dissolved in aliphatic hydro
+preparation of such solutions, dissolution of a weighed amount of the solid dye in a small amount
+hydrocarbon (e.g., toluene or xylene in which it is more soluble) followed by dilution with the aliphatic material is 
+suggested.  
+ 
+Software routines for calculating second derivative spectra often contain magnitude scaling factors [4
+Furthermore, the type and amount of spectral smoothing used when determining the second derivatives can affect 
+
+carbons (e.g., kerosene or di
+
+esel fuel).  To facilitate 
+
+ of an aromatic 
+
+−6].  
+
+SRM 2037 
+
+ 
+
+Page 2 of 4 
+
+dor may be necessary if th
+
+the result calculations [4 −8].  The user is urged to thoroughly understand the calculations being utilized in the 
+method employed.  Consultation with the instrument ven
+documented. 
+ 
+Source of Material: .  The Solvent Red 24 dye was obtained from  Aldrich Chemical Comp any (Milwaukee, WI): 
+Sudan IV, Certified, P/N 19810-2, Lot 05716ER and purified by Regis Technologies, Inc. (Morton Gro ve, IL): Lot 
+No. P144-61-1.1  Figure 1 shows both the azo-phenol (1a) and quinone-hydrazone (1b) structures of Solvent R ed 24 
+dye.  Spectral evidence suggests that  structure 1b predominates; however, the distribution of tautomers depends on 
+the solvent and temperature.   Steric factors argue for the  E-configurations about the nitrogen double bounds, but  1H 
+NMR evidence suggests that a Z configuration can exist for the simple azo substructure. 
+ 
+
+e algorithms are not fully 
+
+CH3
+
+N
+
+N
+
+CH3
+
+N
+
+N
+
+H
+
+O
+
+CH3
+
+N
+
+N
+
+CH3
+
+N
+
+N
+
+H
+
+O
+
+ 
+Figure 1.  Tautomeric Structures of Solvent Red 24 Dye 
+
+ 
+Determination of Solvent Red 24 Dye Purity:   Table 5 summarizes the Solvent Red 24 dye purity and impurity 
+determinations on the material used for SRM 2037. 
+ 
+
+Table 5.  Summary of Solvent Red 24 Dye Purity and Impurity  
+Determinations and Associated Uncertainties 
+
+Constituent Technique 
+
+ 
+
+ 
+
+Mass Fraction 
+(%) 
+ 
+
+Solvent Red 24 Dye 
+
+1H NMR(a) & HPLC(b) 97.95 
+
+92.26 
+
+Orange OT Dye 
+
+Chloroform 
+
+Water Karl 
+
+Total Organics 
+
+1H NMR(a) & HPLC(b) 0.44 
+
+1H NMR(a) 0.30 
+
+Fisher Titration 
+
+0.05 
+
+CHON Analysis(c) 99.96 
+
+Other Solvent Red Type Dyes 
+
+HPLC(b) 0.07 
+
+Uncertainty  
+(U95) 
+ 
+to 100 
+
+±  0.13 
+
+±  0.04 
+
+±  0.01 
+
+±  0.03 
+
+±  0.26 
+
+ 1a 1b 
+
+ 
+
+ 
+
+(a)  500 MHz Proton Nuclear Magnetic Resonance Spectroscopy 
+(b)  High Performance Liquid Chromatography and High Performance Liquid Chromatography-Mass Spectrometry, both 
+
+(c)  Elemental analyses carried out by Atlantic Microlab, Inc.1 (Norcross, GA) and Galbraith Laboratories, Inc. (Knoxville, TN). 
+
+normal and reversed phase 
+
+ 
+
+Assignment of Uncertainties:  
+components equivalent to the estimated standard deviation for a normal distribution were assigned fo r measurement 
+repeatabilities and were combined with balance accur
+uncertainties using the root-sum-of-squares method.  An expansion factor of 
+
+Except for the Solvent Red 24 purity determination, standard uncertainty 
+
+acy uncertainties and estimated instrument method 
+
+k = 2  was applied such that the 
+
+                                                           
+
+1Certain commercial equipment, instruments, or materials are identified in this certificate in order to specify adequately 
+
+the experimental procedure.  Such identification does not im ply recommendation or endorsement by the National Institute of 
+Standards and Technology, nor does it imply  that the materials or equipment identified  are necessarily the best available for t he 
+purpose. 
+SRM 2037 
+
+Page 3 of 4 
+
+ 
+
+expanded uncertainties given in this cer tificate express an interval within which the true value is expected to fall 
+with a level of confidence of approximately 95 % [2].  The uncertainty of the purity of the Solven
+t Red 24 was 
+handled differently because for any mate rial the upper limit for purity is 100  %.  Accordingly, a Baysian approach 
+was used that distributes the calculated combined uncertainty density uniformly across the constrained mass fraction 
+range to give an unsymmetrical interval bounded by 100 %  within which the true value is expected to fall with a 
+level of confidence of approximately 95 % [3]. 
+ 
+SRM Stability:   NIST has monitored the stability of solutions of prototype materials similar to SRM 2037 for over 
+36 months.    Within the error of the measurem ents, the absorbance spectrum of the prototype solutions did not 
+change, providing the solutions were stored in the dark.   Exposure of solutions of Solvent Red 24 and similar dyes 
+to sunlight or other sources of ultraviolet light causes slow fading of the red color and a decrease in the mo
+lecular 
+absorption coefficient due to photochemical decomposition of the dye itself.  No specific photostability studies have 
+been carried out on the solid dye, but given the solution results, it seems prudent to store the SRM in its original 
+amber container in the dark.    SRM 2037, if stored tightly re-capped, in the dark between 15 
+likely maintain its original optical properties for the duration of its certification period and perhaps beyond that. 
+NIST will validate this conclusion by periodic monitoring of the stability over the time the lifetime of the SRM. 
+ 
+ 
+
+°C  and 30  °C, will 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C; Fassett, J; Greenbe
+
+rg, R.; Guenther, F; Kramer, G; Wise, S.; Gills, T.; 
+
+Colbert, J.; Gettings, R; MacDonald, B.;  Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of Reference Materials for Chemical Measurements; NIST Special Publication 260−136 (2000). 
+
+[2] ISO;  Guide to the Expression of
+
+ Uncertainty in Measurement ; ISBN 92-67-10188-9, 1st ed., International 
+
+Organization for Standardization:  Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+; NIST Technical Note 1297, 
+
+A Last-Second Correction in Trace Analysis ; International Laboratory, Vol. 17, pp. 62 −65 
+
+[3] De Jongh, W.K.; 
+(1986). 
+
+[4]  Mark, H.; Workman, J.;  Derivatives in Spectroscopy : Part I  − The Behavior of the Derivative ; Spectroscopy, 
+
+[5]  Mark, H.; Workman, J.;  Derivatives in Spectroscopy : Part II  − The True Derivative ; Spectroscopy , Vol. 18, 
+
+Vol. 18, No.4, pp. 32 – 37 (2003). 
+
+No. 9, pp. 25 – 28 (2003) 
+
+Vol. 18, No. 12, pp. 106 – 111 (2003). 
+
+pp. 79 – 85 (1979). 
+
+pp. 101 – 112 (1980). 
+
+[6]  Mark, H.; Workman, J.;  Derivatives in Spectroscopy : Part II  −  Computing the Derivative :  Spectroscopy 
+
+[7] Calhill, J.E.; 
+
+_Laboratory,  Vol.  11,  No.  11,
+Derivative Spectroscopy: Understanding Its Application; American Laboratory, Vol. 11, No. 11, 
+
+[8]  Cahill, J.E.; Padera, F.G.; Derivative  Analysis of UV/Visible Spectra ; American Laboratory, Vol. 12, No. 4, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be
+  accomplished by 
+contacting the SRM Program at:  telepho ne (301) 975-6776; fax (301) 926-4751;  e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+ 
+
+SRM 2037 
+
+ 
+
+Page 4 of 4 
+
+

@@ -1,0 +1,271 @@
+﻿he 
+
+   
+
+wit 
+
+U.  S.  Departmgifvof  Commerce 
+Malcoini  Raldrige 
+
+National  £ 
+
+  
+
+National  Bureau  of  Standards 
+
+Certificate 
+
+Standard  Reference  Material  2202 
+
+Potassium  Chloride 
+
+(Standard  for  lon-Selective  Electrodes) 
+
+B.  R.  Staples 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  calibration  of  ion-selective  electrodes  for 
+potassium  and  chloride  ions.  SRM  2202  consists  of  approximately  160go0f ACS  Potassium  Chloride.  It  conforms  to  the 
+American  Chemical  Society  specifications  for  analytical  reagent-grade  material,  but  should  not  be  considered  entirely 
+free  from  impurities  such  as  occluded  water  and  traces  of  bromide  and  heavy  metals.  Coulometric  analysis  of  this 
+material  indicates  99.9  percent  purity,  and  upon  drying  at  500  °C  for  24  hours,  99.99  percent  of  the  calculated  chloride 
+was  found. 
+
+This  material  is  certified  for  the  activity  coefficients  at  25  °C  of the  potassium  and  chloride  ions  at  various  concentrations 
+and  the  related  values,  pK  and  pCl.  These  values  are  given  in  the  table  on  the  reverse  page.  The  accuracies  of the  pK  and 
+pC!  values  are  estimated  to  be  +  0.01.  The  mean  activity  coefficient  may  be  represented  by  the  equation: 
+
+logyt  = 
+
+AZ+Z-IAl™  4  gt  4  CP  4  DE 
+
+. 
+
+y 
+
+1+Bi% 
+
+where  I 
+Debye  ~  Hiickel  constants. 
+constants  at  25  °C  are: 
+
+is  the  ionic  strength  at  25  °C,  Z+  the  charge  on  the  cation,  7~  the  charge  on  the  anion,  and  A  and  B  the 
+Both  Z+  and  Z—  are  |  in  the  case  of  potassium  chloride.  The  numerical  values  of  the 
+
+0.5108 
+
+A= 
+B=  =  1.295 
+0.00007 
+B= 
+6.003599 
+C= 
+D=(—)0.0001954 
+These  constants  are  valid  to  4.8  mola!  (saturation),  The  amounts  of  interfering  ions  in  this  material  (bromide, 
+sodium,  etc.)  were  each  less  than  0.01  wt.  percent. 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed 
+under  the  chairmanship  of  R.A.  Durst. 
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard 
+Reference  Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  T.W.  Mears. 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materiais 
+
+Washington,  DC  20234 
+March  30,  1984 
+(Revision  of  Certificate 
+dated  2-22-71) 
+
+  
+
+(over)
+
+  
+
+Certified  values  of  activity,  activity  coefficients  (y)  pK  and  pCi  at  25  °C 
+
+  
+
+  
+
+Molality 
+(m) 
+
+Molarity 
+(MM) 
+
+Concentration® 
+(2/5 
+
+  
+
+xt 
+
+ci 
+
+0.001 
+6! 
+t 
+2 
+3 
+5 
+16 
+15 
+2.0 
+
+  
+
+0.000997 
+60997 
+0994 
+1983 
+2967 
+4916 
+9692 
+1.4329 
+1.8827 
+
+6.6396 
+3898 
+3.887 
+7.754 
+11.602 
+19.223 
+37,898 
+56.029 
+73.617 
+
+6.0353 
+5535 
+3.524 
+7.836 
+1G.S19 
+17.429 
+34.361 
+50.801 
+66.747 
+
+Mesa 
+Mola! 
+yt 
+
+@.965 
+SG! 
+768 
+FF 
+887 
+649 
+604 
+584 
+373 
+
+Activity 
+feation) 
+
+O.0G0865 
+0901 
+778 
+£44 
+208 
+336 
+623 
+O17 
+129 
+
+“et 
+
+6.965 
+301 
+178 
+fii 
+493 
+659 
+623 
+Gt 
+D9 
+
+Activity 
+{anion} 
+
+6.000965 
+690! 
+O66 
+143 
+204 
+326 
+586 
+836 
+L077 
+
+yO" 
+
+pk 
+
+pci 
+
+6.965 
+G1 
+1S 
+743 
+681 
+639 
+586 
+3558 
+539 
+
+3.016 
+2.045 
+Rai2 
+G.841 
+G82 
+A482 
+206 
+O376 
+mm 
+
+3.916 
+2.045 
+1.115 
+0.846 
+.690 
+495 
+-232 
+-078 
+wo 
+
+  
+
+  
+
+*To  convert  to  parts  per  million  (mg/l)  multiply  by  10? 
+
+The  mean  activity  coefficient  at  temperatures  from  15  to  45  °C  and  for  any  concentration  up  to  0.1  molal  may  be 
+obtained  by  using  the  equation  on  the  face  of  the  certificate  and  these  temperature-dependence  expressions  for  its 
+constants  A,  and  B  (Constants  6,  C  and  D  are  unimportant  at  0.1  molal  and  below.) 
+
+A  =  0.5108  +  8.4705  x  10“  (-25)  +  3.5498  x  107°  (t-25)" 
+B  =  1.295  (1.6  +  4.7218  x  10“  (t-25)). 
+
+The  values  for  pK  and  pC!  may  be  calculated  from  log  y+  using  the  procedure  described  by  Bates,  Staples,  and 
+Robinson  [Anal.  Chem.  42,  867  (1976)  ]. 
+
+Preparation  of  Standard  Solutions 
+
+To  prepare  a  1.0  molal  solution,  transfer  72.234  g  of  potassium  chloride  (weight  in  air)  to  a  1-liter  volumetric  flask. 
+Dissolve  and  fill  to  the  mark  with  distilled  water  at  25°C.  The  distilled  water  should  have  a  conductivity  no  greater  than 
+2x10°O"'.  The  potassium  chloride  should  be  dried  for  2  hours  at 
+110°  C  before  use.  Similarly,  a  0.1  molal  solution  may 
+be  prepared  by  the  transfer  of  7.410  g  of  potassium  chloride  (weight in  air)  to  a  1-liter  volumetric  flask,  dissolving,  and 
+diluting  to  mark  with  distilled  water  at  25°  C.  Appropriate  dilution  of  either  standard  solution  should  be  used  to  obtain 
+standards  in  the  concentration  range  of  interest  to  the  user. 
+
+Blectrode  Calibration 
+
+It  is  recommended  that  reference  standards  be  used  at  a  concentration  similar  to  that  of  the  sample  to  minimize  liquid 
+junction  potential  errors. 
+Use  of  a  bracketing  technique  will  minimize  errors  due  to  non-Nernstian  response  of  the 
+electrodes. 
+The  use  of  two  standard  solutions  that  bracket  the  concentration  of  the  sample  solution  increases  the 
+reliability  of  the  measurement.  Thus,  if  standard  solutions  of  concentrations  slightly  higher  and  lower  than  the  sample 
+solution  are  used  to  calibrate  the  pH/millivolt  meter,  the  error  due  to  liquid  junction  potential  will  be  small.
+
+

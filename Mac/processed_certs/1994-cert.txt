@@ -1,0 +1,935 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate 
+Standard Reference Material® 1994 
+
+ 
+
+ 
+Standard Silicon Single Crystal Wafer for Crystalline Orientation 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  the  calibration  of  instruments  (X-ray 
+diffractometers)  used  to  measure  the  crystal  orientation  of  wafers  relative  to  the  crystal  surface.    The  SRM  unit 
+consists of a 100-mm diameter silicon wafer.  The crystal orientation of the (001) silicon crystal planes relative to 
+the surface normal has been measured both parallel and perpendicular to an edge flat that is manufactured into the 
+wafer.  
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  is  deemed  to  be  indefinite  within  the  stated 
+uncertainties,  provided  the  SRM  is  stored  and  handled  in  accordance  with  the  (“Storage  and  Handling  and 
+Instructions  for  Use”)  sections  of  this  certificate.    However,  certification  will  be  nullified  if  the  SRM  is 
+contaminated or otherwise altered.   
+ 
+Maintenance of Certified Values:  NIST will monitor this SRM and if substantive changes occur in the certified 
+values, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Instructions  for  Use:    Dust  should  be  removed  from  the  SRM  wafer  surface  and  the  wafer  mount  prior  to 
+installation in the X-ray diffractometer.  The flat manufactured into the wafer should be mounted either parallel or 
+perpendicular  to  the  X-ray  plane  of  dispersion.    Consult  the  equipment  manufacturer’s  operating  instructions  for 
+performing the actual measurements with the SRM.  Measurements should be made near the center of the wafer. 
+ 
+Storage and Handling:  Silicon is typically inert under ambient and testing conditions.  The silicon wafer may be 
+returned to wafer storage box and reused.  The wafer should not be dropped or similarly mechanically stressed.  
+ 
+Coordination for this SRM was provided by E.C. Benck and R.J. Matyi of the NIST Atomic Physics Division. 
+ 
+The  crystal  orientation  measurement  technique,  development,  and  certification  were  performed  by  E.C.  Benck  of 
+the NIST Atomic Physics Division. 
+ 
+Statistical analysis was performed by B. Toman of the NIST Statistical Engineering Division. 
+ 
+The  support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement 
+Services Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Carl J. Williams, Chief 
+Atomic Physics Division 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  06 February 2007 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 6 
+
+SRM 1994 
+
+ 
+
+Summary  of  Analytical  Method:    The  angular  measurements  were  made  using  a  high  resolution  double  crystal 
+X ray diffractometer.  The diffractometer utilizes a nominal non-dispersive geometry with a fixed first crystal; for 
+this work, a (004) reflection from a highly perfect silicon reference crystal is used.  The sample crystal is mounted 
+on an Ultradex1 precision indexing table that is in turn mounted on a high precision rotation spindle that is driven 
+by  a  stepper  motor  and  non-rotating  micrometer  via  a  sine  arm.    The  inclusion  of  the  Ultradex  table  allows  the 
+sample to be indexed in 1° increments for large excursions while leaving the sine arm drive (total angular range of 
+approximately ± 3°) for precision movements. 
+ 
+Attached  to  the  sample  rotation  spindle  is  a  polarization-encoded  optical  angle  interferometer  that  employs  a 
+calibrated (NIST-traceable) He-Ne laser source.  Measurements of angle were performed by counting interference 
+fringes,  with  a  calibration  relating  fringes  to  angle  increment  having  been  established  by  conventional  angle 
+metrology methods.  Since the wavelength of the interferometer is traceable to the SI, the measurements of angular 
+misorientation are as well.  
+
+The following measurement procedure was used for each of the silicon wafers in the production run: 
+
+1.  The wafers were used as supplied by the vendor, with no additional preparation. 
+vendor,  with  no  additional  preparation.
+
+2.  The sample was mounted on a precision rotation axis (φ-axis) with the wafer flat parallel to the plane of 
+dispersion.  The sample and φ-axis are mounted on the sample rotation or ω-axis of a double crystal X-ray 
+diffractometer.  The X-ray beam nominally samples the center of the wafer.  The ω-axis is perpendicular to 
+the X-ray plane of dispersion; the rotation of this axis will be calibrated using circle closure with an optical 
+polygon and a precision-nulling autocollimator.  Angles were measured using a polarization-encoded angle 
+interferometer.  These attributes (closure calibration and angle measurement with an angle interferometer 
+with calibrated laser) ensure traceability to the SI. 
+
+3.  The sample surface was aligned with respect to a two-axis electronic autocollimator.  The sample surface 
+was made perpendicular to the autocollimator to a precision of better than 2 × 10-4 radians (i.e., better than 
+4 angular seconds).  The angle in the plane of dispersion corresponding to the crystal being aligned with 
+the  autocollimator  is  determined  from  a  linear  least  squares  fit  to  a  series  of  the  autocollimator  signal 
+versus angle measurements. 
+
+4.  The  (004)  silicon  reflection  from  the  wafer  was  recorded  with  CuKα1  radiation  monochromated  by  a 
+highly perfect Si reference crystal.  The angle was determined by a center-of-mass calculation of the X-ray 
+detector signal and angle measurements.  The difference angle between the autocollimator signal and the  
+X-ray reflection was calculated. 
+
+5.  The sample was rotated 180° about the φ-axis.  Steps (3) and (4) were repeated in order to determine the 
+
+surface normal and reflection angles from which the difference angle was calculated. 
+
+6.  The  difference  angle  between  the  autocollimator  and  the  X-ray  reflection  determined  in  (4)  and  (5)  was 
+summed,  and  one  half  of  this  value  is  the  wafer  misorientation  with  respect  to the  surface  about  an  axis 
+perpendicular to the wafer flat. 
+
+7.  The sample was rotated 90° to orient the wafer flat perpendicular to the plane of dispersion. 
+8.  Steps (3), (4), and (5) were repeated. 
+9.  The difference angles between the autocollimator and the X-ray reflection determined in (8) were summed, 
+and one half of this value is the wafer misorientation with respect to the surface about an axis parallel to 
+the wafer flat. 
+
+ 
+
+ 
+
+                                                           
+
+1 Certain commercial equipment, instruments, or materials are identified in this certificate to adequately describe the 
+experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment are the best available for the purpose. 
+ 
+
+SRM 1994 
+
+Page 2 of 6 
+
+Calibration Uncertainties:  Calibration uncertainty components are listed in Table 1.  
+ 
+
+Table 1.  SRM 1994 Calibration Uncertainty Components 
+
+Error Description 
+ 
+
+Misalignment of surface normal 
+Misalignment of φ-axis 
+Mounting Misalignment 
+Angular Rotation about φ-axis 
+Peak Assignment  
+Measurement Repeatability 
+
+Value  
+(angular seconds) 
+
+negligible 
+negligible 
+
+0.15 
+1.4 
+0.1 
+4 
+
+ 
+Misalignment of the sample normal:  Misalignment of the sample normal out of the plane of the diffractometer by 
+an amount φ leads to a tilt error Δθ = (φ2/2)tanθ. The fact that the error depends on the square of the misorientation 
+means that as the sample is rotated 180° about the φ-axis, the apparent shift in the diffracted peak position will be 
+the same (θ + Δθ); so by taking the difference, the tilt error cancels out. 
+ 
+Misalignment of the φ-axis:  Realignment of the wafer with respect to the autocollimator after each rotation about 
+the  φ-axis  results  in  the  errors  due  to  misalignment  of  the  φ-axis  from  the  plane  of  the  diffractometer  to  be 
+negligible. 
+  
+Mounting  Misalignment:    Error  in  aligning  the  major  flat  to  the  diffractometer  plane  results  in  an  error  in  the 
+direction of the crystal misorientation, but not the overall magnitude. Although care was taken to remove any dust 
+or debris from the wafer and the mounting bar, there always is the possibility of dust causing the wafer flat to be 
+misaligned.  In  addition,  there  is  the  possibility  of  the  wafer  support  itself  being  misaligned  relative  to  the 
+diffractometer  plane  resulting  in  a  systematic  error.  Consequently,  we  estimate  that  the  absolute  accuracy  of  the 
+wafer alignment to be better than 20 angular seconds. For the magnitude of angles being measured, this corresponds 
+to an uncertainty of 0.15 angular seconds. 
+ 
+Angular  Rotation  about  the  φ-axis:    Errors  in  the  angular  positioning  about  the  φ-axis  results  in  the  most 
+significant  uncertainty  in  the  crystal  orientation  measurements.  The  angular  positioning  of  the  φ-axis  bearing  is 
+determined  by  a  set  of  interlocking  gear  teeth.  Based  on  the  manufacturer’s  specifications,  the  angular  accuracy 
+should be better than 4 angular minutes. Consequently, for the magnitude of angles being measured, the maximum 
+systematic uncertainty due to of any measured angles is 1.4 angular seconds.  
+ 
+Peak  Assignment:    Error  in  the  peak  assignment  due  to  statistical  noise  is  not  a  significant  source  of  error.  The 
+intensity of the X-ray beam was maintained to produce reasonable signal-to-noise ratios. Repeat measurements of 
+the same rocking curve without moving the φ-axis bearing result in the same angle measurement to within 0.1 arc 
+seconds. 
+ 
+Measurement  Repeatability:    The  statistical  measurement  uncertainties  of  SRM  1994  were  determined  from 
+repeated measurements of three wafers selected from the production run.  Based on the statistical measurements, an 
+expanded uncertainty at the 95 % level of confidence was determined to be below 4 arc seconds.   
+ 
+Certification  and  Uncertainties:    The  statistical  uncertainty  (type  A)  has  been  combined  with  the  maximum 
+systematic error (type B) in quadrature to determine an overall error for all wafers of 4.2 arc seconds. The certified 
+crystal orientations are listed in Table 2 [1].  
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+SRM 1994 
+
+Page 3 of 6 
+
+Wafer Label 
+
+Angle Parallel to Flat 
+
+Angle Perpendicular to Flat 
+
+Table 2.  Crystal Orientation 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1106_1_01 
+1106_1_02 
+1106_1_03 
+1106_1_04 
+1106_1_05 
+1106_1_06 
+1106_1_07 
+1106_1_08 
+1106_1_09 
+1106_1_10 
+1106_1_11 
+1106_1_12 
+1106_1_13 
+1106_1_14 
+1106_1_15 
+1106_1_16 
+1106_1_17 
+1106_1_18 
+1106_1_19 
+1106_1_20 
+1106_1_21 
+1106_1_22 
+1106_1_23 
+1106_1_24 
+1106_1_25 
+1106_2_1 
+1106_2_2 
+1106_2_3 
+1106_2_4 
+1106_2_5 
+1106_2_6 
+1106_2_7 
+1106_2_8 
+1106_2_9 
+1106_2_10 
+1106_2_11 
+1106_2_12 
+1106_2_13 
+1106_2_14 
+1106_2_15 
+1106_2_16 
+1106_2_17 
+1106_2_18 
+1106_2_19 
+1106_2_20 
+
+(angular minutes) 
+–5 
+–4 
+–5 
+–2 
+1 
+–3 
+0 
+–2 
+3 
+4 
+–1 
+–3 
+2 
+–2 
+–2 
+13 
+–8 
+2 
+3 
+–5 
+18 
+–2 
+9 
+17 
+–1 
+7 
+0 
+–10 
+–2 
+7 
+1 
+–9 
+–1 
+1 
+–3 
+–7 
+–1 
+–6 
+–29 
+–3 
+18 
+–5 
+0 
+2 
+5 
+
+(angular seconds) 
+–23.8 
+–57.7 
+–44.3 
+–30.6 
+33.0 
+–21.0 
+13.9 
+–55.8 
+12.0 
+3.7 
+–21.4 
+–29.8 
+41.0 
+–48.0 
+–16.1 
+24.7 
+–22.9 
+58.9 
+1.6 
+–5.3 
+20.9 
+–57.7 
+18.5 
+11.1 
+–5.8 
+2.8 
+9.0 
+–18.9 
+–8.5 
+59.4 
+8.0 
+–45.7 
+–34.4 
+49.5 
+–1.3 
+–8.1 
+–11.6 
+–59.5 
+–7.3 
+–27.5 
+19.5 
+–38.6 
+–10.7 
+21.6 
+13.2 
+
+ 
+
+(angular minutes) 
+12 
+1 
+8 
+–21 
+3 
+–23 
+4 
+7 
+6 
+–2 
+1 
+–6 
+14 
+–21 
+-4 
+–11 
+0 
+6 
+6 
+1 
+–10 
+–4 
+–24 
+–46 
+1 
+5 
+12 
+5 
+–2 
+–5 
+11 
+10 
+14 
+4 
+–2 
+13 
+–2 
+2 
+21 
+14 
+–9 
+–1 
+4 
+4 
+–2 
+
+(angular seconds) 
+42.8 
+52.6 
+16.2 
+–9.3 
+2.5 
+–29.0 
+57.0 
+34.4 
+6.0 
+–47.8 
+22.0 
+–41.5 
+40.9 
+–7.3 
+–12.4 
+–0.2 
+16.8 
+21.7 
+5.6 
+56.4 
+–7.0 
+–0.2 
+–4.9 
+–38.4 
+2.7 
+57.4 
+49.5 
+26.3 
+–4.9 
+–6.7 
+16.8 
+27.5 
+12.6 
+31.7 
+–10.8 
+26.2 
+–47.4 
+47.1 
+39.3 
+58.5 
+–7.5 
+–1.8 
+16.2 
+7.3 
+–28.9 
+
+SRM 1994 
+
+Page 4 of 6 
+
+ 
+Table 2.  Crystal Orientation (cont.) 
+
+Wafer Label 
+
+Angle Parallel to Flat 
+
+Angle Perpendicular to Flat 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1106_2_21 
+1106_2_22 
+1106_2_23 
+1106_2_24 
+1106_2_25 
+1106_11_01 
+1106_11_02 
+1106_11_03 
+1106_11_04 
+1106_11_05 
+1106_11_06 
+1106_11_07 
+1106_11_08 
+1106_11_09 
+1106_11_10 
+1106_11_11 
+1106_11_12 
+1106_11_13 
+1106_11_14 
+1106_11_15 
+1106_11_16 
+1106_11_17 
+1106_11_18 
+1106_11_19 
+1106_11_20 
+1106_11_21 
+1106_11_22 
+1106_11_23 
+1106_11_24 
+1106_11_25 
+1106_20_01 
+1106_20_02 
+1106_20_03 
+1106_20_04 
+1106_20_05 
+1106_20_06 
+1106_20_07 
+1106_20_08 
+1106_20_09 
+1106_20_10 
+1106_20_11 
+1106_20_12 
+1106_20_13 
+1106_20_14 
+1106_20_15 
+
+(angular minutes) 
+1 
+0 
+0 
+–14 
+12 
+–4 
+–4 
+2 
+–6 
+–4 
+3 
+–5 
+–4 
+–5 
+3 
+3 
+–4 
+–4 
+–4 
+–5 
+–6 
+–6 
+3 
+–4 
+–6 
+–4 
+–6 
+2 
+0 
+4 
+–6 
+–4 
+–3 
+2 
+–4 
+–3 
+–2 
+–2 
+–3 
+–5 
+2 
+–4 
+1 
+2 
+3 
+
+(angular seconds) 
+44.5 
+–18.4 
+20.6 
+–29.9 
+58.4 
+–9.0 
+–6.8 
+26.2 
+–7.6 
+–52.6 
+13.5 
+–42.0 
+–43.0 
+–45.2 
+41.1 
+5.9 
+–53.9 
+–12.5 
+–45.7 
+–57.1 
+–26.4 
+–12.9 
+9.9 
+–34.7 
+–7.2 
+–38.1 
+–17.9 
+16.8 
+22.1 
+59.8 
+–43.8 
+–28.7 
+–7.0 
+20.0 
+–31.8 
+–58.7 
+–59.4 
+–48.2 
+–30.3 
+–13.7 
+6.3 
+–49.1 
+24.2 
+16.5 
+34.2 
+
+(angular minutes) 
+–6 
+2 
+10 
+–5 
+–8 
+–3 
+0 
+5 
+–3 
+–3 
+8 
+–2 
+–3 
+–2 
+5 
+6 
+–3 
+0 
+0 
+–3 
+–2 
+–3 
+5 
+–1 
+–3 
+–3 
+–2 
+4 
+12 
+10 
+–12 
+–5 
+–14 
+6 
+0 
+–6 
+–5 
+–14 
+–13 
+–6 
+5 
+–1 
+5 
+6 
+5 
+
+(angular seconds) 
+–42.0 
+5.7 
+32.0 
+–32.7 
+–34.9 
+–17.1 
+–11.0 
+44.5 
+–34.8 
+–6.4 
+25.1 
+–42.3 
+–49.4 
+–53.6 
+9.2 
+11.3 
+–13.4 
+–10.0 
+–12.7 
+–14.8 
+–32.6 
+–20.0 
+35.2 
+–11.8 
+–4.4 
+–27.3 
+–31.7 
+23.5 
+28.2 
+30.3 
+–53.2 
+–49.1 
+–14.6 
+14.1 
+–56.3 
+–21.9 
+–33.7 
+–8.8 
+–55.3 
+–53.6 
+42.5 
+–21.6 
+30.2 
+36.9 
+45.6 
+
+SRM 1994 
+
+Page 5 of 6 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+[1] 
+
+Table 2. Crystal Orientation (cont.) 
+
+Wafer Label 
+
+Angle Parallel to Flat 
+
+Angle Perpendicular to Flat 
+
+(angular minutes) 
+
+1106_20_16 
+1106_20_17 
+1106_20_18 
+1106_20_19 
+1106_20_20 
+1106_20_21 
+1106_20_22 
+1106_20_23 
+1106_20_24 
+1106_20_25 
+
+(angular minutes) 
+–3 
+–4 
+0 
+1 
+–4 
+1 
+2 
+–4 
+–4 
+–3 
+
+(angular seconds) 
+–12.5 
+–25.7 
+33.3 
+30.0 
+–9.7 
+37.8 
+1.2 
+–54.5 
+–7.3 
+–40.8 
+
+REFERENCES 
+
+–13 
+–6 
+5 
+5 
+–6 
+4 
+5 
+–7 
+–13 
+–13 
+
+(angular seconds) 
+–21.1 
+–24.0 
+13.5 
+25.2 
+–49.9 
+43.9 
+27.8 
+–4.1 
+–13.7 
+–0.2 
+
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.  International 
+Organization of Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST Technical Note 1297; 
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm.
+ 
+
+SRM 1994 
+
+Page 6 of 6 
+
+

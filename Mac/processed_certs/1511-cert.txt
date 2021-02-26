@@ -1,0 +1,381 @@
+﻿ 
+ 
+ou 
+
+Staves  of ©
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1511 
+
+ 
+
+Multi-Drugs of Abuse in Freeze-Dried Urine 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for verifying the accuracy of methods used for the 
+determination of morphine, codeine, cocaine metabolite (benzoylecgonine), marijuana metabolite (THC-9-COOH), and 
+phencyclidine in human urine.  SRM 1511 consists of three (3) bottles of freeze−dried urine with all of the analytes 
+included in each bottle.  (See reconstitution procedure for reconstitution to 25 mL.)  There is no blank urine with this 
+SRM. 
+ 
+Certified Concentration:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy 
+and that all known or suspected sources of bias have been investigated or accounted for by NIST [1].  The certified 
+values and uncertainties for the analytes, as the free bases, are given below.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1.08  ×  10-3 
+±  0.07  ×  10-3 
+9.62  ×  10-4  ±  0.37  ×  10-4 
+5.60  ×  10-4  ±  0.28  ×  10-4 
+4.09  ×  10-5  ±  0.23  ×  10-5 
+8.51  ×  10-5  ±  0.82  ×  10-5 
+
+Morphine 
+Codeine 
+Benzoylecgonine 
+THC-9-COOH 
+Phencyclidine(a) 
+
+309 
+288 
+162 
+14.1  ±  0.8 
+20.7  ±  2.0 
+
+±  20 
+±  11 
+±  8 
+
+Analyte 
+ 
+
+Concentration  
+
+(mmole/L) 
+
+(ng/mL) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+  
+
+The certified concentrations apply only to urine reconstituted as specified under “Reconstitution Procedure” and are 
+based upon the equally weighted results from two different analytical methods for each analyte.  For benzoylecgonine, 
+morphine, codeine, and phencyclidine, gas chromatography mass spectrometry (GC/MS) and liquid chromatography 
+mass spectrometry (LC/MS) data were used and the uncertainty is a 95 % confidence interval for the mean.  For the 
+THC-9-COOH, the mean concentration was computed from GC/MS and gas chromatography tandem mass spectrometry 
+mass spectrometry (GC/MS/MS) measurements taken at NIST and the uncertainty is also a 95 % confidence interval for 
+the  mean.    However,  this  confidence  interval  also  includes  variability  observed  between  NIST  and  five  military 
+laboratories which had been used to demonstrate the suitability of the material.  It is assumed that systematic errors are 
+very small compared to random errors.  The expanded uncertainties, U, equal k times the standard uncertainties (uc) with 
+k = 2, and conform with ISO and NIST Guides [2]. 
+  
+(a) For phencyclidine, the original results were combined with new measurements using LC/MS to generate a prediction value of the 
+  concentration from 2005 to 2010 with the expanded uncertainty U for the 95 % prediction interval. 
+ 
+This material also contains amphetamine and methamphetamine, but these analytes were NOT certified as analytical 
+results indicated probable degradation of these constituents with time.   
+ 
+Expiration of Certification:  The certification of this SRM lot is valid until 01 January 2010, within the measurement 
+uncertainties  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate.  However, the certification is invalid if the SRM is damaged, contaminated, or modified. 
+ 
+The overall direction and coordination of the technical measurements leading to the certification of this SRM were 
+performed by M.J. Welch of the NIST Analytical Chemistry Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 April 2006 
+See Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+ 
+SRM 1511 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+The analytical measurements for certification of this SRM were performed by R.G. Christensen, P. Ellerbe, C.S. Phinney, 
+L.C. Sander, and S.S.−C. Tai of the NIST Analytical Chemistry Division.  Stability measurements were performed 
+by S.S.-C. Tai. 
+ 
+Statistical analysis was provided by K.J. Coakley and N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Reconstitution Procedure:  In order for the certified concentration to be valid, the SRM must be reconstituted as 
+follows:  twenty-five milliliters (25.0 mL) of organic-free water at room temperature must be added to each bottle.  The 
+bottles  should  be  allowed  to  stand  at  room  temperature  with  occasional  swirling  for  30  min  to  ensure  complete 
+dissolution.  Do not shake.  Vigorous shaking causes foaming, which may lead to inhomogeneous distribution of the 
+analytes within the bottle.  After completion of the reconstitution procedure, samples should be extracted and processed 
+within one h in order to achieve the certified concentration within the specified uncertainty range. 
+ 
+Storage and Stability:  Prior to reconstitution, SRM 1511 should be stored in the dark at temperatures between −10 °C 
+and 5 °C.  NIST will continue to monitor this SRM and purchasers will be notified if evidence indicates a change in the 
+certified concentrations.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+This material is for laboratory use only.  SRM 1511 may contain hazardous substances.  The reconstituted urine should 
+be handled with precautions suitable for fresh urine samples. 
+ 
+Source of the Material:  The material was prepared by Consolidated Technologies, Inc. (Austin, TX).1
+ 
+Analytical Methods 
+   
+Method 1:  Certification of the concentrations of analytes in this material was based on two independent methods 
+performed on separately prepared samples.  These methods have been described in more detail in references 3 through 9. 
+For  all  of  the  analytes,  one  of  the  methods  used  for  certification  involved  gas  chromatography/mass  spectrometry 
+(GC/MS).  Separate samples were prepared and separate analyses performed for each analyte except for morphine and 
+codeine, which were prepared and analyzed together.  Samples were reconstituted as described in the “Reconstitution 
+Procedure” section.  For the GC/MS analyses, the number of independently prepared sets and the number of samples per 
+set for each analyte are as follows: morphine/codeine, 3 and 6; benzoylecgonine and phencyclidine, 3 and 5; and 
+THC-9-COOH, 4 and 6.  From each vial, a single aliquot was taken, spiked with known amounts of the corresponding 
+deuterated internal standards, and put through a solid-phase column.  The analytes were eluted following the column 
+manufacturer's directions and the solvent evaporated.  For GC/MS measurements, the residue was dissolved in 
+N,O−bis(trimethylsilyl)acetamide to form the trimethylsilyl derivatives, except in the case of phencyclidine, which was 
+dissolved in ethyl acetate and not derivatized.  The GC/MS measurements were performed using either a quadrupole 
+mass spectrometer or an ion trap mass spectrometer operated in the electron ionization mode with a 30−meter nonpolar 
+fused silica capillary column connected directly to the ion source.  The ions monitored for each analyte and its deuterated 
+analog were as follows:  morphine, m/z 429 and 432; codeine, m/z 371 and 374; benzoylecgonine, m/z 240 and 243; 
+THC-9-COOH, m/z 371 and 374; and phencyclidine, m/z 200 and 205, respectively.  Analyte concentrations were 
+calculated by linear interpolation from calibration curves constructed independently for each analyte for each set of 
+samples. 
+
+                    
+ 
+
+ 
+
+ 1 Certain commercial equipment, instrumentation, or materials are identified in this certificate to specify adequately the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the NIST, nor does it imply that the 
+materials or equipment identified are necessarily the best available for the purpose. 
+ 
+ 
+SRM 1511 
+
+Page 2 of 4 
+
+ 
+
+Method 2:  The second method for all of the analytes except THC-9-COOH involved liquid chromatography/mass 
+spectrometry (LC/MS).  For each analyte, six vials were reconstituted as described in “Reconstitution Procedure” at one 
+time and a single 10.0 mL aliquot from each vial was spiked with a known amount of the corresponding deuterated 
+internal standard.  Each sample was put through a solid-phase column that was different than the one used for GC/MS 
+analyses but similar in separation mechanism, following the manufacturer's directions.  The residue was reconstituted in 
+water for the LC/MS analyses, except for phencyclidine, which was dissolved in the LC mobile phase (see below).  For 
+the LC/MS measurements of morphine, codeine, and phencyclidine, a commercial monomeric C18 column was used with 
+an isocratic mobile phase consisting of either 0.75 % glacial acetic acid and 0.1 M ammonium acetate in water:methanol 
+(85:15) (morphine and codeine) or methanol:water (55:45) with 1 mM heptanesulfonic acid, 20 mM ammonium acetate, 
+and 3.5 % glacial acetic acid (phencyclidine).  For the LC/MS measurements of benzoylecgonine, a custom column with 
+a triethyl bonded phase and an isocratic mobile phase of water:methanol (70:30) with 2 % glacial acetic acid and 0.1 
+M ammonium  acetate  were  used.    The  thermospray  interface  was  operated  with  the  discharge  and  electron 
+ionization off and temperatures were set to conditions optimized for sensitivity and stability.  The ions monitored for 
+each  analyte  and  its  deuterated  analog  were  as  follows:    morphine,  m/z  286  and  289;  codeine,  m/z  300  and  303; 
+benzoylecgonine, m/z 290 and 293; and phencyclidine, m/z 244 and 249, respectively.  Analyte concentrations were 
+calculated from comparison of measured ratios with response factors from standard mixtures. 
+ 
+Method 2 for THC-9-COOH:  The second method for THC-9-COOH involved GC/MS/MS.  Four vials were prepared, 
+spiked, and processed as was done for the GC/MS analyses, except that a different solid-phase extraction was used.  
+Measurements were performed on an ion trap mass spectrometer with specially modified software to permit optimum 
+excitation of parent ions.  Electron ionization was used to generate ions at m/z 371 and 374, which were subjected to 
+resonance excitation, yielding daughter ions at m/z 305 and 308 for the analyte and its deuterated analog, respectively.  
+Analyte concentrations were calculated by linear interpolation from calibration curves. 
+ 
+The purity of the reference compounds used for calibration of all methods were assessed and appropriate corrections 
+were made when calculating the certified values. 
+ 
+Military Laboratory Round-Robin Study:  A group of military laboratories involved in urine drug testing were sent 
+samples of the SRM for their evaluation.  Five laboratories returning results used GC/MS methods.  Their results (mean 
+and one standard deviation) are summarized below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Analyte 
+ 
+ 
+Morphine 
+Codeine 
+Benzoylecgonine 
+THC-9-COOH 
+Phencyclidine 
+
+±  14 
+±  10 
+3 
+± 
+0.7 
+15.0  ± 
+1.2 
+23.1  ± 
+
+Concentration  
+(ng/mL) 
+
+307 
+297 
+161 
+
+e
+n
+I
+
+ 
+
+These results were not used in calculating the certified values (except as noted above in the “Certified Concentration” 
+section); they were used to demonstrate that this material was suitable for its intended purpose in field laboratories. 
+ 
+Stability Testing:  Stability measurements were performed using LC/MS with electrospray ionization operated in the 
+positive  ion  mode  for  morphine,  codeine,  benzoylecgonine,  and  phencyclidine  and  in  the  negative  mode  for 
+THC−9−COOH.  Samples were reconstituted and prepared as described for LC/MS measurements.  Analytes were 
+separated by LC on a C18 column (15 cm × 2.1 mm, 5 μm particle diameter).  A gradient mobile phase consisting of 
+0.1 %  acetic  acid  in  water:methanol  was  used  for  the  positive  ion  measurements.  The  gradient  was  initially  set  at 
+water:methanol (92:8) for 7.5 min, ramped to water:methanol (75:25) at 7.6 min, and held for 17.4 min.  The ions 
+monitored are those described above for LC/MS measurements.  For THC−9−COOH, an isocratic mobile phase of 
+50 mmol/L ammonium acetate in water:methanol (32:68) was used for separation and measurements were made using 
+m/z 343 and 346 for the unlabeled and deuterated forms, respectively. 
+
+ 
+SRM 1511 
+
+Page 3 of 4 
+
+ 
+
+REFERENCES 
+
+ 
+ 
+ 
+ 
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials for Chemical Measurements; NIST Special Publication 260−136, U.S. Government Printing Office:  
+Washington, DC (2000). 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92−67−10188−9,  lst  ed.;  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for 
+Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297,  U.S. 
+Government Printing Office:  Washington, DC (1994); available at http://physics.nist.gov/Pubs/.  
+
+[2] 
+
+[3]  Craft, N.E.; Byrd, G.D.; Hilpert, L.R.; Preparation and Certification of Standard Reference Material 1507:  
+11-Nor-Delta  9-Tetrahydrocannabinol-9-Carboxylic  Acid  in  Freeze-Dried  Urine;  Anal.  Chem.,  Vol.  61, 
+pp. 40−544 (1989). 
+
+[4]   Ellerbe,  P.;  Tai,  S.S.-C.;  Christensen,  R.G.;  Espinosa-Leniz,  R.;  Paule,  R.C.;  Sander,  L.C.;  Sniegoski,  L.T.; 
+Welch, M.J.; White, V,E.; Certification of Cocaine and Benzoylecgonine in a Human Urine Standard Reference 
+Material; J. Anal. Toxicol., Vol. 16, pp. 158−162 (1992). 
+
+[5]   Tai, S.S.-C.; Christensen, R.G., Paule, R.C.; Sander, L.C.; Welch, M.J.; The Certification of Morphine and Codeine 
+
+in a Human Urine Standard Reference Material; J. Anal. Toxicol., Vol. 18, pp. 7−12 (1994). 
+
+[6]   Ellerbe, P.; Long, T.; Welch, M.J.; Phencyclidine (PCP) Amphetamine Test; J. Anal. Toxicol., Vol. 17, pp.165−170 
+
+(1993). 
+
+[7]   Phinney, C.; Welch, M.J.; Elemental Mass Spectrometry: Prime Time Players and the Supporting Cast; 42nd 
+
+ASMS Conference on Mass Spectrometry and Allied Topics, Chicago, IL (1994). 
+
+[8]   Welch, M.J.; Ellerbe, P.; Tai, S.S.-C.; Christensen, R.G.; Sniegoski, L.T.; Sander, L.C.; Phinney, C.S.; NIST 
+Reference Materials to Support Accuracy in Drug Testing; Fresenius' J. of Anal. Chem., Vol. 350, pp. 4730−4734 
+(1994).  
+
+[9]  Tai, S.S.-C.; Christensen, R.G.; Coakley, K.; Ellerbe, P.; Long, T.; Welch, M.J.; The Certification of Phencyclidine 
+
+in Lyophilized Human Urine Reference Materials; J. Anal. Tox., Vol. 20, pp. 43−49 (1996). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  05 April 2006 (This revision reflects an editorial change); 19 September 2005 (This revision reflects a change in the 
+certified value of phencyclidine based upon measurements in 2005); 13 September 1994 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; email srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+ 
+SRM 1511 
+
+Page 4 of 4 
+
+ 
+
+

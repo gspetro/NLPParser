@@ -1,0 +1,763 @@
+﻿Date of Issue:
+
+05 May 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	3067
+
+		SRM Name:	Toxaphene in Methanol
+
+	Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for calibrating chromatographic instrumentation used for the determination of technical toxaphene.  Because of its miscibility with water, SRM 3067 can also be used to fortify aqueous samples with known amounts of toxaphene.  A unit of SRM 3067 consists of five 2mililiter ampoules, each containing approximately 1.2 mL of technical toxaphene in methanol.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+	1-800-424-9300 (North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+	+1-703-527-3887 (International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+	
+
+2. HAZARDS IDENTIFICATION
+
+Classification
+
+		Physical Hazard:	Flammable Liquid	Category 2
+
+		Health Hazard: 	Acute Toxicity, Oral	Category 3
+
+			Acute Toxicity, Inhalation	Category 3
+
+			Acute Toxicity, Dermal	Category 3
+
+			STOT  Single Exposure	Category 1 
+
+Label Elements
+
+Symbol 
+
+
+
+Signal Word
+
+Danger
+
+Hazard Statement(s)
+
+	H225	Highly flammable liquid and vapor.
+
+	H301+H311+H331	Toxic if swallowed, in contact with skin or if inhaled.
+
+	H370	Causes damage to eyes, kidney, liver, heart, and central nervous system.
+
+	Precautionary Statement(s)
+
+	P210	Keep away from heat, sparks, open flames, and hot surfaces. — No smoking.
+
+	P241	Use explosion-proof electrical, ventilating, lighting equipment. 
+
+	P242	Use only non-sparking tools.
+
+	P243	Take precautionary measures against static discharge.
+
+	P260	Do not breathe dust, fumes, mists, vapors, or spray.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270 	Do not eat, drink or smoke when using this product. 
+
+	P271 	Use only outdoors or in a well-ventilated area.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	
+
+	P301+P310	If swallowed: Immediately call a doctor.
+
+	P330	Rinse mouth.
+
+	
+
+	P303+P361+P353	If on skin (or hair): Take off immediately all contaminated clothing.  Rinse skin with water.
+
+	P308+P311	If exposed or concerned:  Call a doctor.
+
+	
+
+	P403+P235	Store in a well-ventilated place.  Keep cool.
+
+	P405	Store locked up.
+
+	
+
+	P501	Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+Substance:  Methanol
+
+Other Designations:  Methyl alcohol; wood alcohol; methyl hydroxide; wood spirit; wood naphtha.
+
+The health and safety information included in this SDS is for methanol, the main component.  This material, a mixture of methanol containing trace amounts of toxaphene (Chemical Abstracts Registry Number 8001-35-2) has not been tested as a whole.  The concentration of toxaphene is below the reportable limits for hazardous components (1 %) and/or carcinogens (0.1 %), as required by OSHA, 29 CFR 1910.1200, for SDS information.  For the actual values, see the Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Methanol
+
+		67-56-1
+
+200-659-6
+
+	>99.9
+
+	
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area. Give artificial respiration if not breathing.  Get immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Skin irritation, eye irritation, central nervous system depression, and nerve damage.  May cause blindness.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor/air mixtures are explosive above the flash point.  Vapors or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+		Suitable:  Regular dry chemical, carbon dioxide, water, or alcoholresistant foam.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 3	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or noncombustible material and collect in appropriate container for disposal. 
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Handle glass ampoules with care.  See Section 8, “Exposure Controls and Personal Protection”.
+
+	Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits
+
+		Methanol:
+
+		OSHA (PEL):	260 mg/m3; 200 ppm TWA
+
+		ACGIH (TLV):	200 ppm TWA
+
+			250 ppm STEL
+
+				Skin – potential significant contribution to overall exposure by the cutaneous route.
+
+		NIOSH (REL):	260 mg/m3; 200 ppm TWA
+
+			325 mg/m3; 250 ppm STEL
+
+			6000 ppm IDLH
+
+				Potential for dermal absorption.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+
+
+Descriptive Properties
+
+		Methanol 
+	(>99.9 % of this SRM)
+
+Molar Mass (g/mol)
+
+32.04
+
+Molecular Formula
+
+CH3OH
+
+Appearance (physical state, color, etc.)
+
+clear, colorless liquid
+
+Odor
+
+alcohol odor
+
+Odor threshold
+
+100 ppm
+
+pH
+
+not available
+
+Evaporation rate (butyl acetate = 1)
+
+4.6
+
+Melting point/freezing point
+
+–94 °C (–137 °F)
+
+Relative Density as Specific Gravity (water = 1)
+
+0.7914
+
+Density
+
+not available
+
+Vapor Pressure
+
+97.25 mmHg at 20 °C
+
+Vapor Density (air = 1)
+
+1.11
+
+Viscosity
+
+0.59 cP at 20 °C
+
+Solubilities
+
+soluble in water
+
+solvent:  ether, benzene, acetone, chloroform, ethanol, ketones, organic solvents
+
+Partition coefficient (noctanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+385 °C (725 °F)
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+65 °C (149 °F)
+
+Explosive Limits, LEL (Volume %)
+
+6 %
+
+Explosive Limits, UEL (Volume %)
+
+36 %
+
+Flash Point (Closed Cup)
+
+11 °C (51.8 °F)
+
+Flammability (solid, gas)
+
+not applicable
+
+	
+
+10. STABILITY AND REACTIVITY
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  Avoid inhalation of material or combustion by-products.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Halo carbons, combustible materials, metals, oxidizing materials, halogens, metal carbide, bases, acids, and amines.
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin irritation, eye irritation, central nervous system depression, and nerve damage.  May cause blindness.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+	Inhalation:  Acute and chronic exposure may cause irritation, cough, ringing in the ears, constipation, headache, drowsiness, dizziness, tingling sensation, pain in extremities, tremors, loss of coordination, blood disorders, and nerve damage.  Chronic exposure may also cause sensitivity to light, changes in blood pressure, digestive issues, difficulty breathing, irregular heartbeat, visual disturbances, blindness, bluish skin color, lung congestion, heart damage, kidney damage, liver damage, reproductive effects, effects on the brain, convulsions, unconsciousness, and coma.
+
+	Skin Contact:  Acute and chronic exposure may result in irritation, absorption may occur, headache, drowsiness, loss of coordination, blood disorders, and nerve damage.
+
+	Eye Contact:  Acute and chronic exposure may cause irritation; acute may cause eye damage.
+
+	Ingestion:  Acute and chronic exposure may cause the same effects as listed for inhalation.
+
+Numerical Measures of Toxicity
+
+Acute Toxicity:  Category 3 for Oral, Inhalation, and Dermal.
+
+		Methanol:	Human, Oral, LDLo:  143 mg/kg
+
+			Rat, Oral, LD50:  5628 mg/kg
+
+			Rat, Inhalation, LC50:  83.2 mg/L (4 h); 145 000 ppm (1 h); 64 000 ppm (4 h)
+
+			Rabbit, Dermal, LD50: 15 800 mg/kg
+
+Skin Corrosion/Irritation:  Not classified.
+
+		Methanol: Rabbit, Skin: 20 mg (24 h) moderate
+
+Serious Eye Damage/Eye Irritation:  Not classified.
+
+		Methanol: Rabbit, Eyes:  100 mg (24 h) moderate; 40 mg moderate 
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+				
+
+				Yes
+
+				X
+
+				No
+
+Methanol is not listed by IARC, NTP, or OSHA as a carcinogen/potential carcinogen.
+
+		Methanol: 	Tumorigenic:	Rat, Inhalation, TCLo: 1000 ppm (2 years)
+
+			Mutagenic: 	Mouse, Oral TD: 1 g/kg (cytogenetic analysis)
+
+				Rat, Oral TD: 10 μmol/kg (DNA damage)
+
+				Human, lymphocyte TC: 300 mmol/L (DNA inhibition)
+
+Reproductive Toxicity:  Not classified.
+
+	Methanol:	Rat Inhalation TCLo: 5000 ppm (pregnant 7 d to 17 d)
+
+		Rat Oral TDLo: 6000 mg/kg (pregnant 15 d to 17 d)
+
+Specific Target Organ Toxicity, Single Exposure:  Category 1, Causes damage to central nervous system.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available.
+
+Aspiration Hazard:  Not applicable.
+
+
+
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data
+
+	Methanol:
+
+		Fish, Bluegill, (Lepomis macrochirus), LC50:  13 500 mg/L to 17 600 mg/L (96 h) flowthrough
+
+		Fish, Fathead minnow (Pimephales promelas), LC50: 28 200 mg/ L (96 h) flowthrough
+
+		Fish, Fathead minnow (Pimephales promelas), LC50: >100 mg/L (96 h) static
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  <10 species: fish.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to disposal regulations: U.S. EPA 40 CFR 262.  Hazardous Waste Number(s): U154.
+
+14. TRANSPORTATION INFORMATION
+
+	U.S. DOT and IATA:  UN1230, Methanol,   Hazard Class 3, 6.1, Packing Group II.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations
+
+		CERCLA Sections 102a/103 (40 CFR 302.4):  5000 lb (2270 kg) final RQ.
+
+		SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+		SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+		SARA Title III Section 313 (40 CFR 372.65):  1.0 % de minimis concentrations.
+
+		OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+		SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	Yes
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+	State Regulations:  California Proposition 65:  WARNING! This product contains a chemical (methanol) known to the state of California to cause reproductive/developmental effects.
+
+U.S. TSCA Inventory:  Methanol is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information: Not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+	Issue Date:	05 May 2015
+
+	Sources:	ChemADVISOR, Inc., SDS Methyl Alcohol, 20 March 2015.
+
+	CDC, NIOSH, Methanol, RTECS# PC1400000, CAS No. 67-56-1; available at http://www.cdc.gov/niosh-rtecs/PC155CC0.html (accessed May 2015).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short  Term Exposure Limit
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 3067		Page 3 of 7

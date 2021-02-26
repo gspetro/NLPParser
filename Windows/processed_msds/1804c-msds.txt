@@ -1,0 +1,374 @@
+﻿ 
+
+MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+SRM Number:  1804c 
+MSDS Number:  1804c 
+SRM Name:  Toxic Volatile Organic 
+Compounds in Nitrogen 
+ 
+Date of Issue:  29 January 2008 
+ 
+Emergency Telephone ChemTrec: 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+MSDS Coordinator:  Mario J. Cellarosi 
+Telephone:  301-975-6776 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+ 
+Description:    This  SRM  is  a  primary  gas  mixture  of  thirty  volatile  organic  compounds  in  nitrogen  provided  as  a 
+compressed gas in a DOT 3AL specification aluminum (6061alloy) cylinder equipped with a CGA-350 brass valve 
+with a nominal pressure exceeding 12.4 MPa (1800 psig).  The cylinder with a water volume of 6 L provides the user 
+with 0.73 m3 of useable mixture.  NIST recommends that this cylinder NOT be used below 2.8 MPa (400 psig). 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+ 
+
+Substance:  Nitrogen Compressed Gas Mixture. 
+
+Other Designations:  Nitrogen (dinitrogen) compressed gas mixture. 
+
+2.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Component 
+
+Nitrogen 
+
+CAS Registry 
+
+EC Number (EINECS) 
+
+Concentration 
+
+7727-37-9 
+
+231-783-9 
+
+> 99.9 % (a) 
+
+ 
+(a) Hazardous components 1 % or greater; carcinogens 0.1 % or greater are listed in compliance with OSHA 29 CFR 1910.1200 
+
+Note:  SRM 1804c contains trace amounts of 30 different volatile organic compounds (5.0 nmol/mol [ppb] of each), many of 
+which have toxic, mutagenic and/or carcinogenic properties and should be handled with care.  None of the toxic volatile organic 
+compounds in this mixture exceed OSHA minimum percentages for hazardous compounds or carcinogens and therefore do not 
+require  MSDS  information  under  current  regulations.    See  the  Certificate  of  Analysis  for  the  complete  list  of  toxic  volatile 
+organic compounds contained in this mixture.  
+
+EC Classification:  Not available. 
+
+EC Risk:  None listed. 
+
+EC Risk:  None listed. 
+
+3.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4):  Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+Major Health Hazards:  Difficulty in breathing.  
+
+Physical Hazards:  Cylinder may rupture or explode if exposed to heat. 
+
+Potential Health Effects (Short Term Exposure) 
+
+Inhalation:  Nausea, vomiting, difficulty breathing, headache, drowsiness, dizziness, tingling sensation, loss of 
+coordination. 
+
+Skin Contact:  No significant adverse effects. 
+
+Eye Contact:  No significant adverse effects. 
+
+Ingestion:  Ingestion of a gas is unlikely. 
+
+MSDS 1804c 
+
+ 
+Page 1 of 4
+
+ 
+
+ 
+
+Listed as a Carcinogen/Potential Carcinogen  
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+
+ 
+
+Yes
+ 
+ 
+ 
+
+No 
+X 
+X 
+X 
+
+Inhalation:    If  adverse  effects  occur,  remove  to  a  well  ventilated  area.    If  breathing  is  difficult,  have  qualified 
+personnel give oxygen.  If not breathing, have qualified personnel give artificial respiration.  Get immediate medical 
+attention.   
+
+ 
+4.  FIRST AID MEASURES 
+
+Skin Contact:  None. 
+
+Eye Contact:  None. 
+
+Ingestion:  Not applicable. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard  applicable  to  the  identified  NIST  cylinder.    Cylinder  may 
+rupture or explode if exposed to heat. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide. 
+
+Fire Fighting:  Move cylinder from fire area if it can be done without risk.  Avoid inhalation of material.  Wear full 
+protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (°C):  Not applicable. 
+
+Mehtod used:  Not applicable. 
+
+Autoignition temperature (°C):  Not applicable. 
+
+Flammability Limits in Air (Volume %):  Upper:  Not applicable. 
+
+Lower:  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Stop leak if possible without personal risk.  Isolate hazard area and deny entry.  Refer to 
+Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    Secure  cylinder  to  prevent 
+physical  damage.    Keep  valve  protective  cap  on  cylinder  when  not  in  use.    Keep  separated  from  incompatible 
+substances. Store in a well ventilated area.  Subject to storage regulations:  U.S. OSHA 29 CFR 1910.101. This SRM 
+should be stored under normal laboratory conditions within the temperature range of 15 °C and 30 °C. 
+
+Safe Handling Precautions:  Wear safety goggles.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Nitrogen Gas 
+
+ACGIH (inhalation):  simple asphyxiant 
+
+Ventilation:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+Respirator:    A  respiratory  protection  program  that  meets  OSHA  29  CFR  and  ANSI  Z88.2  requirements  must  be 
+followed  if  workplace  conditions  warrant  a  respirator.    Refer  to  the  “NIOSH  Guide  to  the  Selection  and  Use  of 
+Particulate Respirators Certified under 42 CFR 84” for selection and use of respirators certified under NIOSH. 
+
+Eye  Protection:    Wear  safety  goggles.    An  eye  wash  station  should  be  readily  available  near    handling  and  use 
+areas. 
+
+Personal Protection:  Wear protective clothing.  Wear safety shoes when moving cylinder(s). 
+
+MSDS 1804c 
+
+ 
+Page 2 of 4
+
+ 
+
+ 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Appearance and Odor:  Colorless, odorless gas. 
+
+Relative Molecular Mass:  28.01 
+
+Molecular Formula:  N2 
+
+Boiling Point (° C):  − 196 
+
+Freezing Point (° C):  − 210 
+
+Vapor Density (air = 1):  0.97 
+
+Volatility (%):  100  
+
+Solubility in Water:  1.6 % @ 20 ° C 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid inhalation of material.  Protect cylinder from physical damage.  Cylinder may rupture 
+or explode if exposed to heat.  Avoid contact with incompatible materials. 
+
+Incompatibilities:  Oxidizing materials, Lithium. 
+
+Fire/Explosion Information:  Refer to Section 5, “Fire Fighting Measures”. 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+
+  Will Occur 
+
+X  Will Not Occur 
+
+ 
+Route of Entry: 
+ 
+Nitrogen Gas:  Compressed nitrogen gas is a simple asphyxiant. 
+
+Inhalation 
+
+Skin 
+
+X 
+
+ 
+
+ 
+
+Ingestion 
+
+Health  Effects  (Acute  Exposure):    The  symptoms  of  asphyxia  depend  on  the  rapidity  with  which  the  oxygen 
+deficiency develops and how long it continues.  In sudden acute asphyxia, unconsciousness may be immediate. With 
+slow development, there may be rapid respiration and pulse, air hunger, dizziness, reduced awareness, tightness in 
+the  head,  tingling  sensations,  incoordination,  faulty  judgment,  emotional  instability,  and  rapid  fatigue.    As  the 
+asphyxia progresses, nausea, vomiting, collapse, unconsciousness, convulsions, deep coma and death are possible. 
+
+Medical  Conditions  Generally  Aggravated  by  Exposure:    Blood  system  disorders,  heart  or  cardiovascular 
+disorders, hormonal disorders, respiratory disorders. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Environmental Summary:  No adverse ecological effects are expected. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  The cylinder is the property of the purchaser.  Dispose in accordance with all applicable federal, 
+state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Compressed Gas, N.O.S. (Toxic Volatile Organics in Nitrogen); UN1956; Hazard Class 2.2. 
+
+MSDS 1804c 
+
+ 
+Page 3 of 4
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE:  Yes 
+CHRONIC:  No 
+FIRE:  No 
+REACTIVE:  No 
+SUDDEN RELEASE:  Yes 
+
+STATE REGULATIONS 
+
+California Proposition 65:  Not regulated. 
+
+CANADIAN REGULATIONS 
+
+WHMIS Classification:  Not determined. 
+
+EUROPEAN REGULATIONS  
+
+EU Classification:  Not available. 
+
+EU Risk and Safety Phrases:  None listed. 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+ 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  MDL Information Systems, Inc., MSDS Nitroge, Compressed Gas, 13 September 2007. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1804c 
+
+ 
+Page 4 of 4
+
+

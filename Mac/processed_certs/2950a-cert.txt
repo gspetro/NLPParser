@@ -1,0 +1,291 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 2950a 
+
+ 
+
+ 
+
+ 
+
+rtz 
+
+500  ww 
+
+Respirable Alpha Quartz on Filter Media 
+ 
+(Nominal Mass of Alpha Quartz: 5 µg – 500 µg) 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  the  calibration  of  X-ray  diffraction (XRD) 
+spectrometers for the determination of respirable alpha quartz using National Institute for Occupational Safety and 
+Health (NIOSH)  Method  7500 [1],  or  the  equivalent  (see  “Instructions  for  Storage  and  Use”).    The  SRM  was 
+produced by depositing a known amount of SRM 1878a Respirable Alpha Quartz, as a slurry on a 25 mm diameter 
+polyvinyl chloride (PVC) filter.  A unit of SRM 2950a consists of 35 blank PVC filters containing no alpha quartz 
+and  5 loaded  PVC  filters  at  each  of  the  following  nominal  levels:  5 μg,  10 μg,  20 μg,  50 μg,  100 μg,  250 μg,  and 
+500 μg.  The blank filters are stored in seven petri dishes each containing five filters.  The loaded filters are stored in 
+seven petri dishes each containing five filters of the nominal level. 
+ 
+Certified Mass of Alpha-Quartz on Filter:  The certified mass of alpha quartz on each filter, provided in Table 1, 
+is based on results obtained from the gravimetric preparation of the filters and from the determination of silicon by 
+inductively  coupled  plasma  optical  emission  spectrometry (ICP–OES) [2,3].    The  results  are  expressed  as  the 
+certified value ± the expanded uncertainty [4].  The gravimetric preparation value of the alpha quartz mass per filter 
+was calculated as the average mass of SRM 1878a on each filter multiplied by the certified mass fraction of alpha 
+quartz in SRM 1878a.  The ICP–OES value for alpha quartz mass per filter was calculated from the determined mass 
+of silicon per filter, the determined mass fraction of silicon in SRM 1878a, and the certified mass fraction of alpha 
+quartz in SRM 1878a [3]. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [4].  The certified value is 
+the  unweighted  average  of  the  masses  determined  by  gravimetric  and  ICP-OES  measurements.    The  expanded 
+uncertainty  is  calculated  as  U = kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the 
+combined  uncertainty  due  to  material  variability  and  measurement  uncertainty  calculated  according  to  the  method 
+described  in  the  ISO/JCGM  and  NIST  Guides [5].    The  coverage  factor,  k,  is  determined  from  the  Student’s 
+t-distribution corresponding to the calculated effective degrees of freedom at 95 % level of confidence. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2950a  is  valid,  within  the  measurement  uncertainty 
+specified, until 30 June 2022, provided the SRM is handled and stored in accordance with the instructions given in 
+this  certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or modified.  
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  was  under  the  direction  of  L.L. Yu  of  the 
+NIST Chemical Sciences Division. 
+ 
+Analytical measurements were performed at NIST by L.L. Yu.   
+ 
+mgineering  Division. 
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 3 
+
+Gaithersburg, MD 20899 
+15
+Certificate Issue Date:  03 June 2015 
+
+  
+
+SRM 2950a 
+
+NIOSH. 
+Support for the preparation and certification of this SRM was provided by NIOSH. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Traceability:    The  measurand  is  the  total  mass  per  filter  of  alpha  quartz  and  the  certified  value  is  metrologically 
+traceable to the SI unit of mass, expressed as micrograms. 
+ 
+
+‘filter  of  alpha  quartz  and  the  certified  val 
+
+Table 1.  Mass of Alpha Quartz in SRM 2950a 
+ 
+
+Nominal Alpha Quartz Mass 
+(µg) 
+
+Certified Alpha Quartz Mass 
+(µg) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5  
+10  
+20  
+50  
+100  
+250  
+500  
+
+ 
+
+4.85 
+9.6 
+19.4 
+48.6 
+96.1 
+
+245 
+483 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+  0.44   
+  1.1 
+  1.2 
+  4.5 
+  4.8 
+ 19 
+ 30 
+
+Coverage Factor 
+(k) 
+ 
+2.31 
+2.36 
+2.20 
+2.36 
+2.05 
+2.36 
+2.31 
+
+developed  for 
+
+ 
+ 
+STORAGE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  Sealed filters, as received, should be stored in the dark at temperatures between 15 °C and 25 °C.  
+ 
+‘or
+Use:  This SRM was developed for use with NIOSH Method 7500 [1].  Sample preparation for this method calls for 
+filters  to  either  be  ashed  or  dissolved  in  tetrahydrofuran  prior to XRD measurements.  The ashing option must be 
+used with this SRM rather than dissolution.  This SRM may also be used for NIOSH Methods 7602 [1] and 7603 [1], 
+and Quartz Analytical Method (P-7) [6] using infrared absorption spectrometry. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+This  material  contains  respirable  alpha  quartz  that  is  known  to  cause  silicosis.    It  must  be  handled  with  care  and 
+disposed of according to federal, state and local regulations.  See Safety Data Sheet.  
+ 
+Cooperating  Laboratory(1):    The  materials  for  this  SRM  were  prepared  at  High  Purity  Standards, Inc. 
+(Charleston, SC). 
+
+etween  15 
+
+rds, 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this certificate in order to specify adequately the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 2950a 
+
+Page 2 of 3 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  NIOSH,  Manual  of  Analytical  Methods  (NMAM),  4th ed.;  Cassinelli, M.E.;  O’Connor, P.F.,  Eds.;  United 
+States  Department  of  Health  and  Human  Services;  NIOSH  Method  7500  (2003);  available  at 
+http://www.cdc.gov/niosh/docs/2003-154/pdfs/7500.pdf (accessed Jun 2015). 
+
+[2]  Yu, L.L.; Fassett, J.D.; Lindstrom, A.P.; Determination of Si in Standard Reference Material SRM 295x Silica-
+
+on-Filter; J. Anal. At. Spectrom., Vol. 18, p. 738 (2003). 
+
+[3]  Yu, L.L.;  Fassett, J.D.;  MacDonald, B.S.;  Butler, T.A.;  Ramsey, D.M.;  Key-Schwartz, R.J.;  Rains, T.C.; 
+Development  of  SM295x  and  296x,  Respirable  Crystalline  Silica  on  Filter;  J.  ASTM  International,  Vol. 2, 
+Issue 5 (2005). 
+
+[5] 
+
+[4]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260–136,  U.S.  Government 
+Printing  Office:  Washington, DC (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed June 2015). 
+JCGM 100:2008;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  (GUM 1995  with  Minor 
+Corrections), 
+at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jun 2015);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Jun 2015). 
+
+in  Metrology (JCGM) 
+
+Joint  Committee 
+
+for  Guides 
+
+available 
+
+(2008); 
+
+[6]  OSHA, Infrared Determination of Quartz in Respirable Coal Mine Dust, United States Department of Labor, 
+Occupational Safety and Health Administration (OSHA), Quartz Analytical Method (P-7) (1994), available at 
+https://www.osha.gov/dsg/topics/silicacrystalline/p7/p7.html (accessed Jun 2015). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:  telephone  (301)  975-2000;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+301)  946-
+
+SRM 2950a 
+
+Page 3 of 3 
+
+

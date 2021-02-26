@@ -1,0 +1,208 @@
+﻿National Institute of Standards & Technology
+
+							
+
+Certificate
+
+
+
+Standard Reference Material 2075
+
+
+
+Sinusoidal Roughness Specimen 
+
+
+
+Serial No.:  Sample
+
+
+
+Standard Reference Material (SRM) 2075 is a sinusoidal profile roughness specimen certified for profile roughness average, Pa, and surface spatial wavelength, D, and is intended for use as a standard for the calibration of stylus instruments that are used to measure surface roughness.  The SRM is a flat steel block of nominal Knoop hardness (HK) 500 which has been coated by the electroless nickel deposition process.  A sinusoidal roughness profile was machined onto the top surface of the specimen in a facing operation by a single-point, diamond tool on a numerically controlled lathe.
+
+
+
+The certified Pa and D values and their associated expanded uncertainties for this specimen are:
+
+			Profile Average (Pa), µm	Sample  0.015
+
+				(individually certified)
+
+
+
+			Surface Wavelength (D), µm	800.04  0.52
+
+		
+
+This SRM was originally calibrated and certified in December 1993.  From 1995 to 2008, the stability of the SRMs has been continually monitored by routinely measuring a NIST check standard, SRM 2073 Serial Number 1104, 89 times.  The NIST check standard, SRM 2073 Serial Number 1104, is a sinusoidal profile roughness specimen with nominal values of 3 µm for roughness average Ra [1] and 100 µm for D.  The check standard was made from the same material and manufactured by the same manufacturing process as the SRM 2075 sinusoidal roughness specimens.  A dynamic control chart [2] with both dynamic and fixed control limits is used for monitoring the longterm variation of the certified Ra, Pa and D values for the SRM specimens.  The check measurement results have demonstrated high measurement reproducibility, which is within the uncertainty range, and do not reveal significant variations or drift.
+
+
+
+			Expiration of Certification:  The certification of SRM 2075 is valid, within the measurement uncertainty specified, until 30 June 2024, provided the SRM is handled in accordance with instructions given in this certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+			
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+The technical direction and physical measurements leading to certification were provided by T.V. Vorburger, J.F. Song, T.B. Renegar, and A. Zheng of the NIST Precision Engineering Division.
+
+
+
+Guidance on statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials
+
+
+
+		David G. Seiler, Chief
+
+	Semiconductor and Dimensional Metrology Division
+
+	
+
+	Gaithersburg, MD  20899	Robert L. Watters, Jr., Director
+
+			Certificate Issue Date:  26 February 2013	Office of Reference Materials
+
+			Certificate Revision History on Last Page
+
+			INSTRUCTIONS FOR HANDLING, STORAGE AND USE
+
+			
+
+			Storage:  SRM 2075 should be stored in its original wooden box in a clean and dry environment at temperatures between 10 C and 30 C.
+
+			
+
+			Handling and Use:  Each profile evaluation length contributing to the results for D and Pa is 8 mm long and includes ten surface wavelengths.  Therefore, users should include at least ten wavelengths in any calibration they perform using the specimen.  It should also be noted that the calibrated values shown in this certificate are calculated from unfiltered surface profiles.  In addition, the mean line was calculated from the average trend of the peaks and valleys rather than by a least-squares fitting because variations in results can occur when a least-squares straight line is fit to a profile containing a small number of surface wavelengths.  For the certification of the SRM 2075 specimens, the evaluation length contained only ten wavelengths without filtering.  If the surface is measured using a standard Gaussian filter with a nominal cutoff of 0.8 mm, then the measured Ra value should be 50 % of the value shown above [1,3,4].  If a 2RC filter is used with nominal cutoff of 0.8 mm, then the measured Ra value should be 75 % of the value shown above [1].  For certification measurements, the stylus force was approximately 4 × 10–4 N.  This force should cause negligible damage to the hard metal surface, although faint stylus traces may be visible on the surface. Repeated use with stylus instruments can slowly degrade roughness specimens; however, the specimen is expected to maintain its calibration values provided these measurements are taken on clear, undamaged areas.
+
+			
+
+			Source and Preparation:  This SRM specimen was machined by Pneumo Precision, Inc. of Keene, NH using a singlepoint diamond tool in a facing operation with a numerically controlled lathe.  The surface profile is highly sinusoidal as shown in Figure 1.
+
+			
+
+			
+
+			
+
+	Figure 1:  Representative Surface Profile of SRM 2075
+
+	Dimensions are Approximate.
+
+			
+
+NIST Certification Procedure: The profile roughness average, Pa, is the average absolute deviation of the profile peaks and valleys about the mean line and is defined in the international standard, ISO 4287:1997(E/F) [3].  The surface wavelength, D, is the average period of the sinusoidal surface profile.  This quantity is also equal to the mean width of the profile elements, PSm, as described in ISO 4287:1997(E/F) [3].  The procedure to calculate D here is slightly different from the standard procedures to calculate PSm.  However, the result for a highly sinusoidal profile is robust against such differences.
+
+
+
+
+The parameters Pa and D were calculated from profiles of the SRM measured with a stylus instrument.  The sampling interval was 2 μm over a total evaluation length of 8 mm.  The stylus has a tip radius of 5 µm  1 µm as profiled by the razor blade method [5], and calculated in accordance with ASME B46.1-2009 [1].
+
+
+
+The stylus instrument was interfaced to a laboratory computer and a HeNe laser interferometer, and its vertical motion was calibrated using an interferometrically measured step.  The instrument was operated in the skidless mode with an external reference datum.
+
+
+
+The calibrated values shown above are calculated from unfiltered surface profiles.  For this reason, the parameters are termed Pa and PSm rather than Ra and RSm [1,3].  In addition, the mean line was calculated from the average trend of the peaks and valleys rather than by least-squares fitting.  The evaluation length contained ten wavelengths.  The results for Pa are based on profile traces taken in pairs at each of ten distributed positions on the specimen surface as shown in Figure 2, and the results for D are based on profile traces taken in pairs at each of six distributed positions occupying the three central rows marked D in Figure 2.  The certifications of Pa and D are valid for any unflawed position within the areas defined by the extremes of the profile traces shown in Figure 2.  Because of the curvature of the surface markings, the value for D outside the limits of the measured area is expected to increase.  Users should measure surface profiles parallel to the long axis of the specimen with evaluation lengths of at least 8 mm for any calibration performed using the SRM 2075 specimen.
+
+			
+
+								
+
+Figure 2:  Measurement Positions for SRM 2075
+
+				
+
+			
+
+	Calibration Uncertainty: The expanded calibration uncertainty U for both Pa and D is the combined standard uncertainty uc multiplied by a coverage factor k = 2 [6,7].  The combined standard uncertainty uc is the quadratic sum of the system standard uncertainty u (I) and the statistical variation of the measurements s.  The statistical variation of the measurements is a Type A uncertainty component [6,7], which is mainly derived from the geometrical nonuniformity of the specimen under test, but it also includes instrumental random variation during the measurement process.  The statistical variation of the measurements s is calculated as one standard deviation (1σ) of the set of values measured at different positions on the measuring area, as shown in Figure 2.  The system standard uncertainty u (I) for Pa is the quadratic sum of six uncertainty components.  These are derived from [8]:
+
+
+
+				1.	Geometrical nonuniformity and surface finish of the step-height used to calibrate the stylus instrument producing small variations in the z-scale calibration constant of the stylus instrument from day to day.
+
+				2.	Noise in the instrument transducer, the sampling and digitizing processes in the controller, round-off in the software computations, and imperfections in the surface topography of the reference datum of the instrument also producing variations in the z-scale calibration constant from day to day.
+
+				3.	Variations in the measured Pa values due to nonlinearity in the instrument transducer.
+
+			4.	Uncertainty in the average height of the step-height master as determined from interferometric measurements of it.
+
+					5.	Uncertainty in the horizontal resolution of the instrument due to the stylus radius [5].
+
+					6.	Potential long-term variation in the surface.  The estimate is based on control charts of SRM check standards maintained over 15 years.
+
+															
+
+	Components 1 and 6 are Type A components estimated by statistical methods.  The other components are Type B components, which are estimated by other means.  The combined standard uncertainty for Pa is calculated as uc (Pa) = 7.6 nm; the combined expanded uncertainty for Pa is calculated as U (Pa) = 15 nm (k = 2).
+
+	
+
+	The values for D are slightly smaller along the central row of profile traces than at the top and bottom rows because of the slight curvature of the machining marks on the specimen.  Therefore, the quoted value for D is certified over the narrow area defined by the six profiles occupying the three central rows marked D in Figure 2.  The combined standard uncertainty for D is the quadratic sum of the statistical variation of the measurements (Type A) and several standard uncertainty components.
+
+	These are:
+
+	
+
+			1.	Uncertainty in the vacuum wavelength of the HeNe laser interferometer.
+
+			2.	Uncertainty in the HeNe wavelength due to the uncertainty in the temperature, pressure, and humidity of the laboratory.
+
+			3.	Uncertainty in the temperature of the SRM itself leading to dimensional uncertainty.
+
+			4.	Possible variation in the interferometric path length due to possible variation in the air temperature and the base plate temperature during a single measurement cycle.
+
+			5.	Possible cosine errors in the specimen alignment.
+
+			6.	Possible errors associated with Abbe offset.
+
+			7.	Potential long term variation in the surface.
+
+	
+
+The combined standard uncertainty for D is calculated as uc (D) = 0.261 µm; the expanded uncertainty for D is calculated as U (D) = 0.522 µm or 0.52 µm (k = 2).
+
+
+
+Calibration Service:  The NIST Semiconductor and Dimensional Metrology Division will verify the calibration of SRM specimens for a fee.  To inquire about the service, call (301) 975-2200.
+
+															
+
+
+
+			REFERENCES
+
+			
+
+	[1]	ASME B46.1-2009, Surface Texture, American Society of Mechanical Engineers, New York, 2010.
+
+	[2]	Song, J.F.; Vorburger, T.V.; Verifying Measurement Uncertainty Using a Control Chart with Dynamic Control Limits, NCSL International Measure, 2 (3), p. 76, (September 2007).
+
+	[3]	ISO Standard 4287:1997(E/F), Geometrical Product Specifications (GPS) – Surface texture: Profile method – Terms, Definitions and Surface Texture Parameters, International Standards Organization (ISO), Geneva, (1997).
+
+[4]	ISO Standard 11562:1996, Geometric Product Specifications (GPS) – Surface Texture: Profile Method  Metrological Characteristics of Phase Correct Filters; International Standards Organization (ISO), Geneva (1996)
+
+	[5]	Vorburger, T.V.; Teague E.C; Scire, F.E. and Rosberry, F.W.; “Measurement of Stylus Radii,” Wear, Vol. 57, p. 39, (1979).
+
+[6]	Taylor, B.N. and Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results, NIST Technical Note 1297 (National Institute of Standards and Technology, Gaithersburg, MD, 1993), available at http://physics.nist.gov/Pubs/. (accessed Dec 2012).
+
+	[7]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Dec 2012).
+
+	[8]	“Appendix A, Measurement Conditions and Sources of Uncertainties for NIST Surface Roughness and Step Height Calibration Reports”, January 2008, http://www.nist.gov/pml/div683/grp02/upload/nistsurfcalib.pdf (accessed Dec 2012).
+
+
+
+
+
+Certificate Revision History:  26 February 2013 (Editorial correction of the certified value for profile average, Pa; editorial changes); 10 February 2011 (Re-certification resulting in updated expanded uncertainties for profile average, Pa, and surface wavelength, D; editorial changes); 25 June 1992 (original certificate date).
+
+
+
+								Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2075	Page 4 of 4

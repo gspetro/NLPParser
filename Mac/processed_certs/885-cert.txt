@@ -1,0 +1,283 @@
+﻿  
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 885 
+ 
+Refined Copper 
+ 
+(pin form) 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in calibration and validation of instrumental 
+methods of analysis used in determinations of sulfur and oxygen in copper and its alloys.  The material is in the form 
+of pins approximately 13 mm long, each weighing slightly less than 1 g.  A unit of SRM 885 consists of one bottle 
+containing 200 g of pins. 
+ 
+Certified  Values:    Certified  values  for  constituents  of  SRM 885  are  listed  in Table 1 [1]  as  mass  fractions  of  the 
+elements in a copper  matrix.   A  NIST certified value is a  value for  which NIST has the highest confidence in its 
+accuracy, in that all known or suspected sources of bias have been taken into account [2].  A certified value is the 
+present best estimate of the true value.  The certified values are metrologically traceable to the SI derived unit of mass 
+fraction  expressed  as  percent (%).    The  combined  standard  uncertainties  are  expressed  at  a  confidence  level  of 
+approximately 68 %. 
+ 
+
+Table 1.  Certified Values for SRM 885 Refined Copper 
+
+SRM 
+
+Constituent 
+
+Oxygen (O) 
+Sulfur (S) 
+Silver (Ag) 
+Lead (Pb) 
+
+Mass Fraction 
+(%) 
+
+Combined Standard Uncertainty 
+(%) 
+
+0.031 
+0.0018 
+0.0005 
+0.0002 
+
+0.002 
+0.0003 
+0.0002 
+0.0001 
+
+ 
+ 
+Expiration of Certification:  The certification of  SRM 885 is valid indefinitely, within the uncertainty specified, 
+provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions 
+for Storage, Handling, and Use”).  Periodic recertification of this SRM is not required.  The certification is nullified 
+if the SRM is damaged, contaminated or otherwise modified. 
+ 
+dof  its  certification.  If  substantive 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+r.  Registration  (see  attached  sheet
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to certification was performed by J.I. Shultz, formerly of NIST. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  Standard  Reference  Material  were  coordinated  through  the  NIST 
+Office of Reference Materials. 
+ 
+
+ 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  07 June 2018 
+Certificate Revision History on Page 3 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+ 
+
+Page 1 of 3 
+
+  
+
+SRM 885 
+
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+ 
+To relate analytical determinations to the values on this Certificate of Analysis, a minimum sample quantity of one 
+pin (approximately 1 g) is recommended.  The pins have a natural oxide surface coating that must be removed prior 
+to measurements for determination of the bulk oxygen content.  Test methods may specify the process for removal of 
+the surface coating.  The material should be stored in its original container in a cool, dry location. 
+ 
+ADDITIONAL CONSTITUENTS:  Noncertified values are provided for the following additional constituents in 
+SRM 885. 
+ 
+Information Mass Fraction Values:  Information values for SRM 885 are reported as mass fractions in Table 2.  An 
+information value is a value that may be of interest to the SRM user, but insufficient information is available to assess 
+the uncertainty associated with the value [2].  Information values cannot be used to establish metrological traceability.   
+ 
+
+r  the  following  add 
+
+Table 2.  Information Mass Fraction Values in SRM 885 Refined Copper 
+
+ 
+
+Element 
+
+Antimony (Sb) 
+Arsenic (As) 
+Bismuth (Bi) 
+Iron (Fe) 
+Nickel (Ni) 
+Selenium (Se) 
+Tellurium (Te) 
+Tin (Sn) 
+Zinc (Zn) 
+
+Mass Fraction 
+(%) 
+
+<0.0002 
+<0.0002 
+<0.0001 
+<0.0005 
+<0.0001 
+<0.0001 
+<0.0001 
+<0.0001 
+<0.0001 
+
+SRM
+
+ 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+The material for SRM 885 was prepared by A. Cardinal, Phelps Dodge Refining Corp. (El Paso, TX). 
+ 
+Cooperative  analyses  for  certification  were  performed  in  the  following  laboratories:    J. Anselmo,  Accredited 
+Laboratories,  Inc.  (Carteret, NJ);  D. Neill,  Asarco  Inc.  (Amarillo, TX);  G.W. Self,  Asarco  Inc.  (Hayden, AZ); 
+L.E. Creasy, Axel Johnson Metals, Inc. (Exton, PA); R. Hertz, J.A. Horner and J. Beard, Brush Wellman Engineered 
+Materials (Elmore, OH); J. Schuster, Cerro Copper Products Co. (St. Louis, MO); T.A. Appelman, Magma Copper 
+Co. (San Manuel, AZ); E. Ackall, A. Cardinal and E.C. Thompson, Phelps Dodge Refining Corp. (El Paso, TX); and 
+J.F. Brewton, D. Lanier and J. Maxwell, Southwire Co. (Carrollton, GA). 
+ 
+The estimated uncertainty listed for a constituent is based on judgment and represents an evaluation of the combined 
+effects of method imprecision, possible systematic errors among methods, and material variability.  No attempt was 
+made to derive exact statistical measures of imprecision because several methods were involved in the determination 
+of most constituents. 
+ 
+ 
+
+ 
+
+                                                           
+
+(1)  Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institutes  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 885 
+
+Page 2 of 3 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government  Printing  Office:  Washington,  DC 
+https://www.nist.gov/physical-measurement-laboratory/special-publication-811 (accessed Jun 2018). 
+
+available 
+
+(2008); 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136;  U.S.  Government 
+at 
+Printing 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Jun 2018). 
+
+Washington, 
+
+available 
+
+(2000); 
+
+Office: 
+
+DC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  07 June 2018 (Unit size change; editorial changes); 23 January 2018 (Updated title; instructions for storage, 
+ 
+handling, and use added; editorial changes); 25 March 1991 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+fax  (301)  948-3730, 
+email srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+ 
+tps://www.nist.gov/srm 
+
+telephone  (301)  975-2200; 
+
+the  SRM  Program  at: 
+
+SRM 885 
+
+ 
+
+Page 3 of 3 
+
+

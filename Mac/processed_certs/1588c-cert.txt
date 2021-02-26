@@ -1,0 +1,961 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 1588c 
+
+ 
+
+ 
+ 
+
+Organics in Fish Oil 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in developing and validating analytical methods 
+for  the  determination  of  polychlorinated  biphenyls  (PCBs),  chlorinated  pesticides,  polybrominated  diphenyl 
+ethers (PBDEs), and fatty acids in fish oils and similar materials.  SRM 1588c can also be used for quality assurance 
+when assigning values to in-house reference materials.  A unit of SRM 1588c consists of five ampoules with each 
+ampoule containing approximately 1.2 mL of fish oil. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for 44 PCB congeners (one pair in combination), 
+8 chlorinated pesticides, 7 PBDE congeners, and 18 fatty acids are provided in Tables 1 through 4, respectively.  A 
+NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or taken into account [1].  Values are reported on an as-received basis in mass 
+fraction units [2].  The measurands are the total mass fraction for the analytes listed in Tables 1 through 4 and are 
+metrologically traceable to the SI unit for mass, expressed as micrograms per kilogram in Tables 1 through 3 and 
+milligrams per gram in Table 4. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for 12 PCB congeners, 2 chlorinated pesticides, 
+and 3 fatty acids are provided in Tables 5 through 7, respectively.  A NIST reference value is a noncertified value that 
+is the best estimate of the true value based on available data; however, the value does not meet the NIST criteria for 
+certification [1] and is provided with associated uncertainties that may reflect only measurement reproducibility, may 
+not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods.  Values are reported on an as-received basis in mass fraction units [2].  The measurand is the total mass 
+fraction for the analytes listed in Tables 5 through 7 as determined by the methods indicated and is metrologically 
+traceable to the SI unit for mass, expressed as micrograms per kilogram in Tables 5 and 6 and milligrams per gram in 
+Table 7. 
+ 
+Expiration of Certification:  The certification of SRM 1588c is valid, within the measurement uncertainty specified, 
+until 03 June 2015, provided the SRM is handled and stored in accordance with the instructions given in this certificate 
+(see  “Instructions  for  Handling,  Storage,  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register on-line) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Schantz former 
+of NIST and L.C. Sander of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements at NIST were performed by J. Hoguet, and C. Luvonga (formerly of NIST Analytical Sciences 
+Division) and J.R. Kucklick, of the NIST Chemical Sciences Division and M.M. Schantz.   
+ 
+Statistical analysis was provided by S.D. Leigh and A. Possolo of the NIST Statistical Engineering Division. 
+ 
+coordinated  through  the  NIST  Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Carlos A. Gonzalez, Chief 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 August 2015 
+Certificate Revision History on Last Page
+
+Chemical Sciences Division 
+ 
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Chemical  Sciences 
+
+SRM 
+
+MLM. 
+
+S.D. 
+
+Page 1 of 8 
+
+  
+
+SRM 1588c 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1588c IS INTENDED FOR LABORATORY USE ONLY.  IT IS NOT FOR HUMAN CONSUMPTION.  
+ 
+USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling and Use:  Before use, the contents of the ampoule should be mixed thoroughly.  Test portions of this SRM 
+for analysis should be drawn from ampoules immediately after opening and used without delay for the certified values 
+to be valid within the stated uncertainties.   
+ 
+Storage:  The SRM should be stored in the dark at temperatures less than 30 °C, in an unopened ampoule, until required 
+all
+for use.  The certification does not apply to contents of previously opened and stored ampoules as the stability of all 
+analytes has not been investigated. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+
+thoroughly. 
+after  opening  and  used  without  d 
+
+at  temperatures  less  than  30 
+
+>  ampoule 
+
+Source and Preparation:  This SRM is composed of menhaden oil (Brevoortia tyrannus) collected in 2003 and 2004 
+from six rendering plants along the Southeast Atlantic and Gulf Coasts of the United States.  The oil was provided by 
+the National Oceanic and Atmospheric Administration, National Centers for Coastal Ocean Research, Hollings Marine 
+Laboratory, Charleston, SC.  The oil was filtered and mixed prior to ampouling.  Each 2-mL amber glass ampoule 
+was purged with argon prior to addition of approximately 1.2 mL of oil.   
+ 
+Analytical Approach for Determination of PCBs, Chlorinated Pesticides, and PBDEs:  Value assignment of PCB 
+congener, chlorinated pesticide, and PBDE congener mass fractions in SRM 1588c was based on the combination of 
+measurements made using multiple analytical methods at NIST, all of which were based on gas chromatography (GC) 
+with mass spectrometric detection (MS) as described below. 
+ 
+For  GC/MS  I,  two  0.5  g  test  portions  from  each  of  10  ampoules  of  SRM  1588c  were  combined  with  an  internal 
+standard  solution  containing  carbon-13  labeled  4,4'-DDE,  4,4'-DDT,  γ-HCH,  trans-nonachlor,  PBDE  209,  and 
+PCB 28, PCB 52, PCB 101, PCB 138, PCB 153, PCB 180, and PCB 209, and fluorinated PBDE congeners 47 and 208.  
+Samples were mixed with hexane and sulfuric acid, followed by the separation and removal of the hexane phase.  The 
+sulfuric  acid  layer  was  washed  an  additional  two  times  with  hexane.    The  hexane  phases  were  combined  and 
+concentrated  to  approximately  0.5  mL.    The  concentrated  extracts  were  eluted  through  a  silica  solid-phase 
+extraction (SPE) column using 20 mL of 10 % (volume fraction) methylene chloride in hexane.  The collected fractions 
+were concentrated for GC/MS analysis.  The PCB congeners and chlorinated pesticides were quantified using GC/MS 
+in  the  electron  ionization  (EI)  mode  with  a  0.25  mm  ×  60  m  fused  silica  capillary  column  containing  a 
+50 % phenyl + 50 % methylpolysiloxane (mole fraction) phase.  The PBDE congeners were quantified using GC/MS 
+in the negative chemical ionization (NCI) mode using a 0.25 mm × 15 m fused silica capillary column containing a 
+50 % liquid crystal + 50 % methylpolysiloxane (mole fraction) phase.  A single internal standard solution was used 
+for the calibrants and samples.  Quantitation was based on a calibration curve bracketing the concentrations in the oil 
+samples. 
+ 
+For GC/MS II, single 1 g test portions from each of six ampoules of SRM 1588c were combined with an internal 
+standard solution containing deuterated 4,4'-DDD, carbon-13 labeled trans-chlordane, trans-nonachlor, oxychlordane, 
+HCB, 4,4'-DDT, 4,4'-DDE, PBDE 209, PCB 28, PCB 52, PCB 77, PCB 188, PCB 126, PCB 153, PCB 169, PCB 180, 
+PCB 194, PCB 206, PBDE 104, and fluorinated PBDE 47, 160, and 208.  The oil and internal standard were mixed 
+with  sodium  sulfate  in  a  pressurized-fluid  extraction  (PFE)  cell.    The  PFE  conditions  were:  solvent,  methylene 
+chloride;  cell  temperature,  100  °C;  equilibration  time,  5  min;  static  time,  5  min;  cell  pressure,  13.8  MPa;  and 
+three cycles.  The extracts were concentrated to 1 mL for size exclusion chromatography (SEC).  SEC was performed 
+using a preparative-scale column to remove the majority of the lipids and high molecular mass compounds.  The SEC 
+fraction was concentrated and eluted through an alumina SPE column using 9 mL of 35 % (volume fraction) methylene 
+chloride in hexane.  The SPE fractions were concentrated for GC/MS analysis.  GC/MS was run in the EI mode and 
+NCI mode using a 0.18 mm × 30 m fused silica capillary column containing a 5 % phenyl + 95 % methylpolysiloxane 
+(mole fraction) phase.  A single internal standard solution was used for the calibrants and samples.  Quantitation was 
+based on a calibration curve bracketing the concentrations in the oil samples. 
+ 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this certificate in order to specify adequately 
+the  experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 1588c 
+
+Page 2 of 8 
+
+II 
+
+  MethPrep 
+
+Analytical Approach for Determination of Fatty Acids:  Value assignment of the concentrations of fatty acids in 
+1588c was based on the combination of measurements made using two independent analytical methods at NIST:  GC 
+with flame ionization detection (FID) and GC/MS as described below.   
+ 
+For GC-FID, two 0.5 g test portions from each of 10 ampoules of SRM 1588c were combined with an internal standard 
+solution  containing  octacosanoic  acid  and  myristic-d27  acid. 
+[0.1  mol/L  methanolic 
+(m-trifluoromethylphenyl) trimethylammonium hydroxide, Alltech, Deerfield, IL] and 2,2,4-trimethylpentane  were 
+added stepwise  for conversion of fatty acids to their  methyl esters (FAMEs)  prior to analysis by GC-FID  using a 
+0.25 mm × 100 m nonbonded biscyanopropyl polysiloxane fused silica capillary column.  Calibrants were prepared 
+gravimetrically, at levels intended to approximate the levels of the fatty acids in the SRM.  A single internal standard 
+solution  was  used  for  the  calibrants  and  samples.    Quantification  was  based  on  average  response  factors  for  the 
+calibrants. 
+   
+For GC/MS, two 0.5 g test portions from each of 10 ampoules of SRM 1588c were combined with an internal standard 
+solution  containing  octacosanoic  acid  and  myristic-d27  acid.    A  two-step  process  employing  methanolic  sodium 
+hydroxide  and  boron  trifluoride  was  used  to  convert  the  fatty  acids  to  FAMEs.    GC/MS  was  performed  using  a 
+0.25 mm  × 60  m fused silica capillary column containing  a  50 % cyanopropyl + 50 %  methylpolysiloxane (mole 
+fraction) phase.  Calibrants were prepared gravimetrically, at levels intended to approximate the levels of the fatty 
+acids in the SRM.  A single internal standard solution was used for the calibrants and samples.  Calculations are based 
+on average response factors for the calibrants. 
+ 
+Homogeneity Assessment:  The homogeneity of PCBs, chlorinated pesticides, and PBDEs  was assessed at NIST 
+using the GC/MS I method described above, and the homogeneity of the fatty acids was assessed at NIST using the 
+methods  and  test  portion  sizes  described  above.    The  analyses  of  variance  did  not  show  statistically  significant 
+heterogeneity.   
+ 
+Value Assignment:  For calculation of assigned values, the means of the individual sets of data were averaged.  
+
+SRM 1588c 
+
+Page 3 of 8 
+
+or  Selected  PCB  Congeners
+Table 1.  Certified Mass Fraction Values for Selected PCB Congeners in SRM 1588c(a). 
+ 
+
+ 
+ 
+
+ 
+
+PCB 44 
+PCB 49 
+PCB 52 
+PCB 56 
+PCB 66 
+PCB 70 
+PCB 74 
+PCB 82 
+PCB 87 
+PCB 92 
+PCB 95 
+PCB 99 
+PCB 101 
+PCB 105 
+PCB 107 
+PCB 110 
+PCB 118 
+PCB 128 
+PCB 130 
+PCB 137 
+PCB 138 
+PCB 146 
+PCB 149 
+PCB 151 
+PCB 153 
+PCB 156 
+PCB 157 
+PCB 158 
+PCB 163 
+PCB 167 
+PCB 170 
+PCB 172 
+PCB 174 
+PCB 177 
+PCB 178 
+PCB 180 
+PCB 193 
+PCB 183 
+PCB 187 
+PCB 194 
+PCB 195 
+PCB 199 
+PCB 206 
+PCB 209 
+
+ 
+ 
+
+(2,2',3,5'-Tetrachlorobiphenyl) 
+(2,2',4,5'-Tetrachlorobiphenyl) 
+(2,2',5,5'-Tetrachlorobiphenyl) 
+(2,3,3',4'-Tetrachlorobiphenyl) 
+(2,3',4,4'-Tetrachlorobiphenyl) 
+(2,3',4',5-Tetrachlorobiphenyl) 
+(2,4,4',5-Tetrachlorobiphenyl) 
+(2,2',3,3',4-Pentachlorobiphenyl) 
+(2,2',3,4,5'-Pentachlorobiphenyl) 
+(2,2',3,5,5'-Pentachlorobiphenyl) 
+(2,2',3,5',6-Pentachlorobiphenyl) 
+(2,2',4,4',5-Pentachlorobiphenyl) 
+(2,2',4,5,5'-Pentachlorobiphenyl) 
+(2,3,3',4,4'-Pentachlorobiphenyl) 
+(2,3,3',4',5-Pentachlorobiphenyl) 
+(2,3,3',4',6-Pentachlorobiphenyl) 
+(2,3',4,4',5-Pentachlorobiphenyl) 
+(2,2',3,3',4,4'-Hexachlorobiphenyl) 
+(2,2',3,3',4,5'-Hexachlorobiphenyl) 
+(2,2',3,4,4',5-Hexachlorobiphenyl) 
+(2,2',3,4,4',5'-Hexachlorobiphenyl) 
+(2,2',3,4',5,5'-Hexachlorobiphenyl) 
+(2,2',3,4',5',6-Hexachlorobiphenyl) 
+(2,2',3,5,5',6-Hexachlorobiphenyl) 
+(2,2',4,4',5,5'-Hexachlorobiphenyl) 
+(2,3,3',4,4',5-Hexachlorobiphenyl) 
+(2,3,3',4,4',5'-Hexachlorobiphenyl) 
+(2,3,3',4,4',5-Hexachlorobiphenyl) 
+(2,3,3',4',5,6-Hexachlorobiphenyl) 
+(2,3',4,4',5,5'-Hexachlorobiphenyl) 
+(2,2',3,3',4,4',5-Heptachlorobiphenyl) 
+(2,2',3,3',4,5,5'-Heptachlorobiphenyl) 
+(2,2',3,3',4,5,6'-Heptachlorobiphenyl) 
+(2,2',3,3',4',5,6-Heptachlorobiphenyl) 
+(2,2',3,3',5,5',6-Heptachlorobiphenyl) 
+(2,2',3,4,4',5,5'-Heptachlorobiphenyl)(c) 
+(2,3,3',4',5,5,6-Heptachlorobiphenyl)(c) 
+(2,2',3,4,4',5',6-Heptachlorobiphenyl) 
+(2,2',3,4',5,5',6-Heptachlorobiphenyl) 
+(2,2',3,3',4,4',5,5'-Octachlorobiphenyl) 
+(2,2',3,3',4,4',5,6-Octachlorobiphenyl) 
+(2,2',3,3',4,5,5',6'-Octachlorobiphenyl) 
+(2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl) 
+(2,2',3,3',4,4',5,5',6,6'-Decachlorobiphenyl) 
+
+Mass Fraction(b) 
+(µg/kg) 
+
+4.481 
+9.369 
+
+12.75 
+4.20 
+7.16 
+7.501 
+4.13 
+1.541 
+6.19 
+6.040 
+
+12.27 
+19.77 
+22.94 
+
+4.584 
+3.012 
+
+20.10 
+15.04 
+15.2 
+
+2.290 
+1.003 
+25.22  
+10.81 
+27.56 
+
+7.868 
+
+57.38 
+3.63 
+1.237 
+4.37 
+11.13 
+
+3.177 
+7.87 
+3.081 
+
+17.3 
+11.07 
+10.26 
+14.21 
+
+ 
+
+14.63 
+52.2 
+
+3.63 
+1.296 
+5.634 
+4.30 
+3.414 
+
+±  0.083 
+±  0.078 
+±  0.19 
+±  0.10 
+±  0.15 
+±  0.071 
+±  0.16 
+±  0.035 
+±  0.11 
+±  0.068 
+±  0.65 
+±  0.38 
+±  0.23 
+±  0.058 
+±  0.050 
+±  0.40 
+±  0.54 
+±  1.2 
+±  0.049 
+±  0.034 
+±  0.34 
+±  0.33 
+±  0.27 
+±  0.092 
+±  0.33 
+±  0.14 
+±  0.027 
+±  0.13 
+±  0.20 
+±  0.051 
+±  0.15 
+±  0.064 
+±  1.3 
+±  0.27 
+±  0.27 
+±  0.25 
+
+±  0.36 
+±  1.5 
+±  0.16 
+±  0.032 
+±  0.087 
+±  0.17 
+±  0.086 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [3] and later revised by Schulte and 
+
+Malisch [4] to conform with IUPAC rules.   
+
+(b) The certified mass fraction value is a weighted mean of the mass fractions determined by methods GC/MS I and GC/MS II [5].  
+The uncertainty listed with each value is an expanded uncertainty about the mean [5,6], with coverage factor k = 2, calculated 
+by combining a pooled within-method variance with a between-method variance following the ISO Guide [7,8]. 
+
+(c) Under the conditions used PCB 193 coeluted with PCB 180.   
+ 
+
+ 
+
+SRM 1588c 
+
+Page 4 of 8 
+
+Table 2.  Certified Mass Fraction Values for Selected Chlorinated Pesticides in SRM 1588c. 
+ 
+
+4,4'-DDE 
+2,4'-DDD 
+4,4'-DDD 
+4,4'-DDT 
+cis-Chlordane 
+cis-Nonachlor 
+trans-Nonachlor 
+Oxychlordane 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+(a)   The certified mass fraction value is a weighted mean of the mass fractions determined by methods GC/MS I and 
+GC/MS  II  [5].    The  uncertainty  listed  with  each  value  is  an  expanded  uncertainty  about  the  mean  [5,6],  with 
+coverage  factor  k  =  2,  calculated  by  combining  a  pooled  within-method  variance  with  a  between-method 
+variance following the ISO Guide [7,8]. 
+ 
+ 
+
+Table 3.  Certified Mass Fraction Values for Selected PBDE Congeners in SRM 1588c(a). 
+ 
+
+PBDE 28 
+PBDE 33 
+PBDE 47 
+PBDE 49 
+PBDE 99 
+PBDE 100 
+PBDE 154 
+ 
+
+(2,4,4'-Tribromodiphenylether)(c) 
+(2',3,4-Tribromodiphenylether)(c) 
+(2,2',4,4'-Tetrabromodiphenylether) 
+(2,2',4,5'-Tetrabromodiphenylether) 
+(2,2',4,4',5'-Pentabromodiphenylether) 
+(2,2',4,4',6-Pentabromodiphenylether) 
+(2,2',4,4',5,6'-Hexabromodiphenylether) 
+
+ 
+
+(a) PBDE congeners are numbered according to IUPAC rules. 
+(b)  The certified mass fraction value is a weighted mean of the mass fractions determined by methods GC/MS I and GC/MS II [5].  
+The uncertainty listed with each value is an expanded uncertainty about the mean [5,6], with coverage factor k = 2, calculated 
+by combining a pooled within-method variance with a between-method variance following the ISO Guide [7,8]. 
+
+uncertainty  about  the  mea 
+between 
+
+iditions  used. 
+(c) PBDE 28 coeluted with PBDE 33 under the conditions used. 
+ 
+ 
+ 
+
+a)
+Mass Fraction(a) 
+(µg/kg) 
+
+104.0 
+
+± 
+9.546  ± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+65.97 
+71.5 
+12.34 
+14.64 
+17.01 
+1.78 
+
+1.6 
+0.072 
+0.99 
+1.6 
+0.38 
+0.49 
+0.50 
+0.17 
+
+Mass Fraction(b)  
+(µg/kg) 
+
+1.708  ± 
+
+0.035 
+
+25.3 
+
+± 
+± 
+6.29 
+± 
+1.70 
+± 
+5.23 
+1.113  ± 
+
+1.5 
+0.16 
+0.14 
+0.40 
+0.039 
+
+SRM 1588c 
+
+Page 5 of 8 
+
+Table 4.  Certified Mass Fraction Values for Fatty Acids as Fatty Acid Methyl Esters (FAMEs) in SRM 1588c.  
+
+ 
+
+ 
+ 
+
+ 
+
+Tetradecanoic Acid (C14:0; Myristic Acid) 
+Hexadecanoic Acid (C16:0; Palmitic Acid) 
+(Z)-9-Hexadecenoic Acid (C16:1 n-7) 
+(Palmitoleic Acid) 
+Octadecanoic Acid (C18:0; Stearic Acid) 
+(Z)-9-Octadecenoic Acid (C18:1 n-9) 
+(Oleic Acid)  
+(Z)-11-Octadecenoic  Acid (C18:1 n-7) 
+(Vaccenic Acid) 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n-6) 
+(Linoleic Acid) 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3 n-3) 
+(α-Linolenic Acid; ALA) 
+(Z,Z,Z)-6,9,12-Octadecatrienoic Acid (C18:3 n-6) 
+(γ-Linolenic Acid; GLA) 
+Eicosanoic Acid (C20:0; Arachidic Acid) 
+(Z)-11-Eicosenoic Acid (C20:1 n-9) 
+(Gondoic Acid) 
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic Acid (C20:4 n-6) 
+(Arachidonic Acid) 
+(Z,Z,Z,Z,Z)-5,8,11,14,17-Eicosapentaenoic Acid 
+(C20:5 n-3; EPA) 
+Docosanoic Acid (C22:0; Behenic Acid) 
+(Z)-13-Docosenoic Acid (C22:1 n-9; Erucic Acid) 
+(Z,Z,Z,Z,Z,)-7,10,13,16,19-Docosapentaenoic Acid  
+(C22:5; DPA) 
+(Z,Z,Z,Z,Z,Z)-4,7,10,13,16,19-Docosahexaenoic Acid 
+(C22:6 n-3; DHA) 
+Tetracosanoic Acid (C24:0; Lignoceric Acid) 
+
+Mass Fraction(a) 
+(mg/g) 
+
+98 
+166.9 
+117.6 
+
+±  13 
+±  1.6 
+±  5.3 
+
+29.9 
+68.2 
+
+±  1.1 
+±  3.6 
+
+27.7 
+
+±  1.3 
+
+11.34 
+
+± 
+
+0.52 
+
+10.66   ±  0.65 
+
+2.95 
+
+±  0.26 
+
+2.29 
+8.92 
+
+±  0.24 
+±  0.94 
+
+12.78 
+
+±  0.70 
+
+120 
+
+±  11 
+
+1.349  ±  0.055 
+1.105  ±  0.048 
+
+25.5 
+
+±  2.3 
+
+87.2 
+
+±  5.0 
+
+1.08 
+
+±  0.15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+(a) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  GC-FID  and  GC/MS  [5].    The 
+uncertainty listed with each value is an expanded uncertainty about the mean [5,6], with coverage factor k = 2 (approximately 
+95 % confidence), calculated by combining a pooled within-method variance with a between-method variance [9] following the 
+ISO Guide [7,8]. 
+
+SRM 1588c 
+
+Page 6 of 8 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+Table 5.  Reference Mass Fraction Values for Selected PCB Congeners in SRM 1588c.  
+ 
+
+PCB 28 
+PCB 31 
+PCB 154 
+PCB 175 
+PCB 176 
+PCB 185 
+PCB 196 
+PCB 203 
+PCB 201 
+PCB 202 
+PCB 207 
+PCB 208 
+
+(2,4,4'-Trichlorobiphenyl) 
+(2,4',5-Trichlorobiphenyl) 
+(2,2',4,4',5,6'-Hexachlorobiphenyl) 
+(2,2',3,3',4,5',6-Heptachlorobiphenyl) 
+(2,2',3,3',4,6,6'-Heptachlorobiphenyl) 
+(2,2',3,4,5,5',6-Heptachlorobiphenyl) 
+(2,2',3,3',4,4',5,6'-Octachlorobiphenyl)(d) 
+(2,2',3,4,4',5,5',6-Octachlorobiphenyl)(d) 
+(2,2',3,3',4,5',6,6'-Octachlorobiphenyl) 
+(2,2',3,3',5,5',6,6'-Octachlorobiphenyl) 
+(2,2',3,3',4,4',5,6,6'-Nonachlorobiphenyl) 
+(2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl) 
+
+Mass Fraction(a)  
+(µg/kg) 
+
+2.807 
+1.479 
+3.735 
+1.308 
+0.782 
+1.96 
+5.01 
+
+2.21 
+5.32 
+0.630 
+2.23 
+
+±  0.064(b) 
+±  0.056(b) 
+±  0.094(c) 
+±  0.068(c) 
+±  0.049(c) 
+±  0.13(c) 
+±  0.30(c) 
+
+±  0.15(c) 
+±  0.49(c) 
+±  0.017(c) 
+±  0.13(c) 
+
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [3] and later revised by Schulte and 
+
+Malisch [4] to conform with IUPAC rules.   
+
+(b) The  reference  mass  fraction  value  is  the  mean  of  results  obtained  using  one  analytical  technique, GC/MS  I.    The  expanded 
+uncertainty,  U,  is  calculated  as  =  kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is 
+determined from the Student’s t-distribution corresponding to 19 degrees of freedom and a 95 % confidence level for each analyte. 
+(c) The reference  mass fraction value is the mean of results obtained using one analytical technique, GC/MS II.  The expanded 
+uncertainty,  U,  is  calculated  as  =  kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is 
+determined from the Student’s t-distribution corresponding to 5 degrees of freedom and a 95 % confidence level for each analyte. 
+
+(d) PCB 196 and PCB 203 coeluted under the conditions used. 
+
+Table 6.  Reference Mass Fraction Values for Selected Chlorinated Pesticides in SRM 1588c.  
+ 
+
+2,4'-DDE 
+Trans-Chlordane 
+
+ 
+
+ 
+ 
+
+(a) The reference  mass fraction value is the mean of results obtained using one analytical technique, GC/MS II.  The expanded 
+uncertainty,  U,  is  calculated  as  =  kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is 
+determined from the Student’s t-distribution corresponding to 5 degrees of freedom and a 95 % confidence level for each analyte. 
+ 
+
+Table 7.  Reference Mass Fraction Values for Fatty Acids as Fatty Acid Methyl Esters (FAMEs) in SRM 1588c.  
+
+ 
+ 
+ 
+
+Dodecanoic Acid (C12:0; Lauric Acid) 
+(Z)-9-Tetradecenoic Acid (C14:1 n-5; Myristoleic Acid) 
+(Z)-15-Tetracosenoic Acid (C24:1 n-9; Nervonic Acid) 
+
+(a) The  reference  mass  fraction  value  is  the  mean  of  results  obtained  using  one  analytical  technique,  GC-FID.    The  expanded 
+uncertainty,  U,  is  calculated  as  =  kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is 
+determined from the Student’s t-distribution corresponding to 19 degrees of freedom and a 95 % confidence level for each analyte. 
+
+Mass Fraction(a) 
+(µg/kg) 
+
+6.61 
+11.98 
+
+± 
+± 
+
+0.33 
+0.95 
+
+Mass Fraction(a) 
+(mg/g) 
+
+1.33 
+1.13 
+5.30 
+
+± 
+± 
+± 
+
+0.10 
+0.12 
+0.43 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 1588c 
+
+Page 7 of 8 
+
+REFERENCES 
+
+ 
+[1]  May,  W.;  Parris,  R.;  Beck  II,  C.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260–136  (2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed Aug 2015). 
+
+[2]  Thompson  A.;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+(2008); 
+
+Publication 
+Government 
+http://ts.nist.gov/WeightsAndMeasures/Metric/mpo_pubs.cfm (accessed Aug 2015).  
+
+Metric/mpo_pubs.cfm 
+
+Washington, 
+
+Office: 
+
+Print 
+
+U.S. 
+
+811; 
+
+DC 
+
+[3]  Ballschmiter,  K.;  Zell,  M.;  Analysis  of  Polychlorinated  Biphenyls  (PCB)  by  Glass  Capillary  Gas 
+Chromatograph,  Composition  of  Technical  Aroclor-and  Clophen-PCB  Mixtures;  Fresenius  Z.  Anal.  Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+[4]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius Z. Anal. Chem., Vol. 314, pp. 545-551 (1983). 
+[5]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Controlled Clinical Trials, Vol. 7, pp. 177–188 
+
+Pp. 
+
+(1986). 
+
+[6]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323-331 (2009). 
+[7] 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug  2015);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2015). 
+JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology  (2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Aug 2015).  
+
+[8] 
+
+[9]  Horn, R.A.; Horn, S.A.; Duncan, D.B.; Estimating Heteroscedastic Variance in Linear Models; J. Am. Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  04 August 2015 (Update of expiration date due to instability; editorial changes); 21 November 2011 (Original 
+   
+certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301)  948-3730; 
+ 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+tability 
+
+fax 
+
+21 
+
+SRM 1588c 
+
+Page 8 of 8 
+
+

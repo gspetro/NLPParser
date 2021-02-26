@@ -1,0 +1,672 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+19 December 2017 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2585 
+Organic Contaminants in House Dust 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  evaluating  analytical  methods  for  the 
+determination of selected polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyl (PCB) congeners, 
+chlorinated pesticides, and polybrominated diphenyl ether (PBDE) congeners in house dust and similar matrices.  
+All of the constituents for which certified, reference, and information values are provided in SRM 2585 were 
+naturally present in the dust material before processing.  A unit of SRM 2585 consists of one bottle containing 
+approximately 10 g of house dust. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+ 
+Label Elements 
+Symbol: 
+
+Not classified. 
+Carcinogenicity – Category 1B 
+Reproductive Toxicity – Category 1A 
+STOT, Repeated Exposure – Category 2 
+
+ 
+
+Signal Word:  DANGER 
+
+Hazard Statement(s): 
+H350 
+H360 
+H373 
+
+May cause cancer. 
+May damage fertility or the unborn child. 
+May causes damage to organs through prolonged or repeated exposure. 
+
+Precautionary Statement(s): 
+P201 
+P202 
+P260 
+P280 
+P308 + P313 
+P405 
+P501 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Do not breathe dust. 
+Wear protective gloves, protective clothing, and eye protection. 
+If exposed of concerned:  Get medical attention. 
+Store locked up. 
+Dispose of contents and container in accordance with local regulations. 
+
+ 
+
+SRM 2585 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Contaminated House Dust  
+
+Other Designations:  Not applicable. 
+
+Note:  This material is a complex mixture that contains trace amounts of PAHs, PCB congeners, chlorinated pesticides, 
+and PBDE congeners.  Components are listed in compliance with OSHA, 29 CFR 1910.1200 for SDS information.  
+For actual concentrations, see the Certificate of Analysis. 
+
+ 
+
+ 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+Contaminated house dust 
+
+not applicable 
+
+not applicable 
+
+100 
+
+ 
+Individual Components in SRM 2585 
+
+ 
+
+7439-92-1 
+
+231-100-4 
+
+0.3 
+
+ 
+
+Lead  
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If a large amount is swallowed, seek medical attention. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    Nausea,  vomiting,  metallic  taste,  thirst,  a  burning 
+sensation in the mouth and throat, salivation, abdominal pain with severe colic.  Cancer, birth defects, reproductive 
+effects. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing media appropriate for the surrounding area. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)  
+
+ 
+
+Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Keep unnecessary personnel away.  
+Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Notify safety personnel of spills.  Collect spilled material 
+in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+SRM 2585 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handling in accordance with all current regulations and standards. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Component:  Lead 
+
+NIOSH REL (TWA):  0.050 mg/m3 
+NIOSH REL (IDLH):  100 mg/m3 
+ACGIH TLV (TWA):  0.05 mg/m3  
+OSHA PEL (TWA):  50 μg/m3 
+OSHA PEL (Action Level):  30 μg/m3 (See 29 CFR 1910.1025) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear chemical resistant safety goggles.  An eyewash station should be readily available near 
+areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being 
+performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Particle Size  
+
+Dust  
+
+amorphous powder 
+
+not applicable 
+not applicable 
+not available 
+not available 
+not available 
+not applicable 
+not applicable 
+not available 
+not applicable 
+not applicable 
+not applicable 
+not available 
+not available 
+
+<100 µm 
+
+SRM 2585 
+
+ 
+
+Page 3 of 6 
+
+Descriptive Properties: 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+
+Explosive Limits, LEL (Volume %): 
+
+Explosive Limits, UEL (Volume %): 
+
+Flash Point (ºC) 
+
+Flammability (solid, gas): 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  No data available. 
+
+Conditions to Avoid:  Avoid generating dust. 
+
+Dust  
+
+ 
+
+not available 
+
+not available 
+
+not available 
+
+not available 
+
+not available 
+
+not available 
+
+not available 
+
+Incompatible Materials:  Oxidizing materials, halogens, combustible materials, peroxides, metals, metal carbide, 
+and acids. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of lead. 
+
+Hazardous Polymerization: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Fatigue, weakness, anorexia, 
+anemia, jaundice, encephalopathy. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Exposure to dust may result in respiratory tract irritation.  Short term inhalation of lead may cause 
+irritation,  nausea,  vomiting,  kidney  damage,  liver  damage.    Prolonged  exposure  to  lead  may  result  in  an 
+accumulation in body tissues and exert adverse effects on the blood, nervous system, heart, endocrine and immune 
+systems, kidneys, and reproduction.   
+
+Skin Contact:  Skin exposure to dust may result in mechanical irritation.  Prolonged or repeated exposure to lead 
+may cause irritation; exposure to lead powder may cause dermatitis.   
+
+Eye Contact:  Contact with this material may cause mechanical eye irritation.   
+
+Ingestion:    Ingestion  of  lead  may  cause  kidney  damage  or  liver  damage;  chronic  ingestion  may  result  in 
+accumulation in body tissues and may also cause cancer.  . 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+Pure lead is classified as Category 4 oral and Category 4 inhalation.  
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Category 1B 
+
+SRM 2585 
+
+ 
+
+Page 4 of 6 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+X 
+
+Yes 
+
+ 
+
+ 
+
+No 
+
+Lead is listed as reasonably anticipated to be a human carcinogen per NTP. 
+IARC lists inorganic lead in Group 2A (probably carcinogenic to humans). 
+
+Reproductive Toxicity:  Category 1A; lead crosses the placenta and may affect the fetus causing birth defects, 
+mental retardation, behavioral disorders, and death during the first year of childhood. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 2; lead can accumulate in body tissues. 
+
+Carp (Cyprinus carpio), LC50:  0.44 mg/L (96 hours, semi-static) 
+Trout (Oncorhynchus mykiss), LC50:  1.17 mg/L (96 hours, flow-through) 
+
+Aspiration Hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:   
+
+Lead Fish Toxicity: 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste  Disposal:    Dispose  of  waste  in  accordance  with  all  applicable  federal,  state,  and  local  regulations.    Lead 
+Hazardous  Waste  Number(s):  D008.    Lead  subject  to  U.S.  EPA  40  CFR  262  for  concentrations  at  or  above  the 
+Regulatory level of 5.0 mg/L. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Lead, 10 lbs final RQ (4.54 kg final RQ). 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Lead, 10 lbs final RQ:  0.1 % Supplier notification limit; 0.1 % de 
+minimis concentration (when contained in stainless steel, brass, or bronze). 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated for this SRM. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+Yes. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:   
+
+WARNING!  This product contains chemicals (lead) known to the state of California to cause cancer. 
+
+WARNING!    This  product  contains  a  chemical  (lead)  known  to  the  state  of  California  to  cause 
+reproductive/developmental effects. 
+
+U.S. TSCA Inventory:  Lead listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+SRM 2585 
+
+ 
+
+Page 5 of 6 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date: 19 December 2017 
+
+ 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS Lead, 09 December 2017. 
+
+Key of Acronyms: 
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short Term Exposure Limit  
+STEL  
+Specific Target Organ Toxicity 
+STOT 
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2585 
+
+ 
+
+Page 6 of 6 
+
+

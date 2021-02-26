@@ -1,0 +1,118 @@
+﻿.  National  Bureau  of  Standards 
+Certificate 
+Standard  Reference  Material  1820 
+
+Refractive  Index  Glass 
+
+This  standard  was  prepared  from  a  selected  portion  of  a  commercial  borosilicate  glass!  11  that is 
+is  designed  for  both  the  calibration  of 
+homogeneous,  stable,  and  has  a  high  optical  quality.  It 
+refractometers  and  the  determination  of  refractive  indexes  of  microscope  immersion  liquids.  The 
+standard  consists  of  two  rectangular  slabs:  a  slab  which is  polished  on  two  faces,  intended  for 
+checking  the  performance  of  refractometers;  and  an  unpolished  slab,  which  can  be  broken  into 
+fragments,  intended  for  microscopic  determination  of  the  refractive  indexes  of immersion  liquids. 
+
+  
+
+Wavelength  in 
+Micrometers,  um 
+
+Refractive  Index 
+n 
+
+  
+
+0.70652 
+.66781 
+65628 
+64385 
+.089  264 
+
+08756 
+54607 
+50858 
+.48613 
+A7999 
+
+46781 
+43583 
+40466 
+
+  
+
+Spectral  Source 
+
+Helium 
+Helium 
+Hydrogen,  C 
+Cadmium 
+Sodium,  D,,  Do 
+
+Helium 
+Mercury 
+Cadmium 
+Hydrogen,  F 
+Cadmium 
+
+Cadmium 
+Mercury 
+Mercury 
+
+1.48398 
+1.48499 
+1.48532 
+1.48569 
+1.48755 
+
+1.48762 
+1.48939 
+1.49136 
+1.49275 
+1.49316 
+
+1.49404 
+1.49669 
+1.49994 
+
+  
+
+  
+
+*  Intensity-weighted  mean  of  doublet,  D,,  Do 
+
+The  research  and  technical  measurements  leading  to  the  certification  were  performed  in  the 
+Optical  Physics  Division  of  the  National  Bureau  of  Standards  by  I.  H.  Malitson,  assisted  by  M.  J. 
+Dodge,  J.  Cooke  and  J.  M.  Guyton. 
+
+The  development  of  this  Standard  Reference  Material  was  sponsored  by  the  National  Institute  of 
+Law  Enforcement  and  Criminal  Justice,  Law  Enforcement  Assistance  Administration,  U.S.  Depart- 
+ment  of  Justice,  through  the  NBS  Law  Enforcement  Standards  Laboratory.  It  was  coordinated 
+through  the  Office  of  Standard  Reference  Materials  by  C.  L.  Stanley. 
+
+Washington,  D.C.  20234 
+September  30,  1974 
+
+J.  Paul  Cali,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+  
+
+The  homogeneity  of  the  glass  was  established  by  measuring  the  refractive  index  of  contiguous 
+rectangular  slabs  and  prisms  that  were  cut  from  bars  of  glass.  The  prisms  were  used  to  determine 
+refractive  index  at  13  wavelengths.  These  indexes  were  measured  by  the  classical  minimum  devia- 
+
+homogeneity  of  this  glass,  it  is  believed  that  the  index  variance  at  the  other  wavelengths  is  within 
+the  stated  uncertainty.  All  refractive  index  measurements  were  carried  out  in  a  temperature  con- 
+trolled  laboratory--the  temperature  varied  not  more  than  0.3  °C.  The  values  of  refractive  index  are 
+referred  to  20  °C  and  a  pressure  of  101,325  pascals  (760  mm  Hg). 
+Information  only:  The  temperature  coefficient  of  refractive  index,  dn/dT,  over  a  temperature 
+range  of  20-80  °  C  =+  4.0  x  10-6/°C  at  sodium  D),  Dy.  The  density  of  the  glass  =2.292  +  0.001 
+gm/cm3  at  24°C,  50%  humidity,  and  a  pressure  of  99,442  pascals  (746  mm  Hg). 
+[1]  Information  on  the  glass  manufacturer  and  composition  are  given  in  NBS  Miscellaneous  Publi- 
+cation  260-23,  Viscosity  of  a  Standard  Borosilicate  Glass,  by  A.  Napolitano  and  E.G.  Hawkins. 
+[2]  F.  A.  Jenkins,  H.  E.  White,  Fundamentals  of  Optics  (McGraw-Hill  Book  Co.,  Inc.,  1957),  Third 
+Edition,  pp.  20-23.
+
+

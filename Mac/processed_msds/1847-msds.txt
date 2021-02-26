@@ -1,0 +1,402 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  1847
+MSDS Number:  1847
+SRM Name: Ethanol-Water Solutions
+
+(Breath-Alcohol Testing Three Levels)
+
+Date of Issue:  15 March 2012 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:    This  Standard  Reference  Material (SRM)  is  a  set  of  three  levels  of  ethanol  in  water  at  a  nominal 
+concentrations  of  2 %,  6 %,  and  25 %  by  mass.    This  SRM  is  intended  primarily  for  use  in  the  calibration  of 
+instruments  and  techniques  used  for  the  determination  of  ethanol  in  breath.    SRM 1847  consists  of  six  10 mL 
+ampoules,  (two  ampoules  each  of  the  nominal  concentrations  of  2 %,  6 %,  and  25 %  by  mass)  each  ampoule 
+contains approximately 10 mL of solution. 
+
+Other Designations:  Ethyl alcohol; grain alcohol; ethyl hydroxide; ethyl hydrate; algrain; methyl carbinol; cologne 
+spirits; fermentation alcohol; absolute alcohol; UN1170; C2H5OH. 
+
+Substance:  Ethanol/Water Solutions 
+
+2.  HAZARD IDENTIFICATION 
+
+Health = 2 
+
+NFPA Ratings (Scale 0–4): 
+Note:  Each of these solutions is a mixture of ethanol and water.  This MSDS contains health and safety information 
+for ethanol. 
+Major  Health  Hazards:    Respiratory  tract  irritation,  skin  irritation,  eye  irritation,  liver  damage,  central  nervous 
+system depression. 
+Physical Hazards:  Flammable liquid and vapor.  Vapor may cause flash fire. 
+
+Reactivity = 0 
+
+Fire = 3 
+
+Potential Health Effects (Acute and Chronic) 
+
+Inhalation:    Irritation  of  mucous  membranes,  headache,  drowsiness,  fatigue,  nervousness,  dullness,  narcosis, 
+lack  of  concentration,  somnolence,  symptoms  of  drunkenness.    Reproductive  effects  have  been  reported  in 
+animals.  
+
+Skin  Contact:    Irritation,  mild  redness  and  burning,  sensitization,  allergic,  contact  dermatitis.    Chronic 
+exposure may result in defatting of the skin.  
+
+Eye Contact:  Irritation, conjunctivitis, corneal cloudiness. 
+
+Ingestion:    Headache,  drowsiness,  emotional  lability,  decreased  inhibitions,  exhilaration,  boastfulness, 
+talkativeness,  remorse,  belligerency,  gradual  visual  impairment,  muscular  incoordination,  slurring  of  speech, 
+symptoms of drunkenness; long term may result in liver damage.  Reproductive effects have been reported in 
+animals.  
+
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+ 
+X(a) 
+ 
+
+ 
+ 
+ 
+ 
+
+No 
+X 
+ 
+X 
+
+(a) IARC lists ethanol (as related to alcoholic beverages) as Group 1 (carcinogenic to humans). 
+
+MSDS 1847 
+
+Page 1 of 4 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+Ethanol 
+(a) Concentrations of the components are listed as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information 
+
+EC Number (EINECS) 
+200-578-6 
+
+CAS Number 
+64-17-5 
+
+Nominal Concentration 
+(%) 
+≤25 
+
+with hazardous components (1 % or greater) and carcinogens (0.1 % or greater). 
+
+EC Classification:  F (Ethanol) 
+
+EC Risk (R No) Phrases:  11 
+EC Safety (S No) Phrases:  7, 16 
+
+4.  FIRST AID MEASURES 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration by 
+qualified personnel.  Seek immediate medical attention. 
+Skin  Contact:    Rinse  affected  area  with  soap  and  water  for  at  least  15 minutes.    Seek  medical  assistance  if 
+necessary. 
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 
+minutes.  Seek immediate medical attention. 
+Ingestion:  Contact local poison control center or physician immediately.  Never make an unconscious person vomit 
+or drink fluids.  If vomiting occurs, keep head lower than hips to prevent aspiration.  If person is unconscious, turn 
+head to side.  Get medical attention immediately. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor is heavier than air.  Vapors or gases may ignite at distant 
+ignition sources and flash back.  Vapor/air mixtures are explosive above flash point. 
+Extinguishing Media:  Regular dry chemical, carbon dioxide, fine water spray, and alcohol resistant foam. 
+Fire Fighting:  Avoid inhalation of combustion by-products. 
+
+Flash Point (C):  29 (84 F) for a 30 % ethanol/water solution. 
+Method Used:  Closed cup. 
+
+Autoignition Temperature (C):  363 (685.4 F) for ethanol. 
+Flammability Limits in Air (Ethanol) 
+
+UPPER (Volume %): 
+LOWER (Volume %): 
+
+19 
+3.3 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Absorb with sand or other non-combustible material and collect in appropriate container for 
+proper disposal. 
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handling in accordance with all current regulations and standards. 
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits for Ethanol 
+
+1000 ppm TWA or 1900 mg/m3 TWA 
+
+OSHA (PEL): 
+ACGIH (TLV):  1000 ppm STEL 
+NIOSH (REL):  1000 ppm TWA or 1900 mg/m3 TWA 
+ 
+
+3300 ppm IDLH 
+
+Ventilation:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+MSDS 1847 
+
+Page 2 of 4 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets  OSHA 
+29 CFR 1910.134 must be followed.  Refer to NIOSH 24 CFR 84 for applicable certified respirators. 
+Eye Protection:  Wear safety goggles.  An eyewash station and drench shower should be readily available near the 
+handling and use areas. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Ethanol: 
+
+Appearance and Odor: 
+Molecular Formula: 
+Molar Mass: 
+Specific Gravity (water = 1): 
+
+Clear, colorless, liquid; fruity odor. 
+C2H6O. 
+46.07 g/mol 
+0.7893 
+
+Boiling Point: 
+
+78.3 C – 78.5 C (172.9 F – 173.3 F) 
+
+Vapor Pressure: 
+Vapor Density (air = 1): 
+
+40 mmHg, 19 C 
+1.59 
+
+Melting Point: 
+Water Solubility: 
+Solvent Solubility: 
+
+–117 C (–179 F) 
+Miscible. 
+Soluble in benzene, ether, acetone, chloroform, methanol, organic solvents. 
+
+ 
+
+X 
+
+Stable 
+
+Unstable 
+
+Stable at normal temperatures and pressure. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+ 
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Containers may rupture or explode 
+if exposed to heat.  
+Incompatible  Materials:    Acids,  bases,  combustible  materials,  halo  carbons,  halogens,  metal  oxides,  metal  slats, 
+metals, oxidizing materials, peroxides. 
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+Hazardous Decomposition:  Oxides of carbon. 
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION 
+ 
+Route of Entry: 
+
+X  Will Not Occur 
+
+  Will Occur 
+
+Inhalation 
+
+Ingestion 
+
+Skin 
+
+X 
+
+X 
+
+ 
+
+Toxicity Data for Ethanol: 
+
+Rat, Oral LD50:  7060 mg/kg 
+Rat, Inhalation LC50:  124.7 mg/L (4 h) 
+The  following  endpoints  are  a  few  of  the  endpoints  listed  by  Registry  of  Toxic  Effects  of  Chemical 
+Substances (RTECS). 
+Mutagenic: 
+Mutagenic: 
+Mutagenic: 
+Reproductive: 
+Reproductive: 
+Tumorigenic: 
+
+Human lymphocyte (DNA inhibition), TD:  220 mmol/L 
+Human liver (micronucleus test), TD:  15 mmol/L (24 h) 
+Human, Oral (micronucleus test), TD:  817.6 g/kg (6 year intermittent) 
+Rat, Inhalation (1 d to 22 d pregnant), TCLo:  20 000 ppm (7 h) 
+Rat, Oral (14 d to 16 d pregnant), TDLo:  24 g/kg 
+Mouse, Oral, TDLo:  320 mg/kg (50 week intermittent) 
+
+Additional Information:  May cross the placenta.  May be excreted in breast milk.  Allergic reactions to alcohols 
+
+have been reported.  
+
+Health Effects:  See Section 2, “Hazard Identification” for potential health effects. 
+Target Organs:  Central nervous system and liver. 
+Medical  Conditions  Aggravated  by  Exposure:    Central  nervous  system  disorders,  kidney  disorders,  liver 
+disorders. 
+
+MSDS 1847 
+
+Page 3 of 4 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data for Ethanol 
+
+Fish: 
+ 
+Invertebrate:  Freshwater  water flea (Daphnia magna) EC50:  10 800 mg/L (24 h) 
+
+Fathead minnow (Pimephales promelas) LC50 [static]:  12.0 mg/L – 16.0 mL/L (96 h) 
+Rainbow trout (Oncorhynchus mykiss) LC50 [static]:  >100 mg/L (96 h) 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Ethanol, UN1170; Hazard Class 3; Packing Group III. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+Yes 
+No 
+No 
+
+State Regulations: 
+
+California Proposition 65 Warnings: 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+European Regulations 
+
+EC Classification (Ethanol) 
+F:  Highly flammable. 
+
+EC Risk Phrase(s): 
+
+R11 – Highly Flammable. 
+
+EC Safety Phrase(s): 
+
+S7 – Keep container tightly closed. 
+S16 – Keep away from sources of ignition - No smoking. 
+
+National Inventory Status 
+
+U.S. Inventory (TSCA):  Listed. 
+TSCA 12(b), Export Notification:  Not Listed. 
+
+16.  OTHER INFORMATION 
+
+Sources: 
+
+This product contains a chemical (ethanol) known to the state of California to cause cancer. 
+This  product  contains  a  chemical 
+reproductive/developmental effects. 
+
+(ethanol)  known 
+
+the  state  of  California 
+
+to 
+
+to  cause 
+
+ChemAdvisor, Inc., MSDS, Ethyl Alcohol, 20 December 2011. 
+EC;  European  Chemical  Substance  Information  System  (ESIS),  Ethyl  Alcohol,  CAS No. 64-17-5, 
+available at http://esis.jrc.ec.europa.eu/index.php?PGM=cla (accessed Mar 2012). 
+NIOSH Registry of Toxic Effects of Chemical Substances (RTECS), Ethyl alcohol, No. KQ6300000, 
+CAS  No.  64-17-5;  May 2009;  available  at  http://www.cdc.gov/niosh-rtecs/KQ602160.html  (accessed 
+Mar 2012). 
+
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1847 
+
+Page 4 of 4 
+
+

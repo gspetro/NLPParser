@@ -1,0 +1,2769 @@
+﻿ent  OF  Co, 
+
+A S
+
+y
+,
+ 
+
+]
+
+9
+g
+ 
+
+Stares  oF 
+
+Uy 
+
+<
+ 
+c
+E
+ 
+
+*
+ 
+
+e
+y
+ M
+y
+ 
+
+National Institute of Standards & Technology
+
+Certificate of Analysis
+Standard Reference Material® 2390
+
+DNA Profiling Standard
+
+Standard  Reference  Material  (SRM)  2390  is  intended  for  (1)  standardization  of  forensic  and  paternity  quality
+assurance  procedures  for  Restriction  Fragment  Length  Polymorphisms  (RFLP)  testing  using  HaeIII  restriction
+enzymes,  and  (2)  instructional  law  enforcement  or  nonclinical  research  purposes.    It  is  NOT  intended  for  any
+human/animal clinical diagnostic use.
+
+SRM 2390 was originally certified in 1992 using measurements performed during 1990 through 1991 [1].  While RFLP
+allelic band size is nominally equal to the number of nucleotide base pairs (bp) in a DNA fragment, measured band
+size  is  a  protocol-defined  quantity [2].    The  RFLP  measurement  protocols  recommended  by  the  Royal  Canadian
+Mounted Police [3], the U.S. Federal Bureau of Investigation [4], and the Scientific Working Group for DNA Analysis
+Methods [5] are sufficiently similar to provide validly comparable values [6].  This certificate updates the band size
+values of the original SRM 2390 certification to reflect the evolution of forensic practice from 1991 to 1998.
+
+Each SRM 2390 unit consists of 20 components.  Quantitative allelic band sizes are provided for human DNA from
+two sources:  (1) the female cell line K562, and (2) the male source “TAW.”  Three different forms of material from the
+two  sources  are  provided:    (1) cell pellet, (2)  extracted  genomic  DNA,  and  (3) a  HaeIII  restriction  digest  “pre-cut”
+DNA.  The remaining components are well-characterized consumable materials required for qualitative evaluation of
+the HaeIII RFLP measurement process.  These components include standards for quantifying extracted DNA by use
+of yield gels, a DNA ladder for band size determination, materials for labeling the DNA size ladder, a viral DNA marker
+for  assessment  of  electrophoretic  separation,  and  agarose  that  is  compatible  with  all  DNA  components.    See
+Components and Storage on page 2 of this certificate for a detailed listing of the components.
+
+Expiration  of  Certification:    When  stored  as  specified  in  the  Components  and  Storage  section  on  page  2,  the
+certified values should remain within their uncertainty limits for at least five years from the date of shipment.  NIST
+will keep samples of this material under surveillance for five years after the date of last sale.  If changes occur beyond
+the limits certified, NIST will notify purchasers.
+
+The  technical  aspects  of  the  recertification  process  were  coordinated  by  D.J.  Reeder  formerly  of  the  NIST
+Biotechnology Division. Material stability studies and coordination of the interlaboratory study were performed by
+K.L. Richie of the NIST Biotechnology Division. Data analyses was provided by D.L. Duewer of the NIST Analytical
+Chemistry Division.
+
+Statistical consultation on aspects of these analyses was provided by H-k. Liu of the NIST Statistical Engineering
+Division.
+
+The  support  aspects  involved  in  the  recertification  of  this  SRM  were  coordinated  through  the  NIST  Standard
+Reference Materials Program by J.C. Colbert.
+
+Gaithersburg, MD  20899
+Certificate Issue Date:  2 February 2001
+See Certificate Revision History on Last Page
+
+SRM 2390
+
+Gary L. Gilliland, Chief
+Biotechnology Division
+
+Nancy M. Trahey, Chief
+Standard Reference Materials Program
+
+Page 1 of 17
+
+All  measurements  used  in  the  recertification  of  allelic  band  sizes  of  SRM  2390  K562  and  TAW  components  were
+performed by personnel of the laboratories listed in Appendix A.
+
+Certified Band Sizes:  Tables 1 and 2 list certified values (expected allelic band sizes and sizing uncertainty) for band
+size measurements of the cell pellet and extracted genomic SRM 2390 K562 and TAW DNA at six commonly probed
+genetic  loci:  D1S7  [7],  D2S44  [8,9],  D4S139  [10],  D5S110  [11],  D10S28  [12],  and  D17S79  [13].    Due  to  strong
+measurement-related correlation among allelic bands for a given sample, sizing uncertainty is defined for the pair of
+allelic bands at these six genetic loci.  Two sets of certified values are provided:  (1) a set reflecting measurement
+practice at the beginning of 1998, based only on results of a NIST-conducted interlaboratory comparison [14], and (2)
+a  set  reflecting  measurement  practice  from  1991  through  1997  [15].    These  certified  allelic  band  size  regions  are
+presented in graphical form in Figures 1a through 1f.
+
+Informational Band Sizes:  Table 3 lists informational values for SRM 2390 K562 and TAW DNA band sizes at six
+less commonly probed genetic loci:  D7S467 [16], D7Z2 [17], D8S358 [18], D14S13 [9], D17S26 [19], and DYZ1 [20].
+
+NOTICE AND WARNING TO USER
+
+The K562 cell line was derived from a human subject with a diagnosis of chronic myelogenous leukemia [19,20].  The
+TAW male DNA components are derived from blood cells from a healthy human; these materials have been tested
+and found to be nonreactive for hepatitis B surface antigen (HBsAG)  and  HIV  by  FDA-approved  testing.    No  test
+method can ensure that human-derived material does not contain infectious agents.  HANDLE AS IF CAPABLE OF
+TRANSMITTING DISEASE.
+
+Components and Storage:  Each unit includes 20 components, 19 of which contain material that must be kept frozen.
+
+Box A:  (Store at -20 °C)
+
+#1 Molecular Weight Marker DNA
+#2 Molecular Weight Marker Dilution
+#3 Molecular Weight Marker Probe
+#4 DNA Klenow Fragment
+#5
+#18 Adenovirus Visible Ladder
+#19
+
+Stop Solution
+
+Attached to Box A:  (Shipped at -20 °C, but store at room temperature)
+
+#20 Agarose
+
+Box B:  (Store at -20 °C)
+
+10X Buffer (used with components #12, #13, #15, #16, #17, and #18)
+
+#6
+#7
+#8
+#9
+#10
+#11
+
+250 ng DNA standard
+100 ng DNA standard
+50 ng DNA standard
+25 ng DNA standard
+12.5 ng DNA standard
+6 ng DNA standard
+
+Box C:  (Store at -70 °C)
+
+#12 K562 Cell Pellet (3 x 106 cells)
+#13 K562 Undigested DNA (232 ng/µL)
+#14 K562 DNA, HaeIII Digest (25 ng/µL, premixed with loading buffer)
+#15
+#16
+#17
+
+TAW Male Cell Pellet (3 x 106 cells)
+TAW Male Undigested DNA (200 ng/µL)
+TAW Male DNA, HaeIII Digest (25 ng/µL)
+
+SRM 2390
+
+Page 2 of 17
+
+SOURCE AND ANALYSIS
+
+Stability:  All components except the three noted below were found unchanged from the original certification upon
+retesting in 1998.  Due to long term storage and possible desiccation at –20 °C, component #1 may contain less than
+its stated 30 µL volume.  The total amount of molecular weight marker DNA has neither changed nor degraded.  If
+you have received an SRM with component #1 having reduced volume, reconstitute to 30 µL with distilled/deionized
+water.
+
+While the band sizes for the precut SRM 2390 K562 and TAW DNA components are qualitatively the same as their
+non-precut analogues, they yield band sizes that are quantitatively distinguishable.  The magnitude of the difference
+appears to have increased from 1991 to 1997 [14].  Therefore, components #14 and #17 should be used for qualitative
+evaluations only.
+
+Source  of  Material:  The  TAW  male  materials  and  the  10X  buffer  were  provided  by  Analytical  Genetic  Testing
+Center, Inc., Denver, CO.  The K562 female materials and all other components of the SRM were provided by Life
+Technologies, Inc., Rockville, MD.
+
+Certified  Values  for  Forensic  Practice  as  of  1997:    The  certified  allelic  band  sizes  in  Table  1  are  derived  from
+analyses performed at 20 forensic laboratories from Fall 1997 through Spring 1998.  The participants in this study are
+listed in Appendix A.  These participants were requested (1) to use as many components of the SRM 2390 unit as
+were compatible with their routine RFLP analysis systems, (2)  to  analyze  the  SRM  2390  K562  and  TAW  materials
+using as close to their routine casework protocols as possible, and (3) to report allelic band sizes for all genetic loci
+they  routinely  probe.    Many  participants  supplied  copies  of  the  autoradiograms  and/or  chemilumigrams  resulting
+from their analyses.  Images of a “representative” set of chemilumigrams are provided in Appendix B.
+
+Because  these  data  are  representative  of  a  maximum  of  20  laboratories,  the  sizing  uncertainty  is  expressed  as  a
+95 %/95 % tolerance region.  NIST certifies, with 95 % confidence, that 95 % of all measurement pairs at a given locus
+that are validly characteristic of forensic practice on or about the end of 1997 will be bounded by the given ellipse.  In
+addition to numeric specification in Table 1, these tolerance ellipses are defined by the thin black line in Figures 1a
+through 1f.  A detailed description of the analysis and interpretation of results from this interlaboratory comparison
+exercise has been published [14].
+
+Certified  Values  for  Forensic  Practice  from  1991  through  1997:    The  certified  allelic  band  sizes  in  Table  2  are
+based upon all relevant RFLP band sizing data available, including non-SRM 2390 K562 information from proficiency
+tests conducted from 1991 through 1997 and well documented empirical relationships [6,23-25].
+
+Since  these  certified  values  are  based  upon  a  large  body  of  data,  the  sizing  uncertainty  is  expressed  as  a  99 %
+tolerance interval.  NIST certifies that 99 % of all measurement pairs, at a given locus that are validly characteristic of
+forensic practice from 1991 through 1997, will be bounded by the given ellipse.  In addition to numeric specification in
+Table 2, these tolerance ellipses are defined by the thick black line in Figures 1a through 1f.  A detailed description of
+the analysis and interpretation of results from this interlaboratory comparison exercise has been published [15].
+
+SRM 2390
+
+Page 3 of 17
+
+Table 1.  Certified Values for “1997-Equivalent” Band Size Measurements of
+SRM 2390 Cell Pellet and Extracted Genomic Components
+
+Locus
+
+n97
+
+n
+biK
+
+97
+
+95/95
+
+D1S7
+D2S44
+D4S139
+D5S110
+D10S28
+D17S79
+
+20
+20
+20
+17
+19
+15
+
+11.9
+11.9
+11.9
+13.2
+12.3
+14.5
+
+1X
+(bp)
+
+4585
+2905
+6474
+3700
+1754
+1979
+
+1S
+(bp)
+
+29.9
+19.5
+49.2
+23.2
+11.4
+14.8
+
+K562
+
+2X
+(bp)
+
+4237
+1788
+3440
+2926
+1180
+1514
+
+2S
+(bp)
+
+23.6
+14.3
+22.2
+17.4
+9.7
+11.1
+
+1X
+(bp)
+
+7773
+3711
+10854
+3343
+3935
+1753
+
+1S
+(bp)
+
+63.2
+23.2
+117
+20.4
+24.5
+11.2
+
+R
+
+0.88
+0.81
+0.78
+0.85
+0.83
+0.88
+
+TAW
+
+2X
+(bp)
+
+6886
+1288
+8185
+1444
+1788
+1515
+
+2S
+(bp)
+
+41.3
+8.7
+64.7
+11.5
+10.2
+11.7
+
+R
+
+0.82
+0.65
+0.71
+0.60
+0.82
+0.95
+
+Two  allelic  bands  are  expected  for  each  of  these  six  genetic  loci.    Designate  the  larger  of  the  two  band  size
+measurements  at  a  given  locus  as  x1  and  the  smaller  as  x2.    With  95 %  confidence,  95 %  of  “1997-valid”  {x1,x2}
+measurement pairs for the cell pellet and extracted genomic components of SRM 2390 will be within the  95 %/95 %
+tolerance ellipse:
+
+
+
+
+
+
+1
+
+1
+
+Xx
+−
+S
+1
+
+2
+
+
+
++
+
+
+
+
+
+
+
+x
+
+2
+
+X
+
+2
+
+−
+S
+
+2
+
+R2
+
+
+
+
+
+
+1
+
+1
+
+Xx
+−
+S
+1
+
+
+
+
+
+
+
+
+
+
+x
+
+2
+
+X
+
+2
+
+−
+S
+
+2
+
+
+
+
+
+
+2
+
+
+
+−
+
+R1
+−
+
+2
+
+≤
+
+K
+
+97
+
+n
+bi
+
+95/95
+
+where n 97 is the number of participants reporting data for each genetic locus.
+
+Details  on  the  construction  of  these  tolerance  ellipses  and  estimation  of  the  critical  values  are  provided  in
+Reference [14].  Figures 1a through 1f  state  these  certified  band  sizes  (the  location  of  the  “×”  in  the  figures)  and
+95 %/95 % tolerance region (the region inside the black ellipse) for these six loci in graphical form.
+
+The  DNA  Advisory  Board  STANDARD  9.5  states,  “The  laboratory  shall  check  its  DNA  procedures  annually  or
+whenever  substantial  changes  are  made  to  the  protocol(s)  against  an  appropriate  and  available  NIST  Standard
+Reference Material or standard traceable to a NIST standard.”  We suggest that each user of this SRM plot their own
+band size measurements for each locus using an appropriate computer graphics system or a copy of the enclosed
+figures.  Preparation of such plots is an appropriate “check [of] DNA procedures.”  See Reference [14]  for  further
+details.
+
+Table 2.  Certified Values for “1991 to1997-Equivalent” Band Size Measurements
+of SRM 2390 DNA Components
+
+Locus
+
+99biK
+
+)XS(
+1
+(bp)
+
+)XS(
+
+2
+(bp)
+
+)X,XR(
+1
+
+2
+
+1X
+(bp)
+
+)XS(
+1
+(bp)
+
+)XS(
+
+2
+(bp)
+
+)X,XR(
+1
+
+2
+
+1X
+(bp)
+
+4583
+2912
+6505
+3720
+1758
+1984
+
+39
+19
+50
+24
+12
+14
+
+K562
+
+2X
+(bp)
+
+4234
+1792
+3447
+2941
+1185
+1522
+
+D1S7
+D2S44
+D4S139
+D5S110
+D10S28
+D17S79
+
+14.2
+14.2
+14.2
+14.2
+14.2
+14.2
+
+36
+13
+22
+22
+11
+13
+
+0.82
+0.69
+0.54
+0.79
+0.63
+0.72
+
+7768
+3712
+10862
+3343
+3929
+1755
+
+82
+26
+174
+24
+28
+14
+
+TAW
+
+2X
+(bp)
+
+6881
+1291
+8200
+1444
+1788
+1517
+
+65
+12
+91
+13
+14
+13
+
+0.69
+0.42
+0.64
+0.48
+0.50
+0.68
+
+SRM 2390
+
+Page 4 of 17
+
+With high confidence, 99 % of “1991 to 1998-equivalent” {x1,x2} measurement pairs for K562 and TAW DNA will be
+within the 99 % tolerance ellipse:
+
+
+
+
+
+
+Xx
+−
+1
+1
+)XS(
+1
+
+2
+
+
+
++
+
+
+
+
+
+
+
+2
+
+x
+
+X
+
+R2
+
+−
+2
+2
+)XS(
+
+
+
+−
+
+
+
+
+
+
+)X,X(R1
+1
+
+−
+
+2
+
+2
+
+2
+
+Xx
+−
+1
+1
+)XS(
+1
+
+
+
+
+
+
+
+
+
+
+x
+
+X
+
+−
+2
+2
+)XS(
+
+2
+
+
+
+
+
+
+≤
+
+K
+
+9 9bi
+
+Details  on  the  construction  of  these  tolerance  ellipses  and  estimation  of  the  critical  values  are  provided  in
+References  [14]  and  [15].    Figures  1a  through  1f  state  these  certified  band  sizes  (the  center  of  the  plot)  and  99 %
+tolerance region (the region inside the black ellipse) for these six loci in graphical form.
+
+Table 3.  Information Values for Additional Loci
+
+K562
+
+TAW
+
+1X
+(bp)
+
+4677
+2736
+5878
+1642
+4823
+
+2X
+(bp)
+
+3217
+
+1303
+
+1358
+
+2X
+(bp)
+
+4339
+
+2383
+
+4852
+
+1X
+(bp)
+
+4496
+2747
+3417
+1579
+5514
+3571
+
+5
+1
+1
+2
+1
+1
+
+Locus
+
+a
+
+n97
+
+D7S467
+D7Z2b
+D8S358
+D14S13c
+D17S26
+DYZ1d
+
+ a
+
+the number of participants in the 1997 to 1998 NIST conducted interlaboratory comparison exercise who reported
+data  for  each  genetic  locus.    Where  more  than  one  participant  reported  data,  the  information  values  are  the
+median of the band sizes reported.
+human-specific monomorphic locus having a known sequence of length 2731 bp
+both K562 and TAW are apparent homozygotes at this locus
+
+ b
+ c
+ d Y chromosome locus
+
+SRM 2390
+
+Page 5 of 17
+
+D1S7  (HaeIII)
+
+4400
+
+4500
+
+4600
+
+4700
+
+4800
+
+K562
+
+i
+
+p
+b
+ 
+ 
+,
+e
+z
+S
+ 
+2
+d
+n
+a
+B
+
+4427
+
+7400
+
+4505
+
+7600
+
+Male (TAW)
+
+4583
+
+4661
+
+4739
+
+7800
+
+8000
+
+8200
+
+4378
+
+4306
+
+4234
+
+4162
+
+4090
+
+7141
+
+7011
+
+6881
+
+6751
+
+6621
+
+4400
+
+4300
+
+4200
+
+4100
+
+7200
+
+7000
+
+6800
+
+6600
+
+7440
+
+7604
+
+7768
+
+7932
+
+8096
+
+Band1 Size,  bp
+
+Figure 1a.  D1S7 Tolerance Ellipses
+
+SRM 2390
+
+Page 6 of 17
+
+D2S44  (HaeIII)
+
+2850
+
+2900
+
+2950
+
+3000
+
+K562
+
+p
+b
+
+ 
+ 
+,
+e
+z
+i
+S
+ 
+2
+d
+n
+a
+B
+
+2836
+
+2874
+
+2912
+
+2950
+
+2988
+
+3600
+
+3650
+
+3700
+
+3750
+
+3800
+
+3850
+
+Male (TAW)
+
+1844
+
+1818
+
+1792
+
+1766
+
+1740
+
+1339
+
+1315
+
+1291
+
+1267
+
+1243
+
+1850
+
+1825
+
+1800
+
+1775
+
+1750
+
+1725
+
+1340
+
+1320
+
+1300
+
+1280
+
+1260
+
+1240
+
+3608
+
+3660
+
+3712
+
+3764
+
+3816
+
+Band1 Size,  bp
+
+Figure 1b.  D2S44 Tolerance Ellipses
+
+SRM 2390
+
+Page 7 of 17
+
+D4S139  (HaeIII)
+
+6300
+
+6400
+
+6500
+
+6600
+
+6700
+
+K562
+
+p
+b
+
+ 
+ 
+,
+e
+z
+i
+S
+ 
+2
+d
+n
+a
+B
+
+6305
+
+6405
+
+6505
+
+6605
+
+6705
+
+10000
+
+10500
+
+11000
+
+11500
+
+Male (TAW)
+
+3535
+
+3491
+
+3447
+
+3403
+
+3359
+
+8564
+
+8382
+
+8200
+
+8018
+
+7836
+
+3550
+
+3500
+
+3450
+
+3400
+
+3350
+
+8600
+
+8400
+
+8200
+
+8000
+
+7800
+
+10166
+
+10514
+
+10862
+
+11210
+
+11558
+
+Band1 Size,  bp
+
+Figure 1c.  D4S139 Tolerance Ellipses
+
+SRM 2390
+
+Page 8 of 17
+
+D5S110  (HaeIII)
+
+3600
+
+3650
+
+3700
+
+3750
+
+3800
+
+3850
+
+K562
+
+p
+b
+
+ 
+ 
+,
+e
+z
+i
+S
+ 
+2
+d
+n
+a
+B
+
+3624
+
+3672
+
+3720
+
+3768
+
+3816
+
+3250
+
+3300
+
+3350
+
+3400
+
+3450
+
+Male (TAW)
+
+3029
+
+2985
+
+2941
+
+2897
+
+2853
+
+1496
+
+1470
+
+1444
+
+1418
+
+1392
+
+3050
+
+3000
+
+2950
+
+2900
+
+2850
+
+1500
+
+1475
+
+1450
+
+1425
+
+1400
+
+1375
+
+3247
+
+3295
+
+3343
+
+3391
+
+3439
+
+Band1 Size,  bp
+
+Figure 1d.  D5S110 Tolerance Ellipses
+
+SRM 2390
+
+Page 9 of 17
+
+D10S28  (HaeIII)
+
+1700
+
+1725
+
+1750
+
+1775
+
+1800
+
+1825
+
+K562
+
+p
+b
+
+ 
+ 
+,
+e
+z
+i
+S
+ 
+2
+d
+n
+a
+B
+
+1710
+
+1734
+
+1758
+
+1782
+
+1806
+
+3800
+
+3850
+
+3900
+
+3950
+
+4000
+
+4050
+
+Male (TAW)
+
+1229
+
+1207
+
+1185
+
+1163
+
+1141
+
+1844
+
+1816
+
+1788
+
+1760
+
+1732
+
+1225
+
+1200
+
+1175
+
+1150
+
+1125
+
+1850
+
+1825
+
+1800
+
+1775
+
+1750
+
+1725
+
+3817
+
+3873
+
+3929
+
+3985
+
+4041
+
+Band1 Size,  bp
+
+Figure 1e.  D10S28 Tolerance Ellipses
+
+SRM 2390
+
+Page 10 of 17
+
+D17S79  (HaeIII)
+
+1925
+
+1950
+
+1975
+
+2000
+
+2025
+
+2050
+
+K562
+
+p
+b
+
+ 
+ 
+,
+e
+z
+i
+S
+ 
+2
+d
+n
+a
+B
+
+1928
+
+1956
+
+1984
+
+2012
+
+2040
+
+1700
+
+1725
+
+1750
+
+1775
+
+1800
+
+1825
+
+Male (TAW)
+
+1574
+
+1548
+
+1522
+
+1496
+
+1470
+
+1569
+
+1543
+
+1517
+
+1491
+
+1465
+
+1575
+
+1550
+
+1525
+
+1500
+
+1475
+
+1450
+
+1575
+
+1550
+
+1525
+
+1500
+
+1475
+
+1450
+
+1699
+
+1727
+
+1755
+
+1783
+
+1811
+
+Band1 Size,  bp
+
+Figure 1f.  D17S79 Tolerance Ellipses
+
+SRM 2390
+
+Page 11 of 17
+
+REFERENCES
+
+[1] National  Institute  of  Standards  and  Technology,  “Certificate  of  Analysis,  Standard  Reference  Material  2390,
+
+DNA Profiling Standard,” Standard Reference Materials Program, NIST, Gaithersburg, MD, (1992).
+
+[2] Duewer, D.L., Currie, L.A., Reeder, D.J., Leigh, S.D., Liu, H-k., and Mudd, J.L., “Interlaboratory Comparison of
+
+Autoradiographic DNA Profiling Measurements. 4. Protocol Effects,” Anal. Chem.,  69, pp. 1882-1892, (1997).
+
+[3] Waye, J.S. and Fourney, R.M., “Forensic DNA Typing of Highly Polymorphic VNTR Loci,” In: Forensic Science
+
+Handbook, III, Saferstein R., Ed., Englewood Cliffs (NJ), Regents/Prentice Hall, pp. 358-415, (1993).
+
+[4] Budowle, B. and Baechtel, F.S., “Modifications to  Improve the  Effectiveness  of  Restriction  Fragment  Length
+
+[5]
+
+Polymorphism Typing,” Appl. Theor. Electrophor., 1, pp. 181-187, (1990).
+“Technical Working Group for DNA Analysis Methods.  Guidelines for a Quality Assurance (QA) Program for
+DNA Analysis ,” Crime Laboratory Digest, 18, pp. 44-75, (1991).
+
+[6] Duewer,  D.L.,  Lalonde,  S.A.,  Aubin,  R.,  Fourney,  R.,  and  Reeder,  D.J.,  “Interlaboratory  Comparison  of
+Autoradiographic DNA Profiling Measurements: Precision and Concordance,” J. Forensic Sci., 43, pp. 465-471,
+(1998).
+
+[7] Wong, Z.,  Wilson,  V.,  Pate,  I.,  Povey,  S.,  and  Jeffreys,  A.J.,  “Characterization  of  a Panel  of  Highly  Variable
+
+Minisatellites Cloned From Human DNA,” Annals of Human Genetics, 51, pp. 269-288, (1987).
+
+[8] Nakamura, Y., Gillilian, S., O’Connell, P., Leppert, M., Lathrop, G.M., Lalouel, J.M., and White, R., “Isolation and
+Mapping of a  Polymorphic DNA  Sequence  pYNH24  on  Chromosome  2  (D2S44),”  Nucleic  Acids  Res,  15,  p.
+10073, (1987).
+
+[9] Nakamura, Y., Leppert, M.,  O’Connell,  P.,  Wolff,  R.,  Holm,  T.,  Culver,  M.,  Martin,  C.,  Fujimoto,  E.,  Hoff,  M.,
+Kumlin, E., and White R,  “Variable  Number of  Tandem  Repeat (VNTR)  Markers for  Human  Gene  Mapping,”
+Science, 235, pp. 1616-1622, (1987).
+
+[10] Milner,  E.C.,  Lotshaw,  C.L.,  Willems  van  Dijk,  K.,  Charmley,  P.,  Concannon,  P.,  and  Schroeder,  H.W.  Jr.,
+“Isolation and Mapping of a Polymorphic DNA Sequence pH30 on Chromosome 4,” Nucleic Acids Res, 17(10),
+p. 4002, (1989).
+
+[11] Eisenberg, A.J., Clement, M., Gaskill,  M.E.,  Carlson,  D.P.,  and  Klevan,  L.,  “Characterization of a  New  Single-
+Locus VNTR Probe for RFLP Analysis: LH1 (D5S110),” Proceedings of the Second International Symposium on
+the Forensic Aspects of DNA, Quantico, VA, (March 29, 1993).
+
+[12] Bragg, T., Nakamura, Y., Jones, C., and White, R., “Isolation  and  Mapping  of  a  Polymorphic  DNA  Sequence
+
+(cTBQ7) on Chromosome 10,” Nucleic Acids Res., 16, p. 11395, (1988).
+
+[13] McClain, J., Ruvulo, V., and Baum, H., American Journal of Human Genetics (Suppl.), 41, p. A259, (1987).
+[14] Duewer, D.L., Richie, K.L., and Reeder,  D.J.,  “RFLP  Band  Size  Standards:  NIST  Standard  Reference  Material
+
+2390,“ J. Forensic Sci. 2000 Sept, 45(5), pp. 1093-1105, (2000).
+
+[15] Duewer, D.L., Gary K.T., and Reeder, D.J., “RFLP Band Size Standards: Cell Line K562 Values From 1991 to 1997
+
+Proficiency Studies,“ J. Forensic Sci. 2000 Sept, 45(5), pp. 1106-1118, (2000).
+
+[16] D7S467/CEB13/PAC415.
+[17] Waye,  J.S.,  England,  S.B.,  and  Willard,  H.F.,  “Genomic  Organization  of  Alpha  Satellite  DNA  on  Human
+Chromosome 7: Evidence for Two Distinct Alphoid Domains on a  Single Chromosome,” Mol. Cell Biol., 7, pp.
+349-356, (1987).
+
+[18] D8S358/CEB42/PAC415.
+[19] Nakamura, Y., Fujimoto, E., O’Connell, P., Leppert, M., Lathrop,  G.M.,  Lalouel,  J.M.,  and  White,  R.  “Isolation
+and Mapping of a Polymorphic DNA Sequence (cEFD52) on Chromosome 17q,” Nucleic Acids Res., 16, p. 786
+(1988).
+
+[20] Nakahori, Y., Mitani, K., Yamada, M., and Nakagome,  Y.,  “A  Human  Y  Chromosome  Specific  Repeated  DNA
+Family (DYZ1) Consists of a Tandem Array of Pentanucleotides,” Nucleic Acids Res., 14, pp. 7569-7580, (1986).
+[21] Chen,  T.R.,  “Modal  Karyotype of  Human  Leukemia  Cell  Line,  K562  (ATCC  CCL  243),”  Cancer  Genetics
+
+[22] Lozzio,  C.B.  and  Lozzio,  B.B.,  “Human  Chronic  Myelogenous  Leukemia  Cell  Line  with  Positive  Philadelphia
+
+Cytogenetics, 17, pp. 55-60, (1985).
+
+Chromosome,” Blood, 45, pp. 321-324, (1975).
+
+[23] Duewer, D.L., Currie, L.A., Reeder, D.J., Leigh, S.D., Liu. H-K., and Mudd, J.L., “Interlaboratory Comparison of
+Autoradiographic  DNA  Profiling  Measurements. 2.  Measurement  Uncertainty  and  Its  Propagation,”
+Anal. Chem., 67, pp. 1220-1231, (1995).
+
+SRM 2390
+
+Page 12 of 17
+
+[24] Stolorow,  A.M.,  Duewer,  D.L.,  Reeder,  D.J.,  Buel,  E.,  and  Herrin,  G.,  Jr.,  “Interlaboratory  Comparison  of
+Autoradiographic  DNA  Profiling  Measurements.  3.  Repeatability  and  Reproducibility  of  RFLP  Band  Sizing,
+Particularly Bands of Molecular Size > 10K Base Pairs,” Anal. Chem., 68, pp. 1941-1947, (1996).
+
+[25] Gary,  K.,  Duewer,  D.L.,  and  Reeder,  D.J.,  “Graphical  Tools  for  RFLP  DNA  Profiling.  Laboratory  Performance
+
+Charts,” J. Forensic Sci., 44, pp. 978-982, (1999).
+
+Certificate Revision History:  2 February 2001 (This technical revision reports updates of the band size values of the original
+SRM 2390 to reflect the evolution of forensic practice from 1991 to 1998.); 10 August 1992 (Original certificate date).
+
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via
+the Internet http://www.nist.gov/srm.
+
+SRM 2390
+
+Page 13 of 17
+
+APPENDIX A.  Laboratories Participating in the Recertification of SRM 2390
+
+Arizona Department of Public Safety Crime Laboratory DNA Unit, Phoenix, AZ
+Broward County Sheriff’s Office, Crime Laboratory, Ft. Lauderdale, FL
+Connecticut State Police Forensic Science Laboratory DNA Unit, Meriden, CT
+Illinois State Police, Forensic Science Center at Chicago, Chicago, IL
+Illinois State Police, Springfield Forensic Science Laboratory, Springfield, IL
+Indianapolis–Marion County Forensic Services Agency, Indianapolis, IN
+Kentucky State Police Crime Laboratory, Frankfort, KY
+LabCorp, Forensic Identity Testing, RTP, NC
+Maryland State Police Crime Laboratory, Pikesville, MD
+Metro-Dade Police Department Crime Laboratory Bureau, Miami, FL
+Minnesota Department of Public Safety Bureau of Criminal Apprehension, St. Paul, MN
+New York State Police Forensic Investigation Center, Albany, NY
+North Carolina State Bureau of Investigation Crime Laboratory, Raleigh, NC
+Orange County Sheriff-Coroner Department DNA Laboratory, Santa Ana, CA
+Pennsylvania State Police DNA Laboratory, Greensburg, PA
+South Carolina Law Enforcement Division DNA Laboratory, Columbia, SC
+Vermont Forensic Laboratory, Department of Public Safety, Waterbury, VT
+Washington State Patrol Crime Laboratory, Seattle, Seattle, WA
+Washoe County Sheriff’s Office Crime Laboratory, Reno, NV
+Wisconsin State Crime Laboratory, Milwaukee, Milwaukee, WI
+
+SRM 2390
+
+Page 14 of 17
+
+APPENDIX B.  Images of Representative Chemilumigrams
+
+Locus D1S7
+
+a
+ 
+ 
+
+  
+
+8
+ 
+
+a
+y
+ 
+
+e
+e
+ 
+
+t
+i
+n
+e
+ 
+
+n
+i
+e
+ 
+
+m
+e
+g
+s
+ 
+
+L
+u
+n
+e
+ 
+
+m
+e
+e
+e
+ 
+
+'
+ 
+
+Locus D2S44
+
+SRM 2390
+
+Page 15 of 17
+
+Locus D4S139
+
+ 
+
+Locus D5S110
+
+SRM 2390
+
+Page 16 of 17
+
+- 
+
+“= 
+
+S
+e
+t
+i
+ 
+
+i
+c
+,
+ 
+
+h
+a
+s
+.
+ 
+
+e
+a
+ 
+
+e
+a
+e
+ 
+
+f
+i
+i
+ 
+
+i
+ 
+
+5
+ 
+
+s
+i
+s
+a
+l
+ 
+
+w
+s
+ 
+
+y
+e
+s
+ 
+
+W
+e
+e
+m
+o
+n
+ 
+
+e
+r
+a
+n
+ 
+
+i
+ 
+
+m
+e
+e
+e
+ 
+
+e
+e
+ 
+
+2
+ 
+
+i
+ 
+
+e
+e
+ 
+
+O
+e
+y
+ 
+
+S
+A
+R
+I
+N
+ 
+
+o
+e
+s
+ 
+
+s
+e
+s
+n
+e
+n
+t
+e
+m
+e
+e
+e
+ 
+
+w
+O
+g
+e
+ 
+
+H
+e
+n
+s
+ 
+
+i
+i
+n
+ 
+
+e
+e
+ 
+
+e
+e
+e
+ e
+
+e
+e
+ 
+
+S
+e
+ 
+
+o
+m
+ 
+
+  
+
+s
+r
+i
+ 
+
+s
+t
+ 
+
+e
+e
+e
+:
+ 
+
+4
+
+-— 
+
+Locus D10S28
+
+Locus D17S79
+
+SRM 2390
+
+Page 17 of 17
+
+Annex
+Standard Reference Material® 2390
+
+DNA Profiling Standard
+
+Standard Reference Material (SRM) 2390 contains 20 components designed to help laboratories who are performing
+DNA profiling by Restriction Fragment Length Polymorphism (RFLP) methods.
+
+Each component is included to allow laboratories to verify that their own analysis system is operating within proper
+controls.
+
+The following is a brief summary of the function of each component:
+
+Components #1 to #5:
+
+consist of a DNA Analysis Marker System.  This system is used for proper sizing of DNA
+
+bands revealed through Southern blotting applications with 32P-labeled probes.
+
+Component #20:
+
+is a highly purified agarose with low electroendosmosis.  It has been functionally tested with the
+
+rest of the components in the set.
+
+Components #6 to #11:
+
+consist of a set of human genomic DNA samples to be used as standards for a yield gel.
+
+The reagent concentrations range from 250 ng to 6 ng.
+
+Component #19:
+
+Component #18:
+
+is  a  10X  loading  buffer  to  be  diluted  1:1  and  used  as  a  5X  concentration  for  use  in
+testing unknown DNA samples.
+
+is  an  adenovirus  visible  ladder  to  be  used  as  a  marker  lane  to  assure  that  the
+electrophoretic procedures are performing correctly.
+
+Components #12 to #14:
+
+consist of K562 DNA (female) in three forms:  #12 approximately 3 million cells; #13 pre-
+extracted genomic DNA; #14 genomic DNA predigested with Hae III restriction enzyme
+(pre-mixed with loading buffer).
+
+Components #15 to #17:
+
+consist  of  DNA  (male)  in  three  forms:    #15  approximately  3  million  cells;  #16
+pre-extracted  genomic  DNA;  #17  genomic  DNA  predigested  with  Hae  III  restriction
+enzyme.
+
+Details and instructions for use of each component are given on the following pages.
+
+OVERVIEW
+
+a)
+
+b)
+
+SRM  2390  can  be  used  in  several  different  ways  depending  on  the  laboratory’s  needs  in  quality  assurance.
+Components of the SRM are intended for use to assure that each step of a protocol for DNA profiling is functioning
+properly.
+
+DNA  samples  are  optimally  analyzed  using  the  protocol  similar  to  the  one  used  by  the  Federal  Bureau  of
+Investigation (FBI).  This protocol and the relevant SRM component used in checking this step consists of:
+
+extracting DNA from the cell pellet - Components #12 and #15
+
+quantifying  the  amount  of  DNA  extracted  using  the  set  of  quantitative  controls  supplied  with  the  SRM  -
+Components #6 to #11
+
+Gaithersburg, MD  20899
+Annex Issue Date:  2 February 2001
+
+SRM 2390
+
+Nancy M. Trahey, Chief
+Standard Reference Materials Program
+
+Page 1 of 14
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+cutting the DNA with a Hae III restriction enzyme - Components #13 and #16
+
+testing the restriction process by gel electrophoresis - Components #14 and #17
+
+running all samples by electrophoresis on an analytical gel with Tris Acetate EDTA buffer and appropriate viral
+DNA markers for assessing proper separation - Components #1 to #5; #18; #20
+
+blotting the separated DNA onto a nylon membrane using an alkaline transfer solution
+
+hybridizing the sample DNA to radioactively-labeled or chemiluminescent DNA probes
+
+exposing the membrane to x-ray film
+
+imaging  the  developed  autoradiogram  with  a  computerized  imaging  system  to  determine  band  sizes  -
+Components #1 to #5 and certified band sizes
+
+Laboratories that use a “working DNA standard” on a daily basis, such as K562 or another source of DNA, qualify
+their working standards in a lane on an analytical gel and perform band sizing for their materials using the SRM set.
+Such calibrated working standards can then be deemed “traceable to NIST standards.”
+
+In  a  quality  assurance  role,  the  SRM  may  be  used  to  verify  that  various  components,  such  as  Hae  III  enzyme,
+agarose,  extraction  procedures,  and  yield  gel  results,  etc.,  are  functioning  properly  by  direct  comparison  to  the
+appropriate  component.    For  example,  a  laboratory’s  properly  functioning  extraction  protocol  and  restriction
+digestion  procedure  using  Hae  III  should  give  equivalent  results  as  those  presented  by  the  pre-digested  DNA
+samples.
+
+SRM 2390
+
+Page 2 of 14
+
+DNA Analysis Marker System*
+
+Components #1 to #5
+
+Storage Conditions:  -20 °C
+
+Description:  The DNA Analysis Marker System* is designed for use in Southern blotting applications that use  32P-
+labeled probes.  The system includes an unlabeled ladder of ? DNA fragments to be electrophoresed in a lane of an
+agarose  gel.    The  system  also  includes  reagents  for  making  a  32P-labeled  probe  for  visualization  of  the  marker
+fragments.  This probe should be included in the hybridization solution.  DO NOT USE WITH OTHER LABELED
+PROBES THAT CONTAIN ? DNA SEQUENCES.
+
+Component
+
+#1
+
+#2
+
+#3
+
+#4
+
+#5
+
+Marker DNA for electrophoresis; ? DNA fragments, 10 % glycerol, 20 µM EDTA,
+10 mM Tris-HCl (pH 7.5)
+Marker  DNA  Dilution  Buffer;  10  µM  Tris-HCl  (pH  7.5),  10  %  glycerol,  0.02 %
+bromophenol blue, 20 µM EDTA
+Probe Labeling Solution; 0.41µM DNA probe, 11 µM each dATP, dGTP, dTTP, 11
+mM Tris-HCl (pH 7.9), 66 mM NaCl, 7.3 mM MgCl, 6.6 mM 2-mercaptoethanol
+Large  Fragment  of  DNA  Polymerase  I  (Klenow  fragment);  3  units/µL  in  0.l  M
+potassium phosphate (pH 7.0), 10 mM 2-mercaptoethanol, 50 % (v/v) glycerol
+Stop solution; 20 mM EDTA
+
+Amount
+
+30 µL
+
+70 µL
+
+90 µL
+
+30 units
+
+100 µL
+
+Quality Control:  3 µL of Component #1 was diluted with 7 µL of Component #2 and electrophoresed in a 11 cm x 16
+cm  1.0  %  agarose  gel  in  Tris-acetate  buffer  for  16  h  at  30  V.  Tie  DNA  was  transferred  to  a  Biodyne®  B  nylon
+membrane by capillary transfer in 0.4 M NaOH for 6 h. The membrane containing the marker DNA was hybridized with
+0.5 to 1.0 x 104 dpm/mL probe for 18 h in 0.3 M NaCl. 0.015 M sodium phosphate (pH 7.0), 0.0015 M EDTA, 10 %
+polyethylene  glycol,  7  %  sodium  dodecyl  sulfate  (SDS).    The  membrane  was  then  washed  twice  in  a  solution
+containing 0.3 M NaCl, 0.03 M sodium citrate, and 0.1 % SDS at room temperature, followed by a 10 min wash at 65 °C
+in a solution containing 0.015 M NaCl, 0.0015 M sodium citrate, and 0.1 % SDS.  All fragment bands were distinct and
+sharp on a 3-day autoradiograph using X-OMAT® film with a Cronex® Lightning Plus intensifying screen1 at -80 °C.
+
+*Patent # 5,316,908 (Life Technologies, Inc.)
+
+INSTRUCTIONS FOR USE OF COMPONENTS #1 THROUGH #5
+
+Electrophoresis of Marker DNA:  The concentration of Marker DNA is adjusted so that 3 µL of Component #1 will
+generate a good signal in a 3-day exposure by the assay given above.
+
+Add 3 µL of Component #1 to sufficient Component #2 to give 10 µL total volume (7 µL).
+Heat the marker at 65 °C for 5 min.
+
+1.
+2.
+Load heated marker on an agarose gel in a lane adjacent to the other samples.  If a stronger signal is desired, i.e., for
+shorter film exposure times, the amount of Marker DNA may be increased.
+
+                                                                
+
+1Certain commercial equipment, instruments, or materials are identified in this certificate (or report, if applicable) in order
+to  adequately  specify  the  experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the
+National Institute of Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the
+best available for the purpose.
+SRM 2390
+
+Page 3 of 14
+
+Labeling Marker Probe with 32P
+
+1.
+
+2.
+
+In a clean microcentrifuge tube place:
+- 44 µL Component #3 (Labeling Component)
+- 5 µL a32P-dCTP (10 mCi/mL, 3000 Ci/mmol)
+- 1 µL DNA Polymerase Large Fragment (Component #4, 3 units)
+Incubate for 1 h at 23 °C to 25 °C. =:50 % of the radioactivity should be incorporated and may be monitored by
+spermine for TCA precipitation.
+Terminate the reaction by the addition of 50 µL Stop Buffer (Component #5).
+Denature the probe by boiling 10 min.
+Transfer the tube containing the probe from the boiling water to an ice bath.  Leave the probe on ice for 5 min.
+
+3.
+4.
+5.
+6. Microcentrifuge the probe for 2 min.  This step not only brings down liquid from the sides of the tube, but also
+pellets denatured protein, etc., that causes background during the hybridization.  In NIST’s experience, this is
+the  only  purification  of  the  probe  that  is  necessary.    Although  further  purification  is  not  recommended,  the
+unincorporated nucleotides may be removed by gel filtration.
+The  Marker  Ladder  can  be  hybridized  at  the  same  time  as  other  samples  for  analysis.    Add  1  µL  of  labeled
+marker probe per mL of hybridization solution, along with other probe(s).
+
+7.
+
+SRM 2390
+
+Page 4 of 14
+
+Size Ladder
+(Component #1)
+
+NOTE:    The  marker  fragment  bands  can  be  easily  identified  by  counting  from  the  gap  in  the  marker  pattern  at
+approximately 1 kilobase (kb).
+
+(Three day exposure of this lot of marker)
+
+Fragment Sizes (base pairs)
+
+22,621
+15,004
+11,919
+9,416
+8,271
+7,421
+6,442
+5,861
+5,415
+
+4,716
+4,333
+3,812
+
+3,397
+3,101
+2,876
+2,650
+2,433
+2,213
+2,015
+1,861
+1,672
+1,568
+1,431
+1,287
+1,176
+
+993
+910
+
+784
+653
+526
+
+“1-kb” gap
+
+bp 
+22,621 
+15,004 
+11,919 
+9416 
+8271 
+7,424 
+6442 
+5,861 
+5415: 
+46 
+42333 
+312 
+3.97 
+3,101 
+2876 
+2,650 
+2433 
+2213  | 
+2,016 
+1,861 
+1,672 
+1,568 
+1,431 
+4,287 
+4476 
+993 sro 
+704 
+659 
+526 
+
+sso EY 
+
+ 
+
+Biodyne® is a registered trademark of Pall BioSupport Company, Glen Cove, NY.
+X-OMATTM is a trademark of the Eastman Kodak® Company, Rochester, NY.
+Cronex® is a registered trademark of E.I. duPont deNemours and Company, Wilmington, DE.
+
+SRM 2390
+
+Page 5 of 14
+
+Yield Standard (Components #6 through #11)
+and Loading Buffer (Component #19)
+
+Storage Conditions:  Reagents may be stored at 4 °C for (3 to 6) months or at -20 °C for long-term storage.  Reagents
+may look turbid due to 0.1 % SDS.  Turbidity may be eliminated by warming reagents to 37 °C for (5 to10) min.
+
+Summary  and  Explanation  of  Components:    The  components  enable  the  user  to  run  four  yield  gels,  with  up  to
+34 unknown samples per gel.  The set provides all the necessary controls and reagents to evaluate the quality and
+quantity of extracted DNA.
+
+Reagents:  Reagents are stored in 10 mM Tris, 0.2 mM Na 2EDTA and 0.1 % SDS.  With the exception of the loading
+buffer, all  of  the  reagents have  been  premixed with 5X loading buffer, such that 6 µL of standard or known  DNA
+contain 4 µL of reagent and 2 µL of 5X loading buffer.  The following reagents are included:
+
+Component
+
+Supplied
+
+#6
+#7
+#8
+#9
+#10
+#11
+#19
+
+250 ng standard (6 µL = 250 ng DNA) (male)
+100 ng standard (6 µL = 100 ng DNA) (male)
+50 ng standard (6 µL = 50 ng DNA) (male)
+25 ng standard (6 µL = 25 ng DNA) (male)
+12.5 ng standard (6 µL = 12.5 ng DNA) (male)
+6 ng standard (6 µL = 6 ng DNA) (male)
+10X loading buffer
+
+Volume
+
+25 µL
+25 µL
+25 µL
+25 µL
+25 µL
+25 µL
+300 µL
+
+Materials Needed:  pipette (1 to 100 µL), pipette tips, agarose, buffer (TAE or TBE) and ethidium bromide
+
+Procedures:  K562 DNA, Hae III digested was electrophoresed in a 1 cm x 16 cm gel in TAJE buffer for 16 h at 30 V.
+The DNA was transferred to a Pall Biodyne® B membrane in 0.5 M NaOH, 0.5 M NaCl for 4 h at room temperature.
+The DNA probe PH30 was labeled to a specific activity = 109 dpm/µg using a Random Primers DNA Labeling System.
+The membrane-immobilized DNA was hybridized to the probe according to the method of Budowle and Baechtel [3].
+Hybridization was performed at a probe concentration of 5 x 105  cpm/mL  (60  mL)  at  65  °C  for  (16  to  –24)  h.  Post-
+hybridization  washes  were  in  a  solution  containing  0.3  M  NaCl,  0.03  M  sodium  citrate,  and  0.1  %  SDS  at  room
+temperature, followed by a solution containing 0.015 M NaCl, 0.0015 M sodium citrate, and 0.1 % SDS at 65 °C.  The
+membrane was exposed to Kodak™ XAR film with Cronex® Lighting Plus intensifying screen at -80 °C.
+
+Assays were performed by Life Technologies, Inc.
+
+DIRECTIONS FOR USE:
+
+NOTE:  The set works under a wide variety of conditions.  A suggested procedure is to perform electrophoresis at 50
+V for 2 h or 200 V for 20 min on (0.8 to 1.0) % agarose.  However, the laboratory routine yield gel procedure should be
+used.
+
+1.
+2.
+
+3.
+4.
+
+Dilute the 10X loading buffer, Component #19, 1:1 with distilled water to make a 5X loading buffer.
+Apply 6 µL each of 250, 100, 50, 25, 12.5 and 6 ng genomic DNA standard (Components #6 to  #11) to lanes two
+through seven.
+Add 2 µL loading buffer (5X) to 4 µL of each unknown DNA sample to be tested and load in remaining lanes.
+Electrophorese under appropriate conditions and stain with ethidium bromide.
+
+SRM 2390
+
+Page 6 of 14
+
+Storage Conditions:  Store at room temperature
+
+Agarose
+Component #20
+
+Description:  This agarose (5 g, supplied by Life Technologies, Inc.) is highly purified with low electroendoosmosis
+(LE).  The lot was functionally tested for its ability to generate sharp bands and low backgrounds in DNA typing
+assay.    Note  that  this  agarose  is  different  from  that  used  in  the  FBI  protocols  which  calls  for  medium
+electroendoosmosis (ME) agarose.
+
+Quality Control:  DNA typing assay:  A 1 % gel was prepared in TAE buffer. 10 µL K562 DNA, Hae III digested, was
+electrophoresed through the gel, transferred to a nylon membrane, and hybridized with DNA probe D4S139 (PH30)
+[7].  The bands were sized using the BRL DNA Analysis Marker System.
+
+Specification:
+
+After an overnight exposure, only two bands are present within ± 2.5 % of the accepted allelic
+sizes [9].
+
+Values Obtained:  PH30 band #1: 6600 Kb                PH30 band #2: 3437 Kb
+
+Specification:
+
+30 marker bands visible.  No DNA background visible in lane.
+
+Observed:
+
+30 bands.  No background.
+
+-  Gelling temperature of a 2 % (w/v) solution
+
+Specification:
+Value Obtained:
+
+36 °C to 42 °C
+36.5 °C
+
+-  Gel strength of a 1 % (w/v) solution
+
+Specification: 
+Value Obtained:
+
+= 1200 g/cm2
+1386 g/cm2
+
+-  Electroendoosmosis (-mr)
+
+Specification:
+Value Obtained:
+
+ 
+A
+I
+
+ ≤ 0.11
+0.11
+
+Specification:
+Value Obtained:
+
+ 
+A
+I
+
+≤ 10 %
+6.5 %
+
+-  Moisture
+
+-  Sulfate
+
+Specification:
+Value Obtained:
+
+A
+I
+
+≤ 0.35 %
+0.10 %
+
+SRM 2390
+
+Page 7 of 14
+
+Adenovirus Ladder
+Component #18
+
+Ladder
+Size (bp)
+
+35 937
+20 042
+12 643
+6085/6067
+5051
+4187/4131
+3656/3613
+2275
+1475
+1053
+957
+594
+
+Description:  This product is a cocktail of digested and undigested Adenovirus DNA.  Fragments range in size from
+594 bp to 35 937 bp.  At the recommended loading, the 594 bp band should just be visible.
+
+Use of Markers:  Optimum signal is obtained by adding 185 ng of Visible Marker (Component #18) to a single lane on
+each gel.  For use, take 10 µL of size marker and add 4 µL loading buffer (5X).
+
+Load 14 µL per lane.  Visible marker bands are detected after ethidium bromide staining of the agarose gel.
+
+Concentration and Storage:    The  visible  marker  is  supplied  at  18.5  ng/µL  in  a  mixture  of  10  mM  Tris  and  0.2 mM
+Na2EDTA with 0.1 % SDS.  Reagents may be stored at 4 °C for (3 to 6) months or at -20 °C for long term storage.
+Reagents may look turbid due to 0.1 % SDS.  Turbidity may be eliminated by warming reagents to 37 °C for (5 to
+10) min.
+
+Packaging and Usage:  The visible size marker ladder is packaged at 10 µg of digested Adenovirus at a concentration
+of 18.5 ng/µL.  This is enough for 34 gels, using one visible marker lane per gel using a loading of 185 ng.
+
+SRM 2390
+
+Page 8 of 14
+
+K562 Cell Pellet, 3 x 106  Cells
+Component #12
+
+Storage Conditions:  Store at -70 °C
+
+Description:    The  DNA  prepared  from  K562  cells  is  widely  used  as  an  allelic  control  in  human  DNA  typing
+applications.  The K562 cell line is derived from a pleural effusion of a patient with chronic myelogenous leukemia [5].
+The cell line has been extensively studied and characterized for over 15 years, particularly for its erythroid properties
+[1,2,4,6,10].  Each lot of K562 cells is tested for genetic integrity by extracting the DNA from the cells and measuring
+the allele sizes obtained in a Southern blot assay with VNTR probes.  This product is intended as a control for DNA
+typing applications and is not a viable source for cell culture stocks.
+
+Quality Control:  K562 DNA was isolated bv the protocol described in Reference [11].  One µg of isolated K562 DNA
+was then digested with endonuclease Hae III, electrophoresed through an agarose gel, transferred to a Biodyne® B
+nylon membrane, and hybridized with DNA probes D4SI39 (PH30) [7] and D2S44 (YNH24) [8].  The bands were sized
+using the BRL DNA Analysis Marker System.
+
+Specification:
+
+After an overnight exposure, only two bands are present per probe within ± 2.5 % of the accepted
+allelic sizes [9].
+
+Values Obtained:*
+
+PH30 band #1: 6600 bp
+PH30 band #2: 3478 bp
+
+YNH24 band #1: 2956 bp
+YNH24 band #2: 1819 bp
+
+*Initially tested by Life Technologies, Inc.  Note that these are not the certified values.
+
+Procedure:  The K562 cell pellet was resuspended in 375 µL 0.2 M sodium acetate and vortexed for (1 to 2) s. 25 µL 10
+% sodium dodecyl sulfate and 5 µL 20 mg/mL Proteinase K were then added.  The suspension was vortexed 1 s and
+then incubated at 56 °C for 1 h. Phenol/chloroform/isoamyl alcohol (120  µL)  was  added,  and  the  sample  mixed  by
+gently vortexing for 30 s. The phases were separated by centrifugation for 2 min. The aqueous (upper) phase was
+transferred  to  a  clean  tube,  and  the  nucleic  acid  was  precipitated  by  the  addition  of  1.0  mL  cold  (-20  °C)  ethanol.
+After storage at -20 °C for 1 h, the DNA was collected by centrifugation for 30 s. The DNA pellet was dissolved in
+180 µL 10 mM Tris pH 7.5 1 mM EDTA (TE) by incubating for 10 min at 65 °C.  The DNA was precipitated again by
+adding 20 µL 2.0 M sodium acetate followed by 500 mL ethanol.  Following centrifugation, the pellet was washed with
+1 mL 70 % ethanol.  The pellet was dried and dissolved by incubation in 200 µL TE overnight at 65 °C.  The DNA was
+digested with Hae III (BRL Cat. No. 5205SA) using the conditions on the Product Profile ®.  The Hae III-digested DNA
+was electrophoresed in 1 % agarose gels.  The DNA was transferred to Pall Biodyne® B membranes in 0.5 M NaOH,
+0.5 M NaCl for 4 h at room temperature.  The DNA probes PH30 and YNH24 were labeled to a specific activity > 109
+dpm/ µg  using  a  Random  Primers  DNA  Labeling  System.    Two  identical  membranes  were  prepared,  and  each  was
+hybridized to one probe according to the method of Budowle and Baechtel [3].  Hybridization was performed at a
+probe  concentration  of  5  x  105  cpm/mL  at  65  °C  for  (16  to  24)  h.  Post-hybridization  washes  were  in  a  solution
+containing 0.3 M NaCl, 0.03 M sodium citrate, and 0.1 % SDS at room temperature, followed by a solution containing
+0.015 M NaCl, 0.0015 M sodium citrate, and 0.1 % SDS at 65 °C. The membranes were exposed to Kodak XAR film
+with a Cronex® Lighting Plus Intensifying screen at -80 °C.
+
+Assays were performed by Life Technologies, Inc.
+
+SRM 2390
+
+Page 9 of 14
+
+K562 DNA, 25 µL
+Component #13
+
+Storage Conditions:  Store at –70 °C
+
+Storage Buffer:  10 mM Tris HCl (pH 7.5), 0.1 mM EDTA
+
+Description:    K562  DNA  is  a  high  molecular  weight  DNA  prepared  from  the  human  cell  line  K562.    This  DNA  is
+widely  used  as  an  allelic  control  in  human  RFLP  analysis.    Each  lot  is  rigorously  tested  for  chemical  purity  and
+performance in a Southern blot assay.
+
+Quality Control:  One µg K562 DNA was digested with endonuclease Hae III, electrophoresed through an agarose
+gel, transferred to a nylon membrane, and hybridized with DNA probes D4Sl39 (PH30) [7] and D2S44 (YNH24) [8].
+The bands were sized using the BRL DNA Analysis Marker System (Cat.  No. 4401SA).
+
+Specification:
+
+After an overnight exposure, only two bands are present per probe within ± 2.5 % of the
+accepted allelic sizes [9].
+
+Values Obtained:*
+
+PH30 band #1: 6494 bp
+PH30 band #2: 3437 bp
+
+YNH24 band #1: 2908 bp
+YNH24 band #2: 1797 bp
+
+*Initially tested by Life Technologies, Inc.  These are NOT certified values.
+
+The concentration of K562 DNA was determined by measuring the OD260.
+
+Specification:
+Value Obtained:
+
+0.2 µg/µL ± 0.05 µg/µl
+0.232 µg/µL
+
+The ratio of the OD260/OD280 was determined in a UV spectrophotometer.
+
+Specification:
+Value Obtained: 1.88
+
+1.7 to 1.9
+
+One µg of DNA was inspected for RNA contamination by electrophoresis in a 1 % agarose gel and staining with
+ethidium bromide.  The gel was then observed under UV light for the presence of stained material less than 300 bp.
+
+Specification:
+Observed: 
+
+No ethidium bromide stained material less than 300 bp
+None
+
+Procedures:  Hae III digests of K562 DNA were electrophoresed in 1 % agarose gels.  The DNA was transferred to
+Pall Biodyne® B membranes in 0.5 M NaOH, 0.5 M NaCl for 4 h at room temperature.  The DNA probes PH30 and
+YNH24 were labeled to a specific activity = 109 dpm/ µg using a Random Primers DNA Labeling System.  Two identical
+membranes were prepared, and each was hybridized to one probe according to the method of Budowle and Baechtel
+[3].  Hybridization was performed at a probe concentration of 5 x 105 cpm/mL (60 mL) at 65 °C for (16 to 24) h. Post-
+hybridization  washes  were  in  a  solution  containing  0.3  M  NaCl,  0.03  M  sodium  citrate,  and  0.1  %  SDS  at  room
+temperature, followed by a solution containing 0.015 M NaCl, 0.0015 M sodium citrate, and 0.1 % SDS at 65 °C.  The
+membranes were exposed to Kodak® XAR film with a Cronex® Lighting Plus intensifying screen at -80 °C
+
+SRM 2390
+
+Page 10 of 14
+
+K562 DNA, Hae III digested, 100 µL- 25ng/µL
+Component #14
+
+Storage Conditions:  Store at -70 °C
+
+Storage Buffer:  10 mM Tris HCl (pH 7.5), 20 mM EDTA, 10 % glycerol, 0.02 % bromophenol blue
+
+Description:    K562  DNA  is  a  high  molecular  weight  DNA  prepared  from  the  human  cell  line  K562.    This  DNA  is
+widely used as an allelic control in human RFLP analysis.  The K562 DNA used in the preparation of this product
+meets all of the quality control specifications for K562 DNA before use and is free from RNA and protein.  This DNA
+is  digested  to  completion  with  restriction  endonuclease  Hae  III,  purified,  and  dissolved  in  electrophoresis  loading
+buffer.  Each lot is rigorously tested for performance in a Southern blot assay.
+
+Quality Control:  10 µL K562 DNA, Hae III digested, was electrophoresed through an agarose gel, transferred to a
+nylon membrane, and hybridized with DNA probes D4Sl39 (PH30) [7] and D2S44 (YNH24) [8].  The bands were sized
+using the BRL DNA Analysis Marker System.
+
+Specification:
+
+After  an  overnight  exposure,  only  two  bands  are  present  per  probe  within  ±  2.5  %  of  the
+accepted allelic sizes [9].
+
+Values Obtained:
+
+PH30 band #1: 6494 bp
+PH30 band #2: 3437 bp
+
+YNH24 band #1: 2940 bp
+YNH24 band #2: 1797 bp
+
+Procedures:  K562 DNA, Hae III digested, was electrophoresed in 1 % agarose gels.  The DNA was transferred to
+Pall Biodyne® B membranes in 0.5 M NaOH, 0.5 M NaCl for 4 h at room temperature.  The DNA probes PH30 and
+YNH24 were labeled to a specific activity = 109 dpm/ µg using a Random Primers DNA Labeling System.  Two identical
+membranes were prepared, and each was hybridized to one probe according to the method of Budowle and Baechtel
+[3].    Hybridization  was  performed  at  a  probe  concentration  of  5  x  105  cpm/mL  at  65  °C  for  (16  to  24)  h.  Post-
+hybridization  washes  were  in  a  solution  containing  0.3  M  NaCl,  0.03  M  sodium  citrate,  and  0.1  %  SDS  at  room
+temperature, followed by a solution containing 0.015 M NaCl, 0.0015 M sodium citrate, and 0.1 % SDS at 65 °C.  The
+membranes were exposed to Kodak® XAR film with a Cronex® Lighting Plus intensifying screen at -80 °C.
+
+SRM 2390
+
+Page 11 of 14
+
+Cell Pellet (Male Source), Volume = 10 µL
+Component #15
+
+Storage Conditions:  Store at –70 °C
+
+Cell Pellet:  One tube of this control contains purified peripheral blood mononuclear cells from a single donor with
+about  3  x  106  cells  in  the  pellet.    The  pellet  should  provide  approximately  10  µg  DNA  after  extraction  using
+conventional procedures.
+
+Male Genomic Human DNA
+Component #16
+
+Storage Conditions:  As above
+
+Description:  This product consists of human genomic DNA from a single donor.  It exhibits two distinct bands with
+the majority of the commercially available RFLP probes.  It provides a control for the digestion of the sample with
+restriction endonuclease, electrophoresis conditions, hybridization, and detection system and for the detection of Y
+specific probes.
+
+Use of Material:  Add 100 ng to 500 ng of user-digested control genomic DNA to a single lane per gel.  Choice of
+quantity is at the discretion of the user.
+
+Concentration and Storage:  Undigested control genomic DNA is supplied at 200 ng/µL in a mixture of 10 mM Tris,
+0.2 mM and Na 2EDTA.  Reagents may be stored at 4 °C for (3 to 6) months or at -20 °C for long-term storage.
+
+Packaging and Usage:  Undigested control genomic DNA is packaged as 5 µg undigested male genomic DNA at a
+concentration of 200 ng/µL.  Amounts of undigested control genomic DNA, comparable to the evidence being tested,
+should be digested with each batch of samples.  The digested control genomic DNA should be run in a lane adjacent
+to the predigested control genomic DNA.
+
+Hae III Restricted Male Genomic DNA
+Component #17
+
+Storage Conditions:  As above
+
+Description:  This product consists of male human genomic DNA, from a single donor, digested with the restriction
+enzyme Hae III.  This product has two distinct bands with the majority of the commercially available RFLP probes.
+This product provides a control for the electrophoresis conditions, hybridization, and detection system.  Further, as
+male DNA, it provides a positive control for the detection of Y probes.
+
+Use of Material:  The choice of quantity of this control is at the discretion of the end user.  25 ng (1 µL) to 500 ng (20
+µL) of predigested control genomic DNA can be added to a single lane per gel.
+
+Concentration and Storage:  Predigested control genomic DNA is supplied at 25 ng/µL in a mixture of 10 mM Tris, 0.2
+mM Na2EDTA, and 0.1 % SDS.  Reagents may be stored at 4 °C for (3 to 6) months or at -20 °C for long-term storage.
+Reagents may look turbid due to the presence of 0.1 % SDS.  Turbidity may be eliminated by warming reagents to 37
+°C for (5 to 10) min.
+
+Packaging and Usage:  Predigested control genomic DNA is packaged at 2.5 µg predigested genomic DNA in 100 µL
+at  a  concentration  of  25  ng/µL.    Amounts  of  digested  control  genomic  DNA,  comparable  to  the  evidence  being
+tested, should be run with each batch of samples.  As a starting point, add 4 µL of loading buffer (10X) to 20 µL (500
+ng), of predigested control genomic DNA and 25 µL of sterile deionized water, and load one sample per gel.
+
+SRM 2390
+
+Page 12 of 14
+
+Suggested Sample Protocols
+
+Yield Gel
+
+Lane
+
+Sample
+
+K562 cell extracted DNA
+male cell extracted DNA
+K562 genomic DNA
+male genomic DNA
+250 ng standard
+100 ng standard
+50 ng standard
+25 ng standard
+12.5 ng standard
+6 ng standard
+blank or laboratory sample
+blank or laboratory sample
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9
+10.
+
+Post-Restriction Test Gel
+
+Lane
+
+Sample
+
+blank
+blank
+K562 cell line extracted and cut
+K562 genomic DNA cut with Hae III
+K562 DNA supplied pre-cut with Hae III
+male cell line extracted and cut
+male genomic DNA cut with Hae III
+male DNA supplied pre-cut with Hae III
+blank or laboratory sample
+blank or laboratory sample
+
+Experience suggests that the genomic DNAs range from (3 to 4) µg/µL, so the user might want to adjust accordingly.
+In addition, the genomic DNA may require warming to 56 °C for (5 to 10) min.
+
+SRM 2390
+
+Page 13 of 14
+
+Suggested Analytical Gel Orientation
+
+Lane
+
+Sample
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+Visible Ladder (Adenovirus)
+blank or laboratory sample to be calibrated
+BRL DNA Analysis Marker System (Size Ladder)
+BRL K562 cell line extracted and cut with Hae III
+BRL K562 genomic DNA cut with Hae III
+BRL K562 pre-cut with Hae III
+BRL DNA Analysis Marker System (Size Ladder)
+male cell line extracted and cut with Hae III
+male genomic DNA cut with Hae III
+male genomic DNA pre-cut with Hae III
+BRL DNA Analysis Marker System (Size Ladder)
+blank or laboratory sample to be calibrated
+Visible Ladder (Adenovirus)
+blank
+
+If  running  a  14-well  system,  leave  one  of  the  outer  lanes  blank.    Perform  electrophoresis,  Southern  blotting,  and
+probing as usual.
+
+Other configurations are possible if more than 14 wells are used.  In that case, other DNA samples may be calibrated
+or checked for performance in the system.
+
+REFERENCES
+
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+
+Andersson, et al., Nature (London) 278, pp. 364-365, (1979).
+Berm, EJ., et al., Proc.  Natl.  Acad.  Sci.  USA 77, pp. 3509-3513, (1980).
+Budowle, B. and Baechtel, F.S. Appl.  Ileor.  Electrophoresis 1, pp. 181-187, (1990).
+Jokinen, M., et al. Nature (London) 279, pp. 604-607, (1979).
+Lozzio, C.B. and Lozzio, B.B., Blood 45, pp. 321-334, (1975).
+Marks, P.A., et al., in Cellular and Molecular Regulation of Hemoglobin Switching, eds. Stamatoyannopoulos,
+G. and Nienhuis, A.W. (Grune & Stratton, New York), pp. 437-456, (1979).
+Milner, E.C.B., et al., Nucl.  Acids Res. 17, p. 4002, (1989).
+Nakamura, Y., et al., Science 235, pp. 1616-1622, (1987).
+NIST SRM 2390 Certificate of Analysis, (September 30, 1999).
+Rutherford, et al., Nature (London) 280, pp. 164-165, (1979).
+
+[7]
+[8]
+[9]
+[10]
+[11]
+Science Research and Training Section, FBI Laboratory
+
+“Procedures for the Detection of Restriction Fragment Length Polymorphisms in Human DNA,” Forensic
+
+SRM 2390
+
+Page 14 of 14
+
+

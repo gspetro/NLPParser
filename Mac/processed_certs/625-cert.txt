@@ -1,0 +1,403 @@
+﻿ 
+,
+y
+a
+e
+P
+
+ 
+*
+
+ 
+n
+a
+
+get  OF  Co, 
+
+ 
+w
+o
+
+ 
+.
+
+ 
+q
+e
+
+e) 
+
+Stares  oF  © 
+
+ 
+e
+h
+"
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 625  
+ 
+Zinc-Base Die-Casting Alloy A 
+(block form) 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for evaluating chemical and instrumental methods of 
+analysis of zinc-base die-casting alloys.  SRM 625 is one of a series of reference materials (SRMs 625 through 630) 
+for this purpose.  A unit of SRM 625 consists of a bar segment approximately 44 mm square and 19 mm thick.  The 
+metallurgical condition is that resulting from a continuous chill casting process. 
+ 
+Certified Mass Fraction Values:  The measurand is the total elemental content for each constituent in SRM 625.  
+The  certified  values  for  11 elements  are  listed  in  Table 1.    The  test  methods  used  for  certification  are  listed  in 
+Table 2.  All values are reported as mass fractions [1] calculated as the unweighted mean of the mean values from 
+the individual laboratories.  The uncertainty listed with each value is an expanded uncertainty (approximately 95 % 
+confidence level [2]) the standard deviation of the mean of means and calculated in accordance with the method in 
+the  ISO/JCGM  Guide [3].    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest  confidence  in  its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account.  A certified 
+value  is  the  present  best  estimate  of  the  “true”  value  based  on  the  results  of  analyses  performed  at  NIST  and 
+collaborating  laboratories.    Metrological  traceability  is  to  the  derived  SI  unit  for  mass  fraction  (expressed  as  a 
+percent). 
+ 
+the  measurement 
+SRM 
+Expiration  of  Certification:    The  certification  of  SRM 625  is  valid  indefinitely,  within  the  measurement 
+uncertainty  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    Periodic  recertification  of  this  SRM  is  not  required.    The  certification  is 
+nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see 
+attached sheet or register online) will facilitate notification. 
+ 
+he 
+The  original  characterization  of  SRM 625  was  performed  in  1964.    Overall  direction  and  coordination  of  the 
+technical measurements leading to certification of this SRM were performed by R.E. Michaelis of NIST [formerly 
+the  National  Bureau  of  Standards  (NBS)]  Spectrographic  Standards  Laboratory  and  R.K. Bell  of  the  NBS 
+Nonferrous Laboratory. 
+ 
+Analyses  for  certification  were  performed  by  the  following  collaborating  laboratories:    General  Motors  Corp., 
+Chemistry Department (Detroit, MI, USA), M.D. Cooper, R.L. Chance, A.H. Jones, R.E. Kohn, and R.B. Loranger; 
+The  New  Jersey  Zinc  Co.  (Palmerton,  PA,  USA),  S.N. Roeder;  Apex  Smelting  Co.  (Cleveland,  Ohio,  USA), 
+R.L. Vitek  and  J.W. Mierzwa;  Hudson  Bay  Mining  and  Smelting  Co.  Ltd.  (Flin  Fon,  Manitoba,  Canada), 
+D.J. Robertson,  D.J. Sample,  L.S. Creighton;  and  Metal  &  Thermit  Corp.,  Research  Laboratory  (Rahway,  NJ, 
+USA), M. Farnsworth and J.S. Pekola. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+
+hin 
+
+5 
+
+Gaithersburg, MD 20899 
+Certificate Date:  19 October 2016 
+Certificate Revision History on Last Page 
+
+SRM 625 
+
+  
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 4 
+
+INSTRUCTIONS FOR USE 
+ 
+The certified portion of each sample is that part included in a region between 5 mm and 17 mm from each side of 
+the square sample.  The center core (5 mm square) and the outer portion (from the edge inward 5 mm) may differ in 
+composition and should not be used.  Within the bounds given above, the entire thickness (19 mm) of the sample is 
+certified.  Each packaged sample has been prepared by finishing the test surface using a milling machine.  The user 
+must determine the optimum surface preparation procedure for each analytical technique.  The user is cautioned to 
+use care when either resurfacing the block or performing additional polishing as these processes may contaminate 
+the surface.  For optical emission spectrometric methods, it is recommended that a single determination be based on 
+the  average  value  from  at  least  six (6)  individual  “burns”  taken  within  the  certified  portion  of  the  sample.  
+Specimens prepared for chemical methods of test should consist of either a cross-section piece or large chips taken 
+from  the  certified  portion  of  the  sample.    Particular  care  should  be  given  to  obtain  complete  dissolution  of  the 
+specimen  because  an  appreciable  part  of  some  elements  in  the  material  are  not  readily  soluble  in  simple  acid 
+mixtures. 
+ 
+Material Preparation(1):  The material for the preparation of this SRM was melted and cast at the National Lead 
+Co.,  (Chicago,  IL)  under  a  cooperative  program  between  NBS  and  General  Motors  Corporation.    Homogeneity 
+testing  of  selected  samples  from  the  SRM  lot  was  performed  by  R.C. Frank,  J.E. Dallemand,  and  D.L. Fry  of  the 
+Research  Laboratories  Division  of  General  Motors  Corporation  and  by  the  NBS  Spectrographic  Standards 
+Laboratory. 
+ 
+
+Table 1.  Certified Mass Fraction Values with Expanded Uncertainties for SRM 625 
+ 
+
+Element 
+
+Aluminum 
+
+Cadmium 
+
+Chromium 
+
+Copper 
+
+Iron 
+
+Lead 
+
+  Mass Fraction  
+(%) 
+ 
+
+ 
+
+ 3.06 
+
+±  0.04 
+
+ 0.0007  ±  0.0001 
+
+ 0.0128  ±  0.0007 
+
+ 0.034  ±  0.003 
+
+ 0.036  ±  0.002 
+
+ 0.0014  ±  0.0002 
+
+Element 
+it 
+
+Magnesium 
+
+Manganese 
+
+Nickel 
+
+Silicon 
+
+Tin 
+
+ 
+
+ 
+
+  Mass Fraction 
+(%) 
+   
+
+ 0.070  ±  0.002 
+
+ 0.031  ±  0.002 
+
+ 0.0184  ±  0.0019 
+
+ 0.017  ±  0.002 
+
+ 0.0006  ±  0.0001 
+
+ 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this certificate to specify adequately the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+>  of
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 625 
+
+Page 2 of 4 
+
+Element 
+Aluminum 
+
+Cadmium 
+
+Chromium 
+Copper 
+
+Iron 
+
+Lead 
+
+Magnesium 
+Manganese 
+Nickel 
+Silicon 
+
+Tin 
+
+Table 2.  Analytical Methods 
+
+Methods 
+Hg Cathode – 8-Hydroxyquinoline Gravimetric Method 
+8-Hydroxyquinoline Photometric Method 
+Al2O3 Method 
+Polarigraphic Method 
+Sulfide Gravimetric Method 
+Spectrographic Method 
+Diphenylcarbazide Photometric Method 
+Polarigraphic Method 
+HBr Photometric Method 
+Neocuprine Photometric Method 
+H2S Separation and Electrodeposition 
+Electrolytic Method 
+Ortho-Phenanthroline Photometric Method 
+NH4CNS Photometric Method 
+Iron reduced with H2S, Zn, or lead amalgam and titrated with KMnO4 
+Polarigraphic Method 
+Spectrographic Method 
+Electrolytic Method 
+Dithizone Photometric Method 
+Diammonium Phosphate Method 
+KIO4 Photometric Method 
+Dimethylglyoxime Photometric Method 
+HClO4 Dehydration 
+Molybdisilicic Acid Photometric MethodH2SO4 Dehydration 
+Molybdenum Blue Photometric Method 
+Tin reduced with Ni and titrated with KIO3 
+Distillation – Dithiol-butyl acetate – Photometric Method 
+Dithiol Photometric Method 
+Tin coprecipitated with MnO4, reduced with Pb and titrated with iodine 
+
+ 
+User  Experience  with  SRM 625:    This  alloy  is  known  to  be  heterogeneous  on  a  microscopic  level.    The 
+The 
+heterogeneity is observable when the alloy is measured using spark source optical emission spectrometry (SS-OES), 
+for  example.    The  behavior  of  the  material  was  demonstrated  by  one  of  the  cooperating  laboratories  in  order  to 
+define  the  certified  portion  of  a  single  unit  of  the  SRM.    To  indicate  the  level  of  heterogeneity,  Table 3  lists  the 
+relative  standard  deviation  of  at  least  six  individual  spark  burns  for  the  certified  elements.    The  information 
+provided  in  Table 3  is  for  guidance  and  is  not  certified.    Informational  values  cannot  be  used  to  establish 
+metrological traceability. 
+ 
+ 
+
+idual  Spark  Burns  from
+Table 3.  Information Values for Repeatability of Measurements from Individual Spark Burns from 
+a Single Unit of SRM 625 
+
+ 
+
+ 
+
+Element 
+
+ 
+Al 
+Cd 
+Cr 
+Cu 
+Fe 
+Pb 
+Mg 
+Mn 
+Ni 
+Si 
+Sn 
+
+Relative Standard Deviation (%) 
+(n ≥ 6) 
+ 
+  3.9 
+13.0 
+17.0 
+  7.0 
+16.0 
+  4.5 
+  3.0 
+18.0 
+21.0 
+18.0 
+  8.0 
+
+SRM 625 
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC (2008); 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Oct 2016).  
+
+available 
+
+[2]  Hahn,  G.J.;  Meeker,  W.Q.;  Statistical  Intervals:    A  Guide  for  Practitioners;  John  Wiley  &  Sons,  Inc.:    New 
+
+York (1991). 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Oct 2016); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Oct 2016). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  19 October 2016 (Title change; editorial changes) 20 September 2005 (This technical revision adds instructions 
+for use of the material and editorial revisions to reflect program and organizational changes at NIST); 05 June 1996 (Editorial revision to reflect 
+   
+program and organizational changes at NIST); 24 April 1964 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+it  NIST) 
+
+20 
+
+SRM 625 
+
+Page 4 of 4 
+
+

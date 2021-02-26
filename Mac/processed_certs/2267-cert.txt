@@ -1,0 +1,146 @@
+﻿National Institute of Standards and Technology 
+Certificate of Analysis 
+Standard Reference Material® 2267 
+
+ 
+
+ 
+
+ 
+Deuterated Levoglucosan in Ethyl Acetate 
+ 
+This Standard Reference Material (SRM) is a solution of deuterated levoglucosan (1,6-anydro-beta-d-glucose-d7) in 
+ethyl acetate.  This SRM is intended primarily for use as an internal standard or surrogate internal standard solution 
+that  is  used  to  spike  both  the  unknown  sample  and  a  calibration  or  external  standard  solution  of  non-labeled 
+levoglucosan.    A  unit  of  SRM  2267  consists  of  five  2-mL  ampoules,  each  containing  approximately  1.2  mL  of 
+solution. 
+ 
+Certified  Concentration  of  Deuterated  Levoglucosan:    The  certified  concentration  value  [1,2]  given  below  is 
+based  on  results  obtained  from  the  gravimetric  preparation  of  this  solution  and  from  the  analytical  results 
+determined  by  using  gas  chromatography.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or accounted for by 
+NIST. 
+
+ 
+
+Deuterated Levoglucosan 
+
+66.3 mg/kg ± 1.4 mg/kg 
+
+ 
+The results are expressed as the certified value ± the expanded uncertainty. The certified value is the unweighted 
+average of the concentration determined by gravimetric and chromatographic methods.  The expanded uncertainty, 
+at  a  95 %  level  of  confidence,  is  calculated  as  U  =  kuc,  where  uc  is  a  combined  standard  uncertainty  calculated 
+according to the ISO and NIST Guides [3] and k = 2 is the coverage factor.  The quantity uc represents, at the level 
+of  one  standard  deviation,  the  combined  effects  of  the  uncertainty  due  to  purity  assessment  and  an allowance for 
+differences between the concentration determined by gravimetric preparation and chromatographic measurements.   
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  lot  is  valid  until  30  September  2016,  within  the 
+measurement uncertainties specified, provided the SRM is handled and stored in accordance with the instructions 
+given in this certificate.  However, the certification is nullified if the SRM is damaged, contaminated, or modified.  
+NIST reserves the right to withdraw, amend, or extend this certification at any time.   
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The coordination of the technical measurements leading to the certification of this SRM was under the direction of 
+M.M. Schantz and L.C. Sander of the NIST Analytical Chemistry Division. 
+ 
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Partial funding support for the preparation and certification of this Standard Reference Material was provided by the 
+U.S. Environmental Protection Agency, Office of Research and Development, Human Exposure and Atmospheric 
+Science Division, National Exposure Research Laboratory.  
+ 
+The  support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement 
+Services Division. 
+
+Gaithersburg, MD  20899  
+Certificate Issue Date:  12 March 2007 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+ 
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 2267 
+
+Page 1 of 2 
+
+Preparation and analytical measurements of the SRM were performed by B.A. Benner, Jr. and M.M. Schantz of the 
+NIST Analytical Chemistry Division and M.P. Cronise and C.N. Fales of the Standard Reference Materials Group. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+Handling:  This material should be handled with care.  Use proper disposal methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Instructions  for  Use:    Sample  aliquots  for  analysis  should  be  withdrawn  at  20  °C  to  25  °C  immediately  after 
+opening  the  ampoules  and  should  be  processed  without  delay  for  the  certified  value  to  be  valid  within  the  stated 
+uncertainty.  Because  of  the  volatility  of  ethyl  acetate,  certified  values  are  not  applicable  to  material  stored  in 
+ampoules that have been opened for more than 4 minutes, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+The  deuterated  levoglucosan  used  in  the  preparation  of  this  SRM  was  obtained  from  a  commercial  source.    The 
+solution was prepared at NIST by weighing and mixing the deuterated levoglucosan and ethyl acetate.  The weighed 
+component was added to the ethyl acetate and mixed overnight.  The total mass of this solution was measured, and 
+the concentration was calculated from this gravimetric procedure.   This gravimetric concentration was adjusted for 
+the  purity  estimation  of  the  deuterated  levoglucosan,  which  was  determined  using  flame  ionization  capillary  gas 
+chromatography  with  two  stationary  phases  of  different  polarities.    This  bulk  solution  was  then  chilled  to 
+approximately –5 °C, and 1.2 mL aliquots were dispensed into 2-mL amber glass ampoules, which were then flame 
+sealed. 
+ 
+Aliquots  from  nine  ampoules  selected  using  a  stratified,  random  sampling  scheme  were  analyzed  in  duplicate  by 
+using  capillary  gas  chromatography  with  mass  spectrometric  detection  (GC/MS)  in  the  electron impact ionization 
+mode  and  a  non-polar  5 %  phenyl  methylpolysiloxane  phase  following  derivatization  using  N,O-bis-
+(trimethylsilyl)trifluoroacetamide  (BSTFA)  catalyzed  with  1 %  trimethylchlorosilane  (TMCS)  [4].    The  internal 
+standard  added  to  each  sample  for  quantification  purposes  was  non-labeled  levoglucosan  (CAS  #  498-07-7). 
+Briefly, the levoglucosans were converted to their corresponding trimethylsilyl derivatives by adding 20 µL each of 
+pyridine and a 1 % mixture of TMCS in BSTFA.  These sample mixtures were heated to 60 °C for 2 h, after which 
+enough ethyl acetate was added to bring the final sample volume to approximately 1 mL.  The ethyl acetate solution 
+was then analyzed by GC/MS.  Calibration solutions consisting of weighed amounts of the deuterated levoglucosan 
+(adjusted for the purity estimation) and the internal standard compound in ethyl acetate were chromatographically 
+analyzed to determine analyte response factors.  
+ 
+
+REFERENCES 
+
+ 
+[1]  May,  W.;  Parris,  R.;  Beck,  C.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.;  Gettings,  R.;  and  MacDonald,  B.;    Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-
+Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S. 
+Government Printing Office:  Washingtion, DC (2000). 
+
+[2]  Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811, U.S. 
+
+Government Printing Office:  Washington, DC (1995). 
+
+ [3]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization:  Geneva, Switzerland (1993); see Taylor, B.N.; Kuyatt, C.E.; Guidelines for 
+Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. 
+Government Printing Office:  Washington, DC (1994).  
+
+[4]  Larsen, R.K. III; Schantz, M.M.; Wise, S.A.; Determination of Levoglucosan in Particulate Matter Reference 
+
+Materials; Aerosol Sci. Technol.; Vol. 40, pp. 781–787 (2006).  
+
+’  (2006).
+
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  Telephone (301) 975-6776; Fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://nist.gov/srm. 
+
+SRM 2267 
+
+Page 2 of 2 
+
+

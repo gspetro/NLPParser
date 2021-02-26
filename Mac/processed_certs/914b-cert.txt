@@ -1,0 +1,204 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 914b 
+ 
+Creatinine 
+
+ 
+
+ 
+to  be 
+neat 
+This Standard Reference Material (SRM) is certified as a neat chemical material of known purity.  It is intended to be 
+Oo 
+used as a primary measurement standard  for calibration of clinical measurement laboratory  procedures to determine 
+quantities of creatinine.  A unit of SRM 914b consists of 10 g of high-purity crystalline creatinine. 
+ 
+
+a 
+procedures 
+inine 
+
+Certified Creatinine Mass Fraction:  99.9 %  ±  0.1 % 
+
+SRM 
+
+h practical realization of measurement units for 
+
+ccuracy in that all known or 
+ [1].   The measurand is the mass fraction of 
+
+ 
+A NIST certified value is a value for which NIST has the highest confidence in its a
+suspected sources of bias have been investigated or taken into account
+creatinine (expressed as per cent) [2] and t he uncertainty is expressed as the 95  % confidence interval ( U95%) [3,4].  
+Metrological traceability of the certified value is to the SI throug
+specific amount of substance (mol/g) and mass fraction (%).  The certified value was determined using a quantitative 
+1H nuclear magnetic resonance spectroscopy (1H-qNMR) primary ratio measurement procedure [5,6]. 
+ 
+yeci fied,
+Expiration of Certification:  The certification of SRM 914b is valid, within the measurement uncertainty specified, 
+until 31 May 2028, provided the SRM is handled and stored in accordance with the instructions given in this certificate 
+(see “Instructions for Storage and Use”)
+.  The certification is nullified if the SRM is da maged, contaminated, or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purch aser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical activities were under the chairmanship of M.A. Nelson of the NIST 
+Chemical Sciences Division. 
+ 
+Analytical measurements at NIST were performed by M.A.
+C. Salazar Arzate of Centro Nacional de Metrología (CENAM), México.  
+ 
+Statistical analysis was provided by B. Toman of the NIST Statistical Engineering Division.  
+ 
+Support aspects involved in the issuance of this SRM were coordinated through the N
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Nelson of the  NIST Chemical Sciences   Division  and 
+
+IST Office of Reference 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  21 November 2018 
+
+  
+
+SRM 914b 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 2 
+
+iuld 
+
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored in its original container, tightly closed and pr otected from moisture, heat, 
+and direct light.     Refrigeration is recommended (4  °C) for long term storage, though the material should be 
+brought to room temperature (between 20  °C and  30 °C) before opening the container for each use.   It should 
+not be exposed to temperatures greater than 30 °C. 
+ 
+Use:  SRM 914b stored as described above, should be used without preliminary drying.  The minimum sample size is 
+5 mg. 
+ 
+SOURCE AND ANALYSIS 
+ 
+a  commercial  supplier 
+Source of Material:  The SRM source material was obtained from a commercial supplier. 
+ 
+Analytical Approach and  Heterogeneity assessment :   Analyses for chemical   identity,  purity,  and  heterogeneity 
+were performed by NIST using  twenty-two units, selected  at regular intervals across the entire production lot
+.  A 
+1H-qNMR  primary ratio measurement   procedure  using an internal standard approach was implemented for the 
+determination of creatinine mass fraction with metrological traceability to SI units.  Calculation of the 95 % coverage 
+1H-qNMR 
+interval was performed under the Bayesian paradigm using a hierar
+procedure [7,8].  No trend in mass fraction  of creatinine  was observed with respect to filling order and there is no 
+significant heterogeneity at the 95 % confidence level.   Methanol impurity content was approximated via 1H-qNMR 
+as 0.004 %.  Supporting and confirmatory measurements for assessment of impurity components were made via liquid 
+ultraviolet d etection (LC-UV)  and liquid chromatography with 
+chromatography with 
+detection (LC-MS).  While no significant amount of  structurally-related organic chemical impurity was  determined 
+with respect to the 95 % confidence interval, an insignificant relative amount of creatine was identified as an impurity 
+via LC-MS. 
+ 
+ 
+
+chical measurement model for the 
+
+mass spectrometric 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris,  R.; Beck  II, C.; Fassett,  J.; Greenberg,  R.; Guenther,  F.; Kramer,  G.; Wise,  S.; Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office: Washington,  DC  (2000); available at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed Nov 2018). 
+
+[2]  Thompson, A.; Taylor,  B.N.;  Guide for the Use of the International System of Units
+
+rial 
+ (SI); NIST Special 
+
+[3] 
+
+, DC (2008); available at 
+
+Publication 811; U.S. Government Printing Office: Washington
+https://www.nist.gov/pml/special-publication-811 (accessed Nov 2018). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology  (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Nov 2018); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note  1297; U.S. Government Printing Office: Washington,
+https://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Nov 2018). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement,  Propagation of Distributions Using a Monte Carlo Method
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Nov 2018). 
+[5]  Milton, M.J.; Quinn T.J.; Primary methods for the measurement of amount of substance; Metrologia,  
+
+; JCGM  (2008); available at 
+
+ DC (1994); available at 
+
+[4] 
+
+[6] 
+
+Vol. 38, pp 289−296 (2001). 
+Jancke, H.;  NMR  Spectroscopy as a  Primary  Analytical  Method  of  Measurement; Nac hr. Chem. Tech. Lab., 
+Vol. 46(7-8), pp 720−722 (1998). 
+
+[7]  Possolo, A.; Toman,  B.;  Assessment of  Measurement  Uncertainty  via  Observation  Equations; Metrologia, 
+
+Vol. 44, pp 464−475 (2007). 
+
+[8]  Toman, B., Nelson, M.A.; Lippa, K.A.; Chemical Purity Using Quantitative  1H-nuclear Magnetic Resonance: 
+A Hierarchical Bayesian Approach for Traceable Calibrations; Metrologia, Vol. 53, pp 1193−1203 (2016). 
+
+ 
+ 
+Users of this SRM should ensure that the 
+accomplished by contacting the SRM Program: telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+Certificate of Analysis in their possession is current.  This can be 
+
+their  possession  is  current. 
+ 975-2200; fax (301)
+
+This  can  be
+ 948-3730; 
+
+SRM 914b 
+
+Page 2 of 2 
+
+

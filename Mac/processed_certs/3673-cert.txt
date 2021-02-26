@@ -1,0 +1,796 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 3673 
+
+ 
+
+ 
+Organic Contaminants in Non-Smokers’ Urine 
+ 
+(Frozen) 
+
+Non 
+
+andards and 
+
+  based on the 
+
+ [1].  The certified values are
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected hydroxylated polycyclic aromatic hydrocarbons  (hydroxylated PAHs)  and phthalate ,  phenol, and volatile 
+organic compound (VOC) metabolites in urine.  All of the constituents for which certified  and reference values are 
+provided are naturally present in the urine.  A unit of SRM 3673 consists of five vials each containing 10 mL of frozen 
+urine. 
+ 
+The development of SRM  3673  was a collaboration between the National Institute of St
+Technology (NIST) and the Division of Laboratory Sciences, Centers for Disease Control and Prevention (CDC). 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for hydroxylated PAHs are provided in Table 1.  A 
+NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of  uncertainty  have been investigated or taken into account
+agreement of results obtained at NIST, CDC, and Institut national de santé publique du Québec (INSPQ).   
+ 
+Reference Mass Fraction Values:  Reference mass fraction values are provided in Table 2 for phthalate metabolites, 
+Table 3 for  phenol metabolites,  Table 4 for VOC metabolites,  and Table  5  for additional compounds .   Reference 
+values are noncertified values that are estimates of the true values; however, the values do not meet the NIST criteria 
+for certification and are provided with associated uncertainties that may reflect only measurement precision, may not 
+include all sources of uncertainty, or may reflect a lack o f sufficient statistical agreement among multiple analyt ical 
+methods [1]. 
+ 
+Expiration of Certification:  The certification of SRM 3673 is valid, within the measurement uncertainty specified, 
+until 31 May 2030, provided the SRM is handled and stored in accordance with the instructions given in this certificate 
+(see “Instructions for Storage and Use”).
+ed, or 
+otherwise modified.   
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certificati on before the expiration of this certificate, NIST will no
+tify the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification.  
+ 
+Overall direction and coordination of technical measurements leading to certification were performed by L.C. Sander 
+of the NIST Chemical Sciences Division. 
+ 
+ry  Sciences,  Organic
+Partial support for the development of SRM  3673  was provided by the  Division of Laboratory Sciences, Organic 
+Analytical Toxicology Branch, CDC (Atlanta, GA). 
+ 
+Preparation of the urine was performed by Solomon Park Research Laboratories Inc. (Kirkland, WA).   
+ 
+Evaluation of the data was provided by N.A. Heckert of the NIST Statistical Engineering Division.  
+ 
+Support aspects involved in the issuance of this SRM were coordinat
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 March 2020 
+Certificate Revision History on Last Page 
+
+   The c ertification is nullified if the SRM is damaged, contaminat
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ed through the NIST Office of Reference 
+
+ 
+
+Page 1 of 6 
+
+  
+
+SRM 3673 
+
+ters for Disease Control and 
+
+ should be used immediately.  The material 
+
+Acquisition of the material was performed  by K.E. Sharpless of the NIST Chemical Sciences Division.   Analytical 
+measurements at NIST were performed by  B.A. Benner, Jr.,  and  S.S. Vander Pol   of the NIST  Chemical Sciences  
+Division; and M.M. Schantz, Y. Vasquez, and M. Villegas formerly of NIST.  Analytical measurements at CDC were 
+performed by K.U. Alwis, B.C. Blount, A. Calafat, Z. Li, and A. Sjödin and at INSPQ by E. Gaudreau. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+SRM 3673  IS INTENDED FOR  RESEARCH  USE.  THIS IS A HUMAN -SOURCE MATERIAL.    HANDLE 
+PRODUCT AS A BIOHAZARDOUS MATERIAL CAPABLE OF TRANSMITTING INFEC TIOUS DISEASE.  
+Accordingly, this human urine -based product should be handled at the Biosafety Level  2 or higher as recommended 
+for any POTENTIALLY INFECTIOUS HUMAN SPECIMEN in the Cen
+Prevention/National Institutes of Health Manual [2]. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM is stored at  –80 °C at NIST.  The urine is shipp ed frozen (on dry ice) and, upon receipt, should 
+be stored frozen until ready for use.  A freezer temperature of –20 °C is acceptable for storage for up to one week.  If 
+a longer storage time is anticipated, the material should be stored at or below –60 °C.  The SRM should not be exposed 
+to sunlight or ultraviolet radiation.  Storage of thawed  material at room or refrigerator temperatures may res ult in 
+changes to analyte concentrations. 
+ 
+Use:  Vials of the SRM to be analyzed should be removed from the freezer and thawed completely to room temperature 
+(20 °C to  25 °C).  After the material is thawed to room temperature, it
+should be vortex mixed before aliquots are withdrawn. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+This SRM was developed after an appropriate human subjects research determination by NIST. 
+ 
+Sample Preparation:  Solomon Park Research Laboratories Inc.  acquired a  50 L pool of  non-smokers’ urine from 
+donors who were not exposed to secondhand cigarette smoke.  The urine was filtered prior to aliquotting into amber 
+glass bottles that are capable of withstanding ultra-cold temperatures.  Each bottle was filled with 10 mL of urine and 
+stored at –80 °C prior to shipping on dry ice to NIST. 
+ 
+Hydroxylated Polycyclic Aromatic Hydrocarbons:  The approach used for the value assignment of hydroxylated 
+PAHs in SRM  3673 consisted of combining results from analyses of the material at NIST,
+ CDC, and INSPQ.  At 
+NIST, duplicate test portions of approximately 3 g from 10 vials were gravimetrically transferred to centrifuge tubes, 
+-naphthol-d7  and 3 -HO-phenanthrene  13C6, 
+spiked with a known amount of internal standard solution containing 1
+followed by the addition of sodium acetate and β-glucuronidase/aryl sulfatase enzyme.  The samples were incubated 
+at 37  °C for 18  h and then eluted through a Strata
+ X (Phenomenex, Torrance,  CA) solid -phase extraction  (SPE) 
+column.  Following washing and elution, th e samples were concentrated to 0.5  mL in toluene  and transferred to an 
+autosampler vial.  MSTFA ( N-methyl-N-(trimethylsilyl)trifluoroacetamide) was added,  and samples were heated at 
+60 °C for 30  min  to produce the trimethylsilyl derivatives of the hydroxylated PAHs.  The de
+rivatives were then 
+analyzed using gas chromatography with mass spectrometry (GC/MS) with a 0.25 mm i.d. × 60 m fused silica capillary 
+column with a 5 % (mole fraction) phenyl methylpolysiloxane phase (0.25 μm film thickness; DB-5, Agilent Technologies, 
+Wilmington, DE). 
+ 
+The methods used for measurement of the hydroxylated PAHs at CDC ar e described in Li  et al. [3].  At INSPQ, the 
+urinary metabolites were hydrolyzed with β-glucuronidase enzyme followed by extraction with hexane at neutral pH.  
+These extracts were then evaporated, derivatized with MSTFA, and analyzed u sing GC coupled with tandem mass 
+spectrometry (GC/MS/MS).  The multiple reaction monitoring mode was used to quantify the hydroxylated PAHs. 
+ 
+Homogeneity Assessment for  Hydroxylated  PAHs:   The homogeneity of SRM  3673  was assessed by analyzing 
+duplicate test portions of 3 g from 10 vials selected by stratified random sampling.  Test portions were processed and 
+analyzed as described above for 
+the NIST method.    No  statistically significant  differences were observed for the 
+hydroxylated PAHs at the  3 g test portion size, suggesting that SRM  3673 is homogenous at that sample size (and 
+larger).  
+
+  
+ 
+
+(1) Certain commercial equipment, instrument s, or materials are identified in this certificate to adequately 
+
+specify  the 
+mal  Institute  of  Standards 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+lable  for  the  purpose.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3673 
+
+Page 2 of 6 
+
+ 
+
+ °C for 20  min prior to GC/MS analysis on a 
+
+Phthalate, Phenol, and Volatile Organic Compound Metabolites: The methods used at CDC for the quantification 
+of phthalate and phenol metabolites are described in Silva et al . [4] and Ye et al . [5], respectively.  Bisphenol A was 
+quantified at NIST using a  method adapted from Arakawa et al.  [6].  Test portions of approximately 1  g were taken 
+from six vials of SRM  3673.  An internal standard solution containing  13C12-bisphenol A was added followed by the 
+addition of β-glucuronidase enzyme.  Samples were incubated at 37 °C for 120 min.  An amino SPE column was used 
+to remove some of the potential interferences.  MSTFA with 1  % (volume fraction) TMCS (trimethylchlorosilane) 
+was added to the concentrated sample followed by incubation at 60
+0.25 mm i.d. × 30 m fused silica capillary column with a 5  % (mole fraction) phenyl methylpolysiloxane phase (0.25  μm 
+film thickness; HP-5MS).  The method used at the CDC for the quantification of VOC metabolites is described in Alwis et 
+al. [7]. 
+ 
+Additional Analytes:  Creatinine was quantified at NIST using liquid chromatography with mass  spectrometry (LC/MS).  
+Samples of the thawed urine were spiked with d3-creatinine followed by the addition of water and a hydrochloric acid (HCl) 
+solution to bring the final concentration to 0.01
+ column, 
+0.25 cm × 4.6 mm, 5 µm particle (Phenomenex, Torrance, CA) with single-ion monitoring.   
+ 
+The free (non-conjugated) levels of nicotine, ib uprofen, caffeine, cotinine, and theobromine in SRM  3673 were measured 
+at NIST using liquid/liquid extraction with chloroform followed by GC/MS analysis s
+imilar to that described in Man et 
+al. [8].   Isotopically l abeled nicotine, ibuprofen, caffeine, cotin ine, hydroxycotinine, and theobromine were used as the 
+internal standards.  The GC/MS analysis used a 
+fraction) trifluoropropyl methylpolysiloxane phase (0.25 μm film thickness; DB-210). 
+ 
+Metrological Traceability:    Certified values are metrologically traceable to the SI  derived  unit  for mass  fraction 
+(expressed as micrograms per kilogram) and the measurand is the total concentration of each analyte in Table 1.  For 
+reference values, the measurands are the mass fraction as determined by the method indicated for each analyte listed 
+in Tables 2 -5, and are metrological traceable to the SI  derived unit for mass fraction, expressed as micrograms per 
+kilogram or milligrams per kilogram. 
+ 
+
+0.25 mm i.d.  × 30 m fused silica capillary column with a 5 0 % (mole 
+
+ mol/L HCl.  LC/MS measurements utilized a Luna C18
+
+Table 1.  Certified Mass Fraction Values for Hydroxylated PAHs in SRM 3673 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Hydroxylated PAHs  
+
+1-Naphthol(a,b,c,d) 
+2-Naphthol(a,b,c,e) 
+9-Hydroxyfluorene(a,b,c,e) 
+3-Hydroxyfluorene(a,b,c,e) 
+4-Hydroxyphenanthrene(a,b,c,d) 
+9-Hydroxyphenanthrene(a,c,e) 
+3-Hydroxyphenanthrene(a,b,c,e) 
+1-Hydroxyphenanthrene(a,b,c,e) 
+2-Hydroxyphenanthrene(a,b,c,e) 
+1-Hydroxypyrene(a,b,c,e) 
+
+Mass Fraction 
+(µg/kg)  
+
+207 
+
+±  33 
+± 
+1.32 
+0.108  ± 
+0.0384  ± 
+0.0102  ± 
+0.0114  ± 
+0.0271  ± 
+0.0479  ± 
+0.0242  ± 
+0.0299  ± 
+
+0.03 
+0.026 
+0.0039 
+0.0010 
+0.0009 
+0.0014 
+0.0074 
+0.0042 
+0.0018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a)  NIST GC/MS analysis. 
+(b) CDC GC/MS analysis; data were converted from nanograms per milliliter  to micrograms per kilogram using the density of the urine 
+
+the  expanded  uncertainties 
+(1.019 ± 0.024 g/mL).  The urine density uncertainty was accounted in the expanded uncertainties. 
+
+urine 
+
+(c) INSPQ GC/MS/MS analysis; data were converted from  nanograms per milliliter to micrograms per kilogram using the density of the 
+
+nanograms  per  milliliter 
+
+urine (1.019 g/mL). 
+
+(d) The certified mass fraction value is a weighted mean of the mass fractions from  three analytical methods [9].  The uncertainty 
+listed with each value is an expanded uncertainty about the mean  [9,10], with coverage factor,  k = 2, calculated by combining 
+within-method variances with a between method variance [11] following the ISO/JCGM Guide [12,13]. 
+
+ctor, 
+
+(e) The  certified  value is a weighted mean of average mass fractions, with one average from ea
+
+three  analytical 
+4], 
+methods [9,10].  The expanded uncertainty is the half-width of a symmetric 95 % parametric bootstrap confidence interval [14], 
+which is consistent with the ISO/JCGM Guide [12,13].  The effective coverage factor, k, is 2. 
+
+-width  of  a  symmetric  95 
+
+ch of two or 
+
+actor,  k,
+
+ 
+
+SRM 3673 
+
+ 
+
+Page 3 of 6 
+
+Table 2.  Reference Mass Fraction Values for Selected Phthalate Metabolites in SRM 3673 
+
+Phthalate Metabolites  
+
+Mono-carboxynonyl phthalate isomers(c) 
+Mono-carboxyoctyl phthalate isomers(d) 
+Mono-(2-ethyl-5-carboxypentyl) phthalate 
+Mono-(2-ethyl-5-hydroxyhexyl) phthalate 
+Mono-(2-ethyl-5-oxohexyl) phthalate 
+Mono-(2-ethylhexyl) phthalate 
+Mono-(3-carboxypropyl) phthalate 
+Monobenzyl phthalate 
+Monoethyl phthalate 
+Mono-isobutyl phthalate 
+Mono-n-butyl phthalate 
+
+Mass Fraction(a,b)   
+(µg/kg)  
+
+1.49  ± 
+10.5  ± 
+30.1  ± 
+22.3  ± 
+12.2  ± 
+4.34  ± 
+1.91  ± 
+5.69  ± 
+80.2  ± 
+5.18  ± 
+11.2  ± 
+
+0.02  
+0.5   
+1.0   
+0.3   
+0.2   
+0.16 
+0.21  
+0.17  
+2.1   
+0.26  
+0.7 
+
+(a) CDC analysis; data were converted from nanograms per milliliter
+
+nanograms  per  milliliter 
+
+  to  micrograms per kilogram   using the density of the urine 
+
+(1.019 ± 0.024 g/mL).  The urine density uncertainty was accounted in the expanded uncertainties. 
+
+(b) The reference mass fraction value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, 
+is calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor,  k, is determined from the 
+   The 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95
+effective coverage factor, k, is 2.20.  
+
+ % confidence level for each analyte.
+
+vali 
+
+(c) Mono-(2,7-dimethyl-7-carboxyheptyl) phthalate was used as the calibrant for the quantificati on of the mono -carboxynonyl phthalate 
+
+fication  of  the  mono 
+
+(d) Mono-(2,6-dimethyl-6-carboxyhexyl) phthalate was used as the calibrant for the quantifi
+
+cation of the mono -carboxyoctyl phthalate 
+
+isomers. 
+
+isomers.  
+
+ 
+
+Table 3.  Reference Mass Fraction Values for Selected Phenol Metabolites in SRM 3673 
+
+Phenol Metabolites  
+
+Bisphenol A (BPA)(a,b,c) 
+2,5-Dichlorophenol(b,d) 
+Benzophenone-3(b,d) 
+Methyl Paraben(b,d) 
+Ethyl Paraben(b,d) 
+Propyl Paraben(b,d) 
+Butyl Paraben(b,d) 
+Triclosan(b,d) 
+
+Mass Fraction 
+(µg/kg)  
+
+ 
+
+1.96  ±  0.11  
+0.687  ±  0.046 
+ 
+
+±  7 
+±  2.1 
+±  0.3   
+±  0.6 
+
+274 
+79.5 
+10.3 
+21.6 
+1.11  ±  0.03  
+6.27  ±  0.32  
+
+ 
+
+(a)  NIST analysis GC/MS. 
+(b) CDC analysis; data were converted from nanograms per milliliter
+
+nanograms  per  milliliter 
+
+  to  micrograms per kilogram   using the density of the urine 
+
+the  expanded  uncertainties 
+(1.019 ± 0.024 g/mL).  The urine density uncertainty was accounted in the expanded uncertainties. 
+
+Dy. 
+(c) The reference value is a weighted mean of average mass fractions, with one average from each of two analytical methods [9,10].  
+ [14], which is 
+is
+
+-width of a symmetric 95  % parametric bootstrap confidence interval
+
+The expanded uncertainty is the half
+consistent with the ISO/JCGM Guide [12,13].  The effective coverage factor, k, is 2. 
+
+ (d) The reference mass fraction value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, 
+is calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor,  k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95
+   The 
+effective coverage factor, k, is 2.20.  
+
+ % confidence level for each analyte.
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+  
+
+SRM 3673 
+
+ 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Table 4.  Reference Mass Fraction Values for Selected VOC Metabolites in SRM 3673 
+
+VOC Metabolites  
+
+Trans,trans-muconic acid 
+N-Acetyl-S-(2-carboxyethyl)-L-cysteine 
+2-Aminothiazoline-4-carboxylic acid 
+N-Acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine 
+N-Acetyl-S-(2-carbamoylethyl)-L-cysteine 
+N-Acetyl-S-(3,4-dihydroxybutyl)-L-cysteine 
+N-Acetyl-S-(N-methylcarbomoyl)-L-cysteine 
+2-Thioxothiazolidine-4-carboxylic acid 
+N-Acetyl-S-(3-hydroxypropyl)-L-cysteine 
+N-Acetyl-S-(2-hydroxypropyl)-L-cysteine 
+Mandelic acid 
+N-Acetyl-S-(2-cyanoethyl)-L-cysteine 
+N-Acetyl-(4-hydroxy-2-buten-1-yl)-L-cysteine 
+N-Acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine 
+Phenylglyoxylic acid 
+2-Methylhippuric acid 
+N-Acetyl-S-(n-propyl)-L-cysteine 
+3-Methyl & 4-Methylhippuric acids 
+N-Acetyl-S-(phenyl)-L-cysteine 
+N-Acetyl-S-(benzyl)-L-cysteine 
+
+Mass Fraction(a,b) 
+(µg/kg)  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+±  12 
+
+7.4 
+7.9 
+0.56 
+1.5 
+
+±  10 
+±  18 
+
+1.0 
+
+6.9 
+
+±  13 
+
+±  13 
+
+74 
+53.9  ± 
+57.5  ± 
+8.99  ± 
+28.9  ± 
+162 
+129 
+27.6  ± 
+184 
+42.6  ± 
+81 
+5.92  ± 
+6.81  ± 
+± 
+273 
+138 
+± 
+20.8  ± 
+5.0  ± 
+
+0.35 
+0.99 
+7 
+4 
+6.3 
+1.3 
+
+109 
+
+±  14 
+
+0.82  ± 
+3.54  ± 
+
+0.26 
+0.15 
+
+ 
+
+ 
+ 
+(a) CDC analysis; data were converted from nanograms per milliliter
+
+nanograms  per  milliliter 
+
+(1.019 ± 0.024 g/mL).  The urine density uncertainty was accounted in the expanded uncertainties. 
+
+ (b) The reference mass fraction value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, 
+is calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor,  k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95
+   The 
+effective coverage factor k is 4.30.  
+
+ % confidence level for each analyte.
+
+ees  of  freedom  and  a  95 
+
+vah 
+
+  to  micrograms per kilogram   using the density of the urine 
+
+ 
+ 
+Table 5.  Reference Mass Fraction Values for Additional Analytes in SRM 3673 
+
+Analytes  
+
+Creatinine 
+Nicotine(c) 
+Ibuprofen(c) 
+Caffeine(c) 
+Cotinine(c) 
+Theobromine(c) 
+
+Mass Fraction(a,b) 
+(mg/kg)  
+
+505 
+
+±  2 
+
+0.029  ±  0.002 
+0.035  ±  0.002 
+3.58  ±  0.05 
+0.024  ±  0.001 
+5.94  ±  0.15 
+
+k 
+
+2.07 
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+
+(a) NIST analysis.  
+(b) The reference mass fraction value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, 
+is calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor,  k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95
+   The 
+effective coverage factor k is given in the table. 
+(c) Mass fraction of non-conjugated species only.   
+
+ % confidence level for each analyte.
+
+obtained
+
+value  | 
+
+: 
+
+' 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 3673 
+
+ 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris,  R.; Beck,  C.;  Fassett, J.; Greenberg,  R.; Guenther,  F.; Kramer,  G.; Wise,  S.; Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of Reference Materials for Chemical Measurements ; NIST Special Publication   260-136;  U.S. Government 
+Printing Office: 
+(2000); available at 
+https://www.nist.gov/system/files/documents/srm/SP260-136.PDF (accessed Mar 2020). 
+
+Washington, DC 
+
+[3] 
+
+[2]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, DC (2009); available at https://www.cdc.gov/labs/BMBL.html (accessed Mar 2020). 
+Li, X.; Romanoff,  L.C.; Trinidad,  D.A.; Hussain,  N.; Jones,  R.S.; Porter,  E.N.; Patterson,  D.G.; Sjödin,  A.; 
+Measurement of Urinary Monohydroxy Polycyclic Aromatic Hydrocarbons Using A utomated Liquid -Liquid 
+Extraction and Gas Chromatography/Isotope Dilution High Resolution Mass Spectrometry
+; Anal. Chem., 
+Vol. 78, pp. 5744-5751 (2006). 
+Silva, M.J.; Samander,
+22 Phthalate Metabolites in Human Urine; J. Chromatogr. B, Vol. 860, pp. 106-112 (2007). 
+
+ A.M.;  Quantification of 
+
+ J.A.; Needham,
+
+ L.L.; Calafat,
+
+ J.L.; Reidy,
+
+ E.; Preau,
+
+[4] 
+
+[5]  Ye, X.; Kuklenyik, Z.; Needham, L.L.; Calafat, A.M.; Automated On-Line Column-Switching HPLC-MS/MS 
+Method with Peak Focusing for the Determination of Nine  Environmental  Phenols  in Urine ; Anal. Chem. 
+Vol. 77, pp. 5407-5413 (2005). 
+
+Environn 
+
+[6]  Arakawa, C.; Fujimaki,  K.; Yoshinaga,  J.; Imai,  H.; Serizawa,  S.; Shiraishi,  H.;  Daily Urinary Excretion of 
+
+Bisphenol A.; Environ. Health Prev. Med., Vol. 9, pp. 22-26 (2004).  
+
+[7]  Alwis, K.U.;  Blount, B.C.; Britt,  A.S.; Patel,  D.; Ashley,  D.L.;  Simultaneous Analysis of 28 Urinary VOC 
+Metabolites using Ultra High Performance Liquid Chromatog raphy Coupled with Electrospray Ionization 
+Tandem Mass Spectrometry (UPLC-ESI/MSMS); Anal Chim Acta, Vol. 750, pp. 152-160 (2012). 
+
+[8]  Man, C.N.; Gim, L-H.; Ismail, S.; Lajis, R.; Awang, R.; Simple, Rapid and Sensitive Method for Simultaneous 
+-Mass Spectrometry ; J. 
+
+Quantification of Urinary Nicotine and Cotinine Using Gas Chromatography
+Chromatogr. B, Vol. 844, pp. 322-327 (2006). 
+
+[9]   Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177-188 (1986). 
+[10]   Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323-331 (2009). 
+[11]  Horn, R.A.; Horn,  S.A.; Duncan,  D.B.;  Estimating Hetroscedastic Variance in Linear Models ; J. Am. Stat. 
+
+[12] 
+
+[13] 
+
+Assoc., Vol. 70, pp. 380-385 (1975). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Gu
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Mar 2020); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurem ent 
+Results; NIST Technical Note  1297; U.S. Government Printing Office: Washington,  DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Mar 2020). 
+JCGM 101:2008;  Evaluation of Measurement Data  —  Supplement 1 to the “Guide to the Expression of 
+Uncertainty in Measurement”
+;  
+JCGM (2008); available  at  https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Mar 2020). 
+
+  —  Propagation of Distributions using a Monte Carlo method
+
+ides in Metrology (2008); available at 
+
+;  Chapman  &  Hall  (1993). 
+[14]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Certificate Revision History:    19 March 2020 ( Change of expiration date;  removal of 2 -hydroxyfluorene certified value based on NIST’s 
+decision to no longer support the measure
+  editorial changes );  04 December 2015 (Editorial changes); 
+22 January 2014 (Original certificate date). 
+
+ment  capability in this matrix;
+
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analy
+accomplished by contacting the SRM Program: telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+sis in their  possession is current.  This can be 
+ 975-2200; fax (301)
+
+ 948-3730; 
+
+SRM 3673 
+
+ 
+
+Page 6 of 6 
+
+

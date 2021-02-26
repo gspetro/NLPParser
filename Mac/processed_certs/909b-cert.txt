@@ -1,0 +1,759 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 909b 
+Human Serum 
+
+ 
+
+ 
+
+ 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  a  lyophilized  human  serum  material  primarily  intended  for  use  in 
+evaluating  the  accuracy  of  higher-order  clinical  methods  for  the  determination  of  specified  constituents  in  human 
+serum.    It  can  also  be  used  to  validate  working  or  secondary  reference  materials.    Because  of  matrix  effects 
+associated with serum that has been lyophilized, some routine clinical methods may exhibit a bias in results between 
+fresh  (or  fresh-frozen)  serum  and  lyophilized  serum.    A  unit  of  SRM  909b  consists  of  six  bottles  of  lyophilized 
+human  serum  (three  bottles  each  of  two  different  analyte  concentration  levels)  and  six  bottles  of  deionized, 
+autoclaved water (11.5 mL each).  Before use, the serum in each bottle is to be reconstituted with 10.00 mL of the 
+water provided.  
+ 
+Certified Concentration Values:  Certified concentrations and their uncertainties for the two concentration levels 
+(SRM 909b-I  and  SRM 909b-II) are provided in Tables 1, 1a, and 2.  A NIST certified value is a value for which 
+NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated 
+or taken into account [1].  The certified concentrations were determined using higher-order reference measurement 
+procedures [2-13] calibrated with NIST high-purity SRMs.  This calibration provides direct traceability to the mole 
+for  the  certified  analytes  in  this  SRM.    The  certified  concentrations  apply  only  to  reconstituted  serum  at  room 
+temperature (20 C to 25 C).  See “Instructions for Use”. 
+ 
+Reference Concentration Values:  Reference concentration values for total bilirubin are provided in Table 3.  The 
+reference  concentrations  were  derived  from  results  reported  by  two  collaborating  laboratories  and  NIST.    The 
+reference  values  are  noncertified  values  that  do  not  meet  NIST  criteria  for  certification  and  are  provided  with 
+associated uncertainties that may reflect only measurement precision, may not include all sources of uncertainty, or 
+may reflect a lack of sufficient statistical agreement among multiple methods [1]. 
+ 
+Information  Values:    Information  values  for  the  activity  of  selected  enzymes  and  pH  are  provided  in  Table 4.  
+Information values for uric acid are provided in Tables 5, 5a, and 6.  A NIST information value is a value that may 
+be of interest to the SRM user, but insufficient information is available to assess the uncertainty associated with the 
+value, therefore no uncertainty is provided [1]. 
+ 
+Expiration of Certification:  The certification of this SRM lot is valid, within the measurement uncertainties, until 
+the  date  stamped  on  the  outer  box  label  (DO  NOT  DISCARD),  provided  the  SRM  is  handled  and  stored  in 
+accordance  with  the  instructions  given  in  this  certificate.    However,  the  certification  is  invalid  if  the  SRM  is 
+damaged, contaminated, or modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  overall  direction  and  coordination  of  the  analyses  were  performed  by  M.J.  Welch  of  the  NIST  Analytical 
+Chemistry Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  02 March 2010 
+See Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 909b 
+
+Page 1 of 6 
+
+ 
+Analytical  measurements  were  performed  in  the  NIST  Analytical  Chemistry  Division  by  R.G.  Christensen, 
+S.A. Margolis, K.E. Murphy, P.J. Paulsen, C.S. Phinney, K.W. Pratt, M.S. Rearick, L.T. Sniegoski, T.W. Vetter, and 
+R.D.  Vocke  and  by  P.  Ellerbe  and  S.E.  Long,  College  of  American  Pathologists  Research  Associates  at  NIST.  
+Technical advice was provided by R. Schaffer, consultant to the SRM Program.  Technical advice and coordination 
+for  the  total  bilirubin  measurements  were  provided  by  B.  Doumas  of  the  Medical  College  of  Wisconsin 
+(Milwaukee, WI).    Analytical  measurements  for  the  determination  of  total  bilirubin  were  performed  in  the  NIST 
+Analytical  Chemistry  Division  by  Y.Y.  Davidson  and  L.T.  Sniegoski  and  by  scientists  at  the  Wisconsin  State 
+Laboratory of Hygiene (Madison, WI) and the Children’s Hospital of Wisconsin (Milwaukee, WI).  The analytical 
+measurements of enzyme activity and pH were made by the supplier of the material. 
+ 
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.B. Schiller of the NIST Statistical Engineering Division.  Consultation on the statistical design of the experimental 
+work and evaluation of the data for total bilirubin and updated data for uric acid were provided by N.-F. Zhang of the 
+NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+SRM 909b was prepared by the Diagnostic Group, Bayer Corporation, Middletown, VA.1 
+ 
+NOTICE AND WARNINGS TO USERS  
+WARNING:    SRM 909b  IS  INTENDED  FOR  IN-VITRO  DIAGNOSTIC  USE  ONLY.    THIS  IS  A  HUMAN-
+SOURCE  MATERIAL. 
+  HANDLE  PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF 
+TRANSMITTING INFECTIOUS DISEASE.  The supplier of this serum has reported that each donor unit of serum 
+or  plasma  used  in  the  preparation  of  this  product  had  been  tested  by  an  FDA-approved  method  and  found  non-
+reactive for hepatitis B surface antigen (HbsAg) and human immunodeficiency virus (HIV)-1 antibody.  However, 
+no known test method can offer complete assurance that hepatitis B virus, HIV, or other infectious agents are absent 
+from  this  material.    Accordingly,  this  human  blood-based  product  should  be  handled  at  the  Biosafety  Level  2  or 
+higher  as  recommended  for  any  potentially  infectious  human  serum  or  blood  specimen  in  Biosafety  in 
+Microbiological and Biomedical Laboratories [14]. 
+ 
+Stability and Storage:  The serum comprising SRM 909b is lyophilized (freeze-dried) material and should be stored 
+in a refrigerator at a temperature between 2 C and 8 C until ready for use.  It should NOT be frozen or exposed to 
+sunlight or ultraviolet radiation. 
+ 
+Reconstituted Material:  After reconstitution, the contents should be used immediately or stored between 2 C and 
+8 C until ready for use, preferably within 4 h.  Freezing of the reconstituted material is not recommended. 
+ 
+INSTRUCTIONS FOR USE  
+ 
+Remove a bottle from the refrigerator and equilibrate at room temperature before reconstitution.  Tap the bottom of 
+the  bottle  to  dislodge  any  serum  particles  from  the  stopper.    Carefully  remove  the  metal  seal.    Take  extra  care  in 
+removing  the  stopper,  as  the  lyophilized  serum  may  adhere  to  the  stopper.    Using  a  Type  I  Class  A  calibrated 
+volumetric  transfer  pipet  or  other  dispenser  of  known  accuracy,  add  10.00 mL  0.02 mL  of  the  diluent  water 
+(provided with the SRM).  Replace the stopper, swirl the bottle two or three times, and let stand for 10 min.  Mix the 
+contents by gently swirling, let stand for approximately 30 min, swirl again, let stand for 10 min, and finally invert 
+the  bottle  several  times.    Repeat  this  process  as  necessary  until  all  material  has  gone  into  solution.    DO  NOT 
+SHAKE.  Vigorous shaking or mechanical swirling should be avoided as it may cause the formation of foam that 
+may  lead  to  inhomogeneous  distribution  of  the  analytes  within  the  bottle.    Allow  2 h  for  reconstitution.    After 
+reconstitution,  the  contents  should  be  used  immediately  or  stored  between  2 C  and  8 C  until  ready  for  use, 
+preferably within 4 h. 
+ 
+Fill Mass Correction:  There is a small variability in the fill masses of dry serum.  This variability contributes to the 
+uncertainties reported in Tables 1 and 1a.  To determine the concentration corrected for variations in fill mass (as was 
+done  for  the  certified  values  in  Table 2),  the  mass  of  dry  serum  in  the  bottle  must  be  determined.    The  following 
+procedure is recommended:  prior to opening the bottle, completely remove the bottle label and adhesive by scraping 
+and  then  wiping  the  bottle  with  a  tissue  moistened  with  a  solvent  such  as  acetone  or  ethanol.    Scratch  an 
+
+                                                           
+
+1Certain commercial equipment, instruments, or materials are identified in this report to specify adequately the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 909b 
+
+Page 2 of 6 
+
+identification  on  the  bottle,  then  remove  the  metal  closure  and  lightly  tap  the  bottom  of  the  bottle  to  dislodge  any 
+serum particles adhering to the stopper.  Carefully dislodge the stopper to equalize air pressure, then replace it.  Wipe 
+the  surface  of  the  bottle,  and  weigh  to  the  nearest  0.1 mg;  use  a  clean  empty  bottle  of  the  same  size  as  a  tare.  
+Reconstitute  the  serum  as  described  in  the  “Instructions  for  Use”  section.    After  the  reconstituted  serum  has  been 
+removed, clean and dry the bottle and its stopper.  Replace the stopper in the bottle and reweigh.  Also, reweigh the 
+tare at the same time to compensate for changes in temperature and humidity.  The mass of dry serum is obtained by 
+the difference between the original and final weighings.  To compare results with those in Table 2, divide the values 
+in Tables 1 or 1a by the grams of dry serum in the bottle.  The mean mass densities at 22.0 C were determined by 
+pycnometer to be 1.0221 g/mL  0.0002 g/mL and 1.0370 g/mL  0.0003 g/mL for Levels I and II, respectively, and 
+are provided to allow conversions between results in mass fraction and mass concentration units. 
+ 
+Value  Assignment:    For  each  analyte,  a  stratified  sampling  plan  was  devised  to  test  for  homogeneity  across  the 
+manufacturing process.  Methods considered to be definitive [2] for clinical analytes by the National Committee for 
+Clinical Laboratory Standards (NCCLS) were used for the determinations [3–13].  All of the organic analytes were 
+determined  using  isotope  dilution  gas  chromatographic  mass  spectrometric  (ID-GC/MS)  methods.    The  inorganic 
+analytes were determined using only isotope dilution thermal ionization mass spectrometric (ID-TIMS) methods with 
+the  following  exceptions:  sodium  was  determined  using  a  gravimetric  procedure  and  for  chloride,  a  coulometric 
+method  was  used  in  addition  to  ID-TIMS.    References  to  the  specific  methods  used  for  each  analyte  are  given  in 
+Table 1. 
+ 
+ 
+
+ 
+(a)  Results in mg/dL are expressed as the equivalent concentration of triolein. 
+(b) To calculate urea-N, multiply the urea value in mg/dL by the factor 0.4667. 
+ 
+ 
+
+Table 1.  Certified Concentration Values for Analytes in Reconstituted 
+SRM 909b, Level I (in mmol/L and mg/dL) [15] 
+
+Analyte 
+
+mmol/L 
+
+mg/dL 
+
+Calcium [3] 
+Chloride [4,5,6] 
+Cholesterol [7] 
+Creatinine [8] 
+Lithium [4] 
+Magnesium [4] 
+Potassium [4,9] 
+Sodium [10] 
+Total Glycerides [11] 
+Triglycerides [11] 
+Urea [12] 
+
+89.11 
+
+2.218 
+
+ 
+ 
+3.787 
+ 
+0.05618   
+0.6145   
+0.7634   
+ 
+3.424 
+ 
+120.76 
+ 
+ 
+ 
+
+0.949 
+0.804 
+5.51 
+
+0.016 
+0.57 
+0.047 
+0.00055 
+0.0050 
+0.0050 
+0.025 
+0.92 
+0.061 
+0.011 
+0.15 
+
+8.890 
+
+315.9 
+146.4 
+
+ 0.063 
+
+ 
+  2.0 
+  1.8 
+
+0.6355    0.0062 
+0.4265    0.0034 
+1.855 
+13.387 
+
+  0.012 
+  0.096 
+  2.1 
+  5.4(a) 
+  0.96(a) 
+  0.91(b) 
+
+277.6 
+84.0 
+71.22 
+33.11 
+
+Table 1a.  Certified Concentration Values for Analytes in Reconstituted 
+SRM 909b, Level II (in mmol/L and mg/dL) 
+
+Analyte 
+
+mmol/L 
+
+mg/dL 
+
+Calcium  
+Chloride 
+Cholesterol 
+Creatinine 
+Lithium 
+Magnesium 
+Potassium 
+Sodium 
+Total Glycerides 
+Triglycerides 
+Urea 
+
+3.532 
+
+119.43 
+
+  0.028 
+  0.85 
+  0.077 
+
+6.084 
+0.4674    0.0053 
+2.600 
+1.918 
+6.278 
+
+  0.023 
+  0.021 
+  0.052 
+  1.3 
+  0.035 
+  0.014 
+  0.32 
+
+141.0 
+
+1.529 
+1.271 
+
+30.75 
+
+14.16   
+
+ 0.11 
+
+423.4 
+235.3 
+
+  3.0 
+  3.0 
+
+5.287    0.060 
+1.804    0.016 
+4.661    0.051 
+
+24.55    0.20 
+
+324.3 
+135.4 
+112.6 
+184.7 
+
+  2.9 
+  3.1(a) 
+  1.3(a) 
+  2.0(b) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)  Results in mg/dL are expressed as the equivalent concentration of triolein. 
+(b) To calculate urea-N, multiply the urea value in mg/dL by the factor 0.4667. 
+ 
+
+SRM 909b 
+
+Page 3 of 6 
+
+Each  certified  value  in  Tables  1  and  1a  is  the  mean  of  measurements  made  using  a  definitive  method,  except  for 
+chloride,  for  which  two  methods  considered  to  be  definitive  were  used.    Each  expanded  uncertainty  [16]  is 
+approximately  a  95 %/95 %  statistical  tolerance  interval  which  reflects  the  combined  effects  of  measurement 
+imprecision and the variability of the mass of dry serum among bottles [17].  Each interval is constructed so that, at a 
+confidence  level  of  95 %,  it  will  include  the  concentration  for  95 %  of  all  of  the  bottles  of  SRM 909b,  when 
+reconstituted according to the procedure described in “Instructions for Use” on page 2 of 5 (without determining the 
+dry mass of the serum). 
+
+ 
+Table 2.  Certified Concentration Values for Analytes in Reconstituted 
+SRM 909b (in mmol/L/g)(a) 
+
+Analyte 
+
+ 
+
+Level I 
+mmol/L/g 
+
+Level II 
+mmol/L/g 
+
+79.40 
+
+101.65 
+
+Calcium  
+Chloride  
+Cholesterol  
+Creatinine 
+Lithium  
+Magnesium  
+Potassium  
+Sodium  
+Total Glycerides  
+Triglycerides  
+Urea 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) See  “Fill  Mass  Correction”  on  page  2.    Each  of  the  certified  values  in  Table 2  are  the  mean  of  measurements  made  using  a 
+definitive  method,  except  for  chloride  for  which  two  methods  considered  to  be  definitive  were  used.    Each  expanded 
+uncertainty, computed according to the CIPM method as described in the ISO Guide [16], is at the 99 % level of confidence; 
+that is, each certified value and expanded uncertainty define a range of values within which the true concentration is expected 
+to lie with approximately 99 % confidence. 
+
+2.5289   
+ 
+4.315 
+ 
+0.06397   
+0.6997   
+0.8703   
+ 
+3.903 
+ 
+ 
+1.080 
+0.9153   
+ 
+6.29 
+
+2.3416   
+ 
+4.030 
+ 
+0.3110   
+1.7235   
+1.2723   
+ 
+4.166 
+ 
+ 
+1.014 
+0.8428   
+ 
+
+0.0080 
+0.25 
+0.031 
+0.00036 
+0.0027 
+0.0022 
+0.011 
+0.45 
+0.046 
+0.0074 
+0.11 
+
+0.0067 
+0.17 
+0.026 
+0.0019 
+0.0061 
+0.0062 
+0.012 
+0.31 
+0.013 
+0.0049 
+0.089 
+
+20.376 
+
+137.15 
+
+93.30 
+
+Table 3.  Reference Concentration Values for Total Bilirubin in Reconstituted SRM 909b(a) 
+
+Total Bilirubin 
+
+mmol/L 
+
+mg/dL 
+
+Level I 
+Level II 
+
+0.0139     0.0021 
+0.0754    0.0024 
+
+0.81    0.12 
+4.41     0.14 
+
+ 
+ 
+(a) The reference values are the overall means of the measurements made by NIST and two collaborating laboratories, all using the 
+same  reference  method  [18].    The  expanded  uncertainty, U,  is  a  95 %  prediction  uncertainty  for a future measurement.  The 
+expanded uncertainty is calculated as U = kuc, where uc is at the level of one standard deviation and represents the combined 
+effects of between-laboratory components of uncertainty and measurement errors.  The coverage factor k is determined from 
+the Student’s t-distribution corresponding to the appropriate degrees of freedom at the 95 % confidence level. 
+
+Table 4.  Information Values(a) 
+
+Constituent 
+
+Activity/Concentration 
+
+Level I 
+(pH 7.9 @ 22.6 C) 
+
+Level II 
+
+(pH 7.8 @ 22.9 C) 
+
+LDH (lactate dehydrogenase) 
+ALT (L-alanine:2-oxyglutarate aminotransferase) 
+AST (L-aspartate:2-oxyglutarate aminotransferase) 
+ALP (orthophosphoric-monoester phosphohydrolase) 
+CK (creatine kinase) 
+
+145 U/L 
+49 U/L 
+43 U/L 
+86 U/L 
+92 U/L 
+
+480 U/L 
+150 U/L 
+200 U/L 
+410 U/L 
+300 U/L 
+
+ 
+(a) The information values in Table 4 were measured using a conventional clinical analyzer (Technicon Chem 1 System) and are 
+the  means  of  three  determinations.    These  are  confirmation  values  determined  in  the  supplier’s  quality  assurance  laboratory.  
+The enzyme materials used to spike the SRM were as follows:  ALP, chicken intestine; LDH, chicken heart; and ALT, AST, 
+and CK, porcine heart.  All enzyme activities were determined at 37 C. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+SRM 909b 
+
+Page 4 of 6 
+
+Table 5.  Information Concentration Values for Level I 
+ 
+mmol/L 
+
+mg/dL 
+
+0.277 
+
+4.66 
+
+Table 5a.  Information Concentration Values for Level II 
+
+mmol/L 
+
+mg/dL 
+
+Analyte 
+
+ 
+Uric Acid  
+ 
+
+ 
+  Analyte 
+ 
+Uric Acid 
+
+ 
+ 
+ 
+The information values in Tables 5 and 5a are the means of measurements made using a definitive method [13].   
+ 
+ 
+
+12.32 
+
+0.733 
+
+Table 6.  Information Concentration Values(a) 
+
+ 
+Analyte 
+
+ 
+
+ 
+ 
+ 
+(a) See “Fill Mass Correction” on page 2. 
+ 
+
+Uric Acid 
+
+Level I 
+mmol/L/g 
+
+0.3150 
+
+REFERENCES 
+
+Level II 
+mmol/L/g 
+
+0.4852 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G..; Wise, S.; Gills, T.; Colbert, 
+J.;  Gettings,  R.;  MacDonald,  B.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S.  Government 
+Printing 
+at 
+http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm (accessed Feb 2010). 
+[2]  NCCLS;  Development  of  Definitive  Methods  for  the  National  Reference  System  for  the  Clinical  Laboratory, 
+Approved Guideline; NCCLS Publication NRSCL 1-A; National Committee for Clinical Laboratory Standards: 
+Wayne, PA (1991). 
+
+Gaithersburg, 
+
+available 
+
+(2000); 
+
+Office, 
+
+MD 
+
+[3]  Moore,  L.J;  Machlan,  L.A.;  High  Accuracy  Determination  of  Calcium  in  Blood  Serum  by  Isotope  Dilution 
+
+Mass Spectroscopy; Anal. Chem., Vol. 44, p. 2291 (1972). 
+
+[4]  Bowers,  G.N.;  Fassett,  J.D.;  White  V.E.;  Isotope  Dilution  Mass  Spectrometry  and  the  National  Reference 
+
+System; Clin. Chem., Vol. 65, pp. 475R–479R (1993).  
+
+[5]  Velapoldi,  R.A.;  Paule,  R.C.;  Schaffer,  R.;  Mandel,  J.;  Murphy,  T.J.;  Gramlich,  J.W.;  Standard  Reference 
+Materials:  A  Reference  Method  for  the  Determination  of  Chloride  in  Serum;  NBS  Spec.  Pub.  260-67; 
+U.S. Government Printing Office: Washington, DC (1979). 
+
+[6]  Cotlove, E.; Standard Methods of Clinical Chemistry, Vol. 3; Seligson, D., Ed.; Academic Press: NY, Vol. 81 
+
+(1961). 
+
+[7]  Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White V, E.; Determination of Serum Cholesterol by 
+a Modification of the Isotope Dilution Mass Spectrometric Definitive Method; Anal. Chem., Vol. 61, pp. 1718–
+1723 (1989). 
+
+[8]  Welch, M.J.; Cohen, A.; Hertz, H.S.; Ng, K.J.; Schaffer, R.; Van Der Lijn, P.; White V, E.; Determination of 
+Serum Creatinine by Isotope Dilution Mass Spectrometry as a Candidate Definitive Method; Anal. Chem. Vol. 
+58, pp. 1681–1685 (1986). 
+
+[9]  Velapoldi,  R.A.;  Paule,  R.C.;  Schaffer,  R.;  Mandel,  J.;  Machlan,  L.A.;  Gramlich,  J.W.;  Standard  Reference 
+Materials:  A Reference Method for the Determination of Potassium in Serum; NBS Spec. Pub. 260-63 (1979). 
+[10]  Velapoldi,  R.A.;  Paule,  R.C.;  Schaffer,  R.;  Mandel,  J.;  Moody,  J.R.;  A  Reference  Method  for  the 
+ 
+[11]  Ellerbe,  P.;  Sniegoski,  L.T.;  Welch,  M.J.;  Isotope  Dilution  Mass  Spectrometry  as  a  Candidate  Definitive 
+Method  for  Determining  Total  Glycerides  and  Triglycerides  in  Serum;  Clin.  Chem.,  Vol.,  41,  pp.  397–404 
+(1995). 
+
+Determination of Sodium in Serum; NBS Spec. Pub. 260-60 (1978). 
+
+[12]  Welch, M.J.; Cohen, A.; Hertz, H.S.; Ruegg, F.C.; Schaffer, R.; Sniegoski, L.T.; White V, E.; Determination 
+of  Serum  Urea  by  Isotope  Dilution  Mass  Spectrometry  as  a  Candidate  Definitive  Method;  Anal.  Chem., 
+Vol. 56, pp. 713–719 (1984). 
+
+[13]  Ellerbe, P.; Cohen, A.; Welch, M.J.; White V, E.; Determination of Serum Uric Acid by Isotope Dilution Mass 
+
+Spectrometry as a New Candidate Definitive Method; Anal. Chem., Vol. 62, pp. 2173–2177 (1990). 
+
+SRM 909b 
+
+Page 5 of 6 
+
+[14]  U.S. Department of Health and Human Services; Biosafety in Microbiological and Biomedical Laboratories; 
+
+U.S. Government Printing Office: Washington, DC (1988). 
+
+[15]  Thompson,  A.;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication  811;  U.S.  Government  Printing  Office:  Washington,  DC 
+http://physics.nist.gov/Pub/ (accessed Feb 2010). 
+
+available 
+
+(2008); 
+
+[16]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb  2010);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://physics.nist.gov/Pubs/ (accessed Feb 2010).  
+
+[17]  Eberhardt,  K.R.;  Mee,  R.W.;  Reeve,  C.P.;  Computing  Factors  for  Exact  Two-sided  Tolerance  Limits  for  a 
+
+Normal Distribution; Communications in Statistics A, Vol. 18, pp. 397–413 (1989). 
+
+[18]  Doumas, B.T.; Kwok-Cheung, P.P.; Perry, B.W.; Jendrzejczak, B.; McComb, R.B.; Schaffer, R.; Hause, L.L.; 
+Candidate  Reference  Method  for  Determination  of  Total  Bilirubin  in  Serum:  Development  and  Validation; 
+Clin. Chem., Vol. 31, pp. 1779–1789 (1985). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Certificate Revision History:  02 March 2010 (The values for uric acid were decertified and changed to information values for Level I and 
+Level II and editorial revisions); 05 October 2004 (This technical revision reports updated certified values for uric acid); 19 November 2003 
+(This technical revision reports the correction of the uncertainties for bilirubin); 13 December 2002 (This technical revision reports the addition 
+of reference values for total bilirubin); 31 October 1997 (This technical revision reports the decertification of glucose.); 07 May 1996 (Editorial 
+changes); 14 May 1996 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 909b 
+
+Page 6 of 6 
+
+

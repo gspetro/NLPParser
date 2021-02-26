@@ -1,0 +1,179 @@
+﻿National Institute of Standards & Technology 
+ 
+
+Certificate of Analysis 
+
+ 
+Standard Reference Material 2235 
+ 
+Bismuth for Thermal Analysis 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  calibrating  differential  scanning  calorimeters, 
+differential thermal analyzers, and similar instruments.  A unit of SRM 2235 consists of 1.5 g of high purity bismuth 
+in the form of shot with diameters of about 1 mm. 
+ 
+were  measured  in  an 
+Certified Values:  The certified value for the enthalpy of fusion and the fusion temperature were measured in an 
+adiabatic calorimeter.  Complete details of the measurement method are given in reference 1. 
+ 
+
+Enthalpy of Fusion 
+(J/g) 
+
+Fusion Temperature 
+(K) 
+
+53.146  ±  0.082 
+
+544.556  ±  0.005 
+
+ 
+ 
+The  certified  values  were  obtained  from  a  set  of  24  measurements  made  with  an  adiabatic  calorimeter  in  the 
+temperature  range  of  514  K  to  576  K.    The  methods  used  for  determination  of  the  certified  values  are  given  in 
+reference 2.  The temperature was determined with platinum resistance thermometry; the thermometer was calibrated 
+at NIST on the International Temperature Scale of 1990.  The enthalpy of fusion is traceable to NIST calibrations of 
+volt,  time,  and  resistance.    The  uncertainties  assigned  to  the  certified  values  of  the  enthalpy  of  fusion  and  the 
+temperature of fusion were calculated as described in reference 2.  The uncertainties correspond to an expansion factor 
+of 2 (95 % confidence) [3].  
+ 
+Expiration of Certification:  The certification of SRM 2235 is valid, within the measurement uncertainty specified, 
+until  01  August  2025,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+will  notify  the  purchaser. 
+changes occur which affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed  by 
+D.G. Archer formerly of the NIST Applied Chemicals and Materials Division. 
+ 
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NIST
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  07 August 2015 
+Certificate Revision History on Last Page 
+
+  
+
+SRM 2235 
+
+ 
+
+James Fekete, Chief 
+Applied Chemicals and Materials Division 
+
+ 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 2 
+
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Use:  There are different calibration methods for differential scanning calorimetry and differential thermal analysis.  
+This material can be used with those protocols to calibrate the temperature and enthalpy flux scales of a differential 
+scanning calorimeter. 
+ 
+Storage  and  Handling:    The  sample  was  packaged  in  10  mL  glass  bottles  and  the  glass  bottles  were  sealed  in 
+aluminized bags, both under argon in a glove-box.  Bismuth oxidizes in air; therefore, the sample should be stored 
+under an inert gas (e.g. argon or nitrogen) or in a vacuum desiccator.  Bismuth used for a set of measurements for 
+calibration should be discarded after several determinations or if the enthalpy or temperature values begin to drift with 
+subsequent determinations. 
+ 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Archer, D.G.; Rudtsch, S.; Enthalpy of Fusion of Indium: A Certified Reference Material for Differential Scanning 
+
+Calorimetry; J. Chem. Eng. Data, Vol. 48, pp. 1157–1163 (2003). 
+
+[2]  Archer,  D.G.;  Enthalpy  of  Fusion  of  Bismuth:  A  Certified  Reference  Material  for  Differential  Scanning 
+
+Calorimetry; J. Chem. Eng. Data, Vol. 49, pp. 1364–1367 (2004). 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee  for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug  2015);  see  also 
+Taylor,  B.N.;  Kuyatt,  C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2015). 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  07 August 2015 (Change of expiration date; editorial changes); 09 March 2012 (Extension of certification 
+expiration date; editorial revisions); 12 October 2004 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301)  948-3730; 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm 
+
+   
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+fax 
+
+SRM 2235 
+
+ 
+
+Page 2 of 2 
+
+

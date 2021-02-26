@@ -1,0 +1,268 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate
+
+
+
+Standard Reference Material 2088
+
+
+
+Density Standard for Medical Computed Tomography
+
+
+
+Serial Number:  SAMPLE
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in calibrating the density scale of medical computed tomography (CT) machines in the range of the lung.  A unit of SRM 2088 consists of five foam blocks held in place by plastic shrink wrap.
+
+
+
+Certified Values:  Certified density values are provided in Table 1.  Each density is expressed as a certified value  the expanded uncertainty.  The certified mass attenuation coefficient and corresponding expanded uncertainty for four different beam qualities (M80, M100, M120 and M150) are given in Table 2.  In both tables the expanded uncertainty represents a symmetric approximately 95 % credible interval [1] and is consistent with the ISO Guide [2]. 
+
+
+
+Information values:  Radiodensities in Hounsfield units (HU) are provided as information values in Table 3.  The information values are not traceable to the International System of Units (SI) and uncertainties are not provided; however, these values may be of interest to the user.
+
+
+
+Certified and information values are provided for each foam block in the order in which they are packaged, starting with the foam block labeled with the serial number. 
+
+
+
+Expiration of Certification:  The certification of SRM 2088 is valid, within the measurement uncertainty specified, until March 31, 2018, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Handling, Storage and Use”).  This certification will be nullified if the SRM is damaged, contaminated, or modified.
+
+
+
+Maintenance of Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+
+	
+
+Coordination of the technical measurements leading to the certification of this SRM was performed by Z.H. Levine of the NIST Sensor Science Division and H.H. ChenMayer of the NIST Radiation and Biomolecular Physics Division.
+
+
+
+Length measurements were performed by M.P. Braine under the supervision of D.S. Sawyer IV, both of the NIST Semiconductor and Dimensional Metrology Division.  Mass measurements were performed by H.H. ChenMayer and Z.H. Levine under the direction of R. Colle of the NIST Radiation and Biomolecular Physics Division.  Units for this SRM were assembled by H.H. Chen Mayer, Z.H. Levine, and J.T. Fort of the NIST Office of Reference Materials.  Calibration of the CT machine was performed by B.E. Zimmerman of the NIST Radiation and Biomolecular Physics Division; CT scans and analysis of the tomographic reconstruction of SRM 2088 were performed by H.H. ChenMayer and Z.H. Levine.  Calibration of the Xray source and detector was performed by C.M. O’Brien of the NIST Radiation and Biomolecular Physics Division; measurements for Xray attenuation coefficients were performed by H.H. ChenMayer and Z.H. Levine.
+
+
+
+Statistical consultation and analysis was provided A.L. Pintar of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the preparation and issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+	
+
+		Lisa R. Karam, Chief
+
+		Radiation and Biomolecular Physics Division
+
+	
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+	Certificate Issue Date:  15 May 2013	Office of Reference Materials
+
+
+
+
+Table 1.  Certified Density Values 
+
+
+
+					Manufacturer Designation	Density	Coverage Factor, k
+
+		(kg/m3)
+
+						
+
+				FR71SAMPLE	SAMPLE    SAMPLE	2.0
+
+				FR71SAMPLE	SAMPLE    SAMPLE	2.0
+
+				FR71SAMPLE	SAMPLE    SAMPLE	2.0
+
+				FR71SAMPLE	SAMPLE    SAMPLE	2.0
+
+				FR71SAMPLE	SAMPLE    SAMPLE	2.0
+
+							
+
+
+
+Table 2.  Certified Mass Attenuation Coefficient Values
+
+
+
+				X-Ray Beam Quality	Mass Attenuation Coefficient	Coverage Factor, k 
+
+					(m2/kg)	
+
+				
+
+				M80	0.0316    0.0002	1.72
+
+				M100	0.0251    0.0002	2.35
+
+				M120	0.0223    0.0002	2.33
+
+				M150	0.0190    0.0003	2.64
+
+	
+
+	
+
+Table 3.  Information Radiodensity Values
+
+
+
+			Manufacturer Designation	Radiodensity
+
+		(HU)
+
+	
+
+			FR71SAMPLE	SAMPLE
+
+			FR71SAMPLE	SAMPLE
+
+			FR71SAMPLE	SAMPLE
+
+			FR71SAMPLE	SAMPLE
+
+			FR71SAMPLE	SAMPLE
+
+
+
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE 
+
+
+
+Handling:  Care must be exercised when handling this SRM.  The SRM should be handled with clean, dry hands.  The units should be removed from their hard wooden boxes before scanning to avoid creating streak artifacts in the reconstructed images.  The SRM foam blocks are held together by plastic shrink wrap, which should not be removed, because the material is friable.
+
+
+
+Storage:  The SRM should be stored at room temperature in its original wooden box, preferably away from sources of light and heat.  With ordinary care, the dimensions may reasonably be expected to be preserved until the expiration date.  The wooden box may be wiped with a damp cloth.  If the SRM is kept in the box except when in use, it should not need cleaning.  Dust may be removed with a vacuum cleaner similar to the ones used to clean the interior of personal computers.
+
+
+
+Use:  The SRM may be placed in a medical CT; by placing the standard in various locations, changes in the density scale across the field of view may be found.  In the analysis of the images, the user should determine regions in the interior of each foam block and average the results.  The radiodensity values may be found under various circumstances, such as being shielded by cavities or anatomical phantoms [3].
+
+
+
+Supplemental Information:  If the CT is used in a twodimensional (2D) imaging mode, the observed attenuation coefficients will be comparable to the attenuation coefficient measurement in air reported in this certificate.
+
+
+
+
+PREPARATION AND ANALYSIS()
+
+
+
+Material Preparation:  Each SRM consists of five blocks of rigid foam composed principally of polyurethane.  The material was made by the General Plastics Manufacturing Company (Tacoma, WA).  The foam blocks were precisionmachined by The Phantom Laboratory (Salem, NY).  After receipt of the machined foam blocks they were cleaned with a vacuum cleaner similar to the ones used to clean the interior of personal computers, and then the SRM units were assembled.  Figure 1 shows a complete assembled structure.  All materials were chosen to be compatible with the requirements of medical CT.
+
+
+
+	
+
+
+
+Figure 1.  Photograph of the density standard for medical computed tomography packed in its box.  The five blocks of foam are held together by plastic shrink wrap.
+
+
+
+Certification Method:  The lengths and volumes of fifteen selected foam blocks (three from each of five density classes) were certified by the NIST Dimensional Metrology Group using a contact probe.  The contact force was adjusted to ensure that the material did not flake or dent in this process.  The mass was obtained by weighing in an analytical balance with calibrated weights.  The blocks were passed through a device to remove electrostatic charge immediately before weighing.  Together, the mass and volume were used to obtain the mass density.  The full set of foam blocks was scanned with a Philips Brilliance 16 medical CT (Andover, Massachusetts), which yielded HU values.  These values are not SI traceable, but are reported here as information values.  However, the HU values were highly linearly correlated with the SItraceable mass density obtained previously, leading to SI-traceable mass density values for all foam blocks.
+
+
+
+The mass attenuation coefficients were obtained by performing measurements on a random selection of three packaged units, each containing five foam blocks of unique density classes.  The transmission of the Xray intensity of the foam blocks was measured using each of the four beam qualities with a Radcal Reference Class CT ionization chamber (Monrovia, California).  The linear attenuation coefficient was determined by the ratio of the intensity of the direct beam to the intensity of the attenuated beam using the Beer–Lambert law, and the path length along the Xray beam was obtained as a lot average.  The thin sample approximation was made; the detector energy response to the given beam quality was not unfolded.  The mass attenuation coefficient was obtained by the ratio of the linear attenuation coefficient to the mass density previously determined; by the same statistical principle as the mass density determination, the linear attenuation coefficient obtained from the subset of samples can be used to represent the entire set of blocks in this SRM.
+
+
+
+Calibration Traceability:  Traceability to SI was established as follows:  For length, area, and volume, it was established through the use of a high accuracy laser micrometer on fifteen foam blocks selected at random.  For mass, it was done by weighing the foam blocks on an electromagnetic balance after calibration using certified masses.  For density, it was done by dividing SI-traceable mass by SI-traceable volume for fifteen foam blocks.  The calibration was expanded to all of the foam blocks in this SRM by correlation with readings from the medical CT.  For Xray attenuation in air, it was established by using the beam qualities M80, M100, M120, and M150 generated by the NIST XRay Standards Facility [4].
+
+
+
+
+
+REFERENCES 
+
+
+
+	[1]	Gelman, A.; Carlin, J.J.; Stern, H.S.; Rubin, D.B.; Bayesian Data Analysis; Chapman and Hall: London (1995).
+
+	[2]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed May 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed May 2013).
+
+	[3]	Levine, Z.H.; Li, M.; Reeves, A.P.; Yankelevitz, D.F; Chen, J.J.; Siegel, E.L.; Peskin, A.; Zeiger, D.N.; A LowCost Density Reference Phantom for Computed Tomography; Med Phys.; Vol. 36, pp. 286–288 (2009). 
+
+	[4]	NIST XRay and GammaRay Measuring Instruments,
+available at http://www.nist.gov/calibrations/x-gamma-ray.cfm (accessed May 2013).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+	
+
+
+
+			SRM 2088	Page 1 of 4

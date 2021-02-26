@@ -1,0 +1,521 @@
+﻿Nattonal  Institute  of  Standards  &  Technology 
+
+Certificate  of  Analysis 
+Standard  Reference  Material  1598 
+
+Inorganic  Constituents  in  Bovine  Serum 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  calibrating  instrumentation  and  evaluating 
+the  accuracy  of  analytical  methods  for  selected  elements  in  blood  serum,  plasma,  and  similar  biological  fluids. 
+SRM  1598  consists  of  two  capped  polypropylene  vials,  each  containing  5  to  6  mL  of  bovine  serum. 
+
+rti 
+
+i 
+
+The  certified  concentrations  of  the  con- 
+stituent  elements  are  shown  in  Table  1.  These  concentrations  are  based  on  the  agreement  of  results  by  at  least 
+two  independent  analytical  methods.  Noncertified  concentrations,  which  are  given  for  information  only,  appear 
+in  Table  2.  Methods  used  for  the  determination  and  certification  of  the  certified  elements  are  shown  in  Table 3. 
+
+; 
+
+i 
+
+ions 
+
+Notice  and  Warnings  to  Users: 
+
+irati 
+
+ion;  This  certification  will  be  invalid  after  one  year  from  the  date  of  shipment.  Should  it 
+be  invalidated  before  then,  users  will  be  notified  by  National  Institute  of  Standards  &  Technology  (NIST).  Please 
+return  the  attached  registration  card  to  facilitate  notification. 
+
+i 
+
+storage:  The  material  should  be  stored  in  its  original  containers  at  -20  °C  or  below.  A  "frost-free"  type  freezer 
+should  not  be  used.  SRM  1598  should  not  be  exposed  to  intense  sources  of  radiation,  including  ultraviolet  lamps 
+or  sunlight.  For  long  term  storage,  we  recommend  sealing  in  a  plastic  bag  containing  ice  cubes  to  maintain  100% 
+humidity. 
+
+Use;  The  frozen  serum  should  be  thawed  at  room  temperature  and  mixed  thoroughly  by  inverting  the  vial  scveral 
+times  before  use.  Vials  should  be  opened  only  in  a  clean  area  with  precautions  taken  against  contamination  during 
+sampling.  We  recommend  weighing  rather  than  pipetting  samples  for  analysis  because  of  the  viscous  nature  of 
+the  serum.  The  minimum  recommended  sample  size  is  250  mg  (see  section  on  Homogeneity). 
+
+SRM  1598  IS  INTENDED  FOR  "IN  VITRO"  DIAGNOSTIC  USE  ONLY! 
+
+Coordination  of  the  technical  measurements  by  members  of  NIST  Inorganic  Analytical  Research  Division  was 
+performed  by  H.M.  Kingston  of  that  Division;  coordination  of  the  technical  measurements  by  cooperating  analysts 
+was  performed  by  C.  Veillon  of  the  U.S.  Department  of  Agriculture,  Beltsville,  MD. 
+
+Statistical  analysis  of  the  experimental  data  was  performed  by  S.B.  Schiller  of  NIST  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  certification  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  Robert  Alvarez. 
+
+Gaithersburg,  MD  20899 
+January  31,  1990 
+(Revision  of  certificate  dated  1-10-89) 
+
+William  P.  Reed,  Acting  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+Table  1.  Certified  Concentrations  of  Constitutent  Elements 
+
+Element* 
+
+Copper 
+Tron 
+Magnesium 
+Potassiumc 
+Rubidium 
+Zinc  . 
+
+Element* 
+
+Aluminum 
+Cadmium 
+Chromium 
+Cobalt 
+Manganese 
+Molybdenum 
+Selenium 
+
+ug/g” 
+Concentration, 
+
+0.72 
+2.55 
+20.0 
+196 
+
+0.17 
+0.89 
+
++ 
++ 
++ 
++ 
++ 
++ 
+
+0.04 
+0.10 
+04 
+5 
+0.02 
+0.06 
+
+ng/g” 
+Concentration, 
+
+3.7 
++ 
+0.089  + 
++ 
+0.14 
++ 
+1.24 
++ 
+3.78 
++ 
+11.5 
++ 
+424 
+
+0.9 
+0.016 
+0.08 
+0.18 
+0.32 
+11 
+3.5 
+
+a  Methods  used  for  the  determination  and  certification  of  each  element  are  shown  in  Table  3. 
+b  The  certified  concentrations  are  equally  weighted  means  of  results  from  two  or  more  analytical  methods.  To  convert  concentrations  from 
+Us/e  or  ng/g,  to  ug/mL  or  ng/mL,  respectively,  multiply  by  the  density  of  the  serum,  1.029  g/mL  at  23  °C. 
+c  The  stated  uncertainty  of  the  K  concentration  is  based  on  results  obtained  in  three  laboratories  by  two  different  methods,  neither  of  which  is 
+either  the  reference  method  or  the  definitive  method  as  defined  by  the  National  Committee  for  Clinical  Laboratory  Standards.  (See  tabic  3). 
+is  certified  with  a  smaller  uncertainty  in  freeze-dried  Human  Serum,  SRM  909,  based  on  the  “definitive  method"  isotope  dilution  mass 
+spectrometry. 
+
+K 
+
+The  stated  uncertainty  includes  allowances  for  measurement  imprecision,  material  inhomogeneity,  and  differences 
+among  analytical  methods.  Each  uncertainty  is  computed  from  a  95%  prediction  interval  and  an  allowance  for 
+systematic  error  among  the  methods  used,  combined  as  the  square  root  of  the  sum  of  their  squares.  In  the  absence 
+of  systematic  error,  the  prediction  intervals  used  have  the  following  statistical  property:  95%  is  the  statistical 
+expectation  of  the  percentage  of  all  samples  of  this  SRM  having  concentrations  within  the  stated  uncertainty 
+limits. 
+
+Table  2.  Noncertified  Concentrations  of  Constituent  Elements 
+
+Elements  other  than  those  certified  are  present  in  this  material.  Those  that  were  determined  but  not  certified 
+are  given  as  additional  information  on  the  composition. 
+
+Element 
+
+Concentration,  mg/g 
+
+Concentration, ng/g 
+
+Calcium 
+Sodium 
+
+(0.09) 
+(3) 
+
+Element 
+
+Arsenic 
+Cesium 
+Lead 
+Mercury 
+Nickel 
+Thallium 
+Vanadium 
+
+(0.2) 
+(0.1) 
+(0.6) 
+(0.2) 
+(0.7) 
+(0.4) 
+(0.06) 
+
+Anal 
+-  Inorganic  Analytical  Research  Division 
+
+NIST 
+
+for 
+
+i 
+
+mi 
+
+1,  ES.  Beary 
+2.  T.A.  Butler 
+3.  M.S.  Epstein 
+4.  R.R.  Greenberg 
+5.  H.M.  Kingston 
+6.  PJ.  Paulsen 
+*7,  PLA,  Pella 
+
+*  Gas  and  Particulate  Science  Division 
+
+8.  K.W.  Pratt 
+9.  T.C.  Rains 
+10.  T.M.  Sullivan 
+11.  G.C.  Turk 
+12.  LJ.  Yu  (Guest  Scientist) 
+13. 
+
+R.  Zeisler 
+
+~2-
+
+rating 
+
+Anal 
+
+14.  N.J,  Miller-Tbli  and  S.A.  Lewis,  Beltsville  Human  Nutrition  Research  Center,  U.S.  Department  of  Agriculture, 
+Beltsville,  MD. 
+
+15. 
+
+E.  Pruszkowski,  ICP-Mass  Spectrometry  Applications  Laboratory,  Perkin-Elmer  Corporation,  Norwalk,  CT. 
+
+16.  M.  Stoeppler,  Nuclear  Research  Institute, 
+
+Julich,  Federal  Republic  of  Germany. 
+
+C.  Veillon,  and  K.  Patterson,  Beltsville  Human  Nutrition  Research  Center,  U.S.  Department  of  Agriculture, 
+
+17. 
+Beltsville,  MD. 
+
+18. 
+J.  Versieck,  L.  Vanballenberghe,  and  G.A.  DeKesel,  Department  of  Internal  Medicine,  Division  of 
+Gastroenterology,  University  Hospital,  Ghent,  Belgium;  and  Laboratory  for  Analytical  Chemistry,  University 
+Institute  for  Nuclear  Sciences,  Ghent,  Belgium. 
+
+Analytical  Methods  and  Codes  Used  for  the  Determination  of  Certified  Elements  (See  Table  3) 
+
+Code 
+
+EAAS 
+FAAS 
+HAAS 
+
+DCPAES 
+FAES 
+
+DPASV 
+POLAR 
+
+LEIS 
+
+IDGCMS 
+ICPMS 
+IDICPMS 
+
+PNAA 
+INAA 
+RNAA 
+
+Method 
+
+Atomic  Absorption  Spectrometry 
+
+Electrothermal 
+Flame 
+Hydride  Generation 
+
+Atomic  Emission  Spectrometry 
+
+Direct  Current  Plasma 
+Flame 
+
+Electrochemical 
+
+Differential  Pulse  Anodic  Stripping  Voltametry 
+Polarography 
+
+Ionization  Spectrometry 
+
+Laser-Enhanced  (Chelation  Separation) 
+
+Mass  Spectrometry 
+
+Gas  Chromatography,  Quadrupole,  Isotope  Dilution 
+Inductively  Coupled  Plasma 
+Inductively  Coupled  Plasma,  Isotope  Dilution 
+
+Neutron  Activation  Analysis 
+
+Preirradiation  Chelation  Separation 
+Instrumental 
+Radiochemical 
+
+Preparation  of  Material:  The  bovine  serum  was  prepared  under  the  direction  of  C.  Veillon,  Beltsville  Human 
+Nutrition  Research  Center,  U.S.  Department  of  Agriculture,  Beltsville,  MD.,  as  described  previously  (1,2). 
+
+In  this  procedure,  blood  was  collected  from  four  unconscious  dairy  cows  under  carefully  controlled  conditions  to 
+minimize  contamination.  The  blood  was  centrifuged  and  the  separated  serum  was  combined  in  a  single  container 
+and  mixed  continuously  while  aliquoting  into  individual  polypropylene  vials  (5-6  mL/vial).  The  vials  were  capped, 
+labeled,  bagged  with  ice  cubes  to  maintain  100%  humidity,  and  stored  at  -20  °C. 
+Vials  were  selected  at  random 
+for  analysis. 
+
+All  operations,  except  the  initial  collection  and  centrifugation  in  sealed  bottles,  were  carried  out  in  a  Class-100 
+area  of  a  clean  room.  Prior  to  filling  with  serum,  the  vials  had  been  soaked  for  two  weeks  in  5%  nitric  acid, 
+
+“3-
+
+rinsed  with  deionized  water,  and  dried  by  lyophilization  in  a  plastic  chamber  known  to  be  free  of  trace  element 
+contamination. 
+
+Homogeneity:  Homogeneity  of  SRM  1598  was  examined  as  part  of  the  analytical  program  for  certification  by 
+For  the  determination  of  Co  and  Se  by  electrothermal  atomic  absorption 
+analyzing  randomly  selected  vials. 
+spectrometry,  approximately  200  ug  was  used. 
+No  evidence  of  material  inhomogeneity  was  found  for  these 
+determinations  or  for  other  elemental  determinations  where  larger  samples  were  used.  A  minimum  sample  size 
+of  250  mg  is  recommended. 
+
+References 
+
+(1.)  Veillon,  C.;  Patterson,  K.Y.;  and  Reamer,  D.C.  "Biological  Reference  Materials",  Wolf,  W.R.  Ed.;  Wiley,  New 
+York,  1985. 
+
+(2.)  Veillon,  C.;  Lewis,  S.A.;  Patterson,  K.Y.;  Wolf,  W.R.;  Harnly,  J.M.;  Versieck,  J.;  Vanballenberghe,  L.;  Cornelis, 
+Characterization  of  a  Bovine  Serum  Reference  Material  for  Major,  Minor,  and  Trace 
+R.;  and  O’Haver,  T.C. 
+Elements.  Anal.  Chem.  57:  2106-2109;  1985. 
+
+-4-
+
+Method 
+
+FAAS 
+
+HAAS 
+
+DCPAES 
+
+FAES 
+
+Table  3.  Determination  of  Certified  Elements  Analytical  Methods  and  Analysts  - 
+
+  
+
+Cd 
+
+Co 
+
+Cr 
+
+Cu 
+
+Mn 
+
+Mo 
+
+Rb 
+
+*Se 
+
+, 
+
+Fe 
+
+K 
+
+| 
+
+Mg 
+
+  
+
+  
+
+2,9. 
+12,14 
+
+16 
+
+14,17 
+
+2,9, 
+12 
+
+14 
+
+14 
+
+  
+
+  
+
+14 
+
+14 
+
+14 
+
+  
+
+  
+
+3,14 
+
+2,9, 
+12 
+
+  
+
+DPASV 
+
+16 
+
+16 
+
+17 
+
+JLEIS 
+
+5,11 
+
+ICPMS 
+
+POLAR 
+
+TIDGCMS 
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+    PNAA 
+   4,13 
+  
+  
+  
+  
+ 
+  
+
+410,18   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+IDICPMS 
+
+13,18 | 
+
+RNAA 
+
+INAA 
+
+13,18 
+
+13,18 
+
+45 
+
+45 
+
+13,18 
+
+13,18 
+
+4,10 
+
+4,10 
+
+1,6 
+
+1,6 
+
+4,5 
+
+18 
+
+is 
+
+18 
+
+17 
+
+*  Single  value  (42  ng/g)  by  total  reflection  x-ray  fluorescence  spectrometry  (P.A.  Pella)  agreed  with  results  by  other  methods. 
+
+16 
+
+14 
+
+16 
+
+

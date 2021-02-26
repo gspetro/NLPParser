@@ -1,0 +1,311 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+	Standard Reference Material 3264
+
+	
+
+St. John's Wort (Hypericum perforatum L.) Methanol Extract
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in validating analytical methods for the determination of chlorogenic acid, flavonoids, naphthodianthrones, and toxic elements in methanol extracts of Hypericum perforatum L. and similar materials.  This SRM can also be used for quality assurance when assigning values to inhouse control materials.  A unit of SRM 3264 consists of five heat-sealed aluminized pouches, each containing approximately 1.6 g of material.
+
+
+
+The development of SRM 3264 was a collaboration among the National Institute of Standards and Technology (NIST); the National Institutes of Health (NIH) Office of Dietary Supplements (ODS); and the Food and Drug Administration (FDA) Center for Drug Evaluation and Research (CDER). 
+
+
+
+Certified Mass Fraction Values:  The certified mass fraction values for toxic elements in SRM 3264, reported on a dry-mass basis, are provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses for value assignment were performed by NIST, and certified values were calculated as the mean of the mean values from NIST methods.  The associated uncertainties are expressed at an approximately 95 % level of confidence [2–4].  
+
+
+
+Reference Mass Fraction Values:  Reference mass fraction values for chlorogenic acid, flavonoids, and naphthodianthrones in SRM 3264, reported on a dry-mass basis, are provided in Table 2.  A NIST reference value is a noncertified value that is the best estimate of the true value based on available data; however, the value does not meet the NIST criteria for certification [1] and is provided with associated uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  The reference mass fraction values were derived from results reported by NIST.  
+
+
+
+Expiration of Certification:  The certification of SRM 3264 is valid, within the measurement uncertainty specified, until 01 July 2025, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Coordination of the technical measurements leading to the certification of this SRM was performed by C.A. Rimmer, K.E. Sharpless, and L.J. Wood of the NIST Chemical Sciences Division.
+
+					
+
+Analytical measurements at NIST were performed by K.D. Chieh, K.E. Murphy, M.A. Nelson, R.L. Paul, M.M. Phillips, B.J. Porter, and L.J. Wood of the Chemical Sciences Division.
+
+
+
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division.
+
+	
+
+	
+
+	
+
+		Carlos A. Gonzalez, Chief
+
+		Chemical Sciences Division
+
+		
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+	Certificate Issue Date:  18 August 2015	Office of Reference Materials
+
+
+
+
+Support for this SRM was provided in part by the NIH ODS and the FDA CDER.  Technical consultation from these agencies was provided by J.M. Betz (NIH ODS) and A. NguyenPho (FDA CDER).  Acquisition and preparation of the material was coordinated by A. NguyenPho of FDA CDER and K.E. Sharpless. 
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+NOTICE AND WARNING TO USERS
+
+
+
+SRM 3264 IS INTENDED FOR LABORATORY USE ONLY, NOT FOR HUMAN CONSUMPTION.
+
+
+
+INSTRUCTIONS FOR STORAGE AND USE
+
+
+
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C), in its original unopened packets, until required for use.  For elemental analyses, the packet can be resealed and test portions removed and analyzed until the material reaches its expiration date.  The certified results for chlorogenic acid, flavonoids, and naphthodianthrones in SRM 3264 are valid only if the packet is resealed and test portions removed and analyzed for up to two months after initial opening.  
+
+
+
+Use:  Before use, gently shake the unopened packet to ensure the contents are mixed thoroughly.  Allow the contents to settle for one minute prior to opening to minimize the loss of fine particles.  For certified and reference values to be valid, minimum test portions of the following masses should be used:  0.1 g for chlorogenic acid, flavonoids, and naphthodianthrones analysis and 0.7 g for elemental analysis.  Analytical results should include their own estimates of uncertainty and can be compared to the certified and reference values using procedures described in reference 5.  The moisture conversion factor can be used for the sample(s) when using an unopened packet for the first time.  If using a previously opened and resealed packet, moisture must be determined using one of the recommended techniques (see “Determination of Moisture”). 
+
+
+
+Determination of Moisture:  Moisture content of SRM 3264 was determined at NIST by (1) freeze-drying to constant mass over 7 d, (2) drying over magnesium perchlorate in a desiccator at room temperature for 14 d; and (3) drying for 1 h in a forced-air oven at 70 °C.  Unweighted results obtained using all three techniques were averaged to determine a conversion factor of (0.9908  0.0037) gram dry-mass per gram as-received mass, which was used to convert data from an as-received to a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty.  An uncertainty component for the conversion factor (0.19 %) obtained from the moisture measurements is incorporated in the uncertainties of the certified and reference values, reported on a dry-mass basis, that are provided in this certificate.
+
+
+
+SOURCE, PREPARATION, AND ANALYSIS()
+
+
+
+Source and Preparation:  The SRM is a methanol extract of St. John’s Wort (Hypericum perforatum L.) purchased from a commercial source.  The material was shipped to HighPurity Standards (Charleston, SC) where it was blended, aliquoted, and heat-sealed inside nitrogen-flushed 4 mil polyethylene bags, which were then sealed inside nitrogen-flushed aluminized plastic bags along with two packets of silica gel each.
+
+
+
+NIST Analyses for Chlorogenic Acid, Flavonoids, and Naphthodianthrones by Liquid Chromatography (LC) with Absorbance and Fluorescence Detection:  Value assignment of the mass fractions of chlorogenic acid, flavonoids, and naphthodianthrones in SRM 3264 was based on measurements provided by NIST using LC with absorbance and/or fluorescence detection.  Approximately 100 mg portions of SRM 3264 were combined with an aliquot of internal standard (rhodamine 6G) solution and were dissolved in methanol with the aid of ultrasonic agitation before analysis by LC.  A C18 column and a gradient method with mobile phase consisting of aqueous 0.5 % triethylamine (volume fraction) adjusted to pH 4.5 with acetic acid (A) and acetonitrile (B) were used.  All compounds were monitored by absorbance at 325 nm; absorbance at 340 nm was monitored for chlorogenic acid, rutin, hyperoside, isoquercitrin, and quercitrin; and absorbance at 590 nm was monitored for hypericin and pseudohypericin.  Fluorescence was also monitored for hypericin and pseudohypericin at an excitation wavelength of 470 nm and an emission wavelength of 590 nm.  Additional method details and a typical chromatogram are provided in Figure 1.  Calibrants were prepared gravimetrically, at levels intended to approximate levels of the analytes in the extracts of the SRM.  A single internal standard solution was used for calibrants and samples.
+
+
+
+NIST Analyses for Cd and Pb by ID ICP-MS:  Value assignment of the mass fractions of cadmium and lead in SRM 3264 was based on measurements provided by NIST using isotope dilution inductively coupled plasma mass spectrometry (ID ICPMS).  Duplicate, nominal 0.7 g test portions were taken from each of six packets of SRM 3264.  Samples were spiked with isotopically enriched 206Pb and 111Cd and were digested in nitric acid using a microwave sample preparation system.  Digests were transferred to plastic bottles and diluted with the appropriate volume of 2 % (volume fraction) nitric acid.  Lead was measured by ICP-MS in standard mode, whereas cadmium was measured in collision cell/kinetic energy discrimination mode.  The use of ID ICP-MS for the accurate measurement of Cd and Pb has been described in detail [6,7].
+
+
+
+Homogeneity Assessment:  The homogeneity of chlorogenic acid, flavonoids, naphthodianthrones, and elements was assessed at NIST using the methods and test portion sizes described above.  Based on statistical analysis of analytical results from NIST, and allowing for potential uncertainty for material heterogeneity, the uncertainty for lead incorporates an additional component for possible heterogeneity.  
+
+
+
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value, reported on a dry-mass basis, is the mean from analyses by ID ICP-MS performed at NIST.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  The expanded uncertainty is calculated as U = kuc, where uc incorporates the uncertainty of the single method estimate used consistent with the ISO/JCGM Guide, and k is a coverage factor corresponding to approximately 95 % confidence [2].  The uncertainty for Pb incorporates an additional component for possible heterogeneity.  The measurands are the mass fractions of elements in a methanol extract of St. John’s Wort (Hypericum perforatum L.).  The certified values are metrologically traceable to the SI unit for mass, expressed as micrograms per kilogram.
+
+
+
+Table 1.  Certified Mass Fraction Values for Elements in SRM 3264
+
+																
+
+																Mass Fraction
+(µg/kg)
+
+																Coverage Factor, k
+
+																Cadmium (Cd)
+
+																				41.64		0.53
+
+																2.00
+
+																Lead (Pb)
+
+																				30.3		1.8
+
+																2.57
+
+	
+
+
+
+Reference Mass Fraction Values for Chlorogenic Acid, Flavonoids, and Naphthodianthrones:  Each reference mass fraction value, reported on a dry-mass basis, is the mean of results from NIST analyses by LC with absorbance and/or fluorescence detection.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  The expanded uncertainty is calculated as U = kuc, where uc represents the combined uncertainty consistent with the ISO/JCGM Guides and k is a coverage factor corresponding to approximately 95 % confidence [2-4].  The measurands are the mass fractions of chlorogenic acid, flavonoids, and naphthodianthrones in a methanol extract of St. John’s Wort (Hypericum perforatum L.) based on the method indicated.  The reference values are metrologically traceable to the SI unit for mass, expressed as milligrams per gram.
+
+
+
+Table 2.  Reference Mass Fraction Values for Chlorogenic Acid, Flavonoids, and Naphthodianthrones in SRM 3264
+
+																
+
+																Mass Fraction
+
+																(mg/g)
+
+																Coverage Factor, k
+
+																Chlorogenic Acid(a)
+
+																				1.050		0.059
+
+																2.09
+
+																Rutin(a)
+
+																				34.3		1.7
+
+																2.09
+
+																Hyperoside(a)
+
+																				17.66		0.88
+
+																2.09
+
+																Isoquercitrin(a)
+
+																				9.47		0.46
+
+																2.09
+
+																Quercitrin(a)
+
+																				3.23		0.16
+
+																2.09
+
+																Hypericin(a,b)
+
+																				0.439		0.017
+
+																2.00
+
+																Pseudohypericin(a,b)
+
+																				0.809		0.031
+
+																2.00
+
+	(a)	NIST LC-absorbance
+
+	(b)	NIST LC-fluorescence
+
+
+
+				
+
+				
+
+
+ 
+
+
+
+Figure 1.  Chromatograms showing separation and detection of chlorogenic acid, flavonoids, and naphthodianthrones in SRM 3264 using LC with absorbance and fluorescence detection.  For this method, a Luna 5µ C18 column (250 mm × 4.6 mm, 5 µm particle size; Phenomenex, Torrance, CA) was held at 40 °C.  The separation was performed using a gradient consisting of aqueous 0.5 % triethylamine (volume fraction) adjusted to pH 4.5 with acetic acid (A) and acetonitrile (B).  Absorbance and fluorescence detection were utilized as described in the text and within the figure.
+
+				
+
+
+	REFERENCES
+
+
+
+	[1]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office: Washington, DC (2000); available at http://www.nist.gov/srm/upload/SP260136.PDF (accessed Aug 2015).
+
+	[2]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; (GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Aug 2015); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2015).
+
+	[3]	JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the “Guide to the Expression of Uncertainty in Measurement”  Propagation of Distributions using a Monte Carlo Method; JCGM (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Aug 2015).
+
+	[4]	Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993).
+
+	[5]	Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC Int., Vol. 91, pp. 1298–1302 (2008).
+
+	[6]	Murphy, K.E.; Vetter, T.W.; Recognizing and Overcoming Analytical Error in the Use of ICP-MS for the Determination of Cadmium in Breakfast Cereal and Dietary Supplements; Anal. Bioanal. Chem., Vol. 405, pp. 4579–4588 (2013). 
+
+	[7]	Murphy, K.E.; Beary, E.S.; Rearick, M.S.; Vocke, R.D.; Isotope Dilution Inductively Coupled Plasma Mass Spectrometry (ID ICP-MS) for the Certification of Lead and Cadmium in Environmental Standard Reference Materials; Fresenius J. Anal. Chem., Vol. 368, pp. 362–370, 2000.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+	SRM 3264	Page 5 of 5

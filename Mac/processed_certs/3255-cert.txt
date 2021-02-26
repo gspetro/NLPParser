@@ -1,0 +1,713 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3255 
+ 
+Green Tea (Camellia sinensis) Extract 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of catechins, xanthines, and elements in extracts of green tea (Camellia sinensis) and similar matrices.  
+SRM 3255  can  also  be  used  for  quality  assurance  when  assigning  values  to  in-house  control  materials.   A  unit  of 
+SRM 3255 consists of five packets, each containing approximately 1 g of extract. 
+ 
+The  development  of  SRM 3255  was  a  collaboration  among 
+the  National  Institute  of  Standards  and 
+Technology (NIST), the National Institutes of Health Office of Dietary Supplements (NIH-ODS), and the Food and 
+Drug Administration Center for Drug Evaluation and Research (FDA CDER). 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values of catechins, xanthines, and elements in SRM 3255, 
+reported on a dry-mass basis, are provided in Tables 1 and 2.  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken 
+into account [1].  Analyses for value assignment were performed by NIST and collaborating laboratories.  Certified 
+values of catechins and xanthines are the equally weighted means of the individual sets of results; certified values for 
+elements were calculated as the mean of the mean values from NIST methods and the median of the means of results 
+provided  by  collaborating  laboratories,  where  appropriate.    The  associated  uncertainties  are  expressed  at  an 
+approximately 95 % level of confidence [2–4].   
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for epigallocatechin methylgallate, gallic acid, 
+theanine, theophylline, and additional elements in SRM 3255, reported on a dry-mass basis, are provided in Tables 3 
+and 4.  A NIST reference value is a noncertified value that is the best estimate of the true value based on available 
+data; however, the values do not meet the NIST criteria for certification [1] and are provided with an uncertainty that 
+may reflect only  measurement reproducibility,  may  not include all sources of uncertainty, or may reflect a lack of 
+sufficient statistical agreement among multiple analytical methods.  The reference mass fraction values were derived 
+from results reported by NIST or collaborating laboratories. 
+ 
+Expiration of Certification:  The certification of SRM 3255 is valid, within the measurement uncertainty specified, 
+until  30 June 2027,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+i,  contaminated,
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by C.A. Rimmer, 
+L.J. Wood, L.C. Sander, and S.A. Wise of the NIST Chemical Sciences Division; K.E. Sharpless of the NIST Special 
+Programs Office; and W. Koshute and B. St. Amant of the Grocery Manufacturers Association (GMA, Washington, DC). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  09 February 2018 
+Certificate Revision History on Page 6 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+3torage  and  Use”) 
+
+ 
+
+Page 1 of 7 
+
+  
+
+SRM 3255 
+
+55 
+
+Foods 
+
+Support  for  the  development  of  SRM 3255  was  provided  in  part  by NIH-ODS  and FDA CDER.    Technical 
+consultation was provided by J.M. Betz (NIH-ODS) and A. Nguyen Pho (FDA CDER).  Acquisition of the material 
+was coordinated by A. Nguyen Pho of FDA CDER and K.E. Sharpless of the NIST Special Programs Office.  
+ 
+Analytical measurements were performed by M. Bedner, K.E. Murphy, B.J. Porter, M.C. Tims, and L.J. Wood of the 
+NIST  Chemical  Sciences  Division  and  M. Payne  at  Hershey  Foods  Corporation  (Hershey, PA)  and  M. Roman  at 
+Tampa Bay Analytical Research, Inc. (Largo, FL). 
+ 
+Coordination of the distribution of materials and reporting of measurement results for an interlaboratory comparison 
+exercise were performed by M.M. Phillips and L.J. Wood of the NIST Chemical Sciences Division and by W. Koshute 
+and B. St. Amant of the GMA. Analysts at the following laboratories performed measurements that contributed to the 
+value  assignment  of  elements  in  SRM 3255  as  part  of  a  GMA  Food  Industry  Analytical  Chemists  Share  Group 
+(FIACSG)  interlaboratory  comparison  exercise:  Campbell  Soup  Company  (Camden, NJ);  ConAgra  Foods 
+(Omaha, NE); Covance Inc. (Battle Creek, MI); Covance Inc. (Madison, WI); Covance (Asia) Pte. Ltd. (The Synergy, 
+Singapore); Covance Inc. (Harrogate North Yorkshire, UK); Del Monte Foods (Walnut Creek, CA); Eurofins Central 
+Analytical Laboratories (Metairie, LA); Eurofins Frontier Global Sciences (Bothell, WA); Eurofins Scientific (Des 
+Moines, IA); Eurofins WEJ Contaminants GmbH (Hamburg, Germany); Land O’ Lakes (Arden Hills, MN); and NSF 
+International (Ann Arbor, MI).   
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE TO USERS: SRM 3255 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C) in the original unopened packet 
+until needed.  For elemental analyses, the packet can be re-sealed and test portions removed and analyzed until the 
+material reaches its expiration date.  The stability of catechins, xanthines, and theanine in opened packets has not been 
+investigated.  
+ 
+Use:  Before use, the contents of a packet of material should be mixed thoroughly.  To relate analytical determinations 
+to the certified values in this Certificate of Analysis, the test portion mass indicated in the description of the NIST 
+analyses for each group of analytes below should be used (see “Source, Preparation, and Analysis”).  Test portions 
+should be analyzed as received and results converted to a dry-mass basis.  The moisture conversion factor given below 
+(see “Determination of Moisture”) can be used for the sample(s) when using an unopened packet for the first time. If 
+using a previously opened and resealed packet, moisture must be determined using one of the recommended techniques 
+(see “Determination of Moisture”).  Analytical results should include their own estimates of uncertainty and can be 
+compared to the certified and reference values using procedures described in reference 6. 
+ 
+Determination of Moisture:  Moisture content of SRM 3255 was determined at NIST by (1) freeze-drying to constant 
+mass over 7 days; (2) drying over magnesium perchlorate in a desiccator at room temperature for 28 d; and (3) drying 
+for  2 h  in  a  forced-air  oven  at  80 °C.    Unweighted  results  obtained  using  all  three  techniques  were  averaged  to 
+determine a conversion factor of (0.9687 ± 0.0055) gram dry-mass per gram as-received mass,  which  was used to 
+convert data from an as-received to a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty 
+(k = 2) to represent a 95 % level of confidence.  An uncertainty component for the conversion factor (0.28 %) obtained 
+from the moisture measurements is incorporated in the uncertainties of the certified and reference values, reported on 
+a dry-mass basis, that are provided in this certificate. 
+ 
+SOURCE, PREPARATION AND ANALYSIS(1) 
+ 
+Source and Preparation:  The material for production of SRM 3255 is a green tea extract of 90 % polyphenols. The 
+material was prepared by first extracting dried green tea leaves in 50 % alcohol/water (volume fraction), filtering and 
+vacuum evaporating.  The next extraction step was in ethyl acetate followed again by vacuum extraction then spray 
+drying.   The  material  was  blended  and  received  as  nominally  180 μm  (80 mesh)  particle  size  and  was  packaged 
+
+d  thoroughly 
+
+                                                 
+
+(1)Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+SRM 3255 
+
+Page 2 of 7 
+
+without  additional  grinding.    The  extract  was  transferred  to  High-Purity Standards  (Charleston, SC)  where  it  was 
+blended, aliquoted, and heat-sealed inside nitrogen-flushed 4 mil polyethylene bags, which were then sealed inside 
+nitrogen-flushed aluminized plastic bags along with two packets of silica gel each.  Following packaging, SRM 3255 
+was irradiated (Neutron Products, Inc., Dickerson, MD) to an absorbed dose of 7.9 kGy to 9.5 kGy.   
+ 
+Analytical Approach for Determination of Catechins, Gallic Acid, Xanthines, and Theanine:  Value assignment 
+of  the  mass  fractions  of  the  catechins,  gallic  acid,  and  xanthines  in  SRM 3255  was  based  on  the  combination  of 
+measurements provided by NIST using liquid chromatography (LC) with ultraviolet absorbance detection (UV) and 
+LC  with  mass  spectrometry (MS),  and  by  data  provided  by  collaborating  laboratories  using  LC  with  fluorescence 
+detection (LC/FL) and LC/UV.  NIST provided theanine measurements using LC/MS. 
+ 
+NIST Analyses for Catechins and Xanthines using LC/UV:  The mass fractions of catechins, caffeine and theobromine 
+were measured by LC/UV in 20 mg to 75 mg test portions taken from each of six packets of SRM 3255.  Test portions 
+were  combined  with  7-(β-hydroxypropyl)theophylline  (proxyphylline)  as  an  internal  standard  and  dissolved  in 
+methanol and water by shaking for 1 min.  Samples were analyzed by LC/UV with a C18 column and absorbance 
+detection at 210 nm.  A typical separation is provided in Figure A1.  Calibrants were prepared gravimetrically, and a 
+single  internal  standard  solution  was  used  for  the  calibrants  and  samples.   A  series  of  three  calibrants  containing 
+varying analyte levels was used. 
+ 
+NIST Analyses for Catechins using LC/UV and LC/MS:  The mass fractions of catechins were measured by LC/UV 
+and LC/MS in duplicate 20 mg test portions taken from each of six packets of SRM 3255.  Test portions were dissolved 
+in methanol and water by ultrasonic agitation for 5 min. A C18 column was used with absorbance detection at 280 nm 
+and a mass spectrometer with electrospray ionization source (ESI) connected in series.  Selected ion monitoring was 
+used for quantitation at m/z 171 for gallic acid (GA), m/z 239 for proxyphylline (internal standard; IS), m/z 291 for 
+catechin (C)  and  epicatechin (EC),  m/z 307  for  gallocatechin (GC)  and  epigallocatechin (EGC),  m/z 443  for 
+epicatechin  gallate (ECG),  and  m/z 459  for  gallocatechin  gallate (GCG)  and  epigallocatechin  gallate (EGCG).   A 
+typical separation is provided in Figure A1. Calibrants were prepared gravimetrically, and a single internal standard 
+solution was used for the calibrants and samples.  A series of four calibrants were prepared at levels approximating 
+the values expected in the SRM. 
+ 
+NIST  Analyses  for  Xanthines  using  LC/UV  and  LC/MS:    The  mass  fractions  of  caffeine  and  theophylline  were 
+measured by LC/UV and LC/MS in duplicate 45 mg test portions taken from each of six packets of SRM 3255.  Test 
+portions  were  individually  combined  with  an  internal  standard  solution  containing  trimethyl-13C3-caffeine  and 
+13C15N2-theophylline, methanol, and water.  Materials were extracted using ultrasonic agitation for 2 h.  Samples were 
+syringe-filtered  prior  to  LC/MS  analysis.    A  C18  column  and  ESI  in  positive  polarity  were  used.  Selected  ion 
+monitoring  was  used  for  quantitation  at  m/z 198  for  labeled  caffeine,  m/z 195  for  caffeine,  m/z 184  for  labeled 
+theophylline,  and  m/z 181  for  theophylline.    Calibrants  were  prepared  gravimetrically,  at  levels  intended  to 
+approximate the levels of the xanthines in the SRM.  A single internal standard solution was used for the calibrants 
+and samples.   
+ 
+NIST  Analyses  for  Xanthines  and  Theanine  using  LC/UV  and  LC/MS:  The  mass  fractions  of  theobromine  and 
+theanine [7]  were  measured  by  LC/UV  and  LC/MS  in  duplicate  100 mg  test  portion  sizes  taken  from  each  of  six 
+packets  of  SRM 3255.    Test  portions  were  individually  combined  with  an  internal  standard  solution  containing 
+2H6-theobromine  and  2H5-L-theanine,  methanol,  and  phosphate  buffer  in  water.    Materials  were  extracted  using 
+ultrasonic agitation for 2 h. Samples were syringe-filtered prior to LC/MS analysis.  A C18 column and ESI in positive 
+polarity were used.  Selected ion monitoring was used for quantitation at m/z 187 for labeled theobromine, m/z 181 
+for theobromine, m/z 180 for labeled theanine, and m/z 175 for theanine. Calibrants were prepared gravimetrically, at 
+levels intended to approximate the levels of the theanine in the SRM.  A single internal standard solution was used for 
+the calibrants and samples.   
+ 
+Analyses for Elements:  For analytes that were measured by NIST, duplicate 0.5 g test portions from a single packet 
+of SRM 3255 were analyzed using inductively coupled plasma mass spectrometry (ICP-MS).  Samples were digested 
+in a microwave sample preparation system using HNO3 and HF.  The GMA FIACC laboratories prepared samples 
+using  a  microwave  sample  preparation  system  with  analyses  by  either  ICP-MS  or  atomic  absorption 
+spectroscopy (AAS).  
+ 
+Collaborating Laboratories’ Analyses:  Hershey Foods analyzed 250 mg test portions from each of six packets for 
+catechin, epicatechin, caffeine, and theobromine using sonication, and analyzed extracts by using LC/FL (catechins) 
+or LC/UV at 280 nm (xanthines).  Tampa Bay Analytical Research analyzed 150 mg test portions in triplicate from 
+each of five packets for catechins and caffeine using sonication.  Extracts were analyzed by using LC-UV.  The GMA 
+FIACC laboratories were asked to use their usual methods to make single measurements of elements on test portions 
+taken  from  each  of  two  packets  of  SRM 3255.    Because  of  variability  among  data  provided  by  laboratories 
+
+SRM 3255 
+
+Page 3 of 7 
+
+participating in an interlaboratory comparison exercise, the median of laboratory means was used, with the uncertainty 
+estimated using the median absolute deviation (MADe) [8]. 
+ 
+Homogeneity Assessment:  The homogeneity of catechins, xanthines, and theanine was assessed at NIST using the 
+methods  and  test  portion  sizes  described  above.    Analysis  of  variance  did  not  show  statistically  significant 
+heterogeneity.  Other analytes have been treated as though they are homogeneously distributed in the material although 
+the homogeneity of only the catechins, xanthines, and theanine was assessed. 
+ 
+Value Assignment:  For calculation of assigned values for catechins, xanthines, and theanine, the equally weighted 
+mean of results provided by NIST, and the individual means of collaborating laboratories’ data, where available, were 
+used to calculate assigned values.  In cases where data were provided using two detectors in series, the average was 
+treated as a single method mean when it was combined with other data.  The GMA FIACC laboratories reported the 
+individual  results  for  each  of  their  analyses  for  a  given  analyte.    The  mean  of  each  laboratory’s  results  was  then 
+determined.  For calculation of assigned values for analytes that were measured only by the collaborating laboratories, 
+the  median of  the laboratory  means  was  used.   For analytes that  were also  measured by NIST, the  median of the 
+individual  collaborating  laboratory  means  and  the  mean  of  the  individual  sets  of  NIST  data  were  averaged,  as 
+appropriate. 
+ 
+1 
+Certified Mass Fraction Values for Catechins and Xanthines:  Each certified mass fraction value is the combined 
+mean from each set of analyses by NIST and the mean of results provided by collaborating laboratories.  Values are 
+Values  are 
+expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+To  propagate 
+The true value of the analyte is believed to lie within the interval x ± U95%(x) with 95 % confidence.  To propagate 
+this uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation 
+U95%(x)/2 [2–4].   The  measurand  is  the  total  mass  fraction  for  each  analyte  listed  in  Table 1  on  a  dry-mass  basis.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed as milligrams per gram). 
+ 
+
+Table 1.  Certified Mass Fraction Values for Catechins and Xanthines in SRM 3255 
+
+Iass  Fraction 
+
+Xanthines 
+
+ 
+
+ 
+
+(+)-catechin (a,b,c,d) 
+(–)-epicatechin (a,b,c,d) 
+(–)-epicatechin gallate (a,b,d)  
+(–)-epigallocatechin (a,b,d)  
+(–)-epigallocatechin gallate (a,b,d)  
+(–)-gallocatechin (a,b,d)  
+(–)-gallocatechin gallate (a,b,d)  
+ 
+Caffeine (a,b,c,d) 
+theobromine (a,b,c) 
+
+Mass Fraction  
+(mg/g) 
+
+0.93 
+6.7 
+7.8 
+6.5 
+
+9.17  ± 
+± 
+± 
+± 
+±  19 
+± 
+± 
+
+47.3 
+100.3 
+81.8 
+422 
+22.0 
+39.0 
+
+1.7 
+2.0 
+
+36.9 
+
+± 
+0.867  ± 
+
+2.7 
+0.076 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) NIST LC/UV 
+(b) NIST LC/MS 
+(c) Collaborating Laboratories LC/FL 
+(d) Collaborating Laboratories LC/UV 
+ 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from each 
+set of analyses by NIST using ICP-MS and the median of the mean of results provided by collaborating laboratories.  
+Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the 
+certified value.  The true value of the analyte is believed to lie within the interval x ± U95%(x) with 95 % confidence.  
+To propagate this uncertainty, treat the certified value as a normally distributed random variable  with  mean x and 
+standard deviation U95%(x)/2 [2–4].  The measurand is the total mass fraction for each element listed in Table 2 on a 
+dry-mass  basis.    Metrological  traceability  is  to  the  SI  derived  unit  for  mass  fraction  (expressed  as  milligrams per 
+kilogram). 
+ 
+
+Table 2.  Certified Mass Fraction Values for Elements in SRM 3255 
+ 
+
+Elements
+
+ 
+
+Arsenic (As) 
+Lead (Pb) 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+ 
+
+0.1624  ±  0.0079 
+0.0832  ±  0.0031 
+
+SRM 3255 
+
+Page 4 of 7 
+
+Reference Mass Fraction Values for Catechins, Xanthines, and Theanine:  Each reference mass fraction value is 
+the combined mean from the means of results from each set of analyses by NIST. Values are expressed as x ± U95%(x), 
+where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific true value 
+of the analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence [2–4].  The measurand is 
+the  mass  fraction  for  analytes  listed  in  Table 3,  on  a  dry-mass  basis,  as  determined  by  the  methods  indicated.  
+Metrological traceability is to mass fraction (expressed as milligrams per gram), as realized by the methods used. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Epigallocatechin Methylgallate, Gallic Acid, 
+Theanine, and Theophylline in SRM 3255  
+ 
+
+ 
+
+(–)-epigallocatechin methylgallate(a) 
+gallic acid(a,b) 
+L-theanine(b) 
+theophylline(b) 
+
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(mg/g) 
+
+6.87  ±  0.44 
+3.231  ±  0.086 
+0.340  ±  0.008 
+0.087  ±  0.002 
+
+(a) NIST LC/UV  
+(b) NIST LC/MS   
+ 
+ 
+Reference Mass Fraction Values for Elements:  Each reference mass fraction value is the median of the mean results 
+provided by collaborating laboratories using ICP-MS or AAS.  Values are expressed as x ± U95%(x), where x is the 
+estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific true value of the analyte 
+is believed to lie within the interval x ± U95%(x) with about a 95 % confidence [2–4].  The measurand is the mass 
+.  Metrological
+fraction for each element listed in Table 4, on a dry-mass basis, as determined by the method indicated.  Metrological 
+traceability is to mass fraction (expressed as milligrams per kilogram) as realized by the method used. 
+ 
+
+Table 4.  Reference Mass Fraction Values for Elements in SRM 3255  
+ 
+
+ 
+
+Aluminum (Al) 
+Copper (Cu) 
+Iron (Fe) 
+Manganese (Mn) 
+Zinc (Zn) 
+
+Mass Fraction  
+(mg/kg) 
+
+±  9.6 
+
+  86.9 
+  6.16    ±  0.10 
+  14.04  ±  0.52 
+  58.4 
+±  2.5 
+  5.29  ±  0.41 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+SRM 3255 
+
+Page 5 of 7 
+
+REFERENCES 
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed  Feb 
+2018). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb  2018);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Feb 2018). 
+
+[3]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement  -  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2018). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government  Printing  Office:  Washington,  DC 
+http://physics.nist.gov/cuu/pdf/sp811.pdf (accessed Feb 2018). 
+
+available 
+
+(2008); 
+
+[6]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC Int., 
+
+Vol. 91, pp. 1298–1302 (2008). 
+
+[7]  Bedner, M.;  Sander, L.C.;  Sharpless, K.E.;  An  LC-ESI/MS  Method  for  Determining  Theanine  in  Green  Tea 
+
+Dietary Supplements; Anal. Bioanal. Chem., Vol. 397, pp. 1773–1777 (2010). 
+
+(1981). 
+[8]  Huber, P.J; Robust Statistics; John Wiley:  New York (1981). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Certificate  Revision  History:    09 February 2018  (Addition  of  elemental  values,  change  of  expiration  date,  editorial  changes); 
+30 December 2015  (Editorial  changes);  04 September 2015  (Change  of  expiration  date;  editorial  changes);15 November 2010  (Original 
+certificate date) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730;  
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 3255 
+
+Page 6 of 7 
+
+ 
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+  
+
+  
+
+G
+C
+G
+E
+
+C
+E
+
+    
+
+G
+C
+E
+
+e
+m
+G
+C
+G
+E
+
+G
+C
+G
+
+1
+-
+
+C
+
+60
+
+Appendix A 
+
+C
+G
+E
+
+40
+
+G
+C
+G
+E
+
+Time (min)
+
+C
+G
+
+B
+T
+
+f
+a
+C
+
+S
+
+I
+
+C
+
+  
+
+0
+
+10
+
+20
+
+30
+
+50
+
+70
+
+A
+G
+
+C
+G
+  
+
+0
+
+10
+
+C
+G
+E
+
+C
+
+20
+
+ 
+
+  
+
+C
+E
+
+30
+Time (min)
+
+G
+C
+G
+
+40
+
+G
+C
+E
+
+50
+
+60
+
+ 
+
+ 
+Figure A1.  Chromatograms showing separation of catechins, gallic acid, and caffeine using Catechin Method 1 (top) 
+and  Catechin  Method 2 (bottom).    For  Catechin  Method 1,  an  Ace C18  ultra  inert  column  (250 mm × 4.6 mm, 
+5 µm particle size; MAC-MOD Analytical, Chadds Ford, PA) was held at 23 °C.  The separation was performed using 
+a  gradient  consisting  of  water,  acetonitrile,  and  methanol,  each  containing  acetic  acid.    The  solvent  composition 
+reached  full  elution  strength  at  75 min.    Absorbance  detection  was  at  210 nm.    For  Catechin Method 2,  a 
+Zorbax Eclipse XDB-C18 column (250 mm × 4.6 mm, 5 µm particle size; Agilent Technologies, Palo Alto, CA) was 
+used.  The separation was performed using a gradient of water and acetonitrile, both containing 0.1 % formic acid 
+(volume fraction).  Absorbance detection  was at 280 nm; data were also generated using MS  with ESI in positive 
+polarity  in  series  with  the  absorbance  detector  (chromatograms  not  shown).    Abbreviations:    procyanidin 
+trimer C1 (C-1),  caffeine (Caf),  catechin (C),  epicatechin (EC),  epicatechin  gallate (ECG),  epigallocatechin (EGC), 
+epigallocatechin  gallate (EGCG),  epigallocatechin  methylgallate (EGCGme),  gallic  acid (GA),  gallocatechin (GC), 
+gallocatechin gallate (GCG), proxyphylline (internal standard; IS), and theobromine (TB). 
+ 
+
+ 
+
+S
+
+I
+
+  
+
+SRM 3255 
+
+Page 7 of 7 
+
+

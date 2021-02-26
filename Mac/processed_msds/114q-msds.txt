@@ -1,0 +1,869 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+25 June 2014 
+ 
+
+Recommended Use of This Material and Restrictions of Use 
+This Standard Reference Material (SRM) is intended for use in calibrating fineness testing equipment according to 
+ASTM Standard Methods.  A unit of SRM 114q consists of 20 glass vials with plastic caps containing powdered 
+cement (each vial is contained in a sealed foil bag).  Each vial contains approximately 5 g of cement. 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name:   
+Other Means of Identification:  Not applicable. 
+
+114q 
+Portland Cement Fineness Standard 
+
+Company Information 
+
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Health Hazard: 
+
+Skin Corrosion/Irritation 
+Eye Damage/Irritation 
+Carcinogen  
+STOT, Single Exposure  
+STOT, Repeated Exposure  
+
+Category 2 
+Category 1 
+Category 1 
+Category 3 
+Category 1 
+
+Label Elements 
+Symbol 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+Note:  The Certificate of Analysis reports the information values of the individual constituents as oxides.  The oxides 
+are not freely available in the material as sold.  The health and safety information provided in this SDS are for portland 
+cement and additional components. 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+
+ 
+
+H315 
+H318 
+H350 
+H335 
+H372 
+
+Causes skin irritation. 
+Causes serious eye damage. 
+May cause cancer (lung). 
+May cause respiratory irritation. 
+Causes damage to lungs through prolonged or repeated exposure (inhalation). 
+
+ 
+
+SRM 114q 
+
+ 
+
+Page 1 of 7 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Precautionary Statement(s) 
+
+P201 
+P202 
+P260 
+P264 
+P270 
+P271 
+P280 
+ 
+P301+P312 
+P330 
+ 
+P302+P352 
+P333+P313 
+ 
+P304+P340 
+P312 
+ 
+P305+P351+P338 
+
+P310 
+ 
+P308+P313 
+ 
+P362+P364 
+ 
+P403+P233 
+P405 
+ 
+P501 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+Use only outdoors or in a well-ventilated area. 
+Wear protective gloves and clothing and eye protection. 
+ 
+If swallowed:  Immediately call a doctor. 
+Rinse mouth. 
+ 
+If on skin:  Wash with plenty of water. 
+If skin irritation or rash occurs, get medical attention. 
+ 
+If inhaled:  Remove person to fresh air and keep comfortable for breathing. 
+Call a doctor if you feel unwell. 
+ 
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses if 
+present and easy to do.  Continue rinsing. 
+Immediately call a doctor. 
+ 
+If exposed or concerned:  Get medical attention. 
+ 
+Take off contaminated clothing and wash it before reuse. 
+ 
+Store in well-ventilated place.  Keep container tightly closed.  
+Store locked up. 
+ 
+Dispose of contents and container in accordance with local regulations. 
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  White Portland Cement 
+Other Designations:  Hydraulic cement; cement (portland); silicate, portland cement; portland cement silicate. 
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  Cement may also contain trace amounts of 
+oxides and other chemicals due to the starting materials and manufacturing process, including chromium compounds.  
+Concentration ranges are given in this SDS.  For information values,  see the NIST Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration
+(%) 
+
+Portland cement 
+Ferric oxide 
+Gypsum 
+Silica, crystalline quartz 
+Calcium oxide 
+Calcium carbonate 
+Magnesium oxide 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+65997-15-1 
+1309-37-1 
+13397-24-5 
+14808-60-7 
+1305-78-8 
+1317-65-3 
+1309-48-4 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+266-043-4 
+215-168-2 
+603-783-2 
+238-878-4 
+215-138-9 
+215-279-6 
+215-171-9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+50 to  95 
+0 to  15 
+0 to  10 
+0 to  5 
+0 to  5 
+0 to  5 
+0 to  5 
+
+Inhalation:  If adverse effects occur, remove to well-ventilated (uncontaminated) area.  If breathing is difficult, 
+qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  
+Seek immediate medical attention.  
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, and then wash thoroughly with soap or 
+mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label. 
+
+SRM 114q 
+
+ 
+
+Page 2 of 7 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+Ingestion:  If a large amount is swallowed, seek medical attention. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    Inhalation  of  dust  particles  may  cause  irritation.  
+Prolonged exposure to respirable silica particles can cause lung damage (silicosis) and cancer. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section  9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+Extinguishing Media 
+
+Suitable:  Use extinguishing agents appropriate to surrounding fire. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 3 
+
+Fire = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+Methods and Materials for Containment and Clean up:  Avoid generating dust.  Collect in appropriate container 
+for disposal.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Use suitable personal protection equipment (PPE).  See Section 8, “Exposure Controls 
+and Personal Protection”. 
+Storage and Incompatible Materials:  Store in a well-ventilated area.  Samples should be used immediately after 
+opening the Mylar bag and vial. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+ 
+
+Components 
+
+Portland cement 
+
+Ferric oxide 
+
+Exposure Limits 
+
+ACGIH (TLV) 
+TWA:  1 mg/m3 (respirable 
+
+fraction, particulate 
+matter containing no 
+asbestos and 
+<1 % crystalline silica) 
+
+NIOSH (REL) 
+TWA:  10 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+dust) 
+
+IDLH:  5000 mg/m3  
+
+TWA:  5 mg/m3 (respirable 
+
+TWA:  5 mg/m3 (as Fe dust 
+
+dust) 
+
+and fume) 
+
+IDLH:  2500 mg/m3 (as Fe 
+dust and fume) 
+TWA:  0.05 mg/m3 (respirable 
+
+IDLH:  50 mg/m3 (respirable 
+
+dust) 
+
+dust) 
+
+OSHA (PEL) 
+TWA:  15 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+fraction) 
+TWA:  50 mppcf (<1 % 
+crystalline silica) 
+TWA:  10 mg/m3 (fume) 
+TWA:  15 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+fraction) 
+
+(total dust) 
+
+TWA:  10/(SiO2 +2) mg/m3 
+(respirable fraction) 
+
+TWA:  250/(SiO2 + 5) mppcf 
+
+(respirable fraction) 
+
+Silica, 
+crystalline quartz 
+
+TWA:  30/(SiO2 + 2) mg/m3 
+
+TWA:  0.025 mg/m3 
+
+(respirable fraction) 
+
+SRM 114q 
+
+ 
+
+Page 3 of 7 
+
+Components 
+
+OSHA (PEL) 
+
+ACGIH (TLV) 
+
+NIOSH (REL) 
+
+Calcium oxide 
+
+TWA:  5 mg/m3  
+
+TWA:  2 mg/m3 
+
+Exposure Limits 
+
+TWA:  15 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+TWA:  10 mg/m3 (inhalable 
+
+fraction) 
+
+Gypsum 
+(related to calcium 
+sulfate) 
+
+Calcium carbonate 
+(limestone) 
+
+fraction) 
+
+fraction) 
+
+TWA:  15 mg/m3 (total dust) 
+TWA:  5 mg/m3 (respirable 
+
+No occupational exposure 
+limits established. 
+
+TWA:  10 mg/m3 (total dust)  
+TWA:  5 mg/m3 (respirable 
+
+TWA:  2 mg/m3 
+IDLH:  25 mg/m3 
+TWA:  10 mg/m3 (total dust)  
+TWA:  5 mg/m3 (respirable 
+
+dust) 
+
+dust) 
+
+Magnesium oxide 
+
+TWA:  15 mg/m3 (total fume, 
+total particulate) 
+
+fraction) 
+
+TWA:  10 mg/m3 (inhalable 
+
+IDLH:  750 mg/m3 (fume) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate PPE to 
+minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+
+Portland Cement 
+
+ 
+
+ 
+
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Relative Density as Specific Gravity (water = 1) 
+
+Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+not applicable 
+not applicable 
+white to gray powder 
+odorless 
+not available 
+12 to 13 (wet cement) 
+0 % 
+not available 
+3.15 
+not available 
+not available 
+not applicable 
+not applicable 
+water:  0.1 % to 1 % 
+
+Partition coefficient (n-octanol/water) 
+
+< 128 µm 
+
+ 
+
+SRM 114q 
+
+ 
+
+Page 4 of 7 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point 
+Flammability (solid, gas) 
+
+Portland Cement 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Conditions to Avoid:  Avoid generating dust. 
+
+Incompatible Materials:  No data available. 
+
+ 
+
+ 
+
+Hazardous Decomposition:  Miscellaneous decomposition products.  
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Eye damage, skin irritation, and 
+skin sensitization.  May damage mucous membranes.  May aggravate respiratory disorders.   
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Irritation, cough, and phlegm.  Prolonged or repeated exposure to mixed cement dusts may cause 
+cough, expectoration, dyspnea, wheezing, pharyngitis, chronic bronchitis, emphysema, cement pneumoconiosis, 
+and silicosis. 
+Skin  Contact:    Irritation  (possibly  severe)  and  dermatitis.    Direct  content  with  wet  cement,  combined  with 
+prolonged  contact  time  and  pressure  may  cause ulcerations  and  possibly  burns.   Sensitivity  to  constituents  of 
+cement may induce allergic skin reactions (chromium compounds). 
+Eye Contact:  Irritation, visual disturbances, eye damage.  In addition, wet cement may cause a burning sensation, 
+corneal edema indicated by seeing halos around lights, and injury to the conjunctiva. 
+Ingestion:  Irritation (long-term) and possible gastroduodenal ulcers. 
+
+Numerical Measures of Toxicity 
+
+Acute toxicity:  Not classified. 
+
+Portland cement:  No data available. 
+Quartz:  Rat, Oral LD50: 500 mg/kg 
+
+Skin corrosion/irritation:  Category 2, Irritation. 
+
+Exposure may cause irritation (rash, scaling, and cracking) and dermatitis.  May cause burns in the presence 
+of moisture. 
+
+Serious eye damage/eye irritation:  Category 1, Serious eye damage. 
+
+Exposure to portland cement dust may cause severe eye damage and burns in the presence of moisture. 
+
+Respiratory sensitization:  Classification not possible; no data available. 
+ 
+
+Portland  cement  may  contain  trace  amounts  of  hexavalent  chromium  compounds  which  may  cause 
+respiratory effects. 
+
+Skin Sensitization:  Classification not possible; no data available. 
+ 
+
+Portland cement may contain trace amounts of hexavalent chromium compounds which may cause allergic 
+skin reactions. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+SRM 114q 
+
+ 
+
+Page 5 of 7 
+
+Carcinogenicity:  Category 1A. 
+
+Listed as a Carcinogen/Potential Carcinogen
+
+X  Yes 
+
+ 
+
+No 
+
+Portland cement is not listed by OSHA, IARC, or NTP as a carcinogen or potential carcinogen. 
+
+Ferric oxide is listed as Group 3, not classifiable by IARC, and is not listed by NTP or OSHA as a carcinogen 
+or potential carcinogen. 
+
+Silica, crystalline quartz is listed as Group 1, carcinogenic to humans by IARC, known human carcinogen 
+(respirable size) by NTP, and is not listed by OSHA as a designated carcinogen. 
+  Tumorigenic data:  Rat, Inhalation, TCLo:  50 mg/m3 (6 h) 
+  Mutagenic data:  Human, 120 mg/L (24 h) 
+
+Reproductive Toxicity:  No data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Category 3, Respiratory tract irritation. 
+  May cause irritation to mucous membranes when wet due to caustic nature of material. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1, Lungs. 
+
+Repeated and prolonged exposure to portland cement and respirable quartz may cause chronic bronchitis, 
+emphysema, cement pneumoconiosis, and silicosis. 
+
+Aspiration hazard:  Not applicable. 
+
+12.   ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Gypsum (related to Calcium sulfate) 
+ 
+ 
+
+Bluegill:  Lepomis macrochirus LC50 (96 h):  2980 mg/L [static]  
+Fathead minnow:  Pimephales promelas LC50 (96 h):  >1970 mg/L [static] 
+
+Persistence and Degradability:  No data available. 
+Bioaccumulative Potential:  No data available. 
+Mobility in Soil:  No data available. 
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT and IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+No 
+No 
+No 
+
+SRM 114q 
+
+ 
+
+Page 6 of 7 
+
+State Regulations 
+
+California  Proposition  65:    Warning!    This  product  contains  a  chemical  (quartz)  known  to  the  state  of 
+California to cause cancer. 
+
+U.S. TSCA Inventory:  Portland cement, ferric oxide, silica (crystalline quartz), calcium oxide, calcium carbonate, 
+
+and magnesium oxide are listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  25 June 2014 
+
+Sources:  Vendor MSDS, Lehigh White Portland Cement, January 2014. 
+
+ChemADVISOR, Inc., MSDS Portland Cement, 21 March 2014. 
+
+ChemADVISOR, Inc., MSDS Gypsum, 21 March 2014. 
+
+ChemADVISOR, Inc., MSDS Limestone, 21 March 2014. 
+
+ChemADVISOR, Inc., MSDS Calcium Oxide, 21 March 2014. 
+
+ChemADVISOR, Inc., MSDS Ferric Oxide Red, 21 March 2014. 
+
+ChemADVISOR, Inc., MSDS Magnesium Oxide, 21 March 2014 
+
+Key of Acronyms:  
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health  UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 114q 
+
+ 
+
+Page 7 of 7 
+
+

@@ -1,0 +1,908 @@
+﻿ 
+
+oe 
+; 
+
+Srares  oe
+
+ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 2232  
+Indium DSC Calibration Standard 
+Temperature and Enthalpy of Fusion 
+
+ 
+
+ 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the temperature and enthalpy of fusion calibrations 
+of differential thermal analyzers (DTA),
+ differential scanning calorimeters (DSC), and similar instruments.  This 
+SRM consists of a 1 g piece of indium metal sealed in an argon atmosphere in a mylar bag. 
+ 
+Certified Temperature of Fusion:   The certified value of 156.598 5 ºC is  the temperature assigned to the melting 
+point of pure indium [1].  The melting point is realized as the plateau temperature of the melting curve of the slowly 
+melted, high purity indium. 
+ 
+
+Temperature of Fusion:     156.598 5 ºC  ±  0.000 34 ºC 
+
+ 
+Based on samples tested, the temperature range of melting  of bulk material is not e xpected to exceed 0.000 3 ºC. 
+ material are expected to  differ by not more than 
+Temperatures of melting curve plateaus for samples of this
+0.000 1 ºC from each other and by not more than 0.000 34 ºC from the 
+assigned temperature.  The basis for 
+assigning an expanded uncertainty ( k = 2) of 0.000 34 ºC to the temperature of fusion of SRM 2232 is described in 
+reference 2. 
+ 
+Certified Enthalpy of Fusion:  
+determined by performing duplicate measurements on seven SRM 2232 DSC samples.  The DSC onset temperature 
+has an expanded uncertainty (k = 2) of 0.046 ºC. 
+ 
+
+The certified enthalpy of fusion valu
+
+e at the DSC onset temperature was 
+
+Enthalpy of Fusion:     28.51 J·g–1  ±  0.19 J·g–1 
+
+ 
+The uncertainty was calculated as two times the square root of the sum of three components of variance.  
+Component one was the standard deviation of the mean from 14 measurements of the enthalpy of fusion of indium.  
+Component two was the standard deviation of the mean of 14 measurements of the enthalpy of fusion of SRM 2220 
+Tin that were used to calibrate the energy scale.  Component three was the variance of the enthalpy certification 
+measurements for SRM 2220  Temperature and Enthalpy of Fusion – Tin  the calibration standard.  The variance for 
+SRM 2220 was calculated as the square of one-half the stated uncertainty on the certificate.  The basis for assigning an 
+expanded uncertainty (k = 2) of 0.19 J·g–1 to the enthalpy of fusion of SRM 2232 is described in reference 3. 
+ 
+Expiration of Certification:  
+uncertainties specified, provided the SRM is used in accordance with the “Notice and Warnings to Users” section of 
+this certificate.  However, the certification is nullified if the SRM is damaged or contaminated. 
+ 
+Maintenance of SRM Certification:   NIST will monitor this SRM over the period of its certification.  If 
+substantive technical changes occur that affect the certifi cation before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Temperature studies on fixed-point cells were performed by G.F. Strouse of the NIST Process Measurements 
+Division.  DSC studies were performed by D.R. Kirklin of the NIST Physical and Chemical Properties Division. 
+ 
+Support aspects involved in the issuance of this SRM we
+Materials Program by B.S. MacDonald of the NIST Measurement Services Division. 
+
+The certification of this SRM is valid indefinitely within the measurement 
+
+re coordinated through the NIST Standard Reference 
+
+ 
+Gregory J. Rosasco, Chief 
+Physical and Chemical Properties Division 
+ 
+James R. Whetstone, Chief 
+Process Measurements Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  21 July 2005 
+See Certificate Revision History on Last Page 
+
+SRM 2232 
+
+Page 1 of 7 
+
+ 
+
+nt temperature.  After 
+
+ 3 ºC below the freezing poi
+
+e freeze.  A typical freezing 
+
+nded “induced inner freeze” method.  With the metal 
+
+ 
+NOTICE AND WARNING TO USERS 
+ 
+Handling of SRM:   Any handling procedures of this high purity material are subject to introduce contamination.  
+Every possible effort should be made to maintain the purity of this SRM. 
+ 
+SOURCE AND ANALYSIS1 
+ 
+Source of Material:   The indium metal (Lot S2739) for this SRM was obtained from Arconium (Providence, RI). 
+The indium is of high purity, with the total of all elements that affect the melting point temperature being less than
+0.1 mg/kg. 
+ 
+Temperature of Fusion Measurements:   The thermal tests for the certification of this SRM were performed on a 
+ribed in reference 4.  The cell contains approximately 
+fixed-point cell prepared in a manner similar to that desc
+1190 g of indium obtained from the randomly-selected 1 g pieces of indium of lot S2739. 
+ 
+The freezing points were prepared using the recomme
+completely melted, the furnace was set at approximately
+supercooling and recalescence had been observed with a 25.5  Ω standard platinum resi stance thermometer (SPRT) 
+in the cell, the thermometer was removed and two fused s ilica glass rods, each initially at room temperature, were 
+inserted successively into the well for  about three minutes each to induce freezi ng of a thin mantle of solid metal 
+around the well.  The thermometer was then reinserted into the cell and the recording of readings was begun.  After 
+equilibrium was established, the temperature of the pl ateau on the freezing curve was found to vary no more than 
+0.000 03 ºC during the first 50 % of the duration of th
+curve obtained under such 
+conditions is shown in Figure 1 (the re gion of supercooling and recalescence is not shown, as the curve begins after 
+the reinsertion of the thermometer); a sample of the data is plotted at greater resolution in Figure 2. 
+ 
+After the metal was slowly and comple tely frozen in the above manner, the  furnace was set at approximately 1 ºC 
+above the freezing point temperature to  slowly melt over a time period of a pproximately 10 hours.  Thermometer 
+readings were recorded continuously until the melting wa s complete.  A typical melti ng curve obtained under such 
+conditions is shown in Figure 3. 
+ 
+Following the freezing and melting curve measurements, the pl ateau temperature of a freezing curve of the test cell 
+was compared directly with that of  the standard indium freezing  point cell of the Platinum Resistance Thermometer 
+Calibration Laboratory, using a 25.5  Ω SPRT.  The method of direct comparison is described in detail in 
+reference 5. 
+ 
+During the freezing and melting curve measurements, an
+maintained in the cells. 
+ 
+The electronic measurement equipment included an ASL F18 resistance ratio bridge, operating at a frequency of 
+30 Hz, and temperature-controlled Tinsley 5685A 100 Ω reference resistor.  This reference resistor was maintained 
+at a temperature of 25.00 ºC  ± 0.010 ºC.  Freezing curve and melting curve measurements were made with an 
+excitation current of 1 mA.  Direct comparison measurements were made using a 25.5 
+currents of l mA and
+controlled data acquisition system was used to acquire the ASL F18 bridge readings through the use of an IEEE-488 
+bus. 
+ 
+Enthalpy of Fusion Measurements:  
+SRM 2232 and seven tin samples, 9 mg to 14 mg each, cut from a 6.25 cm 2 sheet of SRM 2220 were used in the 
+DSC measurements, which were performed on a Perkin 
+temperatures of fusion for tin and indium we re used to calibrate the temperature axis.   The enthalpy of fusion of tin 
+was used to calibrate the measured 
+energy (measured area).  After lineari
+temperatures and enthalpies of fusion were measured for the set of seven SRM 2220 tin samples used in the 
+calibration of the instrument.  Duplicate measurements were made on seven SRM 2232 indium samples to 
+determine the certified values and the observed variability due to the instrument and sample configuration.
+typical DSC melting curve of the indium is shown in Figure 4. 
+
+Seven indium samples, 5 mg to 15 mg each, cut from a l g ingot of 
+
+Elmer DSC 7 Differential Scanning Calorimeter.  The 
+
+ environment of inert argon gas at 101 325 Pa was 
+
+lts at zero-power dissipation.  A computer-
+
+2 mA to allow for the analysis of the resu
+
+zation of the temperature axis, the 
+
+Ω SPRT at low exitation 
+
+  A 
+
+                                                           
+          1Certain commercial equipment, instruments or materials are 
+experimental procedure.  Such identification does not impl
+Standards and Technology, nor does it imply th at the materials or equipment identified are necessarily the best available for t he 
+purpose. 
+SRM 2232 
+
+identified in this certificate to adequately specify the 
+y recommendation or endorsement by the National Institute of 
+
+Page 2 of 7 
+
+ 
+ 
+
+ 
+
+º
+
+C
+m
+
+ 
+,
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+l
+e
+c
+ 
+t
+n
+i
+o
+p
+d
+e
+x
+i
+f
+ 
+n
+i
+ 
+e
+g
+n
+a
+h
+C
+
+ 
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+0.0
+
+0.4
+
+0.1
+
+0.3
+
+0.2
+
+0.5
+
+ 
+ 
+
+ 
+
+ 
+
+freeze 1,
+14 hours
+
+  
+ 
+ 
+  
+
+freeze 3,
+10 hours
+
+freeze 2,
+13 hours
+
+ 
+
+ 
+ 
+
+U
+e
+ 
+
+=
+ 
+
+e
+e
+ 
+
+ 
+ 
+
+ 
+ 
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+Fraction of sample frozen in In 96-6
+
+Figure 1.  The freezing curves of SRM 2232 Indium DSC Calibration Standard using the “induced inner freeze” preparation technique. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2232                                                                                                                  
+
+Page 3 of 7
+
+ 
+
+ 
+ 
+
+0.25
+
+0.00
+
+-0.25
+
+-0.50
+
+-0.75
+
+-1.00
+
+_
+—
+F
+
+—
+=
+—
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+0.0
+
+0.2
+
+0.4
+
+0.1
+
+0.5
+
+0.3
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+Fraction of sample frozen in In 96-6
+
+Figure 2.  The freezing plateau regions of Figure 1 at greater resolution. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+freeze 1,
+14 hours
+
+freeze 2,
+13 hours
+
+freeze 3,
+10 hours
+
+ 
+ 
+
+ 
+
+º
+
+C
+m
+
+ 
+,
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+l
+e
+c
+ 
+t
+n
+i
+o
+p
+ 
+d
+e
+x
+i
+f
+ 
+n
+i
+ 
+e
+g
+n
+a
+h
+C
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2232                                                                                                                  
+
+Page 4 of 7
+
+º
+
+C
+m
+
+ 
+,
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+l
+e
+c
+ 
+t
+n
+i
+o
+p
+ 
+d
+e
+x
+i
+f
+ 
+n
+i
+ 
+e
+g
+n
+a
+h
+C
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+  
+
+  
+
+  
+
+  
+
+ 
+t
+S
+
+  
+
+melt 1,
+10 hours
+
+        
+
+  
+
+ 
+       
+
+    
+    
+  
+  
+  
+  
+  
+
+melt 2,
+12 hours
+melt 3,
+9 hours
+
+  
+
+  
+
+  
+
+  
+
+  
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+Fraction of sample melted in In 96-6
+
+Figure 3.  Three melting curves of SRM 2232 Indium DSC Calibration Standard following a slow freeze.  Each melt followed the respective slow freeze of 
+Figure 1. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2232                                                                                                                  
+
+Page 5 of 7
+
+14.9   
+
+  
+
+Indium  -  SRM  2232 
+
+  
+
+  
+
+  
+
+ 
+)
+W
+m
+(
+
+ 
+p
+U
+
+ 
+o
+d
+n
+E
+
+ 
+w
+o
+l
+F
+
+ 
+t
+a
+e
+H
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+  
+    
+  
+  
+  156.598  °C  =   
+  
+
+  
+
+  
+
+  
+
+  
+
+Onset  Temperature 
+
+     
+
+155.5 
+
+156.0 
+
+156.5 
+
+157.5 
+
+158.0 
+
+158.5 
+
+159
+
+157.0 
+Temperature  (°C) 
+
+Figure 4.  Typical DSC melting curve for SRM 2232 Indium DSC Calibration Standard. 
+ 
+
+-0.676 
+
+155.0 
+
+ 
+
+SRM 2232                                                                                                                  
+
+Page 6 of 7
+
+ 
+[1] Preston-Thomas, H.;  The International Temperature Scale of 1990 (ITS-90)
+
+; Metrologia, Vol. 27, pp. 3–10, 
+
+REFERENCES 
+
+p. 107 (1990). 
+
+[2]  Strouse, G.F.; Tew, W.L.;  Assessment of Uncertainties of Calibration of Resistance Thermometers at the 
+
+National Institute of Standards and Technology; NISTIR 5319; National Institute of Standards and Technology, 
+U.S. Department of Commerce: Gaithersburg, MD, p. 16 (1994). 
+
+[3] ISO; G uide to the Expression of Uncertainty in Measurement
+
+; ISBN 92-67-10188-9, 1st ed.; International 
+
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.;  Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results ; NIST Technical Note 1297; U.S. 
+Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+[4]  Furukawa, G.T; Riddle, J.L; Bigge, W.R.; Pfeiffer, E.R.;  Standard Reference Materials: Application of Some 
+
+; NBS Special Publication 260–77, U.S. Government Printing 
+
+Metal SRMs as Thermometric Fixed Points
+Office: Washington, DC, p. 140 (1982). 
+
+[5]  Mangum, B.W.; Pfeiffer, E.R.; Strouse, G.F.; (NIST); Valencia-Rodriguez, J.; (CENAM); Lin,  J.H.; Yeh, T.I.; 
+
+(CMS/ITRI); Marcarino, P.; Dematteis, R.; (IMGC); Li
+(UME); Nubbemeyer, H.G.; Jung, H.J.; (PTB);  Intercomparisons of Some NIST Fixed-Point Cells with Similar 
+Cells of Some Other Standards Laboratories; Metrologia, Vol. 33, pp. 215–225 (1996). 
+
+u, Y.; Zhao, Q.; (NIM); Ince, A.T.; Gakirolu, F.; 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Certificate Revision History:  21 July 2005 (This revision reflects editorial changes); 01 March 1999 (Original certificate date). 
+
+ 
+ 
+eir possession is current.  Th is can be accomplished by 
+Users of this SRM should ensure that the certificate in th
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2232                                                                                                                  
+
+Page 7 of 7
+
+

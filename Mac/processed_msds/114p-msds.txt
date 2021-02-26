@@ -1,0 +1,435 @@
+﻿SRM Number: 114p  
+MSDS Number: 114p 
+SRM Name: Portland Cement Fineness  
+
+Standard 
+Issued: April, 1994 
+
+MATERIAL SAFETY DATA SHEET 
+ 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+Gaithersburg, Maryland  20899 
+(301) 975-2019  
+
+ 
+SECTION I. MATERIAL IDENTIFICATION   
+
+ 
+Material Name:  Portland Cement Fineness Standard 
+ 
+Other Designations:   Hydraulic Cement, Portland Cement Silicate 
+ 
+Description:  This SRM unit consists of approximately 200 grams of powdered cement, packaged in 20 sealed laminated 
+barrier film pouches, each containing approximately 10 g of cement. 
+ 
+Chemical Formulas:  Tricalcium silicate (3CaO•SiO2) and dicalcium silicate (2CaO•SiO2) are portland cements essential 
+constituents, along with varying amounts of alumina, tricalcium aluminate and iron oxide as tetracalcium aluminoferrate.  
+Small amounts of magnesia, sodium, potassium and sulfur are also present.  Chromium may be present in the finished cement 
+since the kiln's refractory lining and the steel balls used in the finish-milling operations are possible sources.  To improve 
+adhesion, strength and flexibility, cement may be modified with various plastic latexes.  
+ 
+CAS Reg. No.:  65997-15-1 
+ 
+DOT Classification:  Not hazardous by DOT regulations. 
+ 
+Manufacturer/ Supplier:  Available from a number of suppliers. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION II. HAZARDOUS INGREDIENTS 
+
+ 
+Hazardous Components 
+
+ 
+Percent Concentrations 
+
+ 
+Limits and Toxicity Data* 
+
+ 
+CaO  (calcium oxide) 
+ 
+SiO2  (silicon dioxide) 
+ 
+Al2O3  (aluminum oxide) 
+ 
+Fe2O3  (iron III oxide 
+ 
+SO3  (sulfur trioxide) 
+ 
+MgO  (magnesium oxide) 
+ 
+K2O  (potassium oxide) 
+ 
+TiO2  (titanium dioxide) 
+ 
+Na2O  (sodium monoxide) 
+ 
+SrO  (strontium oxide) 
+ 
+P2O5  (phosphoric anhydride) 
+
+ 
+   63.6 
+ 
+   21.6 
+ 
+     4.2 
+ 
+     3.0 
+ 
+     2.7 
+ 
+     2.4 
+ 
+     0.51 
+ 
+     0.23 
+ 
+     0.19 
+ 
+     0.14 
+ 
+     0.19 
+
+ 
+8 hr. TWA-PEL 
+ 
+    10 mg/m3 (total dust) 
+ 
+ 
+ 
+8 hr. TWA-PEL 
+ 
+     5 mg/m3 (respirable fraction) 
+ 
+ 
+ 
+ACGIH TLV-TWA: 
+ 
+    10 mg/m3 (nuisance dust) 
+ 
+ 
+ 
+No toxicity data documented. 
+ 
+ 
+
+ 
+SECTION III. PHYSICAL/ CHEMICAL CHARACTERISTICS  
+
+ 
+Appearance and Odor:  Odorless, grey powder.  
+Vapor Pressure:  approximately 0 mm 
+pH:  12 (wet cement) 
+Solubility in Water:  Insoluble. 
+ 
+
+ 
+SECTION IV. FIRE AND EXPLOSION HAZARD DATA  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Flash Point:  N/A 
+ 
+(Method Used):  N/A 
+ 
+Autoignition Temperature:  N/A 
+ 
+Flammability Limits in Air (Volume %):  N/A 
+ 
+
+ 
+Extinguishing Media:  This material is noncombustible.  Use extinguishing media that is appropriate to the surrounding fire. 
+  
+
+ 
+Special Fire Procedures:  Since the fire may produce toxic fumes, wear a self contained breathing apparatus (SCBA) with a 
+full facepiece operated in the pressure-demand or positive-pressure mode.   
+ 
+Unusual Fire and Explosion Hazards:  None reported. 
+ 
+
+ 
+
+ 
+
+ 
+SECTION V. REACTIVITY DATA 
+
+ 
+Stability:          X       Stable                       Unstable 
+ 
+Conditions to Avoid:  Avoid moisture. 
+ 
+Incompatibility (Materials to Avoid):  No hazardous incompatibilities are reported. 
+ 
+Hazardous Decomposition or Byproducts:  Calcium hydroxide forms when water is added to portland cement; this is an 
+alkaline, abrasive and hygroscopic (moisture-absorbing) material. 
+ 
+Hazardous Polymerization:                          WIll Occur            X        Will Not Occur 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION VI. HEALTH HAZARD DATA  
+
+ 
+Route of Entry:          X         Inhalation                X        Skin                  X         Ingestion 
+ 
+Health Hazards (Acute and Chronic):  Silicon Dioxide:  Portland cement is a nuisance dust and an irritant to the skin, eyes 
+and mucous membranes.  Its principle health hazard occurs from the formation of  alkaline calcium hydroxide (forming from 
+the addition of water to portland cement); this material is abrasive and can burn the skin.  Dry cement will not cause alkaline 
+burns.  Some individuals appear to tolerate brief skin contact with wet cement but others develop extensive skin burns.  
+Repeated or prolonged skin contact can cause dermatitis, including skin dryness, fissures (cracks in the skin), eczematous 
+rashes and dystrophy (a condition caused by defective nutrition) of the nails.  Extensive burns with dermal necrosis (localized 
+death of living tissue) can occur.  Allergic dermatitis may result from the presence of heavy metals such as chromium in the 
+mixture.  
+Splashes into the eyes can cause corneal edema.  Ingestion of the powder may cause burns to the esophagus and stomach.  
+Chronic bronchitis may result from long term exposure.  There are reports of x-ray changes without symptoms in cement 
+workers exposed to portland cement.  Other studies showing x-ray changes with pulmonary symptoms are noted in workers 
+exposed primarily to the silica-containing products in portland cement. 
+ 
+Signs and Symptoms of Exposure:  Inhalation symptoms include eye, nose and upper respiratory tract irritation, cough, 
+expectoration, shortness of breath and wheezing.  Within 12 to 48 hours after 1-to-6 hour exposures, first, second and/or third 
+degree burns may occur.  There may be no obvious pain at the time of exposure.  Allergic reactions and changes in x-rays are 
+also signs of exposure. 
+ 
+Medical Conditions Generally Aggravated by Exposure:  Individuals with a sensitivity to hexachromium salts should 
+avoid exposure.  Individuals with  chronic respiratory disorders or skin diseases should minimize exposure. 
+ 
+Calcium Oxide:  Inhalation of 250 mg/m3 of calcium oxide is immediately dangerous to life and health.  Inhalation may cause 
+severe irriation of the mucous membranes with sore throat, coughing 
+ 
+
+ 
+Listed as a Carcinogen/Potential Carcinogen: 
+
+In the National Toxicology Program (NTP) Report on Carcinogens  
+In the International Agency for Research (IARC) Monographs        
+By the Occupational Safety and Health Administration (OSHA)   
+
+Yes 
+____ 
+____ 
+____ 
+
+No 
+_X_ 
+_X_ 
+_X_ 
+
+ 
+EMERGENCY AND FIRST AID PROCEDURES: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Skin Contact:  Remove contaminated shoes and clothing.  Rinse affected area with large amounts of water followed by 
+washing the area with soap and water.  Contact medical assistance if necessary. 
+ 
+Eye Contact:  Immediately flush eyes, including under eyelids, with copious amounts of water until victim is transported 
+to an emergency medical facility.   Contact a physician immediately!  This material can cause corneal edema! 
+ 
+Inhalation:  Move the victim to fresh air.  If breathing is difficult, give oxygen; if victim is not breathing, give artificial 
+respiration.  Contact medical assistance if necessary. 
+ 
+Ingestion:  Never give anything by mouth to an unconscious or convulsing person.  If ingested, have the conscious victim 
+drink 4 to 8 oz. of milk or water.  Contact a physician immediately. 
+ 
+
+Note  to  Physician:    Ingestion  of  large  amounts  of  cement  is  unlikely.    However,    to  prevent 
+re-exposing  the  esophagus  and  the  stomach,  do  not  induce  emesis  or  perform  gastric  lavage.  
+Immediate  dilution  may  prevent  esophageal  burns.    For  severe  espohageal  burns,  consider 
+esophagoscopy within the first 24 hours.  Neutralization with acidic agents is not advised because of 
+the increased risk of  exothermic burns.   
+
+ 
+
+Water-mineral oil soaks may aid in the removal of  hardened cement from the skin.  Dried on cement is 
+extremely difficult to remove; surgical debridement and possibly even skin grafting may be necessary. 
+ Consult an opthalmologist for ocular burns.  Consider topical mydriatic-cycloplegics to guard against 
+development of posterior synechiae and ciliary spasm. 
+
+TARGET ORGAN(S) OF ATTACK:  The upper respiratory tract (URT), skin, digestive tract and eyes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION VII. PRECAUTIONS FOR SAFE HANDLING AND USE 
+
+ 
+Steps to be taken in Case Material is Released or Spilled:  Notify safety personnel of large leaks.  Provide adequate 
+ventilation.  Cleanup personnel  must be protected against dust inhalation and direct contact with the wet cement.  Avoid 
+creating airborne dust conditions.  Cleanup methods such as vacuuming (with an appropriate filter) or wet mopping minimizes 
+dust dispersion.  Carefully scoop up spilled dry material  into a suitable container (with secure lid) for disposal or reclamation. 
+  
+
+ 
+Waste Disposal:  Contact your local, licensed contractor for detailed recommendations.  Follow all Federal, state and local 
+regulations. 
+ 
+
+ 
+Handling and Storage:  Those handling portland cement should wear protective eyeglasses or chemical safety goggles, per 
+OSHA eye and face protection regulations.  Wear other protective clothing such as gloves, boots and aprons to prevent skin 
+contact.  Wear a NIOSH approved respirator for prolonged exposure or exposures above the TLV.  Warning: Air-purifying 
+respirators will not protect workers in an oxygen-deficient atmosphere.   
+ 
+Never eat, drink or smoke in the work area.  Launder soiled clothing before wearing. 
+ 
+
+Note: Contact lenses pose a special problem; soft lenses may absorb irritants and all lenses concentrate them.  DO NOT 
+wear contact lenses in the lab. 
+
+ 
+Provide general and local ventilation systems to maintain airborne concentrations below the OSHA PELs and ACGIH TLV.  
+Local exhaust ventilation is preferred since it prevents contaminant dispersion into the work area by controlling it at its source. 
+ Store in tightly closed containers in a cool, dry, well ventilated area.  Protect containers from physical damage. 
+ 
+
+ 
+SECTION VIII. SOURCE DATA/ OTHER COMMENTS 
+
+ 
+Sources:   Genium Publishing Corporation, MSDS No. 718, August, 1990. 
+
+Hawley's Condensed Chemical Dictionary, 11th ed., 1987. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Carmelita S. Davis   (301) 975-6439 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+Gaithersburg, Maryland  20899 
+
+Note:  Physical and chemical data contained in this MSDS are provided for use in assessing the hazardous nature of the 
+material.  The MSDS was prepared carefully, using current references, however NIST does not certify the data on the 
+MSDS.  The certified values for this material are given only on the NIST Certificate of Analysis. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

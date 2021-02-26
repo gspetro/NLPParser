@@ -1,0 +1,299 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 900a
+
+
+
+Antiepilepsy Drugs in Frozen Human Serum
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in evaluating the accuracy of procedures for the determination of the specified constituents in human serum.  It is also intended for use in validating working or secondary reference materials.  SRM 900a was prepared by fortifying drugfree human serum with two different concentrations of phenobarbital (PHB), phenytoin (PHT), lamotrigine (LTG), and topiramate (TPM).  A unit of SRM 900a consists of four vials of frozen human serum, two vials each at two different concentration levels.  Each vial contains 2 mL of frozen human serum.
+
+
+
+Certified Values:  The certified mass fraction and mass concentration values for PHB, PHT, LTG, and TPM are found in Table 1 for Level 1 of SRM 900a and in Table 2 for Level 2.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, in that all known or suspected sources of bias have been investigated or taken into account [1].  The certified concentration values for each level are based on the agreement of results from isotope dilution liquid chromatography – mass spectrometry (IDLCMS) and isotope dilution liquid chromatography – tandem mass spectrometry (IDLCMS/MS) [2].  The certified concentrations apply only to serum thawed to room temperature (20 °C to 25 °C), see (“Instructions for Storage and Use”).
+
+
+
+Expiration of Certification:  The certification of SRM 900a is valid, within the measurement uncertainty specified, until 01 September 2016, provided the SRM is handled and stored in accordance with instructions given in this certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+							
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register) will facilitate notification.
+
+							
+
+Coordination of the technical measurements leading to the certification of SRM 900a was performed by K.W. Phinney of the NIST Chemical Sciences Division.
+
+
+
+Analytical measurements were performed by S.SC. Tai of the NIST Chemical Sciences Division and C.Y. Yeh, a guest scientist at NIST from the Industrial Technology Research Institute (ITRI), Taiwan.  Additional measurements were performed by L.T. Sniegoski and M.M. Schantz of the NIST Chemical Sciences Division and B.E. Lang of the NIST Biochemical Science Division.
+
+
+
+							Statistical consultation was provided by N.F. Zhang of the NIST Statistical Engineering Division.
+
+							
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+		Carlos A. Gonzalez, Chief
+
+		Chemical Sciences Division
+
+	
+
+	Gaithersburg, MD 20899	Steven J. Choquette, Acting Director
+
+	Certificate Issue Date:  10 February 2016	Office of Reference Materials
+
+							Certificate Revision History on Last Page
+
+
+							NOTICE AND WARNINGS TO USERS
+
+							
+
+							SRM 900a IS INTENDED FOR RESEARCH USE.  THIS IS A HUMANSOURCE MATERIAL.  HANDLE PRODUCT AS A BIOHAZARDOUS MATERIAL CAPABLE OF TRANSMITTING INFECTIOUS DISEASE.  The supplier of this serum has reported that each donor unit of serum or plasma used in the preparation of this product was tested by a U.S. Food and Drug Administration (FDA) approved method and found nonreactive/negative for hepatitis B surface antigen (HbsAg), human immunodeficiency (HIV) 1 and 2 antibodies, and hepatitis C virus (HCV).  However, no known test method can offer complete assurance that hepatitis B virus, hepatitis C virus, HIV, or other infectious agents are absent from this material.  Accordingly, this human bloodbased product should be handled at the Biosafety Level 2 or higher as recommended for any POTENTIALLY INFECTIOUS HUMAN SERUM OR BLOOD SPECIMEN in the Centers for Disease Control and Prevention/National Institutes of Health Manual [3].
+
+							
+
+							INSTRUCTIONS FOR STORAGE AND USE
+
+							
+
+							Storage:  The SRM is stored at –80 °C at NIST.  The serum is shipped frozen (on dry ice) and, upon receipt, should be stored frozen until ready for use.  A freezer temperature of –20 °C is acceptable for storage for up to one week.  If a longer storage time is anticipated, the material should be stored at or below –60 °C.  The SRM should not be exposed to sunlight or ultraviolet radiation.  Storage of thawed material at room or refrigerator temperatures may result in changes in analyte concentrations.
+
+							
+
+							Use:  Vials of the SRM to be analyzed should be removed from the freezer and thawed to room temperature (20 °C to 25 °C).  After the material is thawed to room temperature, it should be used immediately.  The material should be swirled gently to mix it before aliquots are withdrawn.
+
+							
+
+							SOURCE, PREPARATION, AND ANALYSIS()
+
+							
+
+Source and Preparation:  SRM 900a was prepared by Aalto Scientific (Carlsbad, CA).  The material was prepared from normal human serum that was fortified with the analytes of interest at two different concentrations.  The base serum pool was screened to ensure the absence of PHB, PHT, LTG, and TPM prior to fortification.
+
+							
+
+Analysis:  Value assignment of the concentrations of PHB, PHT, LTG, and TPM in SRM 900a was based on the combination of results obtained from two analytical methods (IDLCMS and IDLCMS/MS).
+
+							
+
+Measurement of PHB, PHT, LTG, and TPM by IDLCMS:  Serum (0.8 g for Level 1, 0.4 g for Level 2) was combined with water (to avoid protein precipitation when samples were spiked with internal standard solutions) and internal standard solutions containing PHBd5, PHT13C115N2, LTG13C215N1, and TPMd12. The analytes and their respective internal standards were extracted from the serum with a mixture of hexane and ethyl acetate.  The extraction was repeated twice, and the combined extracts were evaporated to dryness under nitrogen.  The residues were reconstituted with methanol.  Sample extracts were analyzed by LCMS with electrospray ionization (ESI).  Ionization was in the negative ion mode for PHB, PHT, and TPM, and in the positive ion mode for LTG.  Chromatographic separation was achieved on a C18 column with a mobile phase comprised of water and methanol (each containing 5 mmol/L ammonium acetate).  The ions monitored included m/z 231 and m/z 236 for PHB and PHBd5, respectively; m/z 251 and m/z 254 for PHT and PHT-13C115N2, respectively; m/z 256 and m/z 259 for LTG and LTG13C215N1, respectively; and m/z 338 and m/z 350 for TPM and TPMd12, respectively.
+
+
+
+Measurement of PHB, PHT, LTG, and TPM by IDLCMS/MS:  Serum (0.8 g for Level 1, 0.4 g for Level 2) was combined with water (to avoid protein precipitation when samples were spiked with internal standard solutions) and internal standard solutions containing PHBd5, PHT13C115N2, LTG13C215N1, and TPMd12. The sample pH was adjusted to 2.0  0.5 with 0.5 mol/L phosphoric acid, and the analytes were isolated from the serum matrix by solidphase extraction (SPE) with C18 cartridges.  The analytes were eluted from the SPE cartridges with methanol, the eluents were evaporated to dryness under nitrogen, and the residues were reconstituted with methanol.  Sample extracts were analyzed by LCMS/MS with electrospray ionization (ESI).  Ionization was in the positive ion mode for PHT and LTG, and in the negative ion mode for PHB and TPM.  Chromatographic separation was achieved on a C18 column with a mobile phase comprised of water and methanol (each containing 5 mmol/L ammonium acetate).  The transitions monitored included m/z 231 → m/z 188 and m/z 236 → m/z 193 for PHB and labeled PHB, respectively; m/z 253 → m/z 182 and m/z 256 → m/z 183 for PHT and labeled PHT, respectively; m/z 256 → m/z 256 and m/z 259 → m/z 259 for LTG and labeled LTG, respectively; and m/z 338 → m/z 78 and m/z 350 → m/z 78 for TPM and labeled TPM, respectively.
+
+Homogeneity Analysis:  The homogeneity assessment was made at the time the certification analyses were performed.  A stratified sampling plan was devised to test for homogeneity across the lot of ampoules.  There was no apparent trend in the data when plotted against the sequence in which the vials were prepared.
+
+
+
+							Certified Values:  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence; it incorporates Type B uncertainty components related to the analyses, and expresses both the observed difference between the results from the methods and their respective uncertainties, consistent with the ISO/JCGM Guide and with its Supplement 1 [4–6].  The expanded uncertainty is calculated as U = kuc, where uc is the combined uncertainty, and k is a coverage factor corresponding to approximately 95 % confidence for each analyte [4].  For the certified values shown below, k = 2.  The measurands are the values of PHB, PHT, LTG, and TPM at two different levels listed in Tables 1 and 2, respectively.  Metrological traceability is to the SI derived units for mass fraction (expressed as micrograms per gram) and mass concentration (expressed as micrograms per milliliter).
+
+
+
+Table 1.  Certified Values for Level 1 of SRM 900a
+
+
+
+							
+
+
+
+Mass Fraction
+
+(µg/g)
+
+Mass Concentration(a)
+
+(µg/mL)
+
+Phenobarbital (PHB)
+
+				16.8		0.6
+
+				17.1		0.6
+
+Phenytoin (PHT)
+
+				11.6		0.4
+
+				11.9		0.4
+
+Lamotrigine (LTG)
+
+				3.94		0.13
+
+				4.02		0.13
+
+Topiramate (TPM)
+
+				6.91		0.22
+
+				7.05		0.23
+
+							
+
+																							(a)	Mass concentrations were calculated from mass fractions using the measured serum density 1.01997 g/mL.  The uncertainty in the serum density measurements was incorporated in values that are reported relative to units of volume.
+
+							
+
+							
+
+Table 2.  Certified Values for Level 2 of SRM 900a
+
+							
+
+							
+
+
+
+Mass Fraction
+
+(µg/g)
+
+Mass Concentration(a)
+
+(µg/mL)
+
+Phenobarbital (PHB)
+
+				68.9		2.2
+
+				70.2		2.3
+
+Phenytoin (PHT)
+
+				46.1		1.5
+
+				47.0		1.5
+
+Lamotrigine (LTG)
+
+				14.6		0.5
+
+				14.9		0.5
+
+Topiramate (TPM)
+
+				19.3		0.8
+
+				19.7		0.8
+
+							
+
+																							(a)	Mass concentrations were calculated from mass fractions using the measured serum density 1.01989 g/mL.  The uncertainty in the serum density measurements was incorporated in values that are reported relative to units of volume.
+
+							
+REFERENCES
+
+	
+
+	[1]	May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260–136; U.S. Government Printing Office: Gaithersburg, MD (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Feb 2016).
+
+	[2]	Tai, S.S.-C.; Phinney, K.W.; Yi, C.-Y.; Development and Validation of a Reference Measurement Procedure for Certification of Phenytoin, Phenobarbital, Lamotrigine, and Topiramate in Human Serum Using Isotope-Dilution Liquid Chromatography/Tandem Mass Spectrometry; Anal. Bioanal. Chem., Vol. 401, pp. 2726–2732 (2011).
+
+	[3]	CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: Washington, D.C. (2009); available at http://www.cdc.gov/biosafety/publications/index.htm (accessed Feb 2016).
+
+	[4]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Feb 2016); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Feb 2016).
+
+	[5]	JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty in Measurement – Propagation of Distributions Using a Monte Carlo Method; (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2016);
+
+	[6]	Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Certificate Revision History:  10 February 2016 (Editorial changes); 06 December 2011 (Original certificate date).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+																														Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+	SRM 900a	Page 2 of 4

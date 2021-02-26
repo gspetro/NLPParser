@@ -1,0 +1,277 @@
+﻿ent  OF  Co, 
+
+“4 
+
+a 
+z  x2]  ;  National  Institute  of  Standards  &  Cerchmolagy 
+
+ee 
+
+my 
+
+gs 
+
+Certificate  of  Analusis
+
+ 
+Standard Reference Material 919b 
+ 
+Sodium Chloride 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  the  production  of  saline  solutions  of  accurately  known 
+concentration and the calibration of instrumentation and standardization of procedures used in the determination of 
+sodium and chloride ions.  A unit of SRM 919b consists of a single glass bottle containing 30 g of the material. 
+ 
+Certified  Values:    Table 1  lists  the  certified  values  for  this  SRM,  expressed  as  mass  fractions,  w,  of  sodium 
+chloride (NaCl), chloride (Cl−), and sodium (Na+).  A NIST certified value is a value for which NIST has the highest 
+confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into 
+account [1]. 
+ 
+
+Table 1.  Certified Values(a) for SRM 919b Sodium Chloride 
+
+ 
+
+ 
+
+ 
+wNaCl  
+wCl−  
+wNa+  
+
+ 
+99.835 % 
+ 
+60.564 % 
+39.2747 %   
+
+ 
+ 
+ 
+ 
+(a) Each result is expressed as the certified value  the expanded uncertainty, U, calculated as U = kuc, where uc is the combined 
+standard uncertainty calculated according to the ISO/JCGM and NIST Guides [2].  The value of uc is intended to represent, at 
+the level of one standard deviation, the combined effects of inherent sources of uncertainty of the assay techniques and applicable 
+corrections for interfering trace elements.  The value of the coverage factor, k, is 2, which corresponds to a level of confidence 
+of approximately 95 %.  The certified values for the mass fractions of Na, Cl, and NaCl are metrologically traceable to the SI 
+units for mass, current, and time in the coulometric assay; to the SI unit for mass in the gravimetric assay; and to the derived SI 
+unit kilogram per kilogram for mass fraction (expressed as a percent) for the corrections for trace elements. 
+
+0.020 % 
+0.014 % 
+0.0075 % 
+
+ 
+Expiration of Certification:  The certification of SRM 919b is valid, within the measurement uncertainty specified, 
+until  01 March 2022,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance  of  Certification:    NIST  will  monitor  representative  samples  from  this  SRM  lot  over  the  period  of 
+its certification.  If  substantive  changes  occur  that  affect  the  certification  before  the  expiration  of  certification, 
+NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of SRM 919b was provided by K.W. Pratt and 
+T.W. Vetter of the NIST Analytical Chemistry Division. 
+ 
+Coulometric and gravimetric analyses were performed at NIST by K.W. Pratt and T.W. Vetter, respectively.  Trace 
+element analyses by spark-source mass spectrometry were performed by a commercial laboratory. 
+ 
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  09 February 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 919b  
+
+Page 1 of 3 
+
+Information Values:  Table 2 lists information values for selected impurities in SRM 919b.  No other elements were 
+detected at a mass fraction greater than 1 µg/g.  Information values are non-certified values that may be of interest and 
+use to the SRM user, but insufficient information is available to provide an uncertainty associated with the value [1].  
+Information values cannot be used to establish metrological traceability. 
+ 
+
+Table 2.  Information Values for SRM 919b 
+
+ 
+
+Element 
+
+ 
+Br 
+S 
+K 
+Si 
+Ca 
+P 
+Al 
+I 
+F 
+Ni 
+Li 
+Mg 
+Rb 
+Ba 
+Cs 
+
+Mass Fraction  
+(µg/g) 
+ 
+ 
+15 
+10 
+7 
+5 
+1 
+0.5 
+0.4 
+
+< 25 
+< 5 
+< 2 
+< 1 
+< 1 
+< 1 
+< 1 
+< 0.5 
+
+ 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Stability and Storage:  This SRM  should be stored in its original bottle at room temperature.  It  must be tightly 
+re-capped  after  use  and  protected  from  moisture  and  light.    At  room  temperature,  sodium  chloride  is  hygroscopic 
+above  60 %  relative  humidity.    It  is  recommended  that  weighing  and  other  manipulations  not  be  made  when  the 
+relative humidity exceeds 60 %. 
+ 
+Homogeneity:  This SRM is homogeneous within the uncertainty limits for the nominal sample mass, 170 mg, used 
+for the coulometric assays.  Samples less than 170 mg are not recommended, in order to avoid possible heterogeneity 
+with smaller sample sizes. 
+ 
+Possible Interfering Species:  It is the responsibility of the user to evaluate  which species may interfere with the 
+application  of  this  SRM  and  to  apply  any  necessary  corrections  that  affect  the  given  application.    The  following 
+information and the values in Table 2 may be useful in this evaluation. 
+ 
+Corrections  for  trace  elements  were  obtained  from  the  spark-source  mass  spectrometric  determinations  and  the 
+appropriate  gravimetric  factors.    A  portion  of  the  Na+  is  assumed  to  be  present  in  SRM 919b  as  sodium 
+sulfate (Na2SO4),  sodium  bromide  (NaBr),  sodium  iodide  (NaI),  disodium  hydrogen  phosphate (Na2HPO4),  and 
+sodium  fluoride (NaF);  and  a  portion  of  the  Cl−  is  assumed  to  be  present  as  potassium  chloride  (KCl),  lithium 
+chloride (LiCl),  calcium  chloride (CaCl2),  nickel  chloride (NiCl2),  aluminum  chloride (AlCl3),  magnesium 
+chloride (MgCl2), barium chloride (BaCl2), rubidium chloride (RbCl), and cesium chloride (CsCl).  Silicon is assumed 
+to be present as silicon dioxide (SiO2).  Hence, the sum of the certified values for wNa+ and wCl− does not equal the 
+certified value for wNaCl. 
+ 
+The  certified  value  for  wNaCl  is  obtained  from  an  equally  weighted  combination  of  the  results  of  the  gravimetric 
+determination  of  NaCl,  with  appropriate  corrections  for  trace  elements;  and  the  results  of  the  coulometric 
+determination of NaCl, with appropriate corrections for trace elements. 
+ 
+The  certified  value  for  wCl−  is  obtained  from  an  equally  weighted  combination  of  the  results  of  the  coulometric 
+determination of Cl−, with corrections for interfering bromide and iodide; and the results of the indirect determination 
+of Cl obtained from the gravimetric determination of Na+, with appropriate corrections for trace elements. 
+
+SRM 919b  
+
+Page 2 of 3 
+
+The  certified  value  for  wNa+  is  obtained  from  an  equally  weighted  combination  of  the  results  of  the  gravimetric 
+determination of Na+, with appropriate corrections for trace elements; and the results of the indirect determination of 
+Na+ obtained from the coulometric determination of Cl−, with appropriate corrections for trace elements. 
+ 
+Coulometric measurements of SRM 919b ignited for 3 h at 600 °C and measurements of change in mass on ignition 
+each indicate the presence of (0.16    0.02 ) % inert volatile material, presumably occluded water, which is volatilized 
+on ignition.  This value is a reference value [1], which is a best estimate of the true value, where all known or suspected 
+sources of bias have not been fully investigated by NIST. 
+ 
+Drying Instructions:  Dry for 3 h at 110 C.  After the SRM has been dried, store it in a desiccator over anhydrous 
+magnesium perchlorate and gently crush any lumps present before using. 
+ 
+Source  of Material:   The  NaCl  used  for  this  SRM  was  obtained  from  a  commercial  supplier.   The  material  was 
+examined  for  compliance  with  the  specification  for  reagent  grade  NaCl  as  specified  by  the  American  
+Chemical Society [3].  The material was found to meet or exceed the minimum requirements in every respect. 
+ 
+Assay  Techniques:    The  coulometric  assay  value  was  obtained  by  automated  titration [4]  with  coulometrically 
+generated  Ag+  using  potentiometric  detection  of  the  endpoint.    The  gravimetric  assay  value  was  obtained  by 
+conversion of the Na present to Na2SO4, including corrections for trace impurities in the SRM (procedure based on 
+reference 5). 
+ 
+NOTICE TO USERS 
+ 
+This SRM is for research use only. 
+ 
+NIST encourages the use of its SRMs to establish metrological traceability for the user’s measurement results, and 
+NIST strives to maintain the SRM inventory supply.  However, NIST cannot guarantee the continued or continuous 
+supply of any specific SRM. Accordingly, NIST encourages the use of SRMs as primary benchmarks for the quality 
+and accuracy of the user’s in-house (working) standards.  As such, SRMs should be used to validate or otherwise 
+assign values to the more routinely used standards in a laboratory.  When the metrologically traceable values of such 
+standards are assigned  using  this SRM  for calibration, the  uncertainties assigned to  those values  must include the 
+uncertainty  of  the  certified  value  of  this  SRM,  appropriately  combined  with  the  uncertainties  of  the  calibration 
+measurements  for  the  in-house  standard.    Comparisons  between  NIST  SRMs  and  such  working  measurement 
+standards should take place at intervals appropriate to the conservation of the SRM primary standard and the stability 
+of relevant in-house standards.  For  further guidance on how this approach can be implemented, contact  NIST  by 
+email at srms@nist.gov. 
+ 
+ 
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Feb 2016). 
+
+REFERENCES 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2016). 
+
+[3]  Reagent Chemicals, 9th ed.: American Chemical Society: Washington, DC (1999). 
+[4]  Pratt, K.W.; Automated, High-Precision Coulometric Titrimetry Part I. Engineering and Implementation; Anal. 
+
+Chim. Acta, Vol. 289, pp. 125–134 (1994). 
+
+[5]  Moody, J.R.;  Vetter, T.W.;  Development  of  the  Ion  Exchange-Gravimetric  Method  for  Sodium  in  Serum  as  a 
+Definitive  Method;  J.  Res.  Natl.  Inst.  Stand.  Technol.,  Vol. 101,  pp. 155–164  (1996);  available  at 
+http://nvl.nist.gov/pub/nistpubs/jres/101/2/j2mood.pdf (accessed Feb 2016). 
+
+ 
+
+Certificate Revision History:  09 February 2016 (Editorial changes); 22 March 2007 (Original certificate date). 
+
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 919b  
+
+Page 3 of 3 
+
+

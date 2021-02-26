@@ -1,0 +1,1042 @@
+﻿Date of Issue:
+
+15 June 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1.  Substance and Source Identification 
+
+Product Identifier
+
+SRM Number:  1837
+
+SRM Name:  Methanol (9 volume percent) and t-Butanol (6 volume percent) Reference Fuel
+
+	Other Means of Identification:  Not applicable.
+
+Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in calibrating of instruments and evaluating techniques used for the determination of methanol and t-butanol in gasoline.  The reference fuel is a mixture of 91 % isooctane (2,2,4-trimethylpentane) and 9 % n-heptane (volume fractions).  A unit of SRM 1837 consists of five twentymilliliter ampoules, two of each solution.   
+
+Company Information
+
+National Institute of Standards and Technology
+
+
+
+Standard Reference Materials Program
+
+
+
+100 Bureau Drive, Stop 2300
+
+
+
+Gaithersburg, Maryland 208992300
+
+
+
+
+
+
+
+	Telephone:  3019752200
+
+Emergency Telephone ChemTrec:
+
+FAX:  3019483730
+
+	18004249300 (North America)
+
+Email:  SRMMSDS@nist.gov
+
+	+17035273887 (International)
+
+Website:  http://www.nist.gov/srm
+
+
+
+
+
+2.  Hazards Identification
+
+Classification
+
+		Physical Hazard:	Flammable Liquid	Category 2
+
+		Health Hazard:	Acute Toxicity, Oral and Inhalation	Category 4
+
+			Skin Corrosion/Irritation	Category 2
+
+			Serious Eye Damage/Irritation	Category 2B
+
+			STOT, Single Exposure	Category 1
+
+			Aspiration Hazard	Category 1
+
+Label Elements
+
+Symbol
+
+
+
+Signal Word
+
+DANGER
+
+Hazard Statement(s)
+
+	H225
+
+Highly flammable liquid and vapor.
+
+	H302+H332
+
+Harmful if swallowed or if inhaled.
+
+	H304
+
+May be fatal if swallowed and enters airways.
+
+	H315+H320
+
+Causes skin and eye irritation.
+
+	H370
+
+Causes damage to central nervous system.
+
+	Precautionary Statement(s)
+
+P210
+
+Keep away from heat, sparks, open flames, hot surfaces. — No smoking.
+
+P241
+
+Use explosionproof electrical, ventilating, and lighting equipment.
+
+P242
+
+Use only nonsparking tools.
+
+P243
+
+Take precautionary measures against static discharge.
+
+P261
+
+Avoid breathing mist, vapors, or spray.
+
+P264
+
+Wash hands thoroughly after handling.
+
+P270
+
+Do not eat, drink or smoke when using this product.
+
+P271
+
+Use only outdoors or in a well-ventilated area.
+
+P280
+
+Wear protective gloves, eye protection, and protective clothing.
+
+
+
+
+
+P301+P310
+
+If swallowed:  Immediately call a doctor.
+
+P331
+
+Do NOT induce vomiting.
+
+
+
+
+
+P302+P352
+
+If on skin:  Wash with plenty of water.
+
+P305+P351+P338
+
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses, if present and easy to do.  Continue rinsing.
+
+P332+P337+P313
+
+If skin or eye irritation occurs:  Get medical attention.
+
+
+
+
+
+P304+P340
+
+If inhaled:  Remove person to fresh air and keep comfortable for breathing.
+
+P312
+
+Call a doctor if you feel unwell.
+
+
+
+
+
+P362+P364
+
+Take off contaminated clothing and wash it before reuse.
+
+
+
+
+
+P403+P235+P233
+
+Store in a wellventilated place.  Keep cool.  Keep container tightly closed.
+
+P405
+
+Store locked up.
+
+
+
+
+
+P501
+
+Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+
+3.  Composition and Information on Hazardous Ingredients
+
+Substance:  Reference gasoline with added alcohol components.
+
+Other Designations:  Synthetic gasoline blend composed of 91 % isooctane and 9 % n-heptane by volume.
+
+Hazardous Component
+
+CAS Number
+
+EC Number (EINECS)
+
+Nominal Mass Concentration (%)
+
+Reference Gasoline Components
+
+
+
+
+
+
+
+Isooctane
+
+		540-84-1
+
+208-759-1
+
+	76
+
+n-Heptane
+
+		142-82-5
+
+205-563-8
+
+	8
+
+Alcohol Components
+
+	
+
+
+
+	
+
+Methanol
+
+		67-56-1
+
+200-659-6
+
+	10
+
+t-butanol
+
+		75-65-0
+
+200-889-7
+
+	6
+
+	
+
+4.  First Aid Measures
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If breathing is difficult, qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  Aspiration hazard.  Do not induce vomiting.  Contact local poison control immediately; if vomiting occurs, keep head lower than hips to prevent aspiration.  If unconscious, turn head to side; get medical attention immediately.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Aspiration hazard, harmful if swallowed, central nervous system depression, and may cause blindness.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5.  Fire Fighting Measures
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor/air mixtures are explosive above the flash point.  Vapors or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water, or alcoholresistant foam.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for FireFighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 3	Fire = 3	Reactivity = 0
+
+6.  Accidental Release Measures
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or noncombustible material and collect in appropriate container for disposal. 
+
+7.  Handling and Storage
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage and Incompatible Materials:  Store in a wellventilated area.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. Exposure Controls and Personal Protection
+
+
+
+Exposure Limits
+
+Components
+
+OSHA (PEL)
+
+ACGIH (TLV)
+
+NIOSH (REL)
+
+Isooctane
+
+No occupational exposure limits established.
+
+n-Heptane
+
+TWA:  2000 mg/m3 (500 ppm)
+
+TWA:  400 ppm
+
+STEL:  500 ppm
+
+TWA:  350 mg/m3 (850 ppm)
+
+Ceiling:  1800 mg/m3 (440 ppm)
+
+IDLH:  750 ppm
+
+t-Butanol
+
+	TWA:  300 mg/m3 (100 ppm)
+
+TWA:  100 ppm
+
+TWA:  300 mg/m3 (100 ppm)
+
+STEL:  450 mg/m3 (150 ppm)
+
+IDLH:  1600 ppm
+
+Methanol
+
+TWA:  260 mg/m3 (200 ppm)
+
+TWA:  200 ppm
+
+STEL:  250 ppm
+
+Skin(a)
+
+TWA:  260 mg/m3 (200 ppm)
+
+Ceiling:  325 mg/m3 (250 ppm)(b)
+
+IDLH:  6000 ppm
+
+Dermal exposure(c)
+
+	(a)	Skin – Potential significant contribution to overall exposure by the cutaneous route.
+
+	(b)	15 minutes.
+
+	(c)	Potential for Dermal exposure.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9.  Physical and Chemical Properties
+
+Note:  The chemical and physical properties of components of the reference fuel are listed below.
+
+Properties
+
+	Isooctane
+
+	n-heptane
+
+Molar Mass (g/mol)
+
+	114.23
+
+	100.21
+
+Molecular Formula
+
+	C8H18
+
+	C7H16
+
+Appearance (physical state, color, etc.)
+
+	clear, colorless liquid
+
+	clear, colorless liquid
+
+Odor
+
+	gasoline odor
+
+	gasoline odor
+
+Odor threshold
+
+	not available
+
+	200 ppm
+
+pH
+
+	not available
+
+	not available
+
+Evaporation rate
+
+	<1 (ether = 1) 
+
+	2.8 (butyl acetate = 1)
+
+Melting point/freezing point
+
+	–107 °C (–161 °F)
+
+	–91 °C (–143 °F)
+
+Specific Gravity (water = 1)
+
+	0.6919
+
+	0.6837
+
+Density
+
+	not available
+
+	not available
+
+Vapor Pressure
+
+	41 mmHg at 21 °C
+
+	40 mmHg at 20 °C
+
+Vapor Density (air = 1)
+
+	3.9
+
+	3.45
+
+Viscosity
+
+	not available
+
+	not available
+
+Solubilities
+
+	water:  immiscible;
+
+	soluble in ether, alcohol, acetone, benzene, toluene, chloroform, xylene, carbon disulfide carbon tetrachloride, dimethylformamide, oils
+
+	water:  0.005 %
+
+	soluble in ether, alcohol, acetone, chloroform.
+
+Partition coefficient (noctanol/water)
+
+	not available
+
+	not available
+
+Thermal Stability Properties
+
+	
+
+	
+
+Autoignition Temperature
+
+	415 °C (779 °F)
+
+	205 °C (401 °F)
+
+Thermal Decomposition
+
+	not available
+
+	not available
+
+Initial boiling point and boiling range
+
+	99 °C (210 °F)
+
+	98 °C (208 °F)
+
+Explosive Limits, LEL (Volume %)
+
+	1.1
+
+	1.05
+
+Explosive Limits, UEL (Volume %)
+
+	6
+
+	6.7
+
+Flash Point (Estimate)(closed cup)
+
+	–12 °C (10.4 °F)
+
+	–4°C (24.8 °F)
+
+Flammability (solid, gas)
+
+	not available
+
+	not available
+
+	
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  Avoid inhalation of material or combustion byproducts.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Oxidizing materials, halogens, metal salts, acids, bases, combustible materials.
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+
+
+
+11.  Toxicological Information
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin irritation, eye irritation, central nervous system depression, and may cause blindness.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  Acute exposure may result in irritation, headache, drowsiness, dizziness, vomiting, sleep disturbances, emotional disturbances, tremors, loss of coordination, visual disturbances, chest pain, difficulty breathing, irregular heartbeat, lung congestion, internal bleeding, blood disorders, kidney damage, liver damage, paralysis, brain damage, convulsions, unconsciousness, and coma.  Chronic exposure may result in the same effects as acute exposure but with changes in body temperature, and changes in blood pressure.
+
+Skin Contact:  Acute exposure may cause irritation, skin disorders.  Chronic exposure may cause irritation, skin disorders, tingling sensation, and allergic reactions.
+
+Eye Contact:  Exposure may result in irritation and other reversible effects.
+
+Ingestion:  Aspiration hazard.  Exposure may cause the same effects as listed for inhalation. 
+
+Numerical Measures of Toxicity
+
+Acute Toxicity:  Category 4, Oral and Inhalation.
+
+Components
+
+Acute Toxicity
+
+Acute Toxicity (point estimates)
+
+Isooctane
+
+Rat, Oral, LD50:  >2500 mg/kg
+
+Rat, Inhalation, LC50:  47.7 mg/L (1 h)
+
+Not classified.
+
+n-heptane
+
+Rat, Oral, LD50:  5000 mg/kg
+
+Rat, Inhalation, LC50:  103 g/m3 (4 h)
+
+Rabbit, Skin, LD50:  3000 mg/kg
+
+Not classified.
+
+Methanol
+
+Human, Oral LDLo:  143 mg/kg
+
+Rat, Oral, LD50:  5600 mg/kg
+
+Rat, Inhalation, LC50:  6400 ppm (4 h)
+
+Rabbit, Skin, LD50:  15800 mg/kg
+
+Pure Methanol:  Category 3 Oral, Inhalation and Dermal
+
+
+
+The guidance in OSHA’s 1910.1200 Appendix A, Section A.1.3.3, (d) states that when only range data or acute toxicity hazard category information are available, to use the estimates listed in Table A.1.2.  The values listed in the table for the Converted Acute Toxicity Point Estimates for Category 3 are:
+
+Oral 100 mg/kg
+
+Dermal 300 mg/kg
+
+Inhalation:
+
+Gases 700 ppmV
+
+Vapors 3 mg/L
+
+Dust/Mist 0.5 mg/L
+
+t-Butanol
+
+Rat, Oral, LD50:  2733 mg/kg
+
+Rat, Inhalation, LC50:  14100 ppm (4 h)
+
+Rabbit, Skin, LD50:  >2000 mg/kg
+
+Not classified.
+
+
+
+The calculated data points for a 10 % methanol solution based on the Converted Acute Toxicity Point Estimates are: Oral 1000 mg/kg; Dermal 3000 mg/kg; Inhalation: Gases 7000 ppmV, Vapors 30 mg/L, Dust/Mist 5 mg/L.
+
+Therefore, the mixture is classified as: 
+
+Acute Toxicity:  Oral, Category 4; Inhalation, Dust/Mist:  Category 4
+
+Skin Corrosion/Irritation:  Category 2; may cause irritation, redness, and defatting of the skin.
+
+Serious Eye Damage/Irritation:  Category 2B; may cause irritation with redness.
+
+Respiratory Sensitization:  No data available.
+
+Skin Sensitization:  No data available.
+
+Individuals have reported sensitivity to some of the components.
+
+Germ Cell Mutagenicity:  No data available.
+
+Isooctane, Mutagenic, Mouse:  500 mg/kg
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Isooctane, n-heptane, methanol, and t-butanol are not listed by IARC, NTP, and OSHA as a carcinogen/potential carcinogen.
+
+Reproductive Toxicity:  No data available; not classified.
+
+STOT, Single Exposure:  Category 1.
+
+Causes damage to central nervous system.
+
+STOT, Repeated Exposure:  No data available; not classified.
+
+Aspiration Hazard:  Category 1.  2,2’4-Trimethylpentane and n-heptane are aspiration hazards.
+
+12.  Ecological Information
+
+Ecotoxicity Data
+
+Components
+
+Aquatic Toxicity
+
+n-heptane
+
+Fish:  Cichlid, LC50 (96 h):  375 mg/L
+
+t-butanol
+
+Fish:  Fathead minnow, (Pimephales promelas), LC50 (96 h):  6130 to 6700 mg/L [flow-through]
+
+Algae: Pond scum, (Desmodesmus subspicatus), EC50 (72 h):  >1000 mg/L 
+
+Invertebrate:  Water flea, (Daphnia magna), EC50 (48 h):  933 mg/L
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  t-butanol BCF:  1.09 (fish)
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13.  Disposal Considerations
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to hazardous waste regulations US EPA 40 CFR 262.
+
+14.  Transportation Information
+
+U.S. DOT and IATA:  UN1203; Gasoline; Hazard Class 3; Packing Group II.
+
+15.  Regulatory Information
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Isooctane:  1000 lbs (454 kg) final RQ.
+
+	Methanol:  5000 lbs (2270 kg) final RQ.
+
+SARA Title III Section 302 (40 CFR 355.30):  None of the components are regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  None of the components are regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  t-Butanol:  1 % de minimis concentration.
+
+	Methanol:  1 % de minimis concentration.
+
+OSHA Process Safety (29 CFR 1910.119):  None of the components are regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	Yes
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65: Not listed.
+
+U.S. TSCA Inventory:  Isooctane, n-heptane, methanol, and t-butanol are listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16.  Other Information
+
+	Issue Date:	15 June 2015
+
+	Sources:	ChemADVISOR, Inc., SDS 2,2,4-Trimethylpentane, 20 March 2015.
+
+		ChemADVISOR, Inc., SDS n-Heptane, 20 March 2015.
+
+		ChemADVISOR, Inc., SDS Methyl Alcohol, 20 March 2015.
+
+		ChemADVISOR, Inc., SDS Tert-Butyl Alcohol, 20 March 2015.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community RighttoKnow Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short Term Exposure Limit
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 1837		Page 5 of 7

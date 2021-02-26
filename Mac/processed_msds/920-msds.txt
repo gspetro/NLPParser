@@ -1,0 +1,574 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+11 January 2016 
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:  920 
+SRM Name:  D-Mannitol 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended for use in the calibration and standardization of procedures 
+for triglycerides determinations employed in research and for routine critical evaluation of the daily working 
+standards used in these procedures.  This SRM is certified as a chemical of known purity.  A unit of SRM 920 
+consists of one bottle containing 50 g of powder. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Health Hazard:  Not classified. 
+
+Label Elements 
+Symbol 
+No symbol/No pictogram. 
+
+Signal Word 
+No signal word. 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  D-Mannitol 
+
+Other  Designations:    Mannitol;  1,2,3,4,5,6-Hexanehexol;  manna  sugar;  mannite;  osmitrol;  manitons;  diosmol; 
+mannidex; mannigen; mannistol; osmosal; osmosol. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+D-Mannitol 
+
+ 
+
+69-65-8 
+
+200-711-8 
+
+100 
+
+SRM 920 
+
+ 
+
+Page 1 of 5 
+
+ 
+
+ 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:    If  adverse  effects  occur,  remove  to  uncontaminated  area.    Give  artificial  respiration  if  not 
+breathing.  Get immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing 
+and shoes.  Get medical attention, if needed.  Thoroughly clean and dry contaminated clothing and shoes before 
+reuse. 
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause mild or mechanical eye, skin, or respiratory 
+tract irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  Fire Fighting Measures 
+
+Fire and Explosion Hazards:  Slight fire hazard.  Avoid generating dust; sufficient concentrations of  fine dust 
+dispersed  in  air,  and  in  the  presence  of  an  ignition  source  is  a  potential  hazard.    See  Section  9,  “Physical  and 
+Chemical Properties” for flammability properties. 
+
+Extinguishing Media 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or alcohol-resistant foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Special Protective Equipment and Precautions for  Fire-Fighters:  Move container from fire area if it can be 
+done without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing 
+and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 1 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Any  accumulated  material  on 
+surfaces should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure 
+Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Collect in appropriate container for disposal.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  See Section 8, “Exposure 
+Controls and Personal Protection”. 
+
+Storage and Incompatible Materials:  Store and handling in accordance with all current regulations and standards.  
+Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”). 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  This material is a particulate matter and adequate inhalation/respiratory protection should be 
+used to minimize exposure.  No occupational exposure limits have been established for D-Mannitol.  The exposure 
+limits for Particulates Not Otherwise Regulated are applicable. 
+
+Particulates Not Otherwise Regulated (PNOR) 
+
+OSHA (PEL):  15 mg/m3 (TWA, total dust) 
+ 
+
+5 mg/m3 (TWA, respirable fraction) 
+
+NIOSH (REL):  15 mg/m3 (TWA, total dust) 
+ 
+
+5 mg/m3 (TWA, respirable fraction) 
+
+SRM 920 
+
+ 
+
+Page 2 of 5 
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA 29CFR 1910.134  must  be  followed.    Refer  to  NIOSH  42 CFR 84  for  applicable  certified 
+respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+ 
+
+D-Mannitol 
+182.17 
+C6H8(OH)6 
+
+Description Properties 
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.)  white crystalline powder 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Density (g/mL) 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+odorless 
+not available 
+not available 
+negligible 
+166 °C to 168 °C (330.8 °F to 334.4 °F) 
+1.5 to 1.52 
+negligible 
+not available 
+not available 
+soluble in water, aniline, alkali solutions, glycerol 
+insoluble in either, organic solvents 
+not available 
+not available 
+ 
+
+Partition coefficient (n-octanol/water) 
+Particle Size 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point (Closed Cup) 
+Flammability (solid, gas) 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+460 °C (860 °F) [dust cloud] 
+not available 
+290 °C to 295 °C (554 °F to 563 °F) 
+0.065 g/L 
+not available 
+149 °C (300.2 °F) 
+not available 
+
+Conditions  to  Avoid:    Avoid  generating  dust.  Avoid  heat,  flames,  sparks  and  other  sources  of  ignition.  Avoid 
+contact with incompatible materials. 
+
+Incompatible Materials:  Oxidizing materials. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+ 
+
+ 
+
+ 
+
+Will Occur 
+
+X  Will Not Occur 
+
+SRM 920 
+
+ 
+
+Page 3 of 5 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause mild or mechanical 
+eye, skin, or respiratory tract irritation. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  May cause irritation to the upper respiratory tract along with a tickling cough. 
+
+Skin Contact:  May cause irritation and discoloration of sensitive skin. 
+
+Eye Contact:  May cause irritation, redness, and pain. 
+
+Ingestion:  May cause gastrointestinal irritation, nausea, and diarrhea.  Large amounts may  cause vomiting, 
+chills, dizziness, chest pain, heart failure, and pulmonary edema. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified. 
+ 
+
+Oral, Rat LD50:  13 500 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye Damage/Eye Irritation:  Not classified; no data available. 
+
+Respiratory Sensitization: Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified. 
+ 
+
+Human, 50 mmol/L; Hamster, 500 mg/L (24 h); Other microorganisms, 1 mol/L 
+
+Carcinogenicity:  Not classified. 
+
+X  No 
+Listed as a Carcinogen/Potential Carcinogen 
+D-Mannitol is not listed by IARC, NTP or OSHA as a carcinogen/potential carcinogen. 
+
+Yes 
+
+ 
+
+ 
+
+Reproductive Toxicity:  Not classified. 
+
+STOT, Single Exposure:  Not classified; no data available. 
+
+STOT, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+SRM 920 
+
+ 
+
+Page 4 of 5 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No 
+No 
+No 
+No 
+No 
+
+State Regulations 
+
+California Proposition 65:  Not regulated. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  11 January 2016 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS Mannitol, 22 September 2015. 
+
+CDC;  NIOSH;  NIOSH  Pocket  Guide  to  Chemical  Hazards;  Department  of  Health  and  Human 
+Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety 
+and  Health;  Particulates  Not  Otherwise  Regulated, 
+at 
+http://www.cdc.gov/niosh/npg/npgd0480.html (accessed Jan 2016) 
+
+4 April 2011; 
+
+available 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Key of Acronyms:  
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Specific Target Organ Toxicity 
+STOT 
+Short Term Exposure Limit  
+STEL  
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify 
+the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis. 
+ 
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 920 
+
+ 
+
+Page 5 of 5 
+
+

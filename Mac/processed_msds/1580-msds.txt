@@ -1,0 +1,721 @@
+﻿Date of Issue:
+
+09 June 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	1580
+
+		SRM Name:	Organics in Shale Oil
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for evaluating the reliability of analytical methods for the determination of trace-level organic compounds in an oil matrix (i.e., shale oil, petroleum crude oil, or coal derived liquids).  A unit of SRM 1580 consists of five ampoules, each containing approximately 1.2 mL of shale oil.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Flammable Liquids 	Category 2
+
+		Health Hazard:	Carcinogenicity 	Category 1A
+
+		
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word
+
+			DANGER
+
+			Hazard Statement(s) 
+
+	H225	Highly flammable liquid and vapor.
+
+	H350	May cause skin cancer.
+
+	Precautionary Statement(s)
+
+	P201 	Obtain special instructions before use. 
+
+	P202 	Do not handle until all safety precautions have been read and understood. 
+
+	P210	Keep away from heat, sparks, open flames, and hot surfaces.  No smoking.
+
+	P233	Keep container tightly closed.
+
+	P241	Use explosion proof electrical, ventilating, and lighting equipment.
+
+	P242	Use only non-sparking tools.
+
+	P243	Take precautionary measures against static discharge.
+
+	P280 	Wear protective gloves, protective clothing, and eye protection.
+
+	P303+P361+P353	If on skin (or hair): Take off immediately all contaminated clothing.  Rinse skin with water.
+
+	P308+P313	If exposed or concerned:  Get medical attention.
+
+
+
+
+		P403+P235		Store in a well-ventilated place.  Keep cool.
+
+		P405		Store locked up.
+
+		P501		Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Organics in shale oil
+
+	Other Designations:  crude shale oil; green oil; raw shale oil; petroleum crude oil 
+
+This material is a complex mixture with trace amounts of organic compounds, which are below the limits established by OSHA (hazardous components 1 %, carcinogens 0.1 %).  Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+
+(%)
+
+Shale oil
+
+		68308-34-9
+
+269-646-0
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Get immediate medical attention, if needed.  Thoroughly clean and dry contaminated clothing and shoes before reuse.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation and skin cancer. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor/air mixtures are explosive.  The vapor is heavier than air.  Vapors or gases may ignite at distant ignition sources and flash back.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Regular dry chemical, carbon dioxide, water, and regular foam.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Miscellaneous decomposition products.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 2	Fire = 3	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  Stop leak if possible without personal risk.  Reduce vapors with water spray.  Absorb with sand or other noncombustible material.  Collect spilled material in appropriate container for disposal.  Keep unnecessary people away, isolate hazard area and deny entry.  Subject to California Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65).  Keep out of water supplies and sewers.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  No occupation exposure limits established.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Wear appropriate chemical resistant clothing and gloves.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties
+
+
+
+Appearance (physical state, color, etc.)
+
+	gray to brown, viscous liquid
+
+Molecular Formula
+
+	varies
+
+Molar Mass (g/mol)
+
+	varies
+
+Odor
+
+	odorless
+
+Odor threshold (mg/m3)
+
+	not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+not available
+
+Relative Density
+as specific gravity (water = 1)
+
+0.86 to 0.96
+
+Vapor Pressure (mmHg)
+
+not available
+
+Vapor Density (air = 1)
+
+not available
+
+Viscosity
+
+not available
+
+Solubility(ies)
+
+insoluble in water
+
+Partition coefficient (n-octanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+not available
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+not available
+
+Explosive Limits, LEL (Volume %)
+
+not available
+
+Explosive Limits, UEL (Volume %)
+
+not available
+
+Flash Point
+
+16 ºC (60.8 ºF)
+
+Flammability (solid, gas)
+
+not available
+
+
+
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition. Containers may rupture or explode if exposed to heat.  Keep out of water supplies and sewers.
+
+Incompatible Materials:  Oxidizing materials.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause irritation and skin cancer.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Inflammation of the upper respiratory tract, acute and chronic bronchitis and pneumonia.
+
+Skin Contact:  May cause irritation.  Chronic exposure may result in skin cancer.
+
+Eye Contact:  May cause irritation.
+
+Ingestion:  May cause irritation of the gastrointestinal tract.  No additional data is available. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified.
+
+Rat, Oral LD50: 508 g/kg
+
+Rabbit, Skin LD50: 505 g/kg
+
+Skin Corrosion/Irritation:  Not classified.
+
+Human, Skin: 50 %; Rabbit, Skin: 500 mg (72 h)
+
+Serious Eye Damage/Irritation:  Not classified.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Category 1A
+
+Listed as a Carcinogen/Potential Carcinogen
+
+X
+
+Yes
+
+
+
+No
+
+	Shale oils are listed by IARC as Group 1, carcinogenic to humans and it is not listed by NTP or OSHA as a carcinogen/potential carcinogen.
+
+	Mutagenic:  Salmonella typhimurium (+S9): 200 µg/plate 
+
+Reproductive Toxicity:  Not classified.
+
+Intraperitoneal Mouse TDLo: 200 mg/kg (1 d)
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure: Not classified; no data available.
+
+Aspiration Hazard:  No data available.
+
+12. ECOLOGICAL INFORMATION
+
+	Ecotoxicity Data:	No data available.
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to disposal regulations: U.S. EPA 40 CFR 262. Hazardous Waste Number(s): D001.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  UN1288; Shale Oil; Hazard Class 3; Packing Group II; Excepted Quantity E2.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	Not regulated.
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	Not regulated.
+
+	OSHA Process Safety (29 CFR 1910.119): 	Not regulated.
+
+		SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	Yes
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations:  Not listed under California Proposition 65.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+	Issue Date:  09 June 2015
+
+	Sources:	ChemAdvisor, Inc., SDS Shale Oils, 20 March 2015.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLm
+
+Threshold Limit, median
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TLV 
+
+Threshold Limit Value 
+
+NFPA 
+
+National Fire Protection Association 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIST
+
+National Institute of Standards and Technology
+
+TWA 
+
+Time Weighted Average 
+
+n.o.s.
+
+Not Otherwise Specified
+
+UEL 
+
+Upper Explosive Limit 
+
+
+
+
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 1580		Page 5 of 6

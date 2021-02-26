@@ -1,0 +1,518 @@
+﻿ 
+
+ 
+
+MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+MSDS Coordinator:  Mario J. Cellarosi 
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  2278 
+MSDS Number:  2278 
+SRM Name:  Deuterated Organic Acids in 
+ 
+ 
+Date of Issue:  22 October 2008 
+ 
+Emergency Telephone ChemTrec: 
+
+Methanol:Methylene Chloride 
+
+ 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+ 
+
+Description:  This Standard Reference Material (SRM) is a solution of seven organic acids in methanol:methylene 
+chloride.  This SRM is intended primarily for use in the calibration of chromatographic instrumentation used for the 
+determination of organic acids.  A unit of SRM 2278 consists of five 2 mL ampoules, each containing approximately 
+1.2 mL of solution. 
+
+Substance:  Methanol:Methylene Chloride 
+
+Other Designations:  Methanol (methyl alcohol; wood alcohol; methyl hydroxide; carbinol; monohydroxymethane; 
+wood  spirit;  wood  naphtha;  methylol)/Methylene  Chloride  (dichloromethane;  methylene  dichloride;  methane 
+dichloride; methylene bichloride) mixture.  
+
+2.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Component 
+
+CAS Registry 
+
+EC Number (EINECS) 
+
+Nominal Concentration 
+
+Methanol 
+
+Methylene Chloride 
+
+67-56-1 
+
+75-09-2 
+
+200-659-6 
+
+200-838-9 
+
+complex solution 
+
+complex solution 
+
+EC Classification:  F+ (Extremely Flammable); T (Toxic); Carcinogen Category 3 
+
+EC Risk (R No.):  11, 23/24/25, 39, 40 
+
+EC Safety (S No.):  1/2, 7, 16, 23, 24/25,  36/37, 45 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+3.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4):  Health = 2 
+
+Fire = 3 
+
+Reactivity = 0 
+
+Major  Health  Hazards:    Respiratory  tract  irritation,  skin  irritation,  eye  irritation,  blood  damage,  liver  damage, 
+central nervous system depression, nerve damage, cancer hazard (in humans).    
+
+Physical Hazards:  Ampoules may break or shatter.  Flammable liquid and vapor. Vapor may cause flash fire. 
+
+Potential Health Effects (Short Term Exposure) 
+
+Inhalation:    Irritation,  cough,  ringing  in  the  ears,  constipation,  headache,  drowsiness,  dizziness,  tingling 
+sensation, pain in extremities, tremors, loss of coordination, blood disorders, nerve damage.  
+
+Skin Contact:  Irritation, absorption may occur, headache, drowsiness, loss of coordination, blood disorders. 
+
+Eye Contact:  Irritation, eye damage. 
+
+Ingestion:    Irritation,  sensitivity  to  light,  changes  in  blood  pressure,  nausea,  vomiting,  diarrhea,  stomach  pain, 
+difficulty breathing, irregular heartbeat, headache, drowsiness, dizziness, disorientation, pain in extremities, loss 
+of  coordination,  visual  disturbances,  dilated  pupils  or  pin-point  pupils,  blindness,  bluish  skin  color,  lung 
+congestion,  heart  damage,  kidney  damage,  liver  damage,  nerve  damage,  effects  on  the  brain,  convulsions, 
+unconsciousness, coma.  
+
+MSDS 2278 
+
+ 
+Page 1 of 5
+
+ 
+
+Listed as a Carcinogen/Potential Carcinogen  
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+
+ 
+
+Yes
+X 
+X 
+X 
+
+No 
+ 
+ 
+ 
+
+ 
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration by 
+qualified personnel.  If breathing is difficult, oxygen should be administered by qualified personnel.  Seek immediate 
+medical attention.   
+
+Skin  Contact:    Wash  affected  skin  with  soap  and  water  for  at  least  15  minutes  while  removing  contaminated 
+clothing.  Seek medical attention, if needed. 
+
+Eye  Contact:    Immediately  flush  eyes,  including  under  the  eyelids,  with  copious  amounts  of  water  for  at  least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  If ingested, seek medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at 
+distant ignition sources and flash back.  Vapor/air mixtures are explosive. 
+
+Extinguishing Media:  Alcohol resistant foam, carbon dioxide, regular dry chemical, water.  
+
+Fire  Fighting:    Move  container  from  fire  area  if  it  can  be  done  without  risk.    Avoid  inhalation  of  material  or 
+combustion  by-products.    Wear  full  protective  clothing  and  NIOSH-approved  self-contained  breathing  apparatus 
+(SCBA). 
+
+Flash Point (°C):  11 (52 °F) 
+Method Used:  Closed Cup 
+
+Autoignition Temp. (°C):  385 (725 °F) 
+
+  Flammability Limits in Air 
+ 
+
+ 
+
+ 
+
+UPPER (Volume %): 36 
+LOWER (Volume %):  6 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Stop leak if possible without personal risk.  Isolate hazard area and deny entry.  Avoid heat, 
+flames,  sparks  and  other  sources  of  ignition.    Do  not  touch  spilled  material.    Reduce  vapors  with  water  spray.  
+Absorb  with  sand  or  other  non-combustible  material.  Collect  spilled  material  in  appropriate  container  for  proper 
+disposal. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances.  Store sealed ampoules in the dark at temperatures lower than 30 °C.  Subject to storage 
+regulations:  U.S. OSHA 29 CFR 1910.106. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Dichloromethane (Methylene Chloride): 
+
+OSHA PEL TWA:  25 ppm 
+ACGIH TWA:  50 ppm 
+UK WEL TWA (skin):  350 mg/m3 (100 ppm)
+
+MSDS 2278 
+
+ 
+Page 2 of 5
+
+ 
+
+Methanol: 
+
+OSHA TWA (skin):  260 mg/m3 (200 ppm) 
+ACGIH TWA (skin):  260 mg/m3 (200 ppm) 
+UK WEL TWA (skin):  266 mg/m3 (200 ppm) 
+
+Ventilation:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+Respirator:  If necessary, refer to the “NIOSH Guide to the Selection and Use of Particulate Respirators Certified 
+under 42 CFR 84” for selection and use of respirators with organic vapor cartridges certified by NIOSH. 
+
+Eye  Protection:    Wear  splash  resistant  safety  goggles  with  a  face  shield.    An  eye  wash  station  should  be  readily 
+available near of handling and use areas. 
+
+Personal Protection:  Wear protective clothing and chemically resistant gloves to prevent skin exposure. 
+
+ 
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+ 
+
+Methylene Chloride  
+
+Methanol 
+
+Appearance and Odor:  clear, colorless liquid, 
+chloroform-like odor  
+
+Appearance and Odor:  clear, colorless liquid, 
+alcohol-like odor  
+
+Relative Molecular Mass:  84.93 
+
+Molecular Molecular Mass:  32.04 
+
+Molecular Formula:  CH2Cl2 
+Density (g/cm3):  1.3266 
+
+Molecular Formula:  CH3OH 
+Density (g/cm3):  0.7914 
+
+Boiling Point (°C):  40 (104 °F) 
+
+Boiling Point (°C):  65 (149 °F) 
+
+Freezing Point (°C): –95 (–135 °F) 
+
+Freezing Point (°C): –94 (–137 °F) 
+
+Volatility (%):  100 
+
+Volatility (%):  100 
+
+Solubility in Water (%):  1.32 @ 20 °C 
+Solvent  Solubility: 
+  soluble  in  alcohols,  ether, 
+dimethylformamide,  phenols,  aldehydes,  ketones, 
+acetic  acid,  triethyl  phosphate,  acetoacetic  acid, 
+cyclohexylamine, chlorinated solvents 
+
+Solubility in Water (%):  soluble 
+
+Solvent Solubility:  soluble in ether, benzene, 
+alcohol, acetone, chloroform, ethanol, ketones, 
+organic solvents 
+
+ 
+NOTE:      The  physical  and  chemical  data  provided  are  for  the  pure  components.    Physical  and  chemical  data  for  the  SRM 
+solution do not exist.  The actual behavior of the solution may differ from the individual components.   
+ 
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Stable at normal temperatures and pressure. 
+
+Conditions  to  Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Minimize contact with material. 
+Avoid inhalation of material or combustion by-products.  Protect from physical damage.   
+
+Incompatible Materials:  Halo carbons, combustible materials, metals, oxidizing materials, halogens, metal 
+carbide, bases, acids, amines.  
+
+Fire/Explosion Information:  Refer to Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon, various organic fragments, halogenated compounds, phosgene.  
+
+Hazardous Polymerization: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+MSDS 2278 
+
+ 
+Page 3 of 5
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+11.  TOXICOLOGICAL INFORMATION  
+
+ 
+Route of Entry: 
+ 
+Dichloromethane (Methylene Chloride) Toxicity Data: 
+
+Inhalation 
+
+X  Skin 
+
+X 
+
+TCLo (inhalation-human):  500 ppm/8 h  
+LDLo (oral-human):  357 mg/kg  
+
+Methanol Toxicity Data: 
+
+TCLO (inhalation-human):  300 ppm 
+
+X 
+
+Ingestion 
+
+Health Effects:  See Section 3: “Hazards Identification” for potential health effects. 
+
+Target Organs:  Blood, central nervous system, liver. 
+
+Medical  Conditions  Aggravated  by  Exposure:    Blood  system  disorders,  heart  or  cardiovascular  disorders, 
+hormonal disorders, respiratory disorders. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Dichloromethane (Methylene Chloride):   
+
+Fish Toxicity: 193 mg/L/96 hour(s) LC50 (Mortality) Fathead minnow (Pimephales promelas).  
+Algal Toxicity:  >662 mg/L/96 hour(s), EC50 (Photosynthesis) Diatom (Skeletonema costatum). 
+
+Fish Toxicity:  74.3 µg/L 96 hour(s) LC50 (Mortality) Gudgeon (Gobio gobio).   
+Algal Toxicity:  200–480 µg/L 8 hour(s) (Population) Algae, phytoplankton, algal mat (Algae). 
+
+Methanol:   
+
+ 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste  Disposal:    Dispose  in  accordance  with  all  applicable  federal,  state,  and  local  regulations.    Subject  to 
+California Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65).  Keep out of water supplies 
+and sewers. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Methanol; UN1230; Hazard Class 3. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE:  Yes 
+CHRONIC:  Yes 
+FIRE:  Yes 
+REACTIVE:  No 
+SUDDEN RELEASE:  No 
+
+STATE REGULATIONS 
+
+California  Proposition  65: 
+Cancer (Apr 01, 1988).  
+
+  Known 
+
+to  cause 
+
+the  following: 
+
+  Dichloromethane  (Methylene  Chloride) 
+
+MSDS 2278 
+
+ 
+Page 4 of 5
+
+ 
+
+CANADIAN REGULATIONS 
+
+WHMIS Classification:  Not determined. 
+
+EUROPEAN REGULATIONS  
+
+EC Classification 
+
+Dichloromethane (Methylene Chloride): 
+
+Xn Harmful.  Carcinogen Category 3  
+
+Methanol: 
+
+F Flammable. 
+T Toxic. 
+
+EC Risk Phrases 
+
+Methanol:   
+
+Methanol: 
+
+S2 
+S23 
+S24/25 
+S36/37 
+
+S1/2 
+S7 
+S16 
+S36/37 
+S45 
+
+Dichloromethane (Methylene Chloride): 
+
+R40 
+
+Limited evidence of a carcinogenic effect. 
+
+R11 
+R23/24/25 
+R39/23/24/25  Toxic: danger of very serious irreversible effects through inhalation, in contact with skin and 
+
+Highly flammable. 
+Toxic by inhalation, in contact with skin and if swallowed. 
+
+if swallowed.  
+
+EC Safety Phrases: 
+
+Dichloromethane (Methylene Chloride): 
+
+Keep out of reach of children. 
+Do not breathe gas, fumes, vapor, or spray. 
+Avoid contact with skin and eyes. 
+Wear suitable protective clothing and gloves. 
+
+Keep locked-up and out of the reach of children. Keep container tightly closed. 
+Keep container tightly closed. 
+Keep away from sources of ignition.  No smoking. 
+Wear suitable protective clothing and gloves. 
+In case of accident or if you feel unwell, seek medical advice immediately (show the label 
+where possible). 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+ 
+Sources: 
+  ChemADVISOR, Inc., MSDS Dichloromethane, 13 September 2007. 
+  ChemADVISOR, Inc., MSDS Methyl Alcohol, 13 December 2007. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 2278 
+
+ 
+Page 5 of 5
+
+

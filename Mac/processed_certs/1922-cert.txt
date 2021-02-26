@@ -1,0 +1,440 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+ 
+Standard Reference Material® 1922 
+ 
+Liquid Refractive Index - Mineral Oil 
+
+ 
+This Standard Reference Material (SRM) is intended for use as a calibration material for refractometers, especially 
+for  the  refractive  index  range  applicable  to  solutions  of  sugar  and  water.    A  unit  of  SRM  1922  is  a  mineral  oil 
+characterized for refractive index, n, in the visible light range, and consists of one bottle of approximately 30 mL of 
+liquid. Certified values are given in Table 1 for the refractive indices at six wavelengths, λ, at 20 °C, and for the 
+change in n with respect to temperature, dn/dT.  
+ 
+Certified  Values  and  Uncertainties:    The  measurements  of  refractive  index  were  conducted  on  a  precision 
+spectrometer-goniometer  using  the  classical  method  of  minimum  deviation  [1,2].    A  cadmium  lamp  was  used  for 
+measurements at 643.8 nm, 508.6 nm, 480.0 nm, and 467.8 nm, and a mercury lamp was used for measurements at 
+546.1 nm.  The measurements were performed at a series of temperatures between 15 °C and 35 °C.  The mineral oil 
+was contained in a hollow prism and the temperature was controlled by a water bath.   
+ 
+The  uncertainties  of  the  temperature  measurements  are  estimated  to  be  on  the  order  of  ±  0.1  °C.    The  refractive 
+indices at 20 °C and the slopes (dn/dT) were determined by linear fits to the measured data.  The certified values at 
+589.3  nm  were  determined  by  fits  of  a  standard  dispersion  (Cauchy)  equation  to  the  refractive  index  and  dn/dT 
+values  derived  from  the  linear  regressions.    The  homogeneity  of  the  oil  was  tested  by  measurements  on  multiple 
+aliquots,  using  both  the  minimum  deviation  technique  and  an  Abbϑ-type  refractometer.    Uncertainties  in  the 
+certified  values  were  calculated  in  accordance  with  NIST  policy  [3-4]  and  are  expanded  uncertainties  with  a 
+coverage factor k = 2 incorporating a Type B error in temperature of ± 0.1 °C. 
+ 
+Expiration of Certification:  The certification of SRM 1922 is valid indefinitely, within the uncertainty specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate  (see 
+“Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate this notification. 
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  was  provided  by 
+J.R. Verkouteren and R.A. Velapoldi of the NIST Surface and Microanalysis Science Division. 
+ 
+Characterization  of  this  SRM  was  performed  in  the  NIST  Surface  and  Microanalysis  Science  Division  by 
+J.R. Verkouteren. 
+ 
+Statistical analysis was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  24 June 2009 
+See Certificate Revision History on Last Page 
+
+John A. Small, Chief 
+Surface and Microanalysis Science Division 
+
+Robert L. Watters, Jr. Chief 
+Measurement Services Division 
+
+SRM 1922 
+
+Page 1 of 3 
+
+ 
+
+ 
+
+Table 1.  Certified values and uncertainties of refractive index(a) at 20 °C and dn/dT at six wavelengths valid over 
+the temperature range from 15 °C to 35 °C 
+ 
+n at 20 °C 
+1.47685  ±  2×10-5 
+1.47583  ±  3×10-5 
+1.47373  ±  2×10-5 
+1.47149  ±  2×10-5 
+1.46744  ±  2×10-5 
+1.46945  ±  6×10-5 
+
+-3.74×10-4  ±  3×10-6 
+-3.75×10-4  ±  4×10-6 
+-3.72×10-4  ±  2×10-6 
+-3.70×10-4  ±  2×10-6 
+-3.66×10-4  ±  3×10-6 
+-3.68×10-4  ±  2×10-6 
+
+λ (nm) 
+467.8 
+480.0 
+508.6 
+546.1 
+643.8 
+589.3(b) 
+
+dn/dT °C-1 
+
+(a) The refractive index corresponds to approximately 71.6 on the Brix scale. 
+(b) By  convention,  the  most  common  wavelength  for  reporting  refractive  index  is  589.3  nm,  the  intensity-weighted  mean 
+
+wavelength of the sodium doublet, D1, D2. 
+
+ 
+INSTRUCTIONS FOR USE 
+ 
+Use a clean glass pipette or dropper to extract a few drops of oil from the bottle to place on the measuring surface of 
+the  refractometer.    Measure  the  refractive  index,  n,  at  one  of  the  wavelengths,  λ,  given  in  Table  1  and  at  a 
+λn   by  using  Equation  1  and  the temperature 
+coefficient, dnλ/dT, from Table 1.  (Temperatures above 20 °C will decrease the refractive index, and temperatures 
+below 20 °C will increase the refractive index.) 
+ 
+ 
+
+temperature,  T,  between  15 °C  and  35  °C.    If  T≠  20  °C,  calculate 
+
+(1) 
+
+20
+
+ 
+
++
+
+20(
+
+−
+
+n
+d)(T
+
+)dT/
+
+n
+
+20
+λ
+
+=
+
+n
+
+T
+λ
+
+λ
+
+ 
+For example, if a measurement was taken under the following conditions resulting in an experimental value for  
+
+0.28
+          : 
+589n
+3.
+ 
+
+λ   =  589.3 nm, 
+T  =  28.0 °C, 
+λn  = 
+
+0.28
+589n
+3.
+
+T
+
+= 1.4665, 
+
+ 
+then the corrected value             can be calculated using Equation l: 
+ 
+ 
+
+0.20
+589n
+3.
+
+.0)(28
+−
+
+4665
+
+20(
+
+.1
+
++
+
+−
+
+=
+
+n
+
+0.20
+589
+3.
+
+000368
+
+)
+
+=
+
+.1
+
+4694
+
+ 
+
+ 
+The uncertainty in the measured value will be a combination of errors arising from the measurements of refractive 
+index and temperature and the uncertainty in dn/dT.  The total uncertainty can be estimated by using a first order 
+propagation of error [5]:  
+ 
+
+U
+
+≅
+
+2
+
+)
+
+(
+
+s
+
+n
+λ
+
++
+
+n
+d(
+
+λ
+
+2
+()dT/
+
+s
+
+T20
+−
+
+2
+
+)
+
++
+
+20(
+
+−
+
+2
+()T
+
+s
+
+2
+
+)
+
+ 
+
+n
+d
+λ
+
+dT/
+
+(2) 
+
+(3) 
+
+is the standard error in the measured refractive index,  s20-T is equivalent to the standard error in T, and 
+
+λns
+is one-half the uncertainty in dnλ/dT from Table 1.  If the standard error in the measured refractive index 
+
+is ± 1×10-4, then the error derived from measurements at temperatures other than 20 °C (but within the range 
+15  °C  to  35  °C)  will  be  very  small  with  respect  to  the  total  uncertainty.    The  error  in  the  measurement  of  T, 
+however, can contribute significantly to the total uncertainty.  For example, given the calibration procedure from 
+the example with T = 28.0 °C ± 0.1 °C and a measured            = 1.4665 ± 0.0001, the uncertainty is: 
+0.28
+589n
+3.
+ 
+
+SRM 1922 
+
+Page 2 of 3 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+where 
+
+s
+
+d
+
+/n
+λ
+
+dT
+
+ 
+
+U
+
+≅
+
+.0(
+
+0001
+)
+
+−+
+
+.0(
+
+000368
+
+2
+
+2
+)1.0()
+
+2
+
+−+
+
+)8(
+
+101(
+⋅
+
+2
+
+−
+
+26
+)
+
+=
+
+.0
+
+00011
+
+ 
+
+(4) 
+
+ 
+Given the same example with a standard error in T of ± 0.5 °C increases U to ± 0.0002.  This approach is not meant 
+to be descriptive of all errors expected in the use of SRM 1922, but is useful for gauging the errors associated, in 
+particular, with the measurement of temperature. 
+ 
+Source, Preparation, and Analysis1 
+ 
+The  mineral  oil  is  a  commercial  non-volatile  paraffin  oil  and  is  expected  to  be  very  stable  with  respect  to 
+composition.  The oil was supplied in a 20 L container and aliquoted into amber glass bottles with Teflon-lined lids.  
+Each bottle contains approximately 30 mL of oil.  
+ 
+Storage and Handling:  This SRM should be stored in its original bottle at normal ambient temperatures between 
+approximately 20 °C and 25 °C.  It must be tightly recapped after use and protected from excessive moisture and 
+light. 
+ 
+
+ 
+[1]   Werner,  A.J.;  Methods  in  High  Precision  Refractometry  of  Optical  Glasses;  Appl.  Opt.,  Vol.  7,  pp.  837-843 
+
+REFERENCES 
+
+(1968). 
+
+pp. 160-168 (1990). 
+
+[2]   Tentori,  D.;  Lerma,  J.R.;  Refractometry  by  Minimum  Deviation:  Accuracy  Analysis;  Opt.  Eng.,  Vol.  29(2), 
+
+[3]   ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.;  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. 
+Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+[4]   ANSI/NCSL Z 540-2-1997; U.S. Guide to the Expression of Uncertainty in Measurement; National Conference 
+
+of Standards Laboratories: Boulder, CO (1997). 
+
+[5]  Ku,  H.H.;  Notes  on  the  Use  of  Propagation  of  Error  Formulas,  J.  Res.  Natl.  Bur.  Stand.,  Vol.  70C(4), 
+
+pp. 263-273 (1966). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  24 June 2009 (A footnote was added regarding the refractive index on the Brix scale for table 1.); 26 July 1999 
+(Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+                                                           
+
+1Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+ 
+
+SRM 1922 
+
+Page 3 of 3 
+
+

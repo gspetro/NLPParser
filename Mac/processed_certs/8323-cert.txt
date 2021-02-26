@@ -1,0 +1,237 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8323 
+ 
+Yeast Protein Extract 
+ 
+This Reference Material (RM) 8323 is intended to support measurements used to identify proteins in complex protein 
+mixtures such as those used in proteomics.  RM 8323 can be used to help assess measurement repeatability within a 
+laboratory or comparability between laboratories or among different measurement approaches [1].  RM 8323 can also 
+be used in the development and validation of new measurement approaches for identifying proteins in complex protein 
+mixtures.  A unit of RM 8323 consists of three vials, each containing 200 µL of frozen yeast protein extract solution.  
+The proteins extracted from Saccharomyces cerevisiae have been solubilized in 50 mmol/L ammonium bicarbonate 
+in water. 
+ 
+RM 8323 was developed in collaboration with the Clinical Proteomic Technologies for Cancer (CPTC) initiative of 
+that 
+the National Cancer Institute.  The proteome from S. cerevisiae was used in several CPTC interlaboratory studies that 
+aimed to assess the repeatability and reproducibility of proteomic measurement for protein identification [2,3].   
+ 
+Reference  Total  Protein  Concentration:    A  reference  mass  concentration  value  for  total  protein  is  provided  in 
+Table 1.  A NIST reference value [4] is a noncertified value that is the best estimate of the true value; however, the 
+value does not meet NIST criteria for certification and is provided with associated uncertainties that may reflect only 
+measurement  precision  and  may  not  include  all  sources  of  uncertainty.    A  spectrophotometric  method  employing 
+bicinchoninic acid (BCA) was utilized for total protein concentration measurements [5].  SRM 927e Bovine Serum 
+Albumin (7% Solution) was used to prepare calibration solutions.   
+ 
+
+Table 1.  Reference Concentration and Uncertainty for Total Protein(a) 
+ 
+0.188 mg/mL  ±  0.038 mg/mL 
+(a) The reference concentration value for total protein is the consensus mean of measurements from a single NIST method. The 
+uncertainty  in  the  reference  value,  calculated  according  to  the  method  described  in  the  ISO/JCGM  Guide [6],  incorporates 
+Horn-Horn-Duncan (HHD) uncertainty for the Type A component.  The measurand is the mass concentration value listed based 
+on the method used.  Metrological traceability is to the SI derived unit for mass concentration (expressed as  milligrams per 
+milliliter). 
+
+-eport 
+
+validity 
+
+ 
+Expiration  of  Value  Assignment:    RM 8323  is  valid,  within  the  measurement  uncertainty  specified,  until 
+the  instructions  given  in  this  Report  of 
+01 April 2023, provided the RM is handled and stored in accordance with the instructions given in this Report of 
+Investigation (see “Instructions for Storage and Use”).  The report is nullified if the RM is damaged, contaminated, or 
+otherwise modified.  
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+Registration 
+occur that affect the value assignment before expiration of this report, NIST will notify the purchaser.  Registration 
+(see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  technical  measurements  leading  to  value  assignment  were  performed  by 
+‘ision.
+A. Beasley Green, D.M. Bunk and K.W. Phinney of the NIST Biomolecular Measurement Division. 
+ 
+Analyses were performed by A. Beasley Green and D.M. Bunk. 
+ 
+Statistical consultation and analysis was performed by A. Heckert of the NIST Statistical Engineering Division.  
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  20 February 2018 
+Report Revision History on Last Page 
+
+Michael Tarlov, Chief 
+Biomolecular Measurement Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+RM 8328 
+
+ 
+
+Page 1 of 3 
+
+  
+
+preparation 
+
+pose 
+
+Support  aspects  involved  in  the  preparation  of  this  RM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USER  
+ 
+Normal 
+RM 8323 has been obtained from yeast cells and has the potential to contain toxins that may pose a health risk.  Normal 
+caution and care should be exercised during the material’s handling and use. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The yeast protein extract solution is shipped frozen (on dry ice) and, upon receipt, should be stored frozen 
+until ready for use.  A freezer temperature of –20 °C is acceptable for storage for up to one week.  If a longer storage 
+time is anticipated, the material should be stored at or below –60 °C.  The RM should not be exposed to sunlight or 
+ultraviolet radiation.  Storage of thawed material at room or refrigerator temperatures may result in degradation or 
+modification of constituent proteins. 
+ 
+Use:  Vials of the RM to be analyzed should be removed from the freezer and allowed to stand at room temperature 
+(20 °C to 25 °C) until thawed.  After the material is thawed, it should be used immediately.  The material should be 
+mixed briefly with a vortex mixer before aliquots are withdrawn.  
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Inc.
+Material  Acquisition  and  Preparation:    Lysate  from  S. cerevisiae  was  obtained  from  Boston  Biochem  Inc. 
+(Cambridge, MA).  The S. cerevisiae, strain BY4741, was grown in a 100 L batch of rich (yeast peptone dextrose) 
+medium at 30 °C in a fermentor until an optical density of approximately 0.93 was reached.  The yeast was harvested 
+by continuous-flow centrifugation, and the cell pellet was then washed twice with ice-cold water.  The cells were lysed 
+by incubation with ice-cold trichloroacetic acid (10 mL/L) in water for 1 h at 4 °C.  The precipitate was collected by 
+centrifugation, washed twice with 100 mL/L water in acetone, and pelleted again. 
+ 
+The lyophilized yeast lysate was homogenized at NIST through manual grinding.  The ground yeast lysate powder 
+was suspended in 50 mmol/L ammonium bicarbonate containing 6 mol/L urea in water, pH 7.85.  After gently stirring 
+at 5 ºC overnight, the yeast lysate solution was filtered through a 0.22 μm cellulose acetate filter.  To remove urea 
+from  the  yeast  lysate  solution,  the  solution  was  thoroughly  dialyzed  (6,000 Da  to  8,000 Da  cutoff)  at  5 °C  using 
+50 mmol/L ammonium bicarbonate in water as the dialysis buffer. 
+ 
+Homogeneity  Analysis:    The  homogeneity  was  assessed  at  the  time  the  analyses  for  the  reference  value  were 
+performed.  A stratified random sampling plan was devised to test for homogeneity across the production lot.  The 
+results indicated that there was no apparent trend in the data when plotted against the sequence in which the vials were 
+prepared.  
+ 
+ 
+
+ 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this report to specify adequately the experimental 
+procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+RM 8328 
+ 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  Beasley-Green, A.; Bunk, D.M.; Rudnick, P.A.; Kilpatrick, L.; Phinney, K.W.; Proteomics, Vol. 12, pp. 923–931 
+
+(2012). 
+
+[2]  Paulovich, A.G.;  Billheimer, D.;  Ham, A-J.L.;  Vega-Montoto, L.J.;  Rudnick, P.A.;    Tabb, D.L.;  Wang, P.; 
+Blackman, R.K.;  Bunk, D.M.;  Cardasis, H.L.;  Clauser, K.R.;  Kinsinger, C.R.;  Schilling, B.;  Tegeler, T.J.; 
+Variyath, A.M.; Wang, M.; Whiteaker, J.R.; Zimmerman, L.J.; Fenyo, D.; Carr, S.A.; Fisher, S.J.; Gibson, B.W.; 
+Mesri, M.; Neubert, T.A.; Reginier, F.E.; Rodriguez, H.; Spiegelman, C.; Stein, S.E.; Tempst, P.; Liebler, D.C.; 
+Mol. Cell. Proteomics, Vol. 9, pp. 242–254 (2009). 
+
+[3]  Tabb, D.L.;  Vega-Montoto, L.;  Rudnick, P.A.;  Variyath, A.M.;  Ham, A-J.L.;  Bunk, D.M.;  Kilpatrick, L.E.; 
+Billheimer, D.D.;  Blackman, R.K.;  Cardasis, H.L.;  Carr, S.A.;  Clauser, K.R.;  Jaffe, J.D.;  Kowalski, K.A.; 
+Neubert, T.A.; Regnier, F.E.; Schilling, B.; Tegeler, T.J.; Wang, M.; Wang, P.; Whiteaker, J.R.; Zimmerman, L.J.; 
+Fisher, S.J.; Gibson, B.W.; Kinsinger, C.R.; Mesri, M.; Rodriguez, H.; Stein, S.E.; Tempst, P.; Paulovich, A.G.; 
+Liebler, D.C.; Spiegelman, C.; J. Proteome. Res., Vol. 9, pp. 761–776 (2009). 
+
+[4]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of  Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government  Printing  Office:  
+Washington, DC (2000); available at: https://www.nist.gov/srm/publications.cfm (accessed Feb 2018). 
+
+[5]  Smith, P.K.,  Krohn, R.I.,  Hermanson, G.T.,  Mallia,  A.K.,  Gartner,  F.H.,  Provenzano,  M.D.,  Fujimoto,  E.K., 
+
+Goeke, N. M., Olson, B. J., and Klenk, D. C. Anal. Biochem. Vol. 150, pp. 76-85 (1985).  
+
+Joint  Committee 
+
+[6]  JCGM 100:2008;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  (GUM  1995  with  Minor  
+at 
+Corrections), 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb  2018);  see  also 
+also 
+easurement 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://physics.nist.gov/Pubs/contents.html (accessed Feb 2018). 
+
+in  Metrology (JCGM) 
+
+for  Guides 
+
+available 
+
+(2008); 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Report Revision History:  20 February 2018 (Revised total protein value based on re-evaluation of the original analytical results and updated the 
+   
+entire report to current NIST standards; changed expiration date; editorial changes); 09 July 2010 (Original report date).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program  at:    telephone  (301)  975-2200,  fax  (301)  948-3730,  e-mail 
+srminfo@nist.gov, or via the Internet https://www.nist.gov/srm. 
+
+RM 8328 
+
+ 
+
+Page 3 of 3 
+
+

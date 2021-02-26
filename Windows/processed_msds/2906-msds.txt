@@ -1,0 +1,770 @@
+﻿Date of Issue: 
+
+10 February 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	2906
+
+		SRM Name:	Trace Explosives Calibration Solutions
+
+		SRM Parts:	Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX) in 2-Propanol
+
+			2,4,6-Trinitrotoluene (TNT) in 2-Propanol
+
+			Pentaerythritol Tetranitrate (PETN) in 2-Propanol
+
+			2-Propanol
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in calibrating and evaluating analytical equipment used for the detection of trace explosives, which may include those based on ion mobility spectrometry.  SRM 2906 consists of three dilute solutions of RDX, TNT, and PETN.  A unit of SRM 2906 consists of four glass ampoules of each of the three explosives containing approximately 1 mL of the solution and four vials of the 2propanol solvent used to prepare the solutions.  In addition, there are four labeled dropper bottles for temporary storage of the solutions once opened.
+
+		
+
+Company Information
+
+National Institute of Standards and Technology
+
+				
+
+Standard Reference Materials Program
+
+				
+
+100 Bureau Drive, Stop 2300
+
+				
+
+Gaithersburg, Maryland 20899-2300
+
+				
+
+
+
+	
+
+				Telephone:  3019752200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  3019483730
+
+			18004249300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+17035273887	(International)
+
+Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification
+
+Physical Hazard:	Flammable Liquid	Category 2
+
+Health Hazard: 	Eye Corrosion/Irritation 	Category 2B
+
+			STOT, Single Exposure	Category 3
+
+Label Elements
+
+Symbol 
+
+
+
+Signal Word
+
+Danger
+
+Hazard Statement(s)
+
+	H225	Highly flammable liquid and vapor.
+
+	H320	Causes eye irritation.
+
+	H336	May cause drowsiness or dizziness.
+
+	Precautionary Statement(s)
+
+	P210	Keep away from heat, sparks, open flames, hot surfaces. — No smoking.
+
+	P233	Keep container tightly closed.
+
+	P241	Use explosion-proof ventilating equipment. 
+
+	P242	Use only non-sparking tools.
+
+	P243	Take precautionary measures against static discharge.
+
+	P261	Avoid breathing fumes, mist, vapors, or spray
+
+	P264	Wash hands thoroughly after handling.
+
+	P271	Use only outdoors or in a wellventilated area.
+
+	P280	Wear protective gloves, eye protection, and protective clothing.
+
+	P303+P361+P353	If on skin (or hair): Take off immediately all contaminated clothing.  Rinse skin with water.
+
+	P304+P340	If inhaled: Remove victim to fresh air and keep at rest in a position comfortable for breathing.
+
+	P305+P351+P338	If in eyes: Rinse cautiously with water for several minutes.  Remove contact lenses, if present and easy to do.  Continue rinsing.
+
+	P337+P313	If eye irritation persists: Get medical attention.
+
+	P312	Call a doctor if you feel unwell.
+
+	P403+P233+P235	Store in a well-ventilated place.  Keep container tightly closed.  Keep cool.
+
+	P405	Store locked up.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Solution of trace explosive compounds in 2-propanol.
+
+	Other Designations:  2-propanol  (isopropanol; ethyl carbinol; dimethylcarbinol; propyl alcohol; dimethyl carbinol; propanol; 1-methylethanol; 1-methylethyl alcohol; 2hydroxypropane; 2-propyl alcohol; iso-propanol).
+
+The solutions contain small amounts of trace explosive compounds in 2-propanol.  Components listed below are in compliance with OSHA’s 29 CFR 1910.1200; see the Certificate of Analysis for actual values.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+2-Propanol 
+
+	67-63-0
+
+200-661-7
+
+	>99.9
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures:
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Rinse affected area with soap and water for at least 15 minutes.  Seek medical assistance if necessary.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, eye irritation, and central nervous system depression.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.  
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor is heavier than air.  Vapors or gases may ignite at distant ignition sources and flash back.  Vapor/air mixtures are explosive above flash point.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Regular dry chemical, carbon dioxide, water, and alcohol resistant foam.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition will form oxides of carbon.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 3	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Avoid heat, flames, sparks and other sources of ignition.  Remove sources of ignition.  Stop leak if possible without personal risk.  Reduce vapors with water spray.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Absorb with sand or other noncombustible material.  Collect spilled material in appropriate container for disposal.  Keep unnecessary people away, isolate hazard area and deny entry.  Stay upwind and keep out of low areas.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.  Keep separated from incompatible substances.
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:
+
+		OSHA (PEL):	400 ppm (980 mg/m3) TWA
+
+		ACGIH (TLV):	200 ppm TWA
+
+			400 ppm STEL
+
+		NIOSH (REL):	400 ppm (980 mg/m3) TWA
+
+			500 ppm (1225 mg/m3) STEL
+
+			2000 ppm IDLH (10 % LEL)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield. An eye wash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+
+
+
+9.  Physical and Chemical Properties
+
+NOTE:  The physical and chemical data provided are for 2-propanol.  No physical or chemical data are available for the three dilute solutions of 2-propanol containing RDX, TNT, and PETN.
+
+Descriptive Properties
+
+2-Propanol 
+
+Appearance (physical state, color, etc.):
+
+colorless liquid
+
+Molecular Formula:
+
+C3H7OH
+
+Molar Mass (g/mol):
+
+60.10
+
+Odor:
+
+faint odor, alcohol odor
+
+Odor threshold:
+
+40 ppm to 45 ppm
+
+pH:
+
+not available
+
+Evaporation rate  (butyl acetate=1):
+
+2.88
+
+Melting point/freezing point (ºC):
+
+–90 to –86 (–130 ºF to –122.8 ºF)
+
+Density (g/mL):
+
+not available
+
+Specific Gravity (water = 1):
+
+0.7854 to 0.7863 at 20 °C
+
+
+Vapor Pressure:
+
+33 mmHg at 20 °C
+
+Vapor Density (air = 1):
+
+2.07 to 2.1
+
+Viscosity (cP):
+
+2.1 at 25 °C
+
+Solubility(ies):
+
+miscible in water, alcohol, ethers, acetone, chloroform, benzene
+
+Partition coefficient (n-octanol/water):
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature (ºC):
+
+399 to 460 (750.2 ºF to 860 ºF)
+
+Thermal Decomposition (ºC):
+
+not available
+
+Initial boiling point and boiling range (ºC):
+
+80 to 83 (176 ºF to 181.4 ºF)
+
+Explosive Limits, LEL (Volume %):
+
+2 % to 2.5 %
+
+Explosive Limits, UEL (Volume %):
+
+12 % to 12.7 % at 93.3 °C
+
+Flash Point:
+
+12 ºC (CC)
+
+Flammability (solid, gas):
+
+not applicable
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Containers may rupture or explode if exposed to heat.
+
+Incompatible Materials:  Acids, metals, oxidizing materials, combustible materials, halogens, peroxides, bases, metal salts.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics: Respiratory tract irritation, eye irritation, and central nervous system depression.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Irritation, changes in blood pressure, nausea, vomiting, stomach pain, chest pain, difficulty breathing, irregular heartbeat, headache, drowsiness, dizziness, disorientation, hallucinations, loss of coordination, internal bleeding, kidney damage, unconsciousness, coma.
+
+Skin Contact:  Irritation, absorption may occur, changes in blood pressure, nausea, vomiting, irregular heartbeat, headache, drowsiness, dizziness, loss of coordination.
+
+Eye Contact:  Irritation (possibly severe), eye damage. 
+
+Ingestion:  Irritation, changes in blood pressure, nausea, vomiting, stomach pain, difficulty breathing, irregular heartbeat, headache, drowsiness, dizziness, disorientation, hallucinations, loss of coordination, internal bleeding, kidney damage, unconsciousness, coma.
+
+Numerical Measures of Toxicity:
+
+Acute Toxicity:  Not classified.
+
+			Rat, Oral LD50: 4710 mg/kg
+
+			Rabbit, Dermal LD50: 12 800 mg/kg
+
+			Rat, Inhalation LC50: 72 600 mg/m3 (4 h); 16 000 ppm (8 h)
+
+		Skin Corrosion/Irritation:  Not classified.
+
+Rabbit, Skin: 500 mg – mild; 2-propanol is not a dermal irritant.
+
+			Serious Eye Damage/Eye Irritation:  Category 2B. 
+
+			Rabbit, Eyes: 10 mg – moderate; 100 mg – moderate (24 h); 100 mg – severe
+
+			Rabbit, Eyes: mild transitory injury, score 4 of 10 (24 h)
+
+			The vapors are mildly irritating to the eyes, nose, and throat.
+
+Respiratory Sensitization:  No data available.
+
+Skin Sensitization:  No data available.
+
+Germ Cell Mutagenicity:  No data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	2-Propanol is listed by IARC as Group 3 (not classifiable) and it is not listed by NTP or OSHA.
+
+Reproductive Toxicity:  Not classified.
+
+	Rat, Oral TDLo: 2278 mg/kg (pregnant 6 d to 16 d)
+
+	Rat, Inhalation TCLo: 3500 ppm (7 h, pregnant 1 d to 19 d)
+
+Specific Target Organ Toxicity, Single Exposure:  Category 3.
+
+Vapors may cause headache, drowsiness, dizziness, disorientation, hallucinations, and loss of coordination.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified.
+
+Aspiration Hazard:  No data available.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:
+
+	Fish Toxicity: Fathead minnow (Pimephales promelas) LC50 [flow-through]:  9.6 g/L (96 h)
+
+			Invertebrate:	Freshwater water flea (Daphnia magna) EC50:  13.3 g/L (48 h)
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  2-propanol is subject to disposal regulations:  U.S. EPA 40 CFR 262. Hazardous Waste Number(s):  D001.  Keep out of water supplies and sewers.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  UN1219; Isopropanol; Hazard Class 3; Packing Group II; Excepted Quantity: E2.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes.
+
+	CHRONIC HEALTH:	No.
+
+	FIRE:	Yes.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:  Not listed.
+
+U.S. TSCA Inventory:  2-propanol is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:
+
+WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  10 February 2015
+
+	Sources:	ChemAdvisor, Inc., SDS, Isopropyl Alcohol, 10 September 2014.
+
+		Hazardous Substances Data Bank, National Library of Medicine, 2-Propanol, CAS# 67-63-0, Full Record, available at http://toxnet.nlm.nih.gov/ (accessed Feb 2015).
+
+	CDC; NIOSH; NIOSH Pocket Guide to Chemical Hazards; Department of Health and Human Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and Health; Isopropyl Alcohol, RTECS# NT8050000, CAS# 67-63-0, May 2009; available at http://www.cdc.gov/niosh-rtecs/NT7AD550.html (accessed Feb 2015).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+					
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit
+
+LD50
+
+Lethal Dose, 50 %
+
+TLV 
+
+Threshold Limit Value 
+
+LEL 
+
+Lower Explosive Limit 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NFPA 
+
+National Fire Protection Association 
+
+TWA 
+
+Time Weighted Average 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+UEL 
+
+Upper Explosive Limit 
+
+NIST
+
+National Institute of Standards and Technology
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2906		Page 7 of 7

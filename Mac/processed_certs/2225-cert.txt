@@ -1,0 +1,220 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 2225
+
+
+
+Mercury for Thermal Analysis
+
+
+
+This Standard Reference Material (SRM) is intended for use in calibrating differential scanning calorimeters (DSC), differential thermal analyzers, and similar instruments.  A unit of SRM 2225 consists of 2.5 g of high purity mercury.  It is packaged in a vial with a septum through which a sample of mercury may be withdrawn by a syringe.
+
+
+
+Certified Values:  The certified value for the enthalpy of fusion and the fusion temperature were measured in an adiabatic calorimeter.
+
+
+
+		Fusion Temperature
+
+		(K)
+
+		Enthalpy of Fusion
+
+		(J/g)
+
+		234.30    0.03
+
+		11.469    0.008
+
+
+
+The certified fusion temperature is the average of the midpoints of the results of three separate equilibrium measurements.  The uncertainty is expressed as the range of fluctuation of the temperature about the midpoint over an extended period of time at the equilibrium condition.  The certified enthalpy value is the average of 5 enthalpic determinations and the listed uncertainty is three times the standard error of the measured value.  Systematic error in temperature is within the variability indicated for temperature; the systemic error in enthalpy is estimated to be less than 0.003 J/g.  Details of the measurement procedures for both the adiabatic and differential scanning calorimetric measurements are reported in literature [1].   The measurands are the fusion temperature and the enthalpy of fusion values.  The fusion temperature value and enthalpy of fusion value are metrologically traceable to the SI units for temperature and the SI derived units for joules per gram, respectively. 
+
+
+
+Expiration of Certification:  The certification of SRM 2225 is valid indefinitely, within the measurement uncertainty specified provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Use”).  Periodic recertification of this is SRM is not required.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive changes occur which affect the certification, NIST will notify the purchaser.  Registration (see attached sheet or register) will facilitate notification.
+
+
+
+Overall direction and coordination of the technical measurements leading to certification were performed by J.E. Callanan formerly of the NIST Engineering Science Division.  
+
+
+
+Adiabatic calorimetric measurements were made by J.E. Callanan in the laboratory of E.F. Westrum, Jr at the University of Michigan.  DSC measurements were performed by K.M. McDermott also formerly of the NIST Engineering Science Division.
+
+
+
+Statistical consultation was provided by D.F. Vecchia, formerly of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved with the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+	James Fekete, Chief
+
+	Applied Chemicals and Materials Division
+
+	
+
+	Gaithersburg, MD 20899	Steven J. Choquette, Director
+
+	Certificate Issue Date:  30 August 2016	Office of Reference Materials
+
+	Certificate Revision History on Last Page
+
+
+
+INSTRUCTIONS FOR USE
+
+
+
+Use:  There are different calibration methods for differential scanning calorimetry and differential thermal analysis.  This material can be used with those protocols to calibrate the temperature and enthalpy flux scales of a differential scanning calorimeter.
+
+
+
+Material Specifications:  The mercury used for SRM 2225 is from the same stock as the for SRM 743 [2].  The mercury used for SRM 743 is of exceptional purity, with the total of other elements estimated to be less than 20 ng/g (ppb) by emission spectrographic analysis.  The fusion temperature was determined in this study by heating into and out of the melting transition at 0.01 K/min, and is expressed in terms of a range of values.  The melting point reported by Busey and Giauque, when converted to the IPTS-68 scale is 234.30 K; the enthalpy of fusion is reported to be 11.44 J/g (548.6 cal•deg–1•mol–1), which reports the average of three values with a standard deviation of a single value of 0.1 [3]. 
+
+
+
+Additional Information:  The temperature and enthalpy of fusion were also measured by DSC and the results are presented as noncertified supplemental information.  These values are presented because, though they are not certified, they may be of use in the application of SRM 2225 for calibration DSC measurements.   Information values cannot be used to establish metrological traceability.
+
+
+
+Sixteen specimens of mercury with masses ranging from 13.983 mg to 67.971 mg were sealed in a nitrogen atmosphere and scanned at 2.5 K/min.  the Samples were prepared in uncoated aluminum pans.  To verify that the mercury was not forming an amalgam with the pan, a sample of mercury was placed in a preweighed pan in an ambient atmosphere for several days, then the mercury was removed and the pan reweighed.  There was no detectable increase in the weight of the pan.  Samples have also been rerun a number of times and continue to give the same results, indicating that the integrity of the sample is preserved when prepared in nitrogen in uncoated aluminum pans. 
+
+
+
+The fusion temperature obtained by DSC measurement was 234.34 K  0.36 K.  The uncertainty is three times the standard error of the average value and includes contributions to variability from instrumental factors, operating procedure, and effects of remounting the specimens.  The temperature-offusion values were obtained by the usual procedures and corrections [4,5].  
+
+
+
+Enthalpyoffusion measurements, also made for these sixteen specimens, all agreed within 0.1 J/k.  Enthalpyoffusion values obtained by DSC are not absolute measurements and the values must be corrected by appropriate calibration or correction factors [5].  The results in this case could not be corrected by the usual procedure using bracketing materials due to the lack of suitable bracketing materials in this temperature range.  The measurements do provide a good indication of the precision attainable, however.  The standard deviation of the results of the enthalpy of fusion measurements about the mean was  0.03 J/g.  This result demonstrates that mercury may be measured by DSC with good precision (relative standard deviation of 0.3 %) and therefore may be used with confidence as a calibrant for subambient DSC measurements using the certified enthalpy value obtained by adiabatic calorimetry. 
+
+
+
+
+
+
+
+
+REFERENCES
+
+
+
+[1]	Callanan, J.E.; McDermott, K.M.; Estrum, E.F., Jr.; Fusion of Mercury. A New Certified Standard for Differential Scanning Calorimetric Use; J. Chem. Thermodynamics, Vol. 22, pp. 225–230, (1990).
+
+[2]	SRM 743, Mercury Triple Point on the –38.8344 °C International Temperature Scale of 1990; National Institute of Standards and Technology; U.S. Department of Commerce: Gaithersburg, MD (1990).
+
+[3]	Busey, R.H.; Giauque, W.F; The Heat Capacity of Mercury from 15 to 330 K.  Thermodynamic Properties of Solid, Liquid and Gas.  Heat of Fusion and Vaporization; J. Amer. Chem. Soc., Vol. 75, pp. 806–809 (1953).
+
+[4]	Callanan, J.E.; Sullivan, S.A.; Vecchia, D.F.; Standards Development for Differential Scanning Calorimetry; J. Res. Nat. Bur. Stds., (U.S.), Vol. 91, Issue 3, pp. 123–129 (1986).
+
+[5]	Callanan, J.E.; Sullivan, S.A.; Development of Standard Operating Procedures for Differential Scanning Calorimeters; Rev. Sci. Instrum., Vol. 57, Issue 10, pp. 2584–2592 (1986). 
+
+ 
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+Certificate Revision History:  30 August 2016 (Updated title, editorial changes); 23 March 1989 (Original certificate date).
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm
+
+		SRM 2225		Page 2 of 3

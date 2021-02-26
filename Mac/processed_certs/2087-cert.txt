@@ -1,0 +1,190 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate
+
+
+
+Standard Reference Material 2087
+
+
+
+Dimensional Standard for Medical Computed Tomography
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in calibrating the length scale of medical computed tomography (CT) machines.  A unit of SRM 2087 consists of 18 plastic balls held in place by a plastic support structure.  
+
+
+
+Certified distances between various pairs of spheres are given in Table 1.  The large spheres are numbered as shown in Figure 1.
+
+
+
+Table 1.  Certified Distances Between Pairs of Spheres.
+
+			
+
+				Sphere Pairs	Distance 	Range(a,b)
+
+			(mm)	(mm)
+
+			
+
+				1-2, 3-4, 5-6	15.96	15.87 to 16.05 
+
+				2-7, 4-8, 6-9	11.26	11.17 to 11.35
+
+				1-7, 3-8, 5-9	25.20	25.11 to 25.29
+
+				1-3, 2-4, 7-8	20.15	20.07 to 20.24
+
+				3-5, 4-6, 8-9	20.22	20.07 to 20.37
+
+			
+
+	(a)	The average over three distances did not provide a smaller confidence interval due to correlations.
+
+	(b)	The ranges are 95 % Bayesian credible intervals [1] for a single distance from a randomly drawn unit of SRM 2087.  They may be thought of as estimate  expanded uncertainty, where the expanded uncertainty is approximately 1.9 times the standard uncertainty, which is consistent with the ISO guide [2].
+
+
+
+Expiration of Certification:  The certification of SRM 2087 is valid, within the measurement uncertainty specified, until June 30, 2016, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Handling, Storage and Use”).  This certification will be nullified if the SRM is damaged, contaminated, or modified.
+
+
+
+Maintenance of Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+
+
+
+Coordination of the technical measurements leading to the certification of this SRM was performed by Z.H. Levine of the NIST Sensor Science Division and D.S. Sawyer IV of the NIST Semiconductor and Dimensional Metrology Division.
+
+
+
+Units for this SRM were constructed by M.R. McClelland of the NIST Radiation and Biomolecular Physics Division. Length measurements were performed by B. Borchardt of the NIST Semiconductor and Dimensional Metrology Division.  CT medical scans were performed by J. Gunn, under the general supervision of E.L. Siegel of the Veterans Administration Hospital (Baltimore, MD).  Tomographic analysis of SRM 2087 by was performed K. Ndousse, under the supervision of C.W. Clark of the NIST Quantum Measurement Division, and by Z.H. Levine of the NIST Sensor Science Division.  
+
+
+
+Statistical consultation was provided A.L. Pintar and J. Lu of the NIST Statistical Engineering Division.
+
+
+
+	
+
+		Lisa R. Karam, Chief
+
+		Radiation and Biomolecular Physics Division
+
+	
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Certificate Issue Date:  14 August 2012	Measurement Services Division
+
+Support aspects involved in the preparation and issuance of this SRM were coordinated through the NIST Measurement Services Division.
+
+	
+
+ 
+
+Ball 9
+
+Ball 8
+
+Ball 7
+
+Ball 6
+
+Ball 2
+
+Ball 3
+
+Ball 5
+
+Ball 4
+
+Ball 1
+
+
+
+Figure 1.  Photograph of the dimensional reference phantom.  The large balls in the layers are numbered.  The small balls are visible, but not numbered.  Not shown are the bubble wrap pouch and the plastic sleeve, which should be nearly invisible in medical CT.
+
+
+
+Material Description:  The plastic balls in this SRM are made of Grade 1 polytetrafluoroethylene (PTFE).  Nine of the balls have a diameter specified by the manufacturer to be 5.556 mm  0.025 mm (7/32 inches  0.001 inches) and the rest of the balls have a specified diameter of 7.144 mm  0.025 mm (9/32 inches  0.001 inches).  The balls were further screened by mass to ensure that there were no bubbles.  The balls are arranged in six layers of three balls each, with a uniform diameter in each layer.  The balls rest in circular holes in the lift arms.  Each layer is clamped by a pair of lift arms, which are themselves held in place by the cross axles, and the whole arrangement is secured by bushings.  A given lift arm is permitted to hold a ball only on one side so that the balls do not touch each other.  Hence, the structures have double layers of lift arms.  In addition, a single and double layer of lift arms are provided at the free ends of the cross axles.  Figure 1 shows a complete assembled structure.  Each structure was placed in bubble wrap pouches, placed in clear, polyethylene plastic boxes, and sealed with plastic adhesive tape.  All materials were chosen to be compatible with the requirements of medical CT.
+
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE 
+
+
+
+Handling and Storage:  Care must be exercised when handling this SRM.  The SRM may be handled with clean, dry hands.  The units should be taken out of their hard plastic boxes to avoid creating streak artifacts in the reconstructed images.  Imaging the bubble wrap is optional: bubble wrap is nearly invisible in CT.  It is recommended to keep the SRM in the plastic wrap for scanning.  The SRM should be stored at room temperature, preferably away from sources of light and heat.  With ordinary care, the dimensions may reasonably be expected to be preserved until the expiration date.  The plastic box may be wiped with a damp cloth.  If the SRM is kept in the box except when in use, it should not need cleaning.  Dust may be removed with a vacuum cleaner similar to the ones used to clean the interior of personal computers.
+
+
+
+
+
+
+Use:  The SRM may be placed in a medical CT.  The regions of the PTFE spheres may be found by thresholding the image.  A value of 200 Hounsfield units (HU) may be suitable for a threshold.  The centroids of the spheres in a reconstructed image are very weakly dependent on the threshold because the spheres and the support structure are symmetric.  Using this data, the length scale of the CT may be found, including the relationship of the in-plane distances to the axial distances as reported by the CT.  By placing the standard in various locations, changes in the length scale across the field of view may be found.
+
+
+
+Supplemental Information:  It may be possible to use the extra lift arms for digital subtraction to provide isolated spheres.  The spheres could be used to provide known volumes in CT image.  Similarly, the known volumes of the spheres could be used to help understand the relationship between threshold and true volume.
+
+
+
+PREPARATION AND ANALYSIS()
+
+
+
+Certification Method:  Fortyeight units were evaluated using CT medical scan.  The devices were scanned in three orientations.  The tomographic reconstructions were first separated in three dimensions into 48 boxes, representing the 48 physical units; however, 2 were defective and were removed from further analysis.  The reconstructions of the other 46 units were satisfactory.  Dimensions for each box were analyzed separately.  The reconstructions were thresholded, then, within each thresholded region, the centroid was found.  The distances between the centroids were grouped as to whether they represented the short, medium, or long interball distances within a layer, or the shortest balltoball distances between layers.  Within each box, the distances with a layer were averaged over the six layers, while the balltoball distances were averaged over the 15 equivalent distances.  A statistical analysis showed that the smallest statistical uncertainty was present when the measurement was in the plane orthogonal to the helical axis of the scanner.  The three inplane distances were in agreement with those of a singlelayer device previously reported [3].  Seven units were selected at random for calibration traceability purposes and served as calibration data points for the remaining thirty nine units.  
+
+
+
+Calibration Traceability:  Traceability to the International System of Units (SI) was established through the use of a coordinate measuring machine on seven units selected at random.  This analysis yielded an individual certification of the distances between the large spheres within a 95 % Bayesian credible interval.   
+
+
+
+
+
+REFERENCES
+
+
+
+	[1]	Gelman, A.; Carlin, J.J.; Stern, H.S.; Rubin, D.B.; Bayesian Data Analysis; Chapman and Hall: London (1995).
+
+	[2]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Aug 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2011).
+
+	[3]	Levine, Z.H.; Grantham, S.; Sawyer IV, D.S.; Reeves, A.P.; Yankelevitz, D.F; A Low-Cost Fiducial Reference Phantom for Computed Tomography; J. Res. Natl. Inst. Stand. Technol.; Vol. 113, pp. 335–340 (2008). 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2087	Page 1 of 3

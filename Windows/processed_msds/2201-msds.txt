@@ -1,0 +1,648 @@
+﻿Date of Issue:  
+06 November 2013 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2201 
+Sodium Chloride (Standard for Ion-Selective Electrodes) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  calibration  of  ion-selective 
+electrodes for sodium and chloride ions.  A unit of SRM 2201 consists of 125 g. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+Not classified. 
+Serious Eye damage/Eye irritation 
+
+Category 2B 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+Label Elements 
+Symbol  
+No symbol 
+
+Signal Word 
+Warning 
+
+Hazard Statement(s): 
+H320 
+
+Causes eye irritation. 
+
+Precautionary Statement(s): 
+P264 
+P305+P351+P338  If  in  eyes:  Rinse  cautiously  with  water  for  several  minutes.    Remove  contact  lenses,  if 
+
+Wash hands thoroughly after handling. 
+
+P337+P313 
+
+present and easy to do. Continue rinsing. 
+If eye irritation persists: Get medical advice/attention. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Sodium chloride 
+
+Other Designations:  Sodium monochloride; table salt; sea salt; common salt 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+Sodium chloride 
+ 
+
+7647-14-5 
+
+231-598-3 
+
+100 
+
+SRM 2201 
+
+ 
+
+Page 1 of 6 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:    If  adverse  effects  occur,  remove  to  uncontaminated  area.    If  not  breathing,  give  artificial 
+respiration or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated 
+clothing before reuse. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing agents appropriate for surrounding fire. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for  Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handling  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances (metals, combustible materials, halogenated compounds). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  No occupational exposure limits have been established.  The exposure limits for Particulates Not 
+Otherwise Regulated are applicable. 
+
+OSHA (PEL):  15 mg/m3 (TWA, total particulates) 
+
+  5 mg/m3 (TWA, respirable particulates) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+SRM 2201 
+
+ 
+
+Page 2 of 6 
+
+Eye/Face  Protection:    Wear  splash  resistant  safety  goggles  with  a  face  shield.    An  eye  wash  station  should  be 
+readily available near areas of use. 
+
+Skin  and  Body  Protection:    Personal  protective  equipment  for  the  body  should  be  selected  based  on  the  task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties: 
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH (solution): 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/mL): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+colorless to white hygroscopic crystalline 
+powder 
+NaCl 
+58.44 
+Odorless 
+not available 
+5.8–8.5  (5 % solution) 
+not applicable 
+801 (1474 ºF) 
+2.165 
+not applicable 
+not applicable 
+not applicable 
+water soluble ( 35.7 % at 0 ºC); 
+soluble: glycerol; 
+insoluble: hydrochloric acid 
+not available 
+not available 
+
+ 
+
+ 
+
+Partition coefficient (n-octanol/water): 
+Particle Size (if relevant) 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC) 
+Flammability (solid, gas): 
+
+not applicable 
+not available 
+1413 (2575 ºF) 
+not applicable 
+not applicable 
+not applicable 
+not available 
+
+ 
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  None reported. 
+
+Incompatible Materials:  Metals, combustible materials, halogenated compounds. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce halogenated and chlorinated compounds, oxides 
+of sodium. 
+
+Hazardous Polymerization: 
+ 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+SRM 2201 
+
+ 
+
+Page 3 of 6 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  While exposure  is common, 
+serious toxicity is rare. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:    May  cause  salty  taste  and  cause  irritation  to  the  nose  and  throat;  symptoms  may  include 
+coughing, dryness, and sore throat. 
+
+Skin Contact:  May cause mild irritation. 
+
+Eye Contact:  Moderate irritation; concentrated solutions may cause a stinging sensation. 
+
+Ingestion:  Ingestion of large doses of hypertonic solutions may cause dryness of mucous membranes and a 
+violent inflammatory reaction in the gastrointestinal tract; ulceration may occur.  Chronic ingestion of sodium 
+chloride may result in elevated blood pressure. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+
+Rat, Inhalation LD50:  >42 g/m3 (1 h) 
+Rat, Oral LD50:  3000 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified. 
+Rabbit, Dermal (mild):  500 mg (24 h) 
+Sodium chloride is classified by the EPA as Toxicity Category IV for mild skin irritation. 
+
+Serious Eye damage/Eye irritation:  Category 2B 
+
+Rabbit, Eyes (moderate):  100 mg (24 h), 500 mg (24 h) 
+Sodium chloride is classified by the EPA as Toxicity Category III for moderate eye irritation effects. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+ Yes 
+Listed as a Carcinogen/Potential Carcinogen 
+Sodium chloride is not listed by IARC, NTP or OSHA as a carcinogen. 
+
+X  No 
+
+Reproductive Toxicity:  Not classified. 
+
+Human, Intraplacental TDLo:  27 mg/kg (pregnant 15 weeks) 
+Rat, Oral TDLo:  145 g/kg (prior to copulation 7 d, pregnant 1 d to 22 d) 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified; no data available. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  
+ 
+ 
+
+Fish:  bluegill (Lepomis macrochirus) LC50 (flow-through): 5560 mg/L to 6080 mg/L (96 h) 
+Invertebrate:  water flea (Daphnia magna) EC50 (static): 1000 mg/L (48 h) 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No bioaccumulation. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+SRM 2201 
+
+ 
+
+Page 4 of 6 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+No. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  06 November 2013 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS Sodium Chloride, 11 September 2013. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hazardous Substances Data  Bank, National Library of Medicine,  Sodium Chloride CAS# 7647-14-5, 
+Full Record, available at http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB (accessed Nov 2013). 
+
+Center  for  Disease  Control  (CDC),  NIOSH  Pocket  Guide  to  Chemical  Hazards,  Particulates  Not 
+Otherwise Regulated, available at http://www.cdc.gov/niosh/npg/npgd0480.html (accessed Nov 2013). 
+
+National  Institute  of  Environmental  Health  Sciences,  National  Institutes  of  Health,  Appendix  B 
+ICCVAM  Summary  Review  Document:    The  Low  Volume  Eye  Test;  Appendix  to  NIH  Publication 
+Number 10-7515, available at http://www.niehs.nih.gov/ (accessed Nov 2013).  
+
+EPA,  Office  of  Prevention,  Pesticides,  Environmental  Protection  and  Toxic  Substances,  R.E.D. 
+FACTS, Publication: EPA-738-F-93-015, September 1993, available at 
+http://www.epa.gov/oppsrrd1/REDs/factsheets/0064fact.pdf (accessed Nov 2013). 
+
+ 
+
+SRM 2201 
+
+ 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CEN 
+CERCLA  
+
+CFR  
+CPSU 
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+European Committee for Standardization 
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Coal Mine Dust Personal Sample Unit 
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+International Organization for Standardization 
+Lethal Concentration, 50 %  
+Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+Mine Safety and Health Administration 
+ 
+
+NIOSH  
+
+NIST 
+NRC 
+NTP  
+OSHA  
+
+PEL  
+RCRA  
+REL  
+RM 
+RQ  
+
+National Institute for Occupational Safety and 
+Health  
+National Institute of Standards and Technology 
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+
+Permissible Exposure Limit 
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+RTECS 
+
+Registry of Toxic Effects of Chemical Substances 
+
+SARA  
+SCBA  
+SRM  
+STEL  
+TDLo 
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Toxic Dose Low 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+IARC  
+IATA  
+IDLH  
+ISO 
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+MSHA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the  material.   The SDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users  of  this  SRM  should  ensure  that  the  SDS  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2201 
+
+ 
+
+Page 6 of 6 
+
+

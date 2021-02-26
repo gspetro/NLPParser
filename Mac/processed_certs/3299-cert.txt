@@ -1,0 +1,424 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3299 
+ 
+Ground Turmeric (Curcuma longa L.) Rhizome 
+
+dUse 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of curcuminoids and elements in ground turmeric (Curcuma longa L.) rhizomes and similar matrices.  
+SRM 3299  can  also  be  used  for  quality  assurance  when assigning  values  to  in-house  control materials.  A unit  of 
+SRM 3299 consists of five pouches, each containing approximately 3 g of turmeric rhizome. 
+ 
+The  development  of  SRM 3299  was  a  collaboration  among 
+the  National  Institute  of  Standards  and 
+Technology (NIST), the National Institutes of Health Office of Dietary Supplements (NIH-ODS), and the Food and 
+Drug Administration Center for Drug Evaluation and Research (FDA CDER). 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  of  curcuminoids  and  elements  in  SRM 3299, 
+reported on a dry-mass basis, are provided in Tables 1 and 2.  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken 
+into account [1].  Analyses for value assignment were performed by NIST and collaborating laboratories.  Certified 
+values were calculated as the unweighted means of the mean values from NIST methods and the weighted median of 
+the collaborating laboratories means, where appropriate.  The associated uncertainties are expressed at an approximately 
+95 % level of confidence [2–4]. 
+ 
+Expiration of Certification:  The certification of SRM 3299 is valid, within the measurement uncertainty specified, 
+until  30 June 2029,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+1,  contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by C.A. Rimmer 
+and L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+Support  for  the  development  of  SRM 3299  was  provided  in  part  by NIH-ODS  and FDA CDER.    Technical 
+consultation was provided by J.M. Betz (NIH-ODS) and A. Nguyen Pho (FDA CDER).  Acquisition of the material 
+was coordinated by A. Nguyen Pho of FDA CDER and K.E. Sharpless of the NIST Special Programs Office. 
+ 
+Analytical measurements at NIST were performed by M.R. Ale, C.A. Barber, R. Oflaz, H. Simon, and L.J. Wood 
+of the NIST Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+27
+Certificate Issue Date: 27 September 2019 
+ 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+99 
+
+ 
+
+Page 1 of 5 
+
+  
+
+  
+
+SRM 3299 
+
+Analysts  at  the  following  laboratories  performed  measurements  that  contributed  to  the  value  assignment  of 
+curcuminoids  and  elements in  SRM  3299  as  part  of  an  interlaboratory  comparison  exercise  coordinated  by  NIST:  
+Advanced  Botanical  Consulting  &  Testing,  Inc.  (Tustin, CA); Alkemists  Laboratories  (Costa  Mesa, CA); Arizona 
+Nutritional  Supplements  (Chandler, AZ); Atlas  Bioscience  Labs  (Tucson, AZ);  BI  Nutraceuticals  (McCarran, CA); 
+Brighton Laboratory (Henderson, NV); British Columbia Institute of Technology (Burnaby, BC, Canada); Canadian 
+Food Inspection Agency (Longueuil, Canada); Craft Technologies, Inc (Wilson, NC); Eurofins Supplement Analysis 
+Center (Petaluma, CA); ISURA (Burnaby, Canada); Nard Naturex SA France (Avignon, France); Natural Remedies 
+Private Limited (Bangalore, India); NOW Foods (Bloomingdale, IL); Oregon’s Wild Harvest (Redmond, OR); Shree 
+ Canada);  SORA  Labs 
+Dhootapapeshwar  Ltd  (Mumbai, India);  Silliker  JR  Laboratories  ULC  (Burnaby, 
+(Forsyth, MO); Tishcon Corp (Salisbury, MD). 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS: SRM 3299 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN 
+CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C) in the original unopened packet 
+until required for use.  For elemental analyses, the packet can be opened, resealed, and stored at room temperature; test 
+portions can be removed and analyzed until the material reaches its expiration date.  The stability of curcuminoids in 
+previously opened packets has not been investigated, and therefore the certification only applies to the initial use and 
+the same results are not guaranteed if the remaining powder is used at a later date. 
+ 
+Use:  Before use, the contents of a packet of material should be mixed thoroughly.  To relate analytical determinations 
+to the certified values in this Certificate of Analysis, the following masses used for NIST analyses should be used as 
+the minimum sample size to ensure valid results: 0.5 g for elements (see “Source and Preparation” below), and 0.1 g 
+for  curcuminoids.    Test  portions  should  be  analyzed  as  received  and  results  converted  to  a  dry-mass  basis.    The 
+moisture conversion factor given below (see “Determination of Moisture”) can be used for the sample(s) when using 
+an unopened packet for the first time.  If using a previously opened and resealed packet, moisture must be determined 
+using one of the recommended techniques described below.  Analytical results should include their own estimates of 
+uncertainty and can be compared to the certified values using procedures described in reference 5. 
+ 
+Determination of Moisture:  Moisture content of SRM 3299 was determined at NIST by (1) freeze-drying to constant 
+mstant 
+mass over 7 days; (2) drying over magnesium perchlorate in a desiccator at room temperature for 28 d; and (3) drying 
+for 2 h in a forced-air oven at 80 °C.  The means from all three techniques were averaged to determine a dry-mass 
+proportion of (0.9146 ± 0.0060) gram dry-mass per gram as-received mass; the uncertainty shown on this value is an 
+expanded uncertainty to represent a 95 % level of confidence.  The conversion factor used to convert data from an 
+as-received to a dry-mass basis is the inverse of the dry-mass proportion, i.e. as-received data were divided by 0.9146 
+to determine dry-mass results.  A relative uncertainty component of 0.3 % for the conversion factor obtained from the 
+moisture measurements is incorporated in the uncertainties of the certified values, reported on a dry-mass basis, that 
+are provided in this certificate. 
+ 
+SOURCE, PREPARATION AND ANALYSIS(1) 
+ 
+Source and Preparation:  The material for production of SRM 3299 is a turmeric rhizome powder.  The material 
+was received as nominally 180 μm (80 mesh) particle size and was packaged without additional grinding.  The extract 
+was  transferred  to  High-Purity Standards  (Charleston, SC) where  it  was  blended, aliquoted, and heat-sealed  inside 
+nitrogen-flushed  4 mil  polyethylene  bags,  which  were  then  sealed  inside  nitrogen-flushed  aluminized  plastic  bags 
+along with two packets of silica gel each.  Following packaging, SRM 3299 was irradiated (Neutron Products, Inc., 
+Dickerson, MD) to an absorbed dose of 8.4 kGy to 10.7 kGy. 
+ 
+Value  assignment  of  the  mass  fractions  of
+Analytical  Approach  for  Determination  of  Curcuminoids:    Value  assignment  of  the  mass  fractions  of 
+bisdemethoxycurcumin,  desmethoxycurcumin,  and  curcumin  in  SRM 3299  was  based  on  the  combination  of 
+measurements  provided  by  NIST  using liquid  chromatography  with absorbance  detection (LC-absorbance)  and  by 
+
+oids: 
+
+                                                
+
+(1)Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+SRM 3299 
+
+Page 2 of 5 
+
+LC 
+
+by 
+
+provided 
+
+laboratories 
+
+fluorescence 
+fluorescence 
+
+collaborating 
+
+with 
+and  LC  with 
+
+using  LC-absorbance 
+
+data 
+detection (LC-fluorescence). 
+ 
+of  bisdemethoxycurcumin,
+NIST  Analyses  for  Curcuminoids  using  LC-Absorbance:    The  mass  fractions  of  bisdemethoxycurcumin, 
+desmethoxycurcumin, and curcumin were measured by LC-absorbance in duplicate 100 mg test portions taken from 
+each of ten packets of SRM 3299.  Phenol was added to each test portions as an internal standard and curcuminoids 
+were  extracted  in  methanol  by  end-over-end  rotation  for  15 min  followed  by  ultrasonication  for  15 min.    After 
+centrifugation  for  10  min  at  3000  rpm,  curcuminoids  in  the  sample  extracts  were  separated  using  a  mixed-mode 
+C18-phenyl  column  and  monitored  by  absorbance  at  425  nm.    The  phenol  internal  standard  was  monitored  by 
+absorbance at 270 nm.  Calibrants were prepared gravimetrically at levels intended to approximate the levels of the 
+curcuminoids in the SRM following extraction.  The purity of the neat calibrant materials was determined at NIST 
+using LC-absorbance at 210 nm, 254 nm, and 425 nm.  A single internal standard solution was used for the calibrants 
+and samples. 
+ 
+Analytical  Approach  for  Determination  of  Elements:    Value  assignment  of  the  mass  fractions  of  elements  in 
+SRM 3299  was  based  on  the  combination  of  results  from  NIST  and  collaborating  laboratories.    NIST  provided 
+measurements by using inductively coupled plasma mass spectrometry (ICP-MS). 
+ 
+NIST Analysis for As, Cd, and Pb Using ICP-MS:  Mass fractions of arsenic, cadmium, and lead were determined by 
+ICP-MS from duplicate, nominal 0.5 g test portions taken from each of six packets of the SRM.  Test portions were 
+digested in sealed vessels with a HNO3/HF mixture using a microwave digestion system.  Quantitation was based on 
+the method of standard additions using calibration solutions prepared from the SRM 3100 series of single-element 
+standard solutions. 
+ 
+Collaborating  Laboratories’  Analyses:   The  collaborating  laboratories  were  asked  to  use  their  usual  methods  to 
+make single measurements on test portions taken from each of three packets of SRM 3299.  Because of the variability 
+among data provided by laboratories participating in an interlaboratory comparison exercise, the weighted median of 
+the individual laboratory means is used, and the uncertainty is estimated using a bootstrap procedure, both based on a 
+Laplace random effects model [6,7]. 
+ 
+Homogeneity Assessment:  The homogeneity of curcuminoids and elements was assessed at NIST using the methods 
+and test portion sizes described above; analysis of variance with 5 % significance showed possible inhomogeneity for 
+bisdemethoxycurcumin.    The  uncertainty  for  bisdemethoxycurcumin  incorporates  a  component  for  possible 
+inhomogeneity based on the standard deviation. 
+ 
+ 
+
+ 
+
+SRM 3299 
+
+Page 3 of 5 
+
+Certified Mass  Fraction  Values  for  Curcuminoids:    Each  certified  mass  fraction  value, reported  on  a  dry-mass 
+basis, is the combined mean from each set of analyses by NIST and the median of the means of results provided by 
+collaborating  laboratories.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the  certified  value  and  U95%(x)  is  the 
+expanded  uncertainty  of  the  certified  value.    The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval 
+x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, the certified value should be treated as a normally 
+distributed random variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total mass 
+fraction for each curcuminoid listed in Table 1 on a dry-mass basis.  Metrological traceability is to the SI-derived unit 
+for mass fraction (expressed as milligrams per gram). 
+ 
+
+Table 1.  Certified Mass Fraction Values for Curcuminoids in SRM 3299 
+ 
+
+cuminoids 
+
+ 
+
+Bisdemethoxycurcumin (a,b,c) 
+
+Desmethoxycurcumin (a,b,c) 
+
+Curcumin (a,c) 
+
+ 
+ 
+
+Mass Fraction  
+(mg/g) 
+
+3.66  ± 
+
+0.23 
+
+3.79  ± 
+
+0.37 
+
+12.17  ± 
+
+0.56 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) NIST LC-absorbance 
+(b) Collaborating Laboratories LC-fluorescence 
+(c) Collaborating Laboratories LC-absorbance 
+ 
+ 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value, reported on a dry-mass basis, is 
+the combined mean from each set of analyses by NIST using ICP-MS and the median of the means of results provided 
+by collaborating laboratories using ICP-MS.  Values are expressed as x ± U95%(x), where x is the certified value and 
+U95%(x) is the expanded uncertainty of the certified value.  The true value of the analyte is believed to lie within the 
+interval x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, the certified value should be treated as a 
+normally distributed random variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total 
+mass fraction for each element listed in Table 2 on a dry-mass basis.  Metrological traceability is to the SI-derived 
+unit for mass fraction (expressed as milligrams per kilogram). 
+  
+
+Table 2.  Certified Mass Fraction Values for Elements in SRM 3299 
+ 
+
+t  Elements
+
+ 
+
+Arsenic (As) 
+
+Cadmium (Cd) 
+
+Lead (Pb) 
+
+Mass Fraction  
+(mg/kg) 
+
+0.332 
+
+±  0.042 
+
+1.73 
+
+1.20 
+
+±  0.24 
+
+±  0.11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+SRM 3299 
+
+Page 4 of 5 
+
+REFERENCES 
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment- of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed Sep 2019). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sep 2019);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Sep 2019). 
+
+[3]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement  -  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Sep 2019). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC Int., 
+
+Vol. 91, pp. 1298–1302 (2008). 
+
+[6]  Searle, S.; Casella, G.; McCulloch, C.; Variance Components; John Wiley, Hoboken, NJ (1992). 
+[7]  Rukhin, A.L.; Possolo, A.; Laplace Random Effects Models for Interlaboratory Studies; Computational Statistics 
+
+and Data Analysis, Vol. 55, pp. 1815–1827 (2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730;  
+e-mail: srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+fax 
+
+SRM 3299 
+
+Page 5 of 5 
+
+

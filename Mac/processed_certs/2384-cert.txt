@@ -1,0 +1,610 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2384 
+ 
+Baking Chocolate 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  methods  for  determining 
+proximates, fatty acids, calories, and elements in baking chocolate and similar matrices.  This SRM can also be used 
+for quality assurance when assigning values to in-house reference materials.  The SRM is baking chocolate prepared 
+from 100 % cocoa beans by a manufacturer of baking chocolate and consists of a single production lot.  A unit of 
+SRM 2384 consists of five 91 g (3.2 oz) individually wrapped bars of baking chocolate. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for elements and fat in SRM 2384 are provided in 
+Tables 1 and 2.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all 
+known or suspected sources of bias have been taken into account [1].  Analyses for value assignment were performed 
+by NIST and collaborating laboratories.  Certified mass fraction values were calculated as the mean of the mean values 
+from NIST methods and the median or the mean of the mean measurements made by collaborating laboratories, where 
+appropriate.  The associated uncertainties are expressed at an approximately 95 % level of confidence [2,3].  Values 
+are reported on an as-received (not dry-mass) basis in mass fraction units [4]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for sodium, fatty acids, proximates, calories, and 
+total dietary fiber are provided in Tables 3 through 5.  A NIST reference value is a noncertified value that is the best 
+estimate  of  the  true  value  based  on  available  data;  however,  the  value  does  not  meet  the  NIST  criteria  for 
+certification [1] and is provided with an associated uncertainty that may reflect only measurement reproducibility, may 
+not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods.  Reference mass fraction values were derived from results reported by NIST and collaborating laboratories.  
+Values are reported on an as-received (not dry-mass) basis in mass fraction units [4]. 
+ 
+Expiration of Certification:  The certification of SRM 2384 is valid, within the measurement uncertainty specified, 
+until  31 December 2029,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+the  SRM  is  damaged, 
+certificate  (see  “Instructions  for  Storage  and  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate this notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips, 
+K.E. Sharpless, and L.J. Wood of the NIST Chemical Sciences Division and H.B. Chin, I-P. Ho, and D.W. Howell of 
+the Grocery Manufacturers Association (GMA, Washington, DC). 
+ 
+Analytical  measurements  at  NIST  were  performed  by  K.D. Chieh,  K.E. Murphy,  B.C. Nelson,  C.S. Phinney, 
+B.J. Porter, K.E. Sharpless, J.R. Sieber, and L.J. Wood of the Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  15 January 2020 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+rision 
+
+Last
+
+ 
+
+SRM 2384 
+
+Page 1 of 6 
+
+ 
+ 
+
+eparation: 
+
+(FIACC) 
+
+comparison 
+
+interlaboratory 
+
+*  analyse 
+nents 
+
+of  Agriculture,  Food  Composition  Laboratory (Beltsville, MD); 
+
+Analyses  for  value  assignment  were  also  performed  by  the  following  laboratories  participating  in  a  GMA  Food 
+Industry  Analytical  Chemists  Committee 
+exercise:  Covance, 
+Inc. (Madison, WI);  General  Mills,  Inc. (Minneapolis, MN);  Hormel  Foods  Corporation (Austin, MN);  Kraft 
+Inc. (East  Hanover, NJ);  Nestlé  USA (Dublin, OH);  Novartis  Nutrition 
+Foods (Glenview, IL);  Nabisco, 
+Corporation (St.  Louis  Park, MN);  Pillsbury (St.  Paul, MN);  Ralston  Purina  Company (St.  Louis, MO);  U.S. 
+Department 
+and  Woodson-Tenent 
+Laboratories (Memphis, TN).  Data for extractable fat was also provided by Dionex Corporation (Salt Lake City, UT). 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE TO USERS 
+ 
+SRM 2384 IS INTENDED FOR LABORATORY USE ONLY, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  Until required for use, the baking chocolate should be stored under refrigeration at approximately 4 °C. 
+ 
+Use:  Test portions for analysis  may be  melted or  grated as described in AOAC Official Method 970.20 [5].  The 
+following masses used for NIST analyses should be used as the minimum sample size to ensure valid results: 1 g for 
+fat and fatty acids and 0.5 g for elements. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  SRM 2384 is baking chocolate prepared from 100 % cocoa beans and taken from a single 
+production lot. 
+ 
+NIST Analyses for Ca, Cu, Fe, K, Mg, Mn, Na, P, and Zn:  Mass fractions of calcium, copper, iron, potassium, 
+magnesium,  manganese,  sodium,  phosphorus,  and  zinc  were  measured  by  inductively-coupled  plasma  optical 
+emission spectroscopy (ICP-OES) in six bars of chocolate on two or more days.  A quarter of each bar was melted in 
+individual beakers and single or duplicate 0.5 g portions were taken from each bar and digested in a microwave sample 
+preparation  system  using  nitric  acid.    Digests  were  transferred  to  plastic  bottles  and  diluted  with  the  appropriate 
+volume of 1.5 % (volume fraction) nitric acid.  Quantitation was based on the method of standard additions  using 
+SRM 3100  series  single  element  standard  solutions.    The  ICP-OES  result  for  sodium  was  confirmed  using  X-ray 
+fluorescence (XRF) spectroscopy. 
+ 
+dy  isotope  dilution 
+NIST  Analyses  for  Cd  and  Pb:    Mass  fractions  of  cadmium  and  lead  were  measured  by  isotope  dilution 
+inductively-coupled plasma mass spectrometry (ID ICP-MS) in six bars of chocolate.  Two 5 g squares of each bar 
+were melted in individual beakers and duplicate 1.0 g portions were spiked with isotopically enriched 206Pb and 111Cd 
+and digested in a microwave sample preparation system using nitric acid.  Digests were transferred to plastic bottles 
+and diluted  with the appropriate volume of 2 % (volume  fraction) nitric acid.   Lead  was  measured by ICP-MS in 
+standard mode, whereas cadmium was measured in collision cell/kinetic energy discrimination mode.  Quantification 
+was based on calibration by reverse isotope dilution ICP-MS using primary standard solutions prepared from SRM 746 
+Cadmium-Vapor Pressure, SRM 3108 Cadmium (Cd) Standard Solution, SRM 3128 Lead (Pb) Standard Solution, 
+and from Pb metal (Johnson Matthey, 99.999+ % pure). 
+ 
+NIST Analyses for Fat:  The mass fraction of fat was measured by pressurized-fluid extraction in two sets of seven 
+samples of chocolate.  One-gram portions of grated chocolate  were extracted into petroleum ether.  Extracts  were 
+evaporated under nitrogen and then dried at 100 °C to constant mass, per AOAC Official Method 963.15, Fat in Cacao 
+Products [5]. 
+ 
+NIST Analyses for Fatty Acids:  Mass fractions of fatty acids were measured by gas chromatography with flame 
+ionization  detection  (GC-FID)  in  three  sets  of  five  samples  of  chocolate  over  a  three-day  period.    Using 
+pressurized-fluid  extraction,  fat  was  extracted  into  petroleum  ether  from  approximately  1 g  samples  of  grated 
+chocolate.    Methyl  nonadecanoate  (C19:0  fatty  acid  methyl  ester [FAME])  was  used  as  an  internal  standard.   A 
+two-step process employing methanolic sodium hydroxide and boron trifluoride was used to convert the fatty acids to 
+their methyl esters.  FAMEs were extracted into hexane and samples  were analyzed by GC-FID.  Calibrants  were 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+se.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2384 
+
+Page 2 of 6 
+
+elements 
+
+prepared gravimetrically from SRM 2377 Fatty Acid Methyl Esters in 2,2,4 Trimethylpentane at levels intended to 
+approximate the levels of the fatty acids in the SRM following extraction.  A single internal standard solution was 
+used for the calibrants and samples.  Calculations were based on average response factors for the calibrants. 
+ 
+Analyses by Collaborating Laboratories:  Data from additional sources were used for value assignment, including 
+an interlaboratory comparison exercise organized by the GMA FIACC.  Not every laboratory measured every analyte, 
+and some data were excluded as outliers.  The GMA FIACC laboratories were asked to use AOAC methods or their 
+equivalent, to make single measurements from each of two bars, and to report the analytical method that was used. 
+ 
+Homogeneity Assessment:  The homogeneity of elements and fatty acids was assessed at NIST using the methods 
+described  above.   A  small  but  statistically  significant  heterogeneity  was  found  for  cadmium,  calcium,  lead,  and 
+manganese, and an inhomogeneity component has been included in the expanded uncertainties for these analytes.  All 
+other analytes, including those for which homogeneity was not assessed, have been treated as homogeneous. 
+ 
+Value Assignment:  The collaborating laboratories reported individual results for two to eight analyses for a given 
+analyte.  The mean of each laboratory’s results was then determined.  For calculation of assigned values for analytes 
+that  were  measured  only  by  the  collaborating  laboratories,  the  mean  of  the  collaborating  laboratory  means  was 
+determined.    For  analytes  that  were  also  measured  by  NIST,  the  median  or  mean  of  the  individual  collaborating 
+laboratory means and the mean of the individual sets of NIST data were averaged, as appropriate.  For analytes that 
+were only measured by NIST, the mean of the individual sets of NIST data were averaged, as appropriate. 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from the 
+mean  of  results  from  analyses  by  NIST  and  the  median  or  mean  of  the  mean  results  provided  by  collaborating 
+laboratories, where appropriate.  Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the 
+expanded uncertainty of the certified value.  The true value of the analyte lies within the interval x ± U95%(x) with 
+95 % confidence.  To propagate this uncertainty, the certified value should be treated as a normally distributed random 
+variable with mean x and standard deviation U95%(x)/2 [2-4,6,7].  The uncertainties for cadmium, calcium, lead, and 
+manganese also incorporate an additional uncertainty component for possible inhomogeneity.  The measurands are 
+the total mass fractions of elements in baking chocolate as listed in Table 1 on an as-received basis.  Metrological 
+traceability is to the SI measurement unit for chemical mass fraction, expressed as milligrams per kilogram. 
+ 
+
+individual  results  for  two  to  eight
+
+Table 1.  Certified Mass Fraction Values for Elements in SRM 2384 
+ 
+
+ 
+
+Cadmium (Cd)(a) 
+Calcium (Ca)(b,c) 
+Copper (Cu)(b,c) 
+Iron (Fe)(b,c) 
+Lead (Pb)(a) 
+Magnesium (Mg)(b,c) 
+Manganese (Mn)(b,c) 
+Phosphorus (P)(b,c) 
+Potassium (K)(b,c) 
+Zinc (Zn)(b,c) 
+
+(a ) NIST ID ICP-MS 
+(b) NIST ICP-OES 
+(c) Collaborating laboratories 
+ 
+ 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+0.0734  ± 
+
+0.0077 
+
+0.0357  ± 
+
+0.0046 
+
+840 
+23.9 
+132 
+
+2610 
+
+20.8 
+
+3330 
+8650 
+
+37.6 
+
+±  74 
+± 
+±  11 
+
+1.0 
+
+1.3 
+
+±  120 
+± 
+±  210 
+±  400 
+± 
+
+1.9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2384 
+
+Page 3 of 6 
+
+Certified Mass Fraction Value for Fat:  The certified mass fraction value is the combined mean from the mean of 
+results from analyses by NIST and the mean of results provided by collaborating laboratories.  The value is expressed 
+as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  The true 
+value  of  the  analyte  lies  within  the  interval  x ± U95%(x)  with  95 %  confidence.   To  propagate  this  uncertainty,  the 
+certified  value  should  be  treated  as  a  normally  distributed  random  variable  with  mean  x  and  standard  deviation 
+U95%(x)/2 [2-4].  The measurand is the total mass fraction of extractable fat in baking chocolate as listed in Table 2 on 
+an  as-received  basis.    Metrological  traceability  is  to  the  measurement  processes  and  standards  used  by  NIST  and 
+collaborating laboratories. 
+ 
+
+Table 2.  Certified Mass Fraction Value for Total Extractable Fat in SRM 2384 
+
+ss  Fraction 
+
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+Total Fat (extractable) 
+
+ 
+
+51.4 
+
+±  1.1 
+
+ 
+ 
+Reference Mass Fraction Value for Sodium:  The reference mass fraction value for sodium is the mean of results 
+provided by NIST using ICP-OES.  The value is expressed as x ± U95%(x), where x is the reference value and U95%(x) 
+iterval  x 
+is the expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval x ± U95%(x) 
+with about a 95 % confidence [2-4].  The measurand is the total mass fraction of sodium in baking chocolate as listed 
+chocolate  as  listed 
+measurement  unit 
+in Table 3 on an as-received basis as determined by ICP-OES.  Metrological traceability is to the SI measurement unit 
+for chemical mass fraction, expressed as milligrams per kilogram, as realized by the method used. 
+ 
+
+Table 3.  Reference Mass Fraction Value for Sodium in SRM 2384 
+
+ 
+
+Sodium (Na) 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+
+49  ± 
+
+17 
+
+ 
+ 
+38  fraction  value  is  the
+Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids:  Each reference mass fraction value is the 
+combined mean from the mean of results from analyses by NIST and the mean of results provided by collaborating 
+laboratories, as available.  The method-specific value of the analyte lies within the interval x ± U95%(x) with about a 
+95 % confidence [2-4].  The measurands are the total mass fractions of fatty acids in baking chocolate as listed in 
+Table 4  on  an  as-received  basis  as  determined  by  the  methods  indicated.    Metrological  traceability  is  to  the 
+measurement processes and standards used by NIST and collaborating laboratories. 
+ 
+
+Table 4.  Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids in SRM 2384 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dodecanoic Acid (C12:0)(a) 
+Tetradecanoic Acid (C14:0)(a,b) 
+Pentadecanoic Acid (C15:0)(a) 
+Hexadecanoic Acid (C16:0)(a,b) 
+(Z)-9-Hexadecenoic Acid (C16:1 n-7)(a,b) 
+Heptadecanoic Acid (C17:0)(a) 
+Octadecanoic Acid (C18:0)(a,b) 
+(Z)-11-Octadecenoic Acid (C18:1 n-7)(a,b) 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n-6)(a,b) 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3 n-3)(a,b) 
+Eicosanoic Acid (C20:0)(a,b) 
+9-Eicosenoic Acid (C20:1)(a) 
+Docosanoic Acid (C22:0)(a,b) 
+Tetracosanoic Acid (C24:0)(a,b) 
+Total Fat (as the sum of fatty acids as triglycerides) 
+
+(a) Collaborating laboratories 
+(b) NIST GC-FID 
+
+ 
+
+Common Name 
+
+Lauric Acid 
+Myristic Acid 
+ 
+Palmitic Acid 
+Palmitoleic Acid 
+Margaric Acid 
+Stearic Acid 
+Vaccenic Acid 
+Linoleic Acid 
+α-Linolenic Acid 
+Arachidic Acid 
+Gadoleic Acid 
+Behenic Acid 
+Lignoceric Acid 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+0.127  ±  0.007 
+0.110  ±  0.006 
+
+0.021  ±  0.004 
+0.076  ±  0.005 
+0.017  ±  0.003 
+
+ 
+ 
+ 
+  12.44  ±  0.26 
+ 
+ 
+  17.24  ±  0.38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  50.3 
+
+0.172  ±  0.017 
+1.458  ±  0.046 
+0.093  ±  0.006 
+0.501  ±  0.012 
+0.022  ±  0.004 
+0.088  ±  0.006 
+0.048  ±  0.002 
+
+±  1.1 
+
+SRM 2384 
+
+Page 4 of 6 
+
+Reference Mass Fraction Values for Proximates and Calories:  Each reference mass fraction value is the mean of 
+results provided by collaborating laboratories.  Values are expressed as x ± U95%(x), where x is the estimated value 
+and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval 
+x ± U95%(x) with about a 95 % confidence [2].  For proximates and fiber, the measurands are the mass fractions in 
+baking chocolate as listed in Table 5 on an as-received basis as determined by the methods indicated.  For calories, 
+the measurand is the caloric content in baking chocolate as listed in Table 5 on an as-received basis as determined by 
+the methods indicated.  Metrological traceability is to the measurement processes and standards used by collaborating 
+laboratories. 
+ 
+
+Table 5.  Reference Mass Fraction Values for Proximates and Calories in SRM 2384 
+
+alories  in  SRM 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Solids 
+Ash 
+Protein(a) 
+Carbohydrates 
+Total Dietary Fiber 
+ 
+ 
+
+Calories(b) 
+
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+98.37  ±  0.35 
+2.78  ±  0.11 
+13.18  ±  0.46 
+32.4  ±  1.9 
+14.5  ±  3.0 
+
+Energy 
+(kcal per 100 g) 
+
+631.0  ±  9.3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+(a) A factor of 6.25 was used to convert nitrogen results to protein. 
+(b) The reference value for calories is the median of mean caloric calculations from the interlaboratory comparison exercise.  If the 
+the
+mean proximate values above are used for calculation, with caloric equivalents of 9, 4, and 4 for fat (as the sum of fatty acids as 
+triglycerides), protein, and carbohydrate, respectively, the mean caloric content is 635 kcal per 100 grams. 
+
+SRM 2384 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC (2000); available at https://www.nist.gov/system/files/documents/srm/SP260-136.PDF 
+(accessed Jan 2020). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2020);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:    Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jan 2020). 
+
+[3]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. Natl. 
+Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+rial 
+[4]  Thompson, A;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC (2008); 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Jan 2020). 
+
+ystem  of  Units 
+
+available 
+
+[5]  AOAC  International;  Official  Methods  of  Analysis  of  AOAC  International;  17th ed.;  Horwitz, W., Ed.; 
+
+International 
+
+Gaithersburg, MD (2000). 
+
+[6]  JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement”  -  Propagation  of  Distributions  using  a  Monte  Carlo  Method;  JCGM (2008); 
+available at https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2020). 
+
+;  Chapman  &  Hall 
+
+[7]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall: London (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  15 January 2020 (Change of expiration date; removal of certified values for oleic acid, caffeine, theobromine, 
+catechin, epicatechin, and catechin monomers based on observed instability; removal of reference values for theophylline and total procyanidins 
+based  on  observed  instability;  removal  of  reference  values  for  thiamine,  riboflavin,  niacinamide,  niacin,  total  vitamin  B3,  pantothenic  acid, 
+pyridoxamine,  pyridoxine,  and  total  vitamin  B6  based  on  NIST's  decision  to  no  longer  support  these  measurement  capabilities  in  this  matrix; 
+certified values for fatty acids and total fat as the sum of fatty acids downgraded to reference values to properly reflect traceability and moved from 
+Table 2 to Table 4; correction of reference value for lignoceric acid based on a rounding error; editorial changes); 05 February 2015 (Addition of 
+certified  values  for  Cd  and  Pb;  update  of  reference  values  for  Na,  riboflavin  and  niacin;  addition  of  reference  values  for  vitamins;  change  of 
+reference  values  for  elements  (Cu, Mg, Mn,  P,  K, and  Zn) to  certified  values;  removal  of  reference  values  for  tocopherols;  editorial changes); 
+25 September 2014 (Extension of certification period; removed acrylamide reference value in Table 6; editorial changes); 19 July 2013 (Removed 
+specific  rotation  notation  from  catechin  and  epicatechin;  editorial  changes)  27 January 2009  (Change  of  expiration  date);  23 January 2007 
+(Editorial changes); 28 September 2004 (This revision reflections the addition of a reference value for acrylamide); 04 June 2003 (Correction in 
+Table 1  certified  values  for  (+)-catechin,  (–)-epicatechin,  catechin  monomers;  correction  in  reference  values  for  theophylline  and  total 
+procyanidins; correction text of Appendix C-Other Analytes; units for caffeine and theobromine given in mg/kg (were g/kg)); 22 March 2002 
+(Original certificate date). 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+     
+
+  
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 2384 
+
+Page 6 of 6 
+
+

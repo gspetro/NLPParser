@@ -1,0 +1,456 @@
+﻿ext  om 
+
+8 
+
+é 
+Somes  or
+
+National Institute of Standards & Technology 
+ 
+
+Report of Investigation 
+ 
+Reference Material 8010 
+ 
+Sand for Sieve Analysis 
+
+ two samples of each of the three sands.  Each 
+
+C 429 Standard Test Method for Sieve Analysis of Raw 
+
+ 
+This Reference Material (RM) is intended to serve as a test ma terial in the sieve analysis of granular materials.  Each 
+unit comprises a three-bottle set of sands covering three size distributions.  Each bo ttle contains approximately 130 g 
+of sand, enough for the sample sizes designated in ASTM 
+Materials for Glass Manufacture [1]. 
+ 
+Six sands were obtained by ASTM Committee C-14 for use in a 1997 round robin study involving 15 participating 
+laboratories to establish a precision statement for ASTM C  429.  Three of these six sands, Materials A, C, and D, 
+were selected by NIST to be measured as RMs.  This
+ selection was done with the objective of covering the size 
+range of U.S.A. standard testing siev e numbers (No.), from No. 30 (600 µm) to No. 325 (45 µm).  Material A is a 
+test material for the coarser sieves (No. 30 to No. 100),  Material C is for the midrange (No. 70 to No. 200), and 
+Material D is for the finer sieves (No. 100 to No. 325). 
+ 
+Sieve Analysis:   Fifteen laboratories provided sieve analysis of
+mechanical sieving analysis was done following recommendati ons in ASTM STP 447B [2] and used a test stack of 
+nine sieves:  No. 30 (600 µm), No. 40 (425 µm), No. 50 (300 µm), No. 70 (212 µm), No. 100 (150 µm), No. 140 
+(106 µm), No. 200 (75 µm), No. 270 (53 µm), and No. 325 (45 µm).  The sieve testing was designed to provide 
+reference values (average mass fractions)  for sieve analysis and estimates of the standard deviations for within-lab 
+repeatability (s r) and between-lab reproducibility (s R).  The entire bottle of sand was poured onto the top sieve and 
+the sieves were then shaken for 15 min in an automated un it.  After the shaking was completed, the stack of sieves 
+was disassembled, and the sand removed from each sieve and weighed.  The mass of sand retained on each sieve 
+was used to calculate the mass fraction retained on that siev e.  This is the ratio of the mass of sand retained on a 
+sieve to the total sand mass.  Each laboratory reported the mass fractions to a precision of 0.1 %. 
+ 
+Expiration:  This RM can be used indefinitely within the  measurement uncertainties specified, provided the RM is 
+used in accordance with the instructions given in this report.   However, it is expected that some material will be lost 
+with each use.  When the unit’s loss exceeds 2 % of the origin al mass, or if spillage or contamination occurs, use of 
+the RM unit should be discontinued. 
+ 
+The technical direction and sieve analysis at NIST were provided by J.F. Kelly of the NIST Ceramics Division. 
+ 
+Organization of the interlaboratory testing program 
+R.J. DeLuca, Consultant and S.L. Gray of Corning, Inc. 
+ 
+Statistical review was performed by K.R. Eberhardt of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved in the issuance of this RM  were coordinated through the NIST Standard Reference 
+Materials Program by R.J. Gettings and B.S. MacDonald of the Measurement Services Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  18 May 2004 
+See Report History on Last Page 
+
+Robert L. Watters, Jr., Acting Chief 
+Measurement Services Division 
+
+was coordinated by D.J. O’Donnell of Unimin Corp., 
+
+Debra L. Kaiser, Chief 
+Ceramics Division 
+
+RM 8010 
+
+Page 1 of 3 
+
+ are then shaken in the same manner as that to be 
+
+INSTRUCTION FOR USE 
+ 
+To evaluate a set of standard 203 mm (8 in) or 305 mm (12 in)  diameter test sieves with this RM, the entire bottle of 
+sand should be poured onto the top sieve screen.  The sieves
+followed in routine analysis.  After the shaking has been completed, the stack of sieves is disassembled, and the sand 
+is removed from each sieve and placed into a suitable weighi ng container.  To reduce loss of material during this 
+step, the transfer operation should utilize a large funnel or be carried out over glazed paper to recover any spillage.  
+A soft brush is useful in removing the sand from the sieve a nd funnel.  Each of the sieve fractions is weighed to a 
+to the original RM bottle and kept for reuse.  The mass 
+precision of 0.01 g.  After weighing, the sand is returned 
+fraction retained on each sieve is compared to the reference value given in Table 1. 
+ 
+The above procedure is for use in comparison of sieve resu lts and as a method to periodically monitor for changes in 
+screens after service.  This procedure is 
+complying with the calibration of wire cloth sieves 
+Calibration Program by telephone at (301) 975-3471 or (301) 975-2002, or by fax at (301) 869-3548. 
+ 
+
+NOT to be used as a certification for test sieves.  For assistance in 
+
+according to ASTM E 11 specifications, contact the NIST 
+
+Table 1.  Reference Values 
+ 
+
+Material C 
+
+ 
+  Mass Fraction Uncertainty    Mass Fraction Uncertainty 
+ 
+
+(%) 
+
+ 
+
+Material D 
+
+± (%) 
+ 
+
+ 
+
+ 
+0.0 
+
+(%) 
+ 
+
+0.1 
+
+± (%) 
+
+ 
+Sieve 
+No. 
+30 
+
+ 
+ 40 
+ 50 
+ 70 
+ 100 
+ 140 
+ 200 
+  270 
+  325 
+  Pan 
+
+Material A 
+Mass Fraction  Uncertainty 
+
+ 
+ 
+ 
+
+ 9.2 
+ 5.0 
+ 1.5 
+
+(%) 
+
+ 0.3 
+
+22.4 
+42.0 
+19.5 
+
+ 0.2 
+ 0.0 
+ 0.1 
+
+ 1.5 
+ 0.7 
+ 0.3 
+
+± (%) 
+
+  0.3 
+ 
+ 
+ 
+
+ 6.0 
+ 7.1 
+ 3.9 
+ 
+ 
+ 
+  0.2 
+  0.1 
+  0.2 
+
+ 
+ 0.0 
+ 0.2 
+ 5.7 
+ 41.4 
+ 41.4 
+ 10.4 
+ 
+ 
+ 
+
+ 0.1 
+ 
+ 0.2 
+ 
+ 1.9 
+ 
+   5.1 
+   6.1 
+   2.2 
+
+   0.1 
+ 0.1 
+ 0.2 
+ 0.2 
+
+ 0.0 
+    0.0 
+    0.0 
+    0.1 
+ 
+ 
+5.4 
+  28.5 
+ 
+ 
+  27.7 
+ 0.7 
+ 0.0 
+ 0.1 
+
+   0.6 
+   0.2 
+   0.3 
+
+  3.6 
+  3.3 
+  4.8 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+23.3 
+7.2 
+8.2 
+
+ 
+ 
+ 
+
+4.2 
+4.5 
+3.2 
+
+ 
+ 
+
+ 
+
+Table 2.  Repeatability (sr) and Reproducibility (sR) Values Derived 
+From Round Robin Data Using ASTM E 691 [3] 
+
+ 
+Sieve s
+No. (%) (%) 
+
+Material A 
+
+r 
+
+ sR 
+
+ 
+ 
+
+Material C 
+
+ sr 
+
+ sR 
+
+ 
+ 
+
+Material D 
+
+ sr 
+
+ sR 
+
+ (%) (%) 
+
+ (%) (%) 
+
+ 0.07 
+ 0.03 
+ 0.07 
+ 0.09 
+ 1.64 
+ 1.50 
+ 2.15 
+ 1.87 
+ 2.03 
+ 1.42 
+
+ 0.05     0.02 
+ 0.02     0.01 
+ 0.07     0.03 
+ 0.85     0.04 
+ 2.29     1.45 
+ 2.75     0.72 
+ 0.97     0.94 
+ 0.26     0.45 
+ 0.09     0.51 
+ 0.12     0.50 
+
+ 0.16     0.03 
+ 2.72     0.02 
+ 3.24     0.05 
+ 1.80     0.13 
+ 0.69     0.78 
+ 0.31     0.71 
+ 0.14     0.27 
+ 0.11     0.14 
+ 0.05     0.06 
+ 0.09     0.05 
+
+  30   0.16 
+  40   0.78 
+  50   1.09 
+  70   1.15 
+ 100   0.38 
+ 140   0.15 
+ 200   0.08 
+ 270   0.07 
+ 325   0.04 
+ Pan   0.05 
+ 
+Uncertainty Analysis:  The reference values listed in Table 1 are the  average mass fraction, expressed in percent, of 
+material retained on each sieve.  The uncertainties in 
+according to the ISO/NIST guidelines [4], and represent  the 95 % level of confidence.  The expanded uncertainties 
+are calculated as  U = ku c, where uc is the combined standard uncertainty and  k is a coverage factor. The value of  uc 
+represents, at the level of one standard deviation, the co mbined effects of uncertainty due to (1) between-laboratory 
+reproducibility of the sieve measurements, (2) within-laboratory repeatability of measurements, and (3) possible 
+small bottle-to-bottle differences in the material.  The value of coverage factor  k ranges from 2.03 to 2.16 over the 
+cases reported, depending on the calculate d effective degrees of freedom for 
+operator sieving a bottle of this RM, using sieves ma
+
+uc.  It is expected that a qualified 
+nufactured in compliance with ASTM E 11-95 Standard 
+
+Table 1 are expanded uncertainties, which are calculated 
+
+RM 8010 
+
+Page 2 of 3 
+
+Specification for Wire Cloth and Sieves for Testing Purposes  [5], will obtain values within this prediction interval 
+approximately 95 % of the time.  For example, it may be  expected that a No. 40 screen will retain between 16.4 % 
+and 28.4 % of the original mass of Material A, at a confidence level of approximately 95 %. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  ASTM C 429-82;  Standard Test Method for Sieve Analysis of  Raw Materials for Glass Manufacture ; Annu. 
+
+Book of ASTM Stand, Vol. 15.02, West Conshohocken, PA (1996). 
+
+[2]  Manual on Test Sieving Methods; ASTM Special Technical Publication 447B, Philadelphia, PA (1985). 
+[3]  ASTM E 691-92:  Standard Practice for Conducting an Interlaboratory Study to Determine the Precision of a 
+
+Test Method; Annual Book of ASTM Stand, Vol. 14.02, West Conshohocken, PA (1997). 
+
+[4] ISO;  Guide to the Expression of Uncertainty in Measurement
+
+; ISBN 92-67-10188-9, lst ed. International 
+
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+; NIST Technical Note 1297, 
+
+[5]  ASTM E 11-95;  Standard Specification for Wire Cloth and Sieves for Testing Purposes
+
+; Annu. Book of 
+
+ASTM Stand, Vol. 14.02, West Conshohocken, PA (1997).  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Report Revision History:   18 May 2004 (This revision reports a correction in the ma ss of sample provided in the unit size); 14 February 2002 
+(This revision reports corrected sieve designations); 03 June 1998 (Original report date). 
+
+Users of this SRM should ensure that the certificate in th
+contacting the SRM Program at:  telephone (301) 975-6776;  fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet http://www.nist.gov/srm. 
+
+eir possession is current.  This can be accomplished by 
+
+RM 8010 
+
+Page 3 of 3 
+
+

@@ -1,0 +1,261 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 1830 
+
+ 
+
+ 
+
+Al 
+
+ 
+Soda-Lime Float Glass  
+(Nominal Mass Fraction 0.1 % Al2O3) 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  use  in  checking  chemical  methods  of  analysis  and  in 
+calibrating  instrumental  methods  of  analysis.    A  unit  of  SRM 1830  consists  of  three  platelets  each  measuring 
+38 mm square.  The certified values are listed in Table 1 and represent the present best estimate of the “true value” 
+based on the results of the cooperative program for certification.  All values are reported as mass fractions [1]. 
+ 
+The  uncertainties  listed  are  expressed  as  “combined  uncertainties”  calculated  according  to  the  JCGM  and  NIST 
+Guides [2].  Each uncertainty is based on the 95 % confidence limit of the “true value”, and is intended to represent 
+the combined effect of uncertainty components associated with various analytical factors such as method imprecision, 
+possible systematic errors among methods, and material variability.  The measurand is the total mass fraction of each 
+constituent listed in Table 1, and the certified value is metrologically traceable to the SI-derived unit for mass fraction, 
+expressed as percent. 
+ 
+ 
+ 
+
+Table 1.  Certified Mass Fractions 
+
+ 
+
+Constituent 
+
+SiO2 
+Na2O 
+CaO 
+MgO 
+SO3 
+Al2O3 
+Fe2O3 (total iron as) 
+FeO 
+K2O 
+TiO2 
+
+Mass Fraction  
+(%) 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+73.07(a,l) 
+13.75(a,m,c,f) 
+8.56(a,m,g,k) 
+3.90(a,m,i,k) 
+0.26(a,b) 
+0.12(a,m,c,d,j) 
+0.121(a,m,h) 
+0.032(a) 
+0.04(a,c,m,e) 
+0.011(a,d,h) 
+
+0.04 
+0.06 
+0.06 
+0.04 
+0.01 
+0.02 
+0.003 
+0.004 
+0.01 
+0.001 
+
+ 
+Methods Used:  The primary procedures used in the analysis of this SRM are those recommended for referee analysis 
+in ASTM C 169 Standard Methods for Chemical Analysis of Soda-Lime and Borosilicate Glass.  All methods used in 
+the certification of SRM 1830 are cited in Table 1. 
+ 
+
+(a)ASTM C 169 referee analysis 
+(b)Combustion 
+(c)Flame Emission 
+(d)Spectrophotometry 
+(e)Butyl Alcohol, HClO4 
+
+(f)Magnesium Uranyl Acetate 
+(g)KMnO4 Titration 
+(h)X-ray Fluorescence  
+(i)Gravimetric (8-Hydroxyquinoline) 
+(j)Gravimetric (Single Precipitation) 
+
+ 
+ 
+ 
+
+(k)Complexometric 
+(l)Gravimetric (Single-Dehydration)  
+(m)Atomic Absorption 
+(n)Gravimetric (Double Precipitate) 
+
+ 
+Expiration of Certification: The certification of SRM 1830 is valid indefinitely, within the measurement uncertainty 
+specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  certificate  (see 
+“Instructions for Use”).  Accordingly, periodic recertification of this SRM is not required.  However, the certification 
+is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Technical  and  support  aspects  involved  in  the  original  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated through the Standard Reference Materials Program by W.P. Reed and R.K. Kirby. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+12 
+Certificate Issue Date:  12 July 2017 
+Certificate Revision History on Last Page 
+on  Last  Pa
+
+ 
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 1830  
+
+ 
+
+Page 1 of 2 
+
+ 
+ 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+CAUTION:  (1) Before using the  SRM in checking chemical analysis, it  must be ground in agate to –200 mesh.  
+(2) Before measuring with X-ray fluorescence, at least 30 μm of the surface should be removed by polishing because 
+e  surface. 
+this glass was made by a float process and may have a thin film of tin on one surface. 
+ 
+Homogeneity(1):  This material was tested for homogeneity at NIST by P.A Pella and R.L. Myklebust of the NIST 
+division  formally  known  as  Analytical  Chemistry  Division  using  X-ray  fluorescence  spectrometry.    Three  to  five 
+replicate measurements were made on at least 10 elements in each of 15 samples chosen at random from the lot of 
+material.  The results did not indicate any significant difference between the samples (for instance, the relative standard 
+deviation for calcium was found to be less than 0.1 %) other than that caused by the thin film of tin. 
+ 
+The material for this SRM was prepared and furnished to NIST by Libbey-Owens-Ford Company, Toledo, OH. 
+ 
+Development of this SRM is part of the program of ASTM Subcommittee C14.91 on Standard Reference Materials, 
+H.E. Hagy,  Chairman.    The  overall  direction  and  coordination  of  the  cooperative  analyses  leading  to  certification 
+originally and in revision to include iron oxide were performed by G.D. Bowling, Chairman of ASTM Subcommittee 
+C14.02 on Chemical Properties and Analysis of Glass and Glass Products. 
+ 
+Cooperative analyses for certification were performed in the following laboratories: 
+ 
+Anchor Hocking Corp., Lancaster, OH 
+Broadway Glass Co., Inc., Brockway, PA 
+Corning Glass Works, Corning, NY 
+Emhart Industries, Inc., Windsor, CT 
+Ford Motor Co., Lincoln Park, MI 
+Libbey-Owens-Ford Co., Toledo, OH  
+
+Monarch Analytical Laboratories, Inc.,Toledo, OH 
+Owens-Corning Fiberglass Corp., Granville, OH 
+Owens-Illinois, Inc., Toledo, OH and Vineland, NJ 
+Pennsylvania State University, University Park, PA 
+Schott Glass Technologies, Inc., Duryea, PA 
+Sharp-Schurtz Co., Lancaster, PA 
+Thatcher Glass Co., Elmira, NY  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+REFERENCES 
+
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+rial 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/indexfull.cfm (accessed Jul 2017).  
+
+available 
+
+(2008); 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jun 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Jul 2017). 
+
+ 
+ 
+ 
+  
+Certificate Revision History:  12 July 2017 (Updated title; editorial changes); 04 December 2012 (Updated unit description; editorial changes); 
+22 December 2008 (Editorial revision); 18 October 2005 (Removal of Table 2 and updated uncertainty values); 10 September 19991 (Iron oxide 
+added); 18 July 1982 (Original certificate date).  
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+                     
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+ndards 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+se.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1830  
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+Page 2 of 2 
+
+certificate 
+
+specify 
+
+fax 
+
+ 
+
+ 
+
+

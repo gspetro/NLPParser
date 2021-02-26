@@ -1,0 +1,498 @@
+﻿a  ‘  National  Institute  of  Standards  &  Cechnologu 
+
+at 
+
+Ny 
+
+a g 
+a 
+
+* 
+
+S$ 
+% 
+*% 2 
+
+ 
+
+ 
+
+Certificate  of  Analusis
+
+Standard Reference Material® 2569 
+
+ 
+Lead Paint Films for Children’s Products 
+
+ 
+This Standard Reference  Material (SRM)  is intended for use in  the evaluation of  lead in paint  on  films or similar 
+matrices using non-destructive, instrumental methods of analysis.  SRM 2569 consists of three different paint films 
+each containing a specified amount of lead (Pb) and each supported on polyester sheet.  SRM 2569 is not intended 
+for use in test method calibration for thickness and density.  A unit of SRM 2569 consists of three coupons of paint 
+on polyester and five coupons of uncoated polyester.  The coupons are approximately 73 mm long by 52 mm wide.  
+The paint films are cured lacquer having a specified thickness in the range of 20 µm to 45 µm. 
+ 
+Certified Values:  Certified values for amount of Pb as mass fraction in the paint film, mass of Pb per unit area of 
+paint film, and paint film thickness of the three coated components of SRM 2569 are reported in Table 1 [1].  Value 
+assignment categories are based on the definitions of terms and  modes  used at NIST for certification of  chemical 
+reference materials [2].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, 
+in that all known or suspected sources of bias have been investigated and taken into account.  A certified value is the 
+present  best  estimate  of  the  true  value  based  on  the  results  of  analyses  performed  at  NIST  and  collaborating 
+laboratories. 
+ 
+Reference  Values:    Reference  values  for  paint  film  density  are  reported  in  Table 2.    Reference  values  are 
+non-certified values that are the best estimates of the true values; however, the values do not meet the NIST criteria 
+for certification and are provided with associated uncertainties that may not include all sources of uncertainty [2]. 
+ 
+Information  Value:    An  information  value  for  the  nominal  thickness  of  the  polyester  sheet  supporting  the  paint 
+films is reported in Table 3.  An information value is considered a value that will be of interest to the SRM user, but 
+insufficient information is available to assess the uncertainty associated with the value. 
+ 
+Expiration of Certification:  The certification of SRM 2569 is valid, within the measurement uncertainty specified, 
+until  16 August 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  the  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  for  certification  of  SRM 2569  was  performed  by  J.R. Sieber  of  the 
+NIST Analytical Chemistry Division. 
+ 
+Measurements  for  homogeneity  testing  and  value  assignment  of  SRM 2569  were  performed  by  S.E. Long, 
+A.F. Marlow, J.L. Molloy, K.E. Murphy, and J.R. Sieber of the NIST Analytical Chemistry Division; D. Cobb of the 
+U.S.  Consumer  Product  Safety  Commission (CPSC),  Rockville, MD,  and  M. Van de Mark  of  Rolla  Coatings, 
+Rolla, MO.  Additional homogeneity measurements were performed by Z. Chen, D. Li, and A. Vershinin of X-Ray 
+Optical  Systems,  East  Greenbush, NY  and  by  K. McIntosh  at  the  New  York  State  Department  of  Health, 
+Albany, NY. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 May 2012 
+Certificate Revision History on Last Page 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+ 
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 2569 
+
+ 
+
+Page 1 of 5 
+
+Statistical consultation for the value assignment of SRM 2569 was provided by S.D. Leigh and A.L. Rukhin of the 
+NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+The following instructions cover the use, handling, and storage of SRM 2569.  Further explanations of the properties 
+of  this  material  and  its  uses  are  provided  in  “A  Guide  to  Using  SRM 2569  to  Validate  Analytical  Methods” [3].  
+Each  coupon  of  SRM 2569  is  labeled  on  the  side  opposite  to  the  paint  coating  using  a  small,  self-adhesive  label.  
+The  paint  film  is  certified  across  the  entire  coupon  area;  however,  measurements  must  not  be  made  at  the  area 
+behind the label.  The coupons are flexible and may be curved to conform to a cylinder ≥1 cm diameter.  To use the 
+SRM to simulate measurement of a single layer of paint on a plastic substrate, measure the side of a coupon opposite 
+to  the  labeled  side.    For  determinations  of  Pb,  the  coupons  were  designed  to  provide  at  least  four  unique 
+measurement  locations  for  X-ray  spectrometers  viewing  an  area  of  1 cm2.    Larger  and  smaller  areas  may  be 
+measured.    The  recommended  minimum  measurement  area  is  0.75 mm2.    Use  of  a  viewing  area  <1 cm2  requires 
+measuring three or more separate locations and calculating the median of the results.  A useful approximation of the 
+standard uncertainty of the median is the standard deviation of the mean multiplied by 1.25 [4]. 
+ 
+Level 2 Heterogeneity:  The Level 2 coupons contain regions roughly spherical and approximately 50 µm diameter 
+and  smaller  with  high  Pb concentrations  that  are  scattered  randomly  across  the  surface  of  the  coupon.    The 
+recommended  minimum  measurement  area  and  the  requirement  to  calculate  the  median  of  three  or  more 
+measurements serve to ensure that the spatial heterogeneity caused by these regions does not influence measurement 
+accuracy.  In the event that one measurement out of three produces a result greater than twice the median of three 
+measurements, the high value should be replaced by a new measurement of a different location.  See reference 3 for 
+additional information. 
+ 
+Store the SRM in a cool, dry location, preferably in its original container.  When handling coupons, wear gloves to 
+prevent contamination by body oils and moisture.  Avoid exposure to light during storage.  In the normal course of 
+handling  a  coupon,  it  may  become  contaminated  with  dust,  dirt,  or  oil.   If  it  is  necessary  to  clean  a  coupon,  first 
+place it on a soft cloth on a smooth, flat surface.  Use a clean, dry, soft cloth to gently brush dust or dirt from the 
+film.  A gentle stream of air from a clean supply will work also.  Do not blow from the mouth because this results in 
+moisture and oils being directed at the coupon.   To remove oily residues,  use a clean  soft cloth to  gently rub the 
+surface until the oil is no longer visible.  Do not use alcohol or organic solvents because they will destroy the paint.  
+Frequent cleaning will shorten the useful life of the paint layer. 
+ 
+Care  must  be  taken  to  avoid  damage  to  the  paint  film  when  using  a  procedure  that  requires  direct  contact  of 
+equipment  with  the  paint  surface.    SRM 2569  paint  films  are  not  protected  by  a  clear  coating  layer.    Physical 
+abrasion of the coupons’ surfaces must be avoided.  Do not fold or crease the material.  Do not cut coupons because 
+cutting results in chipping of the paint at the cut edge that worsens with repeated handling.  The presence of loose 
+flakes  of  paint,  however  small,  in  a  measured  area  will  cause  biased  results.    Do  not  measure  areas  that  include 
+visible voids or cracks in the green coating. 
+ 
+Five coupons of uncoated polyester are provided to enable users to simulate paint on thicker polymer substrates by 
+stacking one or more uncoated coupons beneath a coated coupon, and measuring the coated side.  Measurements of 
+paint layers hidden beneath a layer of polymer  may be simulated by measuring Pb through the uncoated coupons.  
+Stacked coupons must be in close contact to each other.  A single coupon of the supplied polyester will attenuate Pb 
+L-series  X rays  by  approximately  3 %  to  5 %  for  measurements  made  normal  to  the  surface.    Cl K-series  X rays 
+from the paint will be attenuated approximately 95 % by a sheet of the polyester substrate.  Pb M-series X rays will 
+be  difficult  to  detect  when  measuring  the  substrate  side  of  a  Pb-containing  coupon  because  the  polyester  absorbs 
+approximately 99 % of Pb M-series X rays passing into it from the paint. 
+ 
+Exposure  to  X rays  from  low-power  sources,  including  sources  used  in  handheld  spectrometers,  small  beam 
+semi-monochromatic sources, and secondary target sources, can be made repeatedly without noticeable damage to 
+the  lacquer.    However,  exposure  to  X rays  from  high-power  sources,  such  as  direct  irradiation  from  side-  and 
+end-window  X-ray  tubes  operated  at  0.5 kW  and  higher,  will  result  in  observable  darkening  of  the  paint  and 
+polyester.  Experience has shown that  10 exposures of a single location to a  high-power source for  600 s does not 
+change the  measured Pb count rates  for  L-series and M-series lines.   Additional exposures are  not recommended.  
+
+SRM 2569 
+
+ 
+
+Page 2 of 5 
+
+performed 
+
+at  NIST 
+
+Prolonged  exposure  (>30 min)  to  a  3 kW  Rh  tube  source  caused  damage  including  substantial  blackening  and 
+flaking of the paint film. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+The  material  for  SRM 2569  was  created  for  NIST  by  Rolla  Coatings  by  applying  specially  formulated  lacquer 
+compositions  to  cleaned,  uncoated  polyester  panels  (Leneta  Corp.,  Mahwah, NJ,  cat.  no. P300-7C)  using  an 
+automated  draw  down  technique.    Lead  was  added  to  the  lacquer  as  lead  2-ethylhexanoate.    The  lacquers  also 
+contain  chlorinated  dye  to  impart  the  green  color  and  to  enhance  X-ray  contrast  between  the  coating  and  the 
+polyester substrate.  For Level 1 and Level 2 compositions, a chlorinated paraffin wax was added to the lacquers to 
+further enhance X-ray contrast. 
+ 
+During the characterization of paint films and polyester substrate material, elements other than Pb were detected but 
+not quantified.  Elements detected in the uncoated polyester coupons are Na, P, S, Mn, Fe, Cu, Sr, and Sb.  Elements 
+detected in the coated SRM coupons are Na, Al, Si, P, S, Cl, Mn, Fe, Cu, Sr, Sn, and Sb.  Of these elements, Cl and 
+Cu are present in the dye compound used in all three levels, Cl was intentionally added to the lacquer formulations 
+for Level 1 and Level 2 (see above), and Sb is present as residual catalyst in polyester. 
+ 
+Measurements  for homogeneity testing of SRM 2569  were performed at NIST  using  wavelength dispersive X-ray 
+fluorescence (XRF),  multiple  monochromatic  beam  energy  dispersive  XRF,  and  microbeam  XRF (microXRF).  
+Additional homogeneity measurements were performed by collaborating laboratories using multiple monochromatic 
+beam energy dispersive XRF and handheld XRF instrumentation.  Measurements for uniformity of coating thickness 
+were  made  during  manufacturing  at  Rolla  Coatings  using  ultraviolet  light  absorption  spectrometry.    The 
+manufacturer visually inspected all coupons and rejected those containing trapped particles and fibers. 
+ 
+Test  Methods  Employed  at  NIST  and  Collaborating  Laboratories:    Determinations  of  mass  fraction  of  Pb  in 
+paint  were 
+plasma  mass 
+isotope 
+spectrometry (ID-ICPMS) [5].    Determinations  of  mass  of  Pb  per  unit  area  were  performed  at  NIST  using  XRF.  
+Independent  values of  mass of Pb per unit area  were obtained by  calculation  using ID-ICPMS  values  of Pb  mass 
+fraction, the  weighed total  mass of cured paint per coupon performed by  Rolla  Coatings, and the  mean  measured 
+area of a coupon.  Measurements of thickness were performed at NIST using an outside micrometer gauge with the 
+paint  film  thickness  determined  by  difference  between  coated  and  uncoated  coupons.    Independent  values  of 
+thickness were calculated from experimentally determined values for paint density performed at NIST, the weighed 
+total  mass  of  cured  paint  per  coupon,  and  the  mean  measured  area  of  a  coupon.    Density  determinations  were 
+performed  at  NIST  by  weighing  cured  paint  films  in  air  and  in  water  and  applying  Archimedes’  principle  of 
+buoyancy. 
+ 
+Value  Assignments:    Each  certified  value  for  mass  fraction  of  Pb  is  the  mean  of  results  obtained  at  NIST  using 
+ID-ICPMS [5].  For Level 2 and Level 3, the uncertainty listed with each mass fraction is an expanded uncertainty 
+about  the  mean  with  coverage  factor  k = 2  (approximately  95 %  confidence),  calculated  by  combining  sources  of 
+uncertainty  characteristic  of  the  test  method  and  the  material  according  to  the  ISO  Guide [6].    For  Level 1,  the 
+certified value for mass fraction of Pb is an upper confidence bound (approximately 99 % confidence) based on the 
+variance of ID-ICPMS results.   
+ 
+The  certified values for  mass of Pb per unit area and for paint thickness are the  means  of sets of results obtained 
+using the test methods and calculations listed above [6].  For Level 1, the certified value for mass of Pb per unit area 
+is an  upper confidence bound (approximately 99 % confidence) based on  the variance of NIST XRF results.   For 
+Level 2  and  Level 3,  the  uncertainty  listed  with  each  value  of  mass  of  Pb  per  unit  area  and  paint  thickness  is  an 
+expanded  uncertainty  about  the  mean,  with  coverage  factor k = 2  (approximately  95 % confidence),  calculated 
+following  the  ISO  Guide [6]  by  combining  a  between-method  variance  incorporating  differences  among  methods 
+with a pooled, within-method variance and a component of variance accounting for coupon-to-coupon differences 
+measured during homogeneity testing [8,9]. 
+ 
+Each  reference  value  for  density  of  the  paint  is  the  result  obtained  at  NIST  using  a  gravimetric  procedure.    The 
+uncertainty  listed  with  each  density  value  is  an  expanded  uncertainty  about  the  mean  with  coverage  factor  k = 2 
+(approximately 95 % confidence), calculated by combining sources of uncertainty characteristic of the test method 
+and the material according to the ISO Guide [6]. 
+                                                 
+
+inductively-coupled 
+
+dilution 
+
+using 
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2569 
+
+Page 3 of 5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Table 1.  Certified Values for SRM 2569 Lead Paint Films for Children’s Products 
+
+Constituent 
+
+Value 
+
+Unit 
+
+Level 1 
+
+ 
+Level 2 
+
+<0.2(a) 
+<0.02(a) 
+40.17    0.66 
+
+Pb Mass Fraction 
+Mass of Pb per Unit Area 
+Paint Thickness 
+
+Pb Mass Fraction 
+Mass of Pb per Unit Area 
+Paint Thickness 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The value is an upper confidence bound (approximately 99 % confidence) based on the variance of measured results. 
+ 
+ 
+ 
+
+ 
+ mg/kg 
+μg/cm2 
+μm
+ 
+ 
+ mg/kg 
+μg/cm2 
+μm 
+ 
+ 
+ mg/kg 
+μg/cm2 
+μm 
+
+
+Pb Mass Fraction 
+Mass of Pb per Unit Area 
+Paint Thickness 
+ 
+
+1.453    0.073 
+
+0.225    0.043 
+
+ 
+Level 3 
+
+  2.4 
+
+  3.6 
+
+  2.4 
+
+  3.8 
+
+314.4 
+
+39.4 
+
+85.0 
+
+22.9 
+
+Table 2.  Reference Values for SRM 2569 Lead Paint Films for Children’s Products 
+ 
+
+Constituent 
+
+Value 
+(g/cm3) 
+
+Density of Paint 
+
+1.145    0.008 
+
+Density of Paint 
+
+1.158    0.020 
+
+Level 1 
+
+ 
+Level 2 
+
+ 
+Level 3  
+
+Density of Paint 
+
+1.160    0.012 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Table 3.  Information Value for SRM 2569 Lead Paint Films for Children’s Products 
+ 
+
+Constituent 
+
+Polyester Substrate 
+
+Thickness 
+
+Value 
+μm) 
+
+167 
+
+ 
+
+SRM 2569 
+
+ 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/index.cfm/ (accessed May 2012). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office: Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed May 2012). 
+[3]  Sieber, J.R.;  Molloy, J.L.;  A  Guide  to  Using  SRM  2569  to  Validate  Analytical  Methods;  available  at 
+
+https://www-s.nist.gov/srmors/view_datafiles.cfm?srm=2569 (accessed May 2012) 
+
+[4]  Stuart, A.;  Ord, J.K.;  Kendall’s  Advanced  Theory  of  Statistics,  5th ed.;  Oxford  University  Press,  New  York 
+
+Vol. 1, pp. 331–332 (1987). 
+
+[5]  Murphy, K.E.; Beary, E.S.;  Rearick, M.S.;  Vocke, R.D.;  Isotope  Dilution  Inductively  Coupled  Plasma  Mass 
+Spectrometry  (ID  ICP-MS)  for  the  Certification  of  Lead  and  Cadmium  in  Environmental  Standard  Reference 
+Materials; Fres. J Anal. Chem., Vol. 368, pp. 362–370 (2000). 
+
+[6]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed May 2012); see also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed May 2012). 
+
+[7]  Rukhin, A.L.; Weighted Mean Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[8]  DerSimonian, R.; Laird, N.; Meta-analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[9]  Horn, R.A.;  Horn, S.A.;  Duncan, D.B.;  Estimating  Heteroscedastic  Variance  in  Linear  Models;  J.  Am.  Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    17 May 2012  (Revised  uncertainty  values  for  certified  mass  of  Pb  per  unit  area  and  revised  “Instructions  for 
+Handling, Storage, and Use”; editorial changes); 21 September 2011 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished 
+fax (301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+the 
+
+by 
+
+SRM 2569 
+
+ 
+
+Page 5 of 5 
+
+

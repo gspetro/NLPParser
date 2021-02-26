@@ -1,0 +1,92 @@
+﻿*Uneay  of 
+
+National  Bureau  of  Standards 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  1216 
+
+Carbon  Modified  Silica 
+
+This  Standard  Reference  Material  (SRM)  consists  of  three  bottles,  each  containing  approximately  one  g  of  chemically 
+modified  microparticulate  silica.  SRM  1216  is  intended  for  use  in  the  calibration  of  instruments  used  in  the  deter- 
+mination  of  total  elemental  carbon.  It  may  also  be  useful  in  studies  involving  the  measurement  of  carbon  content 
+of  metals  especially  when  gas  fusion  infrared  detection  instruments  are  used. 
+
+Certified  Carbon  Values  in  SRM  1216: 
+Three  concentration  levels  of  carbon  are  provided  in  the  SRM,  designated  I,  II,  II.  The  certified  value  for  carbon 
+in  each  of  these  samples  is  listed  below. 
+
+Bottle 
+
+I 
+If 
+Il 
+
+Percent  Carbon 
+
+70  +  0.12 
+9.06  +  0.24 
+17.04  +  0.43 
+
+The  uncertainties  listed  are  two  standard  deviations  for  a  single  determination.  It  is  estimated  that  any  uncertain- 
+ties  due  to  systematic  error  are  included  within  these  limits. 
+
+NOTICE  AND  WARNINGS  TO  USER 
+
+Expiration  of  Certification:  This  certification  is  valid,  within  the  limits  certified,  for  one  year  from  the  date  of  ship- 
+ment.  NBS  will  continue  to  monitor  these  materials  and  substantive  change  in  their  certification  will  be  reported 
+to  the  purchaser. 
+
+Use:  Prior  to  use,  samples  for  analysis  should  be  dried  at  85  °C  for  three  hours,  under  reduced  pressure(  ~  100  Pa). 
+To  minimize  sample  "creep"  during  drying,  one  should  reduce  pressure  gradually  by  equilibrating  the  sample  at 
+several  intermediate  pressures  for  5-10  minutes. 
+
+Toxicity:  The  toxicity  of  this  SRM  has  not  been  defined  precisely;  however,  this  material  consists  of  finely  divided 
+siliceous  particles  and  as  such  should  be  treated  as  a  potential  health  hazard. 
+
+Analytical  determinations  were  performed  at  the  Center  for  Analytical  Chemistry,  Inorganic  Analytical  Research 
+Division,  by  R.C.  Gauer,  T.W.  Vetter,  B.I.  Diamondstone,  and  R.M.  Lindstrom. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  W.P.  Reed. 
+
+November  20,  1987 
+Gaithersburg,  MD  20899 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+  
+
+Preparation  and  Analysis: 
+SRM  1216  consists  of  three  aliquots  of  porous  microparticulate  silica  (particle  diameter  ~  20  ym,  pore  diameter 
+~30  nm).  Aliquot  I  consists  of  unmodified  silica,  and  aliquots  II  and  III  were  chemically  modified  by  reacting  with 
+The  bare  and  modified  silica  substrates  were  prepared  by  the  Separations  Group, 
+octadecyltrichlorosilane. 
+Hesperia,  CA.  Packaging  was  carried  out  at  the  National  Bureau  of  Standards.  Samples  from  various  stages  of  the 
+packaging  process  were  analyzed  using  gas  fusion  with  infrared  detection.  No  significant  differences  in  the  con- 
+centration  levels  of  carbon  were  observed  among  samples  for  each  aliquot.  The  certification  measurements  on 
+these  samples  were  made  using  gas  fusion  with  infrared  detection  and  were  corroborated  by  prompt  gamma  activa- 
+tion  analysis. 
+
+Gas  Fusion: 
+Samples  weighing  approximately  100  mg  were  diluted  with  low  carbon  steel  flux  and  tungsten  accelerator  in  order 
+to  provide  proper  burning  conditions.  The  carbon  was  extracted  from  the  samples  by  gas  fusion  and  was  converted 
+to  carbon  dioxide  where  it  was  measured  by  an  infrared  detector.  The  values  provided  by  this  technique  are  the 
+result  of  at  least  100  individual  measurements  at  each  concentration  level. 
+
+Prompt  Gamma  Activation  Analysis  (PGAA): 
+Samples  weighing  200-400  mg  were  weighed  into  aluminum  foil  containers  and  were  irradiated  in  a  neutron  beam 
+for  periods  of  10-17  h.  Pelletized  standards  of  sucrose,  graphite,  and  urea  were  irradiated  at  the  same  time.  Cor- 
+rections  were  made  for  blank  and  pulse  pileup.  Uncertainty  in  these  carbon  measurements  were  mainly  a  result  of 
+counting  statistics. 
+
+Reference 
+
+Diamondstone,  B.I.  and  Gauer,  R.C.,  Analyst,  1986,  111,  p955,  Determination  of  Total  Carbon  in  Biological 
+Materials.
+
+

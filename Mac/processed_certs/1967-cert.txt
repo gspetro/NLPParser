@@ -1,0 +1,156 @@
+﻿ 
+2
+
+ 
+i
+
+ 
+,
+g
+O
+
+ 
+=
+
+ 
+*
+
+ 
+t
+w
+
+ 
+h
+a
+s
+
+ 
+3
+
+ 
+,
+g
+i
+  “
+%
+
+ 
+5
+
+ 
+d
+
+National  Institute  of  Standards  &  Technology 
+
+Certificate 
+
+Standard  Reference  Material  1967 
+
+High-Purity  Platinum  Thermoelement 
+
+Pt-67 
+
+This  Standard  Reference  Material  (SRM)  is  a  high-purity  (99.999  +  wt.%)  platinum  wire,  0.51  mm  diameter  and 
+1  meter  long,  that  has  been  prepared  for  use  as  the  standard  reference  thermoelement  for  calibration  of  base-metal 
+and  noble-metal  thermocouple  materials  in  the  temperature  range  -197  to  1768  °C.  Standardized  thermoelectric 
+values  for  these  applications,  based  on  the  International  Temperature  Scale  of  1990  (ITS-90)[1],  are  given  in  NIST 
+Monograph  175[2].  This  material,  Pt-67,  replaces  the  former  thermoelectric  standard,  Pt-27,  which  was  used  from 
+1922  to  1973.  Selected  portions  of  Pt-67  are  used  by  the  National  Institute  of  Standards  and  Technology  (NIST) 
+and  other  national  laboratories  for  calibration  of  thermocouple  materials. 
+
+J.  Bishop  &  Co.; 
+
+Extensive  homogeneity  testing  was  performed  by  NIST,  as  well  as  by  five  cooperating  laboratories:  Engelhard 
+Johnson,  Matthey  &  Co.,  Ltd.;  RCA  Laboratories;  and  Sigmund  Cohn  Corp.  A 
+Industries,  Inc.; 
+combination  of  the  following  methods  was  used:  chemical  analysis  techniques  included  optical  emission  and  spark 
+source  mass  spectrography,  polarography,  spectrophotometry,  activation  analysis,  and  vacuum  fusion;  and  electri- 
+cal  measurements  included  thermoelectric,  temperature  coefficient  of  resistivity,  and  residual  resistance  ratio. 
+The  material  is  homogeneous  within  the  limits  of  precision  of  most  of  these  methods. 
+
+The  original  coordination  and  evaluation  of  data  leading  to  certification  of  SRM  1967  was  performed  at  NIST  by 
+R.  L.  Powell,  (ret.)  J.  G.  Hust,  (ret.)  L.  L.  Sparks  of  the  Chemical  Engineering  Science  Division  (Boulder)  and 
+G.  W.  Burns  of  the  Chemical  Process  Metrology  Division  (Gaithersburg). 
+
+The  technical  and  support  aspects  involved  in  the  revision,  update  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  Standard  Reference  Materials  Program  by  J.  C.  Colbert.  The  original  coordination 
+of  certification  efforts  was  performed  by  R.  E.  Michaelis. 
+
+Gaithersburg,  MD  20899 
+July  6,  1990 
+(Revision  of  Certificate 
+dated  2-23-77) 
+
+William  P.  Reed,  Acting  Chief 
+Standard  Reference  Materials  Program 
+
+(over)
+
+A  E67-27  =  -7.5-10too 
+
+R  (100  °C)—R  (0°C) 
+100  R  (0°C) 
+
+~~ 
+
+RRR  =  R(273K)/R(4K), 
+
+Supplementary  Information 
+
+The  effect  of  impurities  at  temperatures  above  1200  °C  are  discussed  in  a  Special  Publication  [3]  that  describes 
+this  material,  its  preparation,  characterization,  and  properties.  This  publication  also  provides  a  history  of  the 
+development  of  this  thermoelectric  standard  (Pt-67).  Pt-67  (SRM  1967)  is  a  selected,  highly  homogeneous  portion 
+of  SRM  680  that  was  prepared  by  Sigmund  Cohn  Corp.  by  induction  melting  of  high-purity  platinum  sponge  in  a 
+zirconium  silicate  crucible,  and  by  casting  into  a  platinum-lined,  water-cooled  copper  mold. 
+The  ingot  was 
+trimmed,  swaged,  and  drawn  into  0.51  mm  diameter  wire  using  the  utmost  precautions  to  minimize  contamination. 
+
+For  a  reference  junction  at  0  °C,  the  difference  between  the  thermoelectric  voltages  of  Pt-67  and  Pt-27  can  be 
+approximated  by 
+
+where  AE  is  expressed  in  microvolts  and  t99  in  degrees  Celsius  (ITS-90).  This  relation  was  found  to  be  valid  from 
+-197  to  1200  °C.  The  temperature  coefficicent  of  electrical  resistance  between  0  and  100  °C, 
+
+was  found  to  be  3.9269  (+0.0012)  x  10°7/  °C. 
+electrical  resistance  at  the  ice  point  and 
+
+at  the  boiling  point  of  helium, 
+
+The  residual  resistance  ratio,  determined  from  the  specimen’s 
+
+was  found  to  vary  smoothly  along  the  length  of  the  wire  from  a  value  of  3407  to  3678.  The  average  value  is  3480. 
+
+Proper  usage  of  this  SRM  requires  careful  annealing  and  handling  techniques.  The  recommended  procedures 
+are: 
+
+1)  Clean  with  ethanol  and  air  dry. 
+2)  Suspend  the  wire  in  a  clean,  dust-free  enclosure  and  connect  to  a  current  source, 
+3)  Continuously  increase  the  current  until  the  wire  is  at  about  1200  °C. 
+4)  Maintain  this  temperature  for  10  minutes. 
+5)  Slowly  decrease  the  current  until  the  temperature  of  the  wire  is  just  below  incandescence,  hold  for  60  minutes 
+
+and  slowly  cool  to  room  temperature. 
+
+6)  Care  should  be  taken  at  all  times  to  avoid  unnecessary  mechanical  stresses  of  the  wire.  If  the  platinum  is  to  be 
+
+used  at  high  temperatures,  use  special  gloves  or  paper  padding  while  handling. 
+
+7)  High-purity  sintered  alumina  tubing  is  recommended  for  insulating  and  protecting  the  platinum  wire  during  use  at 
+
+high  temperatures.  After  assembling  the  wire  in  an  insulating  tube,  reanneal  the  assembly  in  a  furnace  for  60  minutes 
+at  1100  °C,  followed  by  cooling  to  450  °C.  The  assembly  should  be  maintained  at  450  °C  for  12  hours  and  then  cooled 
+to  room  temperature. 
+
+References 
+
+[1]  Preston-Thomas,  H.,  International  Temperature  Scale  of  1990,  Metrologia  27,  3  (1990). 
+[2]  Burns,  G.W.;  Scroger,  M.G.;  Croarkin,  M.C.;  Gutherie,  W.F.;  Schiller,  $.B.,  Temperature-Electromotive  Force 
+
+Functions  and  Tables  for  Letter-Designated  Thermocouples  Based  on  the  ITS-90,  National  Institute  of  Standards  and 
+Technology  (U.S.)  Monogr.  175  (1990). 
+
+[3]  Powell,  R.L.;  Sparks,  L.L.;  and  Hust,  J.G.;  Standard  Reference  Materials:  Standard  Thermocouple  Material,  Pt-67: 
+
+SRM-1967,  National  Bureau  of  Standards  (U.S.)  Spec.  Publ.  260-56;  February  1978.
+
+

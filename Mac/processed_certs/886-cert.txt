@@ -1,0 +1,187 @@
+﻿A*  heh. 
+
+. 
+WSitiuie  OT  Olanoarus  ce  Werhinology 
+
+cg  Qt 
+
+Hr 
+
+% 
+
+Oo. 
+
+. 
+
+Y 
+
+¥ 
+
+Certificate  of  Analusis 
+
+Standard  Reference  Material®  886 
+
+Refractory  Gold  Ore 
+
+(In  Cooperation  with  the  American  Society  for  Testing  and  Materials) 
+
+This  Standard  Reference  Material  (SRM)  is  a  refractory  gold  ore  of  the  Carlin  type,  in  the  form  of  fine  powder 
+(nominal  particle  size  between  50  and  100  wm  (<150,  >300  mesh)).  SRM  886  is  intended  for  use  in  evaluating 
+chemical  and  instrumental  methods  for  the  analysis  of  gold  ores. 
+
+The  SRM  is  provided  as  a  200  g 
+
+unit. 
+
+The  certified  values  for  the  gold  and  sulfur  concentration  are  reported  on  an  as-received  basis. 
+The  value  for  gold 
+was  determined  by  gravimetric  fire  assay  and  by  acid  decomposition-HBr  extraction-atomic  absorption  spectrometry, 
+and  is  the  present  "best  estimate"  of  the  true  value.  The  certified  value  for  sulfur  was  determined  by  isotope  dilution 
+thermal  ionization  mass  spectrometry  following  Carius  tube  decomposition  [1]  of  samples  of  0.1  g  to  0.2  g. 
+
+1 
+
+* 
+
+tla 
+
+No 
+The  uncertainty  stated  for  gold  includes  between-laboratory  and  within-laboratory  components  of  uncertainty. 
+The  uncertainty  stated  for  sulfur  includes  a  component 
+material  variability  was  detected  for  samples  of  5  g  or  more. 
+2  naesnnean 
+of  uncertainty  for  material  variability  (the  standard  uncertainty  for  this  source  is  approximately  3%  relative),  as  well 
+as  components  of  uncertainty  due  to  the  measurement  process. 
+Uncertainties  are  expanded  as  described  in  reference 
+{2}. 
+Each  expanded  uncertainty  defines  a  range  of  values  for  its  certified  value  within  which  the  true  value  is 
+believed  to  lie,  at  a  level  of  confidence  of  approximately  95%. 
+
+Intdae 
+
+Wfy 
+
+df. 
+
+Gold  concentration..... 
+
+8.25 
+
+Suifur  concentration..... 
+
+1.466 
+
+PLANNING,  PREPARATION,  TESTING,  ANALYSIS 
+
+A  total  of  330  kg  was  dried  and  crushed  to  minus  7  mm  (-  1/4  in). 
+
+The  SRM  gold  ore  was  collected  by  Newmont  Exploration  Limited,  Carlin,  NV  at  the  Carlin  black  carbon  ore 
+The  material  was  then  ground  to 
+stockpile. 
+fine  powder  (98%  less  than  150  wm  (100  mesh))  by  Chemex  Laboratories,  Ltd.  in  Nevada  before  shipment  to  NIST 
+as  a  candidate  SRM. 
+Further  processing  to  segregate  the  middle  size  fraction  of  50  to  100  wm  (150  to  300  mesh)  from  the  coarser  and 
+finer  fractions,  blending,  and  bottling  of  the  material  in  200  g  units  was  performed  by  the  U.S.  Geological  Survey 
+under  contract  with  NIST.  The  middle  fraction  accounted  for  approximately  30%  of  the  original  sample.  One-gram 
+samples  were  taken  prior  to  bottling  and  analyzed  for  gold  by  a  HBr/Br,  leach  procedure  to  assess  homogeneity. 
+Since  the  leach  procedure  recovered  only  approximately  90%  of  the  gold  present,  further  homogeneity  assessments 
+of  the  bottled  material  were  made  by  analyzing  20  ten-gram  samples  by  fire-assay  and  24  five-gram  samples  by  acid 
+decomposition/solvent  extraction/atomic  absorption  analysis.  Samples  of  0.25  g  were  also  analyzed  for  carbon  and 
+sulfur  by  combustion-IR  detection  to  further  assess  the  sample  homogeneity  prior  to  bottling. 
+All  homogeneity 
+measurements  indicate  that  material  variability  is  negligible. 
+
+Gaithersburg,  MD  20899 
+March  6,  1995 
+(Revision  of  certificate  dated  4-12-93) 
+
+(over)
+
+Thomas  E  aS  Chief 
+Standard  Reference  Materials  Program 
+
+  
+
+The  overall  coordination  of  the  technical  measurements  leading  to  certification  of  gold  were  performed  under  the 
+direction  of  C.  Bucknam,  Newmont  Metallurgical  Services.  Mass  spectrometric  analyses  for  sulfur  were  performed 
+by  W.R.  Kelly  and  R.D.  Vocke,  Jr.  of  the  NIST  Analytical  Chemistry  Division. 
+
+Statistical  evaluation  of  the  certification  data  was  performed  by  S.B.  Schiller  of  the  NIST  Statistical  Engineering 
+Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  J.S.  Kane. 
+
+ADDITIONAL  INFORMATION  ON  THE  COMPOSITION 
+
+Specific  chemical  forms  of  carbon  and  sulfur  were  also  determined,  and  values  are  indicated  below. 
+constituents  have  an  important  impact  on  the  selection  of  the  ore  beneficiation  process. 
+but  are  reported  as  additional  information  on  the  composition  of  the  ore. 
+
+These 
+The  values  are  not  certified, 
+
+Mineralogical  analyses  were  performed  by  X-ray  diffraction  and  X-ray  fluorescence  analysis  to  provide  bulk  matrix 
+information. 
+
+The  mineralogic  content  is  approximately: 
+
+Constituent 
+
+Carbon,  total 
+Carbon,  inorganic 
+Sulfate  Sulfur 
+Sulfide  Sulfur 
+
+Mineral 
+
+Quartz 
+Dolomite 
+Calcite 
+Sericite 
+Kaolin 
+Pyrite 
+
+Concentration 
+Wt  % 
+
+5.7 
+5.4 
+0.7 
+0.8 
+
+34 
+31 
+20 
+8 
+4 
+3 
+
+Wt  % 
+
+Cooperative  analyses  for  certification  were  performed  by  the  following  laboratories: 
+Newmont  Metallurgical  Services,  Salt  Lake  City,  UT,  C.  Bucknam 
+Newmont  Gold  Company,  Carlin,  NV,  P.  Braun 
+Barrick  Goldstrike  Mines,  Carlin,  NV,  R.  Richardson 
+Chemex  Laboratories,  Ltd.,  North  Vancouver,  BC  Canada,  L.  Twaites 
+Amax  Gold  Company,  Winnemucca,  NV,  J.L.  Oleson 
+U.S.  Geological  Survey,  Denver,  CO,  S.A.  Wilson 
+Institute  of  Non-Ferrous  Metals,  Gliwice,  Poland,  W.  Stankiewicz,  M.  Brzezicka,  and  E.  Szmyd 
+
+REFERENCES 
+
+Kelly,  W.R.,  Paulsen,  P.J.,  Murphy,  K.E.,  Vocke,  R.D.,  Jr.,  and  Chen,  L-T,  (1994),  Anal.  Chem.  66: 
+
+2505- 
+
+[1] 
+2513. 
+
+[2] 
+
+"Guide  to  the  Expression  of  Uncertainty  in  Measurement",  ISBN  92-67-10188-9,  Ist  Ed.  ISO,  Geneva, 
+Switzerland,  (1993). 
+
+N
+
+

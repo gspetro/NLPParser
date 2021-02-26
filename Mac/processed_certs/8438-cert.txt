@@ -1,0 +1,718 @@
+﻿ 
+
+LEN 
+eS / 
+
+‘Staves  OF
+
+ 
+
+ 
+
+National Institute of Standards & Technology 
+Report of Investigation 
+ 
+Reference Material 8438 
+ 
+Soft Winter Wheat Flour  
+ 
+Agriculture Canada 
+
+best estimates of the true values; 
+
+ are noncertified values that are the 
+
+ll sources of uncertainty, or may reflect a lack of 
+
+ts in flour and other similar food, agricultural, and 
+
+ derived from results reported in an interlaboratory 
+
+Distributed by the National Institute of Standards and Technology 
+
+ 
+ 
+ 
+This Reference Material (RM) is intended for use in evaluating analytical methods and instruments used for the 
+determination of major, minor, and trace constituent elemen
+biological materials.  This material can  also be used for quality assurance wh en assigning values to in-house control 
+materials.  RM 8438 consists of 50 g of flour packaged in two glass bottles containing 25 g each. 
+ 
+Reference Concentration Values: Reference concentration values for major, minor, and trace constituent elements 
+are provided in Table 1.  These reference values were
+comparison exercise.  Reference values
+however, the values do not meet NIST criteria for certifica tion and are provided with associated uncertainties that 
+may reflect only measurement precision, may not include a
+sufficient statistical agreement among multiple analytical methods.  
+ 
+Information Concentration Values:   Information concentration values for additional elements are provided in 
+Table 2.  These are noncertified values with no reported un certainties as there is insufficient information to assess 
+uncertainties.  The information values are given to provide additional characterization of the material.  Use of t his RM 
+ to quantitatively monitor method performan ce for analytes other than those with  reference concentration values in 
+Table 1 is not warranted. 
+ 
+Expiration of Report:   The Report of Investigation of RM 8438 is valid, within the measurement uncertainty 
+specified, until  31 August 2011 , provided the RM is handled in accordance  with instructions given in this report 
+(see “Instructions for Use”).  This report is nullified if the RM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of RM Value Assignment:   NIST will monitor this RM over the period of its value assignment.  If 
+substantive technical changes occur that affect the value assignment before the expiration of this report, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The material was prepared at Agriculture Canada under th
+Resources Research (CLBRR), who also coordinated the in
+material.  Statistical support was provided by M.S. Wolynetz, Statistical Research Section, Research Program Service, 
+Agriculture Canada.   
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Report Issue Date:  22 February 2008 
+See Report Revision History on Page 5 
+
+e direction of M. Ihnat, Centre for Land and Biological 
+terlaboratory analytical campaign to characterize the 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+ 
+
+RM 8438 
+
+Page 1 to 6 
+
+le and should be 
+
+0.5 g should be taken for analysis.  Moisture content 
+ion of analytical results to a dry-mass basis.  The 
+
+NOTICE AND WARNING TO USERS 
+ 
+Storage:   Until required for use, RM 8438 should be  stored at room temperature in  its original bottle, tightly capped, 
+and NOT exposed to intense direct light or ultraviolet radiation. 
+ 
+Warning:  For laboratory use only.  NOT for human consumption. 
+ 
+Instructions for Use:   Prior to each use, contents of the bottle shoul d be well mixed by gentle  shaking and rolling of 
+the container.  A recommended minimum subsample mass of 
+should be determined on a separate subsample for convers
+recommended method of drying to relate analytical results to the reference values listed in Table 1 is drying for 
+4 hours in an air oven at 85 °C.  Values reported in Tables  1 and 2 represent total concentrations of elements in 
+this RM. Dissolution procedures should be capable of rendering a completely dissolved samp
+designed to avoid losses of elements by volatilization or by retention on decomposition and processin g containers and 
+measuring equipment. Analytical methods should be capable of measuring total levels of analytes for comparison with 
+reference values. 
+ 
+PREPARATION AND ANALYSIS1 
+ 
+Preparation:  The material used for preparation of RM 8438 
+obtained from Maple Leaf Mills, Almonte, Ontario, Canada.  All preparatory work following acquisition of the 
+commercial product was performed at the facilities of Agri
+sterilized with 60Co gamma radiation to 2.0 megarads by Atomic Energy of Canada Ltd.  All subsequent processing was 
+performed using plastic equipment.  The material was sieved through nylon monofilament sieve cloths supported in 
+high density white polyethylene holders.  Pairs of sieves w ith openings of approximately 150 µm and 50 µm were used 
+to yield suitable narrow middle cuts constituting the RM.  This fraction was blended in a polymethylmethacrylate 
+V-configuration blender and packaged into clean 70 mL brim capacity, colorless glass bottles with triseal 
+(polyethylene)-lined black polypropylene screw caps.   
+ 
+Assessment of Homogeneity:   Homogeneity testing was performed on duplicate samples taken from four randomly 
+selected units by one laboratory.  No statistically si
+potassium, magnesium, manganese, sodium, or zinc in 2 g sample
+though they are homogeneous, although the homogeneity of other analytes has not been investigated.   
+ 
+Value Assignment:   Reference concentrations of elements were 
+assessment described above and an interlaboratory compar ison exercise involving laboratories shown in Appendix A 
+[4].  Analytical methods are provided in Table 3.  In the interlaboratory comparison exercise, analyses were performed 
+by each participant on duplicate subsamples  from randomly selected (usually fou r) units of material using subsample 
+masses and methods left to the discretion of the analyst.   Subsample sizes ranged from 0.001 g to 5 g, typically 1 g.  
+Elemental determinations were performed  on “as received” material, with conversion of results to a dry-mass basis 
+using moisture values determined on separate 2 g subsamples dried by the procedure specified in this report.  Reference 
+values provided in Table 1 are based on re sults generally obtained by at least tw o, but typically several, independent 
+analytical methods.   Concentration es timates for additional elements are provi ded in Table 2 as information values 
+only, as they are based on results of limited determinations or only one analytical method, or may lack sufficient 
+statistical agreement among multiple analytical methods. 
+
+gnificant heterogeneity was found for calcium, copper, iron, 
+
+culture Canada, Ottawa [1].  The dry bulk powder was 
+
+was unbleached, enriched so ft winter wheat flour 
+
+s [2,3].  Data for all anal ytes have been treated as 
+
+determined using results from the homogeneity 
+
+                     
+
+1Certain commercial materials and equipment ar
+
+e identified in order to ad
+
+equately specify the experi mental procedure.  Such 
+
+identification does not imply a recommendation  or endorsement by the National Institute of Standards and Technology, nor does it imply that the 
+materials or equipment are the best available for the purpose. 
+
+  
+
+ 
+
+RM 8438 
+
+Page 2 to 6 
+
+ 
+
+Table 1.  Reference Concentrations of Constituent Elements 
+
+ 
+
+ 
+
+(%)(a) 
+
+Fraction 
+
+Methods 
+
+±  0.029 
+±  0.006 
+±  0.021 
+±  0.019 
+
+ 
+ Mass 
+ Element 
+ 
+ Nitrogen  1.756 
+ Phosphorus 0.108 
+ Potassium 0.148 
+ Sulfur 
+0.126 
+ 
+ Mass 
+ Element 
+ 
+ Calcium 240 
+ Chlorine 640 
+ Magnesium 214 
+ Manganese 5.4 
+ Selenium  0.076 
+ 
+(a)  Reference values, expressed as mass fractions on a dry- mass basis, are equally weighted means of results from 
+
+A01, B02, D01  
+D01, F02, K03  
+A01, B02, D01 
+A01, A03, B02, D01  
+C01, C04, G01 
+
+I01, J01, J02 
+B02, F01, F02  
+A01, A03, D01  
+B02, J02, J04, M02 
+
+±  23 
+±  60 
+±  16 
+±  0.6 
+±  0.009 
+
+Fraction 
+(a) 
+
+Methods 
+
+(mg/kg)
+
+(mg/kg)
+ 
+
+Fraction 
+(a)  
+
+Table 2.  Information Concentrations of Constituent Elements 
+
+generally at least two, but typically several, different analytical methods applied by analysts in different laboratories. 
+The exception to the approach involving at least two independently different analytical methods for establishing 
+reference values for this RM is the acceptance of data for zinc by essentia
+lly a single reliable atomic absorption 
+method applied in two laboratories with suitable quality c ontrol.  Uncertainties are imprecision estimates expressed 
+either as a 95 % confidence interval, based on a sample mass of at least 0.5 g.  These uncertainties, based on 
+between-method, between-laboratory, between-unit, and within-unit estimates of variances, include measures of 
+analytical method and laboratory impr ecisions and biases and material i nhomogeneity.  (NIST has replaced the 
+previously used term “best estimate” with “reference value.”) 
+(b)    Analytical method codes and descriptions are provided in Table 3. 
+ 
+ 
+ 
+ Mass 
+ Element 
+ 
+ Aluminum 2.3 
+ Barium 
+ Boron 
+ Cadmium 
+ 
+ 
+ Fluorine 
+ 
+ Mercury 
+ 
+ Sodium 
+ Vanadium 
+ 
+ 
+(a) These analytical values, on a dry-mass basis, are estimates  given strictly for information as they are based on results 
+of limited determinations or only one method, or may lack  sufficient statistical agreement among multiple analytical 
+methods; no uncertainties are provided.  Use of this RM  to quantitatively monitor met hod performance for elements 
+other than those with reference concentration values in Table 1 is NOT warranted. 
+
+1 
+0.1 
+0.03 
+0.032  
+1.2 
+0.04 
+29 
+0.002 
+0.29 
+
+  B02, C06, F01 
+A01, D01 
+D01 
+
+Chromium 
+Copper 
+
+ 
+Methods  
+
+  A01, A03, B02  
+
+  A01, C06, D01 
+
+B02 
+B02 
+A06 
+
+  A01, A03    
+
+Molybdenum 
+
+0.03 
+5.8 
+
+A06, C05 
+
+B02, D01 
+
+ 
+   
+
+B02, 
+
+Zinc 
+
+A09 
+
+H04 
+
+Iron 
+
+ 
+ 
+ 
+ 
+
+   
+
+7 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b) Analytical method codes and descriptions are provided in Table 3. 
+
+ 
+
+RM 8438 
+
+Page 3 to 6 
+
+ 
+ 
+ 
+ 
+Analytical Method 
+ 
+Acid digestion flame atomic 
+absorption spectrometry 
+ 
+Dry ashing flame atomic 
+absorption spectrometry 
+ 
+Dry ashing electrothermal 
+atomic absorption spectrometry 
+ 
+Acid digestion cold vapor 
+atomic absorption spectrometry 
+ 
+Acid digestion inductively 
+coupled plasma atomic emission 
+spectrometry 
+ 
+Acid digestion isotope dilution 
+mass spectrometry 
+ 
+Acid digestion dry ashing 
+hydride generation isotope 
+dilution inductively coupled 
+plasma mass spectrometry 
+ 
+Dry ashing acid digestion isotope 
+dilution mass spectrometry 
+ 
+Acid digestion isotope dilution 
+inductively coupled plasma mass 
+spectrometry 
+ 
+Instrumental neutron activation 
+analysis  
+ 
+Acid digestion light absorption 
+spectrometry 
+ 
+Dry ashing light absorption 
+spectrometry 
+ 
+Acid digestion fluorometry 
+ 
+Extraction ion selective 
+electrode 
+ 
+Kjeldahl method for nitrogen 
+-volumetry 
+ 
+Combustion elemental analysis 
+-thermal conductivity 
+
+ 
+
+RM 8438 
+
+Code 
+
+A01 
+
+A03 
+
+A06 
+
+A09 
+
+B02 
+ 
+
+C01 
+
+C04 
+
+C05 
+
+C06 
+
+D01 
+
+F01 
+
+F02 
+
+G01 
+
+H04 
+
+I01 
+
+J01 
+
+Table 3. Analytical Methods Used to Determine Reference  
+and Information Concentration Values(a)  
+
+Elements Determined  
+
+Ca, (Cu), (Fe), K, Mg, Mn, (Na), (Zn)  
+
+(Fe), K, Mn, (Zn)  
+
+(Cd), (Cr ) 
+
+(Hg)   
+
+(Al), (B), (Ba), Ca, (Cu), (Fe), Mg   
+Mn, (Mo), P, S, (V) 
+
+(Al), Ca, Cl, (Cu), K, Mg, Mn, (Na), (V) 
+ 
+
+Se  
+
+Se  
+
+(Cr) 
+
+(Cu), (Mo) 
+
+(Mo), P  
+
+Cl, P   
+
+Se  
+
+(F)  
+
+N 
+
+N 
+
+Page 4 to 6 
+
+J02 
+
+Combustion elemental analysis 
+with chromatographic separation 
+-thermal conductivity 
+ 
+Combustion elemental analysis 
+-fluorometry 
+ 
+Combustion volumetry 
+ 
+Dry ashing gravimetry 
+ 
+(a) Letter codes refer to classes of similar methods; number c
+
+M02 
+
+K03 
+
+J04 
+
+have only informational values in this RM. 
+
+N  
+
+S 
+
+Cl 
+
+S 
+
+ 
+ 
+ 
+ REFERENCES 
+ 
+[1] Ihnat M.; 
+
+odes refer to specific variants.  Elements in parentheses 
+
+Preparation of Twelve Candidate Agricultural Reference Materials
+
+; Fresenius’ J. Anal. Chem., 
+
+Vol. 332, pp. 539–545 (1988). 
+
+[2] Ihnat, M.; 
+
+High Reliability Atomic Absorption Spectrometry 
+
+of Major and Minor Elements in Biological 
+
+Materials; Fresenius Z. Anal. Chem. Vol. 326, pp. 739–741 (1987). 
+
+[3] Ihnat, M.; 
+
+Reliable Measurement of Major, Minor, and Trace Elemental Nutrients
+
+; J. Res. Nat. Bur. Stds. 
+
+Vol. 93, pp. 354–358 (1988). 
+
+[4]  Ihnat, M.; Stoeppler, M.; 
+
+Preliminary Assessment of Homogeneity of New Candidate Agricultural/Food 
+
+Reference Materials; Fresenius’ J. Anal. Chem., Vol. 338, pp. 455–460 (1990). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report Revision History:   22 February 2008 (Update of expi ration date and editorial changes ); 24 September 2001 (This revision reflects a 
+change from reference values to information for aluminum, chromium, and sodium); 24  September 1993 (Original report date). 
+ 
+ 
+ 
+ 
+Users of this RM should ensure that the report in th
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm.  
+
+eir possession is current.  This can be accomplished by 
+
+ 
+
+RM 8438 
+
+Page 5 to 6 
+
+ 
+
+APPENDIX A 
+ 
+Collaborating Analysts 
+
+ 
+W.T. Buckley, G. Wilson, and D. Godfrey, Agassiz Research Station, Agriculture Canada, Agassiz, BC, Canada. 
+W.C. Cunningham, Division of Contaminants Chemistry, Center for Food Safety and Applied Nutrition, U.S. Food and 
+
+Drug Administration, Washington, DC, USA. 
+A. Farina Mazzeo, R. Piergallini, E.P. Salsano, and F. 
+
+Superiore di Sanita, Rome, Italy.  
+
+Abballe, Laboratory of Pharm aceutical Chemistry, Istituto 
+
+C.T. Figueiredo and W.B. McGill, Department of Soil Science, University of Alberta, Edmonton, AB, Canada. 
+K. Frank, J. Denning, and L. Hayne, Institute of Agri
+
+culture and Natural Resources, Department of Agronomy, 
+
+University of Nebraska-Lincoln, Lincoln, NE, USA. 
+
+E.S. Gladney and E.M. Hodge, Health and Environmenta l Chemistry Group, Los Alamos National Laboratory, Los 
+
+Alamos, NM, USA. 
+
+Shoals, AL, USA. 
+
+R.D. Hauck and R.H. Scheib, Office of Agricultural and  Chemical Development, Tennessee Valley Authority, Muscle 
+
+G.U. Hesselius, Mikro Kemi AB, Uppsala, Sweden.         
+M. Ihnat, Centre for Land and Biological Resources Research, Agriculture Canada, Ottawa, ON, Canada. 
+D.L. Jeffress and S. Allison, Feed Control Laboratory, Missouri Department of Agriculture, Jefferson City, MO, USA. 
+L. Jorhem, E. Ericsson, and C.A. Yates, National Food Administration, Uppsala, Sweden. 
+F.J. Kasler, Department of Chemistry, University of Maryland, College Park, MD, USA. 
+G.W. Latimer Jr., W. Igler, L. Park, H. Hinojosa, C. Upton, and D. Arvelo, Agricultural An alytical Services, Office of 
+
+H. Mauss, R.U. Haak, G. Haarman, and H. W. Oehmen, Zentrale Forschung und Entwicklung, Zentrale Analytik, 
+
+the Texas State Chemist, College Station, TX, USA. 
+
+Bayer AG, Leverkusen, Federal Republic of Germany. 
+
+T.P. Mawhinney, R. Boles, R. Cathey, and P. Eggeman,  Experimental Station Laboratories, College of Agriculture, 
+
+University of Missouri-Columbia, Columbia, MO, USA. 
+
+J.S. Morris, V. Spate, C.K. Baskett, and D.E. Trockey,  Research Reactor Facility, Univ ersity of Missouri-Columbia, 
+
+I.S. Palmer, O.E. Olson, Biochemistry Laboratories, Chemistry Department, South Dakota State University, Brookings, 
+
+Columbia, MO, USA. 
+
+SD, USA. 
+
+L.J. Schmidt and U. Soni, Mass Spectrometry and Elemental Analysis Department, Shell Development Company, West 
+
+Hollow Research Center, Houston, TX, USA. 
+
+J. Schoenau, Department of Soil Science, University of Saskatchewan, Saskatoon, SK, Canada. 
+T.R. Shuler and F.H. Nielsen, Grand Forks Human Nutriti on Research Center, US Department of Agriculture, Grand 
+
+R.J. Stevens and A. Beattie, Food and Ag ricultural Chemistry Research Division, Department of Agriculture (Northern 
+
+J.T. Tanner and K.K. Cook, Nutrient Surveillance Branch , Division of Nutrition, US  Food and Drug Administration, 
+
+Forks, ND, USA. 
+
+Ireland), Belfast, Northern Ireland. 
+
+Washington, DC, USA. 
+
+C. Veillon, K.Y. Patterson, and N. Hardison, Vitamin and Mineral Nutrition Laboratory, Beltsville Human Nutrition 
+
+Research Center, US Department of Agriculture, Beltsville, MD, USA. 
+
+R.F. Walker, K. J. Thurlow, and G. Holcombe, Laboratory of the Government Chemist, Teddington, Great Britain. 
+kura Agriculture Centre, Ministry of Agriculture and 
+J.H. Watkinson and A.A. Judge, MAFTech Ruakura, Rua
+
+G.M. Whitford, School of Dentistry, Department of Oral Biology - Physiology, Medical College of Georgia, Augusta, 
+
+Fisheries, Hamilton, New Zealand. 
+
+GA, USA. 
+
+P.C. Williams, Grain Research Laboratory, Canadian Grain Commission, Winnipeg, MB, Canada.        
+W. Yuen, Saskatchewan Research Council, Saskatoon, SK, Canada. 
+ 
+ 
+ 
+ 
+
+ 
+
+RM 8438 
+
+Page 6 to 6 
+
+

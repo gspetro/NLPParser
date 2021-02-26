@@ -1,0 +1,467 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 3074 
+
+ 
+
+ 
+Phthalates in Methanol 
+ 
+This  Standard  Reference  Material (SRM)  is  a  solution  of  one  adipate  and  six  phthalates  in  methanol  intended 
+primarily for use in the calibration of chromatographic instrumentation used for the determination of the certified 
+components in the mixture.  Because of its miscibility with water, this SRM can also be used to fortify samples with 
+known amounts of the six phthalates.  A unit of SRM 3074 consists of five 2 mL ampoules, each containing 1.2 mL 
+of solution. 
+ 
+Certified  Values:    The  certified  mass  fraction  and  mass  concentration  values  for  the  six  phthalates  are  given  in 
+Table 1 [1,2].  These values are based on results obtained from the gravimetric preparation of this solution and from 
+the  analytical  results  determined  by  using  gas  chromatography  with  mass  spectrometric  detection (GC/MS).    A 
+NIST  certified  value  is  a  value  for  which  NIST  has  the  highest  confidence  in  its  accuracy  in  that  all  known  or 
+suspected sources of bias have been investigated or accounted for by NIST. 
+ 
+Supplemental Information:  Chemical Abstracts Service (CAS) Registry Numbers of the certified components are 
+listed in Table 1.  In addition to the six phthalates listed in Table 1, this solution contains bis(2-ethylhexyl)adipate 
+(CAS  Registry  Number  103-23-1).    The  concentration  of  bis(2-ethylhexyl)  adipate  in  the  solution  has  decreased 
+since the preparation of this solution, so it is not included as a certified value. 
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM 3074  is  valid,  within  the  measurement  uncertainties 
+specified, until 30 March 2023 provided the SRM is handled and stored in accordance with the instructions given in 
+this  certificate  (see  “Instructions  for  Handling,  Storage,  and  Use”).    The  certification  is  nullified  if  the  SRM  is 
+damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification was under the direction of M.M. Schantz and 
+S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Partial  support  for  the  preparation  and  certification  of  this  Standard  Reference  Material  was  provided  by  the 
+U.S. Environmental  Protection  Agency  Office  of  Water,  Office  of  Enforcement  and  Compliance  Assurance,  and 
+Office of Research and Development. 
+ 
+Analytical measurements of the SRM were performed by B.A. Benner, Jr., C.R. Mack, and L.K. Walton of the NIST 
+Chemical Sciences Division. 
+ 
+Preparation  of  the  SRM  was  performed  by  B.A. Benner, Jr.  and  M.P. Cronise  of  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 March 2013 
+Certificate Revision History on Last Page  
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+SRM 3074 
+
+Page 1 of 3 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+CAUTION:    This  SRM  is  sealed  in  glass  ampoules  with  prescored  stems.    All  appropriate  safety  precautions, 
+including use of gloves during handling, should be taken.  Unopened ampoules should be stored upright inside the 
+original container supplied by NIST under normal laboratory conditions. 
+ 
+Handling:  This material contains phthalates and an adipate and should be handled with care.  Use proper disposal 
+methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C. 
+ 
+Use:  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules 
+and should be processed without delay for the certified values to be valid within the stated uncertainty.  Because of 
+the volatility of methanol, certified values are not applicable to material stored in ampoules that have been opened 
+for more than 5 minutes, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Preparation:    The  six  phthalates  and  one  adipate  used  in  the  preparation  of  this  SRM  were  obtained  from  a 
+commercial source. The weighed components were added to the methanol and mixed until completely dissolved and 
+homogenized.  The total mass of this solution was measured and the mass fractions and mass concentrations were 
+calculated  from  this  gravimetric  procedure.    The  gravimetric  values  were  adjusted  for  the  consensus  purity 
+estimation  of  each  component,  which  was  determined  using  capillary  gas  chromatography  with  flame  ionization 
+detection  and  differential  scanning  calorimetry.    This  bulk  solution  was  then  chilled  to  approximately  –5 °C  and 
+1.2 mL aliquots were dispensed into 2 mL amber glass ampoules, which were flame sealed. 
+ 
+Analysis:  Aliquots from nine ampoules, selected according to a stratified, random sampling scheme, were analyzed 
+in  duplicate  using  GC/MS  employing  an  immobilized  nonpolar  (5 %  phenylmethylpolysiloxane)  stationary  phase 
+column (see Figure 1).  An internal standard solution containing six ring-d4 phthalates was added to each sample for 
+quantification purposes.  Calibration solutions consisting of weighed amounts of the six phthalates and one adipate 
+and the ring-d4 phthalate internal standard compounds in methanol were chromatographically analyzed to determine 
+analyte response factors. 
+ 
+Certified  Mass  Fraction  Values:    The  certified  mass  fraction  values  are  expressed  as  the  certified  value    an 
+expanded uncertainty.  The certified value is the unweighted average of the mass fractions determined by gravimetry 
+and  chromatographic  measurements.    The  expanded  uncertainty,  at  the  95 %  level  of  confidence,  is  calculated  as 
+U = kuc  where  uc  is  a  combined  standard  uncertainty  calculated  according  to  the  ISO  Guide [3]  and  k = 2  is  the 
+coverage factor.  The value of uc  includes both a correction for estimated purity and an allowance for differences 
+between the mass fractions determined by gravimetric preparation and chromatographic measurements. 
+ 
+Certified  Mass  Concentration  Values:    The  certified  mass  concentration  values (in  mg/L)  were  obtained  by 
+multiplying the certified mass fraction by the measured density of the SRM solution at 22 °C (0.7914 g/mL).  This 
+concentration is for use over the temperature range of 20 °C to 25 °C, and an allowance for the change in density 
+over this temperature range is included in the uncertainty. 
+ 
+
+Table 1.  Certified Values of the Six Phthalates in SRM 3074 
+
+ 
+
+Compound 
+
+CAS Registry Number(a) 
+
+Mass Fraction
+(mg/kg) 
+
+Mass Concentration
+(mg/L) 
+
+Dimethylphthalate 
+Diethylphthalate 
+Di-n-butylphthalate 
+Benzylbutylphthalate 
+Bis(2-ethylhexyl)phthalate 
+Di-n-octylphthalate  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+131-11-3 
+84-66-2 
+84-74-2 
+85-68-7 
+117-81-7 
+117-84-0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+55.6   
+51.4   
+51.2   
+52.2   
+58.6   
+48.2   
+
+1.2 
+1.7 
+1.2 
+1.4 
+1.3 
+1.4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+44.0   
+40.7   
+40.5   
+41.3   
+46.4   
+38.2   
+
+0.9 
+1.4 
+0.9 
+1.1 
+1.0 
+1.1 
+
+ 
+(a) Chemical Abstracts, Thirteenth Collective Index, Index Guide, American Chemical Society, Columbus, OH (1996). 
+ 
+ 
+
+ 
+
+SRM 3074 
+
+Page 2 of 3 
+
+400000
+
+300000
+
+200000
+
+100000
+
+0
+
+e
+c
+n
+a
+d
+n
+u
+b
+a
+
+ 
+ 
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+l
+y
+t
+u
+b
+-
+n
+-
+i
+d
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+l
+y
+t
+c
+o
+-
+n
+-
+i
+d
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+)
+l
+y
+x
+e
+h
+l
+y
+h
+t
+e
+-
+2
+(
+s
+i
+b
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+l
+y
+t
+u
+b
+l
+y
+z
+n
+e
+b
+
+e
+t
+a
+p
+i
+d
+a
+)
+l
+y
+x
+e
+h
+l
+y
+h
+t
+e
+-
+2
+(
+s
+i
+b
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+l
+y
+h
+t
+e
+m
+i
+d
+
+e
+t
+a
+l
+a
+h
+t
+h
+p
+l
+y
+h
+t
+e
+i
+d
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+ 
+Figure  1.    Chromatogram  from  GC/MS  analysis  of  SRM 3074  using  a  0.25 mm i.d.  60 m (length) 
+fused-silica  capillary  column  with  a  5 %  phenylmethylpolysiloxane  phase  (0.25 µm  film  thickness).  
+Temperature Program: 100 °C (1 min) then 30 °C/min to 200 °C, then 7.5 °C/min to 320 °C; MS scan from 
+50 m/z to 300 m/z (2.4 scans/s), electron multiplier voltage = 2000 V. 
+
+Time (min)
+
+ 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+for 
+Colbert, J.;  Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST 
+Value-Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136; 
+U.S. Government Printing Office: Washington, DC (2000); available at 
+http://www.nist.gov/srm/publications.cfm (accessed Mar 2013). 
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+Publication 811;  U.S.  Government  Printing  Office:  Washington, DC 
+at 
+http://www.nist.gov/pml/pubs/index.cfm/ (accessed Mar 2013). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement  (GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008); 
+available 
+(accessed 
+Feb 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Mar 2013). 
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+available 
+
+(2008); 
+
+[3] 
+
+at 
+
+ 
+ 
+Certificate  Revision  History:    05 March 2013  (Extension  of  certification  period;  editorial  changes);  11 May 2006  (Editorial  change); 
+19 April 2006 (Removal of the adipate component from the list of certified constituents and extension of certification period); 20 February 2003 
+(Original certificate date). 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 3074 
+
+Page 3 of 3 
+
+

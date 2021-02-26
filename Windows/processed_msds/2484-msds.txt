@@ -1,0 +1,759 @@
+﻿ 
+
+ 
+
+ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+05 April 2017 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2484 
+Multiwall Carbon Nanotubes (Raw Soot) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in evaluating chemical and instrumental 
+methods of analysis of carbon nanotubes.  A unit of SRM 2484 consists of a bottle containing approximately 6 g 
+of nanotube soot.  
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+  
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+Not classified. 
+Respiratory Sensitization – Category 1 
+Skin Sensitization – Category 1 
+Carcinogen – Category 2 
+STOT, Repeated Exposure – Category 1, Respiratory System 
+
+Physical Hazard: 
+Health Hazard: 
+ 
+ 
+ 
+OSHA Defined Hazard:  Combustible Dust 
+ 
+Label Elements 
+Symbol: 
+
+Signal Word:  DANGER 
+
+ 
+
+Hazard Statement(s): 
+H334 
+H317 
+H351 
+H373 
+------ 
+
+May cause allergy or asthma symptoms or breathing difficulties if inhaled. 
+May cause an allergic skin reaction. 
+Suspected of causing cancer. 
+Causes damage to lungs through prolonged or repeated exposure. 
+May form combustible dust concentrations in air. 
+
+Precautionary Statement(s): 
+Obtain special instructions before use. 
+P201 
+Do not handle until all safety precautions have been read and understood. 
+P202 
+Do not breathe dust. 
+P260 
+P264 
+Wash hands thoroughly after handling. 
+P270 + P271  Do not eat, drink or smoke when using this product.   
+P272 
+P280 
+P284 
+
+Contaminated work clothing must not be allowed out of the workplace. 
+Wear protective gloves, protective clothing, and eye protection. 
+Wear respiratory protection. 
+
+SRM 2484 
+
+ 
+
+Page 1 of 7 
+
+If inhaled: If breathing is difficult, remove person to fresh air and keep comfortable for breathing. 
+If experiencing respiratory symptoms: Call a doctor. 
+
+P304 + P340 
+P342 + P311 
+ 
+P302 + P352 
+P333 + P313 
+P363 
+ 
+P308 + P313 
+P405 
+P501 
+
+If on skin: Wash with plenty of water. 
+If skin irritation or rash occurs: Get medical attention. 
+Wash contaminated clothing before reuse. 
+
+If exposed or concerned:  Get medical attention. 
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  10 % of this material is proprietary with unknown acute toxicity. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Multiwall Carbon Nanotubes 
+
+Other Designations:  Nanotubes, carbon nanotubes (CNT); tubular fullerenes; short tangled multiwalled nanotubes. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate 
+of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+Multiwall Carbon Nanotubes(a) 
+Material undisclosed 
+
+308068-56-6 
+n/a 
+(a)  CAS number assigned to carbon nanotubes, tubular fullerenes, tubulenes, and single-walled nanotubes. 
+
+not available 
+n/a 
+
+90 
+10 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  Do not induce vomiting; if vomiting occurs spontaneously, keep head below hips to prevent aspiration.  
+Obtain medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Coughing, respiratory effects (pulmonary inflammation). 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present or suspected, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  Dust may form explosive mixtures with air.  See Section 9, “Physical 
+and Chemical Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing media appropriate for the surrounding area. 
+Unsuitable:  High volume water jet. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 2 
+
+Fire = 1 
+
+Reactivity = 0 
+
+SRM 2484 
+
+ 
+
+Page 2 of 7 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces 
+should be removed and properly disposed of.  Keep unnecessary personnel away.  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Notify safety personnel of spills.  Dry sweeping or air 
+hoses should not be used to clean work areas.  Use of HEPA-filtered vacuum cleaners is recommended.  Collect 
+spilled  material  in  appropriate  container  for  disposal.    Isolate  hazard  area  and  deny  entry.    Prevent  discharge  to 
+natural waters, sewers and biological waste water treatment plants. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  Routine housekeeping should 
+be instituted to ensure that dusts do not accumulate on surfaces.  Avoid generating dust.  See Section 8, “Exposure 
+Controls and Personal Protection”. 
+
+Storage:  Store and handling in accordance with all current regulations and standards. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+NIOSH (TWA):  1 µg/m3 (respirable nanotubes-elemental carbon) 
+OSHA (PEL):  No occupational limits established for carbon nanotubes. 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    At a minimum wear a National Institute for Occupational Safety and Health NIOSH 
+certified air-purifying tight-fitting full-face respirator with N-100, P-100 or R-100 cartridge or equivalent in 
+accordance with respiratory protection requirements specified in OSHA 29 CFR 1910.134 and NIOSH 42 CFR 
+84 whenever exposure to the product by inhalation is possible. 
+
+Eye/Face Protection:  Wear chemical goggles or safety glasses at all times unless the NIOSH fullface respirator 
+discussed  immediately  above  is  being  worn.    The  respirator’s  mask  provides  appropriate  eye.    An  eyewash 
+station should be readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.   
+
+Protecting gloves:  
+
+Suitable materials for safety gloves/ EN 374-3: Nitrile rubber (NBR; > 0.35 mm).   
+
+Unsuitable material: Do not wear neoprene gloves, as neoprene absorbs nanoparticles.  Each such 
+item of personal protective equipment must be selected and used in accordance with OSHA dermal 
+protection requirements at 29 CFR 1910.132, 1910.133 and 1910.138. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Bulk Density (g/L): 
+Vapor Pressure (mmHg): 
+
+Nanotubes 
+
+black powder 
+not applicable 
+not applicable 
+odorless 
+not available 
+not available 
+not available 
+not available 
+60 g/L 
+not available 
+
+SRM 2484 
+
+ 
+
+Page 3 of 7 
+
+Descriptive Properties: 
+
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Particle Size: 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+
+Explosive Limits, LEL (g/m3): 
+
+Explosive Limits, UEL (Volume %): 
+
+Explosive class: 
+
+Explosive properties: 
+
+Flash Point (ºC): 
+
+Smouldering Temperature (ºC): 
+
+Flammability (solid, gas): 
+
+Nanotubes 
+
+not available 
+not available 
+insoluble in water 
+not available 
+
+< 1.5 µm 
+
+Nanotubes 
+not applicable 
+
+not applicable 
+
+not applicable 
+
+180  
+
+not applicable 
+
+ST1 (VD 22263) 
+
+Kst = 42 bar·m·s-1 
+
+not applicable 
+
+>400 (>752 ºF) 
+
+Not available 
+
+Minimum Ignition Energy (J): 
+
+>10 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  No data available. 
+
+Conditions to Avoid:  Avoid generating dust.  Keep out of water supplies and sewers.   
+
+Incompatible Materials:  Strong oxidizing and reducing agents. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon, metal oxides. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+ 
+
+ 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Coughing, respiratory effects 
+(pulmonary inflammation). 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:    The  National  Institute  for  Occupational  Safety  and  Health (NIOSH)  systematically  reviewed  54 
+laboratory animal studies, many of which indicated that carbon nanotubes (CNTs) and carbon nanofibers could 
+cause adverse pulmonary effects including inflammation, granulomas, and pulmonary fibrosis.  There are well 
+established correlations between results of animal studies and adverse effects in workers exposed to particulates 
+and other air contaminants.  In addition, NIOSH considers these animal study findings to be relevant to human 
+health risks because similar lung effects have been observed in workers exposed to respirable particulates of other 
+materials in dusty jobs.  Moreover, in animal studies where CNTs were compared with other known fibrogenic 
+materials  (e.g.,  silica,  asbestos,  ultrafine  carbon  black),  the  CNTs  were  of  similar  or  greater  potency,  and  the 
+effects, including fibrosis, developed soon after exposure and persisted.  This SRM contains >0.1 % of a substance 
+classified as Category 1 for respiratory sensitization. 
+
+Skin Contact:  This SRM contains >0.1 % of a substance classified as Category 1 for skin sensitization.  
+
+SRM 2484 
+
+ 
+
+Page 4 of 7 
+
+Eye Contact:  No toxicity data available; dust may cause mechanical irritation. 
+
+Ingestion:  No information available. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+
+Rat Oral LD50: >5000 mg/kg 
+Rat Dermal LD50: >2000 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Category 1. 
+
+This SRM contains >0.1 % of a substance classified as Category 1. 
+
+Skin Sensitization:  Category 1. 
+
+This SRM contains >0.1 % of a substance classified as Category 1. 
+
+Germ Cell Mutagenicity:  Not classified. 
+
+Not mutagenic (Ames test). 
+
+Carcinogenicity:  Category 2 
+
+Listed as a Carcinogen/Potential Carcinogen 
+CNTs are not listed by NTP, IARC or OSHA as carcinogen/potential carcinogen.  This material is classified 
+as  Category 2  suspected  of  being  carcinogenic  based  on  animal  studies,  see  potential  health  effects  for 
+inhalation.  
+
+X  No 
+
+Yes 
+
+ 
+
+ 
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1, Respiratory System. 
+
+Target organ: Lung (pulmonary inflammation) 
+Rat Inhalation, repeated dose, 90 days, LOAEC:  0.0001 mg/L 
+
+Aspiration Hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:   
+
+Fish Toxicity:   
+
+Invertebrate:  
+
+Algae: 
+
+Zebrafish (Danio rerio) EC50:  > 100 mg/L (14 d) 
+Zebrafish (Danio rerio), EC10 (semi-static):  100 mg/L 
+
+Water flea (Daphnia magna) EC50:  > 100 mg/L (48 h, freshwater) 
+Water flea (Daphnia magna) NOEC (semi-static):  > 25 mg/L 
+
+Green weed (Desmodesmus subspicatus) EC50:  134 mg/L (72 h, freshwater) 
+
+Persistence and Degradability:  No biodegradation expected. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:   Dispose of waste in accordance with all applicable federal, state, and local regulations.  Prevent 
+discharge to natural waters, sewers and biological waste water treatment plants. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+SRM 2484 
+
+ 
+
+Page 5 of 7 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  This SRM is not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  This SRM is not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  This SRM is not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  This SRM is not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  This SRM is not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+Yes. 
+No. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed 
+
+U.S. TSCA Inventory:  Synthetic graphite is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+ 
+
+ 
+
+SRM 2484 
+
+ 
+
+Page 6 of 7 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  05 April 2017 
+
+Sources: 
+
+Vendor Nanocyl, MSDS NC7000, 28 January 2014. 
+
+ 
+
+CDC; NIOSH; Department of Health and Human Services (DHHS), Centers for Disease Control and 
+Prevention (CDC),  National  Institute  for  Safety  and  Nanofibers;  NIOSH  161-A;  available  at 
+http://www.cdc.gov/niosh/docs/2013-145/  (accessed Apr 2017). 
+
+CDC; NIOSH; Department of Health and Human Services (DHHS), Centers for Disease Control and 
+Prevention (CDC),  National  Institute  for  Safety  and  Health;  Approaches  to  Safe  Nanotechnology: 
+Managing  the  Health  and  Safety  Concerns  Associated  with  Engineered  Nanomaterials;  NIOSH 
+Publication 2009-128; available at http://www.cdc.gov/niosh/docs/2009-125/ (accessed Apr 2017); 
+
+ChemADVISOR, Inc., SDS Graphite, Synthetic 21 March 2014. 
+
+ 
+
+ 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EC10 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+LOAEC 
+NFPA  
+NIOSH  
+NIST 
+ 
+
+NOEC 
+
+Response, 
+
+Environmental 
+
+NRC 
+NTP  
+OSHA  
+
+PEL  
+PNOR 
+RCRA  
+REL  
+RM 
+
+American  Conference  of  Governmental  Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+Effective Concentration, 10 % 
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+RTECS 
+International Agency for Research on Cancer  
+SARA  
+International Air Transport Association  
+SCBA  
+Immediately Dangerous to Life and Health  
+SRM  
+Lethal Concentration, 50 %  
+STEL  
+Lethal Dose, 50 % 
+TLV  
+Lower Explosive Limit  
+TPQ  
+Material Safety Data Sheet  
+TSCA  
+Lowest Observable Adverse Effect Concentration 
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+ 
+
+RQ  
+
+WHMIS 
+ 
+
+No Observed Effect Concentration 
+
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+
+Permissible Exposure Limit 
+Particulates Not Otherwise Regulated  
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current. This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2484 
+
+ 
+
+Page 7 of 7 
+
+

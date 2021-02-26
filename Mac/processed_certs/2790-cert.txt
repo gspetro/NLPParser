@@ -1,0 +1,570 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2790 
+ 
+Inorganic Constituents in Hardwood Biomass Material 
+Hard 
+
+validating  me
+
+ 
+This Standard Reference Material (SRM) is intended for use in validating methods for the determination of elements 
+in  hardwood  biomass  materials  and  similar  matrices,  and  for  qualifying  in-house  control  materials.    A  unit  of 
+SRM 2790 consists of two bottles each containing approximately 30 g of material. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values of elements in SRM 2790, reported on a dry-mass 
+basis, and ash are provided in Tables 1 and 2, respectively.  A NIST certified value is a value for which NIST has the 
+highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into 
+account [1].  Analyses for value assignment were performed by NIST.  Certified mass fraction values were calculated 
+as the mean of the mean values from NIST methods.  The associated uncertainties are expressed at an approximately 
+95 % level of confidence [2–4].   
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for additional elements in SRM 2790, reported on 
+a dry-mass basis, are provided in Table 3.  A NIST reference mass fraction value is a noncertified value that is the best 
+estimate  of  the  true  value  based  on  available  data;  however,  the  values  do  not  meet  the  NIST  criteria  for 
+certification [1]  and  are  provided  with  an  uncertainty  that  may  reflect  only  measurement  reproducibility,  may  not 
+include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods.  The reference mass fraction values were derived from results reported by NIST. 
+ 
+Expiration of Certification:  The certification of SRM 2790 is valid, within the measurement uncertainty specified, 
+until  30 June 2028,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification: NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.J. Wood and 
+R. Oflaz of the NIST Chemical Sciences Division.  
+ 
+Analytical  measurements  at  NIST  were  performed  by  C.A. Barber,  J.F. Browning,  K.D. Chieh,  S.E. Long, 
+A.F. Marlow, A.J. Moors,  J.M. Ness,  R. Oflaz,  R.L. Paul,  R.S. Pugh,  N.E. Sharp,  and  L.J. Wood  of  the  NIST 
+Chemical Sciences Division.  
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 June 2018 
+
+ 
+
+ 
+
+  
+
+SRM 2790 
+
+ 
+ 
+ 
+ 
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 6 
+
+terial  reaches  it 
+
+NOTICE TO USERS 
+ 
+SRM 2790 IS INTENDED FOR RESEARCH USE. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored in the original, unopened bottle at room temperature (20 °C to 25 °C) until required 
+for use.  The bottle can be closed and test portions removed and analyzed until the material reaches its expiration date. 
+ 
+ghly.  Allow  the 
+Use: Prior to removal of a test portion for analysis, the contents of the bottle should be mixed thoroughly.  Allow the 
+contents  to  settle  for  one minute  prior  to  opening  to  minimize  the  loss  of  fine  particles.    To  relate  analytical 
+determinations to the certified values in this Certificate of Analysis, a test portion mass size of at least 0.2 g should be 
+used when determining Ag, Al, As, Ce, Cl, Co, Cr, Cs, Fe, K, La, Mg, Mn, Na, Rb, Sb, Sc, Se, Sm, Th, V, W, and  
+Zn; a test portion mass size of at least 0.25 g should be used when determining Hg; a test portion mass size of at least 
+0.5 g should be used when determining Cu; and a test portion mass size of at least 1 g should be used when determining 
+B,  C,  H,  and  ash.    Test  portions  should  be  analyzed  as  received  and  results  converted  to  a  dry-mass  basis  (See 
+“Determination  of  Moisture”).    Analytical  results  obtained  in  analyses  should  include  their  own  estimates  of 
+uncertainty and can be compared to the listed values using procedures described in references 5 and 6. 
+ 
+Determination of Moisture:  Moisture content of SRM 2790 was determined at NIST by (1) freeze-drying to constant 
+mass over 7 d; (2) drying over magnesium perchlorate in a desiccator at room temperature for 14 d; and (3) drying in 
+a forced air oven for 2 h at 90 °C.  Unweighted results obtained using all three techniques were averaged to determine 
+a conversion factor of (0.9700 ± 0.0072) gram dry-mass per gram as-received mass, which was used to convert data 
+from an as-received to a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty to represent 
+a 95 % level of confidence.  An uncertainty component for the conversion factor (0.4 %) obtained from the moisture 
+measurements is incorporated in the uncertainties of the certified and reference values, reported on a dry-mass basis, 
+that are provided in this certificate. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+
+ 
+
+Preparation:    SRM 2790  was  prepared  from  wood  pellet  fuel  to  support  biomass  energy,  biomass  technology 
+developments,  and  environmental  impact  assessments.    The  material  was  purchased  commercially  as  five  1 cu. ft. 
+bags  that  were  sent  to  the  NIST  Reference  Material  Production  facility  (ISO  certified  Class  7  clean  room)  in 
+Charleston, SC.  The material was first cryomilled and then cryohomogenized.  The material was shipped to NIST 
+Gaithersburg for jet milling, irradiation (Neutron Products, Inc., Dickerson, MD) to an absorbed dose of 7.9 kGy to 
+9.5 kGy, and bottling.   
+ 
+NIST Analytical Approach for Determination of Elements:  Value assignment of the mass fractions of elements 
+in SRM 2790 was based on the combination of  measurements provided by NIST using  inductively couple plasma 
+mass spectrometry (ICP-MS), inductively couple plasma optical emission spectrometry (ICP-OES), isotope dilution 
+cold vapor inductively coupled plasma mass spectrometry (ID/CV ICP-MS), instrumental neutron activation analysis 
+(INAA), and prompt gamma neutron analysis (PGAA).   
+ 
+NIST Analyses for As, Cr, Co, Cs, Cu, Fe, K, Mg, Mn, Na, Se, V, and Zn using ICP-MS and ICP-OES:  Mass fractions 
+of arsenic, cesium, chromium, cobalt, copper, iron, magnesium, manganese, potassium, selenium, sodium, vanadium, 
+and zinc were determined by either ICP-MS or ICP-OES in duplicate 0.5 g test portions taken from each of six bottles 
+of  SRM 2790.    Samples  were  digested  in  a  microwave  sample  preparation  system  using  a  HNO3:HF  solution.  
+Quantification was based on the method of standard additions using calibration solutions prepared from the SRM 3100 
+series of single-element standard solutions. 
+ 
+NIST Analyses for Hg using ID/CV ICP-MS: The mass fraction of  mercury  was determined by ID/CV ICP-MS in 
+single,  nominal  0.25 g,  test  portions  taken  from  each  of  eight  bottles  of  SRM 2790.    Samples  were  digested  in  a 
+microwave  sample  preparation  system  using  a  HNO3:HCl  solution.    Measurements  were  made  using  cold-vapor 
+mercury generation coupled with ICP-MS.  Quantification was based on reverse isotope dilution with a 201Hg stock 
+solution and SRM 1641d Mercury in Water. 
+ 
+m  using 
+La, 
+NIST Analyses for Ag, Al, As, Ce, Cl, Co, Cr, Cs, Fe, K, La, Mg, Mn, Na, Rb, Sb, Sc, Se, Sm, Th, V, W, and  Zn using 
+lanthanum,
+INAA: Mass fractions of aluminum, antimony, arsenic, cerium, cesium, chlorine, chromium, cobalt, iron, lanthanum, 
+
+lum,  antimony,  arsenic, 
+
+Rb,  Sb,  Sc,  Se, 
+
+Ag,  Al 
+
+V, 
+
+                                                 
+(1) Certain commercial equipment, instruments or materials are identified in this certificate to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose.  
+SRM 2790 
+
+Page 2 of 6 
+
+magnesium,  manganese,  potassium,  rubidium,  samarium,  scandium,  selenium,  silver,  sodium,  thorium,  tungsten, 
+vanadium,  and,  zinc  were  determined  by  INAA  using  duplicate,  nominal  0.2 g  test  portions  taken  from  each  of 
+12 bottles of SRM 2790.  For the analysis of antimony, arsenic, cerium, cesium, chromium, cobalt, iron, lanthanum, 
+rubidium, samarium, scandium, selenium, silver, thorium, tungsten, and zinc, powders were pressed into cylindrical 
+pellets, and samples, standards, and controls were packaged individually in clean polyethylene bags and irradiated in 
+a single rabbit at 20 MW for 16 h with a 180-degree inversion after 8 h.  Nuclides were counted for 12 h after a 14 d 
+decay (Ag, Ce, Co, Cr, Cs, Fe, Rb, Sb, Sc, Se, Th, Zn) or 2 h after a 5 d decay (As, La, Sm, W).   For analysis of 
+aluminum,  chlorine,  magnesium,  manganese,  potassium,  sodium,  and  vanadium  each  sample,  standard,  or  control 
+material  was  individually  irradiated  together  with  one  flux  monitor  foil  for  120 s  at  a  reactor  power  of  20 MW.  
+Nuclides were counted for 5 min and 30 min after decays of 5 min and 15 min, respectively.  Quantification is based 
+on validated pure metal foils, pure compounds, or the SRM 3100 single element standard solutions. 
+ 
+NIST  Analyses  for  B,  C,  K,  and  H  using  PGAA:  Mass  fractions  of  boron,  carbon,  potassium,  and  hydrogen  were 
+determined by PGAA using single, nominal 1 g test portions taken from each of eight bottles of SRM 2790.  Samples 
+were irradiated for 24 h.  Gamma rays were measured using a reverse electrode high purity germanium detector.  The 
+2223 keV,  477 keV,  770 keV,  and  4945 keV  peaks  were  integrated  for  hydrogen,  boron,  potassium,  and  carbon, 
+respectively.  Quantification was based on SRM 912a Urea, SRM 918b Potassium Chloride Clinical Standard, and 
+SRM 3107 Boron (B) Standard Solution. 
+ 
+NIST Analytical Approach for Determination of Ash:  Value assignment of the mass fraction of ash in SRM 2790 
+was based on the combination of measurements provided by NIST using thermogravimetric analyzer (TGA) (LECO 
+Model 701)  and  muffle  furnace.    Nominal  1 g  samples  were  held  for 3 h  at  575 °C  using  either  TGA  or  a  muffle 
+furnace.  Quantitation was based on the standard mass set maintained by the Inorganic Chemical Metrology Group. 
+ 
+Homogeneity Assessment:  To address issues of possible inhomogeneity of the SRM, analyses of variance with 5 % 
+significance level and graphical analyses were run on NIST data where box information was available.  For As, La, 
+Mn,  Na,  Sm,  and  W,  the  uncertainty  incorporates  a  component  for  possible  inhomogeneity  based  on  the  standard 
+deviation.   
+ 
+Value Assignment:  The certified mass fraction values in this SRM were derived from results of analyses performed 
+by NIST using the mean of the mean values from NIST results.  The uncertainty of the combined mean is estimated 
+using a bootstrap procedure based on a Gaussian random effects model for the between-method effects [2–4]. 
+ 
+ 
+ 
+
+ 
+
+SRM 2790 
+
+Page 3 of 6 
+
+Certified Mass Fraction Values:  Each certified mass fraction value listed in Table 1 is the combined mean from 
+each set of analyses by NIST.  Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the 
+expanded  uncertainty  of  the  certified  value.    The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval 
+x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, treat the certified value as a normally distributed 
+random variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total mass fraction for 
+each analyte listed in Table 1, on a dry-mass basis.  Metrological traceability is to the SI derived unit for mass fraction 
+(expressed as milligrams per kilogram). 
+ 
+
+Table 1.  Certified Mass Fraction Values for Elements in SRM 2790 
+
+[ass  Fraction
+
+ 
+
+Arsenic (As)(a,b) 
+Cesium (Cs)(a,b) 
+Chromium (Cr)(a,b) 
+Cobalt (Co)(a,b) 
+Iron (Fe)(b,c) 
+Magnesium (Mg)(b,c) 
+Manganese (Mn)(b,c) 
+Mercury (Hg)(d) 
+Potassium (K)(b,c,e) 
+Selenium (Se)(a,b) 
+Sodium (Na)(b,c) 
+Vanadium (V)(a,b) 
+Zinc (Zn)(b,c) 
+
+ 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+0.0335 
+0.0199 
+1.59 
+0.098 
+
+ 
+ 
+ 
+ 
+  82.9 
+  189 
+  52.4 
+ 
+ 1040 
+ 
+  26.0 
+ 
+ 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+0.01323  ± 
+± 
+± 
+± 
+± 
+± 
+
+0.243 
+9.26 
+
+0.0102 
+
+0.0089 
+0.0010 
+0.15 
+0.012 
+5.5 
+11 
+1.9 
+0.00020 
+
+130 
+
+0.0023 
+5.3 
+0.011 
+0.90 
+
+(a) ICP-MS 
+(b) INAA  
+(c) ICP-OES 
+(d) ID/CV ICP-MS 
+(e) PGAA 
+ 
+ 
+ 
+ 
+Certified Mass Fraction Value for Ash:  The certified mass fraction value for ash is the mean of the means from the 
+sets of analyses by NIST using TGA and muffle furnace.  Values are expressed as x ± U95%(x), where x is the certified 
+value and U95%(x) is the expanded uncertainty of the certified value.  The true value of the analyte is believed to lie 
+within the interval x ± U95%(x) with 95 % confidence [2].  To propagate this uncertainty, treat the certified value as a 
+normally distributed random variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total 
+mass fraction for ash listed in Table 2.  Metrological traceability is to the SI derived unit for mass fraction (expressed 
+as grams per 100 grams). 
+ 
+
+Table 2.  Certified Mass Fraction Value for Ash in SRM 2790 
+
+ 
+
+Ash 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+  0.604 
+
+± 
+
+0.084 
+
+SRM 2790 
+
+Page 4 of 6 
+
+Reference Mass Fraction Values for Elements:  Each reference mass fraction value is the mean from each set of 
+analyses by NIST.  Values are expressed as x ± U95%(x), where x is the reference value and U95%(x) is the expanded 
+uncertainty of the value.  The method-specific value of the analyte is believed to lie within the interval x ± U95%(x) 
+with about a 95 % confidence [2–4].  The measurand is the mass  fraction for each element listed in Table 3, on a 
+dry-mass basis, as determined by the method indicated.  Metrological traceability is to the SI derived unit for mass 
+fraction (expressed as either percent or milligrams per kilogram) as realized by the method used. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Elements in SRM 2790 
+
+ 
+
+ 
+Carbon (C)(a) 
+a)
+Hydrogen (H)(a) 
+ 
+ 
+
+Aluminum (Al)(b) 
+Antimony (Sb)(b) 
+Boron (B)(a) 
+Cerium (Ce)(b) 
+Chlorine (Cl)(b) 
+Copper (Cu)(c) 
+Lanthanum (La)(b) 
+Rubidium (Rb)(b) 
+Samarium (Sm)(b) 
+Scandium (Sc)(b) 
+Silver (Ag)(b) 
+Thorium (Th)(b) 
+Titanium (Ti)(b) 
+Tungsten (W)(b) 
+ 
+
+  Mass Fraction 
+(%) 
+ 
+ 
+
+51.73 
+6.291 
+
+0.75 
+0.088 
+
+    Mass Fraction 
+   
+
+(mg/kg) 
+
+± 
+± 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+92.06 
+
+0.0397 
+3.210 
+0.5523 
+
+35.40 
+
+1.545 
+0.643 
+3.11 
+0.0507 
+0.0111 
+0.0079 
+0.0146 
+11.1 
+0.225 
+
+0.89 
+0.0016 
+0.039 
+0.0098 
+0.64 
+0.030 
+0.063 
+0.099 
+0.0052 
+0.0004 
+0.0010 
+0.0005 
+1.0 
+0.029 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) PGAA 
+(b) INAA 
+(c) ICP-OES 
+ 
+. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+SRM 2790 
+
+Page 5 of 6 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed Mar 2018). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Mar  2018);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Mar 2018). 
+
+[3]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement  -  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Mar 2018). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Rukhin, A.L.; Compatibility Verification of Certified Reference Materials and User Measurements;  Metrologia; 
+
+[6]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC Int.; 
+
+Supplements 
+
+Vol. 51, pp. 11–17 (2014). 
+
+Vol. 91, pp. 1298–1302 (2008). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+ps://www.nis
+
+fax 
+
+ 
+
+SRM 2790 
+
+Page 6 of 6 
+
+

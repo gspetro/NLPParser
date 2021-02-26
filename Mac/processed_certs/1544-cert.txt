@@ -1,0 +1,301 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 1544
+
+
+
+Fatty Acids and Cholesterol in a Frozen Diet Composite
+
+
+
+This Standard Reference Material (SRM) is intended primarily for verifying the accuracy of methods used for the determination of fatty acids and cholesterol in food materials.  A unit of SRM 1544 consists of four bottles, each containing approximately 15 g of a composite food material, that has been thoroughly ground and blended.  The composite is representative of a typical U.S. diet.
+
+
+
+						Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  The certified value for cholesterol is the mean of results from the definitive method at NIST and each certified value for the fatty acids is the equally weighted mean of results from gas chromatography/mass spectrometry (GC/MS) at NIST and three USDA contract laboratories.  All values are reported as mass fractions [2] on a wet mass basis.  Each uncertainty, computed according to the CIPM approach [3], is an expanded uncertainty at the 95 % level of confidence which includes uncertainty due to both measurement processes as well as material variability.  Each certified value and expanded uncertainty define a range of values within which the true concentration is expected to lie for at least 95 % of the samples.
+
+
+
+Reference Values:  Reference values are noncertified values that represent the best estimate of the true values based on available data; however, the values do not meet the NIST criteria for certification [1] and are provided with associated uncertainties that may reflect only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  Values for proximates, nutrient elements, and calories are listed in Table 2 and additional fatty acids in Table 3.  Mass fraction values [2] are reported on a wet mass basis and calories as calories per kilogram.
+
+						
+
+				Expiration of Certification:  The certification of SRM 1544 is valid, within the measurement uncertainty specified, until 30 April 2020, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+				
+
+				Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+						
+
+						The overall direction and coordination of the technical measurements leading to the certification of this SRM were performed by M.J. Welch of the NIST Chemical Sciences Division.
+
+						
+
+						Analytical measurements were performed by L.T. Sniegoski of the NIST Chemical Sciences Division; P. Ellerbe and R. Fischer formerly of NIST; and by laboratories under contract to the U.S. Department of Agriculture (USDA). 
+
+						
+
+						Technical consultation for the development of this SRM was provided by W.R. Wolf of the Beltsville Human Nutrition Research Center (BHNRC), USDA, and G.V. Iyengar, consultant to the Standard Reference Materials Program.
+
+						
+
+						Statistical consultation was provided by S.B. Schiller of the NIST Statistical Engineering Division.
+
+						
+
+						
+
+					Carlos A. Gonzalez, Chief
+
+					Chemical Sciences Division
+
+				
+
+				Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+				Certificate Issue Date:  03 December 2014	Office of Reference Materials
+
+																	Certificate Revision History on Last Page
+
+
+	Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+	
+
+	NOTICE AND WARNING TO USERS
+
+				
+
+				Warning:  SRM 1544 is for laboratory use only.  It is not intended for human consumption and could contain unhealthy levels of bacteria if not handled properly.
+
+				
+
+				INSTRUCTIONS FOR STORAGE AND USE
+
+				
+
+				Storage:  Prior to thawing SRM 1544 should be stored in the dark at temperatures at or below –20 C until used.
+
+				
+
+				Use:  Each vial to be analyzed should be allowed to thaw and warm to room temperature.  The contents should then be thoroughly mixed to ensure homogeneous distribution of the lipid materials in the matrix.  Sample sizes less than 1 g are not recommended since the chances of taking a nonrepresentative sample increase with decreasing sample size.  Once the material is thawed, the samples should be taken and processed immediately.  Certified concentrations may not be valid for refrozen material or for material stored at refrigerator or room temperatures for more than a few hours.
+
+				
+
+				Source of the Material:  The various foods selected for the composite were combined, ground, and blended at Virginia Polytechnic and State University (Blacksburg, VA).  The composite material was then bottled at the Food Nutrition Laboratory, ARS, USDA, Beltsville, MD.  The individual foods chosen and the quantities of each used, were designed to provide a composite material with typical levels of many nutrients found in an average U.S. diet.
+
+				
+
+				Analytical Methods:  Certification of the concentrations of the fatty acids in this SRM was based on results from analyses using GC/MS at NIST and gas chromatography (GC) in laboratories working under contract with USDA.  The NIST analyses involved spiking a weighed aliquot of the wet material (approximately 1 g) with known quantities of deuteriumlabeled internal standards that were analogs of four of the analytes (C12:0, C16:0, C18:0, and C18:1).  The samples were then treated with 10 mL of a NaOH solution having an amount-of-substance concentration of 1 mol/L in methanol and refluxed at 60 C for 30 min.  Approximately 2 mL of 6 mol/L HCl was added to neutralize the sample, followed by 5 mL of pH 4 buffer and approximately 0.5 g to 1 g of NaCl.  The solution was extracted three times with 10 mL portions of hexane.  One milliliter of the combined hexane extract was transferred to a small tube, dried over sodium sulfate, and treated with 50 μL of l,ldimethoxytrimethylamine to form the methyl esters of the fatty acids.  Calibration standards consisting of known masses of pure fatty acids and the same deuterated standards added to the samples were prepared and derivatized.
+
+				
+
+				The GC/MS analyses were performed using a standard quadrupole mass spectrometer with a 30 m fused silica capillary column (DB-5 MS, Agilent Technologies, Wilmington, DE) interfaced directly to the ion source.  The mass spectrometer was operated in the selected ion monitoring mode and was set up to measure the molecular ion of each analyte and internal standard as it eluted from the GC column.  Calibration curves were constructed based upon the ion intensity ratios measured for the analytes and their corresponding internal standards.  For the C14:0 analyte, the response of the pure C14:0 material was ratioed to the deuterated internal standards for C12:0 and C16:0 and the results were averaged.  For the C18:2 analyte, the pure standard was ratioed to the deuterated standards for C16:0, C18:0, and C18:1 and the results were averaged.  Three sets of six samples each were prepared for analysis.
+
+				
+
+				Cholesterol determinations were performed using the isotope dilution mass spectrometric definitive method for serum cholesterol modified for food materials [4,5].  Three sets of samples were analyzed with each set consisting of two samples from each of three vials.
+
+				
+
+				USDA Contract Laboratories and Methods:  The three contract laboratories supplying data for this SRM include: Hazelton Laboratories (Madison, WI); Lancaster Laboratories (Lancaster, PA); and Medallion Laboratories (Minneapolis, MN).  The methods used by these laboratories for measurements of nutrients in this material are those typically used by the laboratories at the time of analysis.
+
+				
+
+
+				Table 1. Certified Mass Fractions for Cholesterol and selected Fatty Acids
+
+							
+
+				Analytes	Common Name	Mass Fraction(a)
+
+						(g/kg)
+
+				
+
+								Cholesterol			0.1483		0.0094
+
+								Dodecanoic Acid (C12:0)	Lauric acid	1.31		0.12
+
+								Tetradecanoic Acid (C14:0)	Myristic acid	1.01		0.10
+
+								Hexadecanoic Acid (C16:0)	Palmitic acid	5.77		0.52
+
+								Octadecanoic Acid (C18:0)	Stearic acid	2.00		0.22
+
+								Z-9-Octadecenoic Acid (C18:l)	Oleic acid	11.6		0.94
+
+								Z,Z-9-12-Octadecadienoic Acid (Cl8:2)	Linoleic acid	6.56		0.62
+
+	
+
+	The measurand is the total mass fraction of the listed analytes. The certified value is metrologically traceable to the SI unit of mass, expressed as grams per kilogram.
+
+								
+
+								Reference Values:  The three contract laboratories also supplied data on proximates and other nutrients.  These data were calculated from the results of two analyses by each laboratory.  The measurands are the mass fractions for the proximates, nutrients, and caloric content listed based on the methods used by collaborating laboratories.  The reference values for proximates and nutrients are metrologically traceable to the SI unit of mass, expressed as a percent or milligrams per kilogram respectively.  The reference value for caloric content is metrologically traceable to the SI unit of calories, expressed as calories per kilogram.  While these values are not certified, they were generated by laboratories with considerable experience in analyzing food materials for these particular analytes.  Each uncertainty is at the 95 % level of confidence. 
+
+								
+
+								Table 2. Reference Mass Fractions for Proximates and Nutrients
+
+								
+
+					Proximate	Mass Fraction	Nutrient	Mass Fraction
+
+						(%)		(mg/kg)
+
+								
+
+										Protein	5.3		0.3	Calcium	523 	 	66
+
+										Moisture	73.1		0.8	Potassium 	1535 	 	721
+
+										Total Fat	3.7 		0.6	Sodium 	1710 	 	252
+
+										Ash	1.0 		0.3
+
+										Carbohydrate	16.9 		1.5
+
+										
+
+				Calories	1221 cal/kg		50 cal/kg
+
+				
+
+				
+
+				Additional Reference Values:  Additional values were provided by the contract laboratories for certain fatty acids.  Results are reported below for those instances when there was agreement between two or more laboratories.  The measurands are the mass fractions for the fatty acids listed based on the methods used by collaborating laboratories.  The reference values are metrologically traceable to the SI unit of mass, expressed as grams per kilogram.  Each uncertainty is at the 95 % level of confidence.
+
+				
+
+				Table 3. Reference Mass Fractions for Selected Fatty Acids
+
+						
+
+			Fatty Acid	Mass Fraction
+
+				(g/kg)
+
+				
+
+						Caprylic (C8:0)	0.27		0.35
+
+						Capric (C10:0)	0.28		0.29
+
+						Palmitoleic (C16:1)	0.35		0.03
+
+						Linolenic (C18:3)	0.61		0.25
+
+						Arachidic (C20:0)	0.11		0.06
+
+						Eicosenoic (C20:1)	0.13		0.32
+
+						Arachidonic (C20:4)	0.09		0.10
+
+						Behenic (C22:0)	0.11		0.06
+
+		
+
+
+REFERENCES
+
+
+
+	[1]	May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office:  Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed Dec 2014).
+
+	[2]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811, U.S. Government Printing Office” Washington, DC (2008); available at http://www.physics.nist.gov/Pubs (accessed Dec 2014).
+
+		[3]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; (GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Dec 2014); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Dec 2014).
+
+	[4]	Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White, V.E.; Determination of Serum Cholesterol by a Modification of the Isotope Dilution Mass Spectrometric Definitive Method.; Anal. Chem., Vol. 61, 
+pp. 1718–1723 (1989).
+
+	[5]	Hydrolysis Procedure Used: Method 4.235, Official Methods of Analysis, 13th Ed., AOAC, Arlington, VA (1980).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate Revision History:  03 December 2014 (Change of expiration date, editorial changes); 09 October 2008 (Change of expiration date); 15 February 1996 (Original certificate issue date). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 1544	Page 1 of 4

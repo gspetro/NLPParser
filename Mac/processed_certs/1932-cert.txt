@@ -1,0 +1,465 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1932 
+ 
+Fluorescein Solution 
+ 
+This Standard Reference Material (SRM) is intended for use in establishing a reference scale for fluorescence intensity 
+based  upon  Molecules  of  Equivalent  Soluble  Fluorophore (MESF)  units [1–3].    This  SRM  is  certified  for  the 
+concentration of fluorescein with a certified purity in a borate buffer solution.  The MESF scale is established for a 
+particular set of experimental conditions by measuring the fluorescence intensity of known amounts of this SRM under 
+a specific set of conditions (see “Instructions for Use”).  A unit of SRM 1932 consists of three flamed sealed amber 
+glass ampoules, each containing approximately 2.0 mL of fluorescein in an aqueous borate buffer. 
+ 
+Certified  Value:   The  certified  concentration  of  fluorescein  given  below  is  based  on  gravimetric  preparation  and 
+analysis of purity by proton nuclear magnetic resonance spectroscopy that was independently verified by analysis of 
+impurities.  A summary of fluorescein purity determinations is provided in Table 2.  A NIST certified value is a value 
+for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been 
+investigated  or  taken  into  account [4].    The  measurands  are  the  concentration  and  purity  of  fluorescein  and  the 
+traceability  is  to  the  SI  derived  units  for  amount-of-substance  concentration  and  mass  fraction,  expressed  as 
+micromoles per kilogram and percent, respectively. 
+ 
+ 
+ 
+
+60.97  ±  0.40  (μmol∙kg–1) 
+97.55  ±  0.64  (%) 
+
+Fluorescein mass fraction: 
+Fluorescein purity: 
+
+ 
+Reference Values:  Table 1 gives reference values for the molar absorption coefficient of SRM 1932 corrected for 
+purity and fluorescence bias.  NIST reference values are noncertified values which represent the best estimate of the 
+true values based on available data; however, the values do not meet the NIST criteria for certification [4] and are 
+provided with associated uncertainties that may reflect only measurement precision, may not include all sources of 
+uncertainty,  or  may  reflect  a  lack  of  sufficient  statistical  agreement  among  multiple  analytical  methods.    The 
+measurands are the molar absorption coefficients as listed in Table 1 as realized by the methods used.  Metrological 
+traceability is to the SI derived units for molar absorptivity, expressed as kilograms per mole centimeter. 
+ 
+
+SRM 
+
+Table 1. Reference Values for Molar Absorption Coefficient of SRM 1932 at 22.4 °C ± 0.5 °C 
+
+ 
+ 
+ 
+
+ 
+
+Wavelength 
+(nm) 
+
+Molar Absorption Coefficient 
+(kg∙cm−1∙mol−1) 
+
+Uncertainty 
+(kg∙cm−1∙mol−1) 
+
+ 
+
+488.0 
+490.0 
+490.5 
+491.0 
+
+8.50  ×  104 
+8.70  ×  104 
+8.71  ×  104 
+8.70  ×  104 
+
+0.07  ×  104 
+0.07  ×  104 
+0.07  ×  104 
+0.07  ×  104 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Expiration of Certification:  The certification of SRM 1932 is valid, within the measurement uncertainty specified, 
+his 
+until  30 June 2022,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+or 
+otherwise modified.  The certification is valid only for unopened ampoules that have been stored in the dark between 
+cen
+2 °C to 6 °C. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 June 2017 
+Certificate Revision History on Last Page
+
+Anne L. Plant, Chief 
+Biosystems and Biomaterials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 4 
+
+ 
+ 
+
+SRM 1932 
+
+certification  were  performed  by  G.W. 
+
+Overall direction and coordination of technical measurements leading to certification were performed by G.W. Kramer 
+of the former NIST Biochemical Sciences Division. 
+ 
+Biosystems 
+Production and certification of this SRM were performed by P.C. DeRose and A.K. Gaigalas of the NIST Biosystems 
+and  Biomaterials  Division;  B. Coxon  and  G.W. Kramer  of  the  former  NIST  Biochemical  Science  Division;  and 
+T.W. Vetter  of  the  NIST  Chemical  Sciences  Division;  with  assistance  from  D.L. Duewer,  J.B. Smeller, 
+M.B. Satterfield, D.M. Bunk, M.J. Welch, E. White V., Y. Tewari, S.A. Margolis, J.R. Sieber, L.L. Yu, and L. Wang 
+of NIST. 
+ 
+Ancillary  measurements  were  provided  by  G.E. Marti,  F. Abbasi,  and  J. Weaver  of  the  U.S.  Food  and  Drug 
+Administration, R.F. Vogt of the Centers for Disease Control and Prevention, and Y-z. Zhang of Molecular Probes, 
+Inc. 
+ 
+Statistical consultation was provided by J. Lu of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Source  of  Material(1):    The  fluorescein (2-(6-hydroxy-3-oxo-3H-xanthen-9-yl)benzoic  acid,  C20H12O5,  relative 
+molecular mass 332.311, CAS No. 2321-07-5) powder used in SRM 1932 was prepared especially for this purpose by 
+Molecular  Probes,  Inc.  (Eugene, OR, U.S.;  Leiden, The  Netherlands),  71358,  MPR,  Lot W018073.    Boric  acid 
+granules  were  obtained  from  Mallinckrodt  (St.  Louis, MO, U.S.),  Lot 2549 KVTK,  relative  molecular  mass 61.83. 
+Sodium  hydroxide  pellets  were  from  Mallinckrodt,  Catalog  No. 7708,  Lot 7708M484721,  relative  molecular 
+mass 40.00.    All  water  used  was  NIST  deionized  water  that  was  then  subsequently  passed  through  a  second 
+purification system (Millipore Mill-Q A10) to produce water having a resistivity ≥ 18 MΩ cm. 
+ 
+Determination of Fluorescein Purity:  Table 2 summarizes the purity determinations of the fluorescein material used 
+to  prepare  SRM 1932.    The  measurands  are  the  impurities  as  listed  in  Table 2  as  realized  by  the  methods  used.  
+Metrological traceability is to the SI derived units for mass fraction, expressed as percent. 
+ 
+
+issuance 
+
+issociated  Uncertainties
+Table 2.  Reference Values for Fluorescein Purity Determinations and Associated Uncertainties 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+ 
+
+Uncertainty 
+(%) 
+
+Constituent 
+ 
+ 
+
+Fluorescein 
+DHBBA(b) 
+Ethanol 
+Methyl Isobutyl Ketone 
+HOAc/Acetate 
+Ethyl Acetate 
+Water 
+Total Organics 
+Potassium 
+Sodium 
+Chloride 
+
+Technique 
+ 
+ 
+1H NMR(a) 
+1H NMR(a) & HPLC(c) 
+1H NMR(a) 
+1H NMR(a) 
+1H NMR(a) 
+1H NMR(a) 
+Karl Fisher 
+CHO Analysis(d) 
+FAES(e) 
+FAES(e) 
+Argentimetry(f) 
+
+97.55 
+1.04 
+0.21 
+0.02 
+0.02 
+0.02 
+0.25 
+99.19 
+0.50 
+0.03 
+0.37 
+
+0.64 
+0.20 
+0.04 
+0.02 
+0.01 
+0.01 
+0.02 
+0.82 
+0.14 
+0.03 
+0.03 
+
+(a) 500 MHz Proton Nuclear Magnetic Resonance Spectroscopy 
+(b) 2-(2’,4’Dihydroxybenzoyl) benzoic acid 
+(c) High Performance Liquid Chromatography and High Performance Liquid Chromatography-Mass Spectrometry, both normal 
+
+and reversed phase 
+
+(d) Elemental  analyses  carried  out  by  Schwartzkopf  Microanalytical  Laboratory,  Inc.  (Woodside, NY),  Atlantic  Microlab,  Inc. 
+
+(Norcross, GA), and Galbraith Laboratories, Inc. (Knoxville, TN) 
+
+(e) Flame Atomic Emission Spectroscopy 
+(f)  Halide content identified solely as chloride by X-ray Fluorescence and Inductively Coupled Plasma-Mass Spectrometry 
+ 
+
+                                                           
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1932 
+
+Page 2 of 4 
+
+Information Values:  Table 3 gives information values for SRM 1932.  A NIST information value is a value that may 
+be of use to the SRM user, but insufficient information is available to assess adequately the uncertainty associated 
+with the value.  Information values cannot be used to establish metrological traceability. 
+ 
+
+Table 3.  Information Values for SRM 1932 
+
+a 
+
+for 
+
+the 
+
+9.48 
+
+final 
+
+purity 
+
+fluorescein 
+
+fluorescein 
+
+concentration 
+
+0.10 mol∙L–1 
+
+1.003 g∙mL–1 
+
+pH 
+(25 °C) 
+
+Mass Density 
+(22 °C) 
+
+Buffer 
+Concentration 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Preparation of the SRM:  The borate buffer solution was prepared by dissolving 18.56 g of boric acid granules in 
+slightly less than 3 L of water.  The pH was adjusted to above 9.1 using 40 mL of an approximately 3.0 mol∙L-1 NaOH 
+solution made by dissolving 29.87 g of sodium hydroxide pellets in 0.250 L of water.  The mixture was diluted to 
+3.00 L with water to give a borate buffer with a boric acid concentration of about 0.10 mol∙L-1. 
+ 
+The SRM solution was prepared in a darkened room by dissolving 0.05636 g ± 0.00004 g of fluorescein (buoyancy 
+corrected) in 2.7134 kg ± 0.0006 kg of borate buffer solution (buoyancy corrected).  The mass of fluorescein used was 
+corrected 
+of 
+yielding 
+60.97 μmol∙kg-1 ± 0.40 μmol∙kg-1.    The  fluorescein  solution  contained  in  an  amber  bottle  was  immediately 
+aliquotted  into  ampoules  that  were  subsequently  flame-sealed.    The  pH  and  mass  density  of  the  SRM  were 
+determined from measurements on four ampoules selected randomly from the lot.  
+ 
+Assignment of Uncertainties:  Standard uncertainty components equivalent to the estimated standard deviation were 
+assigned for sample inhomogeneity and measurement uncertainties.  These values were then combined with balance 
+accuracy and estimated instrument method uncertainties using the root-sum-of-squares method.  An expansion factor 
+of k = 2 was applied so that the expanded uncertainties given in this certificate express an interval within which the 
+true value is expected to fall with a level of confidence of approximately 95 % for a normal distribution [5]. 
+ 
+SRM  Stability:    NIST  monitored  the  stability  of  a  prototype  fluorescein  solution  similar  to  SRM 1932  for  over 
+24 months.  Within the error of the measurements, the absorbance spectrum and the fluorescence spectral radiance (as 
+indicated by the fluorescence signal spectrum) of the prototype solution did not change.  Therefore, SRM 1932, if 
+stored  in  the  dark  between  2 °C  to  6 °C,  is  likely  to  maintain  its  original  optical  properties  for  the  duration  of  its 
+certification period.  NIST will validate this conclusion by periodic monitoring of the stability over the lifetime of the 
+SRM (see “Maintenance of SRM Certification”). 
+ 
+INSTRUCTIONS FOR USE 
+ 
+CAUTION:  This SRM is a solution contained in tip-sealed glass ampoules with pre-scored stems.  Therefore, all 
+appropriate  safety  precautions,  including  the  use  of  gloves  during  handling,  should  be  taken  to  avoid  accidental 
+breakage or spillage.  Unopened ampoules should be stored in the dark between 2 °C to 6 °C in an upright position.  
+The ampoules should NOT be frozen because of the possibility of breakage during freezing and thawing.  Once the 
+ampoule is opened, the solution should be used promptly with minimal exposure to any light (exposure to incandescent 
+lighting  is  preferable  to  illumination  from  daylight  or  fluorescent  lighting).    Any  unused  solution  in  the  ampoule 
+should be discarded in accordance with all applicable Federal, State and Local regulations. 
+ 
+Opening  an  Ampoule:    When  an  ampoule  is  opened,  that  area  of  the  stem  where  the  pre-scored  band  is  located 
+(around the gold band) should be wiped with a clean, damp cloth and the body of the ampoule wrapped in absorbent 
+material.  Then holding the ampoule steady and with the thumb and forefinger grasping the stem above the gold band, 
+minimal thumb pressure should be applied to the stem to snap it.  Correctly done, the stem should break easily where 
+pre-scored.  The use of a metal file to break the stem is NOT recommended. 
+ 
+The  SRM 1932  solution  should  always  be  diluted  gravimetrically  at  least  one-hundred  fold  with  the  same  buffer 
+system  used  for  the  analyte  of  interest.    Subsequent  gravimetric  dilutions  can  then  be  employed  to  generate  a 
+calibration curve.  The calibration curve describes the relationship between fluorescence intensity, as determined by 
+the fluorometer and the concentration of fluorescein, as determined by the gravimetric dilution.  Care must be taken 
+in  making the gravimetric dilutions because uncertainties expand during this serial process.  An error at one level 
+adversely affects determinations at all subsequent levels.  The calibration curve measurements should be generated 
+starting with the lowest concentration.  For best results, the conditions used for determining the calibration curve such 
+as solution degassing, temperature, ionic strength, pH, etc., should closely match those used in the measurement of 
+the analyte.  Because fluorescence is a highly sensitive technique, great attention must be paid to the cleanliness of 
+glassware and any other apparatus that contacts the solutions.  Many plastics and gloves can contaminate samples with 
+small amounts of highly fluorescent materials such as release agents and plasticizers.  The running of blanks to check 
+for such contamination is highly recommended. 
+ 
+
+SRM 1932 
+
+Page 3 of 4 
+
+Depending on the solution pH, aqueous fluorescein solutions are complex, rapidly equilibrating mixtures of its several 
+forms  (cation,  neutral  species,  monoanion,  and  dianion).    Each  species  has  unique  absorbance  and  fluorescence 
+spectra.  Above pH 9, aqueous fluorescein exists almost exclusively as the highly fluorescent dianion.  However, as 
+the pH of the solution is reduced, the concentration of the dianion decreases, and the concentrations of the much less 
+fluorescent  monoanion  and  neutral  forms  increase [6].    Accordingly,  the  sensitivity  of  the  fluorometric  assay  for 
+fluorescein also decreases, and quantitation becomes very dependent on knowing or maintaining the precise pH of the 
+solutions during calibration as well during the assay itself.  While the calibration strategy described above can work 
+with  solutions  below  pH 9,  the  uncertainties  of  such  measurements  inevitably  grow  larger  as  the  solution  pH  is 
+lowered. 
+ 
+ 
+
+REFERENCES 
+ 
+[1]  Gaigalas, A.K.; Li, L.; Henderson, O.; Vogt, R.; Barr, J.; Marti, G.; Weaver, J.; Schwartz, A.; The Development 
+
+of Fluorescence Intensity Standards; J. Res. Natl. Inst. Stand. Technol., Vol. 106, pp. 381–389 (2001). 
+
+Cechnol., 
+
+[2]  Schwartz, A.;  Wang, L.;  Early, E.;  Gaigalas, A.K.;  Zhang, Y-z.;  Marti, G.E.;  Vogt, R.F.;  Quantitating 
+Stand. 
+Fluorescence  Intensity  from  Fluorophore:    The  Definition  of  MESF  Assignment;  J.  Res.  Natl.  Inst.  Stand. 
+Technol., Vol. 107, pp. 83–91 (2002). 
+
+[3]  Wang, L.; Gaigalas, A.K.; Abbasi, F.; Marti, G.E.; Vogt, R.F.; Schwartz, A.; Quantitating Fluorescence Intensity 
+From Fluorophores: Practical Use of MESF Values; J. Res. Natl. Inst. Stand. Technol., Vol. 107, pp. 339–353 
+(2002). 
+
+[4]  May, W.;  Parris, R.;  Beck, C.;  Fassett,   J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Jun 2017). 
+
+[5]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jun 2017);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jun 2017). 
+
+[6]  Diehl, H.;  Studies  on  Fluorescein–VIII;  Talanta,  Vol. 36  (7),  pp. 799–802  (1989)  and  references  therein; 
+Sjöback, R.; Nygren, J.;  Kubista, M.;  Absorption  and  Fluorescence  Properties  of  Fluorescein;  Spectrochem. 
+Acta, Part A, Vol. 51, pp. L7–L21 (1995). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  05 June 2017 (Change of expiration date; editorial changes); 18 June 2012 (Change of expiration date; editorial 
+changes); 10 December 2007 (Change of expiration date; editorial changes); 01 December 2004 (Update of absorption coefficient reference values 
+(and  related  text)  based  on  measurements  corrected  for  bias  associated  with  purity  and  fluorescence,  rather  than  photobleaching;  change  of 
+expiration date); 04 March 2003 (Original certificate date). 
+  
+ 
+ 
+ 
+T. 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+ft 
+fax 
+
+) 
+
+ 
+
+ 
+
+SRM 1932 
+
+Page 4 of 4 
+
+

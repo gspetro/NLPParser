@@ -1,0 +1,666 @@
+﻿Date of Issue:
+
+30 April 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+	SRM Number:	2490
+
+	SRM Name:  	Non-Newtonian Polymer Solution for Rheological Measurements
+
+		(Polyisobutylene dissolved in 2,6,10,14-Tetranethylpentadecane)
+
+	Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for the evaluation of methods for analysis of materials of similar matrix.  A unit of SRM 2490 consists of 100 mL of the solution, which contain a mass fraction of 0.114 polyisobutylene and is packaged in an amber glass bottle.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+	1-800-424-9300 (North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+	+1-703-527-3887 (International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+	
+
+2. HAZARDS IDENTIFICATION
+
+Classification
+
+Physical Hazard:	Not classified.
+
+		Health Hazard:	Skin Corrosion/Irritant 	Category 2
+
+	Eye Damage and Irritation	Category 2A
+
+Label Elements
+
+Symbol
+
+
+
+Signal Word
+
+WARNING
+
+Hazard Statement(s)
+
+H315
+
+Causes skin irritation.
+
+H319
+
+Causes serious eye irritation.
+
+Precautionary Statement(s)
+
+P264
+
+Wash hands thoroughly after handling.
+
+P280
+
+Wear protective gloves and clothing and eye protection.
+
+P302+P352
+
+If on skin:  Wash with plenty of water.
+
+P333+P313
+
+If skin irritation or rash occurs, get medical attention.
+
+P305+P351+P338
+
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses if present and easy to do.  Continue rinsing.
+
+P337+P313
+
+If eye irritation persists:  Get medical attention.
+
+P362+P364
+
+Take off contaminated clothing and wash it before reuse.
+
+Hazards Not Otherwise Classified:  None.
+
+Ingredients(s) with Unknown Acute Toxicity:  None.
+
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+Substance:  2,6,10,14-Tetramethylpentadecane
+
+Other Designations:  pristane; robuoy; norphytane
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200.  See the NIST Certificate of Analysis for actual concentration.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+2,6,10,14-Tetramethylpentadecane
+
+		1971-70-6
+
+217-650-8
+
+100
+
+	
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to wellventilated (uncontaminated) area.  If breathing is difficult, qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  Seek immediate medical attention. 
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes, and then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and bring the container or label.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, seek medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract, skin, and eye irritation
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Slight fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+	Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam.
+
+	Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 2	Fire = 1	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Absorb with sand or other non-combustible material.  Collect in an appropriate container for proper disposal.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Use suitable personal protection equipment (PPE).  See Section 8, “Exposure Controls and Personal Protection”.
+
+	Storage and Incompatible Materials:  Store in a wellventilated area.
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  No occupational exposure limits have been established for this material.  
+
+				Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate PPE to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+
+
+Properties
+
+2,6,10,14-Tetramethylpentadecane
+
+Molar Mass (g/mol)
+
+268.53
+
+Molecular Formula
+
+C19H40
+
+Appearance (physical state, color, etc.)
+
+clear, colorless liquid
+
+Odor
+
+faint odor
+
+Odor threshold
+
+not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+–100 °C to –60 °C (–148 °F to –76 °F)
+
+Relative Density as Specific Gravity (water = 1)
+
+0.775 to 0.795
+
+Density
+
+not available
+
+Vapor Pressure
+
+not available
+
+Vapor Density (air = 1)
+
+not available
+
+Viscosity
+
+5 cP at 25 °C
+
+Solubilities
+
+insoluble in water
+soluble in benzene, carbon tetrachloride, chloroform, ether, organic solvents, petroleum ether
+
+Partition coefficient (noctanol/water)
+
+not available
+
+Thermal Stability Properties
+
+290 °C to 296 °C (554 °F to 565 °F)
+
+Autoignition Temperature
+
+not available
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+not available
+
+Explosive Limits, LEL (Volume %)
+
+not available
+
+Explosive Limits, UEL (Volume %)
+
+not available
+
+Flash Point
+
+>110 °C (>230 °F)
+
+Flammability (solid, gas)
+
+not applicable
+
+	
+
+10. STABILITY AND REACTIVITY
+
+Reactivity:  This material is stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact with incompatible materials..
+
+Incompatible Materials:  Oxidizing materials.
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause skin irritation and eye irritaiton.  May aggravate respiratory disorders.  
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+Inhalation:  Inhalation of may cause severe irritation.  Inhalation of high concentrations may be destructive to the respiratory tract and mucous membranes.  Symptoms include a burning sensation, coughing, wheezing, headache, nausea, and vomiting.
+
+Skin Contact:  Acute exposure to the skin may cause irritation.  Exposure to high concentrations may be destructive to the skin tissues.  Repeated or prolonged exposure may cause dermatitis.
+
+Eye Contact:  Acute exposure to the eye may cause irritation; high concentrations may be destructive to the eye tissues.  Repeated or prolonged exposure may cause conjunctivitis.
+
+Ingestion:  Ingestion is harmful.  Can be irritating to mouth, throat, and stomach.  Symptoms may include nausea, headache, and vomiting.
+
+Numerical Measures of Toxicity
+
+Acute toxicity: No data available.
+
+Skin corrosion/irritation:  Category 2, Irritant.
+
+Skin, man: 50 mg (48 h) severe
+
+Skin, rabbit:  100 mg (24 h) severe
+
+Skin, rat:  100 mg (24 h) severe
+
+Serious eye damage/eye irritation:  Category 2A.
+
+May cause severe irritation.
+
+Respiratory sensitization:  No data available.
+
+Skin sensitization:  No data available.
+
+Germ Cell Mutagenicity:  No data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+				
+
+				Yes
+
+				X
+
+				No
+
+2,6,10,14-Tetramethylpentadecane is not listed by OSHA, IARC, or NTP as a carcinogen or potential carcinogen.
+
+Reproductive Toxicity:  No data available.
+
+Specific Target Organ Toxicity, Single Exposure:  No data available.
+
+Specific Target Organ Toxicity, Repeated Exposure:  No data available.
+
+Aspiration hazard:  Not applicable.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:  No data available.
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+	U.S. DOT and IATA:  Not regulated by DOT and IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21)
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  2,6,10,14-tetramethylpentadecane is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+16. OTHER INFORMATION
+
+	Issue Date:	30 April 2015
+
+	Sources:	ChemADVISOR, Inc., SDS , 2,6,10,14-Tetramethylpentadecane, 15 December 2014.
+
+		Vendor SDS, Sigma-Aldrich Safety Data Sheet, Pristane, Revision Date 09 July 2014.
+
+		
+
+
+
+
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STOT
+
+Specific Target Organ Toxicity
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STEL 
+
+Short Term Exposure Limit 
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 2490		Page 2 of 5

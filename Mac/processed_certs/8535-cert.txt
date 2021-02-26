@@ -1,0 +1,676 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Materials 8535, 8536, 8537 
+
+(In cooperation with the International Atomic Energy Agency) 
+
+ 
+
+(δ2H VSMOW, δ18OVSMOW) 
+8535:  VSMOWVienna Standard Mean Ocean Water  
+(δ2H VSMOW, δ18OVSMOW) 
+8536:  GISPGreenland Ice Sheet Precipitation (Water) 
+8537:  SLAPStandard Light Antarctic Precipitation (Water) (δ2H VSMOW, δ18OVSMOW) 
+
+eck internal laboratory standards.  They are 
+
+llows the investigators to obtain stable hydrogen and 
+
+ VSMOW was prepared by R. Weiss and H. Craig of the Scripps Institution of 
+
+ 
+These Reference Materials (RMs) are intended to provide  water samples of known isotopic composition concerning 
+2H/1H and  18O /16O isotope ratios and should be used to calibrate/ch
+distributed by NIST on behalf of the International Atomic Energy Agency (IAEA), Vienna, Austria.   Each RM unit 
+consists of 20 mL water in a sealed glass ampoule.  Sinc e only very limited quantities of  these materials exist, the 
+distribution is limited to one unit of each per three-year period of time.  
+ 
+The use of VSMOW and SLAP in different laboratories a
+oxygen isotope ratio data which are comparable worldwide  [1,2].  GISP, with its isotopic composition intermediate 
+to VSMOW and SLAP, is considered to be a secondary reference material.  For the effects of the normalized δ-scale 
+on GISP values, see the relevant IAEA interlaboratory comparison program reports [3,4]. 
+ 
+Sample Preparation: 
+Oceanography, La Jolla, CA.  Distilled ocean water was mi xed with small amounts of other water collected in the 
+Pacific Ocean in July 1967 at latitude 0 ° and longitude 180 ° in order to adjust its isotopic composition as closely as 
+possible to that of Standard Mean Ocean Water (SMOW) [1,2 ].  SLAP was obtained from a South Pole firn sample 
+collected by E. Picciotto, Univ ersité Libre de Bruxelles, at Plateau Stat
+prepared by W. Dansgaard, University of Copenhagen, Copenhagen, Denmark from a sample of Greenland firn [6]. 
+ 
+Expiration of Reference Values:   The reference values for the isotopic composition of RM 8535, RM 8536, and 
+RM 8537 are valid indefinitely, provided they are handled and stored in accordance with the instructions given in 
+this report, (see “Instructions for Us e”).  This certification is nullified if 
+the SRM is contaminated, or the glass 
+ampoule container is damaged.    
+ 
+Maintenance of Reference Values:   The isotopic compositions of these RM s are monitored on a yearly basis.  If 
+substantive changes occur to the values, NIST will notify the purchaser.  Return of the attached registration card will 
+facilitate notification.  
+ 
+Technical coordination for these RMs was provided by R.D. Vocke, Jr., of the NIST Analytical Chemistry Division.   
+ 
+The support aspects involved  in the issuance of these RMs was coordinated through the NIST Standard Reference 
+Materials Program by B.S. MacDonald of the NIST Measurement Services Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  03 March 2005 
+See Report Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+ion, Antarctica, in 1967 [5].  GISP was 
+
+RMs 8535, 8536, 8537  
+
+ 
+
+Page 1 of 5 
+
+ed under normal laboratory  conditions in an upright 
+
+INSTRUCTIONS FOR USE 
+ 
+Storage:   It is recommended that each of these RMs be stor
+position inside the original container supplied by NIST. 
+ 
+Handling:  Each RM ampoule should be used immediately after opening to avoid evaporation and isotopic 
+exchange with atmospheric water vapor.  Users are strongly advised to prepare their own internal standard s for daily 
+use and calibrate those standards against these RMs.  In case not all the RM material is used up completely for the 
+calibration after opening the glass ampoule, the remaining quantity of original RM can be transferred immediately to 
+small, dry, glass vials with conical plastic insert caps to prevent evaporation.  Each vial should be weighed 
+immediately after closure for monitoring long-term evaporation losses by water vapor diffusion thro ugh the plastic 
+stopper and thus to prove functionality of the material.  Any quantity of a RM already used for isotopic 
+measurements should NOT be used again for this purpose since the isotopic signature will have been altered during 
+the measurement. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Homogeneity:  The two standards, VSMOW and SLAP, were prepared following a recommendation of an Advisory 
+Group Meeting convened by the IAEA in 1966 [5].  VSMOW was obtained by mixing distilled ocean water with 
+small amounts of other water and has been distributed by the IAEA since 1968.  According to control analyses made 
+by Craig, VSMOW has the same  18O/16O-ratio as the defined SMOW, but a slightly lower  2H/1H-ratio (0.2 ‰) that 
+lies within the analytical measurement uncertainty of most laboratories.  About 30 L of VSMOW were stored in 
+10 L storage flasks in the IAEA Laboratory, Vienna, Austria; an additional 20 L were stored at NIST (forme
+NBS), Gaithersburg, MD.  RM 8535 VSMOW, RM 8536 GISP, and RM 8537 SLAP are distributed in 20 mL 
+ampoules.  The isotopic homogeneity of  the different charges and of the filli ng procedure have been cross-checked 
+before distribution.  These checks revealed identical values within the experimental uncertainty .  In some ampoules 
+and in one 10 L primary storage flask of the U.S. (NIST) supply of VSMOW, bright orange matte r (possibly algae) 
+had been observed.  However, NIST measurements showed that, within the experimental uncertainty, th e algae does 
+not affect the isotopic composition [7]. 
+ 
+Normalization:  The δ-values are stated, and should always be reported, in parts per thousand difference [‰] from 
+the VSMOW isotope-ratio calibration standard. 
+ The adoption of VSMOW as zero of the  δ scale and of prefixed 
+values for SLAP corresponds with the definition of the δ value normalized on the VSMOW-SLAP scale [3]:  
+ 
+ 
+ 
+ 
+ 
+ 
+where  R 
+ 
+ 
+This  δ-definition of Equation (1) coincides with the classical one [1] only if 
+measured ratio RSLAP, corresponds exactly to recommended value δSLAP. 
+ 
+Recommended Reference Material Values:   Table 1 shows the recommended  δ 2HVSMOW and  δ 18OVSMOW values 
+for RM 8535 VSMOW, RM 8536 SLAP, and RM 8537 GISP.  The GISP value is based on the VSMOW/SLAP 
+scale.  It is the statistically evaluated result of data 
+uncertainty” is evaluated by multiplying the standard uncertainty with a coverage factor, 
+guidelines in NIST Technical Note 1297 [17]. 
+
+is the measured isotopic ratio of 2H/1H or 18O/16O, and  
+is the conventionally fixed 2H or 18O value (see Table 1). 
+
+from two intercomparison exercises [3,16].  The “expanded 
+k = 2, following the 
+
+f = 1, that is if the 
+
+δ-value of the 
+
+) 1] 1000
+− ×
+
+VSMOW
+−
+
+sample
+[(
+
+δSLAP 
+
+(1) 
+
+rly 
+
+VSMOW
+
+VSMOW
+
+δ
+
+δ
+
+SLAP
+
+SLAP
+
+) /
+
+[(
+
+R
+
+R
+
+R
+
+R
+
+R
+
+=
+
+×
+
+=
+
+]
+
+f
+
+f
+
+RMs 8535, 8536, 8537  
+
+ 
+
+Page 2 of 5 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Table 1.  RM 8535, RM 8536, and RM 8537 Reference Values 
+
+ 
+IAEA  
+name 
+
+ 
+NIST 
+number 
+
+ 
+Material 
+
+ 
+δ2HVSMOW
+[‰] 
+
+Standard 
+deviation 
+ [‰] 
+
+ 
+δ18OVSMOW
+[‰] 
+
+Standard 
+deviation 
+ [‰] 
+
+ 
+Authors 
+
+VSMOW  RM 8535  water 
+
+0 0  0 0 
+
+GISP RM 
+
+8536 water 
+
+SLAP RM 
+
+8537 water 
+
+− 189.5 
+
+− 428.0 
+
+1.2 
+
+0 
+
+− 24.78 
+
+− 55.5 
+
+0.09 
+
+this report [3,16] 
+
+0 [3,4,8] 
+
+convention 
+
+ 
+Isotope Abundance of VSMOW:  VSMOW is the isotopic standard to which GISP, SLAP, and most other oxygen-
+bearing substances are compared [8 ].  Due to the definition of the 
+δ scale, the  δ value of VSMOW equals zero.  
+Table 2 lists the absolute hydrogen  and oxygen isotope abundance of VSMO W and the calculated atom percent of 
+1H or 16O, respectively.  The quoted uncertainties include one of the measurements and that of the absolute values of 
+the calibration mixtures.  Values in parentheses are calculated.   NOTE:  “mass spec.” stands for mass spectrometric  
+measurement; “FT-NMR” stands for Fourier-Transform Nuclear Magnetic Resonance. 
+ 
+
+Table 2.  RM 8535 VSMOW Isotopic Abundance Values  
+
+[1,2] definition 
+
+ 
+
+ 
+
+Standard 
+Deviation  
+[10-6 ] 
+
+Atom Percent 
+of 1H, 18O and 17O
+[%] 
+
+Standard 
+Deviation 
+[%] 
+
+ 
+Method 
+
+ 
+Authors 
+
+Isotope 
+ 
+Isotope  
+Ratio  
+[10-6 ] 
+Ratio 
+2H /1H 155.76  0.05 
+
+(99.984426) (0.000005) mass 
+
+2H /1H 155.75  0.08 
+
+(99.984427) (0.000008) mass 
+
+2H /1H 155.60  0.12 
+
+(99.984442) (0.000012)  FT-NMR  [11] 
+
+18O/16O 2005.20 
+
+0.45 
+
+(0.20004)  (0.00005)  mass 
+
+17O/16O 379.9 
+
+0.8 
+
+(0.03790) (0.00009)  mass 
+
+spec.  [9] 
+
+spec. [10] 
+
+spec. 
+
+[12] 
+
+spec.  [13] 
+
+ 
+ 
+Isotope Abundance of SLAP:  The oxygen and hydrogen isotope ratio scales are defined in terms of VSMOW and 
+SLAP such that the hydrogen and oxygen composition of SLAP relative to VSMOW is -428 ‰ and -55.5 ‰, 
+respectively.  These  δ values for SLAP were conventionally fixed at the IAEA Consultants Meeting on Stable 
+Isotope Standards in 1976, Vienna, Austria, on the basis of a data set achieved in an interlaboratory comparison [5]. 
+Participating scientists and laboratories included in the measurement of SLAP and the reported  δ values are given in 
+reference 14.  Table 3 gives values for the absolute hydrogen and oxygen isotope abundance of SLAP, the calculated 
+atom percent of  1H or  18O, and the calculated  δ values, respectively.  The quoted  uncertainties in clude one of the 
+measurements and that of the absolute values of the calibration mixtures.  Values in parentheses are calculated.  
+ 
+
+Table 3.  RM 8536 SLAP Isotopic Abundance Values 
+
+ 
+Isotope- 
+Ratio 
+2H /1H 89.02 0.05 
+
+Isotope 
+Ratio  
+[10-6 ] 
+
+(99.991099) 
+
+(0.000005)
+
+2H /1H 89.12 0.07 
+
+(99.991089) 
+
+(0.000007)
+
+2H /1H 88.88 0.18 
+
+(99.991113) 
+
+(0.000018)
+
+Standard 
+Deviation 
+[10-6 ] 
+
+Atom Percent 
+of 1H 
+[%] 
+
+Standard 
+Deviation 
+[%] 
+
+Standard 
+Deviation
+[‰] 
+
+ 
+Method 
+
+ 
+Authors 
+
+ 
+δ Value
+[‰] 
+
+−428.5 
+
+−427.8 
+
+−428.8 
+
+0.1 mass 
+
+spec. [9] 
+
+0.5 mass 
+
+spec. [10] 
+
+1.2 FT-NMR [11] 
+
+18O/16O (1893.91)  (0.45) 
+
+Computed from VSMOW using δ18O = −55.5 ‰  
+
+RMs 8535, 8536, 8537  
+
+ 
+
+Page 3 of 5 
+
+Isotope Abundance of GISP:   The isotopic composition of GISP has been determined in two interlaboratory 
+comparison exercises [3,16].  The re ported final consensus values relative to VSMOW and normalized on the 
+VSMOW/SLAP scale are given in Table 4.   Intercalibration average values of  the accepted data, standard deviation 
+(1σ) and standard uncertainty (1σ/√ n) of GISP were reported to the IAEA in 1984 and 1995.  Data in first row:  data 
+within the 2 σ-range of all reported values have been accepted [5];  data in second row:  va lues are the results of a 
+two step statistical treatment [16]; data in third row:  statistical re-evaluation of both data sets [5] and [16], 
+interquartile rejection criterion ([16], step I.) 
+ 
+
+Table 4.  RM 8537 GISP Isotopic Abundance Values 
+
+ 
+
+ 
+
+ 
+δ2H Value 
+[‰] 
+
+Standard 
+Deviation 
+[‰] 
+
+Number of Accepted 
+Results n 
+ (Reported Results) 
+
+ 
+δ18O Value
+[‰] 
+
+Standard 
+Deviation
+[‰] 
+
+Number of Accepted 
+Results n 
+ (Reported Results) 
+
+ 
+Authors 
+
+−189.7 
+
+−189.2 
+
+−189.5 
+
+1.1 45 
+
+1.2 19 
+
+1.2 67 
+
+(48) 
+
+(22) 
+
+(70) 
+
+−24.80 
+
+−24.76 
+
+−24.78 
+
+0.09 49 
+
+0.08 21 
+
+0.09 71 
+
+(52) 
+
+[3] 
+
+(23)  [16] 
+
+(75) 
+
+this report 
+
+ 
+Information Values:   The absolute maximum density of VSMOW is 999.975 kg/m 3 [18].  The tritium activity 
+± 3.6 TU  on  16 September 
+concentration of VSMOW, determined at the IAEA by direct gas counting, was 18.5 
+1976.  The tritium activity concentration of SLAP was 374  ± 9 TU on 16 September 1976.  Both values are reported 
+with their standard deviation (1 σ).  The  17O/16O ratios of GISP and SLAP have been determined in six individual 
+measurements each [19].  The reported  δ17O values [‰] on the VSMOW/SLAP scale are -12.71 ‰  
+0.05) ‰ for GISP and -28.86 ‰  ± (0.03 to 0.12) ‰ for SLAP.  The numbers in parentheses give the range of the 
+standard deviation of the individual measurements.  The extended uncertainty is reported to be ± 0.1 ‰. 
+
+± (0.03  to 
+
+RMs 8535, 8536, 8537  
+
+ 
+
+Page 4 of 5 
+
+REFERENCES 
+ 
+Isotopic Variations in Meteoric Waters. Science, Vol. 133, pp. 1702−1703 (1961). 
+Standard for Reporting Concentrations of Deuterium and Oxygen-18 in Natural Wa
+
+[1] Craig, H.; 
+[2] Craig, H.; 
+
+ters; Science, 
+
+Vol. 133, pp. 1833−1834 (1961). 
+
+[3] Gonfiantini, R.; 
+
+Report on an Advisory Group Meeting on Stable Isotope Reference Samples for Geochemical 
+
+and Hydrochemical Investigations; IAEA, Vienna, Austria (1983). 
+
+[4]  Gonfiantini, R.; Rozanski, K.; Stichler, W.; 
+
+Intercalibration of Environmental Isotope Measurements: The 
+
+Program of the International Atomic Energy Agency; Radiocarbon, Vol. 32, No. 3, pp. 369−374 (1990). 
+
+[5] Gonfiantini, R.; 
+
+Standards for Stable Isotope Measurements in Natural Compounds , Nature, Vol. 271, 
+
+pp. 534−536 (1978). 
+
+[6] Hut, G.; 
+
+Report on the Consultants Group Meeting on Stable Isotope Reference Samples for Geochemical and 
+
+Hydrological Investigations; IAEA, Vienna, Austria (1987).  
+
+al  Institute  of  Standards  and 
+[7]  Coplen, T.; Hopple, J.;  Audit of VSMOW Distributed by the United States National Institute of Standards and 
+, 1 −3 December 1993, IAEA-TECDOC-
+
+Technology. Proceedings of a Consultants Meeting Held in Vienna
+825, pp. 35−38 (1995). 
+
+[8] Coplen, T.; 
+
+Normalization of Oxygen and Hydrogen data, Chemical Geology (Isotope Geoscience 
+
+Section), 
+
+Vol. 72, pp. 293−297 (1988). 
+
+[9]  Hagemann, R.; Nief, G.; Roth, E.; Absolute Isotopic Scale for Deuterium Analysis of Natural Waters. Absolute 
+
+D/H ratio for SMOW, Tellus, Vol. 22, pp. 712−715 (1970). 
+
+[10]  De Wit, J.C.; van der Straaten, C.M.; Mook, W.G .; Determination of the Absolute Hydrogen Isotopic Ratio of 
+
+VSMOW and SLAP, Geostandards Newsletter, Vol. 4, No. 1, pp. 33−36 (1980). 
+
+[11] Tse, R.S.; Wong, S.C.; Yuen, C.P.; 
+
+Determination of Deuterium/Hydrogen Ratios in Natural Waters by 
+
+Fourier Transform Nuclear Magnetic Resonance Spectrometry; Analytical Chemistry, Vol. 52, pp. 2445−2448 
+(1980). 
+
+[12] Baertschi, P.;  Absolute  18O Content of Standard Mean Ocean Water
+
+; Earth and Planetary Science Letters, 
+
+Vol. 31, pp. 341−344 (1976).  
+[13]  Li, W.; Ni, B.; Jin, D.; Chang, T.L
+
+.;  Measurement of the Absolute Ab undance of Oxygen-17 in VSMOW , 
+
+Kexue Tongbao, Chinese Science Bulletin, Vol. 33, pp.1610−1613 (1988). 
+
+[14] Gonfiantini, R.;  Report on the Consultants Meeting on Stable Isotope Standards and Intercalibration in 
+
+Hydrology and in Geochemistry, Vienna, 8−10 September 1976, IAEA, Vienna, Austria (1977). 
+
+[15]  Gonfiantini, R.; Stichler, W.; Rozanski, K.; 
+
+Standards and Intercomparison Materials Distributed by the 
+
+International Atomic Energy Agency for Stable Isotope Analysis;  Proceedings of a consultants meeting held in 
+Vienna, 1−3 December 1993, IAEA-TECDOC-825, 13−29 (1995). 
+
+[16] Araguás, L.; Rozanski, K.; 
+
+Interlaboratory Comparison for Deuterium and Oxygen-18 Analysis of 
+
+Precipitation Samples, Unpublished Report, IAEA, Vienna, Austria (1995). 
+
+[17]  Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluation and Expressing the Uncertainty of NIST Measurement 
+
+Results, NIST Technical Report Note 1297 (1994 Edition). 
+
+[18]  Girard, G.; Menaché, M.; Sur le Calcul de la Masse
+
+Volumique  de  L*eau  C.R.  Acad.  Sci,  Paris,  Vol.  274, 
+ Volumique de L`eau C.R. A cad. Sci, Paris, Vol. 274, 
+
+pp. 377−379 (1972). 
+
+[19]  Jabeen, I.; Kusakabe, M .; Determination of  δ17O values of Reference Wa ter Samples VSMOW and SLAP ; 
+mmples  VSMOW  and  SLAP 
+
+Chemical Geology, Vol. 143, pp. 115−119 (1997). 
+
+  
+
+ 
+ 
+ 
+ 
+Report Revision History:  03 March 2005 (Extension of expiration date); 19 May 2001 (T his technical revision reports changes in the reference 
+   
+values and establishes an expiration date); 15 October 1992 (Original report date). 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  tele phone (301) 975-6776; fax (301) 926-4 751; e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+
+RMs 8535, 8536, 8537  
+
+ 
+
+Page 5 of 5 
+
+

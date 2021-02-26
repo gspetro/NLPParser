@@ -1,0 +1,411 @@
+﻿ 
+SRM Supplier:   National Institute of Standards and Technology  SRM Number:   3066 
+
+MATERIAL SAFETY DATA SHEET 
+
+  Standard Reference Materials Program 
+  100 Bureau Drive, Mail Stop 2321 
+  Gaithersburg, Maryland 20899-2321 
+ 
+
+ 
+
+MSDS Number:   3066 
+SRM Name:   Chlorinated Herbicides-II in  
+ 
+Date of Issue:  20 May 2003 
+
+Methanol 
+
+MSDS Coordinator:  Carmen S. Davis 
+Phone:  (301) 975-6776 
+ChemTrec:  1-800-424-9300 
+
+SECTION I.  MATERIAL IDENTIFICATION 
+
+FAX:  (301) 926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+ 
+
+Material Name:  Chlorinated Herbicide-II in Methanol 
+ 
+Description:    SRM  3066  consists  of five 2-mL ampoules, each containing approximately 1.2 mL of a solution of 
+chlorinated herbicides in methanol. 
+ 
+Other  Designations:    Chlorinated  Herbicides  in  Methanol  (methyl  alcohol;  wood  alcohol;  methyl  hydroxide; 
+carbinol;  monohydroxymethane;  wood  spirit;  wood  naphtha;  methylol;  Colonial  Spirit*;  Columbian  Spirit*; 
+Pyroxylic Spirit*) 
+ 
+Name 
+Methanol 
+ 
+DOT Classification:  Methanol, UN1230   (Small Quantity Exemption) 
+ 
+Manufacturer/Supplier:  Available from a number of suppliers 
+ 
+* Trade name 
+ 
+**For  the  CAS  Registry  Numbers  of  the  chlorinated  herbicides  in  this  material,  refer  to  the  corresponding  Certificate  of 
+Analysis. 
+ 
+
+CAS Registry Number** 
+67-56-1 
+
+Chemical Formula 
+CH3OH 
+
+SECTION II.  HAZARDOUS INGREDIENTS 
+
+ 
+
+Methanol 
+
+Hazardous Components 
+
+Nominal Concentration (%) 
+
+Exposure Limits and Toxicity Data 
+
+99 
+
+ACGIH TLV-TWA (skin):   200 mg/kg or 262 mg/m3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OSHA TLV-TWA (skin):   200 mg/kg or 262 mg/m3 
+
+Human, Inhalation:  TCLO:   86 000 mg/m3 
+
+Human, Inhalation:  TCLO:   300 mg/kg 
+
+Human, Oral:  LDLO:   143 mg/kg 
+
+Man, Oral:  TDLO:   3 429 mg/kg 
+
+Rat, Oral:  LD50:   5 628 mg/kg 
+
+Chlorinated Herbicides: 
+
+Dinoseb 
+
+2,4,5-T 
+
+Pentachlorophenol 
+
+< 0.1 % 
+
+Not applicable 
+
+ 
+NOTE:  This material contains chlorinated herbicides, many of which have been reported to have toxic, mutagenic, 
+and/or  carcinogenic  properties,  and  should  be  handled  with  care.    The  carcinogens  in  this  material  have  a  total 
+concentration  <  0.1  %  and  DO  NOT  require  individual  MSDS  information  under  current  regulations.    For  actual 
+concentrations, see the corresponding Certificate of Analysis. 
+
+MSDS 3066 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SECTION III.  PHYSICAL/CHEMICAL CHARACTERISTICS 
+
+Methanol 
+
+Appearance and Odor:  a clear, colorless 
+liquid with a characteristic alcoholic odor 
+
+Vapor Pressure (@ 20 °C):   97.25 mm Hg 
+
+Relative Molecular Mass:   32.04 
+
+Evaporation Rate (butyl acetate = 1):   4.6 
+
+Density:   0.7914 g/mL 
+
+Viscosity (@ 20 °C):   0.59 cP 
+
+Boiling Point:   65 °C 
+
+Freezing Point:  -94 °C 
+
+Water Solubility:   soluble 
+
+Solvent Solubility:  soluble in ether, benzene, 
+alcohol, acetone, chloroform, ethanol, ketones, 
+and most other organic solvents 
+
+SECTION IV.  FIRE AND EXPLOSION HAZARD DATA 
+
+ 
+Methanol 
+Flash Point:  11 °C 
+ 
+Flammability Limits in Air (Volume %):  UPPER: 
+
+LOWER: 
+
+36 
+6.0 
+
+Method Used:  Closed Cup 
+
+Autoignition Temperature:  385 °C 
+
+ 
+Unusual Fire and Explosion Hazards:  Methanol is a severe fire and explosion hazard when exposed to heat or 
+flame.  Vapors are heavier than air and may travel a considerable distance to a source of ignition and flash back. 
+Vapor and air mixtures are explosive. 
+
+Chlorinated herbicides are a negligible fire hazard. 
+ 
+Extinguishing Media:  Use alcohol-resistant foam, dry chemical, carbon dioxide, or water spray. 
+ 
+Special Fire Procedures:  Fire fighters should wear a self-contained breathing apparatus (SCBA) with a full face 
+piece in the pressure demand or positive mode and other protective clothing. 
+
+MSDS 3066 
+
+Page 2 of 4 
+
+ 
+
+SECTION V.  REACTIVITY DATA 
+
+ 
+
+X 
+
+Stable 
+
+Unstable 
+
+ 
+Stability: 
+ 
+Conditions  to  Avoid:    Avoid  contact  with  heat,  sparks,  flames,  or  other  sources  of  ignition.   Avoid inhalation of 
+vapors or combustion by-products.  Avoid contact with the skin.  DO NOT allow the material to contaminate water 
+sources. 
+ 
+Incompatibility (Materials to Avoid):  Methanol is incompatible with halo carbons, combustible materials, metals, 
+oxidizing materials, halogens, metal carbide, bases, and acids. 
+ 
+Chlorinated herbicides are incompatible with oxidizing materials. 
+ 
+See Section IV:  Unusual Fire and Explosion Hazards 
+ 
+Hazardous  Decomposition  or  By-products:    Thermal  decomposition  products  of  methanol  may  include  toxic 
+oxides of carbon.   
+ 
+Thermal decomposition products of chlorinated herbicides may include halogenated compounds. 
+ 
+Hazardous Polymerization 
+ 
+ 
+
+X  Will Not Occur 
+
+Will Occur 
+
+ 
+
+SECTION VI.  HEALTH HAZARD DATA 
+
+X 
+
+X 
+
+X 
+
+Skin 
+
+Inhalation 
+
+  Ingestion 
+
+ 
+Route of Entry: 
+ 
+Methanol:  Methanol is a fatal poison.  This material is harmful if inhaled or absorbed through skin.  Ingestion may 
+be fatal or cause blindness.  Symptoms of exposure may include burning sensation, coughing, wheezing, laryngitis, 
+shortness  of  breath,  headache,  nausea,  and  vomiting.    Exposure  can  cause  damage  to  the  eyes,  liver,  heart,  and 
+kidneys. Methanol may also cause gastrointestinal disturbances, convulsions, and/or nerve damage. 
+ 
+Chlorinated  Herbicides:    Exposure  to  chlorinated  herbicides  can  cause  cough,  confusion,  ataxia,  headache, 
+weakness, and dizziness.  Ingestion may cause abdominal pain, nausea, vomiting, and diarrhea.  Herbicides are liver 
+toxins. 
+ 
+Medical Conditions Generally Aggravated by Exposure:  Methanol may affect eye disorders, kidney disorders, 
+skin disorders, and allergies.  Chlorinated herbicides may affect liver and convulsive disorders. 
+ 
+Listed as a Carcinogen/Potential Carcinogen (Methanol): 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+Listed as a Carcinogen/Potential Carcinogen (Chlorinated Herbicides)*: 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+ 
+* Many chlorinated herbicides are classified as carcinogens or potential carcinogens. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes 
+ 
+ 
+ 
+
+Yes 
+* 
+* 
+* 
+
+No 
+X 
+X 
+X 
+
+No 
+* 
+* 
+* 
+
+MSDS 3066 
+
+Page 3 of 4 
+
+ EMERGENCY AND FIRST AID PROCEDURES: 
+ 
+
+Skin  Contact:    Remove  contaminated  shoes  and  clothing.    Rinse  affected  area  with  large  amounts  of  water 
+followed by washing the area with soap and water.  Watch for chemical irritations and treat them accordingly. 
+Obtain medical assistance if necessary.  
+ 
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 
+15 minutes.  Obtain medical assistance. 
+ 
+Inhalation:  If inhaled, move the victim to fresh air.  If breathing is difficult, give oxygen; if the victim is not 
+breathing, give artificial respiration.  Obtain medical assistance if necessary.  
+ 
+Ingestion:  If ingested, wash out mouth with water.  Obtain medical assistance immediately.   
+
+TARGET ORGAN(S) OF ATTACK:  Methanol:  central nervous system (CNS) 
+ 
+ 
+
+Chlorinated Herbicides:  liver 
+
+SECTION VII.  PRECAUTIONS FOR SAFE HANDLING AND USE 
+
+ 
+
+ 
+
+Steps to be Taken in Case Material Is Released or Spilled:  Notify safety personnel of major spills and/or leaks. 
+Evacuate nonessential personnel.  Absorb small spills with sand or other absorbent material and place into containers 
+for disposal.  DO NOT flush into a sewer.  Keep out of watersheds and waterways. 
+ 
+Waste Disposal:  Follow all federal, state, and local laws governing disposal. 
+ 
+Handling and Storage:  Persons handling this material must wear protective eyewear, clothing, and gloves to prevent 
+contact with this material.  This material contains chlordane, which has been reported to have possible carcinogenic 
+properties, and should be handled with care. 
+ 
+
+NOTE:  Contact lenses pose a special problem; soft lenses may absorb irritants and all lenses 
+concentrate them.  DO NOT wear contact lenses in the laboratory. 
+
+ 
+Protect containers from physical damage.  Sealed ampoules, as received, should be stored in the dark at temperatures 
+lower than 30 °C.  Keep material in a well-ventilated area away from incompatible materials. 
+ 
+
+ 
+SECTION VIII.  SOURCE DATA/OTHER COMMENTS  
+
+Merck Index, 11th Ed., 1989. 
+The Sigma Aldrich Library of Chemical Safety Data, Ed. II, 1988. 
+
+ 
+Sources:  MDL Information Systems, Inc., MSDS Methyl Alcohol, 19 June 2001. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  Physical and chemical data contained in this MSDS are provided only for use in assessing the hazardous 
+nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does not certify 
+the data on the MSDS.  The certified value for this material is given in the NIST Certificate of Analysis. 
+
+MSDS 3066 
+
+Page 4 of 4 
+
+

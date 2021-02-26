@@ -1,0 +1,679 @@
+﻿Date of Issue:  
+16 June 2015 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2900 
+Ethanol-Water Solution (Nominal Mass Fraction 95.6 %) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  calibration  of  instruments  and 
+techniques used for the determination of ethanol in water-based media.  A unit of SRM 2900 consists of five 
+10-milliliter ampoules each containing approximately 10 mL of ethanol in water at a nominal concentration of 
+95.6 % by mass. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Physical Hazard: 
+Health Hazard:  
+
+Flammable Liquid 
+Not classified. 
+
+Category 2 
+
+Classification 
+
+Label Elements 
+Symbol  
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+H225 
+
+Highly flammable liquid and vapor. 
+
+Precautionary Statement(s) 
+P210 
+P233 
+P241 
+P242 
+P243 
+P280 
+
+Keep away from heat, sparks, open flames, and hot surfaces. — No smoking. 
+Keep container tightly closed. 
+Use explosion-proof electrical, ventilating, and lighting equipment.  
+Use only non-sparking tools. 
+Take precautionary measures against static discharge. 
+Wear eye protection, protective gloves and clothing. 
+
+P303+P361+P353 
+
+If on skin (or hair): Take off immediately all contaminated clothing.  Rinse skin with water. 
+
+P403+P235 
+
+Store in a well-ventilated place.  Keep cool. 
+
+P501 
+
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+SRM 2900 
+
+ 
+
+Page 1 of 6 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Ethanol-Water Solution (nominal 95.6 % by mass) 
+
+Other Designations:  Ethanol (Ethyl alcohol; grain alcohol; ethyl hydroxide; ethyl hydrate; algrain; methyl carbinol; 
+cologne spirits; fermentation alcohol; absolute alcohol; C2H5OH). 
+
+Components listed below are in compliance with OSHA’s 29 CFR 1910.1200; see the Certificate of Analysis  for 
+actual values. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+64-17-5 
+
+200-578-6 
+
+95.6 
+
+Ethanol 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:    Rinse  affected  area  with  soap  and  water  for  at  least  15  minutes.    Seek  medical  assistance  if 
+necessary. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 15 
+minutes.  Seek immediate medical attention. 
+
+Ingestion:  Contact a poison control center immediately for instructions.  Give water to rinse out mouth.  Never 
+give liquids to a person with reduced awareness or becoming unconscious.  If vomiting occurs, keep head lower 
+than hips to prevent aspiration.  If not breathing, give artificial respiration by qualified personnel.  Seek immediate 
+medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, skin irritation, eye irritation, 
+liver damage, and central nervous system depression. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention.   
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  Vapor is heavier than air.  Vapors or gases may ignite at distant 
+ignition sources and flash back.  Vapor/air mixtures are explosive above flash point.   See Section 9, “Physical  and 
+Chemical Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, fine water spray, and alcohol resistant foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Thermal decomposition will form oxides of carbon. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 3 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Immediately  contact  emergency 
+personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel 
+of spills.  Absorb with sand or other non-combustible material.  Collect spilled material in appropriate container for 
+disposal.  Isolate hazard area and deny entry. 
+
+SRM 2900 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”.  Handle glass ampoules 
+with care. 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Sealed ampoules, as received, 
+should be stored in the stored in the dark at temperatures between 10 °C and 30 °C.  Keep separated from incompatible 
+substances. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+1000 ppm TWA or 1900 mg/m3 TWA 
+
+OSHA (PEL): 
+ACGIH (TLV):  1000 ppm STEL 
+NIOSH (REL): 
+ 
+
+1000 ppm TWA or 1900 mg/m3 TWA 
+3300 ppm IDLH (10 % LEL) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA  29CFR  1910.134  must  be  followed.    Refer  to  NIOSH  42  CFR  84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield. An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals.  
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate (CCl4 = 1): 
+Melting point/freezing point (ºC): 
+Density (g/mL): 
+Specific Gravity (water = 1): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+Partition coefficient  
+(n-octanol/water): 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling 
+range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+Flammability (solid, gas): 
+
+ 
+colorless liquid 
+
+C2H5OH 
+46.07 
+vinous 
+5 ppm to 10 ppm 
+not available 
+1.4 
+–117 (–179 ºF) 
+0.78775 at 20 ºC 
+0.7893 
+40 at 19 ºC 
+1.59 
+1.22 to 1.41 at 20 ºC 
+benzene, ether, acetone, chloroform, 
+organic solvents 
+not available 
+
+ 
+363 (685 ºF) 
+not applicable 
+78.3 to 78.5 (173 ºF) 
+
+3.3 
+19 
+13 ºC (TCC) 
+not applicable 
+
+ 
+
+SRM 2900 
+
+Page 3 of 6 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Ampoules may rupture or explode if 
+exposed to heat. 
+
+Incompatible  Materials:    Acids,  bases,  combustible  materials,  halo  carbons,  halogens,  metal  oxides,  metal  salts, 
+metals, oxidizing materials, peroxides. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon.  
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Respiratory tract irritation, skin 
+irritation, eye irritation, narcosis. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Ethanol may cause irritation of mucous membranes, headache, drowsiness, fatigue, nervousness, 
+dullness, narcosis, lack of concentration, somnolence, and symptoms of drunkenness.  Reproductive effects have 
+been reported in animals. 
+
+Skin Contact:  Ethanol may cause irritation, mild redness and burning, sensitization, allergic, contact dermatitis.  
+Chronic exposure to ethanol may result in defatting of the skin. 
+
+Eye  Contact:    Ethanol  may  cause  irritation,  conjunctivitis,  and  corneal  cloudiness.    Vapors  exposure  at 
+sufficiently high concentrations may cause stinging and watering of the eye. 
+
+Ingestion:    Ethanol  short  term  exposure  may  cause  headache,  drowsiness,  emotional  lability,  decreased 
+inhibitions, exhilaration, boastfulness, talkativeness, remorse, belligerency, gradual visual impairment, muscular 
+incoordination, slurring of speech, and symptoms of drunkenness; long term exposure may result in liver damage.  
+Reproductive effects have been reported in animals. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+ 
+
+Ethanol, Rat, Oral LD50:  7060 mg/kg 
+ 
+
+Rat, Inhalation LC50:  124.7 mg/L (4 h) 
+
+Skin Corrosion/Irritation:  Not classified. 
+
+Ethanol, Rabbit skin, moderate: 20 mg (24 h) 
+ 
+
+Human skin: 70 % 
+
+Serious Eye Damage/Irritation:  Not classified. 
+Ethanol, Rabbit eyes, mild: 500 mg (24 h) 
+ 
+
+Rabbit eyes, severe: 500 mg 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  Not classified. 
+
+Ethanol, Human:  15 mmol/L (24 h), 100 mmol/L (3 h) 
+
+Carcinogenicity:  Not classified, this SRM is not for human consumption. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+IARC lists ethanol (as related to alcoholic beverages) as Group 1 (carcinogenic to humans).  Ethanol is not 
+listed by NTP or OSHA as a carcinogen/potential carcinogen. 
+
+X  No 
+
+Yes 
+
+ 
+
+SRM 2900 
+
+ 
+
+Page 4 of 6 
+
+Reproductive Toxicity:  Not classified. 
+
+Ethanol, Rat, Oral TDLo:  112 mg/kg (14 d) 
+ 
+
+Human, Oral TDLo (37 weeks pregnant):  250 mg/kg  
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified. 
+
+Aspiration Hazard:  No data available. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+
+Fish:  Rainbow trout (Oncorhynchus mykiss) LC50 (static):  12.0 mg/L to 16.0 mL/L (96 h) 
+ 
+Invertebrate:  Freshwater water flea (Daphnia magna) EC50:  10 800 mg/L (24 h) 
+
+Fathead minnow (Pimephales promelas) LC50 (static):  >100 mg/L (96 h) 
+
+Persistence and Degradability:  No data available.  
+
+Bioaccumulative Potential:  No data available.  
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to 
+disposal regulations: U.S. EPA 40 CFR 262.  Hazardous Waste Number(s): D001. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  UN1170, Ethanol, Hazard Class 3, Packing Group II. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+Yes. 
+Yes. 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Warning! 
+
+U.S. TSCA Inventory:  Ethanol is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+ 
+
+ 
+
+This  product  contains  a  chemical  (ethanol)  known  to  the  state  of  California  to  cause  cancer  and 
+reproductive/developmental effects. 
+
+SRM 2900 
+
+ 
+
+Page 5 of 6 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  16 June 2015 
+
+Sources: 
+
+ChemAdvisor, Inc., SDS, Ethyl Alcohol, 20 March 2015. 
+
+Hazardous Substances Data Bank, National Library of Medicine, Ethanol, CAS# 64-17-5, Full Record, 
+available at http://toxnet.nlm.nih.gov/ (accessed Jun 2015). 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2900 
+
+ 
+
+Page 6 of 6 
+
+

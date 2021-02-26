@@ -1,0 +1,662 @@
+﻿Date of Issue: 
+
+06 November 2013
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	2202
+
+		SRM Name:	Potassium Chloride (Standard for Ion-Selective Electrodes)
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for use in the calibration of ionselective electrodes for potassium and chloride ions.  A unit of SRM 2202 consists of approximately 160 g of ACS grade potassium chloride.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Not classified.
+
+		Health Hazard:	Not classified.
+
+		
+
+		Label Elements
+
+			Symbol 
+
+			No symbol
+
+			Signal Word
+
+			No signal word
+
+Hazard Statement(s):  Not applicable.
+
+Precautionary Statement(s):  Not applicable.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Potassium chloride
+
+	Other Designations:  Potassium monochloride; chloropotassuril; potassium muriate; KCl
+
+	
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Potassium chloride
+
+	7447-40-7
+
+231-211-8
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated clothing before reuse.
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention.
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek medical attention if needed.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Use extinguishing agents appropriate for surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  None listed.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 1	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Collect spilled material in appropriate container for disposal.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Minimize dust generation.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage:  Store and handling in accordance with all current regulations and standards.  Keep separated from incompatible substances (acids, halogens, metals).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  No occupational exposure limits have been established.  The exposure limits for Particulates Not Otherwise Regulated are applicable.
+
+	OSHA (PEL):	15 mg/m3 (TWA, total particulates)
+
+		5 mg/m3 (TWA, respirable particulates)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+9.  Physical and Chemical Properties
+
+Descriptive Properties:
+
+
+
+Appearance 
+(physical state, color, etc.):
+
+colorless to white crystalline powder
+
+Molecular Formula:
+
+KCl
+
+Molar Mass (g/mol):
+
+74.55
+
+Odor:
+
+odorless
+
+Odor threshold:
+
+not available
+
+pH (solution):
+
+5.4–8.6  (5 % solution)
+
+Evaporation rate:
+
+not applicable
+
+Melting point/freezing point (ºC):
+
+770 (1292 ºF)
+
+Relative Density (g/mL):
+
+1.984
+
+Vapor Pressure (mmHg):
+
+not applicable
+
+Vapor Density (air = 1):
+
+not applicable
+
+Viscosity (cP):
+
+not applicable
+
+Solubility(ies):
+
+water soluble ( 23.8 % at 20 ºC);
+soluble: ethanol;
+
+insoluble: ether and acetone
+
+Partition coefficient (n-octanol/water):
+
+not available
+
+Particle Size (if relevant)
+
+not available
+
+Thermal Stability Properties:
+
+
+
+Autoignition Temperature (ºC):
+
+not applicable
+
+Thermal Decomposition (ºC):
+
+not available
+
+Initial boiling point and boiling range (ºC):
+
+not applicable
+
+Explosive Limits, LEL (Volume %):
+
+not applicable
+
+Explosive Limits, UEL (Volume %):
+
+not applicable
+
+Flash Point (ºC)
+
+not applicable
+
+Flammability (solid, gas):
+
+not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  None reported.
+
+Incompatible Materials:  Acids, halogens, metals.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce chlorine.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+
+
+Skin
+
+
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause irritation. 
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  May cause irritation.
+
+Skin Contact:  May cause slight irritation.
+
+Eye Contact:  May cause irritation.  Concentrated solutions may cause a stinging sensation.
+
+Ingestion:  Ingestion of this material may cause gastrointestinal irritation with nausea, vomiting, epigastric distress, abdominal discomfort and diarrhea.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified.
+
+Rat, Oral LD50:  2600 mg/kg
+
+Skin Corrosion/Irritation:  Not classified.
+
+Rare instances of skin rash have been reported with potassium preparations.
+
+Serious Eye damage/Eye irritation:  Not classified; insufficient data available.
+
+Rabbit, Eyes (mild): 500 mg (24 h)
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Potassium chloride is not listed by IARC, NTP or OSHA as a carcinogen.
+
+Reproductive Toxicity:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available.
+
+Aspiration Hazard:  Not classified; no data available.
+
+12. ECOLOGICAL INFORMATION
+
+	Ecotoxicity Data:	 
+
+		Fish:  bluegill (Lepomis macrochirus) LC50 (static): 1060 mg/L (96 h)
+
+		Algae:  freshwater green (Desmodesmus subspicatus) EC50: 2500 mg/L (72 h)
+
+		Invertebrate:  water flea (Daphnia magna) EC50 (static): 83 mg/L (48 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	No.
+
+	CHRONIC HEALTH:	No.
+
+	FIRE:	No.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:
+
+WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  06 November 2013
+
+	Sources:	ChemAdvisor, Inc., MSDS Potassium Chloride, 17 June 2013.
+
+		Hazardous Substances Data Bank, National Library of Medicine, Potassium Chloride CAS# 7447407, Full Record, available at http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB (accessed Nov 2013).
+
+Center for Disease Control (CDC), NIOSH Pocket Guide to Chemical Hazards, Particulates Not Otherwise Regulated, available at http://www.cdc.gov/niosh/npg/npgd0480.html (accessed Nov 2013).
+
+
+
+
+
+
+
+Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+ALI
+
+Annual Limit on Intake
+
+NIST
+
+National Institute of Standards and Technology
+
+CAS 
+
+Chemical Abstracts Service 
+
+NRC
+
+Nuclear Regulatory Commission
+
+CEN
+
+European Committee for Standardization
+
+NTP 
+
+National Toxicology Program
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CFR 
+
+Code of Federal Regulations 
+
+PEL 
+
+Permissible Exposure Limit
+
+CPSU
+
+Coal Mine Dust Personal Sample Unit
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+ISO
+
+International Organization for Standardization
+
+STEL 
+
+Short Term Exposure Limit 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+TDLo
+
+Toxic Dose Low
+
+LD50
+
+Lethal Dose, 50 %
+
+TLV 
+
+Threshold Limit Value 
+
+LEL 
+
+Lower Explosive Limit 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NFPA 
+
+National Fire Protection Association 
+
+TWA 
+
+Time Weighted Average 
+
+MSHA
+
+Mine Safety and Health Administration
+
+UEL 
+
+Upper Explosive Limit 
+
+
+
+
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2202		Page 1 of 5

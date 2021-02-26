@@ -1,0 +1,467 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 899 
+
+ 
+
+ 
+
+ 
+Nickel-Base High-Temperature Alloy 
+(Tracealloy C) 
+
+ 
+aods 
+This Standard Reference Material (SRM) is intended for use in the validation of chemical and instrumental methods 
+ning 
+high- 
+for trace elemental analysis of high-temperature alloys.  A unit of  SRM 899 consists of a single bottle containing 
+approximately 35 g of fine millings. 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  for  constituents  of  SRM 899  are  provided  in 
+Table 1 [1].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, in that all 
+known or suspected sources of bias have been investigated or taken into account [2].  A certified value is the present 
+best estimate of the true value based on the results of analyses performed at NIST and collaborating laboratories. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  for  constituents  of  SRM 899  are  provided  in 
+Table 2.  Reference values are non-certified values that are the best estimates of the true values; however, the values 
+all 
+do not meet the NIST criteria for certification and are provided with associated uncertainties that may not include all 
+sources of uncertainty [2]. 
+ 
+Information Mass Fraction Values:  Information mass fraction values for constituents of SRM 899 are provided in 
+Table 3.  An information value is considered to be a value that will be of interest to the SRM user, but insufficient 
+information is available to assess the uncertainty associated with the value [2].  Information Values cannot be used 
+to establish metrological traceability. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 899  is  valid  indefinitely,  within  the  measurement 
+uncertainties  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see  “Instructions for Use”).  Periodic recalibration or recertification of this SRM is  not required.  The 
+certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  material  over  the  period  of  its  certification.    If 
+the  purchaser.  
+substantive 
+Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination  of  technical  measurements  for  certification  of  this  SRM  was  performed  by  I.L. Barnes  of  the  NIST 
+Chemical Sciences Division.  Review and revision of value assignments were performed by J.R. Sieber of the NIST 
+Chemical Sciences Division. 
+ 
+Measurements for value assignment of SRM 898 were performed by J.W. Gramlich, H.M. Kingston, L.A. Machlan, 
+E.J. Maienthal, J.D. Messman, P.J. Paulson, L.P. Powell, and T.C. Rains of the NIST Chemical Sciences Division; 
+P. Cole  of  ATI  Allvac  (Monroe, NC);  G. Infantino  of  Evans  Analytical  Group  (Syracuse, NY);  L. Dilks  of 
+Laboratory  Testing,  Inc.  (Hatfield, PA);  B. Guidoboni  of  Northern  Analytical  Laboratories,  (Londonderry, NH); 
+L. Somrack of  NSL Analytical (Cleveland, OH); T. LeRoy and J. Capobianco of Vale Inco (Mississauga, Ontario, 
+Canada);  G. Witt  of  ATI  Allegheny  Ludlum  (Brackenridge, PA);  S. Damp  of  Alcoa  Howmet  (Whitehall, MI); 
+International 
+C. Polinko  of  Carpenter  Technologies 
+(Kokomo, IN);  J. Jordan  of  Huntington  Alloys  Corp.  (Huntington, WV);  and  D. Dorn  of  ATI  Wah  Chang 
+(Albany, OR). 
+ 
+Statistical consultation for this SRM was provided by D.D. Leber of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 February 2014 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+(Reading, Pennsylvania);  A. O’Connell  of  Haynes 
+
+the  certification,  NIST  will  notify 
+
+technical  changes  occur 
+
+w  this  material  over  the  pe
+
+that  affect 
+
+Page 1 of 4 
+
+  
+
+SRM 899 
+
+NIST  Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR USE 
+The  material  must  be  sampled  directly  from  its  original  container  and  used  without  additional  preparation.    The 
+recommended minimum sample mass is 1.0 g.  SRM 899 should be stored in its original, tightly capped container in 
+a cool, dry location. 
+ 
+PREPARATION AND ANALYSIS(1) 
+The preparation of material for SRM 899 was carried out by the Subcommittee on Trace Elements in Superalloys of 
+the Gas Turbine Panel of the Joint Committee on the Effect of Temperature on the Properties of Metals, consisting 
+of  members  from ASTM International, the American  Society of Mechanical Engineers,  and the Metals Properties 
+Council.  The nominal composition of the nickel-base alloy contains all elements found in turbine blade applications 
+and  was  designated  “Tracealloy”.    Approximately  135 kg  of  the  “Tracealloy”  composition  was  vacuum  induction 
+melted.    Trace  element  master  alloys  were  added  under  partial  pressure,  and  a  set  of  ingots,  7.6 cm  diameter  and 
+76 cm long, were statically cast.  Homogeneity studies showed no detectable segregation of the trace elements from 
+top to bottom of the ingots.  At NIST, material from the lot was selected that exhibited minimal piping.  Following 
+complete  removal  of  scale  and  cold  shuts  from  the  periphery  of  the  ingots,  the  material  was  converted  to  fine 
+millings, sieved, and thoroughly blended to form SRM 899.  Quantitative determinations were performed at NIST 
+and at collaborating laboratories using the test methods listed in Table 4.  Laboratories and analysts participating in 
+the development and preparation of the materials are listed in Table 5. 
+ 
+Certified Mass Fraction Values:  The values in Table 1 were derived from the combination of results provided by 
+NIST  and  collaborating  laboratories.    The  measurands  are  the  total  mass  fractions  of  selected  elements  in  the 
+nickel-base alloy.  The certified values are metrologically traceable to the SI unit of kilogram and are expressed as 
+milligrams as per kilogram.  The values are the weighted means of the individual sets of measurements made by the 
+laboratories estimated using a Gaussian random effects model [3] and the DerSimonian-Laird procedure [4,5].  Each 
+associated  measurement  uncertainty  was  evaluated  by  the  application  of  the  parametric  statistical  bootstrap, 
+consistent  with  the  ISO/JCGM  Guide  and  its  Supplement 1 [6,7].    The  uncertainty  is  expressed  as  an  expanded 
+uncertainty, U, represented as U = kuc, where uc is intended to represent, at the level of one standard deviation, the 
+combined  effect  of  between-laboratory,  within-laboratory,  and  inhomogeneity  components  of  uncertainty.    The 
+coverage factor (k) corresponds to an approximately 95 % confidence level for each analyte.   
+ 
+ 
+
+Constituent 
+
+ass  Fraction  Value
+
+Table 1.  Certified Mass Fraction Values for SRM 899  
+ 
+Mass Fraction 
+(mg/kg) 
+ 
+
+Coverage Factor, k 
+ 
+
+ 
+ 
+ 
+ 
+
+Lead (Pb) 
+Selenium (Se) 
+Tellurium (Te) 
+Thallium (Tl) 
+
+  3.928  ±  0.089 
+  9.36 
+  5.72 
+  0.273  ±  0.022 
+
+±  0.24 
+±  0.34 
+
+ 
+ 
+ 
+ 
+
+2.0 
+2.0 
+2.0 
+2.0 
+
+ 
+ 
+Reference Mass Fraction Values:  The values in Table 2 were derived from the combination of results provided by 
+collaborating laboratories.  The measurands are the mass fractions of selected elements in the nickel-base alloy, as 
+determined by the listed test methods in Table 4.  The reference values are metrologically traceable to the SI unit of 
+kilogram and are expressed as milligrams as per kilogram.  The values are the weighted means of the individual sets 
+of  measurements  made  by  the  laboratories  estimated  using  a  Gaussian  random  effects  model [3]  and  the 
+DerSimonian-Laird procedure [4,5].  Each associated measurement uncertainty was evaluated by the application of 
+the  parametric  statistical  bootstrap,  consistent  with  the  ISO/JCGM  Guide  and  its  Supplement 1 [6,7].    The 
+uncertainty is expressed as an expanded uncertainty, U, represented as U = kuc, where uc is intended to represent, at 
+the  level  of  one  standard  deviation,  the  combined  effect  of  between-laboratory,  within-laboratory,  and 
+inhomogeneity  components  of  uncertainty.    The  coverage  factor (k)  corresponds  to  an  approximately  95 % 
+confidence level for each analyte.   
+
+                                                 
+
+(1)  Certain  commercial  organizations,  services,  equipment,  or  materials  are  identified  in  this  certificate  to  adequately 
+specify the experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute 
+of Standards and Technology, nor does it imply that the organizations, services, materials, or equipment identified are necessarily 
+the best available for the purpose. 
+SRM 899 
+
+Page 2 of 4 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+‘alue 
+
+Constituent 
+
+Table 2.  Reference Mass Fraction Values for SRM 899  
+ 
+Mass Fraction  
+(mg/kg) 
+ 
+±  0.07 
+±  0.02 
+±  0.4 
+±  0.4 
+±  0.3 
+
+  1.53 
+  0.24 
+  6.0 
+  0.8 
+  4.2 
+
+Antimony (Sb) 
+Bismuth (Bi) 
+Gallium (Ga) 
+Silver (Ag) 
+Tin (Sn) 
+
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+
+Coverage Factor, k 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Information Mass Fraction Values:  In Table 3, the values for all listed constituents are intended to provide the 
+base composition of the “Tracealloy” material.  The values were provided by the committee that designed the alloy.   
+ 
+ 
+
+Table 3.  Information Mass Fraction Values for SRM 899  
+ 
+
+Value
+
+Constituent 
+
+Constituent 
+
+Mass Fraction 
+(%) 
+ 
+
+2 
+0.01 
+0.12 
+8.5 
+12 
+1.2 
+
+  Niobium (Nb) 
+  Nickel (Ni) 
+  Tantalum (Ta) 
+  Titanium (Ti) 
+  Tungsten (W) 
+  Zirconium (Zr) 
+
+Mass Fraction 
+(%) 
+ 
+
+0.9 
+Balance 
+1.75 
+2 
+1.75 
+0.1 
+
+Aluminum (Al) 
+Boron (B) 
+Carbon (C) 
+Cobalt (Co) 
+Chromium (Cr) 
+Hafnium (Hf) 
+
+Table 4.  Methods Used for Analysis of SRM 899  
+ 
+
+Constituent 
+
+Methods(a) 
+
+Constituent 
+
+Methods(a) 
+
+Ag 
+Bi 
+Ga 
+Pb 
+Sb 
+
+3 
+3, 4 
+3 
+1, 3, 4 
+3 
+
+Se 
+Sn 
+Te 
+Tl 
+
+ 
+
+2, 3, 4 
+3 
+2, 4 
+1, 3 
+ 
+
+(a)  Key to Methods: 
+
+1. 
+Isotope dilution thermal ionization mass spectrometry 
+2. 
+Isotope dilution spark source mass spectrometry 
+3. 
+Inductively coupled plasma mass spectrometry [8] 
+4.  Graphite furnace atomic absorption spectrometry [9] 
+
+Table 5.  Laboratories Collaborating in the Development of “Tracealloy” Materials 
+
+Acculabs – R. Brown 
+Falconbridge – L. Morris 
+INCO – C. David 
+Misco-Howmet – D. Preston 
+Special Metals – M. Harrington 
+TRW – L. Harper 
+Universal-Cyclops – L. Lherbier,  
+– A. Mirarchi 
+
+ 
+
+Cartech –  R. Whitney 
+
+Cannon Muskegon – R. Schwer 
+Howmet Alloy Division – J. White  Huntington Alloys – D. Carlson 
+J. Dirats & Co. – E. Dirats 
+Pratt & Whitney – J. Marks 
+Stellite-Cabot – J. McLafferty 
+Union Carbide Metals – C. Brown  Union Carbide - UK – I. Nolleth 
+Westinghouse – G. Beck 
+
+Lycoming – R. Sussman 
+SNECMA – M. Frerre 
+Teledyne Allvac – W. Thomas 
+
+Wyman Gordon – R. Sparks 
+
+SRM 899 
+
+Page 3 of 4 
+
+REFERENCES 
+
+  
+[1]  Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special 
+
+Publication 811; U.S. Government Printing Office: Washington, DC (2008) available at 
+http://physics.nist.gov/Pubs (accessed Feb 2014). 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2014). 
+
+[3]  Searle,  S.  R.;  Casella,  G.  and  McCulloch,  C.  E.  (2006)  "Variance  Components",  John  Wiley  &  Sons, 
+
+Hoboken, NJ. 
+
+[4]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177−188 (1986).  
+[5]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323−331 (2009). 
+[6]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb  2014);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Feb 2014). 
+
+[7]  JCGM 101:2008;  Evaluation  of  Measurement  Data  –  Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement”  -  Propagation  of  Distributions  using  a  Monte  Carlo  method;  JCGM  (2008); 
+available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2014). 
+[8]  ASTM E1834–11; Standard Test Method for Analysis of Nickel Alloys by Graphite Furnace Atomic Absorption 
+
+Spectrometry, Annu. Book of ASTM Stand., Vol. 03.05 (2011).  
+
+{  Stand.,  Vol. 
+
+[9]  ASTM E2823–11;  Standard  Test  Method  for  Analysis  of  Nickel  Alloys  by  Inductively  Coupled  Plasma  Mass 
+
+Spectrometry (Performance-Based Method), Annu. Book of ASTM Stand., Vol. 03.05 (2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  05 February 2014 (Revision of certified values and uncertainties for Se, Te, Tl, and Pb and new reference values 
+for  Ga,  Ag,  Sn,  Sb, and Bi based  on  re-evaluation  of  the  original  and  new  analytical  results;  editorial  changes);  31 August 1983  (Revision  of 
+ 
+value and uncertainty for lead); 08 August 1980 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+mail 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975-2200;  fax  (301)  948-3730,  email 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.  
+ 
+
+values 
+wan 
+
+SRM 899 
+
+Page 4 of 4 
+
+

@@ -1,0 +1,547 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 3237 
+
+ 
+
+ 
+
+ 
+Soy Protein Concentrate 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining isoflavones 
+in soy protein concentrates and in similar matrices.  This SRM can also be used for quality assurance when assigning 
+values to in-house reference materials.  A unit of SRM 3237 consists of 5 packets, each containing approximately 10 g 
+of material. 
+ 
+The  development  of  SRM  3237  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health, Office of Dietary Supplements (NIH-ODS). 
+ 
+Certified Mass Fraction Value:  The certified mass fraction value for daidzin (as the total glycoside) in SRM 3237 
+is provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy 
+in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses for value 
+assignment were performed by NIST, and certified values were calculated as the equally weighted mean of the mean 
+values from NIST methods.  The associated uncertainties are expressed at the 95 % level of confidence [2–4].  Values 
+are reported on a dry-mass basis in mass fraction units [5]. 
+ 
+Reference  Mass  Fraction  Values:  The  reference  mass  fraction  values  for  genistin  and  glycitin  (as  the  total 
+glycosides) are provided in Table 2.  Reference values are noncertified values that are the best estimate of the true 
+values based on available data; however, the values do not meet the NIST criteria for certification [1] and are provided 
+with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all  sources  of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  
+ 
+Expiration of Certification:  The certification of SRM 3237 is valid, within the measurement uncertainty specified, 
+until  15  August  2019,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+dration  of  this  certificate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+cilitate  notification. 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Support for the development of SRM 3237 was provided in part by NIH-ODS.  Technical consultation was provided by 
+J.M. Betz of NIH-ODS.  
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  were 
+performed by M.M. Phillips, L.C. Sander, K.E. Sharpless, and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements at NIST were performed by M. Bedner, M.A. Nelson, M.M. Phillips, B.J. Porter, and L.J. Wood 
+of the NIST Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 
+
+7 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 October 2014 
+ 
+
+  
+
+SRM 3237 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 5 
+
+of
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 3237 IS INTENDED FOR LABORATORY USE ONLY, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The original unopened packets of SRM 3237 should be stored at controlled room temperature (20 °C to 
+25 °C).  Once the packet is opened, the long-term stability of all analytes in SRM 3237 is unknown.  Therefore, the 
+certification only applies to the initial use and the same results are not guaranteed if the remaining powder is used 
+longer than two months after opening. 
+ 
+Use:  Prior to removal of a test portion for analysis, the contents of a packet of material should be mixed thoroughly; 
+by shaking the packet and allowing the contents to settle for one minute prior to opening to minimize the loss of fine 
+particles.  For certified values to be valid, a test portion of at least 200 mg should be used; the homogeneity of test 
+portions less than 200 mg has not been evaluated. Results obtained in analyses should include their own estimates of 
+uncertainty  and  can  be  compared  to  the  certified  values  using  procedures  described  in  reference  6.    Test  portions 
+should be analyzed as received and results converted to a dry-mass basis by determining moisture content (described 
+below) on a separate test portion. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  SRM 3237 is a soy protein isolate prepared by a manufacturer of food and agricultural 
+products.    The  product  was  packaged  into  single-use,  nitrogen-flushed  pouches,  each  containing  10  g  of  powder.  
+Following  packaging,  SRM  3237  was  irradiated  (Neutron  Products,  Inc.,  Dickerson,  MD)  to  an  absorbed  dose  of 
+6.0 kGy to 10.0 kGy. 
+ 
+NIST  Analyses  for  Isoflavones  Using  Isotope  Dilution  Liquid  Chromatography  with  Mass  Spectrometric 
+Detection (ID-LC/MS):  Mass fractions of daidzin, genistin, and glycitin were measured at NIST using ID-LC/MS.  
+Calibrants were prepared gravimetrically, at levels intended to approximate the levels of the isoflavones in the SRM.  
+Internal standards were employed; a single solution was used for the calibrants and samples.  Duplicate 700 mg test 
+portions of powder from each of 6 packets were accurately weighed into 15 mL polyethylene centrifuge tubes.  An 
+aliquot  of  a  mixed  internal  standard  solution  containing  13C6-daidzin,  13C6-genistin,  and  13C6-glycitin  was  added.  
+Analytes  were  extracted  from  the  sample,  then  hydrolyzed  to  convert  acetyl-  and  malonyl-glycosides  to  free 
+glycosides,  neutralized,  diluted,  and  centrifuged  prior  to  injection.    Details  of  the  separation  and  a  typical 
+chromatogram are provided in Figure 1.  The separation was monitored using an absorbance detector at 260 nm, but 
+MS  was  used  for  quantitation.    Daidzin  and  13C6-daidzin  were  monitored  at  m/z  417  and  m/z  423,  respectively.  
+Genistin  and  13C6-genistin  were  monitored  at  m/z  433  and  m/z  439,  respectively.    Glycitin  and  13C6-glycitin  were 
+monitored at m/z 447 and m/z 453, respectively. 
+ 
+NIST Analyses for Isoflavones Using Liquid Chromatography with Absorbance Detection (LC/absorbance):  
+Mass  fractions  of  daidzin,  genistin,  and  glycitin  were  measured  at  NIST  using  LC/absorbance.    Calibrants  were 
+prepared gravimetrically,  at  levels  intended  to  approximate  the  levels of  the  isoflavones  in  the  SRM.   An  internal 
+standard  approach  was utilized with  a  single  solution  used for  the  calibrants  and  samples.  Duplicate 200  mg  test 
+portions of powder from each of 10 packets were accurately weighed into 15 mL polyethylene centrifuge tubes.  An 
+aliquot of an internal standard solution containing sissotrin was added.  Analytes were extracted from the sample, then 
+hydrolyzed to convert acetyl- and malonyl-glycosides to free glycosides, neutralized, diluted, and centrifuged prior to 
+injection.    Details  of  the  separation  and  a  typical  chromatogram  are  provided  in  Figure  2.    The  separation  was 
+monitored and quantitation performed using an absorbance detector at 254 nm. 
+ 
+Determination of Moisture:  Moisture content of SRM 3237 was determined at NIST (see “Instructions for Storage 
+and Use”) by (1) freeze drying to constant mass over 8 days; (2) drying over magnesium perchlorate in a desiccator 
+at room temperature for 26 days; and (3) drying for 2 h in a forced air oven at 90 °C.  The results obtained using all 
+three  techniques  were  averaged  to  determine  a  conversion  factor  of  (0.942  ±  0.003)  gram  dry  mass  per  gram  as 
+received mass, which was used to convert data from an as-received to a dry-mass basis; the uncertainty shown on this 
+value is an expanded uncertainty.  An uncertainty component for the conversion factor (0.15 %) obtained from the 
+moisture measurements is incorporated in the uncertainties of the certified values, reported on a dry-mass basis, that 
+are provided in this certificate. 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 3237 
+
+Page 2 of 5 
+
+Homogeneity Assessment:  The homogeneity of isoflavones in the SRM was assessed at NIST using the methods 
+and  test  portion  sizes  described  above  and  analyses  of  variance  with  5  %  significance  level;  because  of  possible 
+inhomogeneity, an uncertainty component for heterogeneity is incorporated in the combined uncertainty of each value. 
+ 
+Value Assignment:  The equally weighted mean of NIST results provided by LC/absorbance and ID-LC/MS were 
+used to calculate assigned values. 
+ 
+Certified Mass Fraction Value for Daidzin:  The certified mass fraction value for daidzin is the mean from the 
+combination of the mean results provided by LC/absorbance and ID-LC/MS by NIST.  The uncertainty provided is an 
+expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  The expanded 
+uncertainty  is  calculated  as  U  =  kuc,  where  uc  incorporates  the  observed  difference  between  the  results  from  the 
+methods and their respective uncertainties, and uncertainty components related to moisture correction and to possible 
+inhomogeneity,  consistent  with  the  ISO/JCGM  Guide  and  with  its  Supplement  1,  and  k  is  a  coverage  factor 
+corresponding to approximately 95 % confidence [2-4].  The measurand is the total mass fraction of daidzin in soy 
+protein concentrate.  The certified value is metrologically traceable to the SI unit of mass. 
+
+ 
+Table 1.  Certified Mass Fraction Value (Dry-Mass Basis) for Daidzin in SRM 3237 
+
+ 
+ 
+ 
+Daidzin(a) 
+
+Mass Fraction 
+(mg/kg) 
+ 
+
+Coverage Factor, k 
+
+7.79  ±  0.34 
+
+2.00 
+
+ 
+(a) Value  was  determined  using  a  hydrolysis  approach,  and  therefore  represents  total  glycosides  (sum  of  glycoside, 
+
+malonyl-glycoside, and acetyl-glycoside present in the material). 
+
+ 
+Reference Mass Fraction Values for Genistin and Glycitin:  The reference mass fraction values for genistin and 
+glycitin are the mean from the combination of the mean results provided by LC/absorbance and ID-LC/MS by NIST.  
+The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with 
+approximately  95  %  confidence.    The  expanded  uncertainty  is  calculated  as  U  =  kuc,  where  uc  incorporates  the 
+observed  difference  between  the  results  from  the  methods  and  their  respective  uncertainties,  and  uncertainty 
+components related to moisture correction and to possible inhomogeneity, consistent with the ISO/JCGM Guide and 
+with  its  Supplement  1,  and  k  is  a  coverage  factor  corresponding  to  approximately  95  %  confidence  [2–4].    The 
+measurands are the mass fractions of genistin and glycitin in soy protein concentrate as determined by the methods 
+indicated in this certificate.  The reference values are metrologically traceable to the SI unit of mass. 
+
+ 
+Table 2.  Reference Mass Fraction Values (Dry-Mass Basis) for Genistin and Glycitin in SRM 3237 
+
+ 
+ 
+ 
+
+Genistin 
+Glycitin 
+
+Mass Fraction(a) 
+(mg/kg) 
+ 
+
+12.3  ±  2.1 
+0.81 ±  0.14 
+
+Coverage Factor, k 
+
+2.00 
+2.00 
+
+ 
+(a) Value  was  determined  using  a  hydrolysis  approach,  and  therefore  represents  total  glycosides  (sum  of  glycoside, 
+
+malonyl-glycoside, and acetyl-glycoside present in the material). 
+
+ 
+
+ 
+
+ 
+ 
+
+SRM 3237 
+
+Page 3 of 5 
+
+ 
+ 
+ 
+
+daidzin 
+
+Signal 1 
+  m/z 417, 433 
+
+Signal 2 
+  m/z 447 
+
+0.6
+
+0.4
+
+0.2
+
+5
+
+5
+
+ 
+e
+s
+n
+o
+p
+s
+e
+R
+S
+M
+
+ 
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0
+
+4
+
+3
+
+2
+
+1
+
+0
+
+6
+
+4
+
+2
+
+0
+
+  
+
+  
+
+10
+
+15
+
+20
+
+25
+
+genistin 
+
+glycitin 
+
+    
+
+10
+
+15
+
+20
+
+25
+
+Signal 3 
+  m/z 423, 453 
+
+13
+
+[
+
+C6]-daidzin 
+
+13
+
+[
+
+C6]-glycitin 
+
+5
+
+10
+
+  
+
+      
+
+Signal 4 
+  m/z 439 
+
+C6]-genistin 
+
+20
+
+15
+
+25
+
+13
+
+[
+
+5
+
+10
+
+20
+
+25
+
+15
+Time (min) 
+
+Figure 1.  Chromatograms showing separation and detection of isoflavones in SRM 3237 using ID-LC/MS.  For this 
+‘lent  Technologies,
+method,  a  Zorbax  SB-CN  column  (250  mm  ×  4.6  mm,  5  µm  particle  size;  Agilent  Technologies, 
+Wilmington, DE, USA) was held at 23 °C.  The separation was performed using a gradient consisting of water and 
+methanol,  each  containing  0.1  %  formic  acid  (volume  fraction).    Mass  spectrometric  detection  with  electrospray 
+ionization was utilized in the positive ion mode with selected ion monitoring as described in the text and within the 
+figure. 
+ 
+
+SRM 3237 
+
+Page 4 of 5 
+
+ 
+)
+U
+A
+m
+(
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+y
+n
+
+  °
+
+ 
+
+ 
+T
+
+ 
+°
+
+ 
+
+genistin 
+
+    
+    
+
+daidzin  glycitin 
+
+sissotrin  (IS) 
+
+ 
+v
+w
+
+ 
+B
+
+ 
+o
+
+e
+o
+
+10 
+
+Time  (min) 
+
+12 
+
+14 
+
+16 
+
+18 
+ 
+
+ 
+Figure 2.  Chromatogram showing separation and detection of isoflavones in SRM 3237 using LC/absorbance.  For 
+this  method,  an  Ascentis  Express  RP-Amide  column  (150  mm  ×  4.6  mm,  2.7  µm  particle  size;  Supelco, 
+Bellefonte, PA, USA) was held at 35 °C.  The separation was performed using a gradient consisting of 5 mmol/L 
+ammonium acetate in water and acetonitrile.  Absorbance detection was utilized at 254 nm. 
+ 
+ 
+ 
+ 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May,  W.;  Parris,  R.;  Beck  II,  C.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Oct 2014). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct  2014);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Oct 2014). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures  (BIPM),  Sèvres,  France  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Oct 2014). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Thompson,  A.;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication  811;  U.S.  Government  Printing  Office:  Washington,  DC 
+http://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Oct 2014). 
+
+available 
+
+(2008); 
+
+[3] 
+
+[6]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+
+Int., Vol. 91, pp. 1298–1302 (2008). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301)  948-3730; 
+ 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+fax 
+
+SRM 3237 
+
+Page 5 of 5 
+
+    
+
+

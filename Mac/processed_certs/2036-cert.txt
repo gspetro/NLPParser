@@ -1,0 +1,866 @@
+﻿ 
+
+ext oF  oy 
+
+BF 
+
+Somes  or 
+
+ 
+
+National Institute of Standards & Technology 
+
+g-
+
+ 
+
+Certificate 
+Standard Reference Material® 2036 
+
+ 
+
+ 
+Near-Infrared Wavelength/Wavenumber Reflection Standard 
+
+  SRM 2036 
+
+ 
+This Standard Reference Material (SRM) is a certified transfer standard intended for the verification and calibration 
+of  wavelength (λ)  and  wavenumber (ν)  scale  near-infrared (NIR)  spectrometers  operating  in  diffuse  reflectance 
+mode. 
+is  a  combination  of  a  glass  physically  contacted  with  a  piece  of  sintered 
+polytetrafluoroethylene (PTFE).    The  combination  of  rare  earth  oxide  glass  with  a  nearly  ideal  diffuse  reflector 
+provides reflection-absorption bands that range from 15 % reflectance (R) to 40 % R.  SRM 2036 is certified for the 
+10 % band fraction centroid of seven bands spanning the spectral region from 975 nm to 1946 nm (air wavelength).  
+In addition, it is certified for the 10 % band fraction centroid location of the same seven bands in the spectral region 
+from 10 300 cm–1 to 5 130 cm–1 at 8 cm–1  resolution (vacuum wavenumber).  A unit of SRM 2036 consists of the 
+optical filter-PTFE assembly mounted in an optical holder, contained in a wooden box. 
+ 
+The  glass  is  a  mixture  of  the  following  mole  fractions:    3.00 %  holmium  oxide (Ho2O3),  1.30 %  samarium 
+oxide (Sm2O3),  0.68 %  ytterbium  oxide (Yb2O3),  and  0.47 %  neodymium  oxide (Nd2O3)  in  a  matrix  containing 
+lanthanum oxide (La2O3), boron oxide (B2O3), silicon oxide (SiO2), and zirconium oxide (ZrO2).  The optical filter is 
+25 mm in diameter and 1.5 mm thick.  The sintered PTFE is 25 mm in diameter and approximately 6 mm thick. 
+ 
+Certified Band Locations:  The certified vacuum-wavenumber locations for the seven reflection-absorption bands 
+spanning  the  range  from  10 300 cm−1  to  5 130 cm−1  are  listed  in  Table 1.    The  certified  values  for  the  NIR 
+air-wavelength  band  locations  for  the  seven  reflection-absorption  bands  from  976 nm  to  1946 nm  are  listed  in 
+Table 2.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest  confidence  in  its  accuracy  in  that  all 
+known or suspected sources of bias have been fully investigated or taken into account [1]. 
+ 
+Expiration of Certification:  The certification of SRM 2036 is valid, within the measurement uncertainty specified, 
+until 30 November 2022, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  were 
+provided by S.J. Choquette of the NIST Biosystems and Biomaterials Division. 
+ 
+The production and certification of SRM 2036 was conducted by S.J. Choquette with assistance from A. Gaigalas 
+and A. Urbas of the NIST Biosystems and Biomaterials Division. 
+ 
+The SRM filter glass was cut and polished by J. Fuller of the NIST Fabrication Technology Division. 
+ 
+Statistical consultation was provided by S. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  24 January 2013 
+Certificate Revision History on Last Page 
+
+Anne L. Plant, Chief 
+Biosystems and Biomaterials Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+ 
+
+SRM 2036  
+
+Page 1 of 7 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  To maintain the integrity of SRM 2036, the filter should only be handled in its optical mount. 
+ 
+Storage:    While  not  in  use,  the  SRM  should  be  stored  in  the  container  provided  or  one  with  similar  or  better 
+mechanical protection. 
+ 
+Use:    SRM 2036  is  intended  for  the  calibration  of  diffuse  reflectance  spectrometers.    The  method  of  use  for 
+SRM 2036  will  vary  with  the  type  of  accessory.    Generally,  the  reference  spectrum  may  be  obtained  from  the 
+exposed  PTFE  portion  of  the  SRM  (or  a  similar  piece  of  sintered PTFE).    The  sample  spectrum  is  then  acquired 
+from  the  glass  side  of  this  SRM.    The  reflectance  spectrum  of  the  standard  is  then  calculated  as  the  ratio  of  the 
+sample to the reference spectrum.  For air-wavelength measurements the data density should be equal to or less than 
+0.5 nm per data point.  For vacuum-wavenumber measurements, the data density should be no less than 1.0 cm–1 per 
+data point.  These data spacings ensure that the centroid location method itself does not contribute significantly to 
+the location bias.  Correction to absolute reflectance or for specular reflectance is not necessary as the bias for these 
+is  included  in  the  location  uncertainties.    However,  the  front  surface  Fresnel  reflection  of  the  SRM  may  give 
+reflectance values exceeding 100 % especially with fiber probes when referenced to the bare PTFE reference.  This 
+will not affect the band location estimates within the stated uncertainties. 
+ 
+Measurement of the SRM under a dry nitrogen purge is highly recommended.  If a nitrogen purge is not available, 
+the  locations  of  band 1  and  band  3  may  differ  from  the  certified  values.    Acquire  the  reflectance  spectrum  at  a 
+temperature of 23 C  3 C.  Compare each measured band location to its certified value listed in the appropriate 
+Table 1  or  Table 2.    Band  locations  in  Table 1  are  vacuum-wavenumber  values,  while  those  in  Table 2  are 
+air-wavelength values.  To convert the values in Table 1 to air wavenumber, the appropriate correction for the index 
+of refraction of air must be applied [2].  Taking into account the certification uncertainty of each band of SRM 2036, 
+any  statistically  significant  differences  between  the  measured  and  certified  band  locations  may  then  be  used  to 
+recalibrate the spectrometer wavenumber/wavelength scale. 
+ 
+Measurement  Conditions:    The  diffuse  reflectance  certification  measurements  for  the  NIR  spectral  region 
+(10 300 cm−1  to  5 130 cm−1)  were  made  using  Bruker  IFS66  and  Bio-Rad  FTS-60  Fourier  transform (FT) 
+spectrometers.(1)  The IFS66 spectrometer was equipped with a bifurcated-fiber-optic diffuse-reflectance probe.  The 
+FTS-60 spectrometer was equipped with a custom integrating sphere assembly that enabled the measurement of the 
+total (8° sampling geometry) and diffuse components of the reflectance spectrum of SRM 2036.  Details about this 
+spectrometer can be found in references 3 and 4.  The IFS66 spectrometer calibration was validated with ambient 
+water  vapor  bands,  SRM 2065  Ultraviolet-Visible-Near-Infrared  Transmission  Wavelength/Wavenumber  Standard 
+(compositionally  identical  to  SRM 2036),  and  SRM 1920a  Near  Infrared  Reflectance  Wavelength  Standard  from 
+740 nm to 2000 nm.  The FTS-60 spectrometer was calibrated using ambient water vapor and carbon dioxide bands. 
+ 
+The  dispersive  air-wavelength  NIR  measurements  were  performed  on  a  PerkinElmer  Lambda  900 (PE900) 
+spectrometer equipped with a 60 mm integrating sphere and a Varian Cary 5e spectrometer equipped with a 110 mm 
+integrating  sphere  assembly.    Both  spectrometers  were  used  to  measure  the  total  and  diffuse  components  of  this 
+standard.  The air-wavelength axis of the PE900 spectrometer was calibrated in the NIR using the emission lines of 
+the internal deuterium lamp (second order of the grating), and using SRM 2065 for transmittance and SRM 1920a 
+for diffuse reflectance.  The Cary 5e was calibrated using the same emission lines and standards as the PE900. 
+ 
+The  transmission  spectra  of  the  optical  glass  only  (without  the  PTFE  backing)  were  measured  on  the  IFS66 
+spectrometer  operated  in  transmission  mode.    SRM 2036  is  NOT  intended  for  use  as  a  transmission 
+wavelength/wavenumber  standard.   However,  the homogeneity  of  this  melt  and  similarity  of  its  band  positions  to 
+SRM 2065  were  determined  using  transmission  measurements.    For  these  transmission  measurements,  the  IFS66 
+was  calibrated 
+in  vacuum-wavenumber  units  using  SRM 2517  Wavelength  Reference  Absorption 
+Cell-Acetylene [5].    The  calibration  of  the  spectrometer  was  validated  using  water  vapor  bands.    Details  of  the 
+measurements and data analysis for both FT and dispersive measurements can be found in references 6 through 8. 
+ 
+Wavenumber  and  Wavelength  Band  Location  Methodology:    The  method  used  to  determine  the  certified  
+NIR  wavenumber  and  wavelength  band 
+(center-of-gravity)  
+technique [9–11].  If another technique is used, a comparison with the certified values may not be valid.  In this 
+certificate,  positions  determined  with  the  centroid  algorithm  are  referred  to  as  band  locations.    For  SRM 2036 
+
+locations  of  SRM 2036 
+
+the  centroid 
+
+is 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2036  
+
+Page 2 of 7 
+
+ 
+
+centroid  calculations,  a  10 %  fraction  of 
+the  band  was  used  for  both  wavenumber  and  wavelength 
+reflection-absorbance data.  Further information on the use of this algorithm with other NIST SRMs can be found in 
+reference 10.   
+ 
+Certified  Wavenumber  Band  Locations:    The  certified  vacuum-wavenumber  locations  listed  in  Table 1  were 
+obtained at 8 cm−1
+constant wavenumber resolution and are certified for operation between 21 °C and 26 °C.  The 
+certified values represent the mean band locations from both the IFS66 fiber probe measurements and the FTS-60 
+total  and  diffuse-component-only  measurements.    The  location  bias  for  each  of  these  modes  of  operation  is  well 
+within  the  short-term  precision  variance  of  these  instruments  operated  in  diffuse  reflectance.    Atmospheric  water 
+vapor  is  a  significant  source  of  variance  for  band  3,  and  this  band  should  be  used  with  caution  when  calibrating 
+unpurged commercial spectrometers with SRM 2036. 
+ 
+Certified  Wavelength  Band  Locations:    The  certified  values  for  the  NIR  air-wavelength  band  locations  for  the 
+seven reflection-absorption bands for 3 nm, 5 nm, and 10 nm spectral slit width (SSW) resolution at 21 °C are listed 
+in Table 2.  The certified values of the air-wavelength band locations represent the mean band locations from both 
+the  Cary 5e  and  PE900  spectrometers  operated  in  both  total (specular  and  diffuse)  and  diffuse-only  collection 
+geometries.  As for the FT measurements, the location bias for each of these modes of operation of the SRM was 
+within the short-term precision variance of the dispersive spectrometers used for certification of this standard.  The 
+NIR reflectance spectrum of SRM 2036 is illustrated in Figure 1. 
+ 
+Certification  Uncertainty:  The  expanded  uncertainty (U95)  for  the  wavenumber  and  wavelength  band  locations 
+given in Tables 1 and 2 are determined from the appropriate combination of component standard uncertainties (i.e., 
+estimated  standard  deviations),  with  a  coverage  factor  based  on  the  Student’s  t-distribution,  to  define  the  interval 
+within which the unknown value of the band/peak can be asserted to lie with a level of confidence of approximately 
+95 % [12].    Components  of  the  uncertainty  for  the  vacuum-wavenumber  band  locations  include:  instrument  bias 
+(two certification spectrometers), calibration of the NIST FT spectrometers, location shift due to temperature, water 
+vapor interference, and the short-term precision variance.  Components of the uncertainties for the air-wavelength 
+band locations include: instrument bias (two reference instruments) and the location uncertainty of the wavelength 
+calibration standards.   
+ 
+
+Table 1.  Certified Band Locations(a,b), Vacuum Wavenumber at 8 cm–1 Resolution 
+
+ 
+
+Band 
+
+1(c) 
+2 
+3 
+4 
+5 
+6 
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Centroid Location    U95 
+(cm–1) 
+
+5139.4   
+6803.9   
+7312.7   
+8179.0   
+8682.0   
+9293.9   
+10244.9   
+
+0.34 
+0.94 
+0.61 
+0.36 
+1.65 
+1.30 
+0.70 
+
+ 
+(a) Band locations determined using a centroid method with a band fraction of 0.1; see Figure 1 for band identification. 
+(b) Uncertainties represent U95, the expanded uncertainty calculation using a T statistic where n = 3, T = 4.3, in accordance with 
+
+reference 12. 
+
+(c) See Information Values section for additional information pertaining to Band 1 centroid location. 
+ 
+
+SRM 2036  
+
+Page 3 of 7 
+
+Table 2.  Certified Band Locations(b,c), Air Wavelength 
+
+ 
+Band 
+
+3 nm SSW   U95 
+(nm) 
+
+7 
+6 
+5 
+4 
+3 
+2 
+1(d) 
+
+  976.0    0.3 
+  1075.7    0.2 
+  1151.4    0.1 
+  1222.1    0.4 
+  1367.1    0.4 
+  1469.6    0.4 
+  1945.7    0.3 
+
+Standard 
+Error of 
+Mean(c) 
+(nm) 
+(0.02) 
+(0.01) 
+(0.01) 
+(0.02) 
+(0.01) 
+(0.02) 
+(0.04) 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 nm SSW  U95 
+(nm) 
+
+10 nm SSW  U95 
+(nm) 
+
+Standard 
+Error of 
+Mean(c)
+(nm) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.02) 
+(0.01) 
+(0.02) 
+(0.02) 
+
+ 
+976.0    0.2 
+  1075.7    0.9 
+  1151.2    1.0 
+  1222.1    0.3 
+  1367.2    0.5 
+  1469.6    1.7 
+  1945.8    0.7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+975.9    0.6 
+  1075.8    2.2 
+  1151.0    3.4 
+  1222.1    0.9 
+  1367.3    0.2 
+  1469.5    3.7 
+  1945.6    1.5 
+
+Standard 
+Error of 
+Mean(c)
+(nm) 
+(0.01) 
+(0.03) 
+(0.01) 
+(0.03) 
+(0.02) 
+(0.03) 
+(0.01) 
+
+(a) Band locations determined using a centroid method with a band fraction of 0.1; see Figure 1 for band identification. 
+(b) Uncertainties represent U95, the expanded uncertainty calculation using a T statistic where n = 3, T = 4.3, in accordance with 
+reference 12.  The 95 % confidence interval of the air-wavelength bands of SRM 2036 is determined by the uncertainty of the 
+calibration of the reference instruments with SRM 2065. 
+
+(c) The number in parentheses is the standard error of the mean centroid band location. 
+(d) See Information Values section for additional information pertaining to Band 1 centroid location. 
+ 
+ 
+Information Values: An information value is considered to be a value that will be of interest to the SRM user, but 
+insufficient information is available to assess the uncertainty associated with the value [1].  Information values are 
+intended  to  provide  additional  information  on  the  matrix.    The  approximate  location  of  the  band  edges  used  to 
+calculate  band  fractions  in  vacuum  wavenumber (cm–1)  and  air wavelength (nm)  are  given  in  Table 3.    Regarding 
+Band 1,  the  certified  band  locations  were  determined  using peak  fractions  associated  with  the  band edge  listed  in 
+Table 3.    However,  an  inflection  point  arising  from  a  shoulder  peak  is  evident  in  the  reflectance  spectrum  of 
+SRM 2036  at  approximately  1995 nm  (5 130 cm−1)  in  Figure 1.    This  inflection  point  can  be  used  for  the 
+determination of a 10 % peak fraction for Band 1 but studies have shown that the centroid band location in this case 
+will typically fall outside the certification uncertainties.  These studies revealed a bias in centroid band location for 
+Band 1  using  a  10 %  peak  fraction  based  on  this  shoulder  peak  compared  to  that  used  for  the  certified  values  of 
+approximately  +0.4 nm  for  wavelength  (e.g.,  1946.1 nm  for  3 nm  SSW)  and  –0.9 cm−1  for  wavenumber 
+(e.g., 5138.5 cm−1). 
+ 
+Information values for the NIR vacuum-wavenumber temperature coefficients and 0 °C degree intercepts are given 
+in Table 4.  SRM 2036 has additional absorbance bands between 334 nm and 1000 nm.  The locations of these bands 
+are currently not certified.  Information values on the location of these bands are provided in Table 5 for a SSW of 
+5 nm.  The ultraviolet-visible reflectance spectrum of SRM 2036 is illustrated in Figure 2. 
+ 
+
+Table 3.  Information Values Approximate Location of Band Edge, Wavenumber (cm–1) and Wavelength (nm). 
+ 
+cm–1 
+
+Band 
+
+nm
+
+4550 
+6650 
+7160 
+8560 
+8560 
+8935 
+10365 
+
+2180 
+1503 
+1396 
+1168 
+1168 
+1119 
+964 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+ 
+
+ 
+ 
+ 
+
+SRM 2036  
+
+Page 4 of 7 
+
+Table 4.  Information Values for Temperature Coefficients:  Parameters for 4 cm–1 Resolution Spectra(a). 
+ 
+
+Band 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+βi, 
+(cm–1/C) 
+–0.0494(15)(b) 
+0.0878(16) 
+0.012(6) 
+0.0597(10) 
+–0.0395(15) 
+–0.0751(19) 
+0.0179(7) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+α i,SRM, 
+(cm–1) 
+
+5139.77(12) 
+6802.16(5) 
+7312.41(12) 
+8176.78(6) 
+8682.5(2) 
+9295.84(15) 
+10245.12(3) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) All  band  locations  can  be  described  by  a  band-specific  linear  model:  bi = i + iT,  where  bi  denotes  the  estimated  band 
+location, T is the temperature in °C of the filter during acquisition of the spectrum, i is the change in band location per °C 
+(temperature coefficient slope) for the ith band, and i is the extrapolated location of the band at 0 °C (temperature coefficient 
+intercept). 
+
+(b) The digits in parentheses denote the combined standard uncertainty of the last reported digit of the coefficient. 
+ 
+ 
+
+Table 5.  Information Band Location Values for Measured in Reflectance at 5 nm SSW. 
+
+ 
+
+ 
+ 
+
+Band 
+
+20 
+19 
+18 
+17 
+16 
+15 
+14 
+13 
+12 
+11 
+10 
+9 
+8 
+
+ 
+
+Wavelength 
+(nm) 
+333.8 
+346.1 
+361.3 
+374.3 
+385.8 
+402.6 
+418.2 
+485.3 
+538.2 
+583.3 
+642.7 
+747.6 
+804.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2036  
+
+Page 5 of 7 
+
+100 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+r
+ 
+
+T
+ 
+
+e
+ 
+
+S
+ 
+
+&
+ 
+
+%
+ 
+
+o
+o
+ 
+
+o
+c
+ 
+
+N
+n
+ 
+
+900 
+
+ 
+ 
+
+ 
+ 
+
+10 5 
+
+1200 
+
+1500 
+
+o
+u
+r
+ 
+
+(
+O
+U
+R
+D
+ 
+
+e
+u
+v
+p
+a
+p
+o
+y
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+2
+9
+u
+U
+L
+V
+D
+I
+J
+I
+Y
+%
+ 
+
+e
+c
+e
+o
+o
+c
+o
+c
+e
+o
+ 
+
+(
+O
+U
+D
+ 
+
+o
+o
+g
+e
+e
+s
+e
+:
+s
+.
+ 
+
+O
+r
+e
+ 
+
+T
+F
+A
+ 
+
+100 
+
+ 
+ 
+
+ 
+
+N
+n
+ 
+
+N
+n
+ 
+
+A
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+T
+ 
+
+1800 
+
+2100 
+
+Wavelength  (nm) 
+
+Figure 1.  SRM 2036 Diffuse Reflectance Spectrum.  Specular-excluded spectrum acquired at 5 nm spectral 
+slit width.  The dashed lines and arrows indicate the base of the band from which the 10 % band fractions 
+were  calculated  for  band  location  certification.    They  do  not  represent  the  10 %  band  fractions.    See 
+Information Values section for additional information pertaining to Band 1 centroid location. 
+ 
+ 
+
+300 
+
+40 
+
+0 
+
+500 
+
+600 
+
+700 
+
+800 
+
+Wavelength  (nm)
+
+Figure 2.  SRM 2036 Diffuse Reflectance Spectrum.  Specular-included spectrum acquired at 5 nm spectral 
+slit width. 
+
+SRM 2036  
+
+Page 6 of 7 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Jan 2013). 
+Edlen, B.; The Refractive Index of Air; Metrologia, Vol. 2, p. 12 (1966). 
+
+[2] 
+[3]  Hanssen, L.M.;  Kaplan, S.G.;  Infrared  Diffuse  Reflectance  Instrumentation  and  Standards  at  NIST;  Anal. 
+
+Chimi. Acta., Vol. 380, pp. 289–302 (1998). 
+
+[4]  Hanssen, L.M.;  Integrating  Sphere  System  and  Method  for  Absolute  Measurement  of  Transmittance, 
+
+Reflectance and Absorptance of Specular Samples; Appl. Opt., Vol. 40, pp. 3196–3204 (2001). 
+
+[5]  Gilbert, S.L.;  Swann, W.C.;  Standard  Reference  Materials:  Acetylene  C2H2  Absorption  Reference  for 
+1510 nm  –  1540 nm  Wavelength  Calibration-SRM  2517;  NIST  Special  Publication  260–133,  U.S. 
+Government Printing Office: Washington, DC (1997). 
+
+[6]  Choquette, S.J.;  Duewer, D.L.;  Hanssen, L.M.;  Early, E.E.;  SRM  2036  A  Reflection  Wavelength  Standard; 
+
+Appl. Spectrosc., Vol. 59 Issue 4, pp. 496–504 (2005). 
+
+[7]  Duewer, D.L.;  Choquette, S.J.;  O’Neal, L.E.;  Filliben, J.J.;  Rare-earth  Glass  Reference  Materials  for 
+
+Near-Infrared Spectrometry: Sources of X-axis Location Variability; Anal. Chimi. Acta., pp. 1–14 (2003). 
+
+[8]  Choquette, S.J.;  O’Neal, L.E.;  Duewer, D.L.;  Rare-Earth  Glass  Reference  Materials  for  Near-Infrared 
+Spectrometry:  Correcting  and  Exploiting  Temperature  Dependencies;  Anal.  Chem.,  Vol. 75,  pp. 961–966 
+(2003). 
+
+[9]  Cameron, D.G.;  Kauppinen, J.K.;  Moffat, J.K.;  Mantsch, H.H.;  Precision  in  Condensed  Phase  Vibrational 
+
+Spectroscopy; Appl. Spectrosc., Vol. 36, pp. 245–250 (1982). 
+
+[10]  Zhu, C.;  Hanssen, L.M.;  Studies  of  Polystyrene  Wavenumber  Standard  for  Infrared  Spectrometry; 
+11th International  Conference  of  Fourier  Transform  Spectrometry,  AIP  Proceedings;  J.A. de Haseth,  Ed.; 
+Vol. 430, pp. 491–494, American Institute of Physics, NY (1998). 
+
+[12] 
+
+[11]  Standard Practice for Describing and Measuring Performance of Fourier Transform Mid-Infrared (FT-MIR) 
+Spectrometers: Level Zero and Level One Tests; Annual Book of Standards, Vol. 3.06, Section 3, Analytical 
+Procedures, E1421-99 (2000). 
+JCGM  100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) 
+(2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed 
+Jan 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Jan 2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision History:   24 January 2013 (Added information values for the approximate  location of the band edge; editorial changes); 
+06 November 2012 (Corrected Table 3, Information Values for Bands 5, 6, and 7); 31 October 2012 (Extension of certification period; editorial 
+updates); 30 January 2009 (Editorial updates); 22 July 2008 (Extension of certification period); 13 June 2003 (Original certificate date).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2036  
+
+Page 7 of 7 
+
+

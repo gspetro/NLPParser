@@ -1,0 +1,1170 @@
+﻿Date of Issue:
+
+19 August 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		RM Number:	8107
+
+		RM Name:	Additives in Smokeless Powder
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Reference Material (RM) is intended to support analytical measurements of nitroglycerin, diphenylamine, Nnitrosodiphenylamine, and ethyl centralite, including qualitative additive identification and quantitative compositional measurements.  RM 8107 is a smokeless powder of the type used as the propellant in small arms ammunition.  A unit of RM 8107 consists of one bottle containing 5 g of smokeless powder.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+	
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Explosives		Division 1.3
+
+		Health Hazard:	Acute Toxicity, Oral 	Category 4
+
+			Eye Damage/Irritation 	Category 2A
+
+			Skin Sensitization 	Category 1A
+
+			Reproductive Toxicity 	Category 1B
+
+			STOT, Repeated Exposure 	Category 2
+
+			
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word
+
+			DANGER
+
+			Hazard Statement(s) 
+
+	H203	Explosive; fire, blast or projection hazard.
+
+	H302	Harmful if swallowed. 
+
+	H319	Causes serious eye irritation.
+
+	H317	May cause an allergic skin reaction. 
+
+	H360	May damage fertility or the unborn child.	
+
+	H373	May cause damage to organs (circulatory system, blood, kidneys, liver) through prolonged or repeated exposure.
+
+
+
+
+	Precautionary Statement(s)
+
+	P201	Obtain special instructions before use.
+
+	P202	Do not handle until all safety precautions have been read and understood.
+
+	P210	Keep away from heat, sparks, open flames, and hot surfaces.  No smoking.
+
+	P250	Do not subject to grinding, shock, or friction.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink or smoke when using this product.
+
+	P272	Contaminated work clothing must not be allowed out of the workplace.
+
+	P280	Wear protective gloves, protective clothing and eye protection. 
+
+	
+
+	P301+P312	If swallowed: Call a doctor if you feel unwell. 
+
+	P330	Rinse mouth.
+
+	
+
+	P302+P352	If on skin: Wash with plenty of water. 
+
+	P362+P364	Wash contaminated clothing before reuse.
+
+	
+
+	P305+P351+P338	If in eyes: Rinse cautiously with water for several minutes.  Remove contact lenses, if present and easy to do.  Continue rinsing.
+
+	P333+P337++P313	If skin or eye irritation persists: Get medical attention.
+
+	
+
+	P308+P313	If expose or concerned: Get medical attention.
+
+	P370+P380	In case of fire: evacuate area.
+
+	P372	Explosion risk in case of fire.
+
+	P373	Do NOT fight fire when fire reaches explosives.
+
+	
+
+	P401	Store contents and container according to local regulations.
+
+	P405	Store locked up. 
+
+	
+
+	P501	Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Ball powder, propellant
+
+	Other Designations:  Ball-type smokeless powder; powder, smokeless; smokeless propellant; WC; SPI; WCUNI; M38; M47. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+
+(%)
+
+Ball powder, propellant
+
+		129037-80-5
+
+not applicable
+
+	100
+
+Individual Component(s)
+
+	
+
+
+
+	
+
+Nitrocellulose
+
+		9004-70-0
+
+not applicable
+
+	>50
+
+Nitroglycerin
+
+		55-63-0
+
+200-240-8
+
+	13
+
+Dibutyl phthalate
+
+		84-74-2
+
+201-557-4
+
+	0 to 10
+
+Polyester adipate
+
+		not applicable
+
+not applicable
+
+	0 to 10
+
+Ethyl centralite 	(diethyldiphenylurea)
+
+		85-98-3
+
+201-645-2
+
+	4
+
+Rosin
+
+		8050-09-7
+
+not applicable
+
+	0 to 5
+
+Akardite II
+
+		13114-72-2
+
+236-039-7
+
+	0 to 3
+
+Potassium nitrate
+
+		7757-79-1
+
+231-818-8
+
+	0 to 3
+
+Potassium sulfate
+
+		7778-80-5
+
+231-915-5
+
+	0 to 2
+
+Ethyl acetate
+
+		141-78-6
+
+205-500-4
+
+	0 to 1.5
+
+Diphenylamine
+
+		122-39-4
+
+204-539-4
+
+	0.8
+
+N-Nitrosodiphenylamine
+
+		86-30-6
+
+201-663-0
+
+	0.3
+
+Tin dioxide
+
+		18282-10-5
+
+242-159-0
+
+	0 to 1.5
+
+Calcium carbonate
+
+		1317-65-3
+
+215-279-6
+
+	0 to 1
+
+Graphite
+
+		7782-42-5
+
+231-955-3
+
+	0 to 1
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing, or oxygen by qualified personnel.  Get immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Get medical attention, if needed.  Thoroughly clean and dry contaminated clothing before reuse.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, get medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Eye irritation and skin sensitization.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Severe fire and explosion hazard.  This material is considered a Class B explosive under OSHA 1910.109(a)(3)(ii) and 1.3C under US DOT 49 CFR 173.51.  Avoid sparks, flame, heat, friction or impact.  Dust/air mixtures may ignite or explode.  May explode if exposed to shock, friction or heating.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Flood with a large volume of water.
+
+		Unsuitable:  Do not use water jet as an extinguisher, as this may spread fire.
+
+Specific Hazards Arising from the Chemical:  Toxic vapors/gases may be formed during a fire and miscellaneous decomposition products.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 2	Fire = 4	Reactivity = 4
+
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Eliminate all ignition sources.  Wear appropriate protective equipment and non-flammable or flame retardant clothing during clean-up.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Avoid generating dust.  Do not touch spilled material.  Notify safety personnel of spills.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+
+
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+
+
+Exposure Limits(a)
+
+Components
+
+OSHA (PEL)
+
+ACGIH (TLV)
+
+NIOSH (REL)
+
+Ball powder, propellant
+
+NOEL
+
+NOEL
+
+NOEL
+
+Individual components of ball powder, propellant in RM 8107 with occupational exposure limits.
+
+Nitroglycerin
+
+Ceiling: 0.2 ppm (2 mg/m3) 
+
+Prevent or reduce skin absorption.
+
+TWA: 0.05 ppm
+
+	Skin potential significant contribution to overall exposure by the cutaneous route. 
+
+TWA: 0.1 mg/m3
+
+	Potential for dermal absorption.
+
+IDLH: 75 mg/m3
+
+Dibutyl phthalate
+
+TWA: 5 mg/m3
+
+TWA: 5 mg/m3
+
+TWA: 5 mg/m3
+
+IDLH: 4000 mg/m3 
+
+Ethyl acetate
+
+
+
+TWA: 400 ppm 
+(1400 mg/m3)
+
+TWA: 400 ppm 
+
+TWA: 400 ppm (1400 mg/m3)
+
+IDLH: 2000 ppm [10 % LEL]
+
+Diphenylamine
+
+NOEL
+
+TWA: 10 mg/m3 
+
+TWA 10 mg/m3
+
+Tin dioxide
+
+NOEL
+
+TWA: 2 mg/m3 
+
+as Sn (related to Tin oxide)
+
+TWA: 2 mg/m3 as Sn
+
+Calcium carbonate
+
+TWA: 15 mg/m3 (total) TWA: 5 mg/m3 (resp)
+
+NOEL
+
+TWA: 10 mg/m3 (total) 
+TWA: 5 mg/m3 (resp)
+
+Graphite
+
+TWA: 15 mg/m3 (synthetic) total dust
+TWA: 5 mg/m3 (synthetic) respirable fraction
+
+TWA: 15 mppcf (natural)
+
+TWA: 2 mg/m3
+
+(all forms except graphite fibers) respirable fraction
+
+TWA: 2.5 mg/m3 (natural) respirable dust
+
+IDLH: 1250 mg/m3
+
+	(a)	NOEL:  No occupational exposure limits established.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+
+
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties
+
+Ball powder, propellant
+
+Appearance
+(physical state, color, etc.)
+
+	granular grey to black colored powder
+
+Molecular Formula
+
+	varies
+
+Molar Mass (g/mol)
+
+	varies
+
+Odor
+
+	odorless
+
+Odor threshold (mg/m3)
+
+	not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+not available
+
+Relative Density
+
+bulk density, 0.5 g/mL to 1 g/mL
+
+Vapor Pressure
+
+<1 mmHg
+
+Vapor Density (air = 1)
+
+not available
+
+Viscosity
+
+not available
+
+Solubility(ies)
+
+negligible
+
+Partition coefficient (n-octanol/water)
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+190 °C to 200 °C (374 °F to 392 °F)
+
+Thermal Decomposition
+
+above 50 °C (122 °F)
+
+Initial boiling point and boiling range
+
+not available
+
+Explosive Limits, LEL (Volume %)
+
+not available
+
+Explosive Limits, UEL (Volume %)
+
+not available
+
+Flash Point
+
+not available
+
+Flammability (solid, gas)
+
+not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Hazardous polymerization does not occur.
+
+Conditions to Avoid:  Avoid contact with incompatible materials.  Direct sunlight, artificial ultraviolet light, flame, and heat.
+
+Incompatible Materials:  Strong acids, alkalis, oxidizers, and amines.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce carbon monoxide, carbon dioxide, and oxides of nitrogen.  Decomposition becomes measurable above 50 °C (122 °F)
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Eye irritation, skin sensitization, and toxic if inhaled.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Dust may irritate respiratory system.
+
+Skin Contact:  Skin contact may result in irritation.
+
+Eye Contact:  May causes eye irritation.
+
+Ingestion:  Irritation to the gastrointestinal tract.  The nitroglycerin contained in this material may cause severe headache, drop in blood pressure, mental confusion, nausea, and vomiting.
+
+
+
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Category 4, Oral
+
+Components
+
+Acute Toxicity
+
+
+
+Ball powder
+
+		Rat, Oral LD50: >5 g/kg
+
+Rabbit, Dermal LD50: >2 g/kg
+
+Individual components of ball powder, propellant in RM 8107 with acute toxicity information available are listed.
+
+Nitrocellulose
+
+Rat, Oral LD50: >5 g/kg
+
+Nitroglycerin
+
+	Rat, Oral LD50: 150 mg/kg
+
+Rabbit, Dermal LD50: >280 mg/kg
+
+Category 2, Inhalation:  Mixture is not classified based on nitroglycerin’s low vapor pressure. Explosive; fire, blast will result if excessive heat is applied.
+
+Dibutyl phthalate
+
+Rat, Inhalation LC50: 4250 mg/m3 
+
+Rat, Oral LD50: 7499 mg/kg
+
+Rabbit, Dermal LD50: >20 mL/kg
+
+Ethyl centralite
+
+Rat, Oral LD50: 2750 mg/kg
+
+Rosin
+
+	Rat, Inhalation LC50: 110 mg/m3
+
+	Rat, Oral LD50: 7600 mg/kg
+
+Potassium nitrate
+
+	Rat, Oral LD50: 3015 mg/kg	
+
+Potassium sulfate
+
+	Rat, Oral LD50: 6600 mg/kg
+
+N-Nitrosodiphenylamine
+
+	Rat, Oral LD50: 1825 mg/kg Oral
+
+	Rabbit, Dermal LD50: >7940 mg/kg
+
+Ethyl acetate
+
+	Rat, Inhalation LC50: >6000 ppm (6h); 200 gm/m3; 1600 ppm (8 h)
+
+	Rat, Oral LD50: 5620 mg/kg
+
+	Rabbit, Dermal LD50: >20 mL/kg
+
+Diphenylamine
+
+	Rat, Oral LD50: 1120 mg/kg
+
+	Rabbit, Dermal LD50: >5000 mg/kg
+
+Tin dioxide
+
+Rat, Oral LD50: 700 mg/kg
+
+Skin Corrosion/Irritation:  Not classified.
+
+Nitroglycerin:  Rabbit Eyes: 0.1 mL
+
+Serious Eye Damage/Irritation:  Category 2A
+
+Nitroglycerin:  Rabbit Skin: 500 mg (24 h) mild; 0.5 mL (mild)
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Category 1A.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Ball powder is not listed by NTP, IARC or OSHA as carcinogen/potential carcinogen.
+
+Reproductive Toxicity:  Category 1B, may damage fertility or the unborn child.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 2; may cause damage to the circulatory system, blood, kidneys and liver through prolonged or repeated exposure.
+
+Aspiration Hazard:  No data available.
+
+
+
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:  Individual components with ecotoxicity data are listed.
+
+Components
+
+Ecotoxicity Data
+
+Nitroglycerin
+
+		Fish: Bluegill (Lepomis macrochirus) LC50 [static]: 1.28 mg/L (96 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50 [static]: 46 mg/L to 55 mg/L (48 h)
+
+Dibutyl phthalate
+
+Fish: Fathead minnow (Pimephales promelas) LC50 [flowthrough]: 0.71 mg/L to 1.2 mg/L (96 h)
+
+Algae: Pond scum (Desmodesmus subspicatus) EC50: 1.2 mg/L (72 h) 
+
+Ethyl centralite
+
+Fish:  Rainbow trout (Oncorhynchirus mykiss) LC50 [semi-static]:  5.8 mg/L (96 h) 
+
+Algae:  Pseudokirchneriella subcapitata EC50: >433 mg/L (96 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50: 5.46 mg/L to 9.83 mg/L (48 h)
+
+Rosin
+
+Algae: Pond scum (Desmodesmus subspicatus) EC50: 400 mg/L (72 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50: 3.8 mg/L to 5.4 mg/L (48 h)
+
+Ethyl acetate
+
+Fish: Fathead minnow (Pimephales promelas) LC50 [flowthrough]: 220 mg/L to 250 mg/L (96 h) 
+
+Invertebrate: Water flea (Daphnia magna) EC50: 560 mg/L [static] (48 h)
+
+Potassium sulfate
+
+Fish: Bluegill (Lepomis macrochirus) LC50: 653 mg/L (95 h)
+
+Algae: Pond scum (Desmodesmus subspicatus) EC50:  2900 mg/L (72 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50: 890 mg/L (48 h)
+
+Diphenylamine
+
+Fish: Fathead minnow (Pimephales promelas) LC50 [flowthrough]: 3.47 mg/L to 4.14 mg/L (96 h)
+
+Algae: Scenedesmus subspicatus EC50: 1.5 mg/L (72 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50: 1.69 mg/L to 2.46 mg/L (48 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential: No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  NA3178, Smokeless powder for small arms (100 lbs or less), Hazard Class 4.1, Packing Group I (domestic shipments only).  This material is forbidden by Air.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	Nitroglycerin: 10 lbs (4.54 kg) final RQ. 
+
+	Dibutyl phthalate: (10 lbs); N-Nitrosodiphenylamine: (100 lbs); Ethyl acetate: (5000 lbs)
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	1 % de minimis concentration for nitroglycerin, dibutyl phthalate, and diphenyl amine.
+
+	OSHA Process Safety (29 CFR 1910.119): 	Nitrocellulose: 25 lbs TQ (concentration >12.6 % nitrogen).
+
+		SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	Yes
+
+	REACTIVE:	Yes
+
+	PRESSURE:	No
+
+State Regulations:  Not listed under California Proposition 65.
+
+U.S. TSCA Inventory:  Nitrocellulose, nitroglycerin, dibutyl phthalate, ethyl centralite, rosin, Akardite II, potassium nitrate, potassium sulfate, ethyl acetate, diphenylamine, n-nitrosodiphenylamine, tin dioxide, calcium carbonate, and graphite are listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+16. OTHER INFORMATION
+
+	Issue Date:  19 August 2015
+
+	Sources:	ChemAdvisor, Inc., SDS Ethyl Centralite, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Nitrocellulose, Dry, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Nitroglycerin, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Dibutyl Phthalate, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Ethyl Centralite, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Rosin, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Potassium Nitrate, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Potassium Sulfate, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Ethyl Acetate, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS Diphenylamine, 20 March 2015.
+
+	ChemAdvisor, Inc., SDS N-Nitrosodiphenylamine, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Tin Dioxide, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Calcium Carbonate, 20 March 2015.
+
+		ChemAdvisor, Inc., SDS Graphite, 20 March 2015.
+
+		St. Marks Powder, Inc., Vendor SDS, BALL POWDER® Propellant, 06 June 2015.
+
+	ChemIDplus Advanced, National Library of Medicine's TOXNET system, BALL Powder CAS No. 129037-80-5; available at http://chem.sis.nlm.nih.gov/chemidplus/ (accessed Aug 2015).
+
+
+
+
+	
+
+	
+
+	
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLm
+
+Threshold Limit, median
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TLV 
+
+Threshold Limit Value 
+
+NFPA 
+
+National Fire Protection Association 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIST
+
+National Institute of Standards and Technology
+
+TWA 
+
+Time Weighted Average 
+
+n.o.s.
+
+Not Otherwise Specified
+
+UEL 
+
+Upper Explosive Limit 
+
+
+
+
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Report of Investigation.
+
+Users of this RM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			RM 8107		Page 9 of 9

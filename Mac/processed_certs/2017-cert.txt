@@ -1,0 +1,800 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material 2017 
+
+ 
+
+ 
+
+ 
+Multi-Angle White Reflectance Standard 
+ 
+Serial No.:   
+ 
+This Standard Reference Material (SRM) is intended for use in calibrating the reflectance factor scale of multi-angle 
+reflectance instruments for an illumina tion angle of 45° and aspecular angl es of 15°, 25°, 45°, 75°, and 110° at 
+visible wavelengths.  SRM 2017 is a polished white Russian opal glass with a diameter of 44 mm, mounted in a 
+Delrin1 holder with a diameter of 57 mm and a thickness of 13 mm.  A mark in the holder indicates the direction of 
+illumination.  The serial number is located on the back of the holder. 
+ 
+Certified Values of Reflectance Factor:   This SRM was individually calibrated using the NIST High Accuracy 
+Reference Reflectometer [1,2], which  determines bi-directional spectral refl ectance with an absolute technique.  
+Figure 1 shows typical reflectance factors as a function of wavelength for the reported aspecular geometries.  The 
+certified reflectance factor is given in Table 1 for wavelengths from 360 nm to 780 nm at an increment of 10 nm.  
+This reflectance factor is valid for  unpolarized light at an illumination angl e of 45º from the sample normal and 
+aspecular angles of 15°, 25°, 45°, 75°, and 110°, as shown in Figure 2, over the central 20 mm diameter of the 
+sample.  The uncertainty contributions and expanded uncertainty for the certified reflectance factors are given in 
+Table 2. 
+ 
+Expiration of Certification:   The certification of this SRM is deemed to be valid, within the uncertainties 
+specified, for a period of five years from the date of certification specified in Table 1, provided the sample has been 
+handled in accordance with the handling instructions given in this certifi cate.  This SRM may be recertified if the 
+sample surface has not been altered, contaminated, 
+contingent upon inspection by NIST.  For acceptance inspection and recertification information, contact M.E. Nadal 
+of the NIST Optical Technology Division by phone (301) 975-4632; fax (301) 869-5700; or email 
+maria.nadal@nist.gov. 
+ 
+Handling Instructions: When not in use, the sample should be properly stored in its original container.  Improper 
+handling will adversely affect the condition of the front su rface.  Lint-free gloves (nylon  or latex) should be used 
+when handling the sample to prevent  fingerprints on the surface.  Gently us e a clean air bulb to remove dust from 
+the front surface.  The polished surface 
+of the sample is very stable.  Ho wever, care should be exercised while 
+cleaning and handling the sample to avoid scratching the polished surface. 
+ 
+The overall direction and coordination leading to certifica tion was provided by G.T. Fraser of the NIST Optical 
+Technology Division.  The initial research , development, and technical measurements leading to certification of this 
+SRM were performed in the NIST Optical Technology Division by M.E. Nadal and E.A. Early. 
+ 
+Statistical consultation was provided by A.I. Aviles of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved in the preparation, certifica tion, and issuance of this SRM were coordinated through 
+the NIST Standard Reference Materials Group by J.W.L. Thomas. 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  3 June 2002 
+
+John Rumble, Jr., Chief 
+Measurement Services Division 
+
+Albert C. Parr, Chief 
+Optical Technology Division 
+
+or damaged; however, acceptance for recertification is 
+
+                                                           
+
+11 Certain commercial equipment,  instrumentation, or materials are identified  in this certificate to specify adequately 
+the experimental procedure.  Such identification does not im ply recommendation or endorsement  by the NIST, nor does it imply 
+that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2017 
+
+Page 1 of 6 
+
+ 
+
+axis onto the surface was aligned with the mark on the 
+
+Source of Material:  The samples were produced by the Hemmendinger Color Laboratory, Princeton, NJ. 
+ 
+Determination of Reflectance Factor:   The bi-directional spectral reflectan ce measurements were made using the 
+NIST High Accuracy Reference Reflectom eter [1,2].  The sample was placed  in a mount on the sample goniometer 
+so that its front surface was on the axis  of rotation.  The collimated illuminati on beam, with less than 1º divergence, 
+a 14.5 nm spectral bandwidth, and a diameter of 14 mm was centered on the front of the sample.  The orientation of 
+the mount was adjusted so that, at a  goniometer angle of 0º, the illumination b eam was retroreflected.  This aligned 
+the normal of the sample parallel to the illumination axis.  The geometry is denoted by 
+θi/θv  with respect to the 
+normal of the sample so that, fo r example, the specular condition  θi  = 45°,  θv = –45° is represented by 45°/–45°.  
+The aspecular angle is the viewing angle measured from th e specular angle toward the sample normal.  Radiant flux 
+was collected and measured using a r eceiver mounted on an arm of the goniometer.  The distance from the center of 
+the illuminated area to the cente r of the limiting aperture of  the collector optics was 670.7 mm.  The diameter of the 
+limiting aperture was 31.85 mm.  The sources of radiant flux into the monochromator were a xenon arc lamp for 
+wavelengths less than 390 nm and a quartz-tungsten-hal
+ogen incandescent lamp for longer wavelengths.  The 
+optical detector was a silicon photodiode.  During the measurements, the am bient temperature was 20 ºC ± 3 ºC and 
+the relative humidity was 40 % ± 10 %. 
+ 
+The bi-directional spectral reflectance was measured at wavelengths from 360 nm to 780 nm at a 10 nm increment 
+for polarizations of the illumination beam both parallel and perpendicular to the plane of illumination
+, an 
+illumination angle of 45°, and aspecular  angles of 15°, 25°, 45°, 75°, and 110°.   As shown in Figure 2, the sample 
+was positioned so that the projection of the illumination 
+Delrin holder.  For each wavelength a nd polarization, the following measurement sequence was followed.  With the 
+sample translated out of the illumination beam, a signal pr oportional to the incident ra diant flux was measured by 
+the receiver, termed the incident signa l.  The reflected radiant flux was measured by centering the sample in the 
+illumination beam and rotating it with the goniometer to 
+rotated so that the viewing angle was in the desired aspecular direction, and a signal proportional to the reflected 
+  The sequence was completed by again measuring the 
+radiant flux was measured, termed the reflected signal.
+incident signal.  Also, after each signal reading, a shutter was closed on th e monochromator and a dark signal was 
+measured. 
+ 
+For each wavelength and polarization, th e reflectance factor was calculated by  subtracting the dark signals from the 
+incident and reflected signals to yield net signals, dividing  the net reflected signal by the  average of the net incident 
+signals and the projected solid angle of the limiting aperture, and multiplying by the constant 
+π.  The reflectance 
+factor for unpolarized incident light was calculated by averaging the reflectance factors of both polarizations. 
+ 
+Discussion of Uncertainties:  Uncertainties were calculated according to  the procedures outlined in Reference [3]. 
+Type A uncertainty components due to  random effects include source stability a nd detector noise.  The uncertainty 
+contribution caused by these effects was  evaluated from the standard deviation  of repeat measurements (three scans 
+with ten measurements each) of each sample. 
+ 
+Type B uncertainty components due to systematic effects include those that depend on the scattering properties of 
+the sample (wavelength, uniformity, illumination, and viewing angle) and those that are independent of the 
+(solid angle and viewing angle).  The uncertainty contribution for the solid angle includes the standard uncertainty 
+in the distance from the illuminated area to the center of the limiting aperture of the collector optics and the standard 
+standard uncertainties in distance, diameter, wavelength, 
+uncertainty in the diameter of the limiting aperture.  The 
+and angles are given in Reference [2].  The uncerta
+derivative of the reflectance factor.  The uncertainty contributions for illumination and viewing angles were 
+evaluated from reflectance factors measur ed at angles differing from the nominal angles by 0.1º.  The uncertainty 
+contribution for uniformity was evaluated from reflectance factors measured at 5 mm displacements, both horizontal 
+and vertical, from the center of the sa mple.  All uncertainty components were  assumed to have normal probability 
+distributions. 
+ 
+The sources of uncertainty and uncertainty contributions ar e given in Table 2, categorized by effect and dependence 
+on sample.  The expanded uncertainty in reflectance factor is obtained from the root-sum-square of the uncertainty 
+contributions multiplied by a coverage factor k = 2. 
+
+inty contribution for wavelength was evaluated from the 
+
+obtain a 45º angle of illumi nation.  The receiver was 
+
+sample 
+
+SRM 2017 
+
+Page 2 of 6 
+
+REFERENCES 
+ 
+[1]  Proctor, J.E.; Barnes, P.Y.;  NIST High Accuracy Reference Reflectometer-Spectrophotometer ; J. Res. Natl. 
+
+Inst. Stand. Technol. 101, p. 619 (1996). 
+
+[2]  Barnes, P.Y.; Early, E.A.; Parr, A.C.; 
+
+NIST Measurement Services:  Spectral Reflectance
+
+; NIST Special 
+
+Publication 250-48, U.S. Government Printing Office, Washington, DC (1998). 
+
+, ISBN 72-67-10188-9, lst Ed., ISO, Geneva, 
+[3]  Guide to the Expression of Uncertainty in Measurement
+Guidelines for Evaluating and Expressing the 
+Switzerland, 1993; see also Taylor, B.N.; Kuyatt, C.E.; 
+Uncertainty of NIST Measurement Results ; NIST Technical Note 1297, U.S. Government Printing Office, 
+Washington, DC; 1994; available at http://physics.nist.gov/Pubs. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in th
+contacting SRM at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the internet 
+http://www.nist.gov/srm. 
+ 
+
+eir possession is current.  Th is can be accomplished by 
+
+SRM 2017 
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+Wavele gth [nm]
+ 
+
+600
+
+ 
+ 
+ 
+ 
+l 
+Norma
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+° 
+
+ennnnttyrrvest0g  Oeenenentittitit  ier: 
+
+wiyv’’ 
+
+    
+
+ 15°
+ 25°
+ 45°
+ 75°
+ 110°
+
+ 
+n
+s
+e
+P
+>
+d
+4
+<
+@
+
+ 
+o
+
+  
+
+  
+
+  
+
+  
+
+400
+
+500
+
+700
+
+800
+
+Gav 
+Ay 
+
+=  by 
+A 
+Vv 
+
+1.00
+
+- 
+
+| 
+
+0.98
+
+0.96
+
+0.94
+
+0.92
+
+0.90
+
+0.88
+
+0.86
+
+0.84
+
+0.82
+
+0.80
+
+r
+o
+t
+c
+a
+F
+ 
+e
+c
+n
+a
+t
+c
+e
+l
+f
+e
+R
+
+ 
+
+Figure 1.  Reflectance factor of SRM 2017 as a functi
+aspecular angles of 15°, 25°, 45°, 75°, and 110° at visible wavelengths. 
+
+on of wavelength for an illu mination angle of 45° and 
+
+Aspecular 
+
+Specular 
+
+15° 
+
+-45° 
+
+Illumination 
+
+     
+
+Direction 
+mark 
+
+ 
+Figure 2.  Schematic of sample orientation and angles.  The illuminator axis is 45° from the sample norm al, and its 
+projection onto the surface is aligned with  the mark in the Delrin holder.  Th e aspecular angle is measured from the 
+normal in the illuminator plane. 
+ 
+
+SRM 2017 
+
+Page 4 of 6 
+
+Table 1.  Reflectance factor as a function of wavelength of SRM 2017 
+
+Serial No:  2017-02-2 
+
+Calibration Date:  September 8, 2004 
+
+ 
+ 15 
+
+Wavelength [nm] 
+360 0.944 
+370 0.956 
+380 0.962 
+390 0.972 
+400 0.979 
+410 0.982 
+420 0.984 
+430 0.985 
+440 0.986 
+450 0.988 
+460 0.991 
+470 0.993 
+480 0.994 
+490 0.995 
+500 0.995 
+510 0.995 
+520 0.995 
+530 0.994 
+540 0.994 
+550 0.993 
+560 0.992 
+570 0.991 
+580 0.990 
+590 0.989 
+600 0.988 
+610 0.988 
+620 0.987 
+630 0.988 
+640 0.988 
+650 0.989 
+660 0.989 
+670 0.990 
+680 0.990 
+690 0.989 
+700 0.989 
+710 0.988 
+720 0.988 
+730 0.988 
+740 0.988 
+750 0.987 
+760 0.985 
+770 0.984 
+780 0.984 
+
+ 
+
+SRM 2017 
+
+ 
+
+Aspecular Angle [deg] 
+45 
+Reflectance Factor 
+0.936 
+0.947 
+0.954 
+0.965 
+0.969 
+0.973 
+0.977 
+0.977 
+0.979 
+0.981 
+0.983 
+0.985 
+0.986 
+0.987 
+0.987 
+0.988 
+0.988 
+0.987 
+0.987 
+0.986 
+0.986 
+0.984 
+0.983 
+0.983 
+0.982 
+0.982 
+0.982 
+0.982 
+0.983 
+0.983 
+0.984 
+0.984 
+0.984 
+0.984 
+0.984 
+0.984 
+0.984 
+0.984 
+0.983 
+0.983 
+0.982 
+0.981 
+0.980 
+
+75 
+
+0.927 
+0.939 
+0.945 
+0.955 
+0.960 
+0.963 
+0.966 
+0.968 
+0.968 
+0.970 
+0.974 
+0.975 
+0.977 
+0.978 
+0.978 
+0.979 
+0.979 
+0.979 
+0.978 
+0.977 
+0.976 
+0.975 
+0.975 
+0.974 
+0.974 
+0.974 
+0.973 
+0.974 
+0.975 
+0.975 
+0.976 
+0.977 
+0.977 
+0.977 
+0.977 
+0.977 
+0.977 
+0.977 
+0.977 
+0.976 
+0.975 
+0.975 
+0.974 
+
+25 
+
+0.939 
+0.951 
+0.957 
+0.968 
+0.974 
+0.979 
+0.980 
+0.981 
+0.982 
+0.984 
+0.988 
+0.989 
+0.991 
+0.991 
+0.992 
+0.992 
+0.992 
+0.992 
+0.991 
+0.991 
+0.990 
+0.989 
+0.988 
+0.987 
+0.986 
+0.986 
+0.986 
+0.986 
+0.986 
+0.987 
+0.987 
+0.988 
+0.988 
+0.988 
+0.988 
+0.987 
+0.987 
+0.986 
+0.986 
+0.985 
+0.984 
+0.983 
+0.982 
+
+110 
+
+0.843 
+0.852 
+0.857 
+0.865 
+0.871 
+0.873 
+0.876 
+0.877 
+0.877 
+0.879 
+0.882 
+0.885 
+0.885 
+0.886 
+0.887 
+0.887 
+0.887 
+0.888 
+0.888 
+0.887 
+0.885 
+0.885 
+0.885 
+0.884 
+0.884 
+0.884 
+0.884 
+0.884 
+0.885 
+0.886 
+0.887 
+0.887 
+0.887 
+0.888 
+0.888 
+0.888 
+0.888 
+0.888 
+0.888 
+0.887 
+0.887 
+0.887 
+0.886 
+
+Page 5 of 6  
+
+Table 2.  Uncertainty Contributions and Expanded Uncertainty (k = 2) of the 
+Reflectance Factor of SRM 2017 at Each Aspecular Angle 
+
+Aspecular Angle 
+(deg) 
+
+Uncertainty Contribution 
+(%) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source of Uncertainty 
+
+15 25 45 75 110 
+
+Systematic Effects 
+
+ 
+
+Sample-Independent 
+
+     
+
+  Distance 
+
+  Aperture Area 
+
+  Viewing Angle 
+
+0.15 0.15 0.15 0.15 0.15 
+
+0.1 0.1 0.1 0.1 0.1 
+
+0.1 0.06 0  0.1 0.37 
+
+  Wavelength 
+
+     
+
+Sample-Dependent 
+
+     
+
+  Uniformity 
+
+0.1 0.1 0.1 0.1 0.1 
+
+Illumination Anlge 
+
+0.1 0.1 0.1 0.1 0.1 
+
+  Viewing Angle 
+
+0 0 0 0 0 
+
+Random Effects 
+
+  Repeatability 
+
+ 
+
+0.2 0.2 0.2 0.2 0.4 
+
+Wavelength Range 
+
+360 nm – 390 nm 
+
+400 nm – 780 nm 
+
+Expanded Uncertainty (k = 2) 
+(%) 
+
+0.65 
+
+0.62 
+
+0.64 
+
+0.61 
+
+0.67 
+
+0.64 
+
+1.20 
+
+1.18 
+
+0.67 
+
+0.64 
+
+ 
+
+ 
+
+ 
+
+360 nm – 390 nm 
+
+400 nm – 780 nm 
+
+0.1 
+
+0 
+
+0.1 
+
+0 
+
+0.1 
+
+0 
+
+0.1 
+
+0 
+
+0.1 
+
+0 
+
+SRM 2017 
+
+Page 6 of 6  
+
+

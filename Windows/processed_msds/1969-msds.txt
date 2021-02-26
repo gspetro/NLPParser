@@ -1,0 +1,397 @@
+﻿ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MATERIAL SAFETY DATA SHEET 
+
+SRM Number:  1969 
+MSDS Number:  1969 
+SRM Name:  Rubidium Triple-Point 
+   
+Standard 
+ 
+Date of Issue: 06 June 2012 
+ 
+Emergency Telephone ChemTrec: 
+ 
+ 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+
+Substance:  Rubidium encased in a stainless steel cell 
+
+2.  HAZARDS IDENTIFICATION 
+
+Description:    This  Standard  Reference  Material (SRM)  is  to  be  used  to  calibrate  thermometers  near  39.30 ºC.  
+SRM 1969  consists  of  approximately  154  grams  of  99.9+ %  pure  rubidium  in  all-welded  AISI  304  stainless  steel 
+cell.   
+
+NFPA Ratings (Scale 0–4): 
+
+Health = 3 
+
+Fire = 3 
+
+Reactivity = 2 
+
+Note:  This SRM is an article, as the word is defined by the Occupational Safety and Health Administration of the 
+U.S. Department of Labor in paragraph (c) of part 1910.1200 of title 29 of the Code of Federal Regulations (29 CFR 
+1910.1200).  This material safety data sheet addresses the hazards of the rubidium component of the article and is 
+provided for information purposes.   
+
+Physical  Hazards:    Extremely  flammable.    May  ignite  spontaneously  on  exposure  to  air.    Reacts  violently  with 
+water to generate toxic and/or flammable gases. 
+
+Major Health Hazards:  Respiratory tract burns, skin burns, eye burns, mucous membrane burns. 
+
+Potential Health Effects 
+
+Inhalation:    On  contact  with  moisture,  rubidium  releases  flammable  hydrogen  gas  and  rubidium  hydroxide, 
+which  is  corrosive.    Inhalation  of  corrosive  substances  may  cause  symptoms  of  respiratory  tract  irritation, 
+possibly including coughing, choking, pain in the nose, mouth and throat and burns of the mucous membranes. 
+
+Skin Contact:  Direct contact may cause severe pain, burns and possibly brownish stains. 
+
+Eye  Contact:    Direct  contact  may  cause  pain  and  burns.    There  may  be  edema,  destruction  of  epithelium, 
+corneal opacification and iritis. 
+
+Ingestion:    Ingestion  of  rubidium  may  cause  inflammatory  and  ulcerative  changes  in  the  mouth  and  possibly 
+bronchial and gastrointestinal disturbances. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+No 
+X 
+X 
+X 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+CAS Number 
+
+Rubidium 
+
+7440-17-7 
+
+EC Number  
+(EINECS) 
+
+231-126-6 
+
+Nominal Concentration 
+(%) 
+
+100  
+
+MSDS 1969 
+
+Page 1 of 4 
+
+ 
+
+EC Classification (assigned):  Not determined. 
+
+EC Risk (R No.):  None listed. 
+
+EC Safety (S No.):  None listed. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Seek medical attention if needed. 
+
+Skin  Contact:    Wash  exposed  skin  with  copious  amounts  of  water  for  at  least  15  minutes.    Remove  any 
+contaminated clothing. 
+
+Eye  Contact:    Immediately  flush  eyes  with  copious  amounts  of  water  for  at  least  15  minutes.    Seek  immediate 
+medical attention. 
+
+Ingestion:  If swallowed, contact local poison control or seek medical attention.  DO NOT induce vomiting.  Give 
+large amounts of water or milk. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe hazard.  May ignite on exposure to air. 
+
+Extinguishing Media:  Regular dry chemical, dry sand, lime, soda ash.  Do not use water.  Do not use foam. 
+
+Fire Fighting:  Wear full protective clothing and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (C):  Not applicable. 
+Method Used:  Not applicable. 
+
+Autoignition Temp. (C):  Not applicable. 
+
+Flammability Limits in Air 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational  Release:    Avoid  heat,  flames,  sparks  and  other  sources  of  ignition.    Do  not  get  water  directly  on 
+material.  Small liquid spills: Absorb with sand or other non-combustible material.  Small dry spills: Collect material 
+into suitable loosely covered container for disposal. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:  Store and handle in accordance with all current regulations and standards.   
+
+Safe Handling Precautions:  The valve on the SRM 1969 cell should never be opened nor should the plug on the 
+end of the stainless steel tube be removed.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  No occupational limits established. 
+
+Ventilation:  Use a local exhaust ventilation system. 
+
+Respirator: 
+OSHA 29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators 
+
+  If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  plan 
+
+that  meets 
+
+Eye Protection:   Wear safety goggles.  An eyewash station should be readily available near areas of use. 
+
+Personal Protection:  Wear appropriate protective clothing and gloves to prevent skin exposure. 
+
+Appearance and Odor:  White solid, no odor information available. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Physical State:  Solid. 
+
+Molecular Formula:  Rb 
+
+Molar mass (g/mol):  85.47 
+
+Specific Gravity (water = 1):  1.522 (18 ºC) 
+
+MSDS 1969 
+
+Page 2 of 4 
+
+ 
+
+Melting Point ºC:  39 (102 ºF) 
+
+Boiling Point ºC:  686 (1277 ºF) 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+
+Stable 
+
+X 
+
+ 
+
+Unstable 
+
+Reacts violently with water to generate toxic and/or flammable gases.  May ignite on exposure to air. 
+
+Conditions to Avoid:  Avoid contact with air.  Keep dry.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Halogens, oxidizing materials, metals, combustible materials, metal salts. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of rubidium. 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Entry: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Toxicity Data:  No information listed. 
+
+Target Organs:  No information listed. 
+
+Medical Conditions Aggravated by Exposure:  No information listed. 
+
+Mutagen/Teratogen:  No information listed. 
+
+Health Effects (Acute and Chronic):  See Section 2, “Hazards Identification” for potential health effects. 
+
+ 
+
+ 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No information listed. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to disposal 
+regulations: U.S EPA 40 CFR 262.  Hazardous Waste Numbers: D001, D003. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Rubidium, UN Number 1423, Hazard Class 4.4, Packing Group I. 
+
+15.  REGULATORY INFORMATION 
+
+U.S.: REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Sections 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Sections 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Sections 313 (40 CFR 372.65):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Yes 
+ACUTE: 
+No 
+CHRONIC: 
+FIRE: 
+Yes 
+REACTIVE:  No 
+PRESSURE:  Yes 
+
+STATE REGULATIONS: 
+
+California Proposition 65:  Not listed. 
+
+CANADIAN REGULATIONS: 
+
+WHMIS Information:  Not provided for this material. 
+
+MSDS 1969 
+
+Page 3 of 4 
+
+ 
+
+EUROPEAN REGULATIONS  
+
+EC Classification:  Not determined. 
+
+EC Risk Phrases:  None listed. 
+
+EC Safety Phrases:  None listed. 
+
+NATIONAL INVENTORY STATUS: 
+
+U.S. Inventory (TSCA):  Listed on inventory. 
+
+TSCA 12 (b) Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  ChemADVISOR, Inc., MSDS Rubidium, 20 December 2011. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate. 
+
+MSDS 1969 
+
+Page 4 of 4 
+
+

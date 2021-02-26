@@ -1,0 +1,674 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 3279 
+ 
+Chromium Dietary Supplement 
+
+six 
+
+ety  compliance 
+ve 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation of chemical methods of analysis for 
+testing 
+chromium and vanadium to support chemical exposure and safety compliance measurements associated with testing 
+oral  dietary  supplements.    A  unit  of  SRM 3279  consists  of  five  pouches,  each  containing  six  grams  of  powdered 
+material, individually sealed in nitrogen-flushed Mylar® bags.  
+ 
+The  development  of  SRM 3279  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health Office of Dietary Supplements (NIH-ODS). 
+ 
+Certified Mass Fraction Value:  A certified mass fraction value for chromium (Cr), reported on a dry-mass basis, is 
+provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [1].  The certified value for 
+Cr was calculated as a variance weighted mean, based on the mean value obtained using inductively coupled plasma 
+mass spectrometry (ICP-MS) calibrated with the method of standard additions at NIST [2], and the weighted mean of 
+individual results provided by the collaborating laboratories listed in Appendix A.   
+ 
+Reference Value Mass Fraction:  A reference mass fraction value for vanadium (V), reported on a dry-mass basis, 
+is provided in Table 2.  A NIST reference value is a noncertified value that is the best estimate of the true value based 
+on  available  data;  however,  such  values  do  not  meet  the  NIST  criteria  for  certification  and  are  provided  with  an 
+uncertainty where all known or suspected sources of bias have not been fully investigated [1].  The reference value 
+for  V  is  based  on  the  mean  value  obtained  using  a  single  NIST  method (ICP-MS)  calibrated  with  the  method  of 
+standard additions.   
+ 
+Expiration of Certification:  The certification of SRM 3279 is valid, within the measurement uncertainty specified, 
+until  01 April 2029,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+icate,  NIST  will  notify  the
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to certification of this SRM was provided by S.J. Christopher and 
+L.J. Wood of the NIST Chemical Sciences Division.   
+ 
+Analytical  measurements  were  performed  by  S.J. Christopher  and  W.C. Davis  of  the  NIST  Chemical  Sciences 
+Division. 
+ 
+Statistical consultation and analyses were performed by C.R. Hagwood of the NIST Statistical Engineering Division. 
+ 
+Material production was coordinated by A.J. Moors, R.S. Pugh, J. Rhoderick, J.M. Ness, D. Peterson, and S.E. Long 
+of the NIST Chemical Sciences Division.  
+ 
+Material acquisition was coordinated by K.E. Sharpless of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  10 October 2019 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 7 
+
+  
+
+SRM 3279 
+
+packaging 
+
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+interlaboratory 
+Analysts  at  many  collaborating  laboratories (Appendix  A)  analyzed  SRM 3279  as  part  of  an  interlaboratory 
+comparison exercise coordinated by NIST. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+NOTICE TO USERS: SRM 3279 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN OR ANIMAL 
+CONSUMPTION. 
+ 
+Handling:    The  material  may  contain  constituents  of  unknown  toxicity,  and  the  fine  powder  may  aerosolize, 
+presenting an inhalation or dermal irritation risk.  Caution and care should be exercised during SRM handling and use.  
+ 
+Storage:  The SRM should be stored in its original packaging under normal laboratory conditions and kept away from 
+sunlight and intense sources of heat or radiation.  
+ 
+Use:  Prior to removal of test portions for analysis, the packet should be positioned horizontally and mixed thoroughly 
+by shaking in the horizontal plane for approximately 1 minute.  The packet should be allowed to rest briefly after 
+shaking (approximately 1 minute) to allow for suspended particles to settle, after which the packet should be opened 
+slowly  to  minimize  aerosolizing  material  contents.    A  minimum  test  portion  mass  of  0.25 g  was  used  for  total 
+chromium and vanadium mass fraction determinations.  NIST cannot guarantee the suitability of using smaller test 
+portions for total mass fraction determinations.  Test portions should be analyzed as received and results converted to 
+a dry-mass basis.  The moisture conversion factor given below (see “Moisture Determination”) can be used for the 
+sample(s) when using an unopened packet for the first time.  If using a previously opened and resealed packet, moisture 
+must be determined using the recommended technique.   
+ 
+MATERIAL SOURCE, PREPARATION, AND HOMOGENEITY TESTING(1) 
+ 
+Material Source and Preparation:  The source material for SRM 3279 was derived from two commercially available 
+chromium  dietary  supplements  listing  chromium  in  the  chemical  forms  of  chromium  picolinate  and  chromium 
+polynicotinate.  Approximately 4 kg of material was blended and homogenized into a fine powder using a Teflon® 
+disk mill.  The homogenized material was passed through a US No. 45 mesh (0.354 mm) sieve, pooled, and further 
+blended for final production. 
+ 
+Homogeneity Testing:    Material  homogeneity  was  assessed before  and  after  final  packaging of  SRM 3279 using 
+acid-assisted 
+emission 
+by 
+spectroscopy (ICP-OES).  The mass fraction relative standard deviations for six samples drawn from across the entire 
+SRM 3279 production lot were under 1 % for chromium and under 2 % for vanadium.  Interlaboratory comparison 
+data for chromium were used as further verification of material homogeneity.  Sample test portions of 0.25 g indicated 
+no material heterogeneity during the value assignment of total Cr and V using ICP-MS. 
+ 
+MOISTURE DETERMINATION 
+ 
+Moisture  Determination:  Eight  nominal  1 g  samples  of  SRM  3279 were dried  in a  gravity  convection oven for 
+2 h (set point = 110 °C) to drive off residual moisture.  Dried samples were stored in glass weighing containers in a 
+vacuum desiccator containing calcium sulfate to facilitate sample cooling prior to weighing.  A mean dry mass/wet 
+mass conversion factor of 0.92466 ± 0.00020 (1 standard deviation) was used to establish the dry mass fraction values 
+reported in Tables 1 and 2. 
+ 
+MASS FRACTION VALUES 
+ 
+Certified Mass Fraction Value for Chromium:  The certified mass fraction value given in Table 1 is the combined 
+variance weighted mean of the mean result from the set of analyses by NIST and the weighted mean of results provided 
+by collaborating laboratories.  The value is expressed as x ± U95%(x), where x is the certified value and U95%(x) is the 
+expanded  uncertainty  of  the  certified  value.    The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval 
+                                                           
+
+SRM
+optical 
+
+decomposition 
+
+inductively 
+
+followed 
+
+coupled 
+
+plasma 
+
+sample 
+
+(1)  Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  report  to  adequately  specify  the 
+experimental  procedures.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available 
+for the purpose. 
+
+SRM 3279 
+
+ 
+
+Page 2 of 7 
+
+x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, treat the certified value as a normally distributed 
+random variable with mean x and standard deviation U95%(x)/2 [3, 4].  The measurand is the total mass fraction for Cr 
+on a dry-mass basis.  Metrological traceability is to the derived SI unit for mass fraction, as realized through the purity 
+determined for the primary chemical standards employed in the NIST chromium calibrator solutions of SRM 3112a 
+Chromium (Cr) Standard Solution [5].   
+ 
+ 
+
+Table 1.  Certified Mass Fraction Value for Chromium 
+
+Chromium (Cr) 
+
+1299 mg/kg  ±  15 mg/kg 
+
+ 
+ 
+ 
+Reference Mass Fraction Value for Vanadium:  The reference mass fraction value given in Table 2 is the mean 
+result from the set of analyses by NIST.  The value is expressed as x ± U95%(x), where x is the reference value and 
+U95%(x) is the expanded uncertainty of the value.  The method-specific value of the analyte is believed to lie within 
+the interval x ± U95%(x) with 95 % confidence. To propagate this uncertainty, treat the reference value as a normally 
+distributed random variable with mean x and standard deviation U95%(x)/2 [3, 4].  The measurand is the total mass 
+fraction for V on a dry-mass basis.  Metrological traceability is to the derived SI unit for mass fraction, as realized 
+through the purity determined for the primary chemical standards employed in the NIST vanadium calibrator solutions 
+of SRM 3165 Vanadium (V) Standard Solution [6]. 
+ 
+ 
+
+Table 2.  Reference Mass Fraction Value for Vanadium 
+
+Vanadium (V) 
+
+ 
+ 
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+Supplemental Information:  Information is provided below on the chemical speciation of chromium in SRM 3279.  
+The chromium in SRM 3279 is derived from chromium (III) picolinate and chromium (III) nicotinate (Fig. 1), based 
+on the label contents of the SRM source materials.   
+ 
+
+2032 mg/kg  ±  37 mg/kg 
+
+ 
+°
+
+aN
+
+  
+
+ 
+Figure 1.  Chromium (III) Picolinate (left) and Chromium (III) Nicotinate (right). 
+ 
+ 
+Often dietary supplements are tested for the presence of toxic hexavalent chromium, Cr (VI), which is difficult to 
+measure accurately.  This material is expected to be low in native Cr (VI) species, based on the Cr speciation of the 
+parent compounds comprising the SRM.  At the time of measurement at NIST, the extractable Cr (VI) mass fraction 
+was observed to be less than an estimated limit of detection (LOD) of 16 micrograms per kilogram.  The method used 
+to determine the LOD value for extractable Cr (VI) is summarized below.  Analytical methods, reaction conditions 
+and certain material substrates can lead to redox transformation of Cr species during laboratory sample preparation.  
+The  estimated  LOD  value  for  extractable  Cr (VI)  may  be  of  use  when  validating  methods  of  analytical  testing  of 
+dietary supplements for product safety, and for assistance with uncovering matrix-dependent or sample preparation 
+method-dependent factors that could lead to interconversion of Cr (III and VI) species in the laboratory.  
+ 
+ 
+
+ 
+
+SRM 3279 
+
+ 
+
+Page 3 of 7 
+
+Method  Description:    Extractable  Cr (VI)  was  determined  for  SRM 3279  using  a  microwave-assisted  extraction 
+method  similar  to  one  that  has  been  documented  to  minimize  the  transformation  of  Cr  species  during  chemical 
+extraction  [7].    Chemical  extraction  was  accomplished  in  35  mL  glass  vessels,  using  a  Discover  SP  microwave 
+system (CEM,  Matthews,  NC).    The  extraction  solvent  was  aqueous  50 mmol/L  ethylenediaminetetraacetic 
+acid (EDTA) solution (prepared from disodium EDTA salt, Sigma-Aldrich, St. Louis, Mo) adjusted to a pH of 10.  
+The pH of the EDTA solution was adjusted through dropwise addition of high purity Optima grade (Thermo Fisher 
+Scientific, Waltham, MA) ammonium hydroxide (30 % w/w) while monitoring pH changes with a commercial pH 
+meter.  Six test portions of SRM 3279 (one nominal 50 mg test portion from each of six individual SRM packets) were 
+combined with varying amounts of Cr (VI) ranging from 0 µg to 25 µg and extracted in 5 mL of extractant solution 
+using the microwave program in Table 3.  
+ 
+
+Table 3.  Microwave Extraction Program used for Cr Speciation Experiments 
+ 
+
+Stage 
+
+Temperature 
+(°C) 
+
+Ramp Time 
+(min) 
+
+Hold Time 
+(min) 
+
+Pressure 
+(psi) 
+
+Power 
+(W) 
+
+Air Cooling 
+
+Stirring 
+
+1 
+2 
+3 
+
+90 
+25 
+110 
+
+1 
+0 
+1 
+
+5 
+10 
+5 
+
+250 
+250 
+250 
+
+200 
+0 
+200 
+
+On 
+On 
+On 
+
+Hi 
+Hi 
+Hi 
+
+ 
+Samples  were  stirred  with  a  Teflon®  coated  stir  bar  during  microwave  irradiation  to  increase  the  Cr  extraction 
+efficiency.    This  microwave  extraction  methodology  has  been  shown  to  be  effective  in  minimizing  Cr  species 
+interconversion  reactions  during  microwave  extraction  of  solid  samples [7].    The  resultant  sample  extracts  were 
+diluted gravimetrically 1:10 with water to match the mobile phase (5 mmol/L EDTA, pH 10) prior to chromatographic 
+analysis.  Chromatographic analysis was conducted using a Dionex (Sunnyvale, CA) ICS-3000 ion chromatography 
+system  coupled  to  an  Agilent (Santa  Clara,  CA)  8800  QQQ-ICP-MS.    Chromatography  settings  are  tabulated  in 
+Table 4.   
+ 
+
+Table 4.  Chromatographic System Program Settings and Column Parameters for Cr Speciation Experiments 
+ 
+Run Time 
+(s) 
+
+Separation 
+Type 
+
+Flow Rate 
+(mL/min) 
+
+Mobile  
+Phase 
+
+Dimensions 
+
+Mobile 
+Phase pH 
+
+Column 
+
+Injection 
+Volume 
+(µL) 
+
+Dionex 
+AS9-HC 
+
+2 mm x 250 mm 
+
+10 
+
+1140 
+
+0.250 
+
+Isocratic 
+
+10 
+
+5 mM 
+EDTA 
+
+of  the  QQQ
+
+ 
+ 
+Cr  interferences (mainly  40Ar12C+)  were  mitigated  by  using  the  oxygen  mass  shift  mode  of  the  QQQ-ICP-MS  to 
+measure 52Cr+ as the molecular oxide (52Cr16O+). 
+ 
+Initial method development studies utilized Cr picolinate, 53Cr (III) and Cr (VI) standards (with and without subjection 
+to  microwave  extraction)  to  identify  chemical  species  through  retention  time  matching  and  to  track  the  chemical 
+conversion of species.  The chemical extraction data for standards showed minimal interspecies conversion.  However, 
+when Cr (VI) was microwave extracted in the presence of 50 mg of SRM 3279, some of the Cr (VI) was converted to 
+Cr (III).    This  is  likely  due  to  the  electron-rich  Cr  picolinate/polynicotinate  matrix  substrate  donating  electrons  to 
+Cr (VI).  A series of chromatograms is presented in Figure 2 for microwave extraction of varying levels of added 
+Cr (VI)  while  holding  the  mass  of  SRM 3279  constant.    For  determination  of  an  extractable  Cr (VI)  value,  the 
+matrix-induced species interconversion required the accounting of three peaks: Cr picolinate/nicotinate, designated as 
+Cr (Nic), Cr (III) and Cr (VI).  The zero-addition standard level chromatogram (see Figure 2) indicated that there was 
+a negligible amount of native extractable Cr (VI) in SRM 3279. The Cr (Nic) and Cr (III) peak areas increased as a 
+function  of  added  Cr (VI).    Stacked  integrated  peak  areas  from  the  chromatograms  were  used  to  construct  a  total 
+extractable Cr calibration curve.  The calibration curve was then used to estimate a Hubaux-Vos limit of detection 
+value [8, 9] for total extractable chromium, using a 99 % confidence level.  The total extractable mass fraction of 
+Cr (VI) was subsequently estimated as a percentage of the total extractable Cr, using the quotient of the peak area of 
+Cr (VI) to total peak area, at the zero-addition standard level.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 3279 
+
+ 
+
+Page 4 of 7 
+
+400000 
+
+350000  ; 
+
+300000  + 
+
+ 
+)
+S
+P
+C
+(
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+ 
+*
+O
+,
+,
+r
+C
+2
+5
+
+250000 
+
+200000 
+
+150000 
+
+100000 
+
+50000 
+
+ 
+ 
+ 
+
+ 
+ 
+
+  
+
+   Baseline  (no  SRM  3279) 
+
+—  -  -SRM  3279  +  0  ug/g  Cr(VI) 
+
+—-- 
+
+SRM  3279  +  0.018  pg/g  Cr(VI) 
+
+wo---  SRM  3279  +  0.045  yg/g  Cr(VI) 
+
+—  —SRM  3279  +  0.096  g/g  Cr(VI) 
+
+—  —SRM  3279  +  0.194  yg/g  Cr(VI) 
+
+wo---  SRM  3279  +  0.488  yg/g  Cr(VI) 
+
+Cr (III) 
+
+ 
+,
+=
+=
+
+    
+  
+
+ 
+e
+a
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+1600 
+
+1800 
+
+2000
+
+Retention  Time  (s) 
+
+ 
+
+ 
+Figure 2.  Chromatographic Series for Six (50 mg) Samples of SRM 3279 Spiked with Varying Levels 
+of Cr (VI) and Subjected to Microwave Extraction at pH = 10.  The peaks are designated as chromium 
+nicotinate,  Cr (Nic),  and  chromium  Cr (III)  or  Cr (VI).    Intensity  data  are  shown  as  counts  per 
+second (CPS). 
+ 
+
+ 
+
+SRM 3279 
+
+ 
+
+Page 5 of 7 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136 U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed Oct 2019). 
+
+[2]  Christopher, S.J.; Day, R.D.; Bryan, C.E.; Turk, G.C.; Improved Calibration Strategy for Measurement of Trace 
+Elements in Biological and Clinical Whole Blood Reference Materials via Collision-Cell Inductively Coupled 
+Plasma Mass Spectrometry; J. Anal. At. Spectrom. Vol. 20, pp. 1035–1043 (2005). 
+
+[3   JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2019);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Oct 2019). 
+
+[4]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Oct 2019). 
+
+available 
+
+(2008); 
+
+[5]  SRM  3112a;  Chromium (Cr)  Standard  Solution;  National  Institute  of  Standards  and  Technology;  
+
+U.S. Department of Commerce: Gaithersburg, MD (25 January 2018) available at  
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=3112A (accessed Oct 2019). 
+
+ 
+[6]  SRM  3165;  Vanadium (V)  Standard  Solution National 
+
+Institute  of  Standards  and  Technology;  
+
+U.S. Department of Commerce: Gaithersburg, MD (05 July 2017) available at  
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=3165 (accessed Oct 2019). 
+
+ 
+[7]  Fabregat-Cabello,  N.; Rodríguez-González, P.; Castillo, A.; Malherbe, J.; Roig-Navarro, A.; Long, S.; Ignacio 
+Garcia Alonso, J.; Fast and Accurate Procedure for the Determination of Cr (VI) in Solid Samples by Isotope 
+dilution Mass Spectrometry; Environ. Sci. Technol. 2012, 46, 12542-12549. 
+
+[8]  Hubaux, A.;  Vos, G.;  Decision  and  Detection  Limits  for  Linear  Calibration  Curves;  Anal.  Chem.,  Vol. 42, 
+
+Vol.
+
+849-855 (1970). 
+
+[9]  Coleman, D.;  Vanatta, L.;  Statistics  in  Analytical  Chemistry:  Part  34—Detection-Limit  Summary;  available  at 
+
+https://www.americanlaboratory.com/914-Application-Notes/1106-Part-34-Detection-Limit-Summary/; 
+(accessed Oct 2019). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+fax (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm.  
+ 
+ 
+
+telephone (301)  975-2200; 
+
+the  SRM  Program: 
+
+ 
+
+SRM 3279 
+
+ 
+
+Page 6 of 7 
+
+Appendix A 
+ 
+NIST Interlaboratory Comparison List of Participating Laboratories 
+
+ 
+
+ABCO Laboratories, Inc., Fairfield, CA 
+Access Business Group (Nutrilite), Buena Park, CA 
+Advanced Botanical Consulting & Testing, Inc., Tustin, CA 
+Advanced Laboratories Inc, South Salt Lake City, UT 
+ALS Environmental, Salt Lake City, UT 
+Amway, Ada, MI 
+Apex Analytical Laboratory, Tempe, AZ 
+Arizona Nutritional Supplements, Chandler, AZ 
+Atlas Bioscience Labs, Tucson, AZ 
+Brooks Applied Labs, Bothell, WA 
+California Department of Public Health, Food and Drug Laboratory, Richmond, CA 
+Chemical Solutions LTD, Harrisburg, PA 
+Covance Food Solutions, Boulder, CO 
+Eurofins - Nutrition Analysis Center, Des Moines, IA 
+Eurofins Frontier Global Sciences, Inc, Bothell, WA 
+Eurofins Steins Laboratorium, Vejen, Denmark 
+Exova Inc., Santa Fe Springs, CA 
+Herbalife, Torrance, CA 
+HVL, LLC, Pittsburgh, PA 
+ISURA, Burnaby, BC, Canada     
+Intertek Champaign Laboratories, Champaign, IL 
+McCoy & McCoy Laboratories, Madisonville, KY 
+Natural Factors, Coquitlam, BC, Canada     
+Natural Remedies Private Limited, Bangalore, Karnataka, India     
+Nature's Way, Green Bay, WI 
+NOW Foods, Bloomingdale, IL 
+NSF International, Ann Arbor, MI 
+Nutra Manufacturing, Greenville, SC 
+Pure Essence Labs, Las Vegas, NV 
+SGS Canada Inc, Burnaby, BC, Canada     
+Silliker JR Laboratories ULC (Canada), Burnaby, BC, Canada     
+Standard Process Inc, Palmyra, WI 
+Sustainable Labs, Inc., Ogden, UT 
+Tishcon Corp, Salisbury, MD 
+US Food and Drug Administration CFSAN (GA), Atlanta, GA 
+US Food and Drug Administration CFSAN (MD), College Park, MD 
+Underwriters Laboratories, Canton, MA 
+VMI Nutrition, Salt Lake City, UT 
+
+SRM 3279 
+
+ 
+
+Page 7 of 7 
+
+

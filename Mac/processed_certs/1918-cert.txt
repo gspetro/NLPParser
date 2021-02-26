@@ -1,0 +1,176 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 1918
+
+
+
+Mercury Porosimeter Intrusion Standard
+
+
+
+This Standard Reference Material (SRM) is intended for use in the calibration of mercury porosimeter intrusion analytical instruments.  A unit of SRM 1918 consists of one vial containing approximately 12 g of an extruded silicaalumina compound.
+
+
+
+Certified Values:  The results are expressed as the certified values with the expanded uncertainties (Table 1).  The certified values are weighted averages [1] of measurements based on intrusion curves from six laboratories.  The expanded uncertainties, at the 95 % level of confidence are calculated as U = kuc,  where uc is a combined standard uncertainty for the average, calculated according to the ISO Guide [1,2], and k = 2 is the coverage factor.  The value of uc in each case includes both a combined estimate of the variation of the averages attributed to each source and an allowance for differences among those averages.
+
+
+
+
+
+Table 1.  Certified Values for SRM 1918
+
+
+
+Mean Pore Diameter
+
+				8.847 nm		0.363 nm
+
+Median Pore Diameter
+
+				8.503 nm		0.218 nm
+
+Total Intruded Volume
+
+				0.547 mm3/g		0.018 mm3/g
+
+
+
+
+
+Expiration of Certification:  The certification of SRM 1918 is valid, within the measurement uncertainty specified, until 01 October 2020, provided that the SRM is handled and stored in accordance with instructions given in this certificate (see “Instructions for Handling, Storage, and Use).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+Coordination of the technical measurements leading to the certification of this SRM was provided by S. Jahanmir of the NIST Ceramics Division.
+
+
+
+Analytical measurements for the certification of this SRM were performed by D.B. Minor of the NIST Ceramics Division.
+
+
+
+Statistical consultation for this SRM was provided by S.D. Leigh of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services Division.
+
+						
+
+						
+
+						
+
+						Debra L. Kaiser, Chief
+
+	Ceramics Division
+
+						
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Certificate Issue Date:  29 December 2011	Measurement Services Division
+
+Certificate Revision History on Last Page
+
+
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE
+
+
+
+The following is the suggested procedure for preparation of this SRM prior to analysis; predry the sample in a vacuum oven at 100 °C to 110 C under a vacuum of at least 100 mTorr between 12 hours to 18 hours.  Cool the sample to ambient temperature while under vacuum.  Back fill the oven with dry nitrogen or argon and seal the sample immediately.  Transfer the sample to a 60 C oven or desiccator and leave until analysis.  Place approximately 0.25 g of sample in a preweighed sample holder and heat to 100 C for 30 minutes while under a vacuum or at least 50 mTorr.  Individual pieces of the sample may be broken to fit the sample holder.  After the heating source is removed, allow the sample to cool for 15 minutes to ambient temperature.  Backfill the sample holder with dry nitrogen or argon and reweigh the assembly to determine the “dry” sample weight by difference.  Reevacuate the sample for a period of time necessary to achieve a vacuum of 50 mTorr and backfill with mercury to ambient pressure over a period of 10 minutes.  Perform the analysis in accordance with the instrument manufacturer instructions or the procedures of your laboratory.
+
+
+
+
+
+Participating Laboratories in the Round Robin
+
+
+
+Quantachrome Corporation; Boynton Beach, FL.
+
+Chevron Petroleum Technology Company; San Ramon, CA.
+
+OilDri Corporation of America, Research & Development; Vernon Hills, IL.
+
+Grace Davison Chemical, Analytical Services Center; Baltimore, MD.
+
+Engelhard Corporation; Beachwood, OH.
+
+National Institute of Standards and Technology, Ceramics Division; Gaithersburg, MD.
+
+
+
+
+
+REFERENCES
+
+
+
+[1]	Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at  http://www.physics.nist.gov/Pubs/ (accessed Dec 2011).  See also Heckert, A.; Filliben, J.J.; Dataplot Reference Manual; available at http://www.itl.nist.gov/div898/software/dataplot/ (accessed Dec 2011).
+
+[2]	Rukhin, A.L.; Vangel, M.G.; Estimates of a Common Mean and Weighted Means Statistics, Journal of American Statistical Association, Vol. 93, No. 441, pp. 303308 (March 1998).
+
+
+
+
+
+
+
+Certificate Revision History:  29 December 2011 (Extension of certification period and editorial changes); 08 July 2002 (Original certificate date).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9264751; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+
+
+		SRM 1918		Page 1 of 2

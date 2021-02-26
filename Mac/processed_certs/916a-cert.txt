@@ -1,0 +1,437 @@
+﻿ 
+,
+p
+E
+
+ 
+*
+
+ 
+t
+o
+
+ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 916a 
+
+ 
+
+ 
+
+Bilirubin 
+
+ 
+This Standard Reference Material (SRM) consists of a sample of unconjugated bilirubin that is certified as a chemical 
+of known purity.  It is intended primarily for use in the calibration and standardization of procedures used for the 
+determination of bilirubin in clinical samples and for routine evaluations of daily working standards used in these 
+procedures.  This material can also be used for quality assurance when assigning values to in-house control materials.  
+A unit of SRM 916a consists of one bottle containing 100 mg of crystalline bilirubin.  
+ 
+Due to concerns that the molar absorptivities for bilirubin and its azopigments in the original June 1989 certificate 
+were lower than those in a published study [1], an interlaboratory exercise to reassess the molar absorptivities was 
+conducted.  The resultant revised values are reported in Table 2 of this certificate; for comparison the original data 
+generated in 1988 can be found under Supplemental Information. 
+ 
+Certified Purity and Uncertainty:  The certified chemical purity is based upon the results from several analytical 
+techniques used at NIST that are designed to measure impurities and on scientific judgement of these results.  The 
+certified chemical purity presented in Table 1 was determined by measuring the mass fractions of impurities, including 
+water, and residue from ashing, summing the impurities, and subtracting this sum from 100 %.  A certified value is a 
+value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have 
+been investigated or taken into account.  The certified chemical purity and estimated uncertainty presented in Table 1 
+are  based  upon  scientific  judgment  and  evaluation  of  the  numerous  analytical  tests  applied  to  this  SRM  in  the 
+certification process.  The uncertainty is meant to approximate two standard deviation limits for the certified value. 
+ 
+Reference  Values  and  Uncertainties:    Reference  concentration  values  for  the  molar  absorptivity  in  caffeine 
+ie 
+reagent [2]  and  of  the  blue  and  red  azopigment  products,  obtained  by  the  Reference  Method  for  Total  Bilirubin 
+(developed by the Committee on Standards of the American Association for Clinical Chemistry [AACC]) [3] were 
+derived from results reported by six collaborating laboratories in 1998 and are listed in Appendix A.  The reference 
+values for molar absorptivities are presented in Table 2.  The molar absorptivity value of the red azopigment at 
+530 nm was obtained by omitting the addition of alkaline tartrate in the Reference Method.  Reference values 
+are noncertified values that are the best estimate of the true value; however, the values do not meet the NIST criteria 
+for certification and are provided with associated uncertainties that may reflect only measurement precision, may not 
+include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 916a  is  valid,  within  the  uncertainty  specified,  until 
+01 September 2017,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Analyses  for  the  original  certification  of  purity  and  characterization  of  SRM 916a  in  1988  were  performed  by 
+R.G. Christensen, A. Cohen, B. Coxon, M.J. Welch and D.A. Becker of NIST. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 5 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  22 August 2016 
+Certificate Revision History on Page 4 
+
+  
+
+SRM 916a 
+
+'ED  FOR  RESEARCH 
+
+Overall direction and coordination of the technical measurements leading to the original certification of purity and 
+characterization were provided by A. Cohen and E. White V of NIST.  Coordination of the technical measurements 
+leading  to  the  establishment  of  the  original  absorptivity  constants  in  1988  was  performed  by  B.T. Doumas  of  the 
+Medical  College  of  Wisconsin,  Department  of  Pathology  (Milwaukee, WI).    Coordination  of  the  technical 
+measurements leading to the value assignment of the revised molar absorptivities for this SRM in 1998 were performed 
+by B.T. Doumas and B.W. Perry of the Medical College of Wisconsin, Department of Pathology (Milwaukee, WI) and 
+M.J. Welch.  
+ 
+Original statistical consultation was provided by R.C. Paule of NIST.  The design and statistical analysis of the molar 
+absorptivity measurements made in 1998 were performed by L.M. Gill of the NIST Statistical Engineering Division. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 916a IS INTENDED FOR RESEARCH USE.  
+ 
+Storage:  The SRM is supplied in a vial that has been capped under argon.  The vial is sealed in a foil-lined polyester 
+film  bag  also  purged  with  argon  and  shipped  on  dry  ice.    Upon  receipt,  the  storage  temperature  of  SRM 916a  is 
+conditional upon the expected time frame for use.  A refrigerator temperature between 2 °C and 8 °C is acceptable for 
+storage up to one week.  If a longer storage time is anticipated, the material should be stored at or below –20 °C.  Prior 
+to use, the material should be allowed to come to room temperature (between 20 °C and 25 °C) before opening the 
+container.  After opening, the material should be kept in the tightly-closed vial, stored in the refrigerator between 2 °C 
+and 8 °C, and protected from light. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+The SRM 916a, consisting of unconjugated bilirubin, is virtually insoluble in water near physiological pH.  It is soluble, 
+however, in a mixture of dimethyl sulfoxide and sodium carbonate.  A 0.2 g/L standard solution for the preparation of a 
+calibration curve may be obtained as follows [3].  Weigh out 20.3 mg (provides correction for purity) of SRM 916a into 
+a small plastic dish.  Transfer the bilirubin quantitatively into a 100 mL volumetric flask with the aid of 1 mL of dimethyl 
+sulfoxide  and  swirl  the  flask  until  the  crystals  are  uniformly  dispersed.    Add  2.0 mL  of  0.1 mol/L  aqueous  sodium 
+carbonate and swirl the mixture until an optically clear, red-orange solution is obtained.  Dilute the solution with a solution 
+of bovine serum albumin (BSA, Cohn Fraction V, 40 g/L, previously adjusted to pH 7.4) or with an acceptable serum 
+diluent for unconjugated bilirubin [4].  For a detailed description of the preparation and handling of the standard solution 
+see reference [3].  Since bilirubin is light sensitive, the flask should be immediately wrapped with aluminum foil.  It is 
+further recommended that the solution preparation be carried out with low-intensity incandescent light and absolutely 
+away from sunlight.  Standard solutions of lower concentration may be prepared by dilution of appropriate aliquots with 
+the serum albumin solution.  It has been reported [5] that deterioration of the standard solution was about 1.5 % 
+per month at –20 °C, and about 1 % in six months at –70 °C. 
+ 
+roducts  obtained  by 
+The molar absorptivity of SRM 916a in caffeine reagent [2], and of the blue and red azopigment products obtained by 
+the  Reference  Method  for  Total  Bilirubin [3]  were  determined  in  a  round-robin  collaborative  study.    The  molar 
+absorptivity value of the red azopigment at 530 nm was obtained by omitting the addition of alkaline tartrate in the 
+reference method.  The reference values for molar absorptivity are shown in Table 2. 
+ 
+Source, Preparation, and Analysis(1) 
+ 
+Source of Material:  The bilirubin used for this SRM was supplied by Pfanstiehl Laboratories, Inc. (Waukegan, IL).  
+It  was  purified  further  by
+It was prepared from material that was isolated from hog bile and crystallized as the acid.  It was purified further by 
+treatment in chloroform with sodium sulfate as described in reference [6] and recrystallization from chloroform. 
+
+                                                           
+
+(1)Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+SRM 916a 
+
+Page 2 of 5 
+
+ 
+
+Analyses for Revised Molar Absorptivity Determinations:  In the protocol to reassess the molar absorptivity of 
+bilirubin and its azopigments, each of the six participating laboratories made up three solutions at 200 mg/L on three 
+different days and made measurements at four wavelengths: 423 nm, 457 nm, 530 nm, and 598 nm.  Each solution 
+was measured on three different days and in triplicate each day, i.e. each laboratory made nine measurements for each 
+wavelength.  
+ 
+Analyses Related to the Original Characterization of SRM 916a in 1988:  SRM 916a consists of a mixture of three 
+isomers of unconjugated bilirubin [7].  The relative amounts of the isomers were determined by two methods. The mole 
+fractions of the bilirubin IIIα, IXα, and XIIIα isomers measured by thin-layer chromatography (TLC), using 1 % acetic 
+acid in chloroform [7] on silica gel G were 5.3 %, 83.1 %, and 11.5 %, respectively; and measured by high performance 
+liquid chromatography (HPLC) on silica using approximately 1 % acetic acid in dichloromethane were 7.5 %, 83.2 %, 
+and 9.3 %, respectively.  Recent LC measurements made in 1996 to assess the stability of the isomer concentrations 
+found the relative isomer concentrations unchanged.  The absorptivity of the material in chloroform (reagent grade 
+containing  0.75 %  ethanol  stabilizer)  at  453 nm  was  (104.8 ± 0.2)  L⋅cm-1⋅g-1  at  20 °C.    A  separately  prepared 
+solution,  whose  volume  and  absorbance  were  determined  at  25 °C  gave  (105.0 ± 0.1)  L⋅cm-1⋅g-1.    Both  values  are 
+ncorrected for the 1.2 % chloroform, and other impurities in the crystals.  The absorptivity reflects contributions from the 
+three isomers of bilirubin present. 
+ 
+Samples of the SRM were dissolved in dimethyl sulfoxide-d6 and measured by 1H nuclear magnetic resonance (NMR).  
+The  amount  of  chloroform  detected  was  1.2 %.    Neither  biliverdine,  an  oxidation  product  of  bilirubin,  nor 
+mesobilirubin, the diethyl analogue, were detected by NMR.  The chloroform present is tightly retained in the crystals.  
+The loss of weight at 60 °C for 71 h under vacuum was only 0.03 %.  Since the chloroform is so firmly retained, we 
+recommend that the material be used as supplied.  Mesobilirubin was not detected by mass spectrometry.  Biliverdine 
+was not detected by  HPLC (0.1 % limit of detection) or by visible absorption spectrophotometry (0.01 % limit of 
+detection). 
+ 
+Impurities  more  acidic  than  bilirubin  were  determined  quantitatively  by  extracting  samples  with  5 %  sodium 
+bicarbonate, washing with chloroform, acidifying, extracting with chloroform, washing with water, and concentrating 
+the chloroform extract.  The dry mass of the extracts was 0.20 %.  Examination by thin-layer chromatography and by 
+mass spectrometry after silylation indicated that some material similar to or identical to bilirubin had passed through 
+the extraction procedure and was in the extract and thus the amount of impurity more acidic than bilirubin is less than 
+0.20 %.  Nonacidic impurities  were 0.013 %.  They  were determined by  mixing a solution of 100 mg of bilirubin 
+dissolved in chloroform with 0.1 mol/L sodium carbonate.  Bilirubin forms a sodium salt that is water soluble.  This 
+solution was extracted with chloroform, the extract washed with water, the chloroform removed by evaporation and 
+the mass of the residue determined. 
+ 
+An unidentified impurity was detected by thin-layer chromatography with polyamide as the adsorbent and 3:1 (v/v) 
+methanol-aqueous  ammonium  hydroxide  (3.3 %)  as  the  developer [8].    One  hundred  micrograms  of  SRM 916a 
+bilirubin dissolved in chloroform  gave a single  yellow-orange  spot at Rf 0.63, but under 365 nm radiation, a pink 
+fluorescent spot, which was barely detectable, developed above the bilirubin spot at Rf 0.76.  The quantity of material 
+was estimated by comparing the intensity of the spot with spots of known amounts of bilirubin after spraying with a 
+reagent consisting of phosphomolybdic-phosphotungstic acid (Folin-Denis reagent) and exposure to ammonia vapor.  
+The amount of the unknown material was estimated to be 0.2 %. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Purity and Uncertainty(a) of Bilirubin 
+ 
+
+3s  Fraction  Purity  and  Uncertainty  ”
+
+ 
+
+Purity 
+
+98.3 %  ±  0.3 % 
+
+ 
+(a) The  certified  chemical  purity  and  estimated  uncertainty  are  based  upon  scientific  judgment  and  evaluation  of  the  numerous 
+analytical tests applied to this SRM in the certification process.  The uncertainty is meant to approximate two standard deviation 
+limits for the certified value. The measurand is the total mass fraction purity value for bilirubin.  Metrological traceability is the 
+SI derived unit for mass fraction (expressed as a percent). 
+ 
+
+SRM 916a 
+
+ 
+
+Page 3 of 5 
+
+Table 2.  Reference Values for Molar Absorptivities for SRM 916a Bilirubin and Its Azopigments at 200 mg/L  
+ 
+ 
+ 
+
+Molar Absorptivity(a,b) 
+(L⋅mol-1⋅cm-1) 
+
+S. D.(c)  
+(L⋅mol-1⋅cm-1) 
+
+Wavelength 
+(nm) 
+
+ 
+ 
+ 
+
+76 641 
+57 079 
+50 091 
+49 241 
+
+Alkaline Azopigment at 598 
+Neutral Azopigment at 530 
+Bilirubin in Caffeine Reagent at 432 
+Bilirubin in Caffeine Reagent at 457 
+
+ 
+ 
+ 
+ 
+ 
+(a) Corrected for purity of bilirubin. 
+(b) The reference values are the equally weighted mean of results obtained at six participating laboratories.  The uncertainty in the 
+reference values is expressed as an expanded uncertainty, U, at the 95 % level of confidence, and is calculated according to the 
+method  described  in  the  ISO/JCGM  Guide [9].    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc  is  intended  to 
+represent, at the level of one standard deviation, the combined effect of between-lab, within-lab and purity.  The coverage factor, 
+k = 2.57, is determined from the Student’s t-distribution corresponding to 5 degrees of freedom and 95 % level of confidence for 
+each  wavelength.    The  measurand  is  the  molar  extinction  coefficient  as  determined  by  the  method  indicated.    Metrological 
+traceability is to the SI units for volume, amount-of-substance, and length (expressed as L·mol-1·cm). 
+
+601 
+729 
+849 
+444 
+
+631 
+765 
+891 
+466 
+
+± 
+± 
+± 
+± 
+
+(c) One standard deviation of a single measurement. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Doumas, B.T.;  Perry, B.W.;  McComb R.B.;  Kessner, K.;  Vader, H.L.;  Vink, K.L.J.;  Koedam, J.C.; 
+Paule, R.C.; Molar Absortivities of Bilirubin (NIST SRM 916a) and Its Neutral and Alkaline Azopigments; 
+Clin. Chem, Vol. 36, pp. 1698–1701 (1990). 
+
+[2]  Vink, K.L.J.; Schuurman, W.; Vangansewinkel, R.; Use of the Caffeine Reagent in Direct Spectrophotometry of 
+
+Bilirubin; Clin. Chem., Vol. 32, pp. 1389–1393 (1986).  
+
+[3]  Doumas, B.T.;  Kwokcheung, P.P.;  Perry, B.W.; 
+
+Jendrzejczak, B.;  McComb, R.B.;  Schaffer, R.; 
+m:  Development 
+Hause, L.L.;  Candidate  Reference  Method  for  Determination  of  Total  Bilirubin  in  Serum:  Development 
+and Validation; Clin. Chem., Vol. 31, pp. 1779–1789 (1985). 
+
+[4]  Developed Jointly by AAP, CAP, AACC, and NIH.  Recommendation on a Uniform Bilirubin Standard. Clin. 
+
+Chem., Vol. 8, pp. 405–407 (1962). 
+
+[5]  Doumas, B.T.; Perry, B.W.; Sasse, E.A.; Straumfjord, J.V., Jr.; Standardization in Bilirubin Assays: Evaluation 
+
+of Selected Methods and Stability of Bilirubin Solutions; Clin. Chem., Vol. 19, pp. 984–993 (1973). 
+
+[6]  Fog, J.; Bilirubin-Purification-Purity; Scand. J. Clin. Lab. Invest., Vol. 16, pp. 49–54 (1964). 
+[7]  McDonagh, A.F.;  Assisi, F.’  Commercial  Bilirubin:  a  Trinity  of  Isomers;  FEBS  Lett.,  Vol. 18,  pp. 315–317 
+
+(1971). 
+
+[8]  Petryka, Z.J.;  Watson, C.J.;  Separation  of  Bile  Pigments  by  Thin-Layer  Chromatography;  J. Chromatogr., 
+
+Vol. 37, pp. 76–82 (1968). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Aug 2016). 
+
+[9] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate  Revision  History:    22 August 2016 (Change  of  expiration  date;  editorial  changes);  12 August 2014 (Extension  of  the 
+certification  period;  editorial  changes);  30 November 2009  (Updated  storage  instructions  and  extension  of  certification  period); 
+30 December 2005 (This technical revision reports an extension of the certification period); 05 December 2001 (This technical revision reports 
+the addition of revised reference values for molar absorptivity); 01 June 1989 (Original certificate date).  
+
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+301) 
+
+9 
+
+ 
+
+-
+
+SRM 916a 
+
+ 
+
+Page 4 of 5 
+
+APPENDIX A 
+
+ 
+Collaborating Laboratories for Revised Molar Absorptivities (1998).  We gratefully acknowledge the contributions of 
+iterlaboratory  exercise. 
+the participants in this interlaboratory exercise. 
+ 
+Doumas, B.T.; Perry, B.W.; Dept. of Pathology, Medical College of Wisconsin (Milwaukee, WI, USA). 
+Hill, B.; Wisconsin State Laboratory of Hygiene (Madison, WI, USA). 
+Külpmann, W.R.; Institut fur Klinische Chemie I, Medizinische Hochschule Hannover (Hannover, Germany). 
+Nealon, D.A.; Ortho Clinical Diagnostics, Inc., Johnson and Johnson (Rochester, NY, USA). 
+Schlebusch, H.; der Universitats-Frauenklinik (Bonn, Germany). 
+Vader, H.L.; Clinical Laboratories, St. Joseph Hospital (Veldhoven, The Netherlands). 
+ 
+Supplemental Information  
+ 
+
+Molar Absorptivity Values Generated in the Original Round Robin of 1988 
+ 
+
+Molar Absorptivity(a,b) (L⋅mol-1⋅cm-1) 
+
+ 
+
+Wavelength (nm) 
+ 
+Alkaline Azopigment at 598 
+Neutral Azopigment at 530 
+Bilirubin in Caffeine Reagent at 432 
+Bilirubin in Caffeine Reagent at 457 
+
+76 500 
+56 700 
+50 100 
+49 000 
+
+ 
+(a) Corrected for purity of bilirubin. 
+a) 
+(b) One standard deviation of the mean of the round-robin results is 300; one standard deviation of a single measurement is 700. 
+‘andard  deviation  of  a  single  measurement  is  700.
+ 
+
+Collaborating Laboratories for Original Analyses (1988) for Molar Absorptivities.  We gratefully acknowledge the 
+contributions of the participants in the round robin study.  
+ 
+Doumas, B.T.; Perry, B.W.; Jendrzejczak, B.; Hubbard, L.; Medical College of Wisconsin (Milwaukee, WI, USA). 
+McComb, R.B.; Okorodudu, A.O.; Hartford Hospital (Hartfort CT, USA). 
+Navazi, W.; Kessner, A.; Beckman Instruments, Inc. (Brea, CA, USA). 
+Vander, H.L.; Vink, K.L.J.; St. Joseph Hospital (Eindhoven, The Netherlands). 
+Koedam,  H.C.;  Steentjes,  G.M.;  Wikkeling,  R.H.;  Phielix-Strubbe,  C.J.;  National  Institute  of  Public  Health  and 
+ 
+
+Environmental Protection (Bilthoven, Netherlands). 
+
+ 
+
+ 
+
+SRM 916a 
+
+ 
+
+Page 5 of 5 
+
+

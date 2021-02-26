@@ -1,0 +1,388 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8548 
+ 
+IAEA-N-2 
+
+(Nitrogen Isotopes in Ammonium Sulfate) 
+ 
+This  Reference  Material (RM)  is  intended  for  use  in  developing  and  validating  methods  for  measuring  relative 
+differences in nitrogen (N) isotope-number ratios, R(15N/14N) [1].  Even though the value for this RM is a reference 
+value and not certified [2], its use will improve the comparability of data from different laboratories.  The equivalent 
+name used by the International Atomic Energy Agency (IAEA) and the U.S. Geological Survey (USGS) for this RM 
+is IAEA-N-2.  RM 8548 consists of one vial containing approximately 0.4 g of ammonium sulfate salt ((NH4)2SO4). 
+ 
+
+Table 1.  Reference Value(a) and Expanded Uncertainty  
+for the Relative N Isotope-Number Ratio Difference of RM 8548 
+  
+
+RM Number 
+
+Name(b) 
+
+Reference Value 
+(c) 
+103  δ 15NAIR
+
+Expanded Uncertainty 
+103  δ 15NAIR
+
+(c) 
+
+   
+  
+
+IAEA-N-2 
+
++20.41 
+
+0.07 
+
+8548 
+
+(a)  A reference value is a non-certified value that is the best estimate of the true value; however, the value may reflect only the 
+
+measurement precision and may not include all sources of uncertainty [2]. 
+
+(b)  IAEA-N-2 is also known as IAEA-N2. 
+(c)  The  δ15NAIR  value  is  expressed  as  a  mean  and  an  expanded  uncertainty.    The  expanded  uncertainty  is  equal  to U = kuc, 
+where uc is the combined standard uncertainty as defined by the ISO Guide [3] and k is the coverage factor.  The combined 
+standard  uncertainty  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the  effect  of  random  errors  on  the 
+reference  value  that  were  evaluated  by  statistical  means  (Type A).    Any  uncertainty  due  to  biases  in  the  methods  is  not 
+included in the expanded uncertainty.  The coverage factor, k = 2.179 (n=13), provides an expanded uncertainty interval 
+that  has  about  a  95 %  probability  of  encompassing  the  mean.    The  values  for  RM 8548  are  taken  from  reference 4.  
+(AIR – N2 of tropospheric air). 
+
+Reference Difference in Isotope-Number Ratio Values:  The differences in measured isotope-number ratios of 
+stable  nitrogen  isotopes  in  substance  P,  R(15N/14N)P = [N(15N)P / N(14N)P],  are  reported  as  δ15N  values [5].  The 
+relative differences in isotope-number ratios for nitrogen are referenced to AIR where: 
+
+δ15N = [R(15N/14N)sample / R(15N/14N)AIR] – 1 
+AIR refers to N2 of tropospheric air [6], for which R(15N/14N)AIR = 0.003677 [5,7,8].  The reported δ15N results have 
+been normalized to yield a value of +180 ‰ for RM 8558 (USGS32) [4], where the symbol ‰ is part per thousand 
+and is equal to 0.001. 
+
+Expiration  of  Value  Assignment:    RM 8548  is  valid,  within  the  measurement  uncertainty  specified,  until 
+31 December 2020 provided the RM is handled in accordance with instructions given in this Report of Investigation 
+(see “Instructions for Storage, Handling, and Use”).  This report is nullified if the RM is damaged, contaminated, or 
+otherwise modified. 
+
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+
+Support and technical aspects of the preparation, analysis, and distribution of this RM was coordinated through the 
+NIST Chemical Sciences Division by R.D. Vocke, Jr. 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  30 January 2013 
+Report Revision History on Last Page 
+
+  
+
+RM 8548 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 3 
+
+ 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+
+Storage and Handling:  This RM should be kept in a dry environment as it will attract water when exposed to air.  
+To minimize the potential for contamination, it is recommended that this RM be stored in the container in which it is 
+supplied. 
+
+Use:  It is recommended that RM 8548 (IAEA-N-2) be used to calibrate or check working laboratory standards that 
+are used routinely.  Working laboratory standards with a range of N isotope-ratios can be produced by the methods 
+described by Böhlke et al. [9,10]. 
+
+Distribution:  The distribution of RM 8548 (IAEA-N-2) is limited to one unit per customer per three-year period of 
+time. 
+PREPARATION AND ANALYSIS  
+
+Preparation:   RM 8547 (IAEA-N-2) was prepared  as  a relatively  coarse  dry  salt by E. Salati (CENA, Piracicaba, 
+Sao Paulo, Brazil) between 1978 and 1983 [11,12]. 
+ 
+Analytical Methods:  The reference value for δ15N in RM 8548 (IAEA-N-2) was derived from an inter-laboratory 
+comparison test after elimination of outliers [4].  The δ15N values were measured by mass spectrometry on N2 gas 
+that  was  quantitatively  produced  using  variants  of  a  buffered  sample  combustion  method  coupled  with  additional 
+purification steps.  The measured results were then normalized to yield a value of +180 ‰ for RM 8558 (USGS32). 
+ 
+The δ15N value and expanded uncertainty reported in Table 1 are the values accepted by the Commission on Isotopic 
+Abundances  and  Atomic  Weights  of  the  International  Union  of  Pure  and  Applied  Chemistry (IUPAC) 
+(http://ciaaw.org/Nitrogen.htm) and the IAEA as of the date of this report. 
+ 
+Isotopic Homogeneity:  There is no evidence of isotopic heterogeneity in this RM for sample sizes in the range of 
+10 μmol to 100 μmol of nitrogen [4]. 
+ 
+Normalization of Data:  The δ15N values in samples should be normalized to the AIR-USGS32 scale by calibrating 
+the  measurement  with  respect  to  atmospheric  N2 [5]  and  the  δ15N  value  of  the  15N-enriched  anchor, 
+RM 8558 (USGS32) [4].    A  general  formula  for  normalizing  nitrogen  isotope  measurement  results  using  two 
+laboratory standards LS1 (AIR) and LS2 (USGS32) can be expressed as: 
+
+f
+
+
+15
+
+
+15
+
+
+
+15
+
+
+
+15
+
+
+(1) 
+
+N
+
+N
+
+N
+
+N
+
+
+
+ 
+
+ 
+
+ 
+
+sample,
+
+cal
+
+sample,
+
+LS1,
+
+LS1,
+
+WS
+
+WS
+
+cal
+
+ 
+where the normalization factor f is: 
+
+15
+
+
+15
+
+
+
+N
+
+LS2,
+
+cal
+
+f
+
+N
+
+LS1,
+
+cal
+
+
+
+
+15
+
+
+N
+
+LS2,
+
+WS
+
+15
+
+
+
+N
+
+LS1,
+
+   
+
+WS
+
+ 
+
+ 
+
+(2) 
+
+ 
+Note:  In  the  above  formulas,  cal  denotes  calibrated  measurements  made  versus  the  AIR–USGS32  scale,  and 
+δ15NLS1,cal and δ15NLS2,cal  are the conventionally fixed δ15N values for AIR and USGS32.  WS denotes measurements 
+made  versus  a  transfer  gas  (working  standard),  and  δ15N  LS1,WS  and  δ15N  LS2,WS  are  the  δ15N  values  for  calibrated 
+laboratory working standards. 
+ 
+Reporting of Nitrogen Stable Isotope δ-values:  The following recommendations from IUPAC are provided for 
+reporting δ15N values [5]. It is recommended that: 
+
+ 
+
+ 
+
+the  value  of  272  be  employed  for  14N/15N  of  N2  in  air  for  the  calculation  of  atom  fraction  15N  from 
+measured δ15N values; 
+all  δ15N  values  should  be  reported  with  respect  to  air  (atmospheric  nitrogen  gas)  and  normalized  to 
+RM 8558 (USGS32). 
+
+In  addition,  researchers  are  encouraged  to  report  the  isotopic  composition  of  RM 8548 (IAEA-N-2)  and  other 
+internationally  distributed  nitrogen  isotopic  reference  materials [13]  in  their  publications,  as  appropriate  to  the 
+method, as though they have been interspersed among unknowns. 
+
+Current Reports of Investigation (ROI) for all light stable isotopic Reference Materials mentioned in this report are 
+available on the SRM web site [14]. 
+
+RM 8548 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  Coplen, T.  B.;  Guidelines  and  Recommended  Terms  for  Expression  of  Stable-Isotope-Ratio  and  Gas-Ratio 
+Measurement  Results,  Rapid  Communications  in  Mass  Spectrometry,  Vol. 25,  pp. 2538–2560 (2011); 
+available at http://onlinelibrary.wiley.com/doi/10.1002/rcm.5129/pdf (accessed Jan 2013).  
+
+[2]  May, W.E.;  Parris, R.M.;  Beck  II, C.M.;  Fassett, J.D.;  Greenberg, R.R.;  Guenther, F.R.;  Kramer, G.W.; 
+Wise, S.A.; Gills, T.E.; Colbert, J.C.; Gettings, R.J.; MacDonald, B.S.; Definitions of Terms and Modes Used 
+at  NIST  for  Value-Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Spec. 
+at 
+Pub. 260-136;  U.S. Government 
+http://www.nist.gov/srm/publications.cfm (accessed Jan 2013). 
+JCGM  100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement  (ISO  GUM  1995 with  Minor  Corrections); Joint  Committee  for  Guides in  Metrology (2008); 
+available 
+(accessed 
+Jan 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST  Measurement  Results;  NIST  Tech.  Note  1297;  U.S.  Government  Printing  Office:  Washington,  DC 
+(1994); available at http://www.nist.gov/physlab/pubs/index.cfm (accessed Jan 2013).  
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+  Washington,  DC, (2000); 
+
+Printing  Office: 
+
+available 
+
+[3] 
+
+at 
+
+[4]  Böhlke, J.K.;  Coplen, T.B.;  Interlaboratory  Comparison  of  Reference  Materials  for  Nitrogen-Isotope-Ratio 
+Measurements,  in  Reference  and  Intercomparison  Materials  for  Stable  Isotopes  of  Light  Elements;  In 
+Proceedings  of  a  consultants  meeting:  Vienna,  Dec.  1993;  IAEA-TECDOC-825;  IAEA ,  pp. 5166 (1995); 
+available at http://www-pub.iaea.org/MTCD/publications/PDF/te_825_prn.pdf (accessed Jan 2013). 
+
+[5]  Coplen, T.B.;  Krouse, H.R.;  Böhlke, J.K.;  Reporting  of  Nitrogen-Isotope  Abundances;  Pure  and  Applied 
+
+Chemistry, Vol. 64. pp. 907908 (1992); available at 
+http://www.iupac.org/publications/pac/1992/pdf/6406x0907.pdf (accessed Jan 2013). 
+
+[6]  Mariotti, A.;  Atmospheric  Nitrogen  is  a  Reliable  Standard  for  Natural  15N  Abundance  Measurements; 
+
+[7] 
+
+Nature, Vol. 303, pp. 685–687 (1983). 
+Junk, G.; Svec, H.J.; The Absolute Abundance of the Nitrogen Isotopes in the Atmosphere and Compressed 
+Gas from Various Sources; Geochimica Cosmochimica Acta, Vol. 14, pp. 234243 (1958). 
+
+[8]  DeBievre, P.;  Valkiers, S.;  Peiser, H.S.;  Taylor, P.D.P.;  Hansen, P.;  Mass  Spectrometric  Methods  for 
+Determining Isotopic Composition and Molar Mass Traceable to the SI, Exemplified by Improved Values for 
+Nitrogen; Metrologia, Vol. 33, pp. 447455 (1996). 
+
+[9]  Böhlke, J.K.;  Mroczkowski, S.J.;  Coplen, T.B.;  Oxygen  Isotopes  in  Nitrate:  New  Reference  Materials  for 
+18O:17O:16O  Measurements  and  Observations  on  Nitrate-Water  Equilibration;  Rapid  Communications  in 
+Mass Spectrometry, Vol. 17, pp. 18351846 (2003). 
+
+[10]  Böhlke, J.K.;  Gwinn, C.J.;  Coplen, T.B.;  New  Reference  Materials 
+
+for  Nitrogen-Isotope-Ratio 
+
+Measurements; Geostands Newsletter, Vol. 17, pp. 159164 (1993). 
+
+[11]  Gonfiantini, R.;  Standards  for  Stable  Isotope  Measurements  in  Natural  Compounds;  Nature,  Vol. 271, 
+
+pp. 534536 (1978). 
+
+[12]  Gonfiantini, R.; Report on an Advisory Group Meeting on Stable Isotope Reference Samples for Geochemical 
+
+and Hydrochemical Investigations; In Proceedings of a meeting: Vienna, Sept. 1983; IAEA (1984). 
+
+[13]  Coplen, T.B.; Hopple, J.A.; Böhlke, J.K.; Peiser, H.S.; Rieder, S.E.; Krouse, H.R.; Rosman, K.J.R.; Ding, T.; 
+Vocke, Jr., R.D.;  Révész, K.M.;  Lamberty, A.;  Taylor, P.;  De  Bièvre, P;  Compilation  of  Minimum  and 
+Maximum  Isotope  Ratios  of  Selected  Elements  in  Naturally  Occurring  Terrestrial  Materials  and  Reagents; 
+U.S.  Geological  Survey  Water-Resources  Investigations  Report  01-4222,  p. 98 (2001)  );  available  at  
+http://pubs.usgs.gov/wri/wri014222/pdf/wri01-4222.pdf (accessed Jan 2013). 
+
+[14]  Light  Stable  Isotopic  Materials  (gas,  liquid  and  solid  forms);  NIST  SRM  Order  Request  System;  National 
+Institute of Standards and Technology; U.S. Department of Commerce: Gaithersburg, MD 20899; available at  
+https://www-s.nist.gov/srmors/viewTableV.cfm?tableid=42 (accessed Jan 2013). 
+
+ 
+ 
+ 
+ 
+ 
+
+Report Revision History:  30 January 2013 (Uncertainty updated to an expanded uncertainty for δ 15NAIR; expiration date assigned; editorial 
+changes); 03 February 1993 (Updated value for RM 8549; added RM 8558 to report); 22 June 1992 (Original report issue date) 
+
+ 
+ 
+ 
+ 
+ 
+Users  of  these  RMs  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+RM 8548 
+
+Page 3 of 3 
+
+

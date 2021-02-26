@@ -1,0 +1,646 @@
+﻿Date of Issue:  
+16 July 2018 
+
+ 
+
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not Applicable. 
+
+1848 
+Lubricating Oil Additive Package 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  evaluation  of  methods  and  the 
+calibration of equipment  used in the analysis of lubricating oil additive packages, engine lubricating oils, and 
+materials  of  a  similar  matrix.    A  unit  of  SRM 1848  consists  of  an  amber  borosilicate  glass  bottle  containing 
+approximately 100 g of material. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  https://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: Not classified. 
+Health Hazard:  Skin Corrosion/Irritation 
+ 
+ 
+
+Eye Damage/Irritation  
+
+Category 2 
+Category 2B 
+
+Label Elements 
+Symbol 
+
+ 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s) 
+H315 
+H320 
+
+Causes skin irritation. 
+Causes eye irritation. 
+
+Precautionary Statement(s): 
+
+Wash hands thoroughly after handling. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+P264 
+P280 
+ 
+P302+P352 
+P333+P313 
+ 
+P305+P351+P338  If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses if present 
+
+If on skin: Wash with plenty of soap and water. 
+If skin irritation occurs: Get medical attention. 
+
+P337+P313 
+ 
+P362+P364 
+
+SRM 1848 
+
+and easy to do.  Continue rinsing. 
+If eye irritation persists: Get medical attention. 
+
+Take off contaminated clothing and wash it before reuse. 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Lubricating Oil Additive Package.  
+Other Designations:  Petroleum oil with additives, passenger car motor oil additive. 
+
+NOTE:  This material is a complex mixture which may contain minor components, some of which have been reported 
+to  have  toxic  or  irritant  properties  but  are  below  the  established  OSHA  cut-off  values  for  mixtures  or  solutions.  
+Components are listed below are in compliance with OSHA 29 CFR 1910.1200. 
+
+Hazardous Components 
+
+CAS Number 
+
+Lubricating Oil Additive Package 
+
+not applicable 
+
+EC Number 
+(EINECS) 
+not applicable 
+ 
+
+Nominal Mass Concentration 
+(%) 
+100 
+ 
+
+64741-96-4 
+not available 
+not available 
+
+265-159-2 
+not available 
+not available 
+
+87 to 94 
+5 to 9.9 
+0.5 to 1.5 
+
+Major Components 
+Distillates, petroleum, solvent-refined 
+heavy naphthenic 
+Zinc alkyldithiophosphate 
+Magnesium sulfonate 
+
+ 
+
+ 
+
+ 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash exposed skin with soap and water for at least 15 minutes.  Seek medical attention if needed. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Aspiration hazard.  Do not induce vomiting.  If vomiting occurs, keep head lower than hips to prevent 
+aspiration.  If not breathing, give artificial respiration by qualified personnel.  Seek immediate medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Skin and/or eye irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  Not applicable. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability 
+properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, and regular foam. 
+Unsuitable:  Water may cause splattering.   
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+by-products.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 2 
+
+Fire = 1 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Absorb spilled material with sand or non-combustible 
+material and collect in appropriate container for disposal. 
+
+SRM 1848 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    The  storage  floor  must  be 
+impermeable and form a collecting basin so that, in the event of an accident spillage, the liquid cannot spread beyond 
+the storage area. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+NIOSH (REL): 
+ACGIH (TLV):  
+OSHA (PEL): 
+
+No exposure limits established. 
+No exposure limits established. 
+No exposure limits established. 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA 29CFR 1910.134  must  be  followed.    Refer  to  NIOSH  42 CFR 84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield. An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product. 
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point: 
+Relative Density (water=1): 
+Vapor Pressure: 
+Vapor Density: 
+Kinematic Viscosity (at 40 °C)(a): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature: 
+Thermal Decomposition: 
+Initial boiling point (°C): 
+Explosive Limits, LEL (%): 
+Explosive Limits, UEL (%): 
+Flash Point (PMCC)(a): 
+Flammability (solid, gas): 
+(a) Value from Certificate of analysis. 
+10.  STABILITY AND REACTIVITY 
+
+ 
+dark, viscous liquid 
+not applicable 
+not applicable 
+mild oil smell 
+not available 
+not available 
+not available 
+not available 
+0.95 at 15.6 °C  
+<0.1 mmHg 20°C 
+not available 
+4000 cSt 
+insoluble in water 
+not available 
+ 
+not available 
+not available 
+>260 (500 °F) 
+0.6 
+7 
+173°C (343 °F)  
+not applicable 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+SRM 1848 
+
+ 
+
+Page 3 of 6 
+
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact with incompatible 
+materials. 
+
+Incompatible Materials:  Acids, oxidizers, halogens and halogenated compounds. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Carbon monoxide, carbon dioxide, aldehydes, hydrogen sulfide, alkyl mercaptans, and 
+oxides of carbon.  
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics: Skin and/or eye irritation. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Acute exposure to mists or sprays of insoluble mineral oils are usually not harmful to the respiratory 
+tract; however, discomfort may occur at concentrations above 5 mg/m3.  Prolonged or repeated exposure may 
+cause fibrotic nodules, lipid pneumonia, and lipid granuloma. 
+
+Skin Contact:  Acute exposure may cause oil folliculitis due to the mechanical plugging of the hair follicles.  
+Some people may develop sensitivity to petroleum products or additives used in petroleum products.  Chronic 
+skin exposure may cause defatting and drying of the skin resulting in irritation and dermatitis. 
+
+Eye Contact:  Acute exposure to liquid or mist may cause irritation.  Repeated exposure may cause conjunctivitis. 
+
+Ingestion:  Acute exposure by ingestion may cause gastrointestinal disturbances such as diarrhea. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+  Lubricating Oil Additive Package:  Rat, Oral LD50:  >5000 mg/kg 
+ 
+
+Rabbit, Dermal LD50:  >2000 mg/kg 
+
+ 
+
+Skin Corrosion/Irritation:  Category 2, Mixture may cause skin irritation. 
+
+Serious Eye Damage/Eye Irritation:  Category 2B, Mixture may cause moderate to strong eye irritation. 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+
+Yes 
+
+X  No 
+
+Hazardous  components  listed  in  this  SDS  are  not  listed  by  NTP,  IARC,  or  OSHA  as  a  carcinogen/potential 
+carcinogen. 
+
+Reproductive Toxicity:  Not classified. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified. 
+
+Aspiration Hazard:  Not classified.  
+
+This  material  does  not  pose  an  aspiration  hazard  due  to  the  high  viscosity  (see  Section  9,  “Physical  and 
+Chemical Properties”).  
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:   
+
+  Lubricating Oil Additive Package: 
+
+ 
+ 
+
+ 
+ 
+
+Freshwater Fish Toxicity: Acute LC50 is 10 mg/L to 100 mg/L 
+Freshwater Invertebrates Toxicity: Acute EC50 is 100 mg/L to 1000 mg/L 
+
+Persistence and Degradability:  No data available 
+
+SRM 1848 
+
+ 
+
+Page 4 of 6 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by IATA or DOT. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+Yes. 
+Yes. 
+No. 
+No. 
+No. 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Distillates, petroleum, solvent-refined heavy naphthenic is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+ 
+
+ 
+
+SRM 1848 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  16 July 2018 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Severely Solvent-Refined Heavy Naphthenic Distillate, 15 December 2014. 
+
+European  Chemical  Agency,  Registered  substances  (ECHA),  Distillates  (petroleum),  solvent-refined 
+heavy  naphthenic,  CAS#  64741-96-4  available  at  http://echa.europa.eu/information-on-chemicals 
+(accessed July 20185). 
+
+Supplier Proprietary SDS, Passenger Car Motor Oil Additive, 5 December 2006. 
+
+Key of Acronyms: 
+
+ACGIH 
+ALI 
+CAS  
+CERCLA   Comprehensive Environmental Response, Compensation, and 
+
+American Conference of Governmental Industrial Hygienists  NRC 
+NTP  
+Annual Limit on Intake 
+OSHA  
+Chemical Abstracts Service  
+PEL  
+
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+
+RCRA  
+REL  
+RQ  
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reportable Quantity  
+
+RTECS 
+SARA  
+SCBA  
+SRM  
+STEL  
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS  Workplace Hazardous Materials Information System 
+
+Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+https://www.nist.gov/srm. 
+
+SRM 1848 
+
+ 
+
+Page 6 of 6 
+
+

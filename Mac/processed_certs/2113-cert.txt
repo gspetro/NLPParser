@@ -1,0 +1,294 @@
+﻿«1  OF 
+ 
+< Os 
+pet  OF  Coy, 
+Sw 
+f 
+
+% 
+4% 
+
+gs 
+% 
+* 
+é 
+eo Stares OF 
+
+National Institute of Standards & Technology 
+Certificate 
+Standard Reference Material® 2113 
+
+ 
+
+ 
+
+ 
+Dynamic Impact Force Verification Specimens 
+ 
+(Self-Verification, 8-mm Striker; 33 kN nominal) 
+aal) 
+ 
+Lot No.: LL-103 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  the  verification  of  the  maximum  force  measured 
+dynamically using a Charpy machine equipped with an instrumented 8-mm striker, in accordance with the current ASTM 
+Standard E2298 [1] or the current ISO Standard 14556 [2].  A unit of SRM 2113 consists of a set of four specimens 
+needed to perform a single verification. SRM 2113 can also be used to verify the absorbed energy scale of the impact 
+machine at the low-energy level.  When testing is performed at room temperature, the force and absorbed energy scales 
+can be verified simultaneously.  This SRM can also be used to verify the absorbed energy scale at a test temperature of 
+–40 °C, but no force information is available at this temperature.  
+ 
+Material Description:   SRM 2113 is made from 4340 alloy steel.  The bars are finished to length, stamped, heat-treated, 
+and machined in SRM specimen lots of approximately 1200 to 2000 specimens.  Each specimen has a lot number and 
+an identification number (three or four digits). 
+ 
+SRM Certification Procedure:  Specimens taken from each SRM lot were tested by the NIST Applied Chemicals and 
+Materials  Division  on  Charpy  reference  machines  for  absorbed  energy,  and  via  an  interlaboratory  comparison 
+(round robin) [3] for maximum force.  These data were statistically evaluated to ensure the homogeneity of the lot, establish 
+certified value, and determine the number of SRM specimens required for a user to perform a valid verification.  A NIST 
+certified value  is  a value  for  which  NIST has  the highest  confidence  in  its  accuracy,  in  that  all known or  suspected 
+sources of bias have been investigated or taken into account [4].  The measurand is absorbed energy as measured by the 
+NIST Charpy reference machines, and maximum force as established from the interlaboratory comparison.  Traceability 
+is to the SI units joule (absorbed energy) and kilonewton (force).  The certified values for the SRM 2113 specimens are 
+given in Tables 1 and 2. 
+ 
+Expiration of Certification:    The certified values and uncertainties furnished in this certificate are valid indefinitely. 
+The indirect verification result for the absorbed energy scale is valid for one year from the  date on  which the SRM was 
+tested.    If a user’s machine is moved or undergoes any major repairs or adjustments, the current  verification will be 
+invalidated,  and  the  machine  must  be  retested  and  reverified  (see  “Instructions  for  Handling,  Storage,  and  Use”).  
+Currently, there are no requirements for the verification of the force scale.  However, it is recommended to verify the 
+calibration of the instrumented striker of the small-scale Charpy machine every time the striker undergoes repairs or 
+adjustment, or damage is suspected, and every time the impact machine is indirectly verified for absorbed energy. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+sst  specimens  and  machines
+Overall direction and coordination of the technical measurements leading to verification of test specimens and machines 
+are under the direction of the NIST Materials Reliability Division, Boulder, CO. 
+ 
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  16 October 2018 
+Certificate Revision History on Last Page 
+
+James Fekete, Chief 
+Applied Chemicals and Materials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 2113 
+
+Page 1 of 3 
+
+Table 1.  Certified Absorbed Energy Values and Expanded Uncertainty for SRM 2113(a) 
+  
+
+ 
+
+Room temperature (21 °C  ±  1 °C) 
+
+Room temperature (-40 °C  ±  1 °C) 
+
+  
+
+Absorbed Energy 
+(J) 
+
+  
+    
+    
+
+Maximum Force 
+(kN) 
+
+  
+
+Expanded Uncertainty 
+
+Expanded Uncertainty 
+
+(kN) 
+
+15.3 
+
+18.2 
+
+0.1 
+
+0.1 
+
+(J) 
+
+ 
+(a) The  uncertainties  in  the  certified  values  provided  are  expanded  uncertainties  about  the  means  to  cover  the  measurands.    The 
+expanded  uncertainty  is  calculated  as  U  =  kuc,  where  uc  represents  the  combined  uncertainty  consistent  with  the  ISO/JCGM 
+Guide [5].  For room temperature, the coverage factor k = 1.9939 is based on 71 effective degrees of freedom and corresponds to 
+an approximate 95 % confidence interval. For –40 °C, the coverage factor k = 1.9944 is based on 70 effective degrees of freedom 
+and corresponds to an approximate 95 % confidence interval. 
+
+ 
+
+ 
+
+Table 2: Certified Maximum Force Values and Expanded Uncertainty for SRM 2113(a) 
+  
+
+ 
+e
+n
+I
+
+Room temperature (21 °C  ±  1 °C) 
+
+  
+
+Maximum Force 
+(kN) 
+
+ 
+    
+
+Expanded Uncertainty 
+
+33.00 
+
+(kN) 
+
+1.86 
+
+ 
+(a) The uncertainty in the certified value provided is an expanded uncertainty about the mean to cover the measurand. The expanded 
+uncertainty is calculated as U = kuc, where uc represents the combined uncertainty consistent with the ISO/JCGM Guide [5]. The 
+coverage factor k = 2.447 is based on 6 effective degrees of freedom and corresponds to an approximate 95 % confidence interval.  
+
+ormal  storage  conditions  (20 
+
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  The protective oil coating should be wiped from each specimen with a lint-free cloth just prior to testing. 
+ 
+Storage:  The SRMs are anticipated to have an indefinite shelf life under normal storage conditions (20 °C ± 20 °C, 
+≤ 50 % relative humidity). 
+ 
+Use:  Prior to verifying a Charpy machine equipped with an 8-mm striker, the machine should be checked to ensure 
+compliance with the appropriate sections of the applicable ASTM or ISO standard.  SRM 2113 is typically tested at room 
+temperature (21 °C ± 1 °C) using an instrumented 8-mm striker, so that both the absorbed energy scale and the force 
+scale can be verified in accordance with the applicable standard (ASTM or ISO).  However, SRM 2113 can also be 
+tested at –40 °C ± 1 °C using an 8-mm striker when no force data is needed.  
+ 
+SRM 2113 can be used to meet the indirect verification requirements of ASTM E23 and ISO 148-2 [6,7].  When using 
+SRM 2113, the user performs a self-service verification of the test machine.  The data and specimens are not returned 
+to NIST following the test.  NIST provides no letter or certification sticker for the machine tested. 
+ 
+The energy level of the SRM appropriate for verifying the performance of a particular Charpy machine can be determined 
+by considering the energy for the SRM, the maximum capacity of the machine, and the requirements of the applicable 
+test method (ASTM or ISO). 
+ 
+For questions concerning the production or use of this SRM please contact the NIST Charpy Program Coordinator as 
+follows: telephone (303) 497-3351; fax (303) 497-5939; or e-mail charpy@boulder.nist.gov. 
+ 
+ 
+ 
+ 
+
+ 
+
+SRM 2113 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  ASTM  E2298;  Test  Method  for  Instrumented  Impact  Testing  of  Metallic  Materials,  Annual  Book  of  ASTM 
+
+ttallic  Materials 
+
+Standards, Vol. 03.01, ASTM, West Conshohocken, PA. 
+
+[2]  ISO 14556; Steel - Charpy V-notch Pendulum Impact Test - Instrumented Test Method; International Organization 
+
+for Standardization: Geneva,  Switzerland. 
+
+[3]  McCowan, C.N.;  Splett, J.D.;  Lucon, E.;  Dynamic  Force  Measurement:  Instrumented  Charpy  Impact  Testing; 
+NISTIR 6652; National Institute of Standards and Technology, U.S. Department of Commerce: Gaithersburg, MD 
+(2008); available at https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=50616 (accessed Oct 2018) 
+
+[4]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington,  DC  (2000);    available    at  https://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Oct 2018). 
+
+[5]  JCGM 100:2008;  Evaluation  of  Measurement  Data  -  Guide  to  the  Expression  of  Uncertainty  in  Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2018);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/sites/default/files/documents/2017/05/09/tn1297s.pdf (accessed Oct 2018). 
+
+[6]  ASTM E23; Standard Test Methods for Notched Bar Impact Testing of Metallic Materials; Annual Book of ASTM 
+
+Standards, Vol. 03.01, ASTM, West Conshohocken, PA. 
+
+[7]  ISO 148-2;  Metallic  Materials  –  Charpy  Pendulum  Impact  Test  -  Part  2:  Verification  of  Testing  Machines; 
+
+International Organization for Standardization: Geneva, Switzerland. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  16 October 2018 (Editorial changes); 17 January 2018 (Title update; editorial changes);09 December 2011 (Original 
+   
+certificate issue date).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting  the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail  srminfo@nist.gov;  or  via  the 
+Internet at https://www.nist.gov/srm. 
+ 
+
+  
+
+17 
+
+SRM 2113 
+
+Page 3 of 3 
+
+

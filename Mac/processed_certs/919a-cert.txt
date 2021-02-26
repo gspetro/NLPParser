@@ -1,0 +1,198 @@
+﻿  yet 
+
+OF  Co, 
+
+,
+y
+a
+e
+P
+
+ 
+*
+
+ 
+n
+a
+
+ 
+w
+o
+
+ 
+,
+
+ 
+y
+e
+ h
+
+%
+
+Stare 
+
+ 
+ m
+B
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 919a 
+ 
+Sodium Chloride 
+
+(Clinical Standard) 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  the  production  of  saline  solutions  of  accurately  known 
+concentrations as well as in the calibration of instrumentation and standardization of procedures used in the determination of 
+sodium and chloride ions in clinical analyses.  A unit of SRM 919a consists of approximately 30 g of sodium chloride. 
+ 
+
+Certified Purity:  99.89 %  ±  0.03 % (mass fraction) 
+
+ 
+r
+I
+
+ 
+Chloride was determined on 12 dried samples by a modified method of Marinenko and Taylor [1] and indicated a purity of 
+99.89 %  mass  fraction,  based  on  stoichiometric  sodium  chloride  (NaCl).    Stoichiometry  of  the  SRM  was  corroborated  by 
+gravimetric assay of the sodium as sodium sulfate following ion exchange separation of the sodium.  The gravimetric assays 
+and analyses for specific impurities indicate that the only impurity present at a level above 100 μg/g is occluded water. 
+ 
+The certified purity, listed above, is based on drying a sample for 3 h at 110 °C.  The uncertainty is the half-width of a 95 % 
+confidence  interval  for  the  certified  purity  of  this  material.    Dried  samples  should  be  stored  over  anhydrous  magnesium 
+perchlorate before use.  Two samples ignited at 650 °C for 2 h and assayed coulometrically indicated a purity of 100.01 % 
+mass  fraction.    This  increase  results  from  the  elimination  of  occluded  moisture,  which  is  not  quantitatively  eliminated  by 
+drying or ignition at lower temperatures. 
+ 
+Expiration of Certification:  This certification will be valid for five years from the date of shipment. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+cle  under  normal  laboratory  conditions. 
+Storage:  SRM 919a should be stored in the tightly closed original bottle under normal laboratory conditions. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+At room temperature, sodium chloride is hygroscopic above 60 % relative humidity.  The absorbed  water can be removed, 
+however,  by  drying  for  3  h  at  110 °C  and  storing  over  freshly  exposed  phosphorus  pentoxide  (P2O5)  or  magnesium 
+perchlorate (Mg(ClO4)2).  It is recommended that weighing and other manipulations not be made when the relative humidity 
+exceeds 60 percent. 
+ 
+SE  ONLY! 
+SRM 919a IS INTENDED FOR “IN VITRO” DIAGNOSTIC USE ONLY! 
+ 
+Analyses  were  performed  in  the  Inorganic  Analytical  Research  Division  by  K.W.  Pratt,  T.A.  Rush,  T.W.  Vetter,  and 
+Rush,  T.W.  Vetter,  and
+Zhen Xu, Guest Scientist. 
+ 
+The overall direction and coordination of technical measurements leading to the certification were under the chairmanship of 
+K.W. Pratt of the NIST Analytical Chemistry Division. 
+ 
+Statistical analysis of the data was made by S.B. Schiller of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899  
+Certificate Issue Date:  23 April 2004  
+See Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Acting Chief 
+Measurement Services Division 
+
+Willie E. May, Chief 
+Analytical Chemistry Division 
+
+SRM 919a  
+
+Page 1 of 2 
+
+The  technical  and  support  aspects  concerning  the  issuance  of  this  SRM  were  coordinated  though  the  NIST  Standard 
+Reference Materials Program by B.S. MacDonald of the NIST Measurement Services Division. 
+ 
+This  material  was  examined  for  compliance  with  the  specifications  for  reagent  grade  sodium  chloride  as  given  in  Reagent 
+iety,  Washington,  DC.  The  material  meets  or  exceeds 
+Chemicals, 7th ed., (1987) published by the American Chemical Society, Washington, DC.  The material meets or exceeds 
+the minimum requirements in every respect. 
+ 
+A  semiquantitative  survey  for  trace  elements  by  flame  atomic  emission  spectrometry  indicated  the  presence  of  potassium 
+9 μg/g, and calcium 6 μg/g. 
+ 
+The estimated uncertainty for each of these mass fractions is 20 %.  This survey also indicated less than 20 μg/g cesium (Cs), 
+less  than  0.03  μg/g  lithium  (Li),  and  less  than  0.5  μg/g  rubidium  (Rb).    Magnesium  (Mg)  was  determined  to  be  less  than 
+0.05 μg/g by flame atomic absorption spectrometry.  In addition, barium (Ba) was determined to be less than 5 μg/g by direct 
+current (DC) arc, atomic emission spectroscopy. 
+ 
+Preparation  of  Standard  Solution:  A  standard  solution  of  100.0  mmol  of  NaC1  per  liter  may  be  prepared  by  weighing 
+5.851  g  of  SRM  919a  (dried  at  110 °C  for  3  h,  into  a  one-liter  volumetric  flask  and  adding  3  mL  of  concentrated  nitric 
+acid (HNO3) (ACS reagent grade or equivalent) and 100 mL of deionized water.  After the NaCl is dissolved, dilute to the 
+mark with deionized water.  The concentration required for the analytical procedure may be prepared by accurate dilution of 
+the standard solution with deionized water.  Solutions of SRM 919a are stable indefinitely when stored in a well-stoppered, 
+all-glass container.  All such solutions should be clear and display no turbidity. 
+ 
+ 
+
+ 
+lometric  Titrations  of  Halides 
+[1]   Marinenko,  G.;  Taylor,  J.K.;  Precise  Coulometric  Titrations  of  Halides;  J.  Res.  Natl.  Bur.  Stand.  (U.S.).  Vol.  67A, 
+
+REFERENCES 
+
+pp. 31-35 (1963). 
+
+York, pp. 56-57, pp. 713-714 (1974). 
+
+[2]  Clinical Chemistry: Principles and Techniques; Henry, R.J.; Cannon, D.J.; Winkleman, J., Eds.; Harper and Row:  New 
+
+- 
+
+‘al  Chemistry 
+
+[3]  Tietz, N.W.; Textbook of Clinical Chemistry; W.B. Saunders Co.:  Philadelphia, PA, pp. 1177-1184 (1986). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  23 April 2004 (This revision reports editorial changes); 19 February 1991 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by contacting 
+the  SRM  Program  at:    telephone  (301)  975-6776;  fax  (301)  926-4751;  e-mail  srminfo@nist.gov;  or  via  the  Internet  at 
+http://www.nist.gov/srm. 
+
+ 
+
+SRM 919a  
+
+Page 2 of 2 
+
+

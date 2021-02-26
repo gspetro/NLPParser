@@ -1,0 +1,627 @@
+﻿ National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1963a 
+ 
+Polystyrene Spheres  
+ 
+(Nominal Diameter 100 nm) 
+
+Diameter  100  nm 
+
+ 
+particle  sizing  instruments, 
+This  Standard  Reference  Material (SRM)  is  intended  for  the  calibration/validation  of  particle  sizing  instruments, 
+including electron microscopes, differential mobility analyzers, scanning surface inspection systems, and other light 
+scattering  instruments.    A  unit  of  SRM 1963a  consists  of  5 mL  of  polystyrene  spheres  in  deionized  filtered 
+(0.2 µm pore size) water.  The particle suspension contains primary spheres (monomers) with very few agglomerates.  
+The spheres are present at a mass fraction of approximately 0.5 % and are supplied in a dispensing vial.  
+ 
+The size probability distribution is P(D) = dN/dD, where dN is the fraction of particles with diameter between D and 
+D + dD.  The modal diameter, which is the diameter where P(D) takes the largest value, also called the mode of P(D), 
+was measured for the spheres suspended as an aerosol using differential mobility analysis (DMA) [1].  The certified 
+value for the modal diameter of the polystyrene spheres as an aerosol is given in Table 1. 
+ 
+
+Table 1.  Certified Modal Sphere Diameter and Expanded Uncertainty(a) 
+
+ 
+
+Modal Diameter  
+
+101.8 nm  ±  1.1 nm 
+
+(a) The expanded uncertainty (95 % confidence interval) includes both Type A and Type B uncertainties calculated according to the 
+
+ISO/JCGM Guide [2]. 
+
+ 
+These results are based on three repeat measurements on each of three different dates.  There was one calibration 
+measurement made either proceeding or following each of the certification measurements [3].  The measurand is the 
+length,  expressed  as
+diameter for the Modal Sphere.  The certified values are metrological traceable to the SI unit of length, expressed as 
+nanometers. 
+ 
+The value for the combined uncertainty for the modal diameter is 0.55 nm and the number of degrees of freedom for 
+the uncertainty is 153.  This information may be used to estimate the uncertainty when using the spheres for calibrating 
+a particle sizing instrument and estimating the effective degrees of freedom.  
+ 
+Expiration of Certification:  The certification of SRM 1963a is valid, within the measurement uncertainty specified, 
+until 31 March 2022, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Handling,  Storage  and  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified.  
+ 
+Maintenance  of  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If  substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Technical  direction  and  physical  measurements  were  provided  by  T.A. Germer,  NIST  Sensor  Science  Division; 
+G.W. Mulholland, M.K. Donnelly, and S.R. Kukuck, NIST Fire Research Division; V.A. Hackley, NIST Materials 
+Measurement Science Division; and D.Y.H. Pui, Particle Technology Laboratory, University of Minnesota. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  01 May 2019 
+Certificate Revision History on Last Page. 
+
+LaDonna Lauren, Chief 
+Microsystems and Nanotechnology Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+ 
+
+Page 1 of 5 
+
+  
+
+SRM 1963a 
+
+Statistical analysis was provided by C.R. Hagwood of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Traceability:    In  the  present  certification  measurements [1],  the  DMA  was  calibrated  using  SRM 1963.    The 
+certification of SRM 1963 [4] was based upon the certification of the 0.895 µm particle standard, SRM 1690.  The 
+certification of SRM 1690 [5], in turn, was based upon the He-Ne laser wavelength in air, 632.807 nm.  Lastly, the 
+He-Ne laser wavelength [6] has been determined with respect to the fundamental standard, SI Unit for length.  All of 
+the contributions to the uncertainty imposed by this traceability chain have been included in the Type B uncertainty 
+expressed above. 
+ 
+Information Values:  An information value is considered to be a value that will be of interest to the SRM user, but 
+insufficient information is available to assess the uncertainty associated with the value.  Information values cannot be 
+used to establish metrological traceability. 
+ 
+Additional Information:  A single measurement of the size probability distribution P(D) over an extended range of 
+the  distribution  is  given  in Table 2  and  Figure  1.    The  standard deviation of  the  size distribution near  the  peak  is 
+2.5 nm, and the standard deviation of the entire distribution is 4.0 nm.  The number median diameter is 101.1 nm.  The 
+number median diameter is the diameter x, at which the integral  
+ 
+
+x
+
+∫
+
+0
+
+P D dD =
+)
+
+(
+
+0.5
+
+ 
+
+ 
+where the cumulative distribution function is 0.5.  The number mean diameter, the volume mean diameter, the light 
+scattering  mean  diameter,  and  the  dynamic  light  scattering  mean  diameter  are  given  in  Table 3.    The  extended 
+measurement of P(D) yielded a slightly different modal diameter than the certified value, because that measurement 
+was only obtained from a single scan on a single day; the difference between those values is statistically insignificant.  
+These are non-certified values with no uncertainty assessed and are provided for information purposes only.   
+ 
+It  in  a  residue  layer  on  the
+The peak diameter is for the spheres as an aerosol.  The contaminants in the suspension result in a residue layer on the 
+spheres.  The estimated thickness of this layer is 0.30 nm. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE  
+ 
+Handling and Use:  A sample of the spheres may be obtained by squeezing a drop from the vial.  Use filtered (0.2 µm 
+pore size filter) deionized water for dilution.  Care should be exercised to prevent contamination once the cap has been 
+removed. 
+ 
+Storage:  Refrigerate the sample (5 °C to 15 °C) but DO NOT allow the sample to become frozen.  DO NOT remove 
+the cap from the vial until the sample is used.  It should be noted that no biocide was added during packaging.  Once 
+the sample is opened, there is a possibility of biological contamination leading to growth of bacteria or spores.  To 
+minimize the occurrence of this unwanted growth, replace the cap immediately after dispensing the sample drops.  
+ 
+Note:  The polystyrene spheres may be damaged by exposure to an electron beam.  This effect can be minimized by 
+using a short exposure time and low electron flux [7].  
+ 
+
+ 
+
+SRM 1963a 
+
+ 
+
+Page 2 of 5 
+
+Table 2.  Additional information values describing the size probability distribution, P(D), obtained from a single 
+measurement scan over an extended range. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+P(D) 
+(nm-1) 
+ 
+0.14710 
+0.14442 
+0.14632 
+0.14008 
+0.13092 
+0.12077 
+0.10385 
+0.08883 
+0.07115 
+0.05788 
+0.04429 
+0.03257 
+0.02370 
+0.01718 
+0.01227 
+0.00515 
+0.00094 
+0.00106 
+ 
+
+P(D)  
+(nm-1) 
+ 
+0.00095 
+0.00149 
+0.00368 
+0.00383 
+0.01651 
+0.01812 
+0.02420 
+0.02611 
+0.03227 
+0.03691 
+0.04591 
+0.05411 
+0.06523 
+0.07391 
+0.08900 
+0.10203 
+0.11510 
+0.12779 
+0.13759 
+
+D 
+(nm) 
+ 
+78.15 
+82.85 
+87.38 
+91.76 
+94.81 
+95.23 
+95.65 
+96.07 
+96.49 
+96.90 
+97.32 
+97.74 
+98.15 
+98.56 
+98.97 
+99.39 
+99.80 
+100.20 
+100.61 
+
+D 
+(nm) 
+ 
+101.02 
+101.43 
+101.83 
+102.23 
+102.64 
+103.04 
+103.44 
+103.84 
+104.24 
+104.63 
+105.03 
+105.43 
+105.82 
+106.22 
+106.61 
+108.12 
+111.98 
+115.77 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+0.15
+
+0.10
+
+0.05
+
+1
+-
+
+m
+n
+
+ 
+,
+)
+
+D
+P
+
+(
+
+ 
+
+80
+
+90
+
+100
+
+110
+
+120
+
+D, nm
+ 
+
+ 
+
+Figure 1.  Size probability distribution, P(D), of data provided in Table 2 obtained 
+from a single measurement scan over an extended range. 
+
+0.00
+
+70
+
+ 
+
+SRM 1963a 
+
+ 
+
+Page 3 of 5 
+
+Table 3.  Information value for the weighted mean particle diameter based on the size probability distribution, P(D), 
+given in Table 1. 
+ 
+
+Peak Diameter (a) 
+(nm) 
+
+(b)
+
+ 
+
+〈DN〉
+(nm) 
+
+〈DV〉 
+(nm) 
+
+〈DLS〉 
+(nm) 
+
+〈Dh〉Z 
+(nm) 
+
+  
+
+101.5 
+
+100.6 
+
+101.0 
+
+101.4 
+
+101.3 
+
+σ〈DN〉 
+(nm) 
+
+4.0 
+
+ 
+
+Number mean diameter: 
+
+Standard deviation of size distribution: 
+
+Volume or mass mean diameter: 
+
+Light scattering weighted mean diameter (Rayleigh limit): 
+
+Dynamic light scattering mean diameter (c): 
+
+ND
+
+= ∫
+
+(
+D P D D
+
+) d
+
+ 
+
+σ 
+=
+
+
+∫
+
+(
+
+D D
+−
+N
+
+2
+
+)
+
+)
+P D D
+
+d
+
+(
+
+1/ 2
+
+
+
+ 
+
+D
+V
+
+D
+
+LS
+
+D
+
+h Z
+
+
+
+= 
+
+
+
+3
+
+3
+
+6
+
+)
+
+d
+
+d
+
+)
+d
+
+(
+= ∫
+DD P D D
+(
+∫
+D P D D
+(
+= ∫
+DD P D D
+(
+∫
+D P D D
+1
+D
+∫
+
+(
+D P D D
+
+(
+D P D D
+
+)
+d
+
+∫
+
+d
+
+d
+
+)
+
+)
+
+)
+
+6
+
+6
+
+6
+
+ 
+
+ 
+
+
+
+
+
+
+−
+
+1
+
+ 
+
+(a) The peak diameter is estimated from a cubic fit for the 11 data points within 30 % of the largest value of P(D) = 0.14710. 
+(b) The integrals are evaluated using the trapezoidal rule. 
+(c) The subscript h indicates that this is the hydrodynamic diameter based on the diffusive motion of the particle. 
+ 
+ 
+ 
+
+ 
+
+11
+
+SRM 1963a 
+
+ 
+
+Page 4 of 5 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  Mulholland, G.W.; Donnelly, M.K.; Hagwood, C.;  Kukuck, S.R.; Hackley, V.A.;  Pui, D.Y.H.;  Measurement 
+of 100 nm and 60 nm Particle Standards by Differential Mobility Analysis; J. Res. Natl. Inst. Stand. Technol., 
+Vol. 111, Issue 4, pp. 257–312, (2006). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed May 2019); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed May 2019). 
+
+[3]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of Reference Materials for Chemical Measurements; NIST Special Publication 260-136 (2000); available at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed May 2019). 
+
+[4]  Mulholland, G.W.; Bryner, N.P.; Croarkin, C.; Measurement of the 100 nm NIST SRM 1963 by Differential 
+
+Mobility Analysis; Aerosol Sci. Technol., Vol. 31, pp. 39–55 (1999). 
+
+[5]  Mulholland, G.W.;  Hartman, A.W.;  Hembree, G.G.;  Marx, E.;  Lettieri, T.R.;  Development  of  a  One 
+Micrometer Diameter Particle Size Standard Reference Material; J. Res. NBS., Vol. 90, pp. 3–26 (1985). 
+[6]  Mielenz, K.D.;  Nefflen,  K.  F.;  Gillilland,  K.E.;  Stephens,  R.B.;  Zipin,  R.B.;  Measurement  of  the  633-nm 
+Wavelength of Helium-Neon Lasers; Appl. Phys. Lett., Vol. 7, p. 277 (1965) and Mielenz, K.D.; Nefflen, K.F.; 
+Rowley, W.R.C.; Wilson, D.C.; Engelhard, E.; Reproducibility of Helium-Neon Laser Wavelengths at 633 nm; 
+Appl. Opt., Vol. 7, p. 289 – 293 (1968). 
+Jung, K.Y.; Park, B.C.; Song, W.Y.; Eom, T.B.; Eom, B.-H.O.; Measurement of 100-nm Polystyrene Sphere 
+by Transmission Electron Microscope; Powder Technol., Vol. 126, pp. 255–265 (2002). 
+
+[7] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Certificate Revision History:  01 May 2019 (Change of expiration date; editorial changes); 06 October 2014 (Corrected Semiconductor and 
+Dimensional  Metrology  Division  Chief  name;  editorial  changes);  05 June 2014  (Extension  of  the  certification  period;  editorial  changes); 
+10 January 2007 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 1963a 
+
+ 
+
+Page 5 of 5 
+
+

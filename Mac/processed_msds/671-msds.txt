@@ -1,0 +1,706 @@
+﻿Date of Issue:
+
+21 May 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	671
+
+		SRM Name:	Nickel Oxide, No. 1
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for use in spectrographic analysis of nickel by ASTM E129-57T.  A unit of SRM 671 consists of 25 g of nickel oxide powder.
+
+Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Not classified.
+
+		Health Hazard:	Skin Sensitization	Category 1
+
+			Carcinogenicity	Category 1A
+
+			STOT, Repeated Exposure	Category 1
+
+		
+
+		Label Elements
+
+		Symbol:
+
+			
+
+			Signal Word:  DANGER
+
+Hazard Statement(s):
+
+	H317	May cause an allergic skin reaction.
+
+	H350	May cause cancer.
+
+	H373	May cause damage to the lungs through prolonged or repeated exposure inhalation.
+
+			Precautionary Statement(s):
+
+	P201	Obtain special instructions before use.
+
+	P202	Do not handle until all safety precautions have been read and understood.
+
+	P261	Do not breathe dust and fumes.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink or smoke when using this product.
+
+	P272	Contaminated work clothing should not be allowed out of the workplace.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	
+
+	P302 + P352	If on skin:  Wash with plenty of water.
+
+	P333	If skin irritation or rash occurs:  Get medical attention.
+
+	P362 + P364	Wash contaminated clothing before reuse.
+
+	
+
+	P308 + P313	If exposed of concerned:  Get medical attention.
+
+	P405	Store locked up.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Nickel oxide
+
+	Other Designations:  Nickel monoxide; black nickel oxide; nickel oxide sinter 75; bunsenite; nickelous oxide
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Nickel oxide
+
+	1313-99-1
+
+215-215-7
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  If necessary, seek medical attention.
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention.
+
+Ingestion:  If a large amount is swallowed, seek medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, skin irritation, allergic reactions, suspect cancer hazard (in animals).
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek medical attention if needed.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  Dust/air mixtures may ignite or explode.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Use extinguishing agents appropriate for surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Gives off irritating or toxic fumes (or gases) in a fire.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 2	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Avoid generating dust.    Keep out of water supplies and sewers.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Notify safety personnel of spills.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry.  Subject to California Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65).
+
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions: See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:
+
+	NIOSH (REL):	0.2 mg/m3 (TWA) as Ni inhalable fraction (related to Nickel, inorganic compounds, insoluble)
+
+		ACGIH (TLV):	0.2 mg/m3 (TWA)
+
+		OSHA (PEL):	15 mg/m3 (TWA, total particulates not otherwise regulated)
+
+			5 mg/m3 (TWA, total particulates not otherwise regulated)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear chemical resistant safety goggles.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed.  Chemical-resistant clothing and gloves should be worn at all times when handling chemicals.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties
+
+Nickel oxide
+
+Appearance 
+(physical state, color, etc.):
+
+	gray powder
+
+Molecular Formula:
+
+NiO
+
+Molar Mass (g/mol):
+
+74.71
+
+Odor:
+
+odorless
+
+Odor threshold:
+
+not available
+
+pH:
+
+not available
+
+Evaporation rate:
+
+not available
+
+Melting point/freezing point:
+
+1984 ºC (3603 ºF)
+
+Relative Density as specific gravity (water=1):
+
+6.6 to 6.8
+
+Vapor Pressure:
+
+not available 
+
+Vapor Density (air = 1):
+
+not available
+
+Viscosity (cP):
+
+not available
+
+Solubility(ies):
+
+insoluble in water and caustic solutions; 
+soluble in acids and ammonium hydroxide. 
+
+Partition coefficient (n-octanol/water):
+
+not available
+
+Particle Size:
+
+not available
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature (ºC):
+
+not available
+
+Thermal Decomposition (ºC):
+
+not available
+
+Initial boiling point and boiling range (ºC):
+
+not available
+
+Explosive Limits, LEL (Volume %):
+
+not available
+
+Explosive Limits, UEL (Volume %):
+
+not available
+
+Flash Point (ºC):
+
+not available
+
+Flammability (solid, gas):
+
+not available
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  No data available.
+
+Conditions to Avoid:  N Avoid generating dust.
+
+Incompatible Materials:  Oxidizing materials, metal oxides, halogens, peroxides, and reducing agents.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Miscellaneous decomposition products.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Respiratory tract irritation, skin irritation, allergic reactions, cancer hazard.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation: Acute exposure may result in irritation of the upper respiratory tract, asthma, allergic reactions, and immunosuppression.  Long term inhalation of nickel compounds may cause cancer.
+
+Skin Contact:  Skin contact may result in irritation.  Repeated exposure may cause skin sensitization, allergic reactions, and dermatitis.
+
+Eye Contact:  Direct contact may cause irritation.   Chronic exposure may result in conjunctivitis.
+
+Ingestion:  Ingestion may result in gastrointestinal irritation with nausea, vomiting and diarrhea, cough, difficulty breathing, headache and dizziness.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+
+Rat, Oral LD50: >5000 mg/kg
+
+Skin Corrosion/Irritation:  Not classified; no data available.
+
+Serious Eye Damage/Eye Irritation:  Not classified; no data available.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Category 1; Repeated or prolonged skin contact may cause sensitization dermatitis.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Category 1A
+
+Listed as a Carcinogen/Potential Carcinogen
+
+X
+
+Yes
+
+
+
+
+
+No
+
+	Nickel compounds are listed by IARC as Group 1 (carcinogenic to humans); NTP lists nickel compounds as known to be human carcinogens based on studies I humans.  Nickel compounds are not listed by OSHA as a designated carcinogen.
+
+	Mutagenic:  Human: 50 µmol/L, 15 µmol/L (2 h)
+
+Reproductive Toxicity:  Not classified.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 1; Repeated or prolonged inhalation may cause mucous membrane irritation.
+
+Aspiration Hazard:  Not applicable.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:
+
+Fish:  Zebrafish (Brachydanio rerio) LC50: >100 mg/L (static, 96 h)
+
+Alage: Pseudokirchneriella subcapitata EC50: >127.3 mg/L (72 h)
+
+Invertebrate: Water flea (Daphnia magna) EC50: >100 mg/L (48 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	Not regulated.
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	Not regulated.
+
+	OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes.
+
+	CHRONIC HEALTH:	Yes.
+
+	FIRE:	No.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  WARNING!  This product contains chemicals (nickel oxide) known to the state of California to cause cancer.
+
+U.S. TSCA Inventory:  Nickel oxide is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information: Not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+Issue Date:  21 May 2015
+
+	Sources:	ChemAdvisor, Inc., SDS Nickel Oxide, 20 March 2015.
+
+		CDC; NIOSH; NIOSH Pocket Guide to Chemical Hazards; Department of Health and Human Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and Health; Particulates not otherwise regulated, 04 April 2011; available at http://www.cdc.gov/niosh/npg/npgd0480.html (accessed May 2015).
+
+		
+
+		NTP Report on Carcinogens, Nickel Compounds and Metallic Nickel, Thirteenth Edition (2014); available at http://ntp.niehs.nih.gov/ntp/roc/content/profiles/nickel.pdf (accessed May 2015).
+
+	
+
+		IARC MONOGRAPHS – 100C, Nickel and Nickel Compounds, Thirteenth Edition, 2014; available at http://monographs.iarc.fr/ENG/Monographs/vol100C/mono100C-10.pdf  (accessed May 2015).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 671		Page 6 of 6

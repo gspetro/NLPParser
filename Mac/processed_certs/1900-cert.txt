@@ -1,0 +1,214 @@
+﻿ce 
+‘ Ea j  National  Institute  of  Standards  and  Technology 
+
+Sares oF 
+
+Certificate 
+
+Standard  Reference  Material®  1900 
+
+Silicon  Nitride  Powder-Specific  Surface  Area  Standard 
+
+This  Standard  Reference  Material  is  intended  for  use  in  the  calibration  of  instruments  used  to  measure  specific 
+The  SRM  unit  consists  of  a  single  bottle  containing 
+surface  area  (SSA)  in  the  range  of  0.1  m’/g  to  1000  m’/g. 
+approximately  4  g  of  silicon  nitride  powder. 
+static  volumetric 
+type  Brunauer-Emmett-Teller  (BET)  (nitrogen  gas)  instrument  using  a  pellet  cell. 
+
+The  SSA  of  this  material  was  measured  using  a 
+
+Table  1.  Certified  SSA  Values  and  Uncertainties  (20)  by  Nitrogen  BET 
+
+  
+
+Measurement  Technique 
+
+Specific  Surface  Area 
+
+  
+
+Multipoint 
+
+    
+    
+  
+
+2.79  m7/g  +  0.07  m7/g 
+
+Single  Point 
+
+2.85  m?/g  +  0.09  m7/g 
+
+Expiration  of  Certification:  The  certification  of 
+stated 
+uncertainties,  provided  the  SRM  is  stored  and  handled  in  accordance  with  the  Storage  and  Handling  and 
+Instructions  for  Use  sections  of 
+the  SRM  is 
+contaminated  or  otherwise  altered. 
+
+this  SRM  is  deemed  to  be  indefinite  within  the 
+
+However,  certification  will 
+
+be  nullified 
+
+certificate. 
+
+this 
+
+if 
+
+Samples  from  the 
+Storage  and  Handling:  Silicon  nitride  is  typically  inert  under  ambient  and  testing  conditions. 
+original  bottle  may  be  returned  to  the  bottle  and  reused  provided  that  the  Instructions  for  Use,  Sampling  Procedure 
+and  Outgassing  Procedure  are  strictly  followed. 
+
+Cautions  to  User:  This  SRM  is  not  certified  for  pore  size  distribution,  sample  density,  adsorption/desorption 
+isotherm  form,  or  particle  size  by  any  other  method.  While  the  SSA  of  this  SRM  was  determined  using  a 
+static 
+is  possible  that  different  methods  of  gas  adsorption 
+volumetric  BET  type  of  instrument  using  nitrogen  gas,  it 
+surface  area  analysis  (e.g.,  flowing  gas  analysis/dynamic  gas  analysis)  may  be  used. 
+Its  suitability  for  use  with  a 
+different  gas  is  undetermined. 
+The  user  must  determine  the  effect  of  different  methods  and  measurement 
+dynamics  on  the  SSA  of  this  SRM. 
+
+Coordination  for  this  SRM  was  provided  by  8.G.  Malghan,  S.J.  Dapkunas,  and  G.  Onoda  of  the  NIST  Ceramics 
+Division. 
+
+The  BET  measurement  technique,  development,  and  certification  was  performed  by  D.B.  Minor  of  the  NIST 
+Ceramics  Division. 
+
+Statistical  analysis  was  performed  by  S.D.  Leigh  of  the  NIST  Statistical  Engineering  Division. 
+
+The  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were  coordinated  through 
+the  Standard  Reference  Program  by  R.J.  Gettings. 
+
+Gaithersburg,  MD  20899 
+Certificate  Issue  Date: 
+
+19  March  1998 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+SRM  1900 
+
+Page  1  of 3
+
+Certification  Technique  and  Uncertainties:  The  SSA  of  SRM  1900  was  determined  on  20  randomly  selected 
+This  SRM  is  certified  for  both  multipoint  (MP)  and  single  point  (SP)  analysis 
+bottles  from  the  production  run. 
+using  nitrogen  gas  as  the  adsorbate  and  using  a 
+static  volumetric  type  of  instrument  based  upon  the  BET  method 
+[1].  The  certified  specific  surface  area  values  and  the  expanded  uncertainties  assigned,  computed  according  to  the 
+ISO  Guide  [2], 
+level  of  confidence  includes 
+The  certified  value  and  expanded 
+uncertainty  due  to  measurement  imprecision  as  well  as  material  variation. 
+uncertainty  define  a  range  of  values  within  which  the  true  specific  surface  area  is  expected  to  lie  with  at 
+least  95  %  confidence. 
+
+are  listed  in  Table  1.  The  expanded  uncertainty  at  the  95 
+
+% 
+
+Two  main 
+RM  8570  Calcined  Kaolin  (surface  area)  was  used  as  a  reference  in  the  evaluation  of  SRM  1900. 
+advantages  of  using  SRM  1900  over  RM  8570  are  that  the  sample  preparation  method  for  SRM  1900  is  easier, 
+and  bound  water  of  hydration  is  not  an  issue  [3]. 
+
+The  following  instructions  are  based  upon  using  a  Quantachrome  Autosorb  1,  Model  AS-1-11' 
+Instructions  for  Use: 
+using  the  pellet  cell.  Use  of  a  large  internal  diameter  cell  will  most  likely  yield  an  SSA,  both  single  point  and  multipoint, 
+higher  than  the  stated  value  for  this  SRM.  The  effect  of  using  a  larger  volume  cell  has  not  been  determined  by  NIST.  If 
+using  equipment  other  than  that  listed  above,  consult  the  equipment  manufacturer's  operating  instructions  for 
+variations  in  testing  procedure.  The  sampling  and  outgassing  procedures  described  below  should  always  be  followed. 
+The  sample  preparation  procedure  was  developed  at  NIST  for  the  U.S.  Department  of  Energy  and  the  International 
+Energy  Agency  [4]. 
+
+Sampling  Procedure:  Pour  the  entire  contents  of  the  bottle  onto  a  suitable  piece  of  weighing  paper  and  quarter 
+Scoop  enough  material  from  each  of  the  quarters  so  that  the  entire  amount  is  sufficient  for 
+the  resulting  pile. 
+analysis. 
+The  mass  to  be  analyzed  should  be  between  0.1  g  and  0.25  g.  Return  the  rest  of  the  sample  to  the 
+bottle,  recap,  and  reserve  for  future  use.  The  bulk  sample  need  not  be  kept  under  vacuum  or  in  a  desiccator. 
+
+Outgassing  Procedure:  Pre-weigh  an  empty  sample  tube  and  filler  rod  and  record  this  empty  mass  to  the  closest 
+0.0001  g.  Place  the  sample  into  the  analysis  tube  per  manufacturer's  instructions  or  accepted  practice. 
+Evacuate 
+the  sample  tube  to  less  than  1.3  Pa  (10  mTorr)  and  heat  the  sample  to  200  °C  for  2  h.  At  the  end  of  this  time, 
+turn  off  the  heat,  remove  the  heating  mantle  and  allow  the  sample  to  come  to  ambient  temperature.  Back  fill  that 
+Calculate  the  sample  mass  by 
+sample  with  He  gas,  and  weigh  to  the  closest  0.0001  g.  This  is  the  filled  mass. 
+difference. 
+Immediately  perform  the  analysis  following  the  manufacturer's  directions  or  the  user's  particular 
+method. 
+
+Additional  Noncertified  Information: 
+SRM  1900  is  given  in  Table  2. 
+
+A  typical  analysis  of  the  nitrogen  gas  used  during  the  certification  of 
+
+Table  2.  Typical  Gas  Analysis 
+
+Gas 
+Grade 
+Assay 
+oO, 
+H,0 
+Total  Hydrocarbons 
+
+Nitrogen 
+Industrial 
+99.995  % 
+<20  mg/kg 
+<16  mg/kg 
+mg/kg 
+<5 
+
+‘Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  describe  the  experimental 
+procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and  Technology,  nor 
+does  it  imply  that  the  materials  or  equipment  are  the  best  available  for  the  purpose, 
+
+SRM  1900 
+
+Page  2  of 3
+
+REFERENCES 
+
+(1) 
+[2] 
+
+(3) 
+
+[4] 
+
+Brunauer,  S.,  Emmett,  P.,  and  Teller,  E.,  J.  Amer.  Chem.  Soc.,  60,  p.  309,  (1938). 
+Guide  to  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9, 
+1st 
+Switzerland,  (1993). 
+Colbert,  J.C.,  Report  of  Investigation  of  Surface  Area  Reference  Material  8570  Kaolin,  National  Institute  of 
+Standards  and  Technology,  Gaithersburg,  MD,  (1994). 
+Malghan,  S.G.,  Hausner,  H.,  Pompe,  R.,  Tsubaki,  J.,  and  Hsu,  §.M.,  Development  and  Testing  of 
+Procedures  for  Characterization  of  Ceramic  Powders,  YEA  ANNEX  11,  Subtask  6,  prepared  by  NIST  for  the 
+U.S.  Department  of  Energy,  Oak  Ridge  National  Laboratory,  (Sept.  1993). 
+
+Geneva, 
+
+ISO, 
+
+Ed. 
+
+This  can  be 
+it  is  the  responsibility  of  users  of  this  SRM  to  assure  that  the  certificate  in  their  possession  is  current. 
+accomplished  by  contacting  the  SRM  Program  at:  Phone  (301)  975-6776  (select  “Certificates”),  Fax  (301)  926- 
+4751,  e-mail  srminfo@nist.  gov,  or  via  the  internet  hitp://ts.nist.  gov/srm. 
+
+SRM  1900 
+
+Page  3  of 3
+
+

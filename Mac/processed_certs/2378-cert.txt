@@ -1,0 +1,1173 @@
+﻿ent  OF  Co, 
+
+“4 
+
+a 
+z  x2]  ;  National  Institute  of  Standards  &  Cerchmolagy 
+
+ee 
+
+my 
+
+gs 
+
+ 
+
+ 
+
+Certificate  of  Analusis
+
+Standard Reference Material 2378 
+
+ 
+Fatty Acids in Frozen Human Serum 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining fatty acids 
+in human serum and similar materials.  A unit of SRM 2378 consists of three vials, each containing approximately 
+1.0 mL of frozen serum with different concentrations of fatty acids (Serum 1, Serum 2, and Serum 3). 
+ 
+SRM 2378 was produced in response to a need expressed by the Centers for Disease Control and Prevention (CDC) 
+and in collaboration with the National Institutes of Health, Office of Dietary Supplements (NIH-ODS).  Analyses for 
+value assignment were performed by NIST and the CDC. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction and concentration values of fatty acids are provided in 
+Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known 
+or suspected sources of bias have been investigated or taken into account [1]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction and concentration values are listed for additional fatty 
+acids in Table 2.  A NIST reference value is a noncertified value that is the best estimate of the true value based on 
+available data; however, the value does not meet the NIST criteria for certification and is provided with associated 
+uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, or may 
+reflect a lack of sufficient statistical agreement among multiple analytical methods [1]. 
+ 
+Expiration of Certification:  The certification of SRM 2378 is valid, within the measurement uncertainty specified, 
+until 30 September 2025, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate  (see  “Instructions  for  Storage  and  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  were 
+performed  by  K.E. Sharpless,  M.M.  Schantz,  B.A. Benner, Jr.,  L.C.  Sander,  and  S.A. Wise  of  the  NIST  Chemical 
+Sciences Division. 
+ 
+Acquisition and preparation of the SRM were coordinated by K.E. Sharpless, and M.M. Schantz. 
+ 
+Analytical measurements at NIST were performed by M.M. Schantz, B.A. Benner, Jr., and L.T. Sniegoski of the NIST 
+Chemical Sciences Division.  Analytical measurements at the CDC were provided by C.M. Pfeiffer, C.D. Powers, and 
+R.L. Schleicher. 
+ 
+Support for the development of SRM 2378 Fatty Acids in Human Serum was provided in part by NIH-ODS.  Technical 
+consultation was provided by J.M. Betz of NIH-ODS. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 February 2016 
+Certificate Revision History on Last Page 
+SRM 2378 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Page 1 of 6 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 2378  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.    HANDLE 
+PRODUCT AS A BIOHAZARDOUS MATERIAL CAPABLE OF TRANSMITTING INFECTIOUS DISEASE.  The 
+supplier has reported that each donor unit of  serum used in the preparation of this product was tested by Food and 
+Drug Administration licensed tests and found to be negative for human immunodeficiency virus (HIV), HIV-1 antigen, 
+hepatitis B  surface  antigen,  and  hepatitis C.    However,  no  known  test  method  can  offer  complete  assurance  that 
+hepatitis B virus, hepatitis C virus, HIV, or other infectious agents are absent from this material.  Accordingly, this 
+human  blood-based  product  should  be  handled  at  the  Biosafety  Level 2  or  higher  as  recommended  for  any 
+POTENTIALLY INFECTIOUS HUMAN SERUM OR BLOOD SPECIMEN in the CDC/NIH Manual [2]. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at –80 °C in the original unopened vials.  The certification does not apply to 
+contents of previously opened vials as the stabilities of the analytes have not been investigated. 
+ 
+Use:  SRM 2378 is provided as frozen serum that should thaw at room temperature in approximately 30 min under 
+subdued light prior to use.  After the material is thawed, it should be used immediately.  The contents of the vial should 
+be gently mixed prior to removal of a test portion for analysis.  Precautions should be taken to avoid exposure to strong 
+UV light and direct sunlight. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  Donor serum  for SRM 2378 was collected from three groups of individuals:  Serum 1, 
+three healthy donors who took 1000 mg/day of fish oil supplements for a minimum of one month prior to collection; 
+Serum 2, three healthy donors who took 1000 mg/day of flaxseed oil supplements for a minimum of one month prior 
+to collection; and Serum 3, three healthy donors who did not take either fish or flaxseed oil supplements for one month 
+prior to collection. 
+ 
+Homogeneity Assessment:  The homogeneity of the material was assessed at NIST using the NIST-1 sulfuric acid in 
+methanol derivatization method for the certified and reference values and test portion sizes described below; analysis 
+of variance did not show statistically significant heterogeneity.  The reported analytes have been treated as though 
+they are homogeneously distributed in the material; the homogeneity of the other analytes present in the material and 
+not reported by NIST and/or CDC was not assessed. 
+ 
+Value Assignment:  Means of data sets from individual methods were combined to provide assigned values.  The 
+NIST  measured  serum  densities  are  1.02259 g/mL  0.00006 g/mL,  1.02320 g/mL  0.00011 g/mL,  and 
+1.02212 g/mL  0.00001 g/mL, for SRM 2378 Sera 1, 2, and 3, respectively.  The uncertainties for the serum densities 
+were incorporated in values that are reported in Tables 1 and 2 relative to units of volume. 
+ 
+Analytical Approach for Determination of Fatty Acids 
+ 
+Determination of Fatty Acids (NIST-1):  For the homogeneity measurements performed at NIST, an internal standard 
+solution containing palmitic-d31 acid and heneicosanoic acid was used.  The samples (two aliquots, 0.5 g each, from 
+each of 10 vials for each of the three sera) were saponified in methanolic KOH and esterified using sulfuric acid in 
+methanol [3].  The samples were analyzed by gas chromatography (GC) with flame ionization detection (FID) using 
+a 0.25 mm × 100 m biscyanopropyl polysiloxane fused silica capillary column. 
+ 
+Determination of Fatty Acids (NIST-2 and CDC):  NIST-2 and the CDC methods determined total fatty acids using 
+isotope dilution GC/mass spectrometry (ID-GC-MS) based on Langerstedt’s method [4] using four aliquots of 0.1 g 
+serum  for  the  NIST-2  method  (actual  masses  determined)  and  three  0.10 mL  aliquots  for  the  CDC  method.   This 
+procedure hydrolyzes fatty acids from cholesteryl esters, triglycerides, and phospholipids using sequential addition of 
+acetonitrile:hydrochloric acid and methanol:sodium hydroxide in the presence of heat.  The hydrolysis procedure for 
+the NIST-2 measurements used microwave-assisted digestions of the sera samples for 45 min at 100 °C ( 5 °C) using 
+acetonitrile:hydrochloric  acid.    Total  fatty  acids  were  extracted  in  hexane,  concentrated,  derivatized  using 
+pentafluorobenzyl bromide (PFB), and reconstituted in hexane.  Fatty acids were quantified using four (NIST-2) and 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this certificate in order to adequately specify 
+the  experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 2378 
+
+Page 2 of 6 
+
+ten (CDC)  isotopically  labeled  internal  standards  after  separation  on  a  30 m × 0.25 mm × 0.25 µm,  5 %  (mole 
+fraction) phenylmethyl-substituted polysiloxane column (NIST-2) and 60 m x 0.25 mm x 0.25 µm, 50 % cyanopropyl 
++ 50 % phenylpolysiloxane column (CDC).  Fragmentation of fatty acid-PFB esters by negative chemical ionization 
+(electron capture ionization) resulted in a reproducible loss of the PFB moiety giving a stable carboxylate anion (M-
+1)–. 
+ 
+Interlaboratory Analytical Comparison Study of Total Fatty Acid Concentrations in Human Serum:  SRM 2378 was 
+distributed as study samples to 12 laboratories for an interlaboratory comparison in May 2012 [8].  The laboratories 
+were provided with four vials of each material and were requested to do triplicate measurements  for each material 
+(three sera of SRM 2378) using their laboratory's and/or program's analytical protocols for the fatty acids currently 
+determined  in  their  laboratory.    The  results  from  this  study  were  used  to  confirm  the  values  determined  during 
+certification measurements by the methods described above.  
+
+SRM 2378 
+
+Page 3 of 6 
+
+Certified Values for Fatty Acids:  Certified values for fatty acids are means of the method means from analyses at NIST using ID-GC-MS and/or GC-FID and from CDC using 
+ID-GC-MS.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand, the fatty acid concentration.  The expanded uncertainty 
+is calculated as U = kuc, where uc incorporates the observed difference between the results from the methods and their respective uncertainties, consistently with the ISO/JCGM 
+Guide and with its Supplement 1, and k is a coverage factor, where k = 2.0, corresponding to approximately 95 % confidence [5–7].  See the footnotes for the specific analytical 
+methods used in determining the certified values.  The measurands are the lipids listed in Table 1, and metrological traceability is to the SI derived units for mass fraction (expressed 
+as micrograms per gram) and amount-of-substance concentration (expressed as micromoles per liter). 
+ 
+
+ 
+
+ 
+
+C16:0 
+
+C18:2 n-6 
+
+C18:1 n-9 
+
+C16:1 n-7 
+
+(Oleic acid) 
+
+ 
+C18:0 
+
+(Palmitoleic acid) 
+
+Lipid Name  Chemical Name (Common Name) 
+Tetradecanoic acid(a) 
+C14:0 
+  (Myristic acid) 
+Hexadecanoic acid(a) 
+  (Palmitic acid) 
+(Z)-9-Hexadecenoic Acid(b) 
+ 
+ 
+Octadecanoic acid(a) 
+ 
+(Stearic acid) 
+(Z)-9-Octadecenoic Acid(a) 
+ 
+(Z,Z)-9,12-Octadecadienoic acid(b) 
+  (Linoleic acid) 
+ 
+(Z,Z,Z)-9,12,15-Octadecatrienoic acid(b) 
+ 
+(Z,Z,Z)-6,9,12-Octadecatrienoic acid(a) 
+  (gamma-Linolenic acid) 
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic acid(a) 
+  (Arachidonic acid) 
+ 
+(Z,Z,Z,Z,Z)-5,8,11,14,17- 
+Eicosapentaenoic acid(a) (EPA) 
+(Z,Z,Z,Z,Z)-7,10,13,16,19-
+Docosapentaenoic acid(a) (DPA) 
+(Z,Z,Z,Z,Z,Z)-4,7,10,13,16,19-
+Docosahexaenoic acid(a) (DHA) 
+
+(alpha-Linolenic acid) 
+
+ 
+C18:3 n-3  
+
+ 
+C20:5 n-3  
+
+C20:4 n-6  
+
+C18:3 n-6  
+
+C22:5 n-3  
+
+C22:6 n-3  
+
+Table 1.  Certified Values for Fatty Acids in SRM 2378 
+ 
+
+Serum 1 
+
+Mass Fraction 
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+ 
+  Mass Fraction 
+
+Serum 2 
+
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+ 
+  Mass Fraction 
+
+Serum 3 
+
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+  44.6   1.5 
+
+  200   
+
+7 
+
+  33.8   1.2 
+
+  151   
+
+5 
+
+  34.6  
+
+0.8 
+
+  155   
+
+4 
+
+  833    87 
+
+ 3320    350 
+
+ 715    111 
+
+ 2850    440 
+
+ 642    114 
+
+ 2560    460 
+
+  53.4   3.8 
+
+  214   
+
+15 
+
+  69.1   6.9 
+
+  278    28 
+
+  45.7  
+
+3.2 
+
+  184    13 
+
+ 
+  221    25 
+
+ 
+  795   
+
+90 
+
+ 
+ 231    14 
+
+ 
+  830    50 
+
+ 
+ 194    21 
+
+ 
+  696     75 
+
+  604    66 
+
+ 2190    240 
+
+ 738    52 
+
+ 2670    189 
+
+ 569    66 
+
+ 2060     240 
+
+ 1030   180 
+
+ 3740    640 
+
+1220    10 
+
+ 4460    45 
+
+ 913   
+
+6 
+
+ 3330     20 
+
+ 
+  32.5   4.1 
+
+ 
+  119   
+
+15 
+
+ 
+  31.5   1.3 
+
+ 
+  116   
+
+5 
+
+ 
+  17.0  
+
+0.1 
+
+ 
+  62.4  
+
+0.5 
+
+  12.3   1.6 
+
+  45.1  
+
+6.0 
+
+  21.0   0.4 
+
+  77.1  
+
+1.4 
+
+  14.6  
+
+1.0 
+
+  53.6  
+
+3.6 
+
+  196    20 
+
+  659   
+
+69 
+
+ 235    26 
+
+  790    86 
+
+ 228    14 
+
+  765    46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  84    11 
+
+  284   
+
+37 
+
+  20.7   0.8 
+
+  70.1   
+
+2.6 
+
+  18.9  
+
+2.2 
+
+  63.8  
+
+7.6 
+
+  22.4   1.2 
+
+  69.4  
+
+3.6 
+
+  17.0   0.8 
+
+  52.6   
+
+2.4 
+
+  11.4  
+
+0.6 
+
+  35.1  
+
+1.9 
+
+  104    5 
+
+  323   
+
+16 
+
+  55.4   2.3 
+
+  173   
+
+7 
+
+  54.9  
+
+2.4 
+
+  171   
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+(a) NIST-1, NIST-2, and CDC method (k = 2.0) 
+(b) NIST-1 and CDC method (k = 2.0) 
+
+ 
+
+SRM 2378 
+
+Page 4 of 6 
+
+Reference Values for Fatty Acids:  Reference values for fatty acids are provided below with method designations described in footnotes.  The values are calculated as the means 
+of the values provided by the methods used.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % 
+confidence.  The expanded uncertainty is calculated as U = kuc, where uc is the combined uncertainty, consistent with the ISO/JCGM Guide, and k is a coverage factor corresponding 
+to approximately 95 % confidence [5–7].  See the footnotes for the coverage factors used in the calculations.  The measurands are the lipids listed in Table 2 as determined by the 
+indicated methods, and metrological traceability is to the SI derived units for mass fraction (expressed as micrograms per gram) and amount-of-substance concentration (expressed 
+as micromoles per liter). 
+
+Table 2.  Reference Values for Fatty Acids in SRM 2378 
+
+Serum 1 
+
+Mass Fraction 
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+ 
+  Mass Fraction 
+
+Serum 2 
+
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+ 
+  Mass Fraction 
+
+Serum 3 
+
+(µg/g) 
+
+Molarity 
+(µmol/L) 
+
+Lipid Name  Chemical Name (Common Name) 
+C10:0  
+
+Decanoic acid (Capric acid)(a) 
+(Z)-Tetradec-9-enoic acid (Myristoleic acid)(b) 
+Pentadecanoic acid(a) 
+
+ 3.56   0.04 
+
+  21.1    0.2 
+
+ 0.3    0.1 
+
+  1.9    0.8 
+
+ 0.89    0.15 
+
+  5.3    0.9 
+
+ 3.4    1.5 
+
+  16 
+
+  7 
+
+ 2.8    1.5 
+
+  13 
+
+  7 
+
+ 3.2    1.7 
+
+  14 
+
+  8 
+
+ 5.14   0.16 
+
+  21.7    0.7 
+
+ 6.76   0.16    28.5    0.7 
+
+ 4.92    0.12 
+
+  20.7    0.5 
+
+Heptadecanoic acid (Margaric acid)(a) 
+(Z)-11-Octadecenoic acid (cis-Vaccenic acid)(b) 
+(Z,Z,Z,Z)-6,9,12,15-octadecatetraenoic acid 
+
+ 7.11   0.47 
+41.3    7.4 
+
+ 2.20   0.31 
+
+(Stearidonic acid)(a) 
+
+  26.9    1.8 
+
+ 8.84   0.21    33.4    0.8 
+
+ 7.02    0.37 
+
+  26.5    1.4 
+
+  27 
+
+ 149 
+  8.1    1.1 
+
+35.6    6.0  129 
+ 1.11   0.15    4.11   0.54 
+
+  22 
+
+32.0    3.3 
+
+ 116 
+
+  12 
+
+ 0.77    0.05 
+
+  2.83   0.17 
+
+Eicosanoic acid (Arachidic acid)(c) 
+(Z)-11-Eicosenoic acid (Gondoic acid)(b) 
+(Z,Z,Z)-5,8,11-Eicosatrienoic acid(a) 
+
+Docosanoic acid (Behenic acid)(b) 
+(Z)-13-Docosenoic acid (Erucic acid)(b) 
+(Z,Z)-13,16-Docosadienoic acid(a) 
+
+acid(a) 
+
+ 7.6    1.1 
+
+ 6.0    1.0 
+
+ 1.40   0.09 
+
+  25.0    3.6 
+  19.7    3.3 
+  4.67   0.29 
+
+ 8.7    1.5 
+
+  28.4    4.8 
+
+ 7.9    2.7 
+
+ 5.7    1.0 
+  18.9    3.4 
+ 2.13   0.07    7.10   0.23 
+
+ 5.88    0.43 
+
+ 2.26    0.03 
+
+18.8    4.3 
+
+  57 
+
+29 
+
+  9 
+
+  86 
+
+19.2    4.5 
+
+  58 
+
+ 1.7    1.0 
+
+ 0.31   0.02 
+
+  5 
+  0.93   0.06 
+
+ 1.7    0.9 
+ 0.36   0.03    1.09   0.09 
+
+  5 
+
+ 1.9    1.3 
+
+ 0.303   0.003 
+
+  27 
+  3 
+
+  13 
+  3 
+
+  26.0    9.0 
+  19.4    1.4 
+  7.54   0.10 
+
+  14 
+  4 
+
+  6 
+  0.92   0.01 
+
+C22:5 n-6 
+
+(Z,Z,Z,Z,Z)-4,7,10,13,16-Docosapentaenoic 
+
+ 2.71   0.21 
+
+  8.37   0.64 
+
+ 5.20   0.41    16.1    1.3 
+
+ 5.16    0.42 
+
+  16.0    1.3 
+
+C23:0  
+
+C24:0  
+
+Tricosanoic acid(a) 
+Tetracosanoic acid (Lignoceric acid)(c) 
+
+ 8.19   0.19 
+
+19 
+
+  5 
+
+  23.6    0.5 
+  54 
+
+  13 
+
+13.1    0.5 
+
+  37.9    1.5 
+
+ 7.75    0.07 
+
+25 
+
+  9 
+
+  70 
+
+  25 
+
+18 
+
+  6 
+
+  22.3    0.2 
+  49 
+
+  16 
+
+C24:1 n-9  
+
+C26:0  
+
+(Z)-15-Tetracosenoic acid (Nervonic acid)(c) 
+Hexacosanoic acid (Cerotic acid)(a) 
+(7R,11R)-3,7,11,15-Tetramethyl- 
+
+hexadecanoic acid (phytanic acid)(d) 
+
+32 
+
+  9 
+
+ 0.35   0.05 
+
+ 0.55   0.02 
+
+  26 
+
+  89 
+  0.89   0.12  
+  1.80   0.06 
+
+  83 
+
+  17 
+
+30 
+ 0.25   0.04    0.63   0.11 
+ 0.33   0.02    1.07   0.06 
+
+  49 
+
+22 
+
+  9 
+
+ 0.34    0.09 
+
+ 0.48    0.06 
+
+  25 
+
+  61 
+  0.86   0.2 
+  1.56   0.18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C14:1 n-5  
+
+C15:0  
+
+C17:0  
+
+C18:1 n-7  
+
+C18:4 n-3  
+
+C20:0  
+
+C20:1 n-9  
+
+C20:3 n-9  
+
+C22:0  
+
+C22:1 n-9  
+
+C22:2 n-6  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 5 of 6 
+
+(a) CDC method (k = 4.30) 
+(b) NIST-1 and CDC method (k = 2.0) 
+(c) NIST-1, NIST-2, and CDC method (k = 2.0) 
+(d) NIST-2 method (k = 3.18)
+
+SRM 2378 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.;  Fassett, J.; Greenberg, R.;  Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of  Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government  Printing  Office:  
+Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed Feb 2016). 
+
+[2]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories; 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W.; Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, DC  (2007);  available  at  http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf 
+(accessed Feb 2016). 
+
+[3]  Bondia, E.M.;  Castellote, A.I.;  Lopez, M.C.;  Rivero, M.;  Determination  of  Plasma  Fatty  Acid  Composition  in 
+
+Neonates by Gas Chromatography; J. Chromatogr. B, Vol. 658, pp. 369374 (1994). 
+
+[4]  Lagerstedt, S.A.;  Hinrichs, D.R.;  Batt, S.M.;  Magera, M.J.;  Rinaldo, P.;  McConnell, J.P.;  Quantitative 
+Determination of Plasma C8C26 Total Fatty Acids for the Biochemical Diagnosis of Nutritional and Metabolic 
+Disorders; Mol. Genet. Metab., Vol. 73, pp. 3845 (2001). 
+
+[5]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2016). 
+
+[6]  JCGM 101:2008; Evaluation of Measurement Data - Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement-Propagation  of  Distributions  using  a  Monte  Carlo  method;  JCGM  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2016). 
+
+[7]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, UK (1993). 
+[8]  Schantz, M.M.;  Powers, C.;  Schleicher, R.;  Interlaboratory  Analytical  Comparison  Study  of  Total  Fatty  Acid 
+Concentrations  in  Human  Serum:    Results  for  Exercise  01:  QA12FASER01;  NISTIR  7953;  NIST: 
+Gaithersburg, MD (2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  11 February 2016 (Editorial changes); 10 September 2015 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+telephone 
+
+fax 
+
+ 
+
+SRM 2378 
+
+Page 6 of 6 
+
+

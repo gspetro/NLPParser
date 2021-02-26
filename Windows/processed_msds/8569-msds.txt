@@ -1,0 +1,686 @@
+﻿Date of Issue:  
+14 August 2014 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+RM Number: 
+RM Name: 
+Other Means of Identification:  Not applicable. 
+
+8569 
+Nitrogen and Oxygen Isotopes in Nitrate (USGS35) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Reference Material (RM) is intended primarily for use in developing and validating methods for measuring 
+relative differences in nitrogen (N) and oxygen (O) isotope-amount-ratios in nitrate.  A unit of RM 8569 consists 
+of a glass bottle that contains approximately 0.9 g of NaNO3 salt. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+Label Elements 
+Symbol  
+
+Oxidizing Solids 
+Eye Damage/Irritation 
+
+Category 3 
+Category 2B 
+
+ 
+
+ 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s)  
+H272 
+H320 
+
+May intensify fire; oxidizer. 
+Causes eye irritation. 
+
+Precautionary Statement(s) 
+P210 
+P220 
+P221 
+P264 
+P280 
+
+Keep away from heat. 
+Keep away from combustible materials. 
+Take any precaution to avoid mixing with combustible or flammable materials. 
+Wash hands thoroughly after handling 
+Wear protective gloves, protective clothing, and eye protection. 
+
+P305+P351+P338 
+ 
+P337+P313 
+P370+378 
+
+If in eyes:  Rinse cautiously with water for several minutes.  Remove contact lenses if
+present and easy to do.  Continue rinsing. 
+If eye irritation persists: Get medical attention. 
+In case of fire: Use water for extinction. 
+
+P403+P233 
+P405 
+
+P501 
+
+Store in a well-ventilated place.  Keep container tightly closed. 
+Store locked up. 
+
+Dispose of contents and container according to local regulations. 
+
+RM 8569 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Sodium nitrate 
+
+Other Designations: 
+  Sodium nitre; nitric acid sodium salt; Chile saltpeter; NaNO3 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Report of 
+Investigation. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+ 
+
+7631-99-4 
+
+231-554-3 
+
+100 
+
+Sodium nitrate 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get medical attention if needed.  Thoroughly clean and dry contaminated clothing before reuse.  
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  If a large amount is swallowed, get medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed: Skin, eye, and respiratory irritation; cyanosis. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention.   
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard.   Oxidizer, contact with combustible  materials  may enhance 
+combustion;  risk  of  fire  or  explosion  on  contact  with  reducing  agents.    See  Section  9,  “Physical  and  Chemical 
+Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Water or other appropriate media. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)  
+
+ 
+
+Health = 1 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Immediately  contact  emergency 
+personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”.  
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel 
+of spills.  Absorb with sand or other non-combustible material.  Collect spilled material in appropriate container for 
+disposal.  Isolate hazard area and deny entry. 
+
+RM 8569 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe  Handling  Precautions:    Use  methods  to  minimize  dust.    See  Section  8,  “Exposure  Controls  and  Personal 
+Protection”. 
+
+Storage:    Store  and  handling  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances; see Section 10, “Stability and Reactivity” for incompatible substances. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+NIOSH (REL): 
+ACGIH (TLV): 
+OSHA (PEL): 
+ 
+ 
+
+No exposure limits established for sodium nitrate. 
+No exposure limits established for sodium nitrate. 
+15 mg/m3 (TWA, total dust); 5 mg/m3 (TWA, respirable fraction);  
+Particulates not otherwise regulated. 
+ 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA 29CFR  1910.134  must  be  followed.    Refer  to  NIOSH  42  CFR  84  for  applicable certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should 
+be readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the 
+task being performed and the risks involved and should be approved by a specialist before handling this 
+product.  Chemical-resistant gloves should be worn at all times when handling chemicals.  
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties: 
+
+Sodium Nitrate 
+
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate (ether = 1): 
+Melting point/freezing point (ºC): 
+Relative Density (water = 1): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+Partition coefficient  
+(n-octanol/water): 
+Particle Size: 
+
+clear to white deliquescent 
+crystalline powder 
+NaNO3 
+84.99 
+odorless 
+not available 
+7 (in solution) 
+not available 
+307 (584 ºF) 
+2.261  
+not applicable 
+not applicable 
+not applicable 
+water:  92.1 % at 25 ºC 
+soluble in alcohol, 
+ammonia, methanol  
+not available 
+
+>0.177 mm (>80 mesh) 
+
+RM 8569 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+
+Flammability (solid, gas): 
+
+ 
+
+not applicable 
+
+380 (716 ºF) 
+
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+
+not applicable 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  May ignite or explode on contact with reducing agents. 
+
+Conditions to Avoid:  Avoid contact with combustible materials. 
+
+Incompatible Materials:  Acids, combustible materials, cyanides, metal oxides, metal salts, metals, reducing agents. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of nitrogen, oxides of potassium. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    Eye,  skin,  and  respiratory 
+irritation, cyanosis. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Acute exposure may result in cough, sore throat, respiratory tract irritation, and shortness of breath.  
+No data listed for chronic exposure. 
+
+Skin Contact:  Contact may cause irritation.  Severity of the irritation depends on the duration of exposure.  No 
+data listed for chronic exposure. 
+
+Eye Contact:  Contact with powder may cause mechanical irritation. 
+
+Ingestion:    Ingestion  of  large  quantities  may  also  cause  gastrointestinal  irritation  accompanied  by  bloody 
+diarrhea, hematuria, catharsis, diuresis, albuminuria, and oliguria.  The effects of repeated exposure to nitrates 
+may  lead  to  weakness,  general  depression,  headache,  mental  impairment,  anemia,  nephritis,  and  possibly 
+methemoblobinemia. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+
+Rat, Oral LD50:  1267 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified. 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RM 8569 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ Yes 
+
+X  No 
+
+Sodium nitrate is not listed by NTP, IARC, or OSHA as a carcinogen/potential carcinogen. 
+Tumorigenic:  Rat, Oral: 913 gm/kg, (2 y) 
+Mutagenic:  Rat: 13 g/kg (6 w) 
+
+Reproductive Toxicity:  Not classified. 
+
+Mouse, Oral TDLo:  16 800 mg/kg (14 days) 
+
+Specific Target Organ Toxicity (STOT), Single Exposure:  Not classified. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Fish: Bluegill (Lepomis macrochirus) LC50: 2000 mg/L (96 h) (static) 
+
+Aspiration Hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:   
+
+Persistence and Degradability:  No data available.  
+
+Bioaccumulative Potential:  No data available.  
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:   Dispose of waste in accordance with all applicable federal, state, and local regulations.  Sodium 
+nitrate subject to disposal regulations:  U.S. EPA 40 CFR 262, Hazardous Waste Number:  D001. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  UN1498, Sodium nitrate, Hazard Class 5.1, Packing Group III. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.   
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+No. 
+Yes. 
+No. 
+No. 
+
+ 
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  
+
+WHMIS Information:  Not provided for this material. 
+
+ 
+
+ 
+
+RM 8569 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  14 August 2014 
+
+Sources:  ChemADVISOR, Inc., MSDS Sodium Nitrate, 19 June 2014. 
+
+Hazardous Substances Data Bank (HSDB), National Library of Medicine's TOXNET system 
+Sodium Nitrate, CAS No. 7631-99-4, available at http://toxnet.nlm.nih.gov (accessed Aug 2014). 
+
+International Labor Organization International, International Chemical Safety Card (ICSC) database, 
+Sodium Nitrate, available at: http://www.ilo.org/dyn/icsc/showcard.display?p_lang=en&p_card_id=0185 
+(accessed Aug 2014). 
+
+European Chemicals Agency, Registered substances, Sodium Nitrate, CAS No.7631-99-4, available at 
+http://echa.europa.eu/information-on-chemicals (accessed Aug 2014). 
+
+Key of Acronyms:   
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+RM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+RTECS 
+
+WHMIS 
+ 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Reference Material  
+Short Term Exposure Limit 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The reference values for this material are given in the NIST Report of Investigation. 
+
+Users of this RM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+RM 8569 
+
+ 
+
+Page 6 of 6 
+
+

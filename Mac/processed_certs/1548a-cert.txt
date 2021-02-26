@@ -1,0 +1,1128 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1548a 
+ 
+Typical Diet 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of proximate content and minor and trace constituent elements in mixed diets and food matrices.  The 
+base material used for SRM 1548a originated from food menus used for metabolic studies performed at the USDA 
+Beltsville Human Nutrition Research Center.  SRM 1548a is a blended freeze-dried homogenate of these menus.  This 
+SRM may also be used for quality assurance when assigning values to in-house control materials.  SRM 1548a Typical 
+Diet  is  the  renewal  for  SRM 1548  Total  Diet.    A  unit  of  SRM 1548a  consists  of  two  bottles,  each  containing 
+approximately 6.5 g of the freeze-dried homogenate of mixed diet foods. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values for the minor elements and several trace elements 
+are  provided  in  Tables 1  and 2,  respectively.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest 
+confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into 
+account [1].  Values were derived from the combination of results provided by NIST and collaborating laboratories 
+(Appendices A, B, and C).  Values are reported on a dry mass basis in mass fraction units [2]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for four trace elements (Table 3), proximates and 
+calories (Table 4), which were derived from results reported by collaborating laboratories.  The reference values are 
+noncertified values that do not meet NIST criteria for certification and are provided with associated uncertainties that 
+may reflect only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient 
+statistical agreement among multiple methods.  Explanations in support of each reference value are given as a note in 
+each table.  Values are reported on a dry-mass basis in mass fraction units. 
+ 
+Information Mass Fraction Values:  Information mass fraction values for additional trace elements are provided in 
+Table 5.  These are noncertified values with no uncertainties reported as there is insufficient information to make an 
+assessment  of  the  uncertainties.    The  information  values  are  given  to  provide  additional  characterization  of  the 
+material.  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1548a is valid, within the measurement uncertainty specified, 
+until  30 April 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Tf  substantive 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements leading to certification of this SRM were performed by R.R. Greenberg of 
+the NIST Chemical Sciences Division and G.V. lyengar of the International Atomic Energy Agency. 
+ 
+Coordination of the material preparation was under the direction of W.R. Wolf of the U.S. Department of Agriculture 
+(USDA), Beltsville, MD. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  D.A. Becker,  R. Demiralp,  K. Garrity,  R.R. Greenberg, 
+G.V. Iyengar,  R.M. Lindstrom,  S.E. Long,  E.A. Mackey,  B.R. Norman,  R.L. Paul,  M.S. Rearick,  L. Tandon, 
+G.C. Turk, and L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  18 November 2015 
+Certificate Revision History on Page 6 
+
+Robert. L Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos Gonzalez, Chief 
+Chemical Sciences Division 
+
+this  SRM  were  performed  by  R.R. 
+
+ion  and  G.V.
+
+ 
+
+Page 1 of 9 
+
+  
+
+SRM 1548a 
+
+RESEARCH 
+
+Analytical measurements for value assignment were performed by NIST and the following collaborating laboratories:  
+the  Centers  for  Disease  Control  and  Prevention/Nutrition  Biochemistry  Branch,  Atlanta,  GA;  Food  and  Drug 
+Administration/Atlanta Center for Nutrient Analysis, Atlanta, GA; Perkin-Elmer Corporation, Norwalk, CT; USDA 
+Beltsville  Human  Nutrition  Research  Center/Food  Composition  Laboratory  and  Vitamin  and  Mineral  Nutrition 
+Laboratory, Beltsville, MD; University of Ljubljana/Laboratory for Radiochemistry, Ljubljana, Slovenia; University 
+of  Massachusetts  at  Amherst/Department  of  Chemistry,  Amherst,  MA;  and  Virginia  Polytechnic  and  State 
+University/Department of Biochemistry and Anaerobic Microbiology, Blacksburg, VA.  In addition, the following 
+three  contract  laboratories  provided  confirmatory  analysis  for  proximate  contents:    Covance  Laboratories,  Inc. 
+(formerly  Corning  Hazleton)  Madison,  WI,  Lancaster  Laboratories,  Lancaster,  PA,  and  Medallion  Laboratories, 
+Minneapolis, MN.  
+ 
+Statistical analysis was provided by L.M. Gill of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1548a IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+STORAGE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 1548a should be stored under refrigeration at a temperature between 2 °C and 8 °C in its original 
+container and tightly capped.  It should NOT be exposed to intense direct light or ultraviolet radiation. 
+ 
+of  sample  to  air  should  be  minimized 
+Use:  Allow the bottle to come to ambient temperature before opening.  Exposure of sample to air should be minimized 
+and any unused portion stored as described under “Storage”.  Before each use, the contents of the bottle should be 
+well mixed by gently shaking and rolling the container.  The recommended minimum sample mass for analysis of this 
+SRM is 250 mg for most minor and trace elements.  Residual moisture content should be determined on a separate 
+sample for conversion of analytical results to a dry mass basis.  The recommended drying method is freeze-drying.  If 
+freeze-drying is not available, the sample should be vacuum dried at a temperature not to exceed 25 °C for 24 h.  The 
+observed moisture content ranges from 1 % to 15 % (mass fraction).  Due to high fat content of this material, excessive 
+drying times and elevated temperatures will lead to loss of volatile lipid components and an incorrect estimation of 
+dry mass. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Preparation:  This SRM was prepared from menus used for the metabolic studies at the Human Study Facility of the 
+USDA Beltsville Human Nutrition Research Center.  Food items in prescribed quantities representing a four-day menu 
+of  the
+cycle were pooled/combined into a master menu.  Enough foods were acquired to prepare a sufficient quantity of the 
+diet composite.  The material was freeze-dried, pulverized, sieved, and radiation sterilized at a dose of 2.5 mrad 
+to prevent bacterial growth.  The resulting product was blended, bottled, and sealed under nitrogen. 
+ 
+Homogeneity:  Due to the substantial fat content in this pooled material and the simplified processing steps adopted 
+during the preparation, the final product is not a free flowing powder.  Nevertheless, for major matrix components 
+(e.g.,  fat  and  protein),  the  blend  is  homogeneous.    The  degree  of  homogeneity  observed  for  elements  at  different 
+concentration  levels,  corresponds  to  what  is  practically  attainable  for  such  multicomponent  solid  mixtures  and, 
+therefore, the material is also considered to be sufficiently homogeneous for minor and trace elements. 
+
+frigeration  at  a  temperature  between  2 
+
+NOT 
+
+SRM 1548a 
+
+ 
+
+Page 2 of 9 
+
+NIST Analyses for Minor and Trace Elements 
+ 
+NIST analyses were performed by neutron activation analysis and mass spectrometry using appropriate combinations 
+as shown in Appendix C.  At least six independent determinations were made for each analyte.  With the exception of 
+phosphorus (two determinations each from three bottles) the remaining assays represent results obtained by analyzing 
+6 to 12 bottles for all other analytes.  The amount of sample used for each determination varied depending upon the 
+method of analysis.  In most cases, the sample masses ranged from 0.25 g to 1 g, with the exception of cadmium and 
+lead  by  isotope  dilution  mass  spectrometry  where  1 g  to  2 g  samples  were  used,  and  iodine  by  neutron  activation 
+analysis following pre-irradiation combustion separation where up to 2.5 g samples were used. 
+ 
+Collaborating Laboratories' Analyses for Proximate Constituents and Minor and Trace Elements 
+ 
+Proximate contents (ash, fat, nitrogen/protein, and solids) were determined by several laboratories (see Appendix A 
+and Appendix B).  At least six independent determinations were made for each analyte, with the exception of two 
+contract laboratories, which carried out two determinations each from three bottles.  The amount of sample used varied 
+from 1 g to 3 g depending upon the analyte.  AOAC Official Methods [3] were used for the determination of nitrogen, 
+fat, ash, and solids as listed in Appendix B. 
+ 
+For  the  determination  of  minor  and  trace  elements,  flame  atomic  absorption  spectrophotometry,  graphite  furnace 
+atomic  emission  spectrophotometry,  inductively  coupled  plasma  mass  spectrometry,  inductively  coupled  plasma 
+spectrometry,  and  neutron  activation  analysis  (radiochemical)  were  used  by  various  laboratories.    At  least  six 
+independent determinations  were  made for each analyte.   The amount of sample  used varied from 0.25 g to 0.5 g 
+depending upon the method used, with the exception of one laboratory that used 2.5 g to prepare the matrix stock 
+solution for assay by multiple modes of a given technique. 
+ 
+Value Assignment:  The participating laboratories reported a minimum of six determinations based on six separate 
+measurements (with two exceptions as mentioned under analyses carried out at NIST and collaborating laboratories).  
+All laboratories used specified controls to validate the methods and reported their results for such control material 
+analysis.  All assigned values are the equally weighted means of the measurements for a given analyte made by NIST 
+and by collaborating laboratories reporting results.  The associated uncertainties are expanded at the 95 % level of 
+confidence with a bias adjustment for differences between methods [1,4]. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for Minor Elements(a) 
+ 
+
+Values
+
+ 
+
+Element 
+
+Mass Fraction  
+  (mg/kg) 
+
+ 
+1967 
+12078 
+580 
+3486 
+6970 
+8132 
+1928 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+113 
+356 
+27 
+245 
+125 
+942 
+150 
+
+Calcium 
+Chlorine 
+Magnesium 
+Phosphorus 
+Potassium 
+Sodium 
+Sulfur 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) 
+(a)  Each  certified  mass  fraction  value  is  an  equally  weighted  mean  from  the  combination  of  results  provided  by  NIST  and 
+collaborating laboratories.  The uncertainty in the certified mass fraction values is expressed as an expanded uncertainty, U, 
+which  is  calculated  as,  U = kuc  +  B.    The  combined  standard  uncertainty,  uc,  is  calculated  according  to  the  ISO/JCGM 
+Guides [1],  which  accounts  for  the  combined  effect  of  the  within  variance  for  all participating  laboratories  at  one  standard 
+deviation.  The coverage, k, is determined from the Student's t-distribution corresponding to the appropriate associated degrees 
+of freedom and 95 % confidence for each analyte.  B is a bias adjustment for the difference between methods, which is the 
+maximum difference between the certified value and method means [4].  The measurand is the total mass fraction value for 
+each analyte listed.  Metrological traceability is to the SI derived unit for mass fraction (expressed as milligrams per kilogram). 
+
+SRM 1548a 
+
+ 
+
+Page 3 of 9 
+
+Table 2.  Certified Mass Fraction Values for Trace Elements(a) 
+
+Values 
+
+ 
+
+ 
+
+72.4 
+
+35.3 
+
+Element 
+
+Mass Fraction  
+(mg/kg) 
+
+0.20 
+0.035 
+0.0098 
+2.32 
+
+Aluminum 
+Arsenic(b) 
+Cadmium 
+Cesium 
+Copper 
+Iron 
+Iodine 
+Manganese 
+Nickel 
+Lead 
+Selenium 
+Tin 
+Zinc 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Each certified mass fraction value (with the exception of the one for arsenic) is an equally weighted mean from the combination 
+of results provided by NIST and collaborating laboratories.  The uncertainty in the certified mass fraction values is expressed as 
+an expanded uncertainty, U, which is calculated as U = kuc + B.  The combined standard uncertainty, uc, is calculated according 
+to the ISO/JCGM Guides [1], which accounts for the combined effect of the within variance for all participating laboratories at 
+one  standard  deviation.    The  coverage,  k,  is  determined  from  the  Student's  t-distribution  corresponding  to  the  appropriate 
+associated degrees of freedom and 95 % confidence for each analyte.  B is a bias adjustment for the difference between methods, 
+which is the maximum difference between the certified value and method means [4].  The measurand is the total mass fraction 
+value for each analyte listed.  Metrological traceability is to the SI derived unit for mass fraction (expressed as milligrams per 
+kilogram). 
+
+±  1.52 
+±  0.01 
+±  0.0015 
+±  0.0003 
+±  0.16 
+±  3.77 
+±  0.103 
+±  0.17 
+±  0.023 
+±  0.009 
+±  0.028 
+±  2.57 
+±  1.79 
+
+0.759 
+5.75 
+0.369 
+0.044 
+0.245 
+
+17.2 
+24.6 
+
+(b) The certified value for arsenic is based on NIST measurements and its uncertainty has been expanded by a coverage factor of  
+k = 4.  The measurand is the certified mass fraction value for arsenic.  Metrological traceability is to the SI derived unit for mass 
+fraction (expressed as milligrams per kilogram). 
+
+ 
+The mass fraction values in Table 3 are provided as reference values because the results were not confirmed by an 
+independent analytical technique or a definitive method as required for NIST certification. 
+ 
+ 
+
+a)
+Table 3.  Reference Mass Fraction Values for Trace Elements(a) 
+
+Values 
+
+a) 
+
+(mg/kg) 
+
+Mass Fraction(a)  
+
+Element 
+ 
+
+Boron(b) 
+Barium 
+Molybdenum 
+Strontium 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) 
+(a)  Each  reference  mass  fraction  value  is  an  equally  weighted  mean  from  the  combination  of  results  provided  by  NIST  and 
+collaborating laboratories.  The uncertainty in the reference mass fraction values is expressed as an expanded uncertainty, U, 
+which is calculated as U = kuc + B.  The combined standard uncertainty, uc is calculated according to the ISO/JCGM Guides [1], 
+which accounts for the combined effect of the within variance for all participating laboratories at one standard deviation.  The 
+coverage, k, is determined from the Student's t-distribution corresponding to the appropriate associated degrees of freedom and 
+95 % confidence for each analyte listed.  B is a bias adjustment for the difference between methods, which is the maximum 
+difference between the certified value and method means [4].  The measurand is the total mass fraction value for the elements 
+based on the methods used by NIST and the collaborating laboratories.  Metrological traceability is to the SI derived unit for 
+mass fraction (expressed as milligrams per kilogram). 
+
+4.16     ±   0.04 
+  ±   0.10  
+1.1  
+0.260    ±   0.017 
+2.93      ±   0.10 
+
+») 
+(b)  The measurand is the reference mass fraction value for boron based on NIST measurements only.  Metrological traceability is 
+
+to the SI derived unit for mass fraction (expressed as milligrams per kilogram). 
+
+SRM 1548a 
+
+ 
+
+Page 4 of 9 
+
+The mass fraction values in Table 4 are provided as reference values because the results have not been confirmed by 
+an independent analytical technique or by a definitive method as required for NIST certification.  These reference 
+values should be useful for comparison with results obtained using similar procedures (i.e., AOAC methods). 
+ 
+
+Table 4.  Reference Mass Fraction Values for Proximates and Calories 
+
+   
+
+Analyte 
+ 
+
+4.042  ±  0.164 
+
+58.36 
+19.41 
+3.03 
+18.08 
+4.31 
+
+a) 
+  Mass Fraction(a)
+(%) 
+ 
+
+Ash 
+Carbohydrate(b) 
+Fat (total) 
+Nitrogen 
+Protein(c) 
+Total Dietary Fiber 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) 
+(a) Each matrix component reference value, expressed as a mass fraction of the material (dry mass basis) is an equally weighted 
+mean from the combination of results provided by NIST (for nitrogen), collaborating laboratories and contract laboratories listed 
+in Appendices A and B, respectively.  The uncertainty in the reference value is expressed as an expanded uncertainty, U, which 
+is calculated as U = kuc + B.  The combined standard uncertainty, uc is calculated according to the ISO and NIST Guides [1], 
+which accounts for the combined effect of the within variance for all participating laboratories at one standard deviation.  The 
+coverage, k, is determined from the Student's t-distribution corresponding to the appropriate associated degrees of freedom and 
+95 % confidence for each analyte.  B is a bias adjustment for the difference between methods, which is the maximum difference 
+between the certified value and method means [4].  The measurand is the reference mass fraction values for each analyte listed 
+based on an independent analytical technique or by a definitive method.  Metrological traceability is to the SI derived unit for 
+mass fraction (expressed as a percent). 
+
+±  1.53 
+±  1.45 
+±  0.31 
+±  0.42 
+±  0.21 
+
+±  8.11 kcal/100 g 
+
+Calories(d) 
+
+481.0 
+
+») 
+(b) Calculated by difference. 
+(c) Calculated:  a factor of 6.25 was used to convert nitrogen to protein. 
+)
+(d) The  measurand  is  the  reference  mass  fraction  value  for  calories  is  based  on  the  mean  of  individual  calculations  from  the 
+laboratories reporting results.  Metrological traceability is to the SI derived unit for calories (expressed as kilocalories be gram).  
+If the mean proximate content values are used for calculation, with caloric equivalents of 9, 4, and 4 for fat, carbohydrate, and 
+protein, respectively, the mean caloric content is 480.5 kcal/100 g. 
+
+ 
+For Methods see Appendix B. 
+ 
+The mass fraction values in Table 5 are provided as information values due to a larger than expected variability of 
+results among laboratories and/or are derived from analyses performed by a single method. 
+ 
+ 
+
+Table 5.  Information Mass Fraction Values for Trace Elements 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Analyte 
+ 
+
+Antimony 
+Bromine 
+Cobalt 
+Mercury 
+Silicon 
+Scandium 
+Titanium 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.009 
+9.64 
+0.028 
+0.005 
+
+78.7 
+
+0.0008 
+4.7 
+
+SRM 1548a 
+
+ 
+
+Page 5 of 9 
+
+REFERENCES 
+
+ 
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Nov 2015);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Nov 2015). 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government 
+Printing  Office:  Washington, DC 
+http://www.nist.gov/customcf/get_pdf.cfm?pub_id=200349 (accessed Nov 2015). 
+
+available 
+
+(2008); 
+
+[3]  AOAC International Official Methods of Analysis, 16th ed., AOAC International: Gaithersburg, MD (1995). 
+[4]  Schiller,  S.B.;  Eberhardt,  K.E.;  Combining  Data  from  Independent  Analysis  Methods;  Spectrochimica  Acta, 
+
+Vol. 46B, No. 12, pp. 1607−1613 (1991). 
+
+[5]  Official Methods of Analysis, 15th ed., AOAC International:  Gaithersburg, MD (1990). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  18 November 2015 (Change of expiration date; editorial changes); 15 April 2009 (This revision reports an extension 
+of the expiration date and editorial changes); 22 March 2007 (Correction to Barium value); 26 October 2004 (Update of expiration date); 02 April 
+2003 (Update of expiration date); 07 June 2001 (Editorial changes); 01 June 2000 (Update of expiration date); 02 February 1998 (Original certificate 
+date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+http://www.nist
+
+fax 
+
+ 
+
+SRM 1548a 
+
+ 
+
+Page 6 of 9 
+
+APPENDIX A 
+ 
+Measurements by Collaborating Laboratories 
+
+Method(s) 
+
+Graphite Furnace Atomic Absorption 
+Spectrophotometry, 
+Inductively Coupled Plasma Mass 
+Spectrometry 
+
+Analytes 
+
+Cd, Ni, Pb 
+
+Al, Cd, Ni, Pb 
+
+AOAC Official Methods 
+(See Appendix B) 
+ 
+Kjeldahl  
+
+ 
+
+ 
+
+Proximate content 
+
+N 
+
+Inductively Coupled Plasma Atomic 
+ 
+Emission Spectrophotometry 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Al, B, Ba, Ca, 
+K, Mn, Na, Ni, 
+P, S, Sn, Zn 
+
+ 
+
+AOAC Official Methods(a)  
+Flame Atomic Absorption   
+ 
+Spectrophotometry 
+
+Total Dietary Fiber  
+Ca, Cu, Fe, K, 
+Mg, Mn, Na, Zn 
+
+Flame Atomic Absorption  
+Spectrophotometry 
+
+Cu, Fe, Zn 
+
+Radiochemical Neutron 
+Activation Analysis 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+I 
+
+Inductively Coupled Plasma 
+Mass Spectrometry 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Inductively Coupled Plasma 
+Atomic Emission  
+Spectrophotometry 
+
+ 
+ 
+
+AOAC Official Methods 
+(See Appendix B) 
+
+ 
+
+Al, As, Ba, Cs, 
+Cu, Mn, Mo, 
+Se, Sn, Sr, Zn 
+
+Al, Ba, Ca, Fe, K, 
+Mg, Mn, Na, P, 
+S, Si, Sr, Ti, Zn 
+
+Proximate content 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Laboratory/Analyst(s) 
+ 
+Centers for Disease Control 
+and Prevention, Division of 
+Environmental Laboratory 
+Health Science; Atlanta, GA  
+D.C. Paschal 
+ 
+Food and Drug Administration 
+Atlanta Center for Nutrient 
+Analysis; Atlanta, GA 
+ 
+K. Dodson 
+ 
+Perkin-Elmer Corporation;  
+ 
+Norwalk, CT 
+K. Barnes 
+ 
+ 
+ 
+USDA Beltsville Human 
+Nutrition Research Center;  
+Beltsville, MD 
+ 
+Food Composition Laboratory 
+N. Miller-Ihli 
+B. Li 
+ 
+Vitamin and Mineral Laboratory 
+C. Veillon 
+C. Patterson 
+ 
+University of Ljubljana 
+Radiochemistry Laboratory,  
+Ljubljana, Slovenia 
+A.R. Byrne 
+ 
+University of Massachusetts 
+Department of Chemistry;  
+Amherst, MA 
+ 
+R. Barnes 
+A. Krushevska 
+ 
+ 
+ 
+Virginia Polytechnic and 
+State University, Department 
+of Biochemistry; Blacksburg, VA 
+K.M. Phillips 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+a)
+(a) AOAC Method 991.43 [5] 
+
+SRM 1548a 
+
+ 
+
+Page 7 of 9 
+
+APPENDIX B 
+ 
+Measurements by Contract Laboratories using AOAC Official Methods of Analysis 
+ 
+
+ 
+
+ 
+
+Laboratory/Analyst(s) 
+ 
+Covance Laboratories Inc.  
+ 
+(formerly Corning Hazelton Inc.,);   
+ 
+ 
+Madison, WI 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Lancaster Laboratories; 
+Lancaster, PA 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Method(s) 
+
+ 
+
+Kjeldahl  
+ 
+Extraction 
+ 
+ 
+Muffle Furnace 
+Vacuum Drying   
+ 
+ 
+ 
+
+ 
+Kjeldahl  
+ 
+Extraction 
+Muffle Furnace 
+ 
+Vacuum Drying   
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+(a) AOAC Methods 2.4.03 and 32.2.03 [2] 
+(b) AOAC Methods 922.06, 954.02 [5] 
+(c) AOAC Methods 32.1.05 [2] 
+(d) Solids (Following moisture determination by vacuum drying for 24 h at 25 °C) 
+(e) TDF AOAC Method 985.29 [5] 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Analytes 
+
+Nitrogen/Protein (a) 
+Total Fat(b) 
+Ash (c) 
+Solids (d) 
+2)
+Total Dietary Fiber(e) 
+
+a) 
+Nitrogen/Protein(a) 
+Total fat(b) 
+Ash(c) 
+Solids(d) 
+
+SRM 1548a 
+
+ 
+
+Page 8 of 9 
+
+APPENDIX C 
+ 
+NIST Measurements, Analytical Chemistry Division 
+
+ 
+
+Method(s) 
+ 
+Isotope Dilution Mass Spectrometry 
+using Inductively Coupled Plasma-MS 
+Inductively Coupled Plasma-MS 
+Instrumental Neutron Activation 
+ 
+ 
+Prompt Gamma-Ray Activation 
+Pre-concentration Neutron Activation Analysis 
+Radiochemical Neutron Activation   
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Analytes 
+
+Cd, Mg, Pb, Ni 
+
+Mo 
+Al, Ca, Cl, Co, Cr, 
+Cs, Fe, K, Mg, Na, 
+Sc, Se, Sn, Zn 
+B, Cl, K, N, Na, S 
+I 
+As, Cd, Cu, Hg, 
+Sb, Se, Sn, P 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+SRM 1548a 
+
+Page 9 of 9 
+
+

@@ -1,0 +1,761 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 1577c 
+
+ 
+
+ 
+
+Bovine Liver 
+
+ined results from two or more 
+
+  However, the values do not meet the NIST 
+
+additional  elements are provided in Table  4.  An 
+
+ 
+Standard Reference  Material (SRM) 1577c consists of   liver  tissue derived from healthy steers .  The material was 
+collected  and prepared under strict protocols designed to preserve the original compositi
+on,  and to minimize 
+contamination.  SRM 1577c is primarily intended for use in evaluating the accuracy of analytical methods for selected 
+elements and 25-hydroxyvitamin D3 in animal tissues and other biological materials.  A unit of the SRM consists of 
+one bottle containing 20 g of freeze-dried liver powder. 
+ 
+Certified Mass Fraction  Values:  Certified mass fraction  values for elements are provided in  Table 1.  A certified 
+mass fraction value for 25-hydroxyvitamin D3 is provided in Table 2.  The certified values for elements are based on 
+results from either a primary analytical technique carried out at NIST, or the comb
+chemically independent analytical techniques obtained at NIST and collaborating expert laboratories [1].  The certified 
+value for 25-hydroxyvitamin D3 is based on the combined results from NIST and collaborating expert laboratories.  A 
+NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or taken into account [1]. 
+ 
+Reference Values:  Reference mass fraction values for additional elements are provided in Table 3.  Reference values 
+are non-certified values that are the best estimates of the true values. 
+criteria for certification and are provided with associated uncertainties that m ay reflect only measurement precision, 
+tatistical agreement among m ultiple 
+may not include all sources of uncertainty, or may reflect a lack of sufficient s
+analytical methods [1]. 
+ 
+Information Values:    Information  mass fraction values for 
+information value is considered to be a value that will be of interest and use to the SRM user, but for which insufficient 
+information is available to assess adequately the uncertainty assoc iated with the value, or is a value derived from a 
+limited number of analyses [1].  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1577c is valid, within the measurement uncertainty specified, 
+until  01 October 2028,  provided the SRM is handled and stored 
+certificate (see “Instructions for  Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If subst antive 
+technical changes occur that affect the certification before the e
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the investigations and technical measurements leading to the c ertification of elements was under the 
+leadership of R . Zeisler, formerly of NIST.   Coordination of the technica l measurements leading to the certification 
+of 25-hydroxyvitamin D3 was performed by M.M. Phillips of the NIST Chemical Sciences Division  and J. Roseland 
+and K. Patterson of the US Department of Agriculture (USDA, Beltsville, MD). 
+ 
+Consultation on the statistical design of the experimental work and evaluation of the data was provided by S.D. Leigh, 
+formerly of NIST, and J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved in the preparation of this SRM were coordinated through the N IST  Office of Reference 
+f  Reference 
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  09 October 2018 
+09 
+me
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+in accordance with the instructions given in this 
+
+xpiration of this certificate, NIST will notify the 
+
+ 
+
+Page 1 of 6 
+
+  
+
+SRM 1577c  
+
+Tc 
+
+RESEARCH 
+
+ Riley of the Rosenthal Meat Science and 
+
+Collection and preparation of  SRM 1577c were performed by M.P . Cronise and C.N . Fales of the NIST  Office of 
+Reference Materials   and E.A. Mackey, R.O. Spatz, and R . Zeisler of the NIST Chemi cal Sciences   Division.  The 
+bovine liver material was collected at Texas A&M University (College Station, TX) with the assistance of W.D. James 
+of the Center for Chemical Characterization and Analysis and R.R.
+Technology Center. 
+ 
+Technical measurements were performed by 
+C.Q. Burdette,  S.J. Christopher, R.R . Greenberg, S.E . Long, 
+E.A. Mackey, K.E. Murphy, B.J. Porter, S.A. Rabb, R.O. Spatz, B.E. Tomlin, L.J. Wood, L.L. Yu, and R.  Zeisler of 
+the NIST  Chemical Sciences  Division.   The f ollowing collaborating laboratories and analysts   contributed to value 
+assignment for elements:  C. Xiao, B. Ni, and W. Tian of China Institute of Atomic  Energy (Beijing, China); J. Che 
+and L.-W. Hu of Massachusetts Institute of Technology, Nuclear Reactor Laboratory (Cambridge, MA); J. Kučera of 
+Nuclear Physics Institute  ASCR (Řež, Czech Republic); W.D. James of Department of Chemistry and R.J. Taylor of 
+the College of Veterinary Medicine at Texas A&M University (College Station, TX); C.S. Nomura and P.V. Oliveira 
+Chemistry (São Paulo , Brazil); and  J. Harnly  and  E. Greene  of  USDA 
+of  University of São Paulo, Institute of 
+Beltsville Agricultural Research Center, Human Nutrition Research 
+Center (Beltsville, MD).   The following 
+collaborating laboratories participated in a USDA interlaboratory comparsion and contributed to value assignment for 
+25-hydroxyvitamin D3 [2]:   Covance Laboratories, Inc . (Madison, WI); Health Canada  (Longueuil, QC, Canada); 
+Heartland Laboratories (Ames, IA); Technical University of Denmark (Kongens Lyngby, Denmark). 
+ 
+Support for assignment of the value for 25-hydroxyvitamin D3 was provided by National Institutes of Health, Office 
+of Dietary Supplements (NIH-ODS).  Technical consultation was provided by J.M. Betz (NIH-ODS). 
+ 
+NOTICE TO USERS:  SRM 1577c IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:   This material was derived from healthy steers.  These  animals were inspected by a Veterinary Medical 
+Officer and did not show signs of infectious, contagious, and/or communicable dis
+ease.  Normal caution and care 
+should be exercised during handling and use of the material.  Users should be aware of sources of contamination.  To 
+avoid contamination a Class 100 clean-air environment is recommended. 
+ 
+Storage:  The material should be stored in its original container at room temperature  (10 °C to 30 °C).  SRM 1577c 
+should not be exposed to intense sources of radiation, including ultraviolet light from lamps or sunlight. 
+ 
+Use:  Prior to removal of test portions for analysis, the contents of the bottle should be mixed.  For elemental analysis, 
+For  determination  of 
+the recommended  minimum sample  size is 100  mg; see “Homogeneity Assessment” below.   For determination of 
+25-hydroxyvitamin D3, the recommended minimum sample size is 2 g.  The mass fractions of elements in SRM 1577c 
+are reported on a dry-mass basis.  Desiccator drying over CaSO4 (e.g., Drierite) to stable mass (approximately 10 days) 
+is recommended prior to elemental analysis. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample Collection and Preparation:   The liver tissue was collected and processed under observation of principles 
+for “true and representative” sampling as documented in the protocols for human and mari ne mammal tissues of the 
+National Biomonitoring Specimen  Bank [3].  The liver tissue was harvested from  31 steers that were slaughtered at 
+Texas A&M University College of Veterinary Medicine.  The supplier of this material has reported that this material 
+ls.   The animals were 
+was produced under sanitary conditions and was derived from clinically healthy anima
+ meat from these animals was 
+slaughtered for the purpose of teaching bovine anatomy and how to butcher.  The
+prepared for retail under the supervision of a State of Texas meat inspector to ascertain the health of the animals.  The 
+livers were excised whole, placed on a clean Teflon sheet,
+ and inspected.  Each liver was rinsed with HPLC -grade 
+water to remove excess blood, bile, and any other extraneous material.   The outer membrane and major blood vessels 
+ons of approximately  10 cm3; 120 kg of 
+were removed with titanium blade knives, and the tissue was cut into porti
+fresh tissue was obtained from this process, frozen in clean Tefl on bags, and  then shipped to NIST.  The tissue was 
+thawed and homogenized at NIST with a food processor equipped with titanium blades.  
+The resulting paste was 
+poured into glass trays, frozen, and lyophilized.   The dry material was blended again in the food processor  before 
+being jet-milled.  The resulting fine powder was radiation sterilized and bottled.  
+ 
+
+10 
+
+ 
+
+(1)Certain commercial equipment, instruments or materials
+
+identified  in  this  certificate  to  adequately  specify  the
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1577c  
+Page 2 of 6 
+
+ are  identified in this certificate to adequately specify the 
+
+ 
+
+_  Spectrometry 
+
+analysis (RNAA), prompt gamma activation 
+
+Homogeneity Assessment:  The homogeneity of elements in SRM 1577c was assessed by analyzing test portions of 
+approximately  100 mg with high -precision instrumental neutron activation  analysis (INAA).   Twelve bottles were  
+randomly selected from the lot and  two 100 mg test portions were ta ken for INAA from different locations in each 
+bottle.  The results for all elements reported by INAA (see  Tables 1 and 3) did not reveal any significant components 
+of uncertainty due to heterogeneity ;  therefore the recommended minimum sample size   for elemental analysis   is 
+100 mg.  The values and uncertainties reported in this Certificate for elements are valid for a 100 mg minimum sample 
+size.  Analysis of smaller amounts may be subject to additional uncertainty due to heterogeneity. 
+ 
+ithe
+Analyses with solid-sampling graphite furnace atomic absorption spectrometry (SS-GFASS) using test portions in the 
+range of  20 µg to  70 µg showed homogeneity for distribution of Cd, Cu, Pb, and Zn within the uncertaint
+y of  the 
+method.  For 1 mg test portions, an uncertainty component from heterogeneity of  1 % to 2 % relative uncertainty was 
+estimated from the experimental data for these elements. 
+ 
+The homogeneity of  25-hydroxyvitamin D3 in SRM 1577c was assessed by analyzin g test portions of  2 g to 3 g with 
+isotope dilution (ID) with liquid chromatography (LC) and tandem mass spectrometry (MS/MS) detection.  Analysis 
+of variance at a 5  % significance level indicated homogeneity  for distribution of   25-hydroxyvitamin D3  within the 
+uncertainty of the method. 
+ 
+Analytical Approach for Determination of Elements :   All elements for which certified and reference values are 
+provided were determined by using at least one of the following methods carried out at NIST:  INAA, radiochemical 
+neutron activation 
+pre-separation neutron activation analysis  (PNAA), inductively coupled plasma mass  spectrometry (ICP-MS), and 
+ICP optical emission  spectrometry (ICP-OES).  NIST values for Cd, Pb, and Se were obtained by using isotope 
+dilution (ID) ICP-MS, and for Hg by isotope dilution cold 
+complemented by results provided by collaborating scientists from r esearch laboratories using   ICP-MS, ICP -OES, 
+INAA, RNAA, and SS-GFAAS. 
+ 
+Analytical Approach for Determination of 25 -Hydroxyvitamin D3:  The mass fraction of  25-hydroxyvitamin D3 
+was  measured in duplicate  2.0 g to 3.0  g test port
+ten bottles  of SRM  1577c, and 
+25-hydroxyvitamin D3-13C5 was added as an internal standard.  Prior to extraction, the samples of SRM  1577c were 
+incubated with lipase at 40 °C for 2 h to hydrolyze the fats.  Ethanol containing butylated hydroxytoluene (BHT) and 
+potassium carbonate was added to each sample, and the analytes and internal sta ndards were extracted into hexane 
+containing BHT by ov ernight stirring.  The samples were centrifuged, the supernatants were deca
+nted, and an 
+additional aliquot of hexane containing BHT was added.  Samples were extra
+sonication and rotary mixing, then centrifuged, and the supernatants combined with those from the previous extraction.  
+An additional cycle of sonication and rotary mixing was conducted, for a total of three extractions.  The pooled organic 
+layers were dried under nitrogen to approximately 40 mL and magnesium sulfate was added.  Following vortex mixing 
+and centrifugation, the organic layer was decanted and evaporated to dryness unde
+derivatized with 4 -phenyl-1,2,4-triazoline-3,5-dione (PTAD) and reconstituted in a mixture of methanol and   ethyl 
+acetate for analysis by positive-ion mode LC-MS/MS.  A gradient method with a water/methanol mobile phase and a 
+-Hydroxyvitamin D3+PTAD and 
+pentafluorophenyl column were used for LC
+25-hydroxyvitamin D3-13C5+PTAD were measure d at transitions  m/z 558 → m/z 298 and  m/z 563 → m/z 298, 
+respectively.  Calibrants were prepared gravimetrically, at levels intended to approximate the level of the vitamin  in 
+-hydroxyvitamin D3 calibrant material was determined at 
+the SRM following extraction.  The purity of the neat 25
+NIST using LC -absorbance, Karl Fischer titration, thermogravimetric analysis, a
+nd quantitative proton nuclear 
+magnetic resonance spectroscopy.  A single internal standard solution was used for the calibrants and samples. 
+ 
+ 
+
+vapor (ID/CV) ICP-MS.  The measurements were 
+
+analysis (PGAA), pre -concentration and 
+
+cted further by a combination of 
+
+r nitrogen.  The analytes were 
+
+-MS/MS determination.  25
+
+ions taken from each of 
+
+ 
+
+SRM 1577c  
+
+ 
+
+Page 3 of 6 
+
+Certified Values   for Elements :   Certified values  were  derived from the NIST analytical results and the results 
+provided by collaborating laboratories. 
+  The uncertainty listed with each value is an expanded uncertainty, with 
+coverage factor 2 (approximately 95 % confidence).  The reporting follows the JCGM Guide [4-6].  The measurands 
+are the total mass fraction of the elements listed in Table  1.  The certified values are metrological ly traceable to the SI -
+derived unit for mass fraction (expressed as percent, micrograms per kilogram, or milligrams per kilogram). 
+ 
+For each element, there is a NIST result with an uncertainty that is complete in terms of coverage of recognized sources 
+of uncertainties.  Except for the elements measured by a single NIST primary method, these results are combined with 
+results with similarly complete uncertainties from collaborating laborat
+without complete uncertainties.  The uncertainties of these results were augmented  for probable bias on the basis of 
+the differences among the results obtained by different methods [4]. 
+ 
+
+ories, and in certain cases several results 
+
+Table 1.  Certified Mass Fraction Values for Elements (Dry-Mass Basis) in SRM 1577c 
+
+‘s  for  Elements 
+
+ 
+
+Element 
+
+Potassium (K)(A,a,d,F) 
+Sodium (Na)(A,a,d) 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+1.023  ± 
+0.2033  ± 
+
+0.064 
+0.0064 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+ 
+ 
+
+Calcium (Ca)(A,a,D,d) 
+Cobalt (Co)(A,a,b) 
+Copper (Cu)(A,a,C,D,d) 
+Iron (Fe)(A,a,D) 
+Magnesium (Mg)(A,a,D,d) 
+Manganese (Mn)(A,a,b,D,d) 
+Molybdenum (Mo)(A,a,b,C,D,d) 
+Selenium (Se)(A,E) 
+Zinc (Zn)(A,a,D,E,h) 
+
+±  10 
+
+  131 
+0.300  ± 
+ 
+± 
+  275.2 
+± 
+  197.94 
+±  42 
+  620 
+± 
+  10.46 
+3.30 
+ 
+± 
+2.031  ± 
+ 
+± 
+  181.1 
+
+0.018 
+4.6 
+0.65 
+
+0.47 
+0.13 
+0.045 
+1.0 
+
+Element 
+
+Sulfur (S)(a,D,d,F) 
+ 
+ 
+
+ 
+
+Arsenic (As)(C) 
+Cadmium (Cd)(C,E) 
+Chromium (Cr)(A) 
+Lead (Pb)(E) 
+Nickel (Ni)(B,b,c) 
+Silver (Ag)(A,B,b,C) 
+Strontium (Sr)(B,b,d) 
+Vanadium (V)(c,d,G) 
+ 
+
+Mass Fraction 
+(%) 
+
+0.749  ± 
+
+0.034 
+
+Mass Fraction 
+(µg/kg) 
+
+19.6 
+± 
+97.0(g)  ± 
+± 
+53 
+± 
+62.8 
+± 
+44.5 
+± 
+5.9 
+95.3 
+± 
+8.17  ± 
+
+1.4 
+1.4 
+
+14 
+
+1.0 
+9.2 
+1.6 
+4.2 
+0.66 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ID ICP-MS 
+
+NOTE:  Analytical techniques used for assignment of certified values; capital letters indicate that the method was used by NIST. 
+(A,a)  INAA 
+(B,b)  ICP-MS 
+(C,c)  RNAA 
+(D,d)  ICP-OES 
+(E) 
+(F)  PGAA 
+(G)  Pre-concentration pre-separation PNAA 
+(h)  SS-GFAAS 
+(g)  Alternate statistical method [7]. 
+ 
+ 
+Certified Value for 25-Hydroxyvitamin D3:  The certified value was derived from the NIST analytical results and 
+the results provided by collaborating laboratories.  The uncertainty provided with the value is an expanded uncertainty 
+about the mean to cover the measurand with approximately 95 % confidence.  The expanded uncertainty is calculated 
+as  U = kuc, where the combined uncertainty  uc  incorporates the observed difference between the results from the 
+methods and their respective uncertainties,  consistent with the  JCGM Guide and with its  Supplement 1, and  k is a 
+coverage factor corresponding to approximately 95 % confidence [6,8,9].  The measurand is the total mass fraction of 
+25-hydroxyvitamin D3 listed in Table 2.  The certified value is metrologically traceable to the SI -derived unit for mass 
+fraction (expressed as nanograms per gram). 
+ 
+
+Table 2.  Certified Mass Fraction Value for 25-Hydroxyvitamin D3 in SRM 1577c 
+
+25-H 
+
+ 
+
+ 
+
+Element 
+
+Mass Fraction 
+g)
+(ng/g) 
+
+25-Hydroxyvitamin D3 
+
+  13.7 
+
+± 
+
+3.1 
+
+SRM 1577c  
+
+ 
+
+Page 4 of 6 
+
+Reference Values:  Reference values are based on results from one method carri ed out at NIST or at NIST and in 
+several collaborating laboratories.  The methods of combining the results
+  of  different methods from different 
+laboratories were applied as above.  These results do  not fulfill the criteria for certification because they lack a  full 
+estimate of method bias.  The reporting follows the  JCGM Guide [6].  The measurands are the total mass fraction s of 
+the elements listed in Table 3 as determined by the methods indicated.  The reference values are metrologically traceable 
+to the SI-derived unit for mass fraction (expressed as percent, micrograms per kilogram, or milligrams per kilogram ), as 
+realized by the method(s) used. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Elements (Dry-Mass Basis) in SRM 1577c 
+Values  for  Elements 
+
+s)  in  SRM
+
+Element 
+
+Chlorine (Cl)(A,a) 
+Hydrogen (H)(D) 
+Nitrogen (N)(D) 
+Phosphorus (P)(C,c) 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+0.287  ±  0.013 
+ 
+ 
+7.35  ±  0.24 
+  10.30  ±  0.34 
+ 
+1.175  ±  0.027 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Rubidium (Rb)(A,a) 
+
+  35.3 
+
+±  1.1 
+
+ 
+
+Element 
+
+Antimony (Sb)(a,B) 
+Cesium (Cs)(A,a) 
+Mercury (Hg)(E) 
+ 
+ 
+ 
+
+Mass Fraction 
+(µg/kg) 
+
+3.13  ±  0.31 
+±  1.4 
+5.36  ±  0.17 
+
+ 
+  21.7 
+ 
+ 
+ 
+ 
+
+ 
+
+ID/CV ICP-MS 
+
+NOTE:  Analytical techniques used for assignment of reference values; capital letters indicate that the method was used by NIST. 
+(A,a)  INAA 
+(B)  RNAA 
+(C,c)  ICP-OES 
+(D)  PGAA 
+(E) 
+ 
+ 
+Information Values:   Information values are given to assist users in the assays of two non -certified elements that 
+may be of interest in method development and other investigations.  Thes e information values are based on results 
+that did not allow complete assessment of all  sources of uncertainty.   The measurands are the total mass fractions of 
+the elements listed in Table 4 as determined by the method indicated. 
+ 
+
+Table 4.  Information Mass Fraction Values for Elements (Dry-Mass Basis) in SRM 1577c 
+
+‘s  for  Elements 
+
+ 
+
+ 
+
+Element 
+
+Mass Fraction 
+
+Lithium (Li)(a) 
+Silicon (Si)(a) 
+
+12  µg/kg 
+6  mg/kg 
+
+(a) ICP-OES by a laboratory collaborating with NIST  
+ 
+ 
+SUPPLEMENTAL INFORMATION 
+
+ 
+)
+%
+(
+
+ 
+e
+m
+u
+l
+o
+V
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+10 
+Size  (um) 
+
+100 
+
+ 
+ 
+ 
+Particle size: 
+Figure 1.  Particle size distributions in 
+aqueous suspension via laser light scattering instrumentation 
+(Malvern  Mastersizer 2000).    Calculated 10, 50, and  90 percentile 
+particle sizes (percent volume of particles smaller than the value) for 
+0.1 = 2.31 µm, d 0.5 = 7.57 µm, d 0.9 = 28.5 µm.  
+SRM 1577c are:  d
+Uncertainties in these values are estimated at ± 10 % relative (2s). 
+ 
+ 
+ 
+
+SRM 1577c determined in 
+
+ 
+
+SRM 1577c  
+
+ 
+
+Page 5 of 6 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald,  B.;  Definitions of Terms and Modes Used at NIST for Value
+-Assignment of Reference 
+Materials for Chemical Meas urements;  NIST Special Publication 260 -136; U.S.  Government Printing Office:  
+Washington, DC (2000); available at: https://www.nist.gov/srm/publications.cfm (accessed Oct 2018). 
+
+[2]  Roseland, J.M.; Patterson, K.Y.; Andrews, K.W.; Phillips, K.M.; Phillips, M.M.; Pehrsson, P.R.; Dufresne, G.L.; 
+Jakobsen, J.;  Gusev, P.A.;  Savarala, S.;  Nguyen, Q.V.;  Makowski, A.J.;  Scheuerell, C.R.;  Larouche, G.P.; 
+Wise, S.A.;  Harnly, J.M.;  Williams, J.R.;  Betz, J.M.;  Taylor, C.L.;  Interlaboratory Trial for Measurement of 
+Vitamin D and 25
+Chromatography–Mass Spectrometry; J. Agric. Food Chem., Vol. 64, pp. 3167–3175 (2016). 
+
+-Hydroxyvitamin D [25(OH)D] in Foods and a Dietary Supplement Using Liquid 
+
+[3]  Zeisler, R., The Sampling and Analysis of Human Livers, J. Res. Nat. Bur. Stand., Vol. 91, p. 75–85 (1986). 
+[4]  Levenson, M.S.;  Banks, D.L.;  Eberhardt, K.R.;  Gill, L.M.;  Guthrie, W.F.;  Liu, H.K.;  Vangel, M.G.;  Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM, J. Res. Nat. 
+Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[5]  Rukhin, A.L.; Vangel, M.G.; Estimation of a Common Mean and Weighted Means Statistics; J. Am. Stat. Assoc. 
+
+Vol. 93, pp. 301–308 (2000). 
+
+[6]  JCGM 100:2008; Evaluation of Measurement Data  — Guide to the Expression of Uncertainty in Measurement  
+ (JCGM) (2 008); available at 
+
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2018); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST  Measurement 
+Results; NIST Technical Note  1297; U.S. Government Printing Office: Washington,
+ DC (1994); available at 
+https://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Oct 2018). 
+
+[7]  Schiller, S.; Eberhardt, K.; Combining Data from Independent Chemical Analysis Methods ; Spectrochim. Acta, 
+
+Vol. 46B, pp. 1607–1613 (1991). 
+
+3] 
+[8]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+
+; JCGM  (2008); available at 
+
+Measurement,  Propagation of Distributions Using a Monte Carlo Method
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Oct 2018). 
+| 
+[9]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+editorial 
+Certificate Revision History:    09 October 2018  (Addition of certified value for  25-hydroxyvitamin D3;  change of expiration date;  editorial 
+   
+changes); 06 January 2016 (Editorial changes); 15 June 2009 (Original certificate date). 
+ 
+ 
+ 
+Users of this SRM   should ensure that the Certificate of Analysis in their possession is c
+accomplished by contacting the SRM Program:  telephone (301
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+) 948-3730; e -mail 
+
+) 975-2200; fax (301
+
+urrent.  This can be 
+
+hydroxy  vitamin 
+
+9 
+
+SRM 1577c  
+
+ 
+
+Page 6 of 6 
+
+

@@ -1,0 +1,601 @@
+﻿Date of Issue:  
+25 June 2014 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2684c 
+Bituminous Coal (Nominal Mass Fraction 3 % Sulfur) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the evaluation of techniques used in the 
+analysis of coals and materials of a similar matrix.  A unit of SRM 2684c consists of 50 g of bituminous coal 
+ground to pass a 212 µm (70 mesh) sieve, homogenized, and packaged in an amber glass bottle under an argon 
+atmosphere, and sealed in an aluminized bag. 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300
++1-703-527-3887
+
+(North America) 
+(International) 
+
+Company Information 
+
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard:  Not classified. 
+Health Hazard:  Not classified. 
+OSHA Defined Hazard:  Combustible dust 
+ 
+Label Elements 
+Symbol  
+No Symbol/Pictogram 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s):  May form combustible dust concentrations in air. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Coal powder 
+
+Other Designations:  Not applicable. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST 
+Certificate of Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+Coal Powder 
+
+ 
+
+  Not available 
+
+Not available 
+
+100 
+
+SRM 2684c 
+
+ 
+
+Page 1 of 5 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated 
+clothing before reuse. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation.  
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Severe  fire  hazard.    Avoid  generating  dust;  sufficient  concentrations  of  fine  dust 
+dispersed in air, and in the presence of an ignition source is a potential hazard.  See Section 9, “Physical and Chemical 
+Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, dry sand, water, and regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)  
+
+ 
+
+Health = 1 
+
+Fire = 3 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Any  accumulated  material  on 
+surfaces should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure 
+Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel 
+of spills.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  Routine housekeeping should be 
+instituted to ensure that dusts do not accumulate on surfaces.  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handling  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible substances (oxidizing materials). 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  This material is a particulate matter and adequate inhalation/respiratory protection should be used 
+to minimize exposure.   
+
+OSHA (PEL):  2.4 mg/m3 [respirable, < 5%  SiO2] (TWA) 
+
+ 
+
+10 mg/m3/(%SiO2 + 2) [respirable, > 5% SiO2] (TWA) 
+
+NIOSH (REL):  1 mg/m3 [measured according to MSHA method (CPSU)] (TWA) 
+NIOSH (REL):  0.9 mg/m3 [measured according to ISO/CEN/ACGIH criteria] (TWA) 
+
+ACGIH (TLV):  No exposure limits available. 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+SRM 2684c 
+
+ 
+
+Page 2 of 5 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA  29CFR  1910.134  must  be  followed.    Refer  to  NIOSH  42  CFR  84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES
+
+Descriptive Properties: 
+
+Appearance  
+(physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Particle Size: 
+
+Thermal Stability Properties: 
+
+Autoignition Temperature (ºC): 
+
+Thermal Decomposition (ºC): 
+
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC) 
+
+Flammability (solid, gas): 
+
+ 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Coal Powder 
+
+Black powder 
+
+Not applicable 
+Not applicable 
+Not available 
+Not available 
+Not available 
+Not applicable 
+Not available 
+Not available 
+Not applicable 
+Not applicable 
+Not applicable 
+Insoluble in water 
+Not available 
+
+≤212 µm (70 mesh) 
+ 
+
+Not available 
+
+Not available 
+
+Not available 
+Not available 
+Not available 
+Not available 
+
+Not available 
+
+Conditions to Avoid:  Avoid generating dust.  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact 
+with incompatible materials. 
+
+Incompatible Materials:  Oxidizing materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of carbon. 
+
+Hazardous Polymerization: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+SRM 2684c 
+
+ 
+
+Page 3 of 5 
+
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause irritation if inhaled. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  May cause irritation, chronic inhalation of coal dust may cause pneumoconiosis.   
+
+Skin Contact:  No data available. 
+
+Eye Contact:  No data available. 
+
+Ingestion:  No data available. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+
+Rat, Intratracheal TDLo:  9.26 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+X  No 
+Coal dust is listed by IARC as Group 3, “Not classifiable as to its carcinogenicity to humans”.   
+Coal dust is not listed by NTP or OSHA as a carcinogen. 
+
+Yes 
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified; no data available. 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SRM 2684c 
+
+ 
+
+Page 4 of 5 
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+No. 
+Yes. 
+Yes 
+No. 
+No. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Not listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  25 June 2014 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS Coal Dust, 21 March 2014. 
+
+ 
+
+ 
+
+CDC;  NIOSH;  NIOSH  Pocket  Guide  to  Chemical  Hazards;  Department  of  Health  and  Human 
+Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and 
+Health;  Coal  Dust,  18  November  2010;  available  at  http://www.cdc.gov/niosh/npg/npgd0144.html 
+(accessed  May 
+at 
+http://www.cdc.gov/niosh-rtecs/GF7E5BA8.html (accessed June 2014). 
+
+also  RTECS  Coal  Dust,  May 
+
+available 
+
+2014); 
+
+2009; 
+
+see 
+
+World Health Organization, IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, 
+available  at  http://monographs.iarc.fr/ENG/Classification/ClassificationsAlphaOrder.pdf  (accessed 
+June 2014). 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CEN 
+CERCLA  
+
+CFR  
+CPSU 
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+ISO 
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+MSHA 
+ 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+European Committee for Standardization 
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Coal Mine Dust Personal Sample Unit 
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+International Organization for Standardization 
+Lethal Concentration, 50 %  
+Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+Mine Safety and Health Administration 
+ 
+
+NIOSH  
+
+NIST 
+NRC 
+NTP  
+OSHA  
+
+PEL  
+RCRA  
+REL  
+RM 
+RQ  
+
+SARA  
+SCBA  
+SRM  
+STEL  
+TDLo 
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS 
+
+National Institute for Occupational Safety and 
+Health  
+National Institute of Standards and Technology 
+Nuclear Regulatory Commission 
+National Toxicology Program 
+Occupational Safety and Health Administration  
+
+Permissible Exposure Limit 
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Toxic Dose Low 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System
+
+RTECS 
+
+Registry of Toxic Effects of Chemical Substances 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2684c 
+
+ 
+
+Page 5 of 5 
+
+

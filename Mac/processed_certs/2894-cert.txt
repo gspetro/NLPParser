@@ -1,0 +1,223 @@
+﻿ENT  OF 
+
+hy. 
+
+ 
+,
+p
+E
+
+ 
+*
+
+ 
+t
+o
+
+National Institute of Standards and Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2894 
+
+ 
+
+Solution 
+
+ 
+Ethanol-Water Solution (Nominal Mass Fraction 0.1 %) 
+ 
+This Standard Reference Material (SRM) is a solution of ethanol (ethyl alcohol):  Chemical Abstracts Service [CAS] 
+Registry Number 64-17-5) in water at a nominal concentration of 0.1 % by mass.  SRM 2894 is intended primarily 
+for  use  in  the  calibration  of  instruments  and  techniques  used for the determination of ethanol in blood.  A unit of 
+SRM 2894 consists of five 2-mL ampoules, each containing approximately 1.2 mL of solution. 
+ 
+Certified Mass Fraction of Ethanol:  The certified mass fraction value given below is based on results obtained 
+from the gravimetric preparation of the solution and from the analytical results determined using gas chromatography 
+and titrimetry.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all 
+known or suspected sources of bias have been investigated or accounted for by NIST [1].  
+ 
+
+Ethanol Certified Mass Fraction Value:  0.100 84 %  ±  0.000 83 % 
+
+Mass  Fraction  Value:  0.100 
+
+torage,  and  Use 
+
+ 
+The results are expressed as the certified value ± the expanded uncertainty.  Certified values are unweighted means 
+of concentrations determined by gravimetric preparation and chromatographic and titrimetric measurements [2].  The 
+uncertainty listed with each value is an expanded uncertainty about the mean, with coverage factor 2 (approximately 
+95 % confidence), calculated by combining a between-source variance incorporating inter-method bias with a pooled 
+within-source variance following the ISO/NIST Guides [3].  The uncertainty includes both correction for estimated 
+purity  and  allowance  for  differences  among  the  concentrations  determined  by  gravimetric  preparation  and 
+chromatographic and titrimetric measurements. 
+ 
+Expiration of Certification:  The certification of SRM 2894 is valid, within the measurement uncertainty specified, 
+until 30 April 2023, provided the SRM is handled, stored in accordance with the instructions given in this certificate 
+(see “Instructions for Handling, Storage, and Use”).  However, the certification is nullified if the SRM is damaged, 
+contaminated, or modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The coordination of the technical measurements leading to the certification of this SRM was under the direction of 
+M.M. Schantz and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Partial funding support for the preparation and certification of this Standard Reference Material was provided by the 
+National Institute of Justice (NIJ) and managed through the NIST Office of Law Enforcement Standards (OLES). 
+ 
+ 
+ 
+ 
+
+Carlos A. Gonzales, Chief 
+Chemical Sciences Division 
+ 
+Robert L Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 3 
+
+Gaithersburg, MD 20899 
+13
+Certificate Issue Date:  11 April 2013 
+Certificate Revision History on Last Page 
+
+SRM 2894 
+
+  
+
+Preparation of and analytical measurements on the SRM were performed by J.V. Goodpaster and M.M. Schantz of 
+the NIST Chemical Sciences Division and M.P. Cronise and C.N. Fales of the NIST Office of Reference Materials.  
+Additional analytical measurements were performed by M. Archer of the National Metrology Laboratory, Pretoria, 
+South Africa and L.G. Mackay and D.G.  Burke of the National Analytical Reference Laboratory, Sydney, Australia. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+ce  of  Reference 
+Materials. 
+ 
+,  STORAGE,  AND  USE
+INSTRUCTIONS FOR HANDLINE, STORAGE, AND USE 
+ 
+Handling: The solution contains ethanol in water at the stated concentration.  Use proper disposal methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Use:    Sample  aliquots  for  analysis  should  be  withdrawn  immediately  after  opening  the  ampoules  and  should  be 
+processed without delay for the certified concentration value to be valid within the stated uncertainty. Because of the 
+volatility  of  ethanol,  the  certified  concentration  value  is  NOT  applicable  to  material  stored  in  ampoules  that  have 
+been opened for more than 2 min, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+The solution was prepared at NIST by weighing and mixing known masses of ethanol and organic-free water.  The 
+solution  was  mixed  overnight  (a  minimum  of  16 h).    The  total  mass  of  the  solution  was  measured,  and  the 
+concentration was calculated from this gravimetric procedure.  The gravimetric concentration was adjusted for the 
+purity  estimation  of  the  ethanol,  which  was  determined  using  gas  chromatography  with  flame  ionization  detection 
+(GC-FID)  with  two  stationary  phases  of  different  polarities,  differential  scanning  calorimetry,  and  Karl  Fischer 
+analysis  for  water  content.    The  bulk  solution  was  chilled  slightly,  and  1.2 mL  aliquots  were  dispensed  into 
+2-mL amber glass ampoules, which were then flame sealed. 
+ 
+Aliquots  from  nine  ampoules,  selected  using  a  random  stratified  sampling  scheme,  were  analyzed  in  duplicate  by 
+using  capillary  gas  chromatography  with  flame  ionization  detection  on  a  relatively  polar  DB-wax  column, 
+15 m × 0.45 mm id, 0.85 µm film thickness (Agilent Technologies, Wilmington, DE, USA)(1).  The internal standard 
+added  to  each  sample  for  quantification  purposes  was  1-propanol.    Calibration  solutions  consisting  of  weighed 
+amounts of ethanol and the internal standard compound in organic-free water were chromatographically analyzed to 
+determine analyte response factors. 
+ 
+In addition, the concentration of the solution was determined at the National Metrology Laboratory (Pretoria, South 
+Africa) using titrimetry.  The ethanol in known masses of the solutions was oxidized to acetic acid using a known 
+mass  of  standard  potassium  dichromate  solution  in  the  presence  of  sulfuric  acid.    The  quantity  of  ethanol  in  the 
+solution  was  determined  from  the  quantity  of  unreacted  potassium  dichromate  in  the  solution.    To  determine  the 
+quantity of unreacted potassium dichromate, potassium iodide was added to the oxidized mixture, and the liberated 
+iodine was titrated with a sodium thiosulfate solution.  Eight titrations were done for this solution. 
+ 
+The  concentration  of  this  solution  was  also  determined  at  the  National  Analytical  Reference  Laboratory  (Sydney, 
+Australia)  using  an  exact  matching  isotope  dilution-gas chromatographic/mass spectrometric (ID-GC/MS) method.  
+The  ID-GC/MS  method  utilized  carbon-13  labeled  ethanol  and  GC/MS  analysis  with  a  Chrompack  porous  layer 
+PoraPlot  Q column,  27.5 m × 0.32 mm id  (Varian,  Mulgrave,  Victoria,  Australia)(1).    Duplicate  samples  from  six 
+ampoules were analyzed using the ID-GC/MS method. 
+
+                                                           
+
+1Certain commercial equipment, instruments, or materials are identified in this certificate in order to specify adequately 
+the  experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+ 
+SRM 2894 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Apr 2013) 
+
+[3] 
+
+[2]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.;  An  Approach  to  Combining  Results  from  Multiple  Methods  Motivated  by  the  ISO  GUM; 
+J. Res. Natl. Inst. Stand. Technol., Vol. 105, pp. 571-579 (2000). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2013);  see  also 
+Taylor,  B.N.;  Kuyatt,  C.E.;  Guidelines  for  Evaluating  and  Expressing  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Apr 2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  11 April 2013 (Extended certification period; editorial changes); 26 March 2004 (Original certificate date) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.  This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 2894 
+
+Page 3 of 3 
+
+

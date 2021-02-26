@@ -1,0 +1,476 @@
+﻿ 
+
+MATERIAL SAFETY DATA SHEET 
+
+SRM Number:  3081
+MSDS Number:  3081
+SRM Name:  Aroclor 1016 In Methanol
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+MSDS Coordinator:  Mario Cellarosi
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+ 
+Description:  This Standard Reference Material (SRM) is a solution of Aroclor 1016 (Chemical Abstracts Registry 
+Number 12674-11-2) in methanol.  This SRM is intended primarily for calibrating chromatographic instrumentation 
+and methods of analysis used for the determination of Aroclor 1016 and polychlorinated biphenyls (PCBs) in water.  
+A unit of SRM 3081 consists of five 2 mL ampoules, each containing approximately 1.2 mL of solution. 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Emergency Telephone ChemTrec: 
+
+Date of Issue:  23 September 2011 
+
+Other Designations:   
+Methanol (methyl alcohol; wood alcohol; carbinol; monohydroxymethane; wood spirit; wood naphtha; methylol) 
+
+Substance:  Methanol Solution. 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4):  Health = 2 
+Fire = 3 
+NOTE:    The  health  and  safety  information  included  in  this  MSDS  is  for  methanol,  the  main  component  of  this 
+SRM.    The  concentration  of  Aroclor 1016  in  this  NIST  SRM  is  below  the  reportable  limits  for  hazardous 
+components (1 %) and/or carcinogens (0.1 %), as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS 
+information. 
+
+Reactivity = 0 
+
+Physical Hazards:  Flammable liquid and vapor. Vapor may cause flash fire. 
+
+Major Health Hazards:  Skin irritation, eye irritation, central nervous system depression, nerve damage. 
+
+Target Organ:  Nervous system. 
+
+Potential Health Effects 
+
+Inhalation: 
+Acute exposure to methyl alcohol may cause irritation of the mucous membranes, coughing, oppression in the 
+chest, tracheitis, bronchitis, tinnitus, unsteady gait, twitching, colic, constipation, nystagmus, and blepharospasm.  
+Symptoms  from  occupational  exposure  include  paresthesias,  numbness  and  shooting  pains  in  the  hands  and 
+forearms.  Metabolic acidosis, and effects on the eyes and central nervous system may occur as detailed in acute 
+ingestion.  Chronic or prolonged exposure may cause effects as in acute ingestion, reproductive effects have been 
+reported in animals.   
+Skin Contact: 
+Contact with methanol may cause irritation.  Skin absorption may occur and cause metabolic acidosis and effects 
+on  the  eyes  and  central  nervous  system  as  detailed  in  acute  ingestion.    Repeated  or  prolonged  contact  with 
+methanol  may  cause  defatting  of  the  skin  resulting  in  erythema,  scaling,  and  eczematoid  dermatitis.    Chronic 
+absorption may result in metabolic acidosis and effects as detailed in acute ingestion. 
+Eye Contact: 
+Methanol vapors may cause irritation.  High concentrations have been reported to cause violent inflammation of 
+the conjunctiva and epithelial defects on the cornea.  Mild irritation may occur with dilute solutions.  Chronic 
+exposure may cause conjunctivitis. 
+
+ 
+
+ 
+
+MSDS 3081 
+
+Page 1 of 5
+
+ 
+
+ 
+
+ 
+
+Ingestion: 
+Ingesting  methanol  may  cause  mild  and  transient  inebriation  and  subsequent  drowsiness  followed  by  an 
+asymptomatic period lasting 8–48 hours.  Following the delay, coughing, dyspnea, headache, dullness, weakness, 
+vertigo  or  dizziness,  nausea,  vomiting,  occasional  diarrhea,  anorexia,  violent  pain  in  the  back,  abdomen,  and 
+extremities, restlessness, apathy or delirium, and rarely, excitement and mania may occur.  As little as 15 ml has 
+caused blindness; the usual fatal dose is 60–240 ml.  Prolonged asthenia and irreversible effects on the nervous 
+system  including  difficulty  in  speech,  motor  dysfunction  with  rigidity,  spasticity,  and  hypokinesis  have  been 
+reported.  Repeated ingestion of methanol may cause visual impairment and blindness and other systemic effects 
+as detailed in acute ingestion.  Reproductive effects have been reported in animals 
+
+ 
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+
+Component: Methanol 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+
+ 
+
+No 
+
+ 
+ 
+ 
+
+ 
+
+X 
+X 
+X 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+CAS Number 
+
+Methanol 
+
+67-56-1 
+
+(a)  The concentration of Aroclor 1016 is below the reportable limits for hazardous components (1 %) and/or carcinogens (0.1 %), 
+as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information.  NTP has listed Aroclor 1016 as reasonably 
+anticipated  to  be  a  human  carcinogen  (as  PCBs,    CAS  number  1336-36-3);  IARC  has  listed  Aroclor 1016  in  Group 2A 
+(probably carcinogenic to humans) related to PCBs. 
+
+EC Number  
+(EINECS)
+200-659-6 
+
+Nominal Concentration(a) 
+(%) 
+99.99 
+
+Component:  Methanol 
+
+EC Classification:  F, T 
+EC Risk (R No.):  R11, R39/23/24/25 
+EC Safety (S No.):  S7, S16, S36/37, S45 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, qualified personnel should 
+give artificial respiration.  Seek immediate medical attention. 
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes.  Get medical attention, if needed.  Thoroughly clean and dry contaminated clothing and shoes before reuse.  
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention. 
+
+Ingestion:  If swallowed, get immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Severe fire hazard.  The vapor is heavier than air.  Vapors or gases may ignite at 
+distant ignition sources and flash back.  Vapor/air mixtures are explosive. 
+Extinguishing Media:  Alcohol-resistant foam, carbon dioxide, regular dry chemical, fine water spray. 
+Fire Fighting:  Move container from fire area if it can be done without risk.  Do not scatter spilled material with 
+high-pressure water streams.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing 
+and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (C):  11 
+Method:  Closed Cup. 
+
+Autoignition (C):  385 
+Flammability Limits in Air (Volume %) 
+Upper Explosive Limits (UEL):  6 % 
+Lower Explosive Limits (LEL):  36 % 
+
+MSDS 3081 
+
+Page 2 of 5
+
+ 
+
+ 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational  Release:    Avoid  heat,  flames,  sparks  and  other  sources of  ignition.    Do not  touch  spilled  material. 
+Stop  leak  if  possible  without  personal  risk.    Reduce  vapors  with  water  spray.    Small  spills:  Absorb  with  sand  or 
+other non-combustible material.  Collect spilled material in appropriate container for disposal.  Remove sources of 
+ignition.    Keep  unnecessary  people  away,  isolate  hazard  area  and  deny  entry.    Refer  to  Section 13,  “Disposal 
+Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    Keep  separated  from 
+incompatible 
+regulations:  
+U.S. OSHA 29 CFR 1910.106.  
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+a  well-ventilated 
+
+substances. 
+
+  Subject 
+
+  Store 
+
+storage 
+
+area. 
+
+to 
+
+in 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Component:  Methanol 
+
+NIOSH (TWA): 
+NIOSH (IDLH): 
+NIOSH (STEL): 
+ACGIH (TWA):  
+ACGIH (STEL):  
+OSHA (TWA): 
+
+200 ppm 
+6000 ppm 
+250 ppm 
+200 ppm 
+250 ppm 
+200 ppm 
+
+Ventilation:    Ventilation  equipment  should  be  explosion-resistant  if  explosive  concentrations  of  material  are 
+present.    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+that  meets 
+  If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  plan 
+Respirator: 
+OSHA 29 CFR 1910.134  must  be  followed.    Refer  to  the  “NIOSH  Guide  to  the  Selection  and  Use  of  Particulate 
+Respirators Certified under 42 CFR 84” for applicable certified respirators. 
+Eye Protection:  Wear safety goggles.  An eye wash station and quick drench shower should be readily available 
+near of handling and use areas. 
+Personal Protection:  Wear appropriate chemical resistant gloves.  Wear appropriate chemical resistant clothing. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Methanol 
+
+Appearance and Odor:  Colorless and alcohol odor 
+Molar Mass:  32.04 g/mol 
+Chemical Formula:  CH3OH 
+Water Solubility:  Soluble 
+Specific Gravity (water = 1):  0.7914 
+Boiling point:  65°C (149°F) 
+Vapor Pressure:  97.25 mmHg (20°C) 
+Vapor Density (air = 1):  1.11 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Stable at normal temperature and pressure.  
+Conditions to Avoid:  Avoid heat, flames, sparks and other sources of ignition.  Minimize contact with material.  
+Avoid inhalation of material or combustion by-products. 
+
+Incompatibilities:    Halo  carbons,  combustible  materials,  metals,  oxidizing  materials,  halogens,  metal  carbide, 
+bases, acids, amines. 
+Fire/Explosion Information:  Refer to Section 5, “Fire Fighting Measures”. 
+
+MSDS 3081 
+
+Page 3 of 5
+
+ 
+
+Hazardous  Decomposition:    Thermal  decomposition  or  combustion  produces  oxides  of  carbon,  various  organic 
+fragments. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+X  Skin 
+
+X 
+
+Ingestion 
+
+ 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+ 
+Route of Entry: 
+ 
+
+Inhalation 
+
+X 
+
+Toxicity Data: 
+
+Target organs: 
+
+Human, Inhalation, LC50:  300 ppm 
+Human, Oral, TDLo:  143 g/kg 
+
+Nervous system.  May cause blindness. 
+
+Mutagen/Teratogen: 
+The  components  of  this  material  have  been  investigated  as  possible  mutagens  and  reproductive  effectors.    The 
+Registry of Toxic Effects of Chemical Substances (RTECS), publishes the following endpoints. 
+
+Human Mutagenic:  300 mmol/L 
+
+Health Effects (Acute Exposure):  See Section 2 “Hazard Identification”. 
+Medical Conditions Generally Aggravated by Exposure:  Allergies and eye, kidney, and skin disorders. 
+
+Aquatic Toxicity - Fish:  fathead minnow (Pimephales promelas), 28 200 mg/L (LC50/96 hrs/flow-through) 
+Aquatic Toxicity - Fish:  fathead minnow (Pimephales promelas), >100 mg/L (LC50/96 hrs/static) 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to disposal 
+regulations:  U.S. EPA 40 CFR 262.  Hazardous Waste Number(s):  U154.  Keep out of water supplies and sewers. 
+
+U.S. DOT and IATA:  Methanol; UN1230; Hazard Class 3, Sub Risk 6.1; Excepted Quantity E3. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Methanol, 5000 lb final RQ; 2270 kg final RQ.   
+SARA Title III Section 302 (40 CFR 355.30):  Not applicable. 
+SARA Title III Section 304 (40 CFR 355.40):  Not applicable. 
+SARA Title III Section 313 (40 CFR 372.65):  Methanol, 1.0 % de minimis concentration.   
+OSHA Process Safety (29 CFR 1910.119):  Not applicable. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+Yes 
+No 
+No 
+
+STATE REGULATIONS 
+
+California Proposition 65:  Not regulated. 
+
+CANADIAN REGULATIONS 
+
+WHMIS Information:  Not provided for this material. 
+
+ 
+
+ 
+
+MSDS 3081 
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+EUROPEAN REGULATIONS  
+
+Component:  Methanol 
+
+EC Classification (assigned) 
+
+T:  Toxic 
+F:  Flammable 
+EC Risk Phrases 
+
+R11 - Highly Flammable. 
+R39/23/24/25 - Toxic: danger of very serious irreversible effects through inhalation, in contact with skin 
+ 
+
+and if swallowed. 
+
+EC Safety Phrases 
+
+S7 - Keep container tightly closed. 
+S16 - Keep away from sources of ignition – No smoking. 
+S36/37 - Wear suitable protective clothing and gloves. 
+S45 - In case of accident or if you feel unwell, seek medical advice immediately (show the label where  
+ 
+
+possible). 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Methanol listed.   
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+
+Sources:  ChemADVISOR, Inc., MSDS Methyl Alcohol, 10 June 2011. 
+
+EC;  European  Chemical  Substance  Information  System  (ESIS),  Methyl  Alcohol,  CAS  No.  67-56-1; 
+available at http://esis.jrc.ec.europa.eu/ (accessed Sep 2011). 
+
+RTECS;  Methanol,  RTECS  No.  PC1400000,  CAS  No. 67-56-1;  CDC,  May 2009;  available  at  
+http://www.cdc.gov/niosh/npg/npgd0397.html (accessed Sep 2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 3081 
+
+Page 5 of 5
+
+ 
+
+

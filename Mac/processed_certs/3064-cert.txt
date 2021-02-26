@@ -1,0 +1,143 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 3064
+
+
+
+	Endothall in Water
+
+		
+
+This Standard Reference Material (SRM) is a solution of endothall (Chemical Abstracts Service Registry Number 145733) in water.  This SRM is intended primarily for use in the calibration of chromatographic instrumentation used for the determination of endothall.  SRM 3064 can also be used to fortify aqueous samples with known amounts of endothall.  A unit of SRM 3064 consists of five 2mL ampoules, each containing approximately 1.2 mL of solution.
+
+		
+
+Certified Value:  The certified value given below is based on results obtained from the gravimetric preparation of this solution and from the analytical results determined by using gas chromatography.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account.
+
+		
+
+Certified Value of Endothall:		40.0 mg/kg    1.1 mg/kg
+
+		
+
+The results are expressed as the certified value  the expanded uncertainty.  The certified value is the unweighted average of the concentrations determined by gravimetric and chromatographic measurements.  The expanded uncertainty, U, is calculated as U = kuc, where k = 2 is the coverage factor for a 95 % confidence interval.  The quantity uc is the combined standard uncertainty calculated according to the ISO Guide [1].  The value of uc includes both a correction for estimated purity and an allowance for differences between the concentration determined by gravimetric preparation and chromatographic measurements.
+
+		
+
+Expiration of Certification:  The certification of SRM 3064 is valid, within the measurement uncertainty specified, until 31 March 2020, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Warning and Instructions for Handling, Storage, and Use”).  However, the certification is nullified if the SRM is damaged, contaminated, or modified.
+
+		
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+		
+
+Coordination of the technical measurements leading to the certification was under the direction of M.M. Schantz and S.A. Wise of the NIST Chemical Sciences Division.
+
+		
+
+Analytical measurements of the SRM were performed by M.M. Schantz and C.R. Mack of the NIST Chemical Sciences Division.
+
+
+
+	Preparation of SRM 3064 was performed by M.P. Cronise of the NIST Office of Reference Materials and by M.M. Schantz and C.R. Mack.
+
+		
+
+	Partial support for the preparation and certification of this SRM was provided by the U.S. Environmental Protection Agency Office of Water, Office of Enforcement and Compliance Assurance, and Office of Research and Development.
+
+		
+
+Statistical consultation was provided by S.D. Leigh of the NIST Statistical Engineering Division.
+
+		
+
+	
+
+		Carlos A. Gonzalez, Chief
+
+		Chemical Sciences Division
+
+	
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+	Certificate Issue Date:  06 December 2012	Office of Reference Materials
+
+Certificate Revision History on Last Page
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+WARNING AND INSTRUCTIONS FOR HANDLING, STORAGE, AND USE
+
+
+
+Handling:  This material should be handled with care.  Use proper disposal methods.
+
+
+
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C.
+
+
+
+Use:  Sample aliquots for analysis (minimum sample size of 0.5 mL) should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules and should be processed without delay for the certified value to be valid within the stated uncertainty.
+
+
+
+	PREPARATION AND ANALYSIS()
+
+
+
+The endothall monhydrate used in the preparation of this SRM was obtained from a commercial source.  The solution was prepared at NIST by weighing and mixing the endothall monohydrate into the water.  The weighed endothall monohydrate was added to the water and mixed until completely dissolved and homogenized.  The total mass of this solution was measured.  The gravimetric concentration was adjusted for the consensus purity estimation of the endothall, which was determined using capillary gas chromatography with flame ionization detection (GCFID).  This bulk solution was then chilled and 1.2mL aliquots were dispensed into 2mL amber glass ampoules, which were then flame sealed.
+
+
+
+Aliquots from nine ampoules, selected randomly, were analyzed in duplicate by using capillary GCFID employing an immobilized nonpolar (100 % dimethylpolysiloxane) stationary phase column.  An internal standard solution containing dicamba (3,6dichloro2methoxybenzoic acid) was added to each sample for quantification purposes followed by the addition of acidified acetone [2].  Calibration solutions consisting of weighed amounts of endothall and internal standard in water plus acidified acetone were chromatographically analyzed to determine the response factor for endothall relative to dicamba.
+
+	
+
+	REFERENCES
+
+					
+
+	[1]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Dec 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/physlab/pubs/index.cfm (accessed Dec 2012).
+
+				[2]	Carlson, R.; Whitaker, R.; Landskov, A.; Chapter 31; Endothall in Analytical Methods for Pesticides and Plant Growth Regulators:  New and Updated Methods; G. Zweig, Ed; Academic Press: New York, NY, pp. 327–340 (1978).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate Revision History:  06 December 2012 (Extension of certification period; editorial changes); 14 May 2003 (Original certification date).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 3064	Page 1 of 2

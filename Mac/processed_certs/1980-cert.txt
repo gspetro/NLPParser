@@ -1,0 +1,327 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1980 
+ 
+Positive Electrophoretic Mobility (+µ E) Standard 
+
+ 
+This  Standard  Reference  Material (SRM) is intended  for  use  in  the  evaluation  of  equipment,  and  the  validation  of 
+methodology used to measure electrophoretic mobility.  A unit of SRM 1980 consists of a single 60 cm3 polyethylene 
+bottle containing 40 cm3 of suspension, which is to be diluted prior to analysis.  The suspension consists of 500 mg/L 
+goethite (α-FeOOH)  suspension  saturated  with  100 μmol/g  phosphate  in  a  5 × 10–2 mol/L  sodium  perchlorate 
+electrolyte solution at a pH of 2.5.  The goethite powder consists of acicular particles with an average dimension of 
+60 nm × 20 nm  as  determined  from  electron  microscopy  and  is  consistent  with  previously  reported  data [1].    The 
+characteristics used for the selection of goethite as a standard were its long-term stability, ease of mobility control 
+from  positive  to  negative  polarity  by  adjusting  the  phosphate  concentration  or  pH,  reproducibility  of  mobility 
+measurements, and the narrow particle size distribution in the suspension [1,2].  Additionally, this material was the 
+subject  of  a  previous  interlaboratory  analysis  during  which  goethite  was  suggested  as  a  potential  electrophoresis 
+standard [3,4]. 
+ 
+Certified Value:  A  NIST  certified  value  is  a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [5].  The certified value was 
+computed  using  an  equally  weighted  mean  of  the  injections  for  NIST  and  round  robin  data.    The  uncertainty  is 
+calculated according to the ISO/JCGM and NIST Guides [6].  It includes uncertainty due to the measurement process 
+and due to material variability, and has an approximate level of confidence of 95 %.  The instruments used by NIST 
+and round robin participants, and mean values of their measurements, are shown in Table 2.  The measurand is the 
+positive electrophoretic mobility.  Metrological traceability is to the SI unit for meter, volt, and time (expressed as 
+µm·cm/V·s). 
+ 
+The certified value and uncertainty for the positive electrophoretic mobility of SRM 1980 is: 
+ 
+
+2.53 µm·cm/V·s  ±  0.12 µm·cm/V·s 
+
+ 
+Expiration of Certification:  The certification of SRM 1980 is valid indefinitely, within the measurement uncertainty 
+specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  certificate  (see 
+“Instructions for Storage and Use”).  Periodic recertification of this SRM is not required.  The certification is nullified 
+if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Materials 
+Certification  measurements  and  technique  development  were  performed  by  V.A. Hackley  of  the  NIST  Materials 
+Measurement Science Division; and S.G. Malghan and R.S. Premachandran formerly of NIST.   
+ 
+Statistical analyses were performed by S.B. Schiller of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  31 May 2019 
+Certificate Revision History on Last Page 
+
+Richard Holbrook, Acting Chief 
+Materials Measurement Science Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Division
+
+Page 1 of 4 
+
+  
+
+SRM 1980  
+
+Participation  by  the  University  of  Florida  (Gainesville, FL),  University  of  Wisconsin  (Madison, WI),  PenKem 
+Inc.  (Bedford Hills, NY), and Coulter Corp. (Miami, FL) in the development of this SRM is gratefully acknowledged.  
+Participation by Beckman-Coulter Corp. (Brea, CA), Brookhaven Instruments Corp. (Holtsville, NY), and Malvern 
+Instruments, Inc. (Worcestershire, UK) in the evaluation of stability of this SRM is also acknowledged. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Preparation:  The starting material was synthesized in several batches using the procedure of Atkinson et al. [7] and 
+then  washed  with  ultrapure  water  several  times,  freeze  dried  and  stored  in  an  air  tight  polyethylene  bottle.    The 
+combined powder obtained from different batches has a BET surface area of 84 m2/g ± 3 m2/g.  Ten grams of powder 
+was  suspended  in  20 L  of  5 × 10–2 mol/L  sodium  perchlorate  solution  adjusted  to  pH 2.5.    To  this  well-stirred 
+suspension, 100 μmol/g potassium dihydrogen phosphate was added.  The suspension was dispersed by sonication for 
+10 minutes  and  then  aged  for  60 days.    From  the  aged  suspension,  40 cm3  aliquots  were  transferred  into 
+500 polyethylene bottles using a unidispenser.  Maximum care was taken to avoid inhomogeneity while dispensing 
+the samples.   
+ 
+Analysis:  A set of 12 bottles from the 500 bottles was selected at random for homogeneity testing.  In order to prepare 
+individual test samples for analysis, two 10 cm3 aliquots were taken by pipette from each bottle and each diluted to 
+100 cm3 with deionized water.  Additionally, randomly chosen samples from the group of 500 bottles were sent to 
+four  other laboratories  for interlaboratory  data  comparison.   The data  from these  laboratories  were  obtained  using 
+three different electrophoretic measuring systems following the procedure specified by NIST.  The certified mobility 
+value is based on measurements by the five laboratories. 
+ 
+oo 
+STORAGE  AND  USE
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 1980 should be stored at room temperature until needed.  After unsealing the container to remove 
+material, SRM 1980 should be tightly capped and stored at room temperature between uses.  Otherwise, no special 
+handling procedures are required. 
+ 
+Sample Preparation Procedure:  Shake the SRM bottle vigorously for 1 minute with wrist action, then transfer a 
+10 cm3 aliquot by pipette to a 100 cm3 volumetric flask and make to volume with deionized water.  Mix the resulting 
+suspension (“the sample”) thoroughly and transfer to a polyethylene (non-glass) bottle.  Ultrasonicate for 1 minute at 
+40 W.  After cooling to 20 °C to 25 °C, measure the sample pH.  The pH should fall within the range 3.5 ± 0.1; if not, 
+adjust the value using 0.1 mol/L nitric acid or 0.1 mol/L sodium hydroxide. 
+ 
+Sample  Analyses  Procedure:    The  following  procedures  should  be  used  for  sample  analysis.    Shake  the  sample 
+mildly  with  wrist action  before  each analysis.    Prior to  the first run, precondition  the  electrophoresis  cell  with  the 
+sample for 1 minute.  Then introduce a fresh sample for analysis and allow to equilibrate for 10 s to 15 s, and make 
+three consecutive mobility measurements.  Take the average (unweighted) of these values. 
+ 
+Warning:  Water used for dilution must be ultrapure (deionized, 18 MΩ resistance); use of tap water may lead to 
+contamination of sample; use of distilled water is not certified, but should produce similar results to deionized water 
+if no other contamination is present.  Glassware and plasticware should be meticulously clean (wash with copious 
+amounts of ultrapure water before using).  Avoid phosphate-containing soaps, sulfuric acid, and hydrochloric acid as 
+cleaning agents. 
+ 
+Application Notes 
+ 
+
+(1)  Temperature dependence:  Application range is 20 °C to 25 °C.  Sample mobility should not vary more than 
+
+0.02 μm∙cm/V∙s per °C over this range. 
+
+(2)  Sample appearance after dilution should be translucent bright yellow with no visible sediment.  If this condition 
+is not manifest, the sample may be contaminated and should be discarded.  Repeat dilution procedure.  If poor 
+appearance recurs, check “Warning” above before proceeding. 
+
+(3)  After initially unsealing the SRM bottle, the undiluted material should remain viable for up to 7 days if tightly 
+capped between uses and stored at room temperature.  Therefore, several diluted samples can be obtained from 
+a single bottle over multiple days. 
+
+                                                        
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1980  
+
+Page 2 of 4 
+
+Table 1.  Sources of Uncertainty Due to Material and Measurements 
+
+Sources of Uncertainty 
+
+Degree of Freedom 
+
+Standard Uncertainty 
+
+Material  
+Measurements 
+Combined 
+Coverage Factor 
+Expanded Uncertainty 
+
+5.1 
+14.3 
+5.6 
+2.5 
+0.117 
+
+ 
+
+0.045 
+0.014 
+0.047 
+ 
+ 
+
+ 
+To compute the overall uncertainty, the responses were modeled as a function of bottle, sample within bottle, and 
+measurement error.  The standard uncertainty (uc) due to material is the between-bottle standard deviation, and the 
+standard uncertainty due to the measurement process is the standard deviation of the mean response.  These standard 
+uncertainties, as well as their associated degrees of freedom, are shown in Table 1.  The combined standard uncertainty 
+is the root-sum-of-squares  of  the  material  and  measurements  standard  uncertainties, and  the  coverage  factor is  the 
+t-multiplier  for  a  two-sided  95 %  confidence  interval  with  degrees  of  freedom  listed  for  the  combined  standard 
+uncertainty.    The  expanded  uncertainty,  U,  is  the  product  of  the  coverage  factor (k)  and  the  combined  standard 
+uncertainty (U = kuc). 
+ 
+Note  that  the  SRM  is  certified  for  electrophoretic  mobility  only,  and  not  for  pH  measurement.    The  procedure 
+described in the “Instructions for Use” section should be followed to obtain the certified value. 
+ 
+
+Table 2.  Instruments Used by Participating Laboratories and Mean Values of Mobilities and 
+Uncertainty in Mobility Data 
+
+Laboratory 
+
+Instrument 
+
+Number of 
+Measurements 
+
+Mean Mobility 
+(µm·cm/V·s) 
+
+Uncertainty 
+(µm·cm/V·s) 
+
+NIST 
+Univ. of Florida 
+Univ. of Wisconsin 
+Coulter Corp.  
+Pen Kem, Inc. 
+
+Malvern ZetaSizer III 
+Coulter Delsa 440 
+Pen Kem 3000 
+Coulter Delsa 440 
+Pen Kem 3000 
+
+96 
+8 
+4 
+4 
+4 
+
+2.54 
+2.49 
+2.56 
+2.45 
+2.57 
+
+0.06 
+0.09 
+0.13 
+0.13 
+0.13 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+SRM 1980  
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  Hackley, V.A.; Anderson, M.A.; Langmuir; Vol. 5, p. 191 (1989). 
+[2]  Tejedor-Tejedor, M.I.; Anderson, M.A.; Langmuir; Vol. 6, p. 602 (1990). 
+[3]  Ceramic  Technology  Project,  Department  of  Energy/Oak  Ridge  National  Laboratory,  Contract  No. 
+
+DE-AC05-840R21400. 
+
+[4]  Zeltner, W.A.;  Wang, J.;  Omatete, O.O.;  Janney, M.A.;  Tejedor-Tejedor, M.I.;  Anderson, M.A.;  Riman, R.E.; 
+Shanefield, D.J.;  Adair, J.H.;  Characterization  Techniques  for  the  Solid-Solution  Interface;  Adair, J.H.; 
+Casey, J.A.; Venigalla, S., Eds.; American Ceramic Society, Westerville, OH, p. 87 (1993). 
+
+[5]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:    Washington, DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed May 2019). 
+
+[6]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2019);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:    Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed May 2019). 
+
+[7]  Atkinson, R.J.; Posner, A.M.; Quirk, J.P.; J. Inorg. Nucl. Chem.; Vol. 30, p. 2371 (1968). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Certificate  Revision  History:    31 May 2019 (Change  of  expiration  date;  editorial  changes);  30 September 2016  (Editorial  changes); 
+23 March 2016  (Change  of  expiration  date;  editorial  changes);  15 October 2012  (Expiration  period  extended;  editorial  changes); 
+10 September 2008 (Expiration period extended; editorial changes); 06 November 2002 (Expiration period extended; editorial changes); 07 March 
+1994 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at https://www.nist.gov/srm. 
+
+SRM 1980  
+
+Page 4 of 4 
+
+

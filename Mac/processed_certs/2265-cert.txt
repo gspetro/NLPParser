@@ -1,0 +1,377 @@
+﻿ 
+
+oe 
+g- 
+
+Srares  oe
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2265 
+
+ 
+
+ 
+Nitrated Polycyclic Aromatic Hydrocarbons in Methylene Chloride II 
+ 
+This Standard Reference Material (SRM) is a solution of 16 nitrated polycyclic aromatic hydrocarbons (nitro-PAHs) 
+from nitrophenanthrenes to nitrobenzopyrenes in methylene chloride.  This SRM is intended primarily for use in the 
+calibration of chromatographic instrumentation used for the determination of nitro-PAHs.  SRM 2265 is part of a 
+suite  of  SRMs containing nitro PAHs in various solvents.  A unit of SRM 2265 consists of five 2-mL ampoules, 
+each containing approximately 1.2 mL of solution. 
+ 
+Certified  Concentrations  of  Constituents:    The  certified  concentration  values  and  estimated  uncertainties  for 
+14 nitro-PAHs,  expressed  as  mass  fractions,  are  given  in  Table  1  with  the  Chemical  Abstract  Service  (CAS) 
+Registry  Numbers  [1].  The  certified  concentration  values  are  based  on  results  obtained  from  the  gravimetric 
+preparation  of  this  solution  and  from  the  analytical  results  determined  by  using  gas  chromatography.    A  NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or accounted for by NIST [2].  
+ 
+Reference  Concentration  Values:    Reference  values,  also  expressed  as  mass  fractions,  for  two  additional 
+nitro-PAHs are provided in Table 2.  The reference values are noncertified values that do not meet NIST criteria 
+for  certification  and  are  provided  with  associated  uncertainties  that  may  reflect  only  measurement  precision,  may 
+not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of  sufficient  statistical  agreement  among  multiple 
+methods.   
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  lot  is  valid  until  31  March  2016,  within  the 
+measurement uncertainties specified, provided the SRM is handled and stored in accordance with the instructions 
+given in this certificate.  However, the certification is nullified if the SRM is damaged, contaminated, or modified.  
+NIST reserves the right to withdraw, amend, or extend this certification at any time.   
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  representative  solutions  from  this  SRM  lot  over  the 
+period  of  its  certification.    If  substantive  changes  occur  that  affect  the  certification  before  the  expiration  of 
+certification, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Partial funding support for the preparation and certification of this Standard Reference Material was provided by the 
+U.S. Environmental Protection Agency, Office of Research and Development, Human Exposure and Atmospheric 
+Science Division, National Exposure Research Laboratory. 
+ 
+The coordination of the technical measurements leading to the certification of this SRM was under the direction of 
+M.M. Schantz and L.C. Sander of the NIST Analytical Chemistry Division. 
+ 
+Preparation  and  analytical  measurements  of  the  SRM  were  performed  by  M.M.  Schantz  of  the  NIST  Analytical 
+Chemistry Division and M.P. Cronise and C.N. Fales of the Standard Reference Materials Group. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Gaithersburg, MD  20899  
+Certificate Issue Date:  08 March 2007 
+
+SRM 2265 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+ 
+Robert L. Watters, Jr, Chief 
+Measurement Services Division 
+
+Page 1 of 4 
+
+Consultation  on  the  statistical  design  of  the  experimental  work  and  evaluation  of  the  data  were  provided  by 
+S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+The  support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement 
+Services Division. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+Handling:  This  material  contains  nitro-PAHs  and  should  be  handled  with  care.    Use  proper  disposal  methods.  
+Refer to the corresponding Material Safety Data Sheet (MSDS) for further handling instructions. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+INSTRUCTIONS FOR USE   
+ 
+Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules and 
+should  be  processed  without  delay  for  the  certified  values  in  Table  1  to  be  valid  within  the  stated  uncertainty. 
+Because  of  the  volatility  of  methylene  chloride,  certified  values  are not applicable to material stored in ampoules 
+that have been opened for more than 4 minutes, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS1
+ 
+The  compounds  used  in  the  preparation  of  this  SRM  were  obtained  from  commercial  sources  or  as  Certified 
+Reference Materials (CRMs) from the Institute for Reference Materials and Measurements (IRMM) (formerly BCR 
+[Community Bureau of Reference], Geel, Belgium).  The solution was prepared at NIST by weighing and mixing 
+the individual compounds and methylene chloride.  The weighed components were added to the methylene chloride 
+and mixed overnight.  The total mass of this solution was measured, and the concentrations were calculated from 
+this  gravimetric  procedure.    These  gravimetric  concentrations  were  adjusted  for  the  purity  estimation  of  each 
+component, which was determined using flame ionization capillary gas chromatography with two stationary phases 
+of different polarities and differential scanning calorimetry.  This bulk solution was then chilled to approximately 
+−5 °C, and 1.2 mL aliquots were dispensed into 2-mL amber glass ampoules, which were then flame sealed. 
+ 
+Aliquots from nine ampoules (selected using a stratified, random sampling scheme) were analyzed in duplicate by 
+using capillary gas chromatography with mass spectrometric detection in the negative ion chemical ionization mode 
+and  a  non-polar  5 %  phenyl  methylpolysiloxane  phase.    The  internal  standards  added  to  each  sample  for 
+quantification  purposes  were  deuterated  nitro-PAHs.    Calibration  solutions  consisting  of  weighed  amounts  of  the 
+compounds  (adjusted  for  the  purity  estimation)  and  the  internal  standard  compounds  in  methylene  chloride  were 
+chromatographically analyzed to determine analyte response factors.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                           
+
+1Certain commercial equipment, instrumentation, or materials are identified in this certificate to specify adequately the 
+ment  by  the  NIST,  nor  does  it  imply  that
+experimental procedure.  Such identification does not imply recommendation or endorsement by the NIST, nor does it imply that 
+the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2265 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Table 1. Certified Concentrations of Components in SRM 2265 
+
+Compound 
+
+2-Nitrophenanthrene 
+3-Nitrophenanthrene 
+9-Nitrophenanthrene 
+2-Nitroanthracene 
+9-Nitroanthracene 
+2-Nitrofluoranthene 
+3-Nitrofluoranthene 
+1-Nitropyrene 
+2-Nitropyrene 
+4-Nitropyrene 
+6-Nitrochrysene 
+7-Nitrobenz[a]anthracene 
+3-Nitrobenzanthrone 
+6-Nitrobenzo[a]pyrene 
+
+ 
+CAS Registry No.(a) 
+ 
+17024-18-9 
+17024-19-0 
+954-46-1 
+3586-69-4 
+602-60-8 
+13177-29-2 
+892-21-7 
+5522-43-0 
+789-07-1 
+57835-92-4 
+7496-02-8 
+20268-51-3 
+17117-34-9 
+63041-90-7 
+
+Concentration 
+µg/g(b) 
+
+Concentration 
+µg/mL(c)
+
+3.73  ±  0.08 
+4.36  ±  0.11 
+3.02  ±  0.09 
+2.58  ±  0.08 
+4.58  ±  0.15 
+4.12  ±  0.11 
+4.63  ±  0.10 
+5.21  ±  0.20 
+3.24  ±  0.08  
+3.30  ±  0.07 
+2.91  ±  0.08 
+4.80  ±  0.16 
+3.31  ±  0.08 
+3.45  ±  0.14 
+
+4.94  ±  0.11 
+5.78  ±  0.15 
+4.00  ±  0.11 
+3.43  ±  0.10 
+6.07  ±  0.20 
+5.46   ±  0.15 
+6.14  ±  0.13 
+6.91  ±  0.27 
+4.29  ±  0.10
+4.38  ±  0.09 
+3.85  ±  0.11 
+6.36  ±  0.21 
+4.39  ±  0.11
+4.57  ±  0.19 
+
+(a)  The results are expressed as the certified value ± the expanded uncertainty.  The certified value is the average of the concentrations determined 
+by gravimetric and chromatographic measurements.  The expanded 95 % uncertainty uses a coverage factor of 2 and includes both correction 
+for  estimated  purity  and  allowance  for  differences  between  the  concentration  determined  by  gravimetric  preparation  and  chromatographic 
+measurements [3]. 
+
+(b)  The  concentrations  listed  in  µg/mL  units  were  obtained  by  multiplying  the  certified  values  in  µg/g  by  the  density  of  the  solution  at  20  °C 
+
+(1.326 g/mL).  A concentration change of less than 1% will occur for a 5 °C temperature change. 
+
+ 
+Table 2. Reference Concentrations of Components in SRM 2265 
+
+Compound 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a)  The results are expressed as the certified value ± the expanded uncertainty.  The certified value is the average of the concentrations determined 
+by gravimetric and chromatographic measurements.  The expanded 95 % uncertainty uses a coverage factor of 2 and includes both correction 
+for  estimated  purity  and  allowance  for  differences  between  the  concentration  determined  by  gravimetric  preparation  and  chromatographic 
+measurements [3]. 
+
+ 
+CAS Registry No. 
+ 
+91259-16-4 
+81340-58-1 
+
+1-Nitrobenzo[e]pyrene 
+3-Nitrobenzo[e]pyrene 
+
+4.19  ±  0.19 
+1.98  ±  0.34 
+
+3.16  ±  0.14 
+1.49  ±  0.26 
+
+Concentration 
+µg/g (a) 
+
+Concentration 
+µg/mL (b)
+
+(b)  The  concentrations  listed  in  µg/mL  units  were  obtained  by  multiplying  the  certified  values  in  µg/g  by  the  density  of  the  solution  at  20  °C 
+
+(1.326 g/mL).  A concentration change of less than 1% will occur for a 5 °C temperature change. 
+
+ 
+ 
+
+SRM 2265 
+
+Page 3 of 4 
+
+ 
+REFERENCES 
+
+ 
+ 
+[1]  Chemical Abstracts, Fourteenth Collective Index; Index Guide; American Chemical Society:  Columbus, OH 
+
+(2001). 
+
+[2]  May,  W.;  Parris,  R.;  Beck,  C.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S. Government 
+Printing Office: Gaithersburg, MD (2000). 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297, 
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+[3] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+ 
+
+SRM 2265 
+
+Page 4 of 4 
+
+

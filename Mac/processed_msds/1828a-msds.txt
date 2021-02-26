@@ -1,0 +1,397 @@
+﻿ 
+
+ 
+
+ 
+SRM Supplier:   National Institute of Standards and Technology  SRM Number:   1828a 
+
+MATERIAL SAFETY DATA SHEET 
+
+  Standard Reference Materials Program 
+  100 Bureau Drive, Stop 2321  
+  Gaithersburg, Maryland 20899-2321 
+
+MSDS Number:   1828a 
+SRM Name:   Ethanol in Water Solutions 
+Date of Issue:  06 June 2001 
+
+MSDS Coordinator:  Carmen S. Davis 
+Phone:  (301) 975-6776 
+ChemTrec:  1-800-424-9300 
+
+SECTION I.  MATERIAL IDENTIFICATION 
+
+ 
+
+ 
+
+FAX:  (301) 926-4751 
+e-mail:  SRMMSDS@nist.gov 
+
+Material Name:  Ethanol in Water Solutions 
+ 
+Description:    SRM  1828a  consists  of  five  ampoules:  one  ampoule  contains  approximately  20  mL  of  ethanol-water 
+azeotrope (96 % mass fraction [1] ethanol, nominal); two ampoules each contain approximately 20 mL of the 2 % mass 
+fraction ethanol-water solution, nominal; one ampoule contains approximately 5 mL of the 0.1 % mass fraction ethanol-
+water  solution,  nominal;  and  one  ampoule  contains  approximately  5  mL  of  the  0.02  %  mass  fraction  ethanol-water 
+solution, nominal. 
+ 
+Other  Designations:    Ethanol  (ethyl  alcohol;  alcohol  anhydrous;  anhydrol;  ethyl  hydrate;  ethyl  hydroxide;  grain 
+alcohol; methyl carbinol) in Water 
+ 
+Name 
+Ethanol 
+ 
+DOT Classification:  Flammable Liquid, UN1170 
+ 
+Manufacturer/Supplier:  Available from a number of suppliers 
+ 
+ 
+
+CAS Registry Number 
+64-17-5 
+
+Chemical Formula 
+CH3CH2OH 
+
+SECTION II.  HAZARDOUS INGREDIENTS 
+
+Hazardous Components 
+
+Nominal Concentration (%) 
+
+Exposure Limits and Toxicity Data 
+
+ 
+
+ 
+
+Ethanol 
+
+Concentration Level l 
+
+Concentration Level 2 
+
+Concentration Level 3 
+
+Concentration Level 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+96.0 
+
+2.0 
+
+0.1 
+
+0.02 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACGIH TLV-TWA:   1 000 mg/kg or 1900 mg/m3 
+
+OSHA TLV-TWA:   1 000 mg/kg or 1900 mg/m3 
+
+Man, Oral:  TDLO:   22 500 mg/kg/4 weeks 
+
+Infant, Oral:  TDLO:   11 712 µL/kg 
+
+Woman, Oral:  TDLO:   1 200 mg/kg/3 h 
+
+Man, Oral:  TDLO:   3 371 µL/kg 
+
+Man, Oral:  LDLO:   1 400 mg/kg 
+
+Rat, Oral:  LD50:   760 mg/kg 
+
+MSDS 1828a 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+SECTION III.  PHYSICAL/CHEMICAL CHARACTERISTICS 
+
+Ethanol 
+
+Appearance and Odor:  a clear, colorless liquid 
+with a characteristic alcoholic odor 
+
+Vapor Pressure (@ 19 °C):   40 mm Hg 
+
+Relative Molecular Mass:   46.07 
+
+Evaporation Rate (carbon tetrachloride = 1):   1.4 
+
+Density:   0.7893 g/mL 
+
+Boiling Point:   78 °C 
+
+Water Solubility:   soluble  
+
+Viscosity (@ 20 °C):   1.22 cP to 1.41 cP 
+
+Freezing Point:   -117 °C 
+
+Solvent Solubility:   soluble in benzene, ether, 
+acetone, chloroform, methanol, and organic solvents  
+
+ 
+NOTE:  The physical property data are for pure ethanol. 
+ 
+ 
+
+SECTION IV.  FIRE AND EXPLOSION HAZARD DATA 
+
+ 
+Ethanol 
+Flash Point:   13 °C 
+ 
+Flammability Limits in Air (Volume %):  UPPER: 
+LOWER: 
+
+19 
+3.3 
+
+Method Used:   Closed Cup 
+
+Autoignition Temperature:   363 °C 
+
+ 
+Unusual Fire and Explosion Hazards:  Ethanol is a severe fire and explosion hazard when exposed to heat or flame. 
+Vapors are heavier than air and may travel a considerable distance to a source of ignition and flash back. Vapor and air 
+mixtures are explosive. 
+ 
+Extinguishing Media:  Use alcohol-resistant foam, dry chemical, carbon dioxide, or water spray. 
+ 
+Special Fire Procedures:  Fire fighters should wear a self-contained breathing apparatus (SCBA) with a full face piece 
+in the pressure demand or positive mode and other protective clothing. 
+ 
+
+SECTION V.  REACTIVITY DATA 
+
+     X       Stable 
+
+_____   Unstable 
+
+ 
+Stability: 
+ 
+Conditions to Avoid:  Avoid contact with heat, sparks, flames, or other sources of ignition.  Avoid inhalation of vapors 
+or combustion by-products.  Avoid contact with the skin.  Do not allow the material to contaminate water sources. 
+ 
+Incompatibility (Materials to Avoid):  Ethanol is incompatible with halo carbons, combustible materials, metals, metal 
+oxides, oxidizing materials, halogens, metal carbide, bases, and acids. 
+ 
+See Section IV:  Unusual Fire and Explosion Hazards 
+ 
+Hazardous Decomposition or Byproducts:  Thermal decomposition products of ethanol may include toxic oxides of 
+carbon.   
+ 
+Hazardous Polymerization: 
+
+    X       Will Not Occur 
+
+_____   Will Occur 
+
+ 
+
+ 
+
+MSDS 1828a 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+SECTION VI.  HEALTH HAZARD DATA 
+
+    X        Skin 
+
+    X       Inhalation 
+
+ 
+Route of Entry: 
+ 
+Ethanol:  Inhalation of 1000 mg/kg to 10,000 mg/kg has caused temporary irritation of the upper respiratory tract and 
+coughing.    If  exposure  continues,  central  nervous  system  depression  with  headache,  stupor,  fatigue,  dizziness, 
+drowsiness,  and  loss  of  appetite  may  occur.    Repeated  or  prolonged  inhalation  of  vapors  may  cause  irritation  of  the 
+mucous  membranes,  headache,  dizziness,  nervousness,  tremors  fatigue,  nausea,  narcosis,  lack  of  concentration,  and 
+somnolence.    Direct  contact  with  the  skin  may  cause  mild  redness  and  burning.    Sensitization  has  occasionally  been 
+reported  to  occur  in  some  individuals  resulting  in  allergic  contact  dermatitis  in  the  form  of  eczematous  eruptions. 
+Repeated or prolonged contact with the skin can cause defatting of the tissue producing dry, fissured dermatitis.  Eye 
+contact  with  the  vapor  or  liquid  may  cause  temporary  eye  irritation  with  continuous  tearing.    Repeated  contact  may 
+cause hyperemia of the conjunctiva. 
+
+    X       Ingestion 
+
+ 
+
+Ingestion of ethanol may cause emotional lability and decreased inhibitions.  Lack of coordination, slurring of speech, 
+slowing of reaction time, sensory disturbances, and visual impairment may also occur.  Other symptoms may include 
+flushing  of  the  face,  dilated  pupils,  rapid  pulse,  nausea,  vomiting,  sweating,  and  diuresis.    Chronic  intoxication  may 
+result in weight loss, degenerative changes in the liver, kidneys, and brain.  Gastroenteritis with anorexia and diarrhea, 
+and cirrhosis of the liver.  Human consumption of alcoholic beverages has been related to the occurrence of malignant 
+tumors of the oral cavity, pharynx, larynx, esophagus, and liver.  Reproductive effects have been reported in animals. 
+ 
+Medical  Conditions  Generally  Aggravated  by  Exposure:    central  nervous  system  disorders,  and  kidney  and  liver 
+disorders 
+ 
+Listed as a Carcinogen/Potential Carcinogen: 
+
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+ 
+
+ 
+
+Yes 
+ 
+ 
+ 
+
+No 
+X 
+X 
+X 
+
+ 
+EMERGENCY AND FIRST AID PROCEDURES: 
+ 
+
+Skin  Contact:    Remove  contaminated  shoes  and  clothing.    Rinse  affected  area  with  large  amounts  of  water 
+followed  by  washing  the  area  with  soap  and  water.    Watch  for  chemical  irritations  and  treat  them  accordingly. 
+Obtain medical assistance if necessary.  
+ 
+Eye  Contact:    Immediately  flush  eyes,  including  under  the  eyelids,  with  copious  amounts  of  water  for  at  least 
+15 minutes.  Obtain medical assistance. 
+ 
+Inhalation:    If  inhaled,  move  the  victim  to  fresh  air.    If  breathing  is  difficult,  give  oxygen;  if  the  victim  is  not 
+breathing, give artificial respiration.  Obtain medical assistance if necessary.  
+ 
+Ingestion:  If ingested, wash out mouth with water.  Obtain medical assistance immediately.   
+
+ 
+
+TARGET ORGAN(S) OF ATTACK: 
+ 
+
+central nervous system and liver  
+
+SECTION VII.  PRECAUTIONS FOR SAFE HANDLING AND USE 
+
+ 
+
+Steps  to  be  Taken  in  Case  Material  Is  Released  or  Spilled:    Notify  safety  personnel  of  major  spills  and/or  leaks. 
+Evacuate  nonessential  personnel.    Stop  the  leak  if  one  can  do  so  without  risk.    Absorb  small  spills  with  sand  or  other 
+absorbent material and place into containers for disposal.  
+ 
+Waste Disposal:  Follow all federal, state, and local laws governing disposal. 
+ 
+Handling  and  Storage:    Persons  handling  this  material  must  wear  protective  eyewear,  clothing,  and  gloves  to  prevent 
+contact with this material. 
+ 
+
+MSDS 1828a 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+NOTE:    Contact  lenses  pose  a  special  problem;  soft  lenses  may  absorb  irritants  and  all  lenses 
+concentrate them.  DO NOT wear contact lenses in the laboratory. 
+
+ 
+This  material  should  be  stored  in  a  cool,  dry,  well-ventilated  area  away  from  incompatible  materials  and  conditions.  
+Protect containers from physical damage. 
+ 
+
+ 
+SECTION VIII.  SOURCE DATA/OTHER COMMENTS  
+
+Merck Index, 11th Ed., 1989. 
+The Sigma Aldrich Library of Chemical Safety Data, Ed. II, 1988. 
+
+ 
+Sources:  MDL Information Systems, Inc., MSDS Ethyl Alcohol, 01 December 2000. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the  hazardous 
+nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does not certify the 
+data on the MSDS.  The certified value for this material is given in the NIST Certificate of Analysis. 
+
+MSDS 1828a 
+
+Page 4 of 4 
+
+

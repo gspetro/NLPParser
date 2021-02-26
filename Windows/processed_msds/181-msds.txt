@@ -1,0 +1,620 @@
+﻿Date of Issue: 
+
+22 January 2014
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	181
+
+		SRM Name:	Lithium Ore (Spodumene)
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in checking the accuracy of assay methods.  A unit of SRM 181 consists of approximately 45 g of fine powder.  
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:  Not classified.
+
+		Health Hazard:  Not classified.
+
+		
+
+		Label Elements
+
+			Symbol 
+
+			No Symbol/Pictogram
+
+			Signal Word
+
+			Not applicable.
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Lithium aluminum silicate 
+
+	Other Designations:  Silicic acid, aluminum lithium salt; aluminosilicic acid lithium salt; β-spodumene.
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Lithium aluminum silicate
+
+		12068-40-5
+
+235-098-6
+
+	100
+
+
+
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated clothing before reuse.
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention.
+
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek medical attention if needed.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  Avoid generating dust.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Use extinguishing agents appropriate for surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  None listed.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 1	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Collect spilled material in appropriate container for disposal.  
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage:  Store and handling in accordance with all current regulations and standards.  
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  This material is a particulate matter and adequate inhalation/respiratory protection should be used to minimize exposure.  No occupational exposure limits have been established lithium aluminum silicate.  The exposure limits for Particulates Not Otherwise Regulated are applicable.
+
+		OSHA (PEL):	15 mg/m3 (TWA, total particulates not otherwise regulated)
+
+			5 mg/m3 (TWA, respirable particulates not otherwise regulated)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties:
+
+Lithium aluminum silicate
+
+Appearance 
+(physical state, color, etc.):
+
+Fine Powder
+
+Molecular Formula:
+
+LiAl(SiO3)2
+
+Molar Mass (g/mol):
+
+114.04
+
+Odor:
+
+Not available
+
+Odor threshold:
+
+Not available
+
+pH:
+
+Not available
+
+Evaporation rate:
+
+Not applicable
+
+Melting point/freezing point (ºC):
+
+Not available
+
+Relative Density (g/L):
+
+Not available
+
+Vapor Pressure (mmHg):
+
+Not applicable
+
+Vapor Density (air = 1):
+
+Not applicable
+
+Viscosity (cP):
+
+Not applicable
+
+Solubility(ies):
+
+Not available
+
+Partition coefficient (n-octanol/water):
+
+Not available
+
+Particle Size (if relevant)
+
+Not available
+
+Thermal Stability Properties:
+
+
+
+Autoignition Temperature (ºC):
+
+Not available
+
+Thermal Decomposition (ºC):
+
+Not available
+
+Initial boiling point and boiling range (ºC):
+
+Not available
+
+Explosive Limits, LEL (Volume %):
+
+Not available
+
+Explosive Limits, UEL (Volume %):
+
+Not available
+
+Flash Point (ºC):
+
+Not available
+
+Flammability (solid, gas):
+
+Not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoid generating dust.  
+
+Incompatible Materials:  No data available.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce miscellaneous decomposition products.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+
+
+Skin
+
+
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause irritation if inhaled.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Dust may cause mucous membrane and respiratory irritation due to mechanical action.  
+
+Skin Contact:  May cause mechanical irritation.
+
+Eye Contact:  Dust may cause eye irritation due to mechanical action.
+
+Ingestion:  No data available.
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified; no data available.
+
+Skin Corrosion/Irritation:  Not classified; no data available.
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Lithium aluminum silicate is not listed by NTP, IARC or OSHA as a carcinogen.
+
+Reproductive Toxicity:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified; no data available.
+
+Aspiration Hazard:  Not classified; no data available.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:  No data available.
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	No.
+
+	CHRONIC HEALTH:	No.
+
+	FIRE:	No.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  Not listed.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:
+
+WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+Issue Date:  22 January 2014
+
+	Sources:	ChemAdvisor, Inc., MSDS Lithium Aluminum Silicate, 10 June 2011.
+
+		CDC; NIOSH; NIOSH Pocket Guide to Chemical Hazards; Department of Health and Human Services (DHHS), Centers for Disease Control and Prevention (CDC), National Institute for Safety and Health; Particulates Not Otherwise Regulated, 4 April 2011; available at http://www.cdc.gov/niosh/npg/npgd0480.html (accessed Jan 2014).
+
+		
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Lethal Dose, 50 %
+
+TLV 
+
+Threshold Limit Value 
+
+LEL 
+
+Lower Explosive Limit 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NFPA 
+
+National Fire Protection Association 
+
+TWA 
+
+Time Weighted Average 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+UEL 
+
+Upper Explosive Limit 
+
+NIST
+
+National Institute of Standards and Technology
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+					
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 181		Page 5 of 5

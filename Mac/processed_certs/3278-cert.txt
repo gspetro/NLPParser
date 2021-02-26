@@ -1,0 +1,388 @@
+﻿ 
+,
+I
+P
+
+ 
+.
+
+ 
+n
+a
+
+gent  OF  c 
+
+ 
+”
+8
+0
+2
+
+ 
+.
+4
+
+‘States  oF  © 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 3278 
+ 
+Tocopherols in Edible Oils 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of tocopherols in edible oils and similar matrices.  This SRM can also be used for quality assurance 
+when  assigning  values  to  in-house  control  materials.   A  unit  of  SRM 3278  consists  of  five ampoules  of  oil  each 
+containing approximately 1 mL of material under argon. 
+ 
+The  development  of  SRM 3278  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health (NIH), Office of Dietary Supplements (ODS). 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values of tocopherols are provided in Table 1.  Certified 
+values were derived from the combination of results provided by NIST using three or four analytical methods.  A NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or taken into account [1].  The certified values in this material are the equally 
+weighted means of the individual sets of NIST results; the associated uncertainties are expanded uncertainties at the 
+95 % level of confidence [2,3].  Certified values are reported on an “as-received” basis in mass fraction units [4]. 
+ 
+Expiration of Certification:  The certification of SRM 3278 is valid, within the measurement uncertainty specified, 
+until 30 August 2027, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate this notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.C. Sander, 
+and S.A. Wise of the NIST Chemical Sciences Division and K.E. Sharpless of the NIST Special Programs Office. 
+ 
+Acquisition and preparation of the material were coordinated by K.E. Sharpless. 
+ 
+Analytical measurements at NIST were performed by C.A. Rimmer of the NIST Analytical Chemistry Division 
+and K. Putzbach, formerly of NIST. 
+ 
+Support for the development of SRM 3278 was provided in part by the NIH Office of Dietary Supplements.  Technical 
+consultation was provided by J.M. Betz (NIH-ODS). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  09 August 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+performed  by  L.C 
+
+Sciences  Division 
+
+rformed  by  C.A. 
+
+SRM 3278 
+
+Page 1 of 3 
+
+78 
+
+the 
+
+0.0 
+
+SRM 
+
+RESEARCH 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 3278 IS INTENDED FOR RESEARCH USE ONLY, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  Unopened ampoules of SRM 3278 should be stored at controlled room temperature (20 °C to 25 °C), in the 
+dark, until required for use. 
+ 
+Use:  Prior to removal of a test portion for analysis, the contents of the ampoule should be mixed thoroughly.  The 
+recommended minimum sample size is 0.05 g; test portions used for NIST analyses described below were 0.05 g to 
+2 g. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Material  Acquisition  and  Preparation:    Vegetable  oils  were  combined  to  give  an  α-tocopherol/γ-tocopherol 
+peak-area ratio of approximately 1:1.  This entailed blending 10 % soybean oil, 10 % canola oil, 10 % safflower oil, 
+and 70 % sunflower oil (mass fractions).  Butylated hydroxytoluene (BHT) was added as an antioxidant at a final mass 
+fraction of approximately 500 mg/kg. 
+ 
+Analytical Approach for Determination of Tocopherols:  Value assignment of the mass fractions of tocopherols in 
+SRM 3278 was based on the combination of measurements from three different analytical methods at NIST using 
+monomeric C30, polymeric C30, and naphthalene LC columns with absorbance and/or fluorescence detection.  Four 
+independently prepared calibrants were used for each of the methods.  Calibrant solutions containing the individual 
+tocopherols were prepared gravimetrically at levels intended to approximate the levels of the tocopherols in the SRM.  
+A single internal standard solution was used for the calibrants and samples.  Samples were diluted in ethanol containing 
+an internal standard (tocol) prior to analysis; a few drops of isopropanol were added to increase the oil’s solubility. 
+ 
+
+ 
+l
+o
+r
+e
+h
+p
+o
+c
+o
+t
+-
+a
+
+l
+
+o
+r
+e
+h
+ 
+h
+p
+p
+o
+c
+o
+t
+-
+γ
+
+l
+
+o
+r
+ 
+r
+e
+e
+h
+p
+o
+c
+o
+t
+-
+β
+
+l
+
+o
+c
+o
+t
+
+ 
+|
+
+l
+
+o
+r
+ 
+e
+r
+e
+h
+h
+p
+o
+c
+o
+t
+-
+δ
+
+e
+c
+ 
+c
+n
+n
+a
+b
+r
+o
+s
+b
+A
+
+  
+
+0
+
+  
+
+5
+
+10
+
+Time (min)
+
+15
+
+20
+
+ 
+
+Figure 1.   A  sample  chromatogram  showing  the  separation  on  the  naphthalene  column  (Cosmosil  π-NAP, 
+250 mm × 4.6 mm, 5 µm particle size Nacalai Tesque Co., Japan) using absorbance detection at 297 nm and 
+an isocratic mobile phase of 90 % methanol and 10 % water (volume fractions) is provided in the figure.  The 
+column was held at 5 ºC with a recirculating water bath. 
+
+ 
+tocopherols 
+monomeric 
+Homogeneity  Assessment:    The  homogeneity  of  tocopherols  was  assessed  at  NIST  by  using  the  monomeric 
+2 
+C30 column with fluorescence detection.  An analysis of variance did not show inhomogeneity for 0.05 g to 2 g test 
+portions. 
+ 
+Value Assignment:  The equally weighted means from each set of data were used to calculate the assigned values. 
+Because of interferences, three methods were used to provide values for α-, β-, and γ-tocopherol; all methods were 
+used for δ-tocopherol.  Analytical methods are identified in Table 1. 
+ 
+                                                           
+
+(1) Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+undards
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+SRM 3278 
+
+Page 2 of 3 
+
+Certified Mass Fraction Values:  Each certified mass fraction value is an equally weighted mean of the individual sets 
+of results provided by NIST.  The uncertainty in the certified value, calculated according to the method described in the 
+ISO/JCGM Guide [2,3], is expressed as an expanded uncertainty, U.  The expanded uncertainty is calculated as U = kuc, 
+where uc is intended to represent, at the level of one standard deviation, the combined effect of between-method and 
+within-method components of uncertainty.  The coverage factor, k = 2, is determined from the Student's t-distribution 
+corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence for each analyte.  
+The  measurand  is  the  certified  mass  fraction  value  reported  on  an  “as-received”  basis  in  mass  fraction  units [4]; 
+metrological traceability is to the derived SI unit for mass fraction expressed as micrograms per gram. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction (as-received) Values for Tocopherols in SRM 3278 
+
+iss  Fraction  ( 
+
+ 
+
+ 
+ 
+
+Tocopherol 
+
+α-Tocopherol(a,b,c) 
+β-Tocopherol(a,b,d) 
+γ-Tocopherol(b,c,d) 
+δ-Tocopherol(a,b,c,d) 
+
+Mass Fraction 
+(µg/g) 
+
+11.38  ±  0.52 
+
+  290.1  ±  6.5 
+ 
+  111.5  ±  5.8 
+28.8  ±  1.8 
+ 
+
+(a) Monomeric C30 column with fluorescence detection (excitation at 298 nm and emission at 325 nm) 
+(b) Polymeric C30 column with fluorescence detection (excitation at 298 nm and emission at 325 nm) 
+(c) Naphthalene column with absorbance detection (297 nm) 
+(d) Naphthalene column with fluorescence detection (excitation at 298 nm and emission at 325 nm) 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260–136, U.S. Government Printing 
+Office:  Washington, DC (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed 
+Aug 2016). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S. Government  Printing  Office:    Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2016). 
+
+[3]  Levenson, M.S.;  Banks, D.L.;  Eberhardt, K.R.;  Gill, L.M.;  Guthrie, W.F.;  Liu, H.-K.;  Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+J.  Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+rial 
+[4]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Aug 2016). 
+
+available 
+
+(2008); 
+
+ 
+ 
+ 
+  
+Certificate Revision History:  09 August 2016 (Change expiration date; editorial changes); 03 January 2014 (Change expiration date; editorial 
+changes); 10 December 2009 (Original certificate date). 
+ 
+ 
+ 
+This  can  be
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+possession  is  current. 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 3278 
+
+Page 3 of 3 
+
+

@@ -1,0 +1,321 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2638a 
+ 
+Carbon Monoxide in Nitrogen 
+ 
+ ~—~*d 
+(Nominal Amount-of-Substance Fraction 5000 µmol/mol) 
+ 
+This certificate reports the certified values for Lot 55-G-XX. 
+
+00n 
+
+ (SRM) is a primary gas mixture 
+
+for which   the amount -of-substance fraction , 
+
+ 
+This Standard Reference Material
+expressed as concentration  [1], may be related to secondary working standards.  This SRM is intended for the 
+calibration of instruments used for carbon monoxide determinations and for other applications. 
+ 
+This SRM mixture is supplied in a DOT  3AL-specification aluminum (6061 alloy) cylinder with a water volume of 
+6 L.  Mixtures are shipped with a nominal pressure exceeding 12.4  MPa (1800 psig), which provides the user with 
+0.73 m3 (25.8 ft3) of useable mixture.  The cylinder is the property of the purchaser and is equip ped with a CGA-350 
+brass valve, which is the recommended outlet for this carbon monoxide mixture.   
+ 
+Certified Value:  This SRM mixture has been certified for carbon monoxide concentration.  The certified value given 
+below applies to the identified cylinder and NIST sample number.  
+
+ide 
+
+ 
+
+ 
++
+
+Carbon Monoxide Concentration: 
+
+4957.9 µmol/mol  ±  7.4 µmol/mol 
+
+Cylinder Number:  SAMPLE 
+Hydrotest Date:  January 2016 
+
+\MPLE 
+NIST Sample Number:  SAMPLE 
+Blend Date: October 2018 
+
+ 
+ 
+ 
+ 
+ 
+ccuracy in that all known or 
+A NIST certified value is a value for which NIST has the highest confidence in its a
+suspected sources of bias have been investigated or taken into account
+ [2].   The uncertainty of the cert ified value 
+includes the estimated uncertainties in the NIST standards, the analytical c omparisons to the lot standard (LS), and 
+the uncertainty of comparing the LS with each of the mixtures comprising this lot.  The uncertainty is expressed as an 
+expanded uncertainty U = kuc with uc determined by experiment and a coverage factor  k = 2.04.  The true value for 
+the carbon monoxide amount-of-substance fraction is asserted to lie in the interval defined by the certified v alue ± U 
+with a level of confidence of approximately 95 % [3]. 
+ 
+Expiration of Certification:  The certification of SRM 2638a Lot No. 55-G-XX is valid from this certificate issue 
+date, within the measurement uncertainties specified , until 18 September 2027, provided the SRM is handled and 
+stored in accordance with the instructions given in this  certificate (see “Cylinder and Gas Handling Information”) .  
+The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Cylinder and Gas Handling Information:  NIST recommends the use of a high-purity, two-stage pressure regulator 
+with a stainless-steel diaphragm and CGA-350 outlet to safely reduce the pressure and to deliver this SRM mixture to 
+the instrument.   The regulator should be purged to prevent accidental contamination of the 
+SRM  by repeatedly 
+(minimum three times) opening the valve and pressurizing the regulator, then closing t
+he valve and releasing the 
+pressure safely into a vent line .    This SRM should not be used   after the internal pressure drops   below  0.7 MPa 
+(100 psig).  This SRM should be stored under normal laboratory conditions within the temperature ran ge of 15 ºC to 
+30 ºC. 
+ 
+Overall direction and coordination of the technical work required for certification of
+J.T. Hodges of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+Gaithersburg, MD  20899  
+Certificate Issue Date:  25 February 2020 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ this SRM were performed by 
+
+cal  Sciences
+
+Page 1 of 3 
+
+  
+
+SRM 2638a  
+
+W 
+
+ff  carbon  monoxide  | 
+
+Office  of  Reference 
+T  Office of Reference 
+
+ 
+Analytical measurements leading to the certification of th e current SRM lot were performed by  W.R. Miller of the 
+NIST Chemical Sciences Division.   
+ 
+Support aspects involved in the issuance of this SRM were coordinated through the NIS
+Materials. 
+ 
+Traceability:   The measurand is the total concentration of carbon monoxide  in nitrogen and the  certified value is 
+metrologically traceable to the SI unit of micromole s of carbon monoxide per total moles of  carbon monoxide and 
+nitrogen. 
+ 
+Maintenance of SRM Certification:  Periodic analyses of SRM units from this lot are performed at NIST to monitor 
+stability.  If significant changes occur that affect the certification before  the expiration of this  certificate, NIST will 
+notify the purchaser. Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Mixture Preparation:  The gas mixtures comprising this SRM lot were prepared in accordance with NIST technical 
+specifications by a commercial specialty gas vendor under contract to NIST.  Th e specifications stipulate that each 
+SRM mixture be identical in carbon monoxide concentration and stable with time. 
+ 
+Analytical Methods:   Analyses of the carbon monoxide  concentration for this lot of cylinders were conducted by 
+comparing each cylinder mixture to a representative cylinder chosen from the lot, the LS, using a gas chromatograph 
+equipped with a thermal conductivity detector (GC/TCD) to primary gravimetric standards.   
+ 
+Homogeneity Analysis:  Each of the carbon monoxide mixtures that comprise this SRM lot was compared to the LS 
+using a GC/TCD.  A statistical analysis of the analytical results indicated that sample
+-to-sample carbon monoxide 
+concentration differences were not statistically significant.  This indicates tha
+measurements, all of the cylinders comprising this SRM lot have identical 
+Therefore, one concentration has been assigned to the entire SRM lot.  
+  
+Assignment: 
+Carbon Monoxide Concentration Value Assignment:  The certified carbon monoxide concentration for this SRM 
+lot was computed from the assigned concentration for the lot standard and the homogeneity analysis. 
+ 
+CAS Registry Number s:   This SRM is certified for   carbon monoxide   in nitrogen.  The re levant CAS Registry 
+numbers for these components are: carbon monoxide CAS Registry 630-08-0; nitrogen CAS Registry 7727-37-9. 
+ 
+Information Values:  Results for additional analyses performed during the certification process are given below.  The 
+ional purposes only.  An 
+concentrations reported are NOT certified values.  These values are given for informat
+information value is considered to be a value that will be of intere
+st to the SRM user, but for which insufficient 
+information is available to assess adequa tely the uncertainty associated with the value, or only a limited number of 
+analyses were performed [3].   
+ 
+
+carbon monoxide   concentrations.  
+
+t, within the precision of the NIST 
+
+carbon  monoxide 
+
+carbon  monoxide 
+
+-bon  monoxide 
+
+for 
+
+- 
+
+- 
+
+-
+
+Constituent 
+
+CAS Registry 
+
+Concentration 
+ 
+
+Method 
+
+Carbon Dioxide 
+Water 
+Methane 
+Total other hydrocarbons (expressed as Methane) 
+Nitrogen 
+
+ 
+ 
+ 
+ 
+ 
+
+124-38-9 
+7732-18-5 
+74-82-8 
+74-82-8 
+7727-37-9 
+
+  < 1 µmol/mol 
+  < 1 µmol/mol 
+  < 50 nmol/mol 
+ < 100 nmol/mol 
+
+Balance 
+
+FTIR 
+P2O5 adsorption 
+FTIR(a) 
+GC/FID 
+not applicable 
+
+(a) Value determined by Manufacturer’s analysis. 
+ 
+ 
+
+ 
+
+SRM 2638a  
+
+Page 2 of 3 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.; Taylor,  B.N.;  Guide for the Use of the International System of Units
+
+Publication 811; U.S. Government Printing Office: Washington, DC
+https://www.nist.gov/pml/special-publication-811 (accessed Feb 2020). 
+
+ (SI); NIST Special 
+
+ (2008); available at 
+
+ (2000); available at 
+
+[2]  May, W., Parris, R., Beck, C., Fassett, J., Greenberg, R., Guenther, F., Kramer, G., Wise, S., Gills, T., Colbert, J., 
+Gettings, R., MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials for Chemical Measurements;  NIST Special Publication 260 -136, U.S. Government Printing Office; 
+Washington, DC
+https://www.nist.gov/system/files/documents/srm/SP260-
+136.PDF (accessed Feb 2020). 
+JCGM 100:2008;  Evaluation of Measurement Data 
+Measurement (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available 
+at https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Jan 2020); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note  1297; U.S. Government Printing Office: Washington,
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Feb 2020). 
+
+—  Guide to the Expression of Uncertainty in 
+
+ DC (1994); available at 
+
+[3] 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is
+accomplished by contacting the SRM Program:  telephone
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+ (301) 975 -2200; fax  (301) 948 -3730; e -mail 
+
+ current.  This can be 
+
+SRM 2638a  
+
+Page 3 of 3 
+
+

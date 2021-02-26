@@ -1,0 +1,479 @@
+﻿%
+,
+ 
+
+“
+a
+q
+ 
+
+«
+ 
+
+u
+s
+t
+ 
+
+O
+ 
+
+Stares  oF 
+
+% 
+
+<
+ 
+C
+E
+ 
+
+*
+ 
+
+Y
+o
+,
+ 
+
+M
+e
+y
+ M
+y
+,
+ 
+
+National Institute of Standards & Technology
+
+Certificate of Analysis
+Standard Reference Material 1990
+
+Single Crystal Diffractometer Alignment Standard - Ruby Sphere
+
+Standard  Reference  Material  (SRM)  1990  is  intended  primarily  for  use  as  an  alignment  standard  for  single  crystal
+diffractometry.  One unit consists of three chromium-doped single crystal aluminum oxide (ruby) spheres. The spheres
+are nominally 152 µm in diameter with 1.3 µm sphericity.  The spherical geometry was chosen to facilitate alignment and
+to avoid corrections for absorption.  These spheres produce reflections at high angles for copper and molybdenum
+radiation.  The space group is R3c.
+
+Certified Values and Uncertainties:  The certified lattice parameters of SRM 1990 at 25 °C are:
+
+a:  0.476080 nm ± 0.000029 nm
+c:  1.299568 nm ± 0.000087 nm
+
++
+1
+
++
+1
+ 
+
+The certified values were obtained using λ (CuKα1 ) = 0.154059292 (45) nm, and  λ (MoKα1 ) = 0.070931631 (84) nm [1,2].
+ The estimated total uncertainty is an expanded uncertainty with a coverage factor, k  = 3.18 (the resulting interval is an
+approximate 95 % confidence level), and accounts for (1) uncertainty due to a small variation in chromium content, (2)
+random errors of measurement, and (3) the small uncertainty in λ (CuKα1) and λ (MoKα1) [3].  Other systematic effects
+such as absorption, extinction, and divergence were not found to be significant and are not included in the uncertainty
+estimate.
+
+Expiration of Certification:  The certification of this SRM is valid indefinitely within the measurement uncertainties
+specified, provided the SRM is used in accordance with the instructions in this certificate.  However, the certification will
+be nullified if the SRM is physically damaged, contaminated, or otherwise altered.  If alteration is suspected, discontinue
+use and purchase a new unit.  This SRM is a physical artifact, the physical properties of which are inherently stable under
+normal laboratory and usage conditions. 
+
+Reference Value:  SRM 1990 may also be used as a reference for chromium content.  The spheres contain 0.42 % ± 0.01 %
+chromium oxide (Cr2O3) expressed as a mole fraction, where the uncertainty represents an expanded uncertainty.  The
+chromium content was measured using a microprobe, while specimen-to-specimen variability was measured by scanning
+electron microscope energy dispersive spectroscopy.
+
+Technical coordination leading to certification of this SRM was provided by W. Wong-Ng of the NIST Ceramics Division
+with significant contributions from T. Siegrist of Lucent Technologies, Murray Hill, NJ.
+
+Statistical consultation was provided by M.S. Levenson of the NIST Statistical Engineering Division. 
+
+Measurements of the chromium content were provided by J.T. Armstrong of the NIST Microanalysis Science Division
+and L.P. Cook of the NIST Ceramics Division.
+
+The support aspects concerning the preparation, certification, and issuance of this SRM were coordinated through the
+NIST Standard Reference Materials Program by R.J. Gettings and C.R. Beauchamp.
+
+Gaithersburg, MD 20899
+Certificate Issue Date:  28 February 2001
+
+Stephen W. Freiman, Chief
+Ceramics Division
+
+Nancy M. Trahey, Chief
+Standard Reference Materials Program
+
+SRM 1990
+
+Page 1 of 4
+
+Organization of the round robin project and demonstration of the viability of the ruby spheres were provided by G.T.
+ DeTitta of Hauptman-Woodward Medical Research Institute, Buffalo, NY and L. Finger of the Geophysical Laboratory,
+Washington, DC.
+
+Preparation and Certification Procedures:  A boule of single crystal ruby, supplied by Arcanum Corporation, Ann
+Arbor, MI, was prepared by using the Verneuil technique (flame fusion) then ground into small spheres [4]. Four sets of
+spheres were measured, both at NIST and by cooperating laboratories, on three Enraf-Nonius CAD-4 diffractometers and
+on a Picker diffractometer using both molybdenum and copper radiation 1.  A total of 39 spheres were measured to obtain
+45 data sets.  The diffractometer control program, DIFRAC, developed at the National Research Council of Canada (NRC),
+was used for data collection and reduction for all data sets [5].  The CuKα1  and MoKα1 peak positions were determined
+by fitting the profiles of high angle peaks.  Lattice parameters were obtained using least squares methods.  Corrections
+for thermal expansion [6] and refraction [7] were applied to convert the data to 25  °C for each sample.  The thermal
+expansion coefficients used were αa = 5.0 x 10-6 deg-1 and αc = 6.66 x 10-6 deg-1 [6].  These lattice parameters were verified
+by a powder diffraction study conducted at the U.S. Geological Survey on 60 crushed spheres using the Guinier-Hägg
+transmission technique [8].
+
+Instructions for Use:  Select one of the spheres, clean off adhesive using acetone or alcohol, and mount securely on the
+tip of a fiber (or capillary tube) about 0.1 mm in diameter using a minimum amount of adhesive material in the area of
+contact between the sphere and the fiber.  Additional spheres are provided in the event of loss.  This SRM is intended
+for use at ambient conditions.  With appropriate thermal expansion corrections, the SRM can be used under non-ambient
+temperature conditions.
+
+Table 1 lists information values for high-angle 2θ reflections to obtain both the initial sphere orientation and to accurately
+align the diffractometer.  The h, k, and l values are the Miller indices, M is the multiplicity, and Fc is the calculated
+structure amplitude.  The 2θ values are derived from the certified lattice parameters of the ruby spheres by using the PC
+version  (MICRO-POWD)  of  computer  software  POWD10  [9].    The  structure  amplitudes  are  listed  to  serve  as  an
+approximate guide of the relative intensity of these reflections.  These reflections, and symmetrically equivalent ones,
+should be selected such that the Miller indices h, k, and l are evenly distributed in reciprocal space.  The same reflection
+should be measured at some or all of the eight possible diffractometer settings.  It is recommended that the alignment
+routine incorporates the algorithm by King and Finger for calculating various alignment corrections [10].
+
+Table 1. Information Values for High Angle 2θ Reflections
+ 
+
+(A)  For initial orientation
+
+h    k    l
+2
+0 1
+4
+1 0
+0
+1 1
+6
+0 0
+3 0
+0
+0 0 12
+
+M
+6
+6
+6
+2
+6
+2
+
+Fc
+47
+83
+61
+13
+141
+57
+
+2θCuKα1 (°)
+25.567
+35.139
+37.762
+41.665
+68.180
+90.678
+
+2θMoKα1 (°)
+11.694
+15.978
+17.137
+18.848
+29.910
+38.232
+
+                                                
+
+1
+
+Certain commercial equipment, instruments, or materials are identified in this report to specify adequately the experimental procedure. Such
+
+identification does not imply recommendation or endorsement by NIST, nor does it imply that the materials or equipment identified are necessarily the best
+available for the purpose.
+
+SRM 1990
+
+Page 2 of 4
+
+(B) For accurate alignment
+
+2θMoKα1 (°)
+
+2θCuKα1 (°)
+91.144
+95.203
+98.342
+101.031
+103.262
+110.931
+114.010
+116.030
+116.553
+117.777
+121.956
+127.605
+129.802
+131.031
+135.971
+142.225
+145.049
+149.060
+149.986
+150.300
+152.239
+
+h   k    l
+4
+1 3
+6
+2 2
+0 4
+2
+2 1 10
+4
+4 0
+8
+3 1
+9
+2 2
+3 2
+4
+0 1 14
+0
+4 1
+4 1
+3
+1 3 10
+3 0 12
+2 0 14
+4 1
+6
+1 1 15
+4 0 10
+4
+0 5
+1 2 14
+1 0 16
+3 3
+0
+0 4 20
+5 1 16
+7 1
+0
+7 0 10
+3 3 18
+1 7
+6
+1 1 24
+4
+5 4
+6 3
+0
+4
+0 8
+4 2 20
+2 2 24
+2 6 14
+4
+8 1
+3 4 20
+6 1 20
+4 6 10
+7 3 10
+0 7 20
+0 0 30
+5 2 24
+3 0 30
+1 9 10
+
+M
+12
+12
+6
+12
+6
+12
+12
+12
+6
+6
+12
+12
+6
+6
+12
+12
+6
+6
+12
+6
+6
+6
+12
+6
+6
+12
+12
+12
+12
+6
+6
+12
+12
+12
+12
+12
+12
+12
+12
+6
+2
+12
+6
+12
+
+Fc
+51
+74
+38
+64
+38
+36
+30
+64
+52
+47
+26
+66
+41
+58
+56
+29
+69
+56
+52
+32
+79
+42
+28
+26
+50
+36
+29
+41
+32
+42
+32
+26
+37
+34
+32
+38
+30
+36
+41
+39
+44
+29
+40
+26
+
+80.363
+80.798
+80.998
+82.767
+83.234
+84.097
+84.397
+85.789
+86.120
+88.336
+90.584
+92.038
+93.525
+95.978
+98.243
+103.425
+105.883
+108.546
+108.721
+109.913
+115.794
+118.280
+119.713
+
+SRM 1990
+
+Page 3 of 4
+
+Cooperating Round Robin Laboratories:
+
+Geophysical Laboratory, Washington, DC; L. Finger
+Hauptman-Woodward Medical Research Institute, Buffalo, NY; G.T. DeTitta
+Lucent Technology, Murray Hill, NJ; T. Siegrist
+National Research Council of Canada, Ottawa, Ont; G.D. Enright
+National Research Council of Canada, Ottawa, Ont; E.J. Gabe
+Oak Ridge National Laboratory, Oak Ridge, TN; C.R. Hubbard
+U.S. Geological Survey, Reston, VA; H. Evans
+
+REFERENCES
+
+[1]   Härtwig, J., Hölzer, G., Förster, E., Goetz, K., Wokulska, K., and Wolf, J., “Remeasurement of Characteristic X-ray
+Emission Lines and Their Application to Line Profile Analysis and Lattice Parameter Determination,” Phys. Stat.
+Sol. A 143, p. 23, (1994).
+
+[2]   Cohen, E.R. and Taylor, B.N., “The 1986 Adjustment of the Fundamental Physical Constants,” Rev. Mod. Phys. 59,
+
+p. 1121, (1987).
+
+[3]   Taylor, B.N. and Kuyatt, C.E., “Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurements,”
+NIST  Tech.  Note  1297,  U.S.  Government  Printing  Office,  Washington  DC,  (1994);  available  at
+http://physics.nist.gov/Pubs/.
+
+[4]   Hurle, D.T.J., “Melt Growth,” in Crystal Growth:  An Introduction, edited by P. Hartman, North-Holland Publishing
+
+Company, p. 215, (1973).
+
+[5]   DIFRAC, software suite for data collection and reduction of x-ray single crystal diffractometers, developed by E.
+
+Gabe, et al. at the National Research Council (NRC) in Ottawa, Canada.
+
+[6]   Belyaev, L.M., “Ruby and Sapphire,” Nauka Publishers, Moscow, translated from Russian, National Bureau of
+
+Standards, National Science Foundation, and Amerind Publishing Co. Pvt. Ltd., New Delhi, India, p. 7, (1980).
+
+[7]   Hubbard, C.R. and Mauer, F.A., “Precision and Accuracy of the Bond Method as Applied to Small Spherical
+
+[8]   Hägg, G. and Ersson, N.O., “An Easily Adjustable Guinier Camera of Highest Precision,” Acta Cryst. A25, Sppl. p.
+
+Crystals,” J. Appl. Cryst.  9, p. 1,  (1976).
+
+S64, (1960).  
+
+[9]   Smith, D.K., Nichols, M.C., and Zolensky, M.E., “A FORTRAN IV Program for Calculating X-ray Powder Diffraction
+
+Patterns-Version 10,” The Pennsylvania State University, University Park, PA, p. 72, (1983).
+
+[10] King,  H.E.  and  Finger,  L.W.,  “Diffracted  Beam  Crystal  Centering  and  Its  Application  to  High  Pressure
+
+Crystallography,” J. Appl. Crystallography, 12, p. 374, (1979).
+
+Users of this SRM should ensure that the certificate in their possession is current. This can be accomplished by
+contacting the SRM Program at:  telephone (301) 975-6776,  fax (301) 926-4751, e-mail srminfo@nist.gov, or via the
+Internet www.nist.gov/srm.
+
+SRM 1990
+
+Page 4 of 4
+
+

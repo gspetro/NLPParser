@@ -1,0 +1,619 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 909c 
+
+ 
+
+ 
+Frozen Human Serum 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination  of  specified  constituents  in  human  serum.   This  SRM  can  also  be  used  for  quality  assurance  when 
+assigning values to in-house control materials.  A unit of SRM 909c consists of three vials, each containing 2 mL of 
+frozen human serum. 
+ 
+Certified Concentration Values:  Certified concentration values for selected constituents are provided in Table 1.  A 
+NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or taken into account [1].  The certified concentrations were determined using 
+higher-order  reference  measurement  procedures [2]  calibrated  with  NIST  high-purity  neat  or  primary  standard 
+solution SRMs; the uncertainties are expanded uncertainties at the 95 % level of confidence [3].  The measurands are 
+the constituents listed in Table 1 in human serum.  The certified values are metrologically traceable to SI units for 
+amount  of  substance  and  mass,  expressed  both  in  mass  concentrations  (milligrams  per  deciliter,  micrograms  per 
+deciliter, nanograms per milliliter, or grams per liter) and amount concentration (nanomoles per liter or micromoles 
+per liter). 
+ 
+Reference Concentration Values:  Reference concentration values for total protein and transferrin glycoforms are 
+provided in Table 2.  A NIST reference value is a noncertified value that does not meet NIST criteria for certification 
+and is provided with associated uncertainties that may reflect only measurement precision, may not include all sources 
+of uncertainty [1], or may reflect a lack of sufficient statistical agreement among multiple methods.  The measurands 
+are the constituents listed in Table 2 in human serum.  The reference value for total protein is metrologically traceable 
+to SI unit for mass, expressed in mass concentration (grams per liter) as realized by the method used.  The reference 
+values for transferrin glycoforms are metrologically traceable to SI unit for mass, expressed as mass fraction in percent, 
+as realized by the methods used. 
+ 
+Expiration of Certification:  The certification of SRM 909c is valid, within the measurement uncertainty specified, 
+until  15 October 2025, provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage, Handling, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Biomolecular 
+Overall  direction  and  coordination  of  the  analyses  was  performed  by  K.W. Phinney  of  the  NIST  Biomolecular 
+Measurement Division and S.E. Long of the NIST Chemical Sciences Division. 
+ 
+Acquisition and preparation of this SRM were coordinated by K.W. Phinney.  Analytical measurements were performed 
+by  G. Ballihaut,  T.A. Butler,  J. Camara,  W.C. Davis,  S.E. Long,  Y. Nuevo Ordóñez,  K.W. Pratt,  J.L. Prendergast, 
+S.A. Rabb, L.T. Sniegoski, T.W. Vetter, M.J. Welch, and L.L. Yu of the NIST Chemical Sciences Division. 
+ 
+Consultation on the statistical design of the experimental work and evaluation of the data was provided by J.H. Yen 
+and N.-F. Zhang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  07 July 2017 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+NIST 
+
+Was
+
+ 
+
+Page 1 of 5 
+
+  
+
+SRM 909c 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 909c  IS  INTENDED  FOR  LABORATORY  USE  ONLY.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.  
+HANDLE  PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS 
+DISEASE.  The supplier has reported that each donor unit of plasma used in the preparation of this product was tested 
+by FDA-licensed tests and found to be negative for human immunodeficiency virus (HIV), HIV-1 antigen, hepatitis B 
+surface antigen, and hepatitis C.  However, no known test method can offer complete assurance that hepatitis B virus, 
+hepatitis C virus, HIV, or other infectious agents are absent from this material.  Accordingly, this human blood-based 
+product should be handled at the Biosafety Level 2 or higher as recommended for any POTENTIALLY INFECTIOUS 
+HUMAN SERUM OR BLOOD SPECIMEN in the Centers for Disease Control and Prevention/National Institutes of 
+Health (NIH) Manual [4]. 
+ 
+STORAGE,
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+ 
+Storage:  The SRM should be stored at –60 °C or lower in the original unopened vials. 
+ 
+Handling and Use:  SRM 909c is provided as frozen serum that should be allowed to thaw at room temperature for 
+at least 30 min under subdued light.  After the material is thawed, it should be used immediately.  The contents of the 
+vial should then be gently mixed prior to removal of a test portion for analysis.  Precautions should be taken to avoid 
+exposure to strong UV light and direct sunlight. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  SRM 909c was prepared from “off-the-shelf” plasma that was then converted to serum 
+by Aalto Scientific, Ltd. (Carlsbad, CA).  There were no age or gender requirements for donors. 
+ 
+Analytical Approach for Determination of Cholesterol and Total Glycerides:  Cholesterol was determined using 
+the  NIST  isotope  dilution  gas  chromatography – mass  spectrometry (ID GC-MS)  reference  method [5,6].    This 
+method  is  an  approved  higher-order  reference  measurement  procedure  according  to  the  Joint  Committee  for 
+Traceability  in  Laboratory  Medicine (JCTLM) [7].  This  procedure  employs  hydrolysis  of  cholesterol  esters  using 
+potassium  hydroxide  in  ethanol,  followed  by  extraction  with  hexane,  and  derivatization  of  cholesterol  using 
+bis(trimethylsilyl)acetamide [6].  Cholesterol-25,26,27-13C3 was used as the internal standard.  Total glyceride mass 
+fractions were determined using the NIST ID GC-MS reference method described in reference [8] and approved by 
+the  JCTLM  as  a  higher-order  reference  method.    The  method  involves  hydrolysis  of  triglycerides,  deionization, 
+reaction with butylboronic acid in pyridine, and derivatization  with N-methyl-N-trimethylsilyltrifluoroacetamide.  
+Tripalmitin-1,2,3-13C3 was used as the internal standard. 
+ 
+Analytical Approach for Determination of Creatinine:  Creatinine was determined using an isotope dilution liquid 
+chromatography  –  mass  spectrometry (ID LC-MS) method [9]  that  is  similar  to  a  method [10]  developed  at  the 
+Laboratory  of  the  Government  Chemist (LGC)  and  is  approved  by  the  JCTLM  as  a  higher-order  reference 
+measurement procedure. 
+ 
+Analytical Approach for Determination of Electrolytes:  Chloride was determined using a NIST micro-coulometric 
+titration method in which the chloride was reacted quantitatively with Ag+ ion that was coulometrically generated at a 
+silver  anode.    The  data  were  corrected  for  the  presence  of  other  electro-active  interferents,  including  bromide.  
+Calcium,  magnesium,  and  potassium  were  determined  using  an  isotope  dilution  sector  field  inductively  coupled 
+plasma-mass spectrometry (ID ICP-MS) primary method involving spiking with stable isotopes of 42Ca, 41K and 26Mg 
+followed by oxidative equilibration using microwave dissolution [11].  Value assignment for sodium was based on 
+the combined results from two analytical methods.  The first consisted of an ion exchange gravimetric method [12] 
+involving microwave digestion of the SRM 909c serum, followed by separation of the sodium fraction on a cation 
+exchange  column  and  addition  of  high-purity  sulfuric  acid  to  form  Na2SO4.    The  amount  of  Na2SO4  was  then 
+gravimetrically determined after evaporation to dryness in a platinum crucible.  A second method using inductively 
+coupled plasma optical emission spectrometry (ICP-OES) was also used which consisted of microwave digestion of 
+the serum with nitric acid.  Manganese was used as an internal standard. 
+ 
+ 
+
+                                                           
+
+(1)  Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+
+SRM 909c 
+
+Page 2 of 5 
+
+by 
+
+dilution 
+
+coupled 
+
+determined 
+
+inductively 
+
+glycoforms  were 
+
+Analytical Approach for Determination of Iron:  Total iron was determined by isotope dilution inductively coupled 
+plasma - mass spectrometry (ID ICP-MS).  The method involved spiking the serum samples with  57Fe, microwave 
+digestion, and dilution with water. 
+ 
+Analytical  Approach  for  Determination  of  Selenium:    Total  selenium  was  determined  by  isotope  dilution 
+inductively coupled plasma - mass spectrometry (ID ICP-MS).  The method involved spiking the serum samples with 
+77Se, microwave digestion, and dilution with butanol in water. 
+ 
+Analytical  Approach  for  Determination  of  Transferrin  and  Transferrin  Glycoforms:    Total  transferrin  and 
+transferrin 
+plasma - mass 
+isotope 
+spectrometry (ID ICP-MS) [13].  The method involved saturation of the serum transferrin with iron and separation of 
+individual transferrin glycoforms by SCX chromatography.  Quantitation was based upon ID by either introducing a 
+57Fe spike post column or directly spiking the serum samples with an in-house prepared transferrin spike in which 57Fe 
+had  been  bound  to  the  protein.    Transferrin  glycoforms  were  determined  by  the  mass  fraction  of  each  individual 
+glycoform expressed as a percentage of the total transferrin. 
+ 
+Analytical Approach for Determination of Urea and Uric Acid:  Urea was determined using a modification of the 
+ID GC-MS  method  described  in  reference [14],  approved  by  the  JCTLM,  in  which  the  serum  was  spiked  with 
+urea-18O, passed through a solid-phase extraction cartridge, concentrated, then derivatized to 6-methyluracil overnight.  
+Uric acid was determined using a modification of the ID GC-MS method described in reference [15], approved by 
+JCTLM  as  a  higher-order  reference  method.    Serum  samples  were  spiked  with  uric  acid-15N2,  mixed  with 
+0.001 mol/L ammonium  hydroxide,  passed  through  a  strong  anion  exchange  resin,  eluted  from  the  column  with 
+1 mol/L acetic acid, freeze-dried, and derivatized with N-(t-butyldimethylsilyl)-N-methyltrifluoroacetamide. 
+ 
+Analytical  Approach  for  Determination  of  Total  Protein:    Total  protein  was  determined  using  the 
+JCTLM-approved reference method for total serum protein [16].  The measurements were calibrated using SRM 927d 
+Bovine Serum Albumin (7 % Solution) as the reference standard. 
+ 
+Homogeneity Assessment:  The homogeneity of all analytes was assessed at NIST using the methods and test portion 
+sizes described above; analysis of variance did not show statistically significant heterogeneity. 
+ 
+Value Assignment:  Each certified or reference value is the weighted mean of measurement means from each method 
+used.  The measured serum density is 1.024 12 g/mL with a standard deviation of 0.000 09 g/mL; this uncertainty was 
+incorporated in values that are reported relative to units of volume. 
+ 
+ 
+
+fall  analytes
+
+SRM 
+
+ 
+
+SRM 909c 
+
+Page 3 of 5 
+
+Table 1.  Certified Concentration Values in SRM 909c(a) 
+
+Analyte 
+
+Concentration 
+(mmol/L) 
+
+Concentration 
+(mg/dL) 
+
+Coverage Factor, 
+k 
+
+Cholesterol 
+Creatinine 
+Total Glycerides 
+Urea 
+Uric Acid 
+Calcium (Ca) 
+Chloride (Cl) 
+Magnesium (Mg) 
+Potassium (K) 
+Sodium (Na) 
+
+ 
+
+Iron (Fe) 
+ 
+
+Selenium (Se) 
+ 
+
+  3.703  ± 
+0.081 
+  0.072 89 ±  0.001 61 
+0.017 
+  1.214  ± 
+0.089 
+  4.321  ± 
+0.006 
+  0.278  ± 
+0.027 
+  2.520  ± 
+0.21 
+± 
+ 105.88 
+0.006 6 
+  0.895 3  ± 
+0.069 
+  4.160  ± 
+0.25 
+± 
+ 141.84 
+
+143.2 
+
+±  3.1 
+
+0.824 5 ±  0.018 2 
+
+107.5 
+
+25.95 
+4.68 
+10.10 
+375.37 
+
+±  1.5(b) 
+±  0.53 
+±  0.10 
+±  0.11 
+±  0.74 
+
+2.176  ±  0.016 
+
+16.27 
+326.10 
+
+±  0.27 
+±  0.57 
+
+(µmol/L) 
+
+(µg/dL) 
+
+  16.18 
+
+ 
+
+0.70 
+
+90.34 
+
+±  3.89 
+
+(µmol/L) 
+
+(ng/mL) 
+
+  1.503 
+
+± 
+
+0.035 
+
+118.7 
+
+±  3.3 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+2 
+2.1 
+2 
+2 
+2.01 
+2 
+2 
+2.18 
+2 
+ 
+
+2.26 
+ 
+
+2 
+ 
+
+2 
+
+Total Transferrin (Tf) 
+
+ 
+
+ 
+
+(g/L) 
+
+2.28 
+
+±  0.11 
+
+ 
+(a)  Each  certified  concentration  value  is  the  mean  or  combination  of  means  of  results  provided  by  ID LC-MS,  ID GC-MS, 
+ID ICP-MS,  ICP-OES,  micro-coulometry  and  ion  exchange-gravimetry.    The  uncertainty  provided  with  each  value  is  an 
+expanded  uncertainty  about  the  mean  to  cover  the  measurand  with  approximately  95 % confidence,  consistent  with  the 
+ISO/JCGM Guide [3].  The expanded uncertainty is calculated as U = kuc, where uc is the combined uncertainty that incorporates 
+within-method uncertainty and Type B uncertainty components related to the analysis, and k is the coverage factor corresponding 
+to approximately 95 % confidence for each analyte [3].  For estimates based on multiple methods, the combined uncertainty also 
+incorporates between-methods uncertainty [17,18]. 
+
+(b) Results in milligrams per deciliter are expressed as the equivalent concentration of triolein. 
+ 
+
+Table 2.  Reference Concentration Values in SRM 909c(a) 
+ 
+
+ 
+
+ 
+
+Analyte 
+
+Total Protein 
+
+ 
+
+ 
+ 
+
+Disialo Tf 
+
+Trisialo Tf 
+
+Tetrasialo Tf 
+
+Pentasialo Tf 
+
+Hexasialo Tf 
+
+Concentration 
+(g/L) 
+
+69.0 
+
+± 
+
+2.0 
+
+Mass Fraction(b) 
+(%) 
+
+1.61  ± 
+
+0.10 
+
+3.93  ± 
+
+0.21 
+
+76.93  ± 
+
+5.09 
+
+16.00  ± 
+
+4.84 
+
+1.71  ± 
+
+0.14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coverage Factor, k 
+
+2 
+
+ 
+
+ 
+ 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+ 
+e  uncertainty  provided  is  an  expanded 
+(a) The reference concentration value is the weighted mean of results from a single method.  The uncertainty provided is an expanded 
+istent  with  the  ISO/JCGM
+uncertainty  about  the  mean  to  cover  the  measurand  with  approximately  95 %  confidence,  consistent  with  the  ISO/JCGM 
+Guide [3].    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc  is  the  combined  uncertainty  that  incorporates 
+within-method uncertainty and Type B uncertainty components related to the analysis, and k is the coverage factor corresponding 
+to approximately 95 % confidence for each analyte [3]. 
+
+the 
+
+(b) Mass percent is based on total transferrin. 
+ 
+
+SRM 909c 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Jul 2017). 
+
+[3] 
+
+[2]  NCCLS; Development of Definitive Methods for the National Reference System for the Clinical Laboratory, 
+Approved Guideline; NCCLS Publication NRSCL 1-A; National Committee for Clinical Laboratory Standards: 
+Wayne, PA (1991). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jul 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/sites/default/files/documents/2017/05/09/tn1297s.pdf (accessed Jul 2017). 
+
+[4]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington,  D.C.  (2007);  available  at  http://www.cdc.gov/biosafety/publications/index.htm  (accessed 
+Jul 2017). 
+
+[5]  Ellerbe, P.;  Meiselman, S.;  Sniegoski, L.T.;  Welch, M.J.;  White V,E.;  Determination  of  Serum  Cholesterol  
+by  a  Modification  of  the  Isotope  Dilution  Mass  Spectrometric  Definitive  Method;  Anal.  Chem.,  Vol. 61,  
+pp. 1718–1723 (1989). 
+
+[6]  Cohen, A.;  Hertz, H.S.;  Mandel, J.;  Paule, R.C.;  Schaffer, R.;  Sniegoski, L.T.;  Sun, T.;  Welch, M.J.; 
+White V, E.; Total Serum Cholesterol by Isotope Dilution Mass Spectrometry: A Candidate Definitive Method; 
+Clin. Chem., Vol. 26, pp. 854–860 (1980). 
+
+ipectrometry:  A  Candidate  1 
+
+[7]  BIPM; 
+
+JCTLM: 
+
+Joint  Committee 
+
+on  Traceability 
+
+in  Laboratory  Medicine; 
+
+Medicine 
+
+tboratory 
+
+available 
+
+at 
+
+http://www.bipm.org/en/committees/jc/jctlm/ (accessed Jul 2017). 
+
+[8]  Ellerbe, P.; Sniegoski, L.T.; Welch, M.J.; Isotope Dilution Mass Spectrometry as a Candidate Definitive Method 
+for Determining Total Glycerides and Triglycerides in Serum; Clin. Chem., Vol. 41, pp. 397–404 (1995). 
+[9]  Dodder, N.G.; Tai, S.S.C.; Sniegoski, L.T.; Zhang, N.-F; Welch, M.J.; Certification of Creatinine in a Human 
+
+Serum Reference Material by GC-MS and LC-MS; Clin. Chem., Vol. 53, pp. 1694–1699 (2007). 
+
+[10]  Stokes, P.;  O’Connor, G.;  Development  of  a  Liquid  Chromatography  -  Mass  Spectrometry  Method  for  the 
+High-Accuracy Determination of Creatinine in Serum; J. Chromatogr. B., Vol. 794, pp. 125–136 (2003). 
+[11]  Yu, L.L.; Clay Davis, W.C.; Ordonez, Y.N.; Long, S.E.; Fast and Accurate Determination of K, Ca, and Mg in 
+of  K,  Ca,  and  Mg  in 
+
+Human Serum by Sector Field ICP-MS; Anal. Bioanal. Chem., Vol. 405, pp. 8761–8768 (2013). 
+
+[12]  Moody, J.R.;  Vetter, T.;  Development  of  the  Ion  Exchange-Gravimetric  Method  for  Sodium  in  Serum  as  a 
+
+Definitive Method; J. Res. Natl. Inst. Std. Tech., Vol. 101, pp. 155–164 (1996). 
+
+[13]  Nuevo Ordóñez, Y.;  Anton, R.F.;  Davis, W.C.;  Quantification  of  total  serum  transferrin  and  transferrin 
+sialoforms in human serum; an alternative method for the determination of carbohydrate-deficient transferrin 
+in clinical samples; Anal, Methods, Vol. 6, pp. 3967–3974 (2014). 
+
+[14]  Welch, M.J.; Cohen, A.; Hertz, H.S.; Ruegg, F.C.; Schaffer, R.; Sniegoski, L.T.; White V.E.; Determination of 
+Serum Urea by Isotope Dilution Mass Spectrometry as a Candidate Definitive Method; Anal. Chem., Vol. 56, 
+pp. 713–719 (1984). 
+
+[15]  Ellerbe, P.; Cohen, A., Welch, M.J., White V.E.; Determination of Serum Uric Acid by Isotope Dilution Mass 
+
+Spectrometry as a New Candidate Definitive Method; Anal. Chem., Vol. 62, pp. 2173–2177 (1990). 
+
+[16]  Doumas, B.T.;  Bayse, D.D.;  Carter, R.J.;  Peters, Jr., T.;  Schaffer, R.;  A  Candidate  Reference  Method  for 
+
+Determination of Total Protein in Serum; Clin. Chem., Vol. 27, pp. 1642–1650 (1981). 
+
+[17]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the “Guide to Expression of Uncertainty 
+in  Measurement”  -  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jul 2017). 
+[18]  Efron, B; Tibshirani, R.J.; An introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+ 
+  
+ction  of  the 
+Certificate Revision History:  07 July 2017 (Addition of iron, transferrin, and iron status marker constituents in SRM 909c; correction of the 
+certified value for chloride; editorial changes) 25 August 2015 (Removal of glucose certified value; change of expiration date; editorial changes); 
+28 January 2015  (Addition  of  certified  values  for  selected  electrolytes,  update and  change  of  sodium  value  from  reference  to  certified  value, 
+editorial changes); 16 April 2013 (Added traceability information for total protein determination); 28 October 2011 (Correction of reference value 
+unit for total protein); 14 December 2010 (Original certificate issue date). 
+  
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+is  current. 
+fax 
+
+(301) 975-2200; 
+
+contacting 
+
+ 
+
+SRM 909c 
+
+Page 5 of 5 
+
+

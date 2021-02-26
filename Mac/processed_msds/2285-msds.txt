@@ -1,0 +1,686 @@
+﻿Date of Issue: 
+27 May 2015 
+ 
+
+SAFETY DATA SHEET 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+
+SRM Number:  2285 
+SRM Name:   
+Other Means of Identification:  Not applicable. 
+
+Ignitable Liquids Test Mixture 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the calibration of chromatographic 
+instrumentation  used  for  the  classification  of  an  ignitable  liquid  residue.    SRM  2285  is  a  solution  of 
+15  compounds,  including  even  carbon  number  aliphatic  hydrocarbons  from  hexane  to  tetracosane,  toluene, 
+p-xylene,  2-ethyltoluene,  3-ethyltoluene,  and  1,2,4-trimethylbenzene  in  methylene  chloride.    A  unit  of 
+SRM 2285 consists of five 2 mL ampoules, each containing approximately 1.2 mL of solution. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+ 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard:  Not classified. 
+Health Hazard: 
+ 
+ 
+ 
+
+Skin Corrosive/Irritation  Category 2 
+Eye Damage/Irritation 
+Carcinogenicity 
+STOT Single Exposure 
+
+Category 2A 
+Category 1B 
+Category 3 
+
+Label Elements 
+Symbol 
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+H315 
+H319 
+H350 
+H336 
+
+Causes skin irritation. 
+Causes serious eye irritation. 
+May cause cancer. 
+May cause drowsiness or dizziness. 
+
+Precautionary Statement(s) 
+P201 
+P202 
+P261 
+P264 
+P271 
+P280 
+P304+P340 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Avoid breathing fumes, mist, vapors, or spray. 
+Wash hands thoroughly after handling. 
+Use only outdoors or in a well-ventilated area. 
+Wear protective gloves, eye protection, and protective clothing. 
+If inhaled:  Remove person to fresh air and keep comfortable for breathing. 
+
+SRM 2285 
+
+ 
+
+Page 1 of 6 
+
+P312 
+P302+P352 
+P332+P313 
+P305+P351+P338 
+
+P337+P313 
+P362+P364 
+P308+P313 
+P403+P233 
+P405 
+P501 
+
+Call a doctor if you feel unwell. 
+If on skin: Wash with plenty of water. 
+If skin irritation occurs:  Get medical attention. 
+If in eyes:  Rinse eyes cautiously with water for several minutes.  Remove contact lenses, 
+if present and easy to do.  Continue rinsing. 
+If eye irritation persists:  Get medical attention. 
+Take off contaminated clothing and wash it before reuse. 
+If exposed or concerned: Get medical attention.  
+Store in a well-ventilated place.  Keep container tightly closed.  
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Methylene chloride 
+
+Other Designations:  Dichloromethane; methylene dichloride; DCM; CH2Cl2 
+
+Note:  This material contains trace amounts of 15 other compounds.  The concentrations are below the reportable 
+limit  for  hazardous  components  (1  %  or  greater)  and  carcinogens  (0.1  %  or  greater),  required  by  OSHA, 
+29 CFR 1910.1200 (g)(2)(i)(C)(1), for SDS information.  For actual concentrations, see the NIST Certificate of 
+Analysis. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+Methylene Chloride 
+
+75-09-2 
+
+200-838-9 
+
+>99 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:    If  adverse  effects  occur,  remove  to  well-ventilated  (uncontaminated)  area.    Give  artificial 
+respiration if not breathing.  Get immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing 
+and shoes.  Thoroughly clean and dry before reuse. Get medical attention, if needed. 
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes.  Then get immediate medical attention. 
+
+Ingestion:   If a large amount is swallowed, seek medical attention. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:  May  cause  eye  and  skin  irritation,  central  nervous 
+system depression, cancer; releases CO during detoxification. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Slight  fire  hazard.    See  Section  9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or alcohol-resistant foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be 
+done without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing 
+and NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 1 
+
+SRM 2285 
+
+ 
+
+Page 2 of 6 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Stop leak if possible without personal risk, with water 
+spray to reduce vapors.  Absorb spilled material with sand or non-combustible material and collect in appropriate 
+container for disposal.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Handle glass ampoules with care.  See Section 8, “Exposure Controls and Personal 
+Protection”. 
+
+Storage  and  Incompatible  Materials:    Store  in  a  well-ventilated  area.    Keep  separated  from  incompatible 
+substances (see Section 10, “Stability and Reactivity”). 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits 
+OSHA (PEL): 
+ 
+ 
+ 
+NIOSH (REL):    2300 ppm IDLH 
+ACGIH (TLV):    50 ppm TWA 
+
+25 ppm TWA 
+125 ppm STEL 15 min 
+12.5 ppm Action Level 
+see 29 CFR 1910.1052 
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program 
+that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified 
+respirators. 
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended. 
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+ 
+
+Descriptive Properties 
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate (butyl acetate = 1) 
+Melting point/freezing point 
+Relative Density (water = 1) 
+Density 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+
+ 
+
+ 
+84.93 
+CH2Cl2 
+clear, colorless liquid 
+chloroform-like odor 
+25 ppm to 50 ppm 
+not available 
+27.5  
+–95 °C (–139 °F) 
+1.3266 
+not available 
+400 mmHg at 24 °C 
+2.9 
+0.441 cP at 20 °C 
+water:  1.32 % at 20 °C; 
+miscible with alcohols, ether, dimethylformamide, phenols, 
+aldehydes,  ketones,  acetic  acid, 
+triethyl  phosphate, 
+acetoacetic acid, cyclohexylamine, chlorinated solvents 
+not available 
+
+SRM 2285 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point  
+Flammability (solid, gas) 
+
+ 
+556 °C (1033 °F) 
+not available 
+40 °C (104 °F) 
+13 
+23 
+not flammable 
+not available 
+
+ 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Minimize contact with material.  
+Avoid inhalation of material or combustion by-products.  Keep out of water supplies and sewers.  
+
+Incompatible Materials:  Oxidizing materials, combustible materials, metals, and bases. 
+
+Hazardous Decomposition:  Oxides halogenated compounds, oxides of carbon, phosgene. 
+
+ 
+
+Will Occur 
+
+X  Will Not Occur 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin irritation, eye irritation, 
+central nervous system depression, and cancer. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Short-term exposure may result in irritation, changes in body temperature, nausea, vomiting, chest 
+pain,  irregular  heartbeat,  headache,  drowsiness,  dizziness,  disorientation,  tingling  sensation,  loss  of 
+coordination,  lung  congestion,  and  blood  disorders.    Long-term  exposure  may  also  include  hallucinations, 
+changes in blood pressure, liver damage, reproductive effects, effects on the brain, and cancer. 
+Skin  Contact:    Irritation  (possibly  severe),  absorption  may  occur  which  may  result  in  effects  listed  for 
+short-term inhalation exposure.  Long-term exposure may result in skin disorders. 
+Eye Contact:  Irritation. 
+Ingestion:  Same effects listed for inhalation and including diarrhea, stomach pain, difficulty breathing, pain 
+in extremities, internal bleeding, kidney disorders, convulsions, and unconsciousness. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified. 
+ 
+ 
+
+Rat, oral, LD50:  3000 mg/kg  
+Rat, inhalation, LC50:  76 000 mg/m3 (4 h) 
+
+Skin Corrosion/Irritation:  Category 2 
+
+Rabbit, skin 100 mg (24 h) – moderate 
+Rabbit, skin 810 mg (24 h) – severe 
+
+Serious Eye Damage/Eye Irritation:  Category 2A 
+
+Rabbit, eye 500 mg (24 h) – mild 
+Rabbit, eye 162 mg – moderate 
+Rabbit,  eye  10  mg  –  produced  keratitis,  iritis,  increased  corneal  thickness,  and  inflammation  of  the 
+conjunctiva with effects lasting up to 2 weeks.  
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified. 
+
+Rat 1275 mg/kg, 30 µmol/L; Escherichia coli 8250 µg/well 
+
+SRM 2285 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Category 1B 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Methylene chloride is currently listed by IARC as Group 2B, possibly carcinogenic to humans; by NTP as 
+reasonably anticipated to be a human carcinogen and is present on OSHA’s list of carcinogens. 
+Tumorigenic:  Rat, inhalation, TCLo:  3500 ppm (6 h)  
+
+  No 
+
+Yes 
+
+X 
+
+Reproductive Toxicity:  Not classified; no data available. 
+
+Rat, inhalation TCLo:  1250 ppm (7 h, pregnant 6 d to 15 d) 
+
+STOT, Single Exposure:  Category 3, has shown to be a central nervous system depressant. 
+
+STOT, Repeated Exposure:  Not classified; no data available. 
+
+Aspiration Hazard:  Not classified. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Fish:  
+ 
+Algae:   
+Invertebrate:   Water flea, (Daphnia magna), EC50: 1532 to 1847 mg/L [static] (48 h) 
+
+Fathead minnow, (Pimephales promelas), LC50: 140.8 to 277.8 mg/L [flow-through] (96 h) 
+Fathead minnow, (Pimephales promelas), LC50: 262 to 855 mg/L [static] (96 h) 
+Pseudokirchneriella subcapitata EC50:  >500 mg/L (96 h) 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  Bioconcentration factor (BCF) 6.4 to 40 (method: OECD 305C) 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste  Disposal:    Dispose  in  accordance  with  all  applicable  federal,  state,  and  local  regulations.    Subject  to 
+hazardous waste regulations US EPA 40 CFR 262:  Hazardous waste number U080. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  UN1593, Dichloromethane, Hazard Class 6.1, Packing Group III. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  1000 lbs (454 kg) final RQ. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  0.1 % de minimis concentration. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+No 
+No 
+No 
+
+State Regulations 
+
+California Proposition 65:  Warning!  This product contains a chemical (methylene chloride) known to the state 
+of California to cause cancer.  
+
+U.S. TSCA Inventory:  Methylene chloride is listed.  
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+ 
+
+ 
+
+SRM 2285 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  27 May 2015 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Dichloromethane, 20 March 2015. 
+
+Hazardous Substance Data Bank, National Library of Medicine’s Toxnet system, Methylene Chloride, 
+CAS # 75-09-2, available at:  http://toxnet.nlm.nih.gov/ (accessed May 2015). 
+
+OSHA 1910.1052 App A, Safety Data Sheet and Technical Guidelines for Methylene Chloride, 
+available at: 
+https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10095 
+(accessed May 2015). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Key of Acronyms:  
+
+ACGIH 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+
+CAS  
+CERCLA   Comprehensive Environmental Response, Compensation, 
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transportation Agency  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RQ  
+
+RTECS 
+SARA  
+SCBA  
+SRM  
+STEL  
+STOT 
+TLV  
+TPQ  
+TSCA  
+TWA  
+UEL  
+WHMIS 
+
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit 
+Specific Target Organ Toxicity 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify 
+the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis. 
+ 
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2285 
+
+ 
+
+Page 6 of 6 
+
+

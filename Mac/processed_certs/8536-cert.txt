@@ -1,0 +1,360 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8536 
+ 
+GISP Greenland Ice Sheet Precipitation 
+ 
+(Hydrogen and Oxygen Isotopes in Water) 
+
+ 
+This Reference Material (RM) is a secondary reference material with known isotope-number ratios for hydrogen (H) and 
+oxygen (O) that are intermediate to VSMOW2 (RM 8535a) and SLAP (RM 8537).  It is intended to be a control for 
+working standards that have been calibrated to the VSMOW-SLAP (Vienna Standard Mean Ocean Water-Standard Light 
+Antarctic Precipitation) δ-scales for isotope-number ratios of hydrogen and oxygen. While the values for this RM are 
+reference values, its widespread use permits comparability of data from different laboratories.  A reference value is a 
+non-certified value that is the best estimate of the true value; however, the value may reflect only the measurement 
+precision  and  may  not  include  all  sources  of  uncertainty [1].    The  equivalent  name  for  this  RM,  as  used  by  the 
+International Atomic Energy Agency (IAEA) and the U.S. Geological Survey (USGS), is GISP.  A unit of RM 8536 
+consists of one ampoule containing approximately 20 mL of water. 
+
+ 
+RM Number  IAEA Name 
+
+ 
+Table 1.  Reference Values(a) for the Relative H and O Isotope-Number Ratios of RM 8536 
+  
+Standard Uncertainty 
+103 δ 2HVSMOW-SLAP 
+   
+0.1 
+
+Standard Uncertainty 
+103 δ 18OVSMOW-SLAP 
+0.01 
+
+103 δ 18OVSMOW-SLAP 
+
+103 δ 2HVSMOW-SLAP 
+
+RM 8536 
+
+–24.78 
+
+–189.5 
+
+GISP 
+
+Reference  Values  for  the  Relative  Difference  in  Isotope-Number  Ratios:    The  differences  in  measured 
+isotope-number ratios of stable hydrogen isotopes [N(2H)/N(1H)] and stable oxygen isotopes [N(18O)/N(16O)] are reported 
+as δ2H and δ18O values, respectively.  The relative difference in isotope-number ratios for hydrogen and oxygen are 
+defined as: 
+
+δ2H = ([N (2H)sample / N (1H)sample] – [N (2H)VSMOW-SLAP / N (1H)VSMOW-SLAP]) / [N (2H)VSMOW-SLAP / N (2H)VSMOW-SLAP] 
+
+δ18O = ([N (18O)sample / N (16O)sample] – [N (18O)VSMOW-SLAP / N (16O)VSMOW-SLAP]) / [N (18O)VSMOW-SLAP / N (16OVSMOW-SLAP)] 
+VSMOW-SLAP refers to the Vienna SMOW-SLAP δ-scales, which are defined by assigning δ2H and δ18O values of 0 ‰ 
+to VSMOW2 (RM 8535a) and values of –427.5 ‰ (δ2H) and –55.50 ‰ (δ18O) to measurements of SLAP (RM 8537) for 
+the purpose of normalizing stable hydrogen and oxygen isotope measurements (see “Normalization”) [2-4]. 
+ 
+Expiration  of  Value  Assignment:    RM 8536  is  valid,  within  the  measurement  uncertainty  specified,  until 
+31 December 2020, provided the RM is handled and stored in accordance with instructions given in this Report of 
+Investigation  (see  “Instructions  for  Handling,  Storage,  and  Use”).    The  report  is  nullified  if  the  RM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes occur 
+that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration (see 
+attached sheet) will facilitate notification. 
+ 
+ 
+ 
+
+ 
+
+Gaithersburg, MD 20899 
+Report Issue Date:  31 January 2012 
+Report Revision History on Last Page 
+
+  
+
+RM 8536 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 4 
+
+The technical aspects involved in the issuance of this RM were coordinated through the NIST Analytical Chemistry 
+Division by R.D. Vocke, Jr. 
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Measurement Services Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage and Stability:  The original, unopened ampoules of RM 8536 should be stored at ambient temperature in the 
+dark.  The unused fractions of this RM should be discarded after opening due to the strong possibility of evaporative 
+losses causing significant isotope fractionation.  Furthermore, aliquots of this RM should not be used for repeated 
+calibrations by repeated stable isotope measurements using water/CO2 equilibration devices over multiple days due to 
+isotopic  exchange  with  the  applied  gas  and  resulting  shift  of  the  isotopic  composition  of  the  material  during  the 
+preparation process.  The reference values in this Report of Investigation apply only to freshly opened ampoules. 
+ 
+Use:  GISP is intended as a calibration check of working standards that are normalized to the VSMOW-SLAP scale. 
+ 
+Distribution:  The distribution of GISP (RM 8536) is limited to one unit per year.  Users are strongly advised to prepare 
+their  own  standards  for  daily  use  and  calibrate  those  standards  against  the  international  reference  materials 
+VSMOW2 (RM 8535a) and SLAP (RM 8537). 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Sample Preparation:  GISP was prepared by W. Dansgaard, University of Copenhagen, Denmark from a sample of 
+Greenland firn [3]. 
+ 
+Isotope-Number  Ratios  in  GISP:    The  δ2H  and  δ18O  isotope-number  ratios  of  GISP  were  derived  from  two 
+interlaboratory comparison exercises.  After eliminating outliers, the average δ2H and δ18O values of the screened data 
+together with their standard deviations and standard uncertainties were reported to the IAEA in 1984 and 1995 [5,6].  The 
+results of those two studies are listed in the first two rows of Table 2.  The δ2H and δ18O isotope-number ratios listed in 
+the third row are a statistical re-evaluation of both data sets combined, using an interquartile range rejection criterion to 
+eliminate outliers.  The values in this last row are the values for GISP presented in Table 1. 
+ 
+
+Table 2.  RM 8536 GISP Isotopic Abundance Values
+
+ 
+δ2H Value 
+[‰] 
+
+–189.7 
+–189.2 
+–189.5 
+
+Standard 
+Deviation 
+[‰] 
+1.1 
+1.2 
+1.2 
+
+Number of Accepted 
+Results, N 
+(Reported Results) 
+45 (48) 
+19 (22) 
+67 (70) 
+
+δ18O Value
+[‰] 
+
+–24.80 
+–24.76 
+–24.78 
+
+Standard 
+Deviation
+[‰] 
+0.09 
+0.08 
+0.09 
+
+Number of Accepted 
+Results N  
+(Reported Results) 
+49 (52) 
+21 (23) 
+71 (75) 
+
+Source 
+
+[5] 
+[6] 
+see text 
+
+ 
+Information Values:  The [N(17O)/N(16O)] ratio of GISP has been measured [7].  The average δ17O value, normalized to 
+the VSMOW/SLAP scale, is –12.71 ‰.  The expanded uncertainty for this measurement is  0.1 ‰. 
+ 
+Homogeneity:    The  isotopic  homogeneity  of  the  ampoules  was  checked  before  distribution  of  the  samples  in  the 
+interlaboratory comparison exercise. These checks gave identical values within experimental uncertainty. 
+
+RM 8536 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+Normalization:  The δ-values for hydrogen and oxygen, when measured in samples, are presented as parts per thousand 
+differences (per mill; ‰) from the VSMOW δ-value normalized with the defined SLAP δ-value.  The adoption of 
+VSMOW as the zero point of the δ-scale and of a fixed SLAP δ-value by convention corresponds to the normalization of 
+δ-values on the VSMOW–SLAP scale [3].  A general formula for normalizing hydrogen isotope measurement results 
+using two laboratory standards LS1 (VSMOW2) and LS2 (SLAP) can be expressed as: 
+ 
+
+
+2H sample,cal 2H LS1,cal  2H sample,WS 2H LS1,WS
+
+ f    
+
+(1) 
+
+ 
+where the normalization factor f is: 
+ 
+
+
+2H LS 2,cal 2H LS1,cal
+
+f 
+
+
+
+2H LS 2,WS 2H LS1,WS
+
+ 
+
+ 
+
+(2) 
+
+ 
+where   WS denotes measurements made versus a transfer gas (working standard),  
+
+cal denotes calibrated measurements made versus the VSMOW–SLAP scale, and  
+δ2H LS1,cal and δ2HLS2,cal are the conventionally fixed δ2H values for VSMOW2 and SLAP or those of calibrated 
+laboratory working standards. 
+
+ 
+Similar formulae are used for δ18O. 
+ 
+The δ-definition of Eq. (1) is identical to the one in conventional use if and only if f = 1, that is if no scale compression 
+occurs and the δ-values measured on a given instrument correspond exactly to the recommended values for δVSMOW2 and 
+δSLAP. 
+ 
+Please note that the reporting scales for δ2H and δ18O are still denoted and referred to as the VSMOW-SLAP scales in 
+spite of the exhaustion of the original supply of VSMOW [8].  Therefore in Eq.1 and Eq.2, the measured values for the 
+new  international  measurement  standards  VSMOW2  and  SLAP  are  entered  for  LS1  and  LS2.    The  data  are  then 
+normalized to the VSMOW–SLAP scale using VSMOW2 and SLAP.  Of course, the standard uncertainties of VSMOW2 
+and SLAP isotopic values have to be included in any uncertainty budget. 
+ 
+Reporting  of  Stable  Isotope  δ-values:    The  following  recommendations  are  provided  for  reporting  the  relative 
+difference of hydrogen and oxygen stable isotope-number ratios using the δ-notation modified from Coplen [9].  It is 
+recommended that:  
+
+ 
+
+ 
+
+ 
+
+δ2H values of all hydrogen-bearing substances be expressed relative to VSMOW-SLAP on a scale where 
+δ2HSLAP = –427.5 ‰; 
+δ18O values of all oxygen-bearing substances be expressed relative to VSMOW-SLAP or relative to VPDB (for 
+carbonates) on a scale such that δ18O SLAP = –55.5 ‰ or δ18O NBS19 = –2.2 ‰, respectively;  
+the  reporting  of  the  relative  difference  of  stable  isotope-number  ratios  relative  to  SMOW  and 
+PDB (PeeDee Belemnite) be discontinued [10]. 
+
+RM 8536 
+
+Page 3 of 4 
+
+REFERENCES 
+ 
+[1]  May, W.E.; Parris, R.M.; Beck II, C.M.; Fassett, J.D.; Greenberg, R.R.; Guenther, F.R.; Kramer, G.W.; Wise, S.A.; 
+Gills, T.E.; Colbert, J.C.; Gettings, R.J.; MacDonald, B.S.; Definitions of Terms and Modes Used at NIST for Value-
+Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Spec.  Pub.  260-136;  U.S. Government 
+Printing 
+at 
+http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm (accessed Jan 2012). 
+
+Washington, 
+
+available 
+
+(2000), 
+
+Office: 
+
+DC, 
+
+ 
+
+[2]  Gonfiantini, R.; Standards for Stable Isotope Measurements in Natural Compounds; Nature, Vol. 271, pp 534-536 
+
+(1978). 
+
+[3]  Hut, G.; Stable Isotope Reference Samples for Geochemical and Hydrological Investigations (Rep. Consultants 
+Group Meeting, Vienna, 1985); International Atomic Energy Agency, Vienna (1987), pp. 1-42; available at 
+http://www-naweb.iaea.org/NAALIHL/publications3.shtml (accessed Sep 2011). 
+
+[4]  Coplen, T.B.; Normalization of Oxygen and Hydrogen Data; Chemical Geology, Vol. 72, pp 293-297 (1988).  
+[5]  Gonfiantini, R.; Report on an Advisory Group Meeting on Stable Isotope Reference Samples for Geochemical and 
+
+Hydrochemical Investigations; IAEA, Vienna, Austria (1984).  
+
+[6]  Araguás, L.; Rozanski, K.; Interlaboratory Comparison for Deuterium and Oxygen-18 Analysis of Precipitation 
+
+Samples; Unpublished Report; IAEA, Vienna, Austria (1995). 
+
+[7]  Jabeen, I.; Kusakabe, M.; Determination of δ 17O values of Reference Water Samples VSMOW and SLAP; Chemical 
+
+Geology, Vol. 143, pp. 115−119 (1997). 
+
+[8]  Groening, M.;  International  Stable  Isotope  Reference  Materials;  In:  Handbook  of  stable  isotope  analytical 
+
+techniques, De Groot, P.A., Editor; Elsevier, Amsterdam, pp. 874-906 (2004). 
+
+[9]  Coplen, T.B.; Reporting of Stable Hydrogen, Carbon and Oxygen Isotopic Abundances; Pure & Applied Chemistry, 
+
+Vol. 66(2), pp. 273-276 (1994). 
+
+[10]  Coplen, T.; Discontinuance of SMOW and PDB; Nature, Vol. 375, p. 285(1995). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Report Revision History:  31 January 2012 (Revised values for δ2H and δ18O; editorial changes); 22 June 1992 (Original report issue date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this RM should ensure that the Report of Investigation in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+RM 8536 
+
+Page 4 of 4 
+
+

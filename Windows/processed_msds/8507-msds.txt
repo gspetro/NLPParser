@@ -1,0 +1,344 @@
+﻿RM Number: 8507 (Renewals) 
+MSDS Number: 8507 
+RM Name: Moisture in Transformer Oil 
+Issued: March, 1992 
+
+MATERIAL SAFETY DATA SHEET 
+ 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+Gaithersburg, Maryland  20899 
+(301) 975-2019  
+
+ 
+SECTION I. MATERIAL IDENTIFICATION   
+
+ 
+Material Name:  Moisture in Transformer Oil 
+ 
+Description/ Other Designations:  Moisture in Petroleum Lubricating Oil (*CORAY 22) 
+ 
+Chemical Formula:  A mixture of hydrotreated light and heavy naphthenic distillate with petroleum. 
+ 
+CAS Reg. Nos.: 
+
+**64742-53-6 
+**64742-52-5 
+
+ 
+DOT Classification:  Not hazardous by DOT regulations. 
+ 
+Manufacturer/ Supplier:  Available from a number of suppliers. 
+ 
+ 
+ 
+
+ 
+SECTION II. HAZARDOUS INGREDIENTS 
+
+ 
+
+ 
+Hazardous Component 
+ 
+Transformer Oil 
+ 
+
+ 
+Nominal Concentration 
+ 
+ 
+ 
+
+~ 100 
+
+ 
+Limits and Toxicity Data 
+ 
+ACGIH TLV-TWA 
+  5mg/m3 for oil mist in air 
+
+ 
+ 
+ 
+
+ 
+
+Rat, Oral: 
+  LD50:  greater than 5 g/kg body weight 
+
+Rabbit, Acute Dermal: 
+  LD50:  greater than 3.16 g/kg body weight
+
+*Exxon Trade Name 
+**CAS numbers for components 
+ 
+
+1 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION III. PHYSICAL/ CHEMICAL CHARACTERISTICS  
+
+ 
+Transformer Oil 
+ 
+Appearance and Odor:  A clear liquid with a mild, bland petroleum odor. 
+Molecular Weight:  ca 310 
+Specific Gravity (15.8 °C/15.8 °C):  0.90 
+Boiling Point:  ca 241 °C    (by ASTM D 2887) 
+Pour, (Congealing or Melting Point):  -18 °C 
+Viscosity (at 40 °C):  20 cSt 
+Vapor Pressure (at 20 °C):  Less than 0.01 mmHg 
+Vapor Density (Air=1):  Greater than 5. 
+Evaporation Rate (n-Butyl Acetate=1):  Less than 0.01 
+pH:  Essentially neutral. 
+Solubility in Water (vol/vol at 0 °C):  Negligible. 
+ 
+
+ 
+SECTION IV. FIRE AND EXPLOSION HAZARD DATA  
+
+ 
+Flash Point:   157 °C 
+ 
+(Method Used):    ASTM D 92  (Cleveland Open Cup) 
+ 
+Autoignition Temperature:    Greater than 204 °C    
+ 
+(Method Used):    ASTM E 659 
+ 
+Flammability Limits in Air (Volume %):  UPPER:  7 
+
+LOWER: 0.9  
+
+ 
+
+Extinguishing Media:  Use foam, dry chemical or carbon dioxide.  Plan fire protection and response strategy through 
+consultation with local fire protection authorities or appropriate specialties. 
+ 
+Special Fire Procedures:  Fire-fighters should wear self-contained breathing apparatus and full protective clothing when 
+fighting fires involving this material. 
+ 
+Unusual Fire and Explosion Hazards:  No unusual fire or explosion hazards are associated with this product. 
+ 
+
+ 
+SECTION V. REACTIVITY DATA 
+
+ 
+Stability:           X       Stable                       Unstable 
+ 
+Conditions to Avoid:  Avoid excessive temperatures and conditions which promote oxidation. 
+ 
+Incompatibility (Materials to Avoid):  Keep this material from strong oxidizing agents. 
+ 
+Hazardous Decomposition or Byproducts:  Fumes, smoke, carbon monoxide, sulfur oxides and aldehydes along with other 
+decomposition products can be produced in incomplete combustion. 
+ 
+Hazardous Polymerization:      ______   Will Occur                 X        Will Not Occur 
+
+ 
+
+2 
+
+ 
+
+ 
+SECTION VI. HEALTH HAZARD DATA  
+
+ 
+Route of Entry:          X        Inhalation                     X        Skin                   X        Ingestion 
+ 
+Health Hazards (Acute and Chronic):  The vapor pressure of this material is very low therefore, vapor inhalation under 
+ambient conditions is normally not a problem.  However, health studies have shown that many petroleum hydrocarbons and 
+synthetic lubricants pose potential human health risks which may vary from person to person.  As a precaution, exposure to 
+liquids, vapors, mists or fumes should be minimized.   
+ 
+Prolonged or repeated skin contact with this product may remove skin oils possibly leading to irritation and dermatitis; 
+contact with the eyes may cause eye irritation.  This product has a low order of oral toxicity, but minute amounts aspirated 
+into the lungs during ingestion or vomiting may cause mild to severe pulmonary injury and possibly death. 
+ 
+ 
+Signs and Symptoms of Exposure:  Headache, nausea, vomiting, eye and/or skin irritation are symptoms of over exposure. 
+ 
+Medical Conditions Generally Aggravated by Exposure:  N/A 
+ 
+ 
+Listed as a Carcinogen/Potential Carcinogen: 
+
+In the National Toxicology Program (NTP) Report on Carcinogens  
+In the International Agency for Research (IARC) Monographs        
+By the Occupational Safety and Health Administration (OSHA)   
+
+Yes 
+____ 
+____ 
+____ 
+
+No 
+_X_ 
+_X_ 
+_X_ 
+
+ 
+ 
+ 
+ 
+EMERGENCY AND FIRST AID PROCEDURES: 
+ 
+
+Skin Contact:  Remove contaminated shoes and clothing.  Rinse affected area with large amounts of  water followed by 
+washing the area with soap and water.  Contact medical assistance if necessary. 
+ 
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 15 
+minutes.  Contact medical assistance if necessary. 
+ 
+Inhalation:   If inhaled, remove the victim to fresh air.  If breathing is difficult, give oxygen; if victim is not breathing, 
+give artificial respiration.  Contact medical assistance if necessary.   
+ 
+Ingestion:  If ingested, wash out mouth with water.  DO NOT induce vomiting.  Contact medical assistance if necessary. 
+  
+ 
+ 
+
+TARGET ORGAN(S) OF ATTACK:  Skin and upper respiratory tract. 
+
+ 
+ 
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+SECTION VII. PRECAUTIONS FOR SAFE HANDLING AND USE 
+
+ 
+Steps to be taken in Case Material is Released or Spilled:  Notify safety personnel of major spills and/or leaks.  Remove 
+sources of ignition.  Ventilate area and recover free product with sand, earth or other suitable absorbent.  Keep product out of 
+sewers and watercourses by diking or impounding.   
+ 
+ 
+Waste Disposal:  Follow all Federal, state and local regulations. 
+ 
+
+Note:  Empty containers retain residue (liquid and/or vapor) and can be dangerous.  DO NOT 
+pressurize, cut, weld, braze, solder, drill, grind or expose such containers to heat, flame, sparks, 
+static electricity or other sources of ignition.  DO NOT attempt to clean and re-use containers.  
+Containers should be completely drained and disposed of in a environmentally safe manner.   
+
+ 
+ 
+Handling and Storage:  Provide adequate ventilation where operating conditions may create excessive vapors and mists.  
+Use explosion-proff  equipment.  Provide approved respiratory apparatus for nonroutine or emergency use.  Use an approved 
+filter and vapor respirator when vapor/mist concentrations are high.  Wear protective rubber gloves and chemical safety 
+glasses when contact with liquid or high mist concentrations may occur.  Additional protective clothing may be required 
+depending on working conditions.  An eye wash station and washing facilities are to be readily available.  Avoid prolonged 
+skin contact and breathing of vapors and mists.  Follow good hygiene practice; wash exposed skin areas several times a day 
+with soap and water.  Launder soiled clothes before reuse.   
+ 
+
+Note:    Contact  lenses  pose  a  special  problem;  soft  lenses  may  absorb  irritants  and  all  lenses 
+concentrate them.  DO NOT wear contact lenses in the lab. 
+
+Store material in a cool, dry, well ventilated area away from sources of open flame, heat, strong oxidizing agents and sources 
+of ignition.  Protect containers from physical damage.  Use non-sparking tools and explosion proof electrical equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+4 
+
+ 
+SECTION VIII. SOURCE DATA/ OTHER COMMENTS 
+
+ 
+Sources:   Exxon Company USA, MSDS CORAY 22, June 1, 1989. 
+
+Hawley's Condensed Chemical Dictionary, 11th ed., 1987. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Carmelita S. Davis   (301) 975-6439 
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+Gaithersburg, Maryland  20899 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  Physical and chemical data contained in this MSDS are provided for use in assessing the hazardous nature of the 
+material.  The MSDS was prepared carefully, using current references, however NIST does not certify the data on the MSDS. 
+The certified values for this material are given only on the NIST Certificate of Analysis. 
+
+ 
+
+5 
+
+

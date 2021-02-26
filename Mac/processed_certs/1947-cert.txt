@@ -1,0 +1,1698 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1947 
+ 
+Lake Michigan Fish Tissue 
+
+ 
+This Standard Reference Material (SRM) is a frozen fish tissue homogenate that was prepared from fish collected 
+from  Lake  Michigan,  and  is  intended  primarily  for  use  in  evaluating  analytical  methods  for  the  determination  of 
+selected  trace  elements,  methylmercury,  total  mercury,  polychlorinated  biphenyl (PCB)  congeners,  chlorinated 
+pesticides,  polybrominated  diphenyl  ether (PBDE)  congeners,  perfluoroalkyl  acids (PFAAs),  proximates, 
+α-hexabromocyclododecane (α-HBCD), caloric content, and fatty acids in fish tissue and similar matrices.  All of the 
+constituents for which certified, reference, and information mass fraction values are provided are naturally present in 
+the fish tissue homogenate.  A unit of SRM 1947 consists of five bottles, each containing approximately eight grams 
+(wet basis) of frozen tissue homogenate. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values are provided in Table 1 for selected trace elements 
+including total  mercury and methylmercury.  Certified  mass fraction values are provided in Tables 2 through 4 for 
+selected PCB congeners, chlorinated pesticides, and PBDE congeners.  The certified values for trace elements, PCBs, 
+and chlorinated pesticides are based on results obtained from two or more independent analytical techniques.  A NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources of bias have been investigated or taken into account [1]. 
+ 
+Reference Values:  Reference mass fraction values are provided in Table 5 for additional PCB congeners, chlorinated 
+pesticides, PBDE congeners, and perfluorooctanesulfonic acid (PFOS).  Reference values are provided for proximates, 
+caloric content, selected fatty acids In Tables 6 and 7.  Reference Values for Hg Isotope Ratio Differences in SRM 1947 
+are shown in Table 8.  Reference values are noncertified values that represent the best estimate of the true values based 
+on  available  data;  however,  the  values  do  not  meet  the  NIST  criteria  for  certification [1]  and  are  provided  with 
+associated uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, 
+or may reflect a lack of sufficient statistical agreement among multiple analytical methods. 
+ 
+ 
+Information Mass Fraction Values:  Information mass fraction values are provided in Table 9 for additional PFAAs 
+and α-HBCD and in Table 10 for carbohydrates.  An information  value is considered to be a value that  will be of 
+interest  and  use  to  the  SRM  user,  but  insufficient  information  is  available  to  assess  adequately  the  uncertainty 
+associated with the value or only a limited number of analyses were performed [1].  Information values cannot be used 
+to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1947 is valid, within the measurement uncertainty specified, 
+until  31 December 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+ification  is  nullified  if  the  SRM  is  damaged,  contaminated, 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+icate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+SRM  was  performed  by 
+Coordination of the preparation and technical measurements leading to the certification of this SRM was performed by 
+S.J. Christopher, G.C. Turk, M.M. Schantz and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  31 May 2017 
+Certificate Revision History on Page 15 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Sciences  Division
+
+and  S.A. 
+
+Page 1 of 17 
+
+  
+
+SRM 1947 
+
+Analytical  measurements  at  NIST  were  performed  by  M.M. Schantz,  S.J. Christopher, W.C. Davis,  R.D. Day, 
+J.M. Keller,  J.R. Kucklick,  S.E. Long,  D.L. Poster,  and  J.L. Reiner  of  the  NIST  Chemical  Sciences  Division; 
+E.A. Mackey of the Materials Measurement Laboratory; B.J. Porter, M.S. Rearick, and H.M. Stapleton formerly 
+of  NIST.   Additional  PBDE  measurements  were  provided  by  R.A. Hites  and Y.L. Zhu  of  Indiana  University 
+(Bloomington, IN).  Measurements from the NIST Intercomparison Exercise Program for Organic Contaminants in 
+the  Marine  Environment  were  coordinated  by  M.M. Schantz;  see  Appendix A  for  participating  laboratories.  
+Measurements  by  the  Grocery  Manufacturers Association (GMA)  Food  Industry Analytical  Chemists (FIAC) 
+were coordinated by K.E. Sharpless of the NIST Office of Special Programs and H.B. Chin and D.W. Howell of the 
+GMA (Washington, DC); see Appendix B for participating laboratories.  Measurements from the 2001 NIST/NOAA 
+Interlaboratory  Comparison  Exercise  for  Trace  Elements  in  Marine  Mammals  were  coordinated  by 
+S.J. Christopher  of  the  NIST  Chemical  Sciences  Division;  see  Appendix C  for  participating  laboratories.  
+Measurements  from  an  informal  interlaboratory  comparison  study  for  PFAAs  in  a  variety  of  matrices  were 
+coordinated  by  J.M. Keller  and  J.L. Reiner  of  the  NIST  Chemical  Sciences  Division;  see  Appendix D  for 
+participating  laboratories.    Analytical measurements for methylmercury were also performed at the University of 
+Pau (Pau, France) by E. Krupp, D. Point, and O. Donard.  Analytical measurements of mercury stable isotopes were 
+performed at NIST by R.D. Day of the Chemical Sciences Division and by the following interlaboratory comparison 
+participants:  J. Masbou, L. Laffont, J. Sonke, and D. Point at the Laboratoire Geosciences Environnement Toulouse 
+Observatoire  Midi-Pyrenees (GET)  (Toulouse,  France);  J. Blum  and  M. Johnson  from  the  University  of  Michigan 
+(Ann  Arbor,  MI);  H. Hintelmann  and  B. Dimock  at  Trent  University,  (Petersborough,  Canada);  S. Berail, 
+D. Amouroux,  and  O.F.X. Donard  at  the  University  of  Pau/Institut  Pluridisciplinaire  de  Recherche  sur 
+l′Environnement et les Materiaux (IPREM), (Pau, France). 
+ 
+Fish used for SRM 1947 were collected with the assistance of J. Jonas of the Michigan Department of Natural 
+Resources (DNR)  and  Captain J. Meggison,  J. Ranville,  and  J. Harris  of  the  Michigan  DNR  survey  vessel 
+Steelhead.  The coordination for the collection was performed by J.R. Kucklick and B.J. Porter.  Field collection 
+was performed by B.J. Porter; B. Flood and J. Stevens of the Michigan DNR; and M.P. Cronise and C.N. Fales 
+of  the  NIST  Office  of  Reference  Materials.    Cryogenic  homogenization  of  the  fish  tissue  was  performed  by 
+B.J. Porter and R.S. Pugh of the NIST Chemical Sciences Division and D.J. Struntz formerly of NIST. 
+ 
+Engineering  Division. 
+Statistical analysis was provided by S.D. Leigh, J.H. Yen, and B. Toman of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+WARNING:  FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+USE
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 1947 is packaged as a frozen tissue homogenate in glass bottles.  The tissue homogenate should not 
+be allowed to thaw prior to subsampling for analysis.  This material has been stored at NIST at −80 °C (or lower) since 
+it was prepared and should be stored by the user at this temperature for the certified values to be valid within the stated 
+uncertainties. 
+ 
+Use:  This material is a frozen tissue homogenate.  After extended storage at temperatures of −25 °C or higher, the 
+tissue homogenate will lose its powder-like form.  For the handling of this material during sample preparation, the 
+following procedures and precautions are recommended.  If weighing relatively large quantities, remove a portion 
+from the bottle and reweigh the bottle to determine the mass of the subsample.  Avoid heavy frost buildup by handling 
+the bottles quickly and wiping them prior to weighing.  For weighing, transfer subsamples to a pre-cooled, thick-walled 
+glass container rather than a thin-walled plastic container to minimize heat transfer to the sample.  If possible, use a 
+cold work space (e.g., an insulated container with dry ice or liquid nitrogen coolant on the bottom and pre-cooled 
+implements,  such  as  Teflon-coated  spatulas,  for  transferring  the  powder).    Subsamples  of  this  SRM  for  analysis 
+(minimum sample size of 1 g) should be withdrawn from the bottle immediately after opening and used without delay 
+for the certified values listed in Tables 1 through 4 to be valid within the stated uncertainties.  The mass fractions of 
+constituents  in  SRM 1947  are  reported  on  a  wet-mass  basis.    The  SRM  tissue  homogenate,  as  received,  contains 
+approximately 73 % moisture. 
+ 
+
+by  S.D. 
+
+ 
+
+SRM 1947 
+
+Page 2 of 17 
+
+PREPARATION AND ANALYSIS( 1) 
+ 
+ollected  in 
+Sample Collection:  SRM 1947 was prepared from fillets from adult lake trout (Salvelinus namaycush) collected in 
+October 1997 at Fisherman’s Island and Big Reef near Charlevoix, MI, in northern Lake Michigan.  The fillets were 
+removed from the fish using stainless steel knives and placed in Teflon bags.  The tissue was placed on wet ice and 
+transported to NIST where it was stored in liquid nitrogen vapor freezers (−120 °C) until processed and bottled.  A 
+total of 79 kg of fillets was obtained.  The frozen fillets were pulverized in batches of approximately 350 g using the 
+cryogenic  procedure  described  previously [2].   The  pulverized  fish  tissue  was  then  homogenized  in  an  aluminum 
+mixing drum in two batches of approximately 40 kg each [3].  The mixing drum was designed to fit inside a liquid 
+nitrogen vapor freezer and to rotate in the freezer thereby mixing the frozen tissue powder.  After  mixing  for 2 h, 
+subsamples of approximately 8 g of fish tissue homogenate were aliquoted into pre-cooled glass bottles. 
+ 
+Moisture Content:  The moisture content of the fish tissue homogenate was determined by measuring the mass loss 
+from  freeze  drying.    Twelve  bottles  (six  from  each  batch)  of  SRM 1947  were  selected  according  to  a  stratified 
+randomization scheme for the drying study.  The entire contents of each glass bottle were transferred to a Teflon bottle 
+and dried for seven days at 1 Pa with a −20 °C shelf temperature and a −50 °C condenser temperature.  Based on these 
+studies, the mean moisture content of SRM 1947 is 73.00 % ± 0.15 % (mass fraction expressed as percent ± expanded 
+uncertainty  with  k = 2,  approximately  95 %  confidence).    The  mass  fraction  values  are  reported  on  a  wet-mass 
+(as-received) basis.  If necessary, the results can be converted to a dry-mass basis by dividing by the conversion factor 
+of 0.2700 (grams dry mass per gram wet mass).  An uncertainty component for the conversion factor (0.46 %) obtained 
+from the moisture measurement should be incorporated in the uncertainties of the values provided on this certificate 
+if comparing on a dry-mass basis. 
+ 
+Trace  Elements:    Trace  element  data  are  derived  from  three  sources:    (1) NIST  measurements,  (2) data  from  the 
+2001 NIST/NOAA  Interlaboratory  Comparison  Exercise  for  Trace  Elements  in  Marine  Mammals,  and  (3) data 
+obtained in 2002 from an interlaboratory comparison exercise conducted by the GMA.  The NIST measurements were 
+collected  using  collision  cell  inductively  coupled  plasma  mass  spectrometry (ICPMS)  and  the  method  of  standard 
+additions.   A  maximum  likelihood  solution  algorithm  was  used  to  determine  the  consensus  mean  estimates  and 
+analytical uncertainties associated with the interlaboratory data, after rejection of outlier laboratories.  This algorithm 
+weights data based on inverse variance.  Certified values for As, Cu, Fe, Mn, Rb, Se, and Zn were then assigned by 
+combining  the  NIST  values  and  interlaboratory  consensus  mean  estimates  using  an  equal-weighting  scheme.  
+Analytical uncertainties were calculated using the bound-on-bias method [4].  The certified value for Hg is derived 
+from  isotope  dilution  cold  vapor  inductively  coupled  plasma  mass  spectrometry (IDCV/ICPMS)  measurements 
+performed at NIST [5]. 
+ 
+Methylmercury:  The general approach for the assignment of a value for methylmercury was similar to that used in 
+marine tissue SRMs [6,7].  The certified value for  methylmercury is based on results of analyses of SRM 1947 at 
+NIST  and 
+three  NIST  methods  
+four  analytical 
+used  for  methylmercury  measurements  were  based  on  (1) solid-phase  microextraction (SPME)  with  gas 
+chromatography/mass spectrometry (GC/MS), (2) SPME with standard additions quantification and GC/inductively 
+coupled  plasma  mass  spectrometry (GC/ICPMS) [8],  and  (3) microwave  extraction  with  speciated  isotope  dilution 
+and  GC/ICPMS [9].    The  fourth  method  also  utilized  microwave  extraction  with  speciated  isotope  dilution 
+GC/ICPMS.    For  the  SPME GC/MS  analyses,  approximately  1 g  subsamples  of  SRM 1947  were  spiked  with  an 
+appropriately  diluted  solution  of  IRMM-670 202Hg  enriched  methylmercury 
+isotopic  Certified  Reference 
+Material (CRM) (Institute of Reference Materials and Measurements [IRMM], Geel, Belgium) followed by an acidic 
+microwave digestion using 1 mol/L hydrochloric acid.  Sodium tetraphenylborate was used for phenylation.  After 
+headspace  SPME  sampling,  the  SPME  fiber  was  desorbed  using  a  GC  injection  temperature  of  250 °C.    The  GC 
+analysis used a 30 m × 0.25 mm column with a 5 % (mole fraction) phenyl methylpolysiloxane phase (0.25 µm film 
+thickness)  (DB-5MS,  J&W  Scientific,  Folsom, CA).    For  the  SPME  GC/ICPMS  analyses,  approximately  0.5 g 
+subsamples  of  SRM 1947  were  subjected  to  an  acidic  microwave  digestion  using  1 mol/L  hydrochloric acid.  
+Sodium tetraphenylborate was used for phenylation.  After headspace SPME sampling, the SPME fiber was desorbed 
+using  a  GC  injection  temperature  of  210 °C.    The  GC  analysis  used  a  30 m × 0.28 mm  column  with  a 
+100 % dimethylpolysiloxane  phase  (0.50 µm  film  thickness)  (MXT-1,  Restek,  Bellefonte, PA).    For  the  speciated 
+isotope  dilution  GC/ICPMS  analyses,  approximately  1.0 g  to  2.0 g subsamples  were  spiked  with  an  appropriately 
+diluted sample of IRMM-670 202Hg enriched methylmercury isotopic CRM and subjected to an alkaline microwave 
+digestion (using 25 % volume fraction tetraammoniumhydroxide in  water).  Sodium tetraethylborate  was  used  for 
+ethylation.  The derivatized methylmercury was back-extracted into isooctane and injected into a GC/ICPMS.  The 
+GC  analysis  used  a  30 m × 0.32 mm  column  with  a  100 %  dimethylpolysiloxane  phase  (0.17 µm  film  thickness) 
+(HP-1, J&W Scientific).  SRM 1946 Lake Superior Fish Tissue was used as a control in each of the methods described. 
+                                                 
+
+the  University  of  Pau  using 
+
+techniques. 
+
+  The 
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+se.
+SRM 1947 
+
+Page 3 of 17 
+
+Mercury Isotopes: Analytical measurements were made as part of an inter-laboratory comparison with five expert 
+Hg  isotope  labs  reporting  a  total  of  nine  methods.    All  measurements  used  cold  vapor multi-collector  inductively 
+coupled  plasma  mass  spectrometry  (MC-ICP-MS).    NIST  (Charleston, SC)  achieved  sample  decomposition  using 
+microwave  assisted  acid  digestion  in  a  Discover  Open-Focus  Microwave  (CEM,  Matthews,  NC).    NIST’s 
+measurements were made using a Nu Plasma II (Nu Instruments, Wrexham, UK), and reported data using two different 
+methods  of  instrumental  mass  bias  correction:  thallium  introduced  by  desolvation  nebulizer  (Aridus  II,  CETAC, 
+Omaha, NE), or Hg and standard-sample-standard bracketing.  University of Michigan (Ann Arbor, MI) reported data 
+using  both  thermal  decomposition  and  microwave-assisted  acid  digestion,  each  coupled  to  an  additional  matrix 
+separation step of bubbling, trapping, and purging in KMnO4 and H2SO4.  University of Michigan’s measurements 
+were made on a Nu Plasma with instrumental mass bias correction by thallium introduced by Aridus.  Trent University 
+(Petersborough,  Canada)  used  a  hotblock/acid  decomposition  method,  Neptune  (Thermo-Finnigan,  Germany)  for 
+quantification, and Apex-q desolvation nebulizer (Elemental Scientific, Omaha, NE) for thallium  introduction and 
+mass bias correction.  University of Pau/IPREM (Pau, France) decomposed the sample using a high pressure asher 
+(Anton Paar) followed by hotblock/acid digestion.  University of Pau/IPREM’s measurements were made on a Nu 
+Plasma, and mass bias corrections performed using thallium introduced by DSN-100 (Nu Instruments).  Géosciences 
+Environnement  Toulouse (GET)  (Toulouse, France)  reported  data  using  both  a  microwave  assisted  acid  digestion 
+(CEM  Discover  microwave)  and  hotplate/acid  digestion.    LMTG’s  measurements  were  made  on  a  Neptune  and 
+instrumental mass bias correction performed using Hg and standard-sample-standard bracketing. 
+ 
+Notation and reporting of differences in measured isotope ratios (δ) of stable mercury isotopes in SRM 1947 follow 
+the conventions outlined by Blum and Bergquist [10].  All δ values are reported in permil, ‰ (part per thousand, 
+equal  to  0.001),  and  are  calculated  relative  to  the  reference  standard  NIST  SRM 3133  Mercury  (Hg)  Standard 
+Solution (Lot  No. 061204) using the following equation: 
+ 
+
+ 
+e
+u
+
+δxxxHg(‰) = [((xxxHg/198Hg)Sample/(xxxHg/198Hg)SRM3133) – 1] * 1000 
+
+xxx is the Hg isotope 199, 200, 201, 202, or 204 
+(xxxHg/198Hg)Sample is the ratio of each isotope to 198Hg in SRM 1947. 
+(xxxHg/198Hg)SRM3133 is the average ratio of the two NIST SRM 3133 standards bracketing that sample 
+
+ 
+where 
+ 
+ 
+ 
+ 
+The  measurement  community  typically  calculates  mass-independent  fractionation (MIF)  values  from  these 
+δxxxHg values, which are reported using the capital delta notation (Δ).  These values were calculated using the 
+he
+Blum and Bergquist [10] formulas below and are provided in this report for convenience: 
+
+ 
+Δ199Hg(‰) = δ199Hg – (δ202Hg * 0.2520) 
+Δ200Hg(‰) = δ200Hg – (δ202Hg * 0.5024) 
+Δ201Hg(‰) = δ201Hg – (δ202Hg * 0.7520) 
+ 
+The ΔxxxHg notation describes the difference between measured δxxxHg and the theoretically predicted δxxxHg 
+using mass dependent fractionation (MDF) laws. 
+ 
+PCBs and Chlorinated Pesticides:  The general approach used for the value assignment of mass fractions for PCBs 
+and chlorinated pesticides in SRM 1947 was similar to that reported for the recent certification of SRM 1946 [11] and 
+consisted  of  combining  results  from  analyses  at  NIST  using  various  combinations  of  extraction  techniques  and 
+solvents, cleanup/isolation procedures, and chromatographic separation and detection techniques.  For SRM 1947 the 
+approach consisted of Soxhlet extraction and pressurized fluid extraction (PFE) using dichloromethane (DCM) or a 
+hexane/acetone mixture; cleanup/isolation using solid-phase extraction (SPE), size-exclusion chromatography (SEC), 
+or normal-phase liquid chromatography (LC); and finally analysis by using gas chromatography with electron capture 
+detection (GC-ECD)  or  gas  chromatography  with  mass  spectrometric  detection (GC/MS)  on  three  columns  with 
+different selectivity for the separation of PCBs and chlorinated pesticides. 
+ 
+Three  sets  of  results  were  obtained  by  GC-ECD  and  are  designated  as  GC-ECD (I),  GC-ECD (IIA),  and 
+GC-ECD (IIB).  For the GC-ECD (I) analyses, between 2 g and 3 g subsamples from each of six bottles of SRM 1947 
+were extracted using Soxhlet with DCM.  SEC was used to remove the majority of the lipid material.  The concentrated 
+eluant  was  then  fractionated  on  a  semi-preparative  aminopropylsilane  column  to  isolate  two  fractions  containing  
+(1) the PCBs and the less polar pesticides and (2) the more polar pesticides.  GC-ECD analyses of the two fractions 
+were performed on a 0.25 mm i.d. × 60 m fused silica capillary column with a 5 % phenyl methylpolysiloxane phase 
+(0.25 µm film thickness) (DB-5, J&W Scientific).  For GC-ECD (IIA) and GC-ECD (IIB), 3.5 g subsamples from 
+each of six bottles were extracted using PFE with DCM.  The SEC and normal-phase LC cleanup steps were the same 
+as those used for GC-ECD (I).  GC-ECD (IIA) analyses were performed on a 0.25 mm × 60 m fused silica capillary 
+column  with nonpolar proprietary phase (0.25 µm  film thickness) (DB-XLB, J&W Scientific), and GC-ECD (IIB) 
+
+SRM 1947 
+
+Page 4 of 17 
+
+analyses were performed on a 5 % phenyl methylpolysiloxane phase as described above.  For both GC-ECD analyses, 
+two PCB congeners that are not significantly present in the fish extract [PCB 30 and PCB 198 for GC-ECD (I) or 
+PCB 103 and PCB 198 for GC-ECD (II)], and 4,4'-DDT-d8, 4,4'-DDE-d8, and 4,4'-DDD-d8 were added to the fish 
+tissue prior to extraction for use as internal standards for quantification purposes. 
+ 
+Two sets of results were obtained by GC/MS.  The samples used for GC/MS (I) analyses were the same extracts as 
+analyzed for GC-ECD (I).  The GC/MS (I) analyses were performed using a DB-XLB column as described above and 
+MS  detection.    For  GC/MS (II)  analyses,  two  subsamples  of  between  1 g  and  2 g  were  used  from  three  bottles 
+of  SRM 1947.    The  six  samples  were  extracted  using  PFE  with  hexane:acetone  (1:1, volume fraction).    The 
+concentrated extract was subjected to cleanup on a silica solid phase extraction (SPE) cartridge with 10 % DCM in 
+hexane,  followed  by  a  second  silica  SPE cartridge  that  was  used  for  additional  sample  cleanup.    The  GC/MS (II) 
+analyses  were  performed  using  a  50 %  (mole fraction)  phenyl methylpolysiloxane  phase  (0.25 µm film  thickness) 
+(DB-17MS, J&W Scientific).  For the GC/MS (II) analyses, PCB 103, PCB 198, and 13C-labeled 4,4'-DDT, lindane, 
+PCB 28, PCB 101, PCB 118, PCB 138, PCB 153, and PCB 169 were added to the fish tissue prior to extraction for 
+use as internal standards for quantification purposes. 
+ 
+In addition to the analyses performed at NIST, SRM 1947 was used in an interlaboratory comparison exercise in 2002 
+as part of the NIST Intercomparison Exercise Program for Organic Contaminants in the Marine Environment [12].  
+Results  from  28 laboratories  were  used  as  the  sixth  data  set  in  the  determination  of  the  certified  values  for 
+PCB congeners  and  chlorinated  pesticides  in  SRM 1947;  see  Appendix A  for  participating  laboratories7.    The 
+laboratories participating in this exercise used the analytical procedures routinely used in their laboratories to measure 
+these analytes. 
+ 
+Polybrominated Diphenyl Ethers:  Value assignment of mass fractions for PBDE congeners was based on four sets 
+of data (three sets  from NIST and one set from a collaborating laboratory)  using a  variety of different extraction, 
+cleanup, and quantification methods.  All measurements were performed by using GC/MS operated in either electron 
+impact (GC/EI-MS) or negative chemical ionization (GC/NCI-MS) mode. 
+ 
+For two of the NIST data sets, 1 g to 2 g subsamples of tissue from each of five bottles were extracted using PFE with 
+DCM.  The concentrated extract was subjected to SEC to remove the majority of the lipids, followed by an additional 
+cleanup 
+analyzed  by  using  both  
+GC/EI-MS  and  GC/NCI-MS  on  a  0.25 mm × 15 m  fused  silica  capillary  column  with  a  5 % (mole fraction) 
+13C-labeled 
+phenyl methylpolysiloxane  phase 
+4,4'-dibromodiphenyl ether (BDE 15) and  13C-labeled 2,2',3,4,5-pentachlorodiphenyl ether (CDE 86)  were added to 
+the tissue sample prior to extraction for use as internal standards for quantification purposes. 
+ 
+For the third NIST data set, 3 g to 4 g subsamples of tissue from each of six bottles were extracted using PFE with 
+DCM.  The extracts were processed as above using SEC followed by a second cleanup step using a 5 % deactivated 
+alumina  SPE  column.    The  extracts  were  analyzed  by  using  GC/EI-MS  on  a  0.25 mm × 60 m  fused  silica  
+capillary  column  with  a  5 %  phenyl methylpolysiloxane  phase  (0.25 μm  film  thickness)  (DB-5MS).    13C-labeled 
+2,2,4,4',5-pentabromodiphenyl ether (BDE 99) was added to the tissue samples prior to extraction for use as an internal 
+standard for quantification of the PBDEs. 
+ 
+For  the  measurements  from  the  collaborating  laboratory  (Indiana University),  four  subsamples  of  8 g  were 
+Soxhlet-extracted using hexane:acetone (1:1, volume fraction) after spiking with two internal standards, 13C-labeled 
+2,2',3,3',4,4',5,5'-octachlorodiphenyl 
+2,3,3',4,4',5-hexachlorodiphenyl 
+and 
+ether (CDE 194).  Lipids were removed by adding concentrated H2SO4 and shaking; the organic phase was collected 
+and  the  extracts  were  further  cleaned  using  a  3 %  deactivated  silica  column  and  an  alumina  column  in  
+series.  The extracts were analyzed by using GC/NCI-MS on a 0.25 mm × 60 m fused silica capillary column with a 
+5 % phenyl methylpolysiloxane phase (0.25 μm film thickness) (DB-5).  Details of the analyses by the collaborating 
+laboratory are presented by Zhu and Hites [13]. 
+ 
+Perfluoroalkyl Acids:  Value assignment of mass fractions for the PFAAs was based on three sets of data (two sets 
+from  NIST  and  one  set  from  an  interlaboratory  study)  using  a  variety  of  different  extraction,  cleanup,  and 
+quantification methods.  All measurements were performed by using liquid chromatography with triple quadrupole 
+mass spectrometry (LC/MS/MS). 
+ 
+For NIST PFAA method 1, a known amount of internal standard solution (containing selected  13C-labeled PFAAs) 
+was added to a fish tissue sample (approximately 0.5 g), vortexed, and 0.5 mL of HPLC grade water was added to the 
+sample.  Three mL (volume fraction) of 0.01 mol/L of potassium hydroxide in methanol was added to the samples 
+and the samples were then sonicated for 30 min.  The supernatant was removed, evaporated to 1 mL, filtered using a 
+Whatman  UniPrep  0.2 µm  filter  (Stanford, ME),  and  poured  into  a  clean  polypropylene  tube.    Ten mL  of  50 % 
+
+(0.25 μm film thickness) 
+
+  For  both  methods, 
+
+silica  SPE  cartridges. 
+
+  The  extracts  were 
+
+step  employing 
+
+ether (CDE 156) 
+
+13C-labeled 
+
+(DB-5). 
+
+SRM 1947 
+
+Page 5 of 17 
+
+(volume fraction) formic acid in water was added to each extract.  Samples were loaded onto Oasis WAX SPE columns 
+(3 mL, 60 mg 30 µm; Waters, Millford, MA).  Compounds of interest were eluted off the columns using methanol 
+followed by 1 % (volume fraction) ammonium hydroxide in methanol and samples were analyzed using LC/MS/MS 
+with  a  C8 column  (Agilent  Zorbex  Eclipse  Plus  C8,  100 mm × 2.1 mm × 3.5 μm,  Agilent  Technologies,  Santa 
+Clara, CA)  and  a  pentafluorophenyl (PFP)  column  (Phenomenex  Kinetex  PFP,  50 mm × 3.0 × mm × 2.6 μm, 
+Phenomenex, Torrance, CA) using both a methanol-ammonium acetate in water gradient method and a formic acid in 
+acetonitrile-formic acid in water gradient method. 
+ 
+For NIST PFAA method 2, a known amount of internal standard solution (containing 13C-PFAA) was added to a fish 
+tissue  sample  (approximately  0.5 g),  vortexed,  and  0.5 mL  of  HPLC-grade  water  was  added  to  the  sample. 
+Three milliliters  of  acetonitrile  was  added  to  the  samples  and  the  samples  were  then  sonicated  for  10 min.    The 
+supernatant was removed and poured into a clean polypropylene tube.  Samples were solvent exchanged into methanol 
+and  then  loaded  onto  Supelclean  ENVI-Carb  SPE columns  (3 mL,  250 g  120–400 mesh  Supelco,  Bellefote,  PA).  
+Compounds of interest were eluted off the columns using methanol and samples were analyzed using LC/MS/MS with 
+a C8 column (Agilent Zorbex Eclipse Plus C8, 100 mm × 2.1 mm × 3.5 μm, Agilent Technologies, Santa Clara, CA) 
+and  a  PFP  column  (Phenomenex  Kinetex  PFP,  50 mm × 3.0 mm × 2.6 μm,  Phenomenex,  Torrance, CA)  using  a 
+methanol-ammonium acetate in water gradient method. 
+ 
+The laboratories participating in the interlaboratory study (see Appendix D) used the analytical methods typically used 
+in their laboratories to measure PFAAs. 
+ 
+α-Hexabromocyclododecane:  Three sets of results were combined for the information value of α-HBCD.  In all 
+three methods, a known amount of internal standard (13C-labeled α-HBCD) was added to replicates of approximately 
+3 g  subsamples.    Samples  were  extracted  with  PFE  using  DCM,  cleanup/isolation  was  accomplished  with  SEC 
+followed by SPE.  Extracts were analyzed by LC/MS/MS using negative electrospray ionization with separation on 
+either an Agilent Eclipse Plus C18 (3.0 mm × 150 mm × 3.5 mm) analytical column (NIST HBCD methods 1 and 2) 
+or a Waters YMC Carotenoid S5 C30 (4.6 mm × 250 mm × 5 mm) column (NIST HBCD method 3). 
+ 
+GMA Interlaboratory Comparison Exercise:  Results for proximates, extractable fat, fatty acids, and selected trace 
+elements  were  obtained  from  an  interlaboratory  comparison  exercise  organized  in  2002  by  the  GMA  FIAC;  see 
+Appendix B  for  a  list  of participating  laboratories.    The  laboratories  listed  in  Appendix B  were  asked  to  use 
+AOAC methods or their equivalent, to make single measurements from each of two bottles, and to report the analytical 
+method that was used. 
+ 
+Extractable  Fat  Determination:   The  reference  mass  fraction  value  for  extractable  fat  was  determined  from  the 
+combination of results from analyses performed at NIST and the results from the interlaboratory comparison exercise.  
+At  NIST,  six samples  were  extracted  with  hexane:acetone  (1;1,  volume fraction)  using  PFE.    The  extracts  were 
+evaporatively concentrated to approximately 20 mL (known mass) and an aliquot of 90 µL was placed on an aluminum 
+pan.  The extract on the pan was air dried, and the mass of the dried extract determined.  For the interlaboratory study, 
+laboratories used their typical extraction methods and then determined the extractable fat by drying the extract and 
+determining the mass of the remaining residue. 
+ 
+Proximates:    Results  for  proximates  (solids,  ash,  protein,  and  fat)  were  obtained  from  the  GMA  interlaboratory 
+comparison exercise described above.  The value for solids was a combination of the mean of the GMA measurements 
+and the NIST moisture determination measurements described above. 
+ 
+ 
+ 
+
+ 
+
+SRM 1947 
+
+Page 6 of 17 
+
+Table 1.  Certified Mass Fractions (Wet-Mass Basis) for Selected Elements and Methylmercury in SRM 1947 
+
+Iass  Fraction 
+
+Mass Fraction(a) 
+
+(mg/kg) 
+
+0.732  ±  0.039 
+0.411  ±  0.029 
+3.79  ±  0.42 
+») 
+0.254  ±  0.005(b) 
+0.076  ±  0.004 
+4.51  ±  0.09 
+0.475  ±  0.084 
+2.66  ±  0.08 
+
+Mass Fraction(a) 
+
+(mg/kg) 
+
+0.233  ±  0.010(c) 
+
+ 
+consensus  mean  results. 
+(a) Unless otherwise noted, the certified mass fractions are the unweighted mean of NIST and round-robin consensus mean results.  
+The uncertainty listed with the value is an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % 
+a  pooled, 
+confidence)  calculated  by  combining  a  between-method  variance [4]  incorporating  inter-method  bias  with  a  pooled, 
+within-method variance following the ISO/JCGM Guide [14,15].  The measurand is the total mass fractions for selected elements 
+on a wet-mass basis listed in Table 1.  Metrological traceability to the SI derived unit for mass fraction (expressed as milligrams 
+1S 
+per kilogram). 
+
+for 
+
+th 
+
+(b) The certified mass fraction for mercury is based solely on IDCV/ICPMS measurements performed at NIST. 
+(c) The certified value is the unweighted mean of the results from four analytical methods.  The uncertainty listed with the value is 
+the  value  is
+an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), calculated by combining a 
+between-method variance [4] with a pooled, within-method variance following the ISO/JCGM Guide [14,15].  The measurand 
+is the mass fraction for methylmercury on a wet-mass basis listed in Table 1.  Metrological traceability to the SI derived unit for 
+mass fraction (expressed as milligrams of mercury per kilogram). 
+
+Analyte 
+ 
+
+Arsenic (As) 
+Copper (Cu) 
+Iron (Fe) 
+Mercury (Hg) 
+Manganese (Mn) 
+Rubidium (Rb) 
+Selenium (Se) 
+Zinc (Zn) 
+
+ 
+ 
+
+Methylmercury 
+
+ 
+
+  
+ 
+ 
+ 
+ 
+
+SRM 1947 
+
+Page 7 of 17 
+
+Table 2.  Certified Mass Fractions (Wet-Mass Basis) for Selected PCB Congeners in SRM 1947 
+
+ners  in  SRM 
+
+iss  Fraction 
+
+ 
+
+a) 
+PCB Congener(a) 
+ 
+
+PCB  28  (2,4,4'-Trichlorobiphenyl)(c,d,e,f,g) 
+PCB  31  (2,4',5-Trichlorobiphenyl)(c,d,e,f,g) 
+PCB  44  (2,2',3,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  49  (2,2',4,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  52  (2,2',5,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  63  (2,3,4',5-Tetrachlorobiphenyl)(c,d,e,f) 
+PCB  66  (2,3',4,4'-Tetrachlorobiphenyl)(c,d,e,f,g) 
+PCB  74  (2,4,4',5-Tetrachlorobiphenyl)(c,f,g,h) 
+PCB  87  (2,2',3,4,5'-Pentachlorobiphenyl)(d,f,g,h) 
+PCB  99  (2,2',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  101  (2,2',4,5,5'-Pentachlorobiphenyl)(d,e,f,g,h) 
+PCB  105  (2,3,3',4,4'-Pentachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  107  (2,3,3',4',5-Pentachlorobiphenyl)(c,d,e,f) 
+PCB  110  (2,3,3',4',6-Pentachlorobiphenyl)(c,e,f) 
+PCB  118  (2,3',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  128  (2,2',3,3',4,4'-Hexachlorobiphenyl)(c,d,e,f,g) 
+PCB  132  (2,2',3,3',4,6'-Hexachlorobiphenyl)(c,d,f,h) 
+PCB  138  (2,2',3,4,4',5'-Hexachlorobiphenyl)(c,e,f,g) 
+PCB  146  (2,2',3,4',5,5'-Hexachlorobiphenyl(c,d,e,f,g) 
+PCB  149  (2,2',3,4',5',6-Hexachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  153  (2,2',4,4',5,5'-Hexachlorobiphenyl)(c,d,e,f,h) 
+PCB  156  (2,3,3',4,4',5-Hexachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  158  (2,3,3',4,4',6-Hexachlorobiphenyl)(c,d,e,f,g) 
+PCB  170  (2,2',3,3',4,4',5-Heptachlorobiphenyl)(c,d,e,f,g) 
+PCB  174  (2,2',3,3',4,5,6'-Heptachlorobiphenyl)(c,d,e,f,g) 
+PCB  180  (2,2',3,4,4',5,5'-Heptachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  183  (2,2',3,4,4',5',6-Heptachlorobiphenyl)(c,d,e,f,g) 
+PCB  187  (2,2',3,4',5,5',6-Heptachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  193  (2,3',3,4',5,5',6-Heptachlorobiphenyl)(c,d,e,f,g) 
+PCB  194  (2,2',3,3',4,4',5,5'-Octachlorobiphenyl)(c,d,e,f,g,h) 
+PCB  195  (2,2',3,3',4,4',5,6-Octachlorobiphenyl)(c,d,e,f,g) 
+PCB  206  (2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl(c,d,e,f,g,h) 
+
+Mass Fraction(b) 
+(µg/kg) 
+
+14.1 
+10.4 
+20.4 
+27.3 
+36.4 
+
+± 
+± 
+± 
+± 
+± 
+4.75  ± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+6.04  ± 
+± 
+4.95  ± 
+6.24  ± 
+
+69.4 
+33.7 
+27.9 
+78.0 
+90.8 
+50.3 
+17.1 
+94.6 
+112 
+31.6 
+20.8 
+162.0 
+40.5 
+67.1 
+201 
+13.3 
+11.3 
+29.2 
+18.6 
+80.8 
+23.3 
+54.8 
+
+13.2 
+
+1.0 
+1.4 
+1.7 
+3.8 
+4.3 
+0.60 
+5.3 
+3.1 
+1.5 
+6.0 
+0.3 
+3.7 
+1.2 
+4.3 
+6 
+2.1 
+2.1 
+6.9 
+2.0 
+3.7 
+3 
+0.9 
+0.9 
+2.4 
+1.7 
+5.0 
+1.9 
+2.6 
+0.23 
+0.9 
+0.77 
+0.88 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [16] and later revised by Schulte and 
+by  Schulte  and
+Malisch [17]  to  conform  with  IUPAC  rules;  for  the  specific  congeners  listed  in  this  table,  only  PCB 107  and  PCB 201  are 
+different  in  the  numbering  systems.    Under  the  Ballschmiter  and  Zell  numbering  system,  the  IUPAC  PCB 107  is  listed  as 
+PCB 108 and the IUPAC PCB 201 is listed as PCB 200.  PCB 107 is listed in this table. 
+
+(b) Unless  otherwise  noted,  the  certified  values  are  the  weighted  mean  of  the  results  from  four  to  six  analytical  methods.    The 
+uncertainty  listed  with  the  value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 % 
+confidence) calculated by combining a between-method variance [18] incorporating inter-method bias with a pooled, within-
+method  variance  following  the  ISO/JCGM  Guide [14,15].    The  measurand  is  the  total  mass  fractions  for  the  selected  PCB 
+Congeners on a wet-mass basis listed in Table 2.  Metrological traceability to the SI derived unit for mass fraction (expressed as 
+micrograms per kilogram). 
+
+(c) GC-ECD (IIA) on a proprietary nonpolar phase after PFE with DCM. 
+(d) GC-ECD (IIB) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC-ECD (IIA). 
+(e) GC/MS (I) on a proprietary nonpolar phase after Soxhlet extraction with DCM. 
+(f) GC/MS (II) on a 50 % phenyl methylpolysiloxane phase after PFE with hexane/acetone mixture. 
+(g) Results from up to 28 laboratories participating in an interlaboratory comparison exercise. 
+(h) GC-ECD (I) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC/MS (I). 
+
+SRM 1947 
+
+Page 8 of 17 
+
+ 
+
+ 
+
+Table 3.  Certified Mass Fractions (Wet-Mass Basis) for Selected Chlorinated Pesticides in SRM 1947 
+
+iss  Fraction 
+
+ 
+Pesticide 
+
+Hexachlorobenzene(b,c,d,e,f,g) 
+α-HCH(b,c,d,g) 
+Heptachlor epoxide(b,c,d,e,f,g) 
+Oxychlordane(b,c,e,f,g) 
+trans-Chlordane(b,c,d,e,f,g) 
+cis-Nonachlor(b,c,d,e,f,g) 
+trans-Nonachlor(b,c,d,e,f,g) 
+Dieldrin(b,c,d,e,f,g) 
+Mirex(b,c,e,f,g)   
+2,4'-DDE(b,c,e,f,g) 
+4,4'-DDE(c,d,e,f,g) 
+2,4'-DDD(c,d,e,f) 
+4,4'-DDD(b,c,d,e,f,g) 
+2,4'-DDT(c,e,f,g) 
+4,4'-DDT(b,c,d,e,f,g) 
+
+a)
+Mass Fraction(a) 
+(µg/kg) 
+
+13.4 
+23.6 
+12.8 
+54.1 
+127 
+80.8 
+
+7.48  ± 
+1.06  ± 
+± 
+± 
+± 
+± 
+± 
+± 
+5.09  ± 
+3.39  ± 
+± 
+3.31  ± 
+± 
+± 
+± 
+
+45.9 
+15.7 
+59.5 
+
+720 
+
+0.66 
+0.12 
+0.8 
+1.5 
+1.2 
+7.3 
+6 
+3.8 
+0.73 
+0.28 
+43 
+0.16 
+3.6 
+0.89 
+6.7 
+
+ 
+(a) Unless  otherwise  noted,  the  certified  values  are  the  weighted  mean  of  the  results  from  four  to  six  analytical  methods.    The 
+uncertainty  listed  with  the  value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 % 
+confidence)  calculated  by  combining  a  between-method  variance [18]  incorporating  inter-method  bias  with  a  pooled, 
+within-method  variance  following  the  ISO/JCGM  Guide [14,15].    The  measurand  is  the  total  mass  fractions  for  selected 
+chlorinated pesticides on a wet-mass basis listed in Table 3.  Metrological traceability to the SI derived unit for mass fraction 
+(expressed as micrograms per kilogram). 
+
+(b) GC-ECD (I) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC/MS (I). 
+(c) GC-ECD (IIA) on a proprietary nonpolar phase after PFE with DCM. 
+(d) GC-ECD (IIB) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC-ECD (IIA). 
+(e) GC/MS (I) on a proprietary nonpolar phase after Soxhlet extraction with DCM. 
+(f) GC/MS (II) on a 50 % phenyl methylpolysiloxane phase after PFE with hexane/acetone mixture. 
+(g) Results from up to 28 laboratories participating in an interlaboratory comparison exercise. 
+ 
+ 
+
+Table 4.  Certified Mass Fractions (Wet-Mass Basis) for  
+Selected PBDE Congeners in SRM 1947 
+
+PBDE Congener(a) 
+ 
+
+BDE 
+BDE 
+BDE 
+BDE 
+BDE 
+BDE 
+BDE 
+
+47  (2,2',4,4'-Tetrabromodiphenylether)(c,d,e,f) 
+49  (2,2',4,5'-Tetrabromodiphenylether)(c,d,e,f) 
+66  (2,3',4,4'-Tetrabromodiphenylether)(c,d,e,f) 
+99  (2,2',4,4',5-Pentabromodiphenylether)(c,d,e,f) 
+100  (2,2',4,4',6-Pentabromodiphenylether)(c,d,e,f) 
+153  (2,2',4,4',5,5'-Hexabromodiphenylether)(c,d,e,f) 
+154  (2,2',4,4',5,6'-Hexabromodiphenylether)(d,e,f) 
+
+Mass Fraction(b) 
+(µg/kg) 
+
+73.3 
+
+± 
+4.01  ± 
+1.85  ± 
+± 
+± 
+3.83  ± 
+6.88  ± 
+
+19.2 
+17.1 
+
+2.9 
+0.10 
+0.13 
+0.8 
+0.6 
+0.04 
+0.52 
+
+ 
+(a) PBDE congeners are numbered according to IUPAC rules. 
+(b) The certified values are the weighted mean of the results from three or four analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  calculated  by 
+combining a between-method variance [18] incorporating inter-method bias with a pooled, within-method variance following 
+the ISO/JCGM Guide [14,15].  The measurand is the total mass fractions for selected PBDE congeners on a wet-mass basis on 
+Table 4.  Metrological traceability is to the SI derived unit for mass fraction (expressed as micrograms per kilogram). 
+
+(c) GC/NCI-MS on a 15 m 5 % phenyl methylpolysiloxane phase. 
+(d) GC/EI-MS (I) on a 15 m 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC/NCI-MS. 
+(e) GC/EI-MS (II) on a 60 m 5 % phenyl methylpolysiloxane phase. 
+(f) GC/NCI-MS results reported by Zhu and Hites [13]. 
+ 
+
+ 
+
+SRM 1947 
+
+Page 9 of 17 
+
+Table 5.  Reference Mass Fractions (Wet-Mass Basis) for Selected PCB Congeners, PBDE Congeners, 
+Pesticides, and PFOS in SRM 1947 
+
+[ass  Fractior 
+
+ 
+
+18  (2,2',5-Trichlorobiphenyl)(b,c,d,e,f,g) 
+45  (2,2',3,6-Tetrachlorobiphenyl)(c,d,e) 
+56  (2,3,3',4'-Tetrachlorobiphenyl)(e,f) 
+70  (2,3',4',5-Tetrachlorobiphenyl)(b,c,e,f) 
+82  (2,2',3,3',4-Pentachlorobiphenyl)(b,d,e) 
+92  (2,2',3,5,5'-Pentachlorobiphenyl)(b,d,e,f) 
+95  (2,2',3,5',6-Pentachlorobiphenyl)(d,e,f,g) 
+
+PCB Congeners(a) 
+ 
+ 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB 
+PCB  151  (2,2',3,5,5',6-Hexachlorobiphenyl)(b,c,d,e) 
+PCB  154  (2,2',4,4',5,6'-Hexachlorobiphenyl)(d,e) 
+PCB  157  (2,3,3',4,4',5'-Hexachlorobiphenyl)(c,e,f) 
+PCB  163  (2,3,3',4',5,6-Hexachlorobiphenyl)(c,e,f) 
+PCB  201  (2,2',3,3',4,5,5',6'-Octachlorobiphenyl)(e,f) 
+PCB  209  (Decachlorobiphenyl)(b,c,d,e,f,g) 
+ 
+PBDE Congeners(j) 
+BDE  28  (2,4,4'-Tribromodiphenylether)(k,l,m,n) 
+33  (2',3,4-Tribromodiphenylether) 
+
+BDE  155  (2,2',4,4',6,6'-Hexabromodiphenylether)(k,m) 
+ 
+Pesticides 
+γ-HCH(b,c,d,g) 
+cis-Chlordane (α-Chlordane)(b,e,f,g) 
+ 
+Perfluorooctanesulfonic acid (PFOS)(o) 
+ 
+
+Mass Fraction 
+(µg/kg) 
+
+2.72 
+1.76 
+
+12.8 
+50 
+3.87 
+
+32.6 
+33.6 
+23.3 
+
+3.51 
+4.08 
+
+40.0 
+
+3.59 
+2.45 
+
+±  0.95(h) 
+±  0.76(i) 
+±  0.4(i) 
+± 12(h) 
+±  0.67(h) 
+±  5.2(h) 
+±  5.1(h) 
+±  5.3(h) 
+±  0.46(i) 
+±  0.77(i) 
+±  5.2(i) 
+±  0.43(i) 
+±  0.68(h) 
+
+2.26 
+
+±  0.46(h) 
+
+0.45 
+
+±  0.10(i) 
+
+0.355  ±  0.095(h) 
+49.0 
+
+±  5.5(h) 
+
+5.90 
+
+±  0.39(p) 
+
+(a)  PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [16] and later revised by Schulte and 
+Malisch [16]  to  conform  with  IUPAC  rules;  for  the  specific  congeners  listed in  this  table,  only  PCB 107  and PCB 201  are 
+different  in  the  numbering  systems.    Under  the  Ballschmiter  and  Zell  numbering  system,  the  IUPAC  PCB 107  is  listed  as 
+PCB 108 and the IUPAC PCB 201 is listed as PCB 200.  PCB 107 is listed in this table. 
+(b)  GC-ECD (I) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC/MS (I). 
+(c)  GC-ECD (IIA) on a proprietary nonpolar phase after PFE with DCM. 
+(d)  GC-ECD (IIB) on 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC-ECD (IIA). 
+(e)  GC/MS (I) on a proprietary nonpolar phase after Soxhlet extraction with DCM. 
+(f)  GC/MS (II) on a 50 % phenyl methylpolysiloxane phase after PFE with hexane/acetone mixture. 
+(g)  Results from up to 28 laboratories participating in an interlaboratory comparison exercise. 
+(h)  The reference value is the weighted mean of the results from four to six analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  calculated  by 
+combining a between-method variance [18] incorporating inter-method bias with a pooled, within-method variance following 
+the ISO/JCGM Guide [13,14].  The measurand is the total mass fractions on a wet-mass basis for the selected PCB congeners, 
+PBDE congeners, and pesticides listed in Table 5 as determined by the methods indicted.  Metrological traceability is to the SI 
+derived unit for mass fraction (expressed as micrograms per kilogram). 
+
+(i)  The reference value is the unweighted mean of the results from two to three analytical methods.  The uncertainty listed with 
+the value is an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), calculated by 
+combining a between-method variance [4] with a pooled, within-method variance following the ISO/JCGM Guide [14,15]. The 
+measurand is the total mass fractions on a wet-mass basis for the selected PCB congeners, PBDE congeners, and pesticides 
+listed in Table 5 as determined by the methods indicted.  Metrological traceability is to the SI derived unit for mass fraction 
+(expressed as micrograms per kilogram). 
+
+(j)  BDE congeners are numbered according to IUPAC rules. 
+(k)  GC/NCI-MS on a 15 m 5 % phenyl methylpolysiloxane phase. 
+(l)  GC/EI-MS (I) on a 15 m 5 % phenyl methylpolysiloxane phase; same extracts analyzed as GC/NCI-MS. 
+(m)  GC/EI-MS (II) on a 60 m 5 % phenyl methylpolysiloxane phase. 
+(n)  GC/NCI-MS results reported by Zhu and Hites [14]. 
+(o)  LC/MS/MS results from two NIST methods and an interlaboratory study. 
+(p)  The reference value is the weighted mean of the mass fractions from three analytical methods [19,20].  The uncertainty listed 
+with the value is an expanded uncertainty about the mean, with coverage factor, k = 2, calculated by combining a pooled within 
+method variance with a between method variance [21] following the ISO/JCGM Guide [14,15].  The measurand is the total 
+icted.  Metrological  traceability
+mass fractions on a wet-mass basis for PFOS listed in Table 5 as determined by the methods indicted.  Metrological traceability 
+is to the SI derived unit for mass fraction (expressed as micrograms per kilogram). 
+
+SRM 1947 
+
+Page 10 of 17 
+
+Table 6.  Reference Mass Fractions (Wet-Mass Basis) for Proximates and Caloric Content in SRM 1947 
+
+[ass  Fraction
+
+ 
+
+ 
+Proximates 
+ 
+Solids(b) 
+Ash 
+Protein 
+Fat (Extractable) 
+ 
+ 
+Caloric Content 
+ 
+Calories(c) 
+ 
+
+Mass Fraction(a) 
+(%) 
+
+27.1  ±  0.2 
+
+1.07  ±  0.07 
+17.0  ±  0.5 
+10.4  ±  0.5 
+
+Mass Fraction(a) 
+(kcal/100 g) 
+
+152 
+
+±  6 
+
+ 
+(a) Unless otherwise noted, the reference values are the weighted mean of the results provided by the laboratories in Appendix B.  
+The uncertainty listed with the value is an expanded uncertainty about the mean with coverage factor, k = 1.97, determined from 
+the Student’s t-distribution corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence, and 
+calculated to include the combined effect of between-laboratory and within-laboratory components of uncertainty, following the 
+ISO/JCGM Guide [14,15].  The measurands are the total mass fractions for ash, protein, and fat on a wet-mass basis listed in Table 6 
+as determined by the methods indicted.  Metrological traceability is to the SI derived unit of mass faction (expressed as a percent). 
+(b) The  reference  value  for  solids  is  the  unweighted  mean  of  the  mean  of  the  average  of  results  provide  by  laboratories  listed  in 
+Appendix B and the mean of the NIST measurements.  The uncertainty listed with the value is an expanded uncertainty about the 
+mean,  with  coverage  factor,  k = 1.96,  determined  from  the  Student’s  t-distribution  corresponding  to  the  appropriate  associated 
+degrees of freedom and approximately 95 % confidence, and calculated by combining a between-method variance [4] with a pooled, 
+within-method  variance  following  the  ISO/JCGM  Guide [14,15].    The  measurands  are  the  total  mass  fractions  for  solids  on  a 
+wet-mass basis listed in Table 6 as determined by the methods indicted.  Metrological traceability is to the SI derived unit of mass 
+faction (expressed as a percent). 
+
+(c) The value for caloric content is the mean of individual caloric calculations from the laboratories listed in Appendix B.  If the 
+proximate  values  above  are  used  for  calculation,  with  caloric  equivalents  of  9,  4,  and  4  for  fat,  protein,  and  carbohydrates, 
+respectively,  the  mean  caloric  content  is  165 kcal/100 g.  The  information  mass  fraction  value  for  carbohydrates  is  listed  in 
+Table 9.  The measurand is the total mass fraction for calories on a wet-mass basis in Table 6 as determined by the methods 
+indicted.  Metrological traceability is to the SI derived unit for energy (expressed as kilocalories per 100 g).  
+
+SRM 1947 
+
+Page 11 of 17 
+
+Table 7.  Reference Mass Fractions (Wet-Mass Basis) for Fat and Selected Fatty Acids in SRM 1947 
+
+elected
+
+for 
+
+Fat 
+ 
+
+ 
+
+Fat (Sum of Fatty Acids)(b) 
+Saturated Fat 
+Monosaturated Fat 
+Polyunsaturated Fat 
+ 
+Fatty Acid (as the triglyceride) 
+ 
+Pentadecanoic Acid (C15:0) 
+Hexadecanoic Acid (C16:0) 
+(Palmitic Acid) 
+Heptadecanoic Acid (C17:0) 
+(Margaric Acid) 
+Octadecanoic Acid (C18:0) 
+
+(Stearic Acid) 
+
+ 
+
+ 
+
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2) 
+
+(Linoleic Acid) 
+
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3) 
+ 
+(Z,Z,Z,Z,)-6,9,12,15-Octadecatetraenoic Acid (C18:4) 
+
+(Linolenic Acid) 
+
+(Stearidonic Acid) 
+(Z)-9-Eicosenoic Acid (C20:1) 
+
+(Gadoleic Acid) 
+
+(Z,Z)-11,14-Eicosadienoic Acid (C20:2) 
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic Acid (C20:4) 
+
+(Arachidonic Acid) 
+
+Mass Fraction(a) 
+
+(%) 
+
+8.50 
+1.75 
+3.55 
+2.84 
+
+± 
+± 
+± 
+± 
+
+0.54 
+0.22 
+0.22 
+0.44 
+
+0.025 
+1.14 
+
+± 
+± 
+
+0.004 
+0.08 
+
+0.024 
+
+± 
+
+0.007 
+
+0.230  ± 
+
+0.019 
+
+0.375 
+
+±  0.014 
+
+0.287  ± 
+
+0.026 
+
+0.120  ± 
+
+0.025 
+
+0.138  ± 
+
+0.028 
+
+0.100  ± 
+0.247  ± 
+
+0.015 
+0.035 
+
+(Z,Z,Z,Z,Z)-5,8,11,14,17-Eicosapentaenoic Acid (C20:5) (EPA) 
+(Z,Z,Z,Z,Z)-7,10,13,16,19-Docosapentaenoic Acid (C22:5) (DPA) 
+(Z,Z,Z,Z,Z,Z)-4,7,10,13,16,19-Docosahexaenoic Acid (C22:6) (DHA) 
+
+0.395  ± 
+0.320  ± 
+0.874  ± 
+
+0.034 
+0.017 
+0.059 
+
+ 
+(a)  The reference values are the weighted mean of the results provided by five to ten laboratories in Appendix B.  The uncertainty 
+listed with the value is an expanded uncertainty about the mean with coverage factor, k = 1.97, determined from the Student’s 
+t-distribution corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence, and calculated 
+to include the combined effect of between-laboratory and within-laboratory components of uncertainty, following the ISO/JCGM 
+Guide [14,15].  The measurand is the total mass fraction for fat and selected fatty acids on a wet-mass basis listed in Table 7 as 
+determined by the methods indicted.  Metrological traceability to the SI derived unit for mass fraction (expressed as a percent). 
+
+(b)  Fat as the sum of the fatty acids represents the sum of individual fatty acid concentrations reported in Table 7. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 1947 
+
+Page 12 of 17 
+
+Table 8.  Reference Values for Hg Isotope Ratio Differences in SRM 1947  
+ 
+
+ 
+
+δ199Hg 
+δ200Hg 
+δ201Hg 
+δ202Hg 
+δ204Hg 
+ 
+
+Δ199Hg 
+Δ200Hg 
+Δ201Hg 
+Δ204Hg 
+ 
+
+Isotope Ratios(a,b,c) 
+(‰) 
+ 
+± 
+± 
+± 
+± 
+± 
+
+0.25 
+0.09 
+0.18 
+0.07 
+0.07 
+
+5.62 
+0.69 
+5.09 
+1.20 
+1.66 
+
+5.31 
+0.09 
+4.17 
+-0.13 
+
+±  0.29 
+±  0.02 
+±  0.28 
+±  0.02 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Mass-Independent Fractionation 
+Isotope Ratios(a,b,c) 
+(‰) 
+
+ 
+(a)  All δ values are reported in permil, ‰ (part per thousand, equal to 0.001) 
+No.  061204) 
+(b)  Relative to the isotope ratios in NIST SRM 3133 Mercury (Hg) Standard Solution (Lot No. 061204) 
+(c)  Isotopic reference values are non-certified values that are the best estimate of the true value; however, the values may not 
+:  value;  however,  the  values  may  not
+meet the NIST criteria  for certification and are provided with associated uncertainties that may reflect only  measurement 
+precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple 
+analytical methods [1].  These recommended isotopic reference values were determined from a consensus estimate among 
+five expert labs reporting nine methods using a weighted means statistical model [22].  The expanded uncertainty for isotopic 
+values  were  determined  using  a  Birge  ratio  expansion  model  and  a  coverage  factor  (k)  of  2.571  to  provide  an  expanded 
+uncertainty interval that has approximately a 95 % probability of encompassing the consensus mean [22] based on uncertainty 
+sources evaluated by Type A methods.  Type B uncertainty and uncertainty in the bias of the methods is not included. The 
+measurands are the Hg isotope ratios as determined by the methods used.  Metrological traceability is to the delta scale to 
+report  the  measured  isotope  ratios  relative  to  the  isotope  ratios  in  NIST  SRM 3133  Mercury (Hg)  Standard  Solution 
+(Lot No. 061204) as described in the methods used. 
+
+ 
+
+ 
+
+ 
+
+SRM 1947 
+
+Page 13 of 17 
+
+Table 9.  Information Mass Fractions (Wet-Mass Basis) for Selected Perfluoroalkyl Acids (PFAAs) and 
+α-Hexabromocyclododecane (α-HBCD) in SRM 1947 
+
+Fractions 
+
+oalkyl  Acids 
+
+ 
+ 
+PFAA 
+ 
+Perfluorononanoic acid (PFNA)(b) 
+Perfluorodecanoic acid (PFDA)(b) 
+Perfluoroundecanoic acid (PFUnA)(b) 
+Perfluorotridecanoic acid (PFTriA)(b) 
+ 
+α-Hexabromocyclododecane (α-HBCD)(c) 
+ 
+
+a) 
+Mass Fraction(a) 
+(µg/kg) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+0.20 
+0.26 
+0.28 
+0.20 
+
+3.39 
+
+(a) Information values are typically provided with no uncertainty because of the lack of sufficient information to assess adequately 
+
+is  relatively  large. 
+the uncertainty associated with the value.  It may be assumed that the uncertainty is relatively large. 
+
+(b) LC/MS/MS results from two NIST methods and an interlaboratory study. 
+(c) LC/MS/MS results from three NIST methods. 
+ 
+ 
+
+Table 10.  Information Mass Fraction (Wet-Mass Basis) for Carbohydrates in SRM 1947 
+
+Carbohydrates 
+
+ 
+
+ 
+ 
+
+Mass Fraction(a) 
+
+ 
+
+(%) 
+
+Carbohydrates 
+
+ 
+ 
+ 
+ 
+(a) The mass fraction value for carbohydrates is provided as an information value only; information values are typically provided 
+lue.
+with no uncertainty because of the lack of sufficient information to assess adequately the uncertainty associated with the value.  
+It may be assumed that the uncertainty is relatively large. 
+
+information 
+
+0.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government 
+Printing 
+at: 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed May 2017). 
+
+Washington, DC 
+
+available 
+
+(2000); 
+
+Office: 
+
+ 
+
+[2]  Zeisler, R.;  Langland, J.K.;  Harrison, S.H.;  Cryogenic  Homogenization  of  Biological  Tissues;  Anal.  Chem., 
+
+Vol. 55, pp. 2431–2434 (1983). 
+
+[3]  Wise, S.A.;  Christensen, R.G.;  Benner, B.A. Jr.;  Koster, B.J.;  Schantz, M.M.;  Zeisler, R.;  Preparation  and 
+Analysis of a Frozen Mussel Tissue Reference Material for the Determination of Trace Organic Constituents; 
+Environ. Sci. Technol., Vol. 25, pp. 1695–1704 (1991). 
+
+[4]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.;  Guthrie, W.F.;  Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[5]  Christopher, S.J.;  Long, S.E.;  Rearick, M.S.;  Fassett, J.D.;  Development  of  Isotope  Dilution  Cold  Vapor 
+Inductively  Coupled  Plasma Mass  Spectrometry  and Its  Application  to  the  Certification  of  Mercury  in  NIST 
+Standard Reference Materials; Anal. Chem., Vol. 73, pp. 2190–2199 (2001). 
+
+[6]  Donais, M.K.;  Saraswati, R.;  Mackey, E.;  Demiralp, R.;  Porter, B.J.;  Vangel, M.;  Levenson, M.;  Mandic, V.; 
+Azemard, S.;  Horvat, M.;  May, K.;  Emons, H.;  Wise, S.;  Certification  of  Three  Mussel  Tissue  Standard 
+Reference  Materials (SRMs)  for  Methylmercury  and  Total  Mercury  Content;  Fresenius’  J.  Anal.  Chem., 
+Vol. 358, pp. 424–430 (1997). 
+
+[7]  Tutschku, S.;  Schantz, M.M.;  Horvat, M.;  Logar, M.;  Akagi, H.;  Emons, H.;  Levenson, M.;  Wise, S.A.; 
+Certification  of  the  Methylmercury  Content  in  SRM 2977  Mussel  Tissue  and  SRM 1566b  Oyster  Tissue; 
+Fresenius’ J. Anal. Chem., Vol. 369, pp. 364–369 (2001). 
+
+[8]  Davis, W.C.;  Vander  Pol, S.S.;  Schantz, M.M.;  Long, S.E.;  Day, R.D.;  Christopher, S.J.;  An  Accurate  and 
+Sensitive Method for the Determination of Methylmercury in Biological Specimens using GC-ICP-MS with Solid 
+Phase Microextraction; J. Anal. At. Spectrom., Vol. 19, pp. 1546–1551 (2004). 
+
+SRM 1947 
+
+Page 14 of 17 
+
+[9]  Davis, W.C.;  Christopher, S.J.;  Pugh, R.S.;  Donard, O.F.X.;  Krupp, E.A.;  Point, D.;  Horvat, M.;  Gibicar, D.; 
+Kljakovic-Gaspic, Z.;  Porter, B.J.;  Schantz, M.M.;  Certification  of  Methylmercury  Content 
+in  Two 
+Fresh-Frozen Reference Materials: SRM 1947 Lake Michigan Fish Tissue and SRM 1974b Organics in Mussel 
+Tissue (Mytilus edulis); Anal. Bioanal. Chem., Vol. 387, pp. 2335–2341 (2007). 
+
+[10]  Blum, J.D.;  Bergquist, B.A;  Reporting  of  Variation  in  the  Natural  Isotopic  Composition  of  Mercury;  Anal. 
+
+Bioanal. Chem., Vol. 388, pp. 353–359 (2007). 
+
+[11]  Poster, D.L.;  Kucklick, J.R.;  Schantz, M.M.;  Porter, B.J.;  Leigh, S.D.;  Wise, S.A.;  Determination  of 
+Polychlorinated Biphenyl Congeners and Chlorinated Pesticides in a Fish Tissue Standard Reference Material; 
+Anal. Bioanal. Chem., Vol. 375, pp. 223–241 (2003). 
+
+[12]  Schantz, M.M.; Parris, R.M.; Wise, S.A.; NIST/NOAA NS&T Intercomparison Exercise Program for Organic 
+Contaminants in the Marine Environment: Description and Results of 2002 Organic Intercomparison Exercises; 
+NISTIR  6920;  National  Institute  of  Standards  and  Technology,  U.S.  Department  of  Commerce: 
+Gaithersburg, MD (2005). 
+
+[13]  Zhu, L.Y.; Hites, R.A.; Determination of Polybrominated Diphenyl Ethers in Environmental Standard Reference 
+
+Materials; Anal. Chem., Vol. 75, pp. 6696–6700 (2003). 
+
+[14]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr  2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/sites/default/files/documents/2017/05/09/tn1297s.pdf (accessed May 2017). 
+
+[15]  JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the “Guide to the expression of uncertainty 
+in  measurement”  -  Propagation  of  distributions  using  a  Monte  Carlo  method;  JCGM (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed May 2017). 
+
+[16]   Ballschmiter, K.;  Zell, M.;  Analysis  of  Polychlorinated  Biphenyls (PCB)  by  Glass  Capillary  Gas 
+Chromatography - Composition of Technical Arachlor - and Clophen-PCB Mixtures; Fresenius’ J. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+[17]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius’ J. Anal. Chem., Vol. 314, pp. 545–551 (1983). 
+[18]  Ruhkin, A.L.; Vangel, M.G.; Estimation of a Common Mean and Weighted Means Statistics; J. Am. Stat. Assoc.; 
+
+Vol. 93, pp. 303–308 (1998). 
+
+[19]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[20]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[21]  Horn, R.A.;  Horn, S.A.;  Duncan, D.B.;  Estimating  Heteroscedastic  Variance  in  Linear  Models;  J.  Am.  Stat. 
+
+[22]  Toman, B.,  Fischer, J.,  Elster, C;  Alternative  Analyses  of  Measurements  of  the  Planck  Constant;  Metrologia, 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+Vol. 49, pp. 567–571 (2012). 
+
+ 
+ 
+ 
+ 
+Certificate Revision History:  31 May 2017 (Addition of reference values for mercury isotopes; editorial changes); 05 January 2016 (Editorial 
+changes); 25 August 2014 (Removal of reference values, tetradecanoic acid (C14:0), (Z)-9-Hexadecenoic Acid (C16:1), and (Z)-9-octadecenoic 
+acid  (C18:1)  in  Table 7,  due  to  recent  analysis  indicating  bias;  editorial  changes);  19 September 2012  (Addition  of  minimum  sample  size,  a 
+reference  value  for  perfluorooctanesulfonic  acid,  and  an  information  value  for  α-hexabromocyclododecane  were  added;  editorial  changes); 
+30 August 2007 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 1947 
+
+Page 15 of 17 
+
+APPENDIX A 
+
+ 
+The laboratories listed below performed measurements that contributed to the value assignment for PCBs and pesticides 
+in SRM 1947. 
+ 
+Academy of Natural Sciences; Philadelphia, PA, USA 
+ALS Environmental; Vancouver, BC, Canada 
+Arthur D. Little, Inc.; Cambridge, MA, USA 
+Axys Analytical Services; Sidney, BC, Canada 
+B & B Laboratories; College Station, TX, USA 
+Battelle Columbus; Columbus, OH, USA 
+Battelle Ocean Sciences; Duxbury, MA, USA 
+Bedford Institute of Oceanography; Dartmouth, NS, Canada 
+Chesapeake Biological Laboratory; Solomons, MD, USA 
+City of Los Angeles, Environmental Monitoring Division; Playa del Rey, CA, USA 
+East Bay Municipal Utility District; Oakland, CA, USA 
+EnChem, Inc.; Madison, WI, USA 
+Environment Canada, Environmental Sciences Centre; Moncton, New Brunswick, Canada 
+King County Environmental Laboratory; Seattle, WA, USA 
+Manchester Environmental Laboratory; Port Orchard, WA, USA 
+Mississippi State Chemical Laboratory; Mississippi State, MS, USA 
+Murray State University; Murray, KY, USA 
+National Oceanic and Atmospheric Administration, National Marine Fisheries Service (NOAA/NMFS), Center for 
+
+Coastal Environmental Health and Biomolecular Research (CCEHBR); Charleston, SC, USA 
+
+NOAA/NMFS, Sandy Hook Marine Laboratory; Highlands, NJ, USA 
+NOAA/NMFS, Northwest Fisheries Science Center; Seattle, WA, USA 
+Orange County Sanitation District; Fountain Valley, CA, USA 
+Philip Analytical Services; Burlington, Ontario, Canada 
+STL Knoxville; Knoxville, TN, USA 
+STL Sacramento; Sacramento, CA, USA 
+Texas A & M University, Geochemical and Environmental Research Group (GERG); College Station, TX, USA 
+U.S. Geological Survey, National Water Quality Laboratory; Denver, CO, USA 
+Woods Hole Group Environmental Laboratory; Raynham, MA, USA 
+ 
+ 
+
+APPENDIX B 
+
+ 
+The laboratories listed below performed measurements that contributed to the value assignment for proximates, caloric 
+content, extractable fat, fatty acids, and trace elements in SRM 1947. 
+ 
+Campbell Soup; Camden, NJ, USA 
+Covance Laboratories; Madison, WI, USA 
+Eurofins; Memphis, TN, USA 
+General Mills, Inc.; Golden Valley, MN, USA 
+Hormel Foods Corporation; Austin, MN, USA 
+Kraft Foods Inc.; Hanover, NJ, USA 
+Kraft Foods Inc.; Glenview, IL, USA 
+Krueger Food Laboratories, Inc.; Cambridge, MA, USA 
+Nestlé USA; Dublin, OH, USA 
+Novartis Nutrition Technical Center; St. Louis Park, MN, USA 
+ 
+
+ 
+
+SRM 1947 
+
+Page 16 of 17 
+
+APPENDIX C 
+
+ 
+The laboratories listed below performed measurements that contributed to the value assignment for trace elements in 
+SRM 1947. 
+ 
+NOAA/NMFS, Northwest Fisheries Science Center; Seattle, WA, USA 
+USDA Beltsville Human Nutrition Center; Beltsville, MD, USA 
+Australian Nuclear Science and Technology Organization; Sydney, Australia 
+Centre for Environment, Fisheries and Aquaculture Science; Burnham-on-Crouch, Essex, UK 
+Curtin University Center for Excellence in Mass Spectrometry; Perth, Australia 
+University of Connecticut Environmental Research Institute; Storrs, CT, USA 
+Geological Survey of Canada; Ottawa, Canada 
+Hill Laboratories; Hamilton, New Zealand 
+University of Alaska Fairbanks, Institute of Arctic Biology; Fairbanks, Alaska, USA 
+Karl-Franzens Universität Graz Institute of Chemistry; Graz, Austria 
+Midwest Research Institute (Florida Division); Palm Bay, FL, USA 
+Politechnika Poznanska; Poznań, Poland 
+PSC Analytical; Mississauga, Canada 
+R.J. Reynolds Tobacco Company; Winston-Salem, NC, USA 
+Research Triangle Institute; Chapel Hill, NC, USA 
+Savannah River Ecology Laboratory; Aiken, SC, USA 
+Texas A&M University Trace Element Research Laboratory; College Station, TX, USA 
+Texas A&M University Department of Veterinary Anatomy and Public Health; College Station, TX, USA 
+Ultra-Traces Analyses Aquitaine, Laboratoire de Chimie Analytique Bio-Inorganique et Environnement; 
+ 
+University of Massachusetts Department of Chemistry; Amherst, MA, USA 
+University of Massachusetts University Research Institute for Analytical Chemistry; Amherst, MA, USA 
+Universidade Da Coruna; Coruna, Spain 
+University of Iowa Hygienic Laboratory; Des Moines, IA, USA 
+University of Maine; Orono, ME, USA 
+University of Nevada Las Vegas; Las Vegas, NV, USA 
+ 
+ 
+
+University of Pau, Pau, France 
+
+APPENDIX D 
+
+ 
+The  laboratories  listed  below  performed  measurements  that  contributed  to  the  value  assignment  for  PFAAs  in 
+SRM 1947. 
+ 
+3M Company; St. Paul, MN, USA 
+Bundesamt fuer Seeschifffahrt und Hydrographie; Hamburg, Germany 
+Environment Canada; Burlington, Canada 
+University of Toronto; Toronto, Canada 
+US Environmental Protection Agency; Research Triangle Park, NC, USA 
+Wageningen IMARES; Ijmuiden, The Netherlands 
+ 
+
+PFAAs
+
+APPENDIX E 
+ 
+
+The laboratories listed  below  performed  measurements  that  contributed  to  the  value  assignment of mercury 
+isotopes in SRM 1947. 
+ 
+University of Michigan, Ann Arbor, Michigan, USA 
+University of Pau, Institut Pluridisciplinaire de Recherche sur l′Environnement et les Materiaux Equipe de Chimie Analytique   
+     BioInorganique et Environnement, Pau, France 
+Laboratoire Geosciences Environnement Toulouse (LMTG), Toulouse, France 
+Trent University, Petersborough, Canada 
+NIST, Hollings Marine Laboratory, Charleston, South Carolina, USA 
+ 
+
+SRM 1947 
+
+Page 17 of 17 
+
+

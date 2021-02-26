@@ -1,0 +1,448 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+MSDS Coordinator:  Mario Cellarosi
+Telephone:  301-975-2200 
+FAX:  301-926-4751 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  3075
+MSDS Number:  3075
+SRM Name:  Aroclor 1060 in Transformer Oil
+
+Date of Issue:  20 September 2011 
+
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
++1-703-527-3887 (International) 
+
+Description:  This Standard Reference Material (SRM) is a solution of Aroclor 1060 (Chemical Abstracts Registry 
+Number  12674-11-2)  in  transformer  oil.    This  SRM  is  intended  primarily  for  calibrating  chromatographic 
+instrumentation  and  methods  of  analysis  used  for  the  determination  of  Aroclor  1060  and  polychlorinated 
+biphenyls (PCBs)  in  transformer  oil.    A  unit  of  SRM 3075  consists  of  five  2 mL  ampoules,  each  containing 
+approximately 1.2 mL of transformer oil. 
+
+Substance:  Transformer Oil, Aroclor 1060 
+
+Other Designations: 
+Transformer  Oil  (hydrotreated  light  naphthenic  distillates  [petroleum];  distillates,  petroleum,  hydrotreated  light 
+naphthenic;  hydraulic  petroleum  oil;  mineral  oil,  petroleum  distillates,  hydrotreated  light  naphthenic;  petroleum 
+electrical insulating oil). 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4):  Health = 2 
+
+Fire = 1 
+
+Reactivity = 0 
+
+NOTE:  The health and safety information included in this MSDS is for transformer oil, the main component of this 
+SRM.    The  concentration  of  Aroclor 1060  in  this  NIST  SRM  is  below  the  reportable  limits  for  hazardous 
+components (1 %) and/or carcinogens (0.1 %), as required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS 
+information. 
+
+Major Health Hazards: Irritation (eye, respiratory tract, and skin), aspiration hazard, and cancer. 
+
+Physical Hazards:  Not Applicable. 
+
+Potential Health Effects (Acute and Chronic): 
+
+Inhalation:  There is no specific information for acute or chronic inhalation effects for transformer oil.   
+
+Skin  Contact:    Short-term  and  long-term  contact  with  transformer  oil  material  may  cause  skin  irritation  and 
+dermatitis.(a)   
+
+Eye Contact:  Short-term and long-term exposure to transformer oil may cause irritation. 
+
+Ingestion:  Acute ingestion of transformer oil may cause abdominal pain, nausea, and vomiting.  Small amounts 
+of  oil  aspirated  during  ingestion  or  vomiting  may  cause  lung  damage;  no  information  available  for  long-term 
+exposure to transformer oil.   
+
+Listed as a Carcinogen/Potential Carcinogen  
+
+Component:  Transformer Oil(a) 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+(a)European Commission (EC) states transformer oil may cause cancer (see Sections 3 and 15). 
+
+Yes 
+ 
+ 
+ 
+
+ 
+
+ 
+
+No 
+X 
+X 
+X 
+
+ 
+
+ 
+
+MSDS 3075 
+
+ 
+
+Page 1 of 5 
+
+ 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+ 
+
+Component 
+
+Transformer Oil 
+
+CAS Number 
+
+  64742-53-6 
+
+EC Number  
+(EINECS)
+265-156-6 
+
+Nominal Mass 
+Concentration
+99.99 
+
+This material contains organic and inorganic compounds incorporated in transformer oil (PCBs, PAHs, or other contaminants), 
+which  have  been  reported  to  have  toxic,  mutagenic,  and/or  carcinogenic  properties,  and  should  be  handled  with  care.    The 
+concentrations  of  these  compounds  that  are  not  listed  above  are  below  the  reportable  limit:    hazardous  components  (1 %); 
+carcinogens (0.1 %), required by OSHA, 29 CFR 1910.1200 (g)(2)(i)(C)(1), for MSDS information. 
+
+Components:  Transformer Oil 
+
+EC Classification: 
+EC Risk (R No.): 
+EC Safety (S No.): 
+
+T (Carc. Cat. 2) 
+45 
+45; 53 
+
+4.  FIRST AID MEASURES 
+
+EC Classification Risk/Safety Phrases:  Refer to Section 15, “Regulatory Information”. 
+
+Inhalation:    Move  the  person  to  fresh  air  immediately.    If  not  breathing,  qualified  medical  personnel  may  give 
+artificial respiration or oxygen if necessary.  Seek medical aid at once, and bring the container or label. 
+Skin Contact:  Remove contaminated clothing and shoes.  Flush affected skin with water for at least 15 minutes, 
+and then wash thoroughly with soap or mild detergent and water.  If skin irritation persists, seek medical aid and 
+bring the container or label.  Wash contaminated clothing before reusing. 
+Eye Contact:  Do not allow victim to rub eyes or keep eyes closed.  Flush eyes with large amounts of running water 
+for at least 15 minutes, keeping eyelids open and raising lids to remove all chemical. Seek medical aid at once, and 
+bring the container or label. 
+Ingestion:    Contact  a  poison  control  center  immediately  for  instructions.    Do  not  induce  vomiting.    If  vomiting 
+occurs, keep head lower than hips to reduce risk of aspiration.  Seek medical aid at once, and bring the container or 
+label. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard. 
+Extinguishing Media:  Use extinguishing media appropriate to the surrounding fire. 
+Fire  Fighting:    Avoid  inhalation  of  material  or  combustion  byproducts.    Wear  full  protective  clothing  and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+Flash Point (C):  146 (295 °F) 
+Method Used:  ASTM D 92, Cleveland Open Cup (COC) 
+
+Autoignition Temp. (C):  Not available. 
+Flammability Limits in Air 
+
+UPPER (Volume %):  Not applicable. 
+LOWER (Volume %):  Not applicable. 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Collect spilled liquid with sand or other non-combustible material and place in appropriate 
+container for proper disposal. 
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Storage: Store and handle in accordance with all current regulations and standards. 
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+ 
+
+ 
+
+MSDS 3075 
+
+ 
+
+Page 2 of 5 
+
+ 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits 
+
+Component:  Transformer Oil 
+
+No occupational limits established.  
+
+Ventilation:  Use local or general exhaust to keep employee from exposures.  Local exhaust ventilation is preferred 
+because it can control contaminant emissions at the source, preventing dispersion into the general work area.  Refer 
+to the ACGIH document Industrial Ventilation, a Manual of Recommended Practices. 
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets  OSHA 
+29 CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+Eye Protection:  Use chemical safety goggles where splashing of solutions may occur.  Provide an emergency eye 
+wash fountain and safety shower in the immediate work area. 
+Personal Protection:  Wear appropriate gloves and protective clothing to prevent contact with skin. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Transformer Oil 
+Appearance and Odor:  Clear, bright liquid. 
+Molecular Formula:  Complex hydrocarbon mixture. 
+Molar Mass (g/mol):  Not applicable. 
+Specific Gravity (water = 1):  0.889 
+Boiling Point (°C):  >154 (>309 ˚F) 
+Melting Point:  Not applicable. 
+Water Solubility:  Insoluble. 
+Solvent Solubility:  Not applicable. 
+
+10.  STABILITY AND REACTIVITY 
+
+ 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Stable at normal temperatures and pressure. 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION  
+ 
+Route of Entry: 
+
+Inhalation 
+
+X 
+
+Toxicity Data 
+
+Component:  Transformer Oil 
+LD50 (Rat-oral):  >5 g/kg 
+LC50 (Rat-inhalation):  2.2 g/m3 (4 h) 
+
+Conditions to Avoid:  Avoid heat, flames, and ignition sources.  Avoid contact with incompatible materials. 
+Incompatible Materials:  Oxidizing agents. 
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+Hazardous Decomposition:  Oxides of carbon. 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Health Effects:  See Section 2: “Hazards Identification” for potential health effects. 
+Target Organs:  Skin and upper respiratory tract. 
+Medical Conditions Aggravated by Exposure:  Respiratory disorders, skin disorders and allergies. 
+Mutagen/Teratogen: 
+
+Component:  Transformer Oil 
+
+Transformer oil has been investigated as a possible tumorigenic effector.  The following endpoint is listed in 
+the Registry of Toxic Effects of Chemical Substances (RTECS) for tumorigenic effects:   
+Mouse, Skin, TDLo:  480 g/kg (80 week). 
+
+ 
+
+ 
+
+MSDS 3075 
+
+ 
+
+Page 3 of 5 
+
+ 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data 
+
+Component:  Transformer oil 
+
+Aquatic Toxicity 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Fish:  rainbow trout (Oncorhynchus mykiss), >5000 mg/L (LC50/96 hrs). 
+Invertebrate:  freshwater water flea (daphnia magna), >1000 mg/L (EC50/48 hrs). 
+
+Waste  Disposal:    Dispose  in  accordance  with  federal,  state,  and  local  requirements,  which  vary  according  to 
+location.  Keep out of water supplies and sewers. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT and IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. REGULATIONS 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+Yes 
+ACUTE HEALTH: 
+CHRONIC HEALTH:  Yes 
+No 
+FIRE: 
+No 
+REACTIVE: 
+No 
+PRESSURE: 
+
+STATE REGULATIONS 
+
+California Proposition 65:  Not regulated. 
+
+CANADIAN REGULATIONS 
+
+WHMIS Classification:  Not provided for this material. 
+
+EUROPEAN REGULATIONS 
+
+Component:  Transformer Oil 
+
+EC Classification: 
+
+T – Toxic (Carc. Cat. 2). 
+
+EC Risk Phrases: 
+
+R45 - May cause cancer. 
+
+EC Safety Phrases: 
+
+NATIONAL INVENTORY STATUS 
+
+U.S. Inventory (TSCA):  Transformer oil listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+ 
+
+ 
+
+ 
+
+S45 - In  case  of  accident  or  if  you  feel  unwell,  seek  medical  advice  immediately  (show  the  label  where 
+possible). 
+S53 - Avoid exposure – obtain special instructions before use. 
+
+MSDS 3075 
+
+ 
+
+Page 4 of 5 
+
+ 
+
+16.  OTHER INFORMATION 
+ 
+Sources:  ChemAdvisor, MSDS Transformer oil, 06 April 2011. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not  certify  the  data  in  the  MSDS.    The  certified  values  for  this  material  are  given  in  the  NIST  Report  of 
+Investigation. 
+
+MSDS 3075 
+
+ 
+
+Page 5 of 5 
+
+

@@ -1,0 +1,692 @@
+﻿ 
+SAFETY DATA SHEET 
+
+Date of Issue: 
+26 February 2016 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+928 
+SRM Number: 
+SRM Name: 
+Lead Nitrate 
+Other Means of Identification:  Not applicable. 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in the calibration and standardization of 
+procedures and for routine critical evaluation of the daily working standards use in these procedures.  This SRM 
+is certified for use as an assay standard for lead.  A unit of SRM 928 consists of 30 g of lead nitrate powder. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+ 
+ 
+ 
+Label Elements 
+Symbol: 
+
+Category 2 
+Oxidizing Solid 
+Acute Toxicity, Oral 
+Category 4 
+Acute Toxicity, Inhalation  Category 4 
+Carcinogenicity 
+Reproductive Toxicity 
+STOT, Repeated Exposure  Category 2 
+
+Category 1B 
+Category 1A 
+
+Signal Word:  DANGER 
+
+ 
+
+Hazard Statement(s): 
+H272 
+H302 
+H332 
+H350 
+H360 
+H373 
+
+May intensify fire; oxidizer. 
+Harmful if swallowed. 
+Harmful if inhaled. 
+May cause cancer. 
+May damage fertility or the unborn child. 
+May cause damage to organs through prolonged or repeated exposure. 
+
+Precautionary Statement(s): 
+P201 
+P202 
+P210 
+P220 
+P221 
+P260 
+P264 
+P270 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Keep away from heat. 
+Keep away from clothing and combustible materials. 
+Take any precaution to avoid mixing with combustibles. 
+Do not breathe dust. 
+Wash hands thoroughly after handling. 
+Do not eat, drink or smoke when using this product. 
+
+SRM 928 
+
+ 
+
+Page 1 of 6 
+
+P271 
+P280 
+ 
+P301 + P312 
+P330 
+ 
+P304 + P340 
+ 
+P308 + P313 
+ 
+P405 
+P501 
+
+Use only outdoors or in a well-ventilated area. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+If swallowed:  Call a doctor if you feel unwell. 
+Rinse mouth. 
+
+If inhaled:  Remove person to fresh air and keep comfortable for breathing. 
+
+If exposed of concerned:  Get medical attention. 
+
+Store locked up. 
+Dispose of contents and container according to local regulations. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Lead nitrate 
+
+Other Designations:  Lead (II) nitrate; lead dinitrate; nitric acid, lead (2+) salt. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration  
+(%) 
+
+Lead nitrate 
+
+10099-74-8 
+
+233-245-9 
+
+99.5 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+
+Ingestion:  If a large amount is swallowed, seek medical attention. 
+
+Most  Important  Symptoms/Effects,  Acute  and  Delayed:    Nausea,  vomiting,  metallic  taste,  thirst,  a  burning 
+sensation in the mouth and throat, salivation, abdominal pain with severe colic.  Delayed effects include cancer, birth 
+defects, and reproductive effects. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire  and  Explosion  Hazards:    Negligible  fire  hazard.    See  Section 9,  “Physical  and  Chemical  Properties”  for 
+flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing media appropriate for the surrounding area. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for  Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 2 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Keep unnecessary personnel away.  
+Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+SRM 928 
+
+ 
+
+Page 2 of 6 
+
+Methods and Materials for Containment and Clean up:  Notify safety personnel of spills.  Collect spilled material 
+in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+7.  HANDLING AND STORAGE 
+
+Safe  Handling  Precautions:    Use  methods  to  minimize  dust.    See  Section 8,  “Exposure  Controls  and  Personal 
+Protection”. 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: (as Pb, related to lead compounds) 
+
+NIOSH (REL): 
+
+0.050 mg/m3 (TWA) 
+
+ 
+
+100 mg/m3 (IDLH) 
+
+ACGIH (TLV): 
+
+0.05 mg/m3 (TLV) 
+
+OSHA (PEL): 
+ 
+
+50 μg/m3 (TWA) 
+30 μg/m3 (Action Level, See 29 CFR 1910.1025) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA 29CFR 1910.134  must  be  followed.    Refer  to  NIOSH  42 CFR 84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear chemical resistant safety goggles.  An eyewash station should be readily available 
+near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+Appearance  
+
+Lead nitrate 
+colorless to yellow powder 
+
+ 
+
+ 
+
+(physical state, color, etc.): 
+
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density as specific gravity 
+
+(water=1): 
+
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+
+Partition coefficient (n-octanol/water): 
+Particle Size: 
+
+ 
+
+Pb(NO3)2 
+331.21 
+not available 
+not available 
+20 % solution (3 to 4) 
+not applicable 
+not available 
+4.53 
+
+not available 
+not available 
+not available 
+water soluble at 38 % (0 °C); soluble in alcohol, 
+alkali,  and  ammonia;  insoluble  in  concentrated 
+nitric acid 
+not available 
+not applicable 
+
+SRM 928 
+
+ 
+
+Page 3 of 6 
+
+Thermal Stability Properties 
+
+Autoignition Temperature (ºC): 
+Thermal Decomposition (ºC): 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL (Volume %): 
+Explosive Limits, UEL (Volume %): 
+Flash Point (ºC): 
+Flammability (solid, gas): 
+
+10.  STABILITY AND REACTIVITY 
+
+Lead nitrate 
+
+not available 
+470 (878 ºF) 
+not available 
+not available 
+not available 
+not available 
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  No data available. 
+
+Conditions to Avoid:  None reported. 
+
+Incompatible Materials:  Acids, combustible materials, metal salts, reducing agents. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Lead, oxides of nitrogen. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Fatigue, weakness, anorexia, 
+anemia, jaundice, encephalopathy. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:  Short term inhalation of lead may cause irritation, nausea, vomiting, kidney damage, liver damage.  
+Prolonged exposure to lead may result in an accumulation in body tissues and exert adverse effects on the blood, 
+nervous system, heart, endocrine and immune systems, kidneys, and reproduction. 
+
+Skin Contact:  Prolonged or repeated exposure to lead may cause irritation; exposure to lead powder may cause 
+dermatitis. 
+
+Eye Contact:  Contact with lead may cause eye irritation. 
+
+Ingestion:  Ingestion of this material is unlikely under normal conditions of use.  Ingestion of lead may cause 
+kidney damage or liver damage; chronic ingestion may result in accumulation in body tissues and may also cause 
+cancer. 
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Category 4 oral and Category 4 inhalation.  
+
+Lead is classified as Category 4 oral and Category 4 inhalation. 
+Rat, Intravenous LD50: 93 mg/kg LD50 Mouse, Intraperitoneal 74 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified; no data available. 
+
+Serious Eye damage/Irritation:  Not classified; no data available. 
+
+Respiratory Sensitization:  Not classified; no data available. 
+
+Skin Sensitization:  Not classified; no data available. 
+
+Germ Cell Mutagenicity:  Not classified; no data available. 
+
+Carcinogenicity:  Category 1B 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Lead compounds are listed as reasonably anticipated to be a human carcinogen per NTP. 
+IARC lists inorganic lead in Group 2A (probably carcinogenic to humans). 
+
+Yes 
+
+No 
+
+X 
+
+ 
+
+ 
+
+SRM 928 
+
+ 
+
+Page 4 of 6 
+
+Reproductive Toxicity:  Category 1A; lead crosses the placenta and may affect the fetus causing birth defects, 
+mental retardation, behavioral disorders, and death during the first year of childhood. 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 2; lead can accumulate in body tissues. 
+
+Rainbow trout (Oncorhynchus mykiss) LC50: 1.17 mg/L (static, 96 h) 
+Water flea (Daphnia magna) LC50: 6.73 mg/L for (96 h) 
+
+Aspiration Hazard:  Not applicable. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.  Subject to 
+Hazardous Waste Number(s): D001 and D008; subject to U.S. EPA 40 CFR 262 for concentrations at or above the 
+regulatory level of 5.0 mg/L. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA: UN1469, Lead nitrate, Hazard Class 5.1(6.1), Packing Group II . 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  10 lbs (4.54 kg) final RQ 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  0.1 % Supplier notification limit  
+
+   (Related to Pb inorganic compounds) 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+California  Proposition  65:    WARNING!    This  product  contains  chemicals  (lead  nitrate)  known  to  the  state  of 
+California to cause cancer and reproductive/developmental effects. 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+Yes. 
+Yes. 
+No. 
+No. 
+
+State Regulations: 
+
+U.S. TSCA Inventory:  Lead nitrate is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+ 
+
+ 
+
+SRM 928 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  26 February 2016 
+
+Sources: 
+
+ChemAdvisor, Inc., SDS Lead Nitrate, 09 December 2015. 
+
+Hazardous Substances Data Bank (HSDB), National Library of Medicine's TOXNET system,  
+Lead Nitrate CAS No. 10099-74-8; available at http://toxnet.nlm.nih.gov (accessed Feb 2016). 
+
+Key of Acronyms: 
+
+ACGIH 
+
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+American Conference of Governmental Industrial 
+Hygienists 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+NTP  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+PEL  
+
+Permissible Exposure Limit 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+Reportable Quantity  
+RQ  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short Term Exposure Limit  
+STEL  
+Specific Target Organ Toxicity 
+STOT 
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 928 
+
+ 
+
+Page 6 of 6 
+
+

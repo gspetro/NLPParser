@@ -1,0 +1,659 @@
+﻿Date of Issue: 
+07 June 2017 
+
+ 
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2624a 
+Carbon Dioxide in Nitrogen (Nominal Amount-of-Substance Fraction 3 % mol/mol) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is a primary gas mixture of carbon dioxide in nitrogen supplied in a 
+DOT 3AL specification aluminum (6061 alloy) cylinder with a water volume of 6 L.  This SRM is intended for 
+the calibration of instruments used for carbon dioxide determinations and for other applications.  Mixtures are 
+shipped with a nominal pressure exceeding 12.4 MPa (1800 psig), which provides the user with 0.73 m3 (25.8 ft3) 
+of useable mixture.  The cylinder is the property of the purchaser and is equipped with a CGA-580 brass valve, 
+which is the recommended outlet for this carbon dioxide mixture. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: Compressed Gas. 
+Health Hazard:  Simple Asphyxiant. 
+
+Label Elements 
+Symbol  
+
+ 
+
+Signal Word 
+WARNING 
+
+Hazard Statement(s)  
+H280 
+------ 
+
+Contains gas under pressure; may explode if heated. 
+May displace oxygen and cause rapid suffocation. 
+
+Precautionary Statement(s) 
+P410 + P403 
+
+Protect from sunlight.  Store in a well-ventilated place. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Carbon dioxide in nitrogen, compressed gas 
+
+Other Designations:   
+ 
+ 
+
+Carbon Dioxide:  Carbonic acid gas, carbonic anhydride, CO2. 
+Nitrogen:  Dinitrogen, nitrogen compressed. 
+
+SRM 2624a 
+
+ 
+
+Page 1 of 6 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the Certificate of 
+Analysis.   
+
+Hazardous Components 
+
+CAS Number 
+
+Nitrogen 
+Carbon Dioxide 
+
+ 
+ 
+
+7727-37-9 
+124-38-9 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+EC Number 
+(EINECS) 
+
+231-783-9 
+204-696-9 
+
+Nominal Mass Concentration 
+(%) 
+
+ 
+
+97 
+3 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and 
+shoes. Get medical attention, if needed. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Ingestion of a gas is unlikely.  As this product is a gas, refer to the inhalation section. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Harmful if inhaled, blood damage, difficulty breathing, 
+and suffocation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention.   
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard applicable to the identified NIST cylinder.  Cylinders may rupture 
+or explode if exposed to heat.  See Section 9, “Physical and Chemical Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Use extinguishing media appropriate to the surrounding fire. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Oxides of nitrogen, oxides of carbon. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move cylinder from fire area if it can be done 
+without personal risk.   Avoid inhalation of  material or combustion byproducts.  Wear full protective clothing and 
+NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 2 
+
+Fire = 0 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal  Precautions,  Protective  Equipment  and  Emergency  Procedures:    Immediately  contact  emergency 
+personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”.  Shut off gas supply if this can be done safely.  Isolate area until gas has dispersed.  
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Stop  leak  if  possible  without  personal  risk.    Isolate 
+hazard area and deny entry.  Stay upwind and keep out of low areas. 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Use only with adequate ventilation.  Do not puncture or incinerate container.  Close valve 
+after each use and when empty.  Keep valve protection cap on cylinder when not in use.   
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    Secure  cylinder  to  prevent 
+physical damage.  Keep separated from incompatible substances (oxidizing materials, halogens, metal oxides, metals, 
+combustible  materials,  lithium).    Store  in  well-ventilated  area.    Subject  to  storage  regulations,  OSHA 
+29 CFR 1910.101. 
+
+SRM 2624a 
+
+ 
+
+Page 2 of 6 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Carbon Dioxide 
+OSHA (PEL): 
+ACGIH (TLV): 
+ 
+NIOSH (REL): 
+ 
+ 
+
+9 000 mg/m3 (5 000 ppm) TWA 
+9 000 mg/m3 (5 000 ppm) TWA 
+
+30 000 ppm STEL 
+
+9 000 mg/m3 (5 000 ppm) TWA 
+54 000 mg/m3 (30 000 ppm) STEL 
+40 000 ppm IDLH 
+
+ 
+
+Nitrogen 
+ACGIH (TLV):  Simple asphyxiant. 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29 CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+Eye/Face Protection:  Wear safety goggles. An eye wash station should be readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being 
+performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Component:  Nitrogen (97 % concentration in this SRM) 
+
+Descriptive Properties: 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point (ºC): 
+Relative Density (g/L): 
+Vapor Pressure (mmHg): 
+Vapor Density (air = 1): 
+Viscosity (cP): 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+Particle Size: 
+
+Thermal Stability Properties: 
+Autoignition Temperature: 
+Thermal Decomposition 
+Initial boiling point and boiling range (ºC): 
+Explosive Limits, LEL: 
+Explosive Limits, UEL: 
+Flash Point: 
+Flammability (solid, gas): 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Not reactive. 
+
+colorless compressed gas 
+N2 
+28 
+odorless 
+not available 
+not applicable 
+not applicable 
+–210 (–346 ºF) 
+1.2506 
+760 at –196 ºC 
+0.967 
+0.01787 at 27 ºC 
+water, 1.6 % at 20 ºC; liquid ammonia 
+not available 
+not applicable 
+ 
+not applicable 
+not applicable 
+–196 (–321 ºF) 
+not applicable 
+not applicable 
+not applicable 
+not applicable 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Minimize contact with material.  Containers may rupture or explode if exposed to heat. 
+
+SRM 2624a 
+
+ 
+
+Page 3 of 6 
+
+Incompatible Materials:  Oxidizing materials, halogens, metal oxides, metals, combustible materials, metal salts, 
+halocarbons. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Miscellaneous decomposition products.  
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Nausea, vomiting, chest pain, 
+difficulty breathing, irregular heartbeat, headache, disorientation, emotional disturbances, pain in extremities, tremors, 
+loss of coordination, hearing loss, visual disturbances. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:   
+
+Carbon Dioxide:  Acute exposure to carbon dioxide at concentrations of 2 % to 10 %, (NIST provided cylinder 
+is 3 %), may cause acidic taste, dyspnea, headache, vertigo, nausea, labored breathing, weakness, drowsiness, 
+mental confusion, and increase in blood pressure.  At higher concentrations, visual disturbances, tinnitus, tremors, 
+perspiration, restlessness, discomfort, convulsions, loss of consciousness, coma, and death.  In addition, carbon 
+dioxide/nitrogen  compressed  gas  mixture  is  an  asphyxiant.    Release  in  an  enclosed  space  may  result  in 
+asphyxiation.  The symptoms of asphyxia depend on the rapidity with which the oxygen deficiency develops and 
+how long it continues.  In sudden acute asphyxia, unconsciousness may be immediate.  With slow development, 
+there may be rapid respiration and pulse, air hunger, dizziness, reduced awareness, tightness in the head, tingling 
+sensations, incoordination, faulty judgment, emotional instability, and rapid fatigue.  As the asphyxia progresses, 
+nausea, vomiting, collapse, unconsciousness, convulsions, deep coma, and death are possible. 
+
+Nitrogen:    Nitrogen  compressed  gas  is  a  simple  asphyxiant.    Release  in  an  enclosed  space  may  result  in 
+asphyxiation.  The symptoms of asphyxia depend on the rapidity with which the oxygen deficiency develops and 
+how long it continues.  In sudden acute asphyxia, unconsciousness may be immediate.  With slow development, 
+there may be rapid respiration and pulse, air hunger, dizziness, reduced awareness, tightness in the head, tingling 
+sensations, incoordination, faulty judgment, emotional instability, and rapid fatigue.  As the asphyxia progresses, 
+nausea, vomiting, collapse, unconsciousness, convulsions, deep coma, and death are possible.  
+
+Skin Contact:  No information on significant adverse effects. 
+
+Eye  Contact:    Carbon  dioxide  at  high  concentration  in  air  may  cause  a  stinging  sensation  of  the  eyes.    Not 
+applicable for exposure to nitrogen. 
+
+Ingestion:  Ingestion of a gas is unlikely under normal conditions of use (see “Inhalation”).   
+
+Numerical Measures of Toxicity:  
+
+Acute Toxicity:  Not classified. 
+Carbon dioxide: Rat, Inhalation LC50:  470 000 ppm (30 min) 
+Nitrogen: Simple asphyxiant 
+
+Skin Corrosion/Irritation:  Not applicable. 
+
+Serious Eye damage/ Eye irritation:  Not applicable. 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+ 
+
+ 
+
+SRM 2624a 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+Nitrogen is not listed by NTP, IARC or OSHA as a carcinogen. 
+Carbon dioxide is not listed by NTP, IARC or OSHA as a carcinogen. 
+
+Yes 
+
+Reproductive Toxicity:  Not classified, effect due mostly to asphyxia. 
+Carbon dioxide: Rat, Inhalation TCLo:  6 % (24 h, pregnant 10 d). 
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  Not classified. 
+
+X  No 
+
+Rainbow trout (Oncorhynchus mykiss), LC50:  35 mg/L (96 h) 
+
+Aspiration Hazard:  No data available.   
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+Carbon Dioxide 
+
+Persistence and Degradability:  No data available.  
+
+Bioaccumulative Potential:  No bioaccumulation.  
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.   
+
+U.S. DOT and IATA:  UN1956, Compressed gas, n.o.s. (Carbon Dioxide in Nitrogen); Hazard Class 2.2. 
+
+14.  TRANSPORTATION INFORMATION 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Identified cylinder not regulated. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Identified cylinder not regulated.   
+
+SARA Title III Section 304 (40 CFR 355.40):  Identified cylinder not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Identified cylinder not regulated. 
+
+OSHA Process Safety (29 CFR 1910.119):  Identified cylinder not regulated.   
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+No. 
+No. 
+No. 
+Yes. 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Carbon dioxide and nitrogen are listed. 
+
+TSCA 12(b), Export Notification:  No components are listed. 
+
+Canadian Regulations: 
+
+WHMIS Information:    Not provided for this material. 
+
+ 
+
+ 
+
+SRM 2624a 
+
+ 
+
+Page 5 of 6 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  07 June 2017 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Nitrogen, Compressed Gas, 09 December 2017. 
+
+ChemADVISOR, Inc., SDS, Carbon Dioxide, 09 December 2015. 
+
+NIOSH  RTECS,  Carbon  Dioxide,  No.  FF6400000,  CAS  No.  124-38-9;  May  2009;  available  at 
+http://www.cdc.gov/niosh-rtecs/FF61A800.html (accessed June 2017). 
+
+National  Library  of  Medicine,  Hazardous  Substances  Databank,  Carbon  dioxide,  Animal  Toxicity 
+Studies; available at http://toxnet.nlm.nih.gov/newtoxnet/hsdb.htm (accessed June 2017) 
+
+Key of Acronyms:   
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s.  
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transport Association 
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration  
+TLV  
+Median Lethal Dose or Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+RTECS 
+
+WHMIS 
+ 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+SRM 2624a 
+
+ 
+
+Page 6 of 6 
+
+

@@ -1,0 +1,461 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1598a 
+
+ 
+
+Inorganic Constituents in Animal Serum 
+
+ 
+This Standard Reference Material (SRM) is a serum sample derived from a mixture of serum from healthy bovine and 
+porcine  animals  collected  under  strict  protocols  designed  to  preserve  the  original  composition  and  to  minimize 
+contamination [1].  The SRM is intended primarily for use in calibrating instrumentation and evaluating the accuracy 
+of  analytical  methods  for  selected  elements  in  blood  serum,  plasma,  and  similar  biological  fluids.    A  unit  of 
+SRM 1598a consists of two capped polyethylene vials, each containing 5 mL to 6 mL of frozen serum.  
+ 
+Certified  Concentration  Values:    Certified  values  for  concentrations  for  elements  are  provided  in  Table 1.   The 
+certified values are based on results from either a primary analytical technique carried out at NIST, or the combined 
+results from two or more chemically independent analytical techniques obtained at NIST and collaborating expert 
+laboratories [2].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or accounted for by NIST. 
+ 
+Reference  Concentration  Values:    Reference  values  for  concentrations  for  additional  elements  are  provided  in 
+Table 2.  Reference values are non-certified values that are the best estimate of the true value.  However, the values 
+do not meet the NIST criteria for certification and are provided with associated uncertainties that may reflect only 
+measurement  precision,  may  not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of  sufficient  statistical 
+agreement among multiple analytical methods [2].  
+ 
+Information Concentration Values:  Information values for concentrations for elements are provided in Table 3. An 
+information value is considered to be a value that will be of interest and use to the SRM user, but for which insufficient 
+information  is  available  to  assess  adequately  the  uncertainty  associated  with  the  value,  or  a  value  derived  from  a 
+limited number of analyses [2].  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1598a is valid, within the measurement uncertainty specified, 
+until  01 October 2024, provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification.  
+ 
+certification  of  this  material  was  under 
+Coordination of the investigations and technical measurements leading to the certification of this material was under 
+the leadership of R. Zeisler of the NIST Chemical Sciences Division.  
+ 
+Collection and preparation of SRM 1598a were performed by C. Veillon, N. Bryden, D. Hill, and K. Patterson of the 
+USDA Beltsville Agricultural Research Center. 
+ 
+Consultation on the statistical design of the experimental work and evaluation of the data were provided by S.D. Leigh 
+of the NIST Statistical Engineering Division. 
+ 
+ve  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  10 January 2017 
+Certificate Revision History on Page 4 
+
+Steven J. Choquette 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Page 1 of 5 
+
+  
+
+SRM 1598a 
+
+YDLING,  STORAGE,  AND 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material is derived from a mixture of serum from healthy bovine and porcine animals.  These animals 
+have been inspected by an USDA Veterinary Medical Officer and have not shown signs of infectious, contagious, 
+and/or communicable disease.  Normal caution and care should be exercised during its handling and use.  The users 
+should  be  aware  of  sources  of  contamination,  and  handling  in  an  at  least  Class  100  clean  air  environment  is 
+recommended. 
+ 
+Storage:    The  material  should  be  stored  in  its  original  container  at  −70  °C  or below.    SRM  1598a  should  not  be 
+exposed to intense sources of radiation, including ultraviolet lamps or sunlight. 
+ 
+Use:  After thawing, prior to removal of sub-samples for analysis, the contents of the vials should be mixed.  The 
+concentrations of constituents in SRM 1598a are reported on a volume basis to better serve the clinical users.  The 
+density of the serum was determined at 1.0274 g/mL with an expanded uncertainty of 0.0006 g/mL (coverage factor 
+k = 2).  The latter must be considered when determinations are carried out on a gravimetric basis. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Sample  Collection  and  Preparation:    The  procedures  and  protocols  established  for  the  1985  collection  of  the 
+previously issued SRM 1598 Bovine Serum were adhered to reference 3.  The blood was obtained directly from an 
+incision of the carotid artery and was collected in clean polyethylene pails.  It was then immediately (before clotting) 
+distributed  to  clean  polyethylene  bottles  for  further  preparation  in  the  USDA  clean  room  facility.    After  clotting, 
+purified serum was obtained by centrifugation.  Individual animal serum samples had been obtained during the period 
+of 02 July 2003 to 10 July 2003.  These samples were kept at 4 °C.  The serum was then pooled and 5 mL aliquots 
+were dispensed into pre-cleaned polypropylene tubes, which were capped and frozen at –80 °C; the vials have been 
+kept in frozen storage since 14 July 2003. 
+ 
+proximately
+Homogeneity Assessment:  The homogeneity of SRM 1598a was assessed by analyzing samples of approximately 
+1 mL from six vials selected from the beginning and the end of the bottling period and six samples from one vial from 
+the middle of the bottling sequence.  Selenium was determined as an indicator for homogeneity by isotope dilution 
+gas  chromatography  −  mass  spectrometry  (ID  GC-MS).    There  was  no  statistically  significant  difference  in 
+concentration values among the samples; the standard deviation of the twelve results was 0.9 % relative.  During the 
+course  of  the  analytical  characterizations  sample  sizes  down  to  0.2 mL  were  used.    No  evidence  of  material 
+inhomogeneity was found for these determinations.  The recommended minimum sample size is 0.2 mL.  
+ 
+Analytical Approach:  NIST values for cadmium and nickel were obtained with ID ICP-MS, all other elements were 
+determined with at least one method carried out at NIST: instrumental neutron activation analysis (INAA), neutron 
+activation  analysis  with  pre-concentration  of  selected  elements  on  Chelex 100  columns (PNAA),  and  inductively 
+coupled  plasma  mass  spectrometry (ICP-MS).    The  measurements  were  complemented  by  collaborating  scientists 
+from research and clinical laboratories using graphite furnace atomic absorption spectrometry (GF-AAS), ID GC-MS, 
+ICP-MS,  ICP  atomic  emission (ICP-AES),  INAA,  and  neutron  activation  analysis  with  radiochemical 
+separations (RNAA). 
+ 
+Certified Values:  Certified values are derived from the NIST analytical results and the results of the collaborators.  
+The  “bound  on  bias”  consensus  method  was  used  for  combining  results  from  individual  laboratories [4].    The 
+uncertainty  listed  with  each  value  is  an  expanded  uncertainty,  with  coverage  factor 2  (approximately  95 % 
+confidence).  The reporting follows the ISO/JCGM Guides [5].  The measurands are the total concentration values for 
+the elements in Table 1.  The certified values are metrologically traceable to the derived SI unit for mass concentration 
+(expressed as micrograms per liter). 
+ 
+For each element, there is a NIST result with an uncertainty that is complete in terms of coverage of recognized sources 
+of  uncertainties.    Except  for  the  elements  measured  by  IDMS,  these  results  are  combined  with  results  from 
+collaborating laboratories with similarly complete uncertainties, and in certain cases several results without complete 
+uncertainties.  The uncertainties of the latter results were augmented for probable bias on the basis of the differences 
+among the results obtained by different methods [4]. 
+ 
+ 
+
+SRM 
+
+ 
+
+SRM 1598a 
+
+Page 2 of 5 
+
+Elements 
+
+Table 1.  Certified Concentrations for Elements 
+ 
+
+Concentration 
+(µg/L) 
+
+Elements 
+
+Concentration 
+(µg/L) 
+
+Cadmium (Cd)(a) 
+Cobalt (Co)(c,d,g) 
+Cesium (Cs)(c,d,g) 
+Copper (Cu)(f,h,e,g) 
+Iron (Fe)(c,f,d,e) 
+Manganese (Mn)(f,g,i) 
+
+ 
+ 
+ 
+ 1580 
+ 1680 
+ 
+
+0.048  ± 
+1.24  ± 
+0.64  ± 
+
+0.004 
+0.07 
+0.10 
+
+±  90 
+±  60 
+
+1.78  ± 
+
+0.33 
+
+Nickel (Ni)(a) 
+Rubidium (Rb)(c,f,d) 
+Antimony (Sb)(c,f,d,g) 
+Selenium (Se)(c,f,b,d,g) 
+Vanadium (V)(f,h,g,i) 
+Zinc (Zn)(c,f,d,e,g) 
+
+0.94 
+
+1.00 
+
+ 
+  274 
+ 
+  134.4 
+ 
+  880 
+
+1.88 
+
+0.18 
+
+± 
+±  19 
+± 
+± 
+± 
+±  24 
+
+0.15 
+5.8 
+0.11 
+
+ 
+(a) ID ICP-MS at NIST 
+(b) ID GC-MS at collaborating laboratories 
+(c) INAA at NIST 
+(d) INAA at collaborating laboratories 
+(e) ICP-AES at collaborating laboratories 
+(f) ICP-MS at NIST 
+(g) ICP-MS at collaborating laboratories 
+(h) PNAA at NIST 
+(i)  RNAA at collaborating laboratories 
+ 
+ 
+Reference Values:  Reference values are based on results from one method carried out in several laboratories or from 
+two or more analytical methods without NIST results.  The measurands are the references values listed in Table 2 as 
+determined by methods indicated below.  Metrological traceability is to the derived SI unit for mass concentration 
+(expressed as micrograms per liter or milligrams per liter).  The methods of combining the results by different methods 
+from different laboratories were applied as above.  These results do not fulfill the criteria for certification since they 
+lack  a  full  estimate  of  method  bias  or  results  from  NIST  methods  are  not  available.    The  reporting  follows  the 
+ISO/JCGM Guides [5].  Aluminum is included as reference value because none of the techniques reported results on 
+the control material SRM 1598 that agreed with the certified values.  Chromium is provided as reference value because 
+two out of sixteen determinations carried out at NIST resulted in values >> 1 µg/L, probably due to contamination 
+whose source could have been in the investigated vials.  Mercury showed poor agreement among techniques.   
+ 
+
+Table 2.  Reference Values for Concentrations of Selected Elements  
+
+Concentration 
+(µg/L) 
+
+2.3  ± 
+0.33  ± 
+0.32  ± 
+5.5  ± 
+
+0.6 
+0.08 
+0.19 
+1.0 
+
+Elements  
+
+Calcium (Ca)(b,c) 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Concentration  
+(mg/L) 
+
+96  ±  7 
+
+ 
+
+Elements 
+
+Aluminum (Al)(e,g) 
+Chromium (Cr)(a,f,d,g) 
+Mercury (Hg)(a,d) 
+Molybdenum (Mo)(d) 
+
+ 
+ 
+ 
+ 
+
+INAA at NIST 
+INAA at collaborating laboratories 
+ICP-AES at collaborating laboratories 
+ICP-MS at collaborating laboratories 
+
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+(e)  PNAA at NIST 
+(f)  RNAA at NIST 
+(g)  GFAAS at collaborating laboratories 
+
+ 
+
+ 
+
+SRM 1598a 
+
+Page 3 of 5 
+
+a  collaborating 
+Information  Values:    Information  values  are  based  on  results  from  one  method  performed  at  a  collaborating 
+laboratory. 
+
+formed  at 
+
+ 
+ 
+Table 3.  Information Values for Elements 
+
+ 
+
+Elements 
+
+Concentration 
+(µg/L) 
+
+0.3 
+0.033 
+
+Arsenic (As)(a) 
+Thallium (Tl)(b) 
+ 
+ 
+
+ 
+ 
+
+Elements 
+
+Potassium (K)(c) 
+Sodium (Na)(c) 
+Phosphorous (P)(c) 
+Sulfur (S)(c) 
+
+Concentration 
+(mg/L) 
+
+265 
+3200 
+140 
+940 
+
+ 
+(a) RNAA at collaborating laboratory 
+(b) ICP-MS at collaborating laboratory 
+(c) ICP-AES at collaborating laboratory 
+ 
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+Density:    The  density  was  determined  at  NIST  with  a  pycnometer  in  test  portions  from  six  vials.    A  value  of 
+1.0274 ± 0.0006 g/mL was determined.  This value was confirmed using an electronic digital density meter (PAAR 
+Model DMA 35; measured value, 1.027 g/mL). 
+ 
+ 
+
+REFERENCES 
+
+ 
+eck  J.;  Vanballenberghe,  L.;  Cornelis, 
+[1]  Veillon C; Lewis, S.A.; Patterson, K.Y.; Wolf, W.R.; Harnly J.M.; Versieck J.; Vanballenberghe, L.; Cornelis, 
+| for  Major  E 
+R.; Ohaver, T.C.; Characterization of a Bovine Serum Reference Material for Major Elements, Minor Elements, 
+and Trace Elements; Anal. Chem. 57, pp. 2106−2109 (1985).  
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government 
+Printing  Office:    Washington, DC  (2000);  available  at:  http://www.nist.gov/srm/publications.cfm  (accessed 
+Jan 2017). 
+
+[3]  Veillon, C.; Patterson K.Y.; Reamer, D.C.; Biological Reference Materials; Wolf, W.R., Ed.; Wiley Press: New 
+
+[4] 
+
+[5] 
+
+York, pp. 167−177 (1985). 
+Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Jan 2017). 
+
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  10 January 2017 (Change of expiration date; editorial changes); 25 August 2008 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone (301)  975-2200;  fax (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+possession  is  current. 
+
+SRM 1598a 
+
+Page 4 of 5 
+
+APPENDIX:  ANALYSTS 
+ 
+
+Chemical Sciences Division, NIST:  S.J. Christopher; S.E. Long; E.A. Mackey; K.E. Murphy; R. Zeisler. 
+ 
+Cooperating Laboratories and Analysts: 
+•  Centers for Disease Control and Prevention (Atlanta, GA); R.L. Jones; K.L. Caldwell; P.J. Walter; O.N. Piraner 
+•  GSF National Research Center for Environment and Health (Neuherberg, Germany); P. Schramel 
+•  GV-Instruments, ICP-Business Unit (Manchester, UK); F. Abou-Shakra 
+•  Hahn-Meitner-Institut,  Department  of  Trace  Elements  in  Health  and  Nutrition  (Berlin,  Germany);  D. Alber; 
+
+D. Behne 
+Josef Stefan Institute (Ljubljana, Slovenia); U. Repinc; V. Stibilj 
+
+• 
+•  Korea Atomic Energy Research Institute (Taejeon, Republic of Korea); Y.S. Chung; J.H. Moon 
+•  Mayo Clinic Metals Laboratory (Rochester, MN); J.A. Butz; S. Eckdahl; D. Nixon 
+•  New  York  State  Dept  of  Health,  Wadsworth  Center,  Trace  Element  Laboratory  (Albany,  NY);  P.J. Parsons; 
+
+C. Geraghty; C.D. Palmer 
+
+•  USDA Beltsville Agricultural Research Center, Human Nutrition Research Center (Beltsville, MD); C. Veillon; 
+
+N.A. Bryden; D. Hill; K.Y. Patterson; J. Harnly; E. Greene 
+
+ 
+
+SRM 1598a 
+
+Page 5 of 5 
+
+

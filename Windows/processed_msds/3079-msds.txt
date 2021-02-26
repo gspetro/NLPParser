@@ -1,0 +1,687 @@
+﻿Date of Issue:  
+27 May 2015 
+
+ 
+
+SAFETY DATA SHEET 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not Applicable. 
+
+3079 
+Aroclor 1254 in Transformer Oil 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is a solution of Aroclor 1254 in transformer oil.  This SRM is intended 
+primarily for calibrating chromatographic instrumentation and methods of analysis used for the determination of 
+Aroclor 1254 and polychlorinated biphenyls (PCBs) in transformer oil.  A unit of SRM 3079 consists of five 2 mL 
+ampoules, each containing approximately 1.2 mL of transformer oil. 
+
+Emergency Telephone ChemTrec: 
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+Company Information 
+
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard:  Not classified. 
+Health Hazard: 
+ 
+ 
+
+Carcinogenicity 
+Reproductive Toxicity  Category 2 
+Category 1 
+Aspiration Hazard 
+
+Category 1B 
+
+Label Elements 
+Symbol 
+
+ 
+
+Signal Word 
+DANGER 
+
+Hazard Statement(s) 
+H304 
+H350 
+H361 
+
+May be fatal if swallowed and enters airways. 
+May cause cancer <inhalation, ingestion>. 
+Suspected of damaging fertility or the unborn child. 
+
+Precautionary Statement(s): 
+P201 
+P202  
+P280 
+ 
+P308+P313 
+
+Obtain special instructions before use. 
+Do not handle until all safety precautions have been read and understood. 
+Wear protective gloves, protective clothing, and eye protection. 
+
+If exposed or concerned:  Get medical attention. 
+
+P301+P310 
+P331 
+
+If swallowed:  Immediately call a doctor. 
+Do NOT induce vomiting. 
+
+Store locked up. 
+
+P405 
+
+P501 
+
+SRM 3079 
+
+Dispose of contents and container according to local regulations. 
+
+ 
+
+Page 1 of 6 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Aroclor 1254 in transformer oil.  
+
+Other Designations: 
+
+ 
+
+Transformer  oil  (hydrotreated 
+distillates, petroleum). 
+
+light  naphthenic  distillate  (petroleum),  hydraulic  petroleum  oil, 
+
+Aroclor 1254 (PCB 1254; chlorodiphenyl (54% Cl); polychlorinated biphenyl; chlorobiphenyls; PCB; PCBs) 
+
+Components are listed in compliance with OSHA 29 CFR 1910.1200. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+Nominal Mass Concentration 
+
+EC Number 
+(EINECS)
+265-156-6 
+215-648-1(a) 
+
+(%) 
+
+>99 
+
+0.3 
+
+Transformer oil 
+Aroclor 1254 
+
+ 
+ 
+
+64742-53-6 
+11097-69-1 
+
+(a) EC Number as PCB, polychlorinated biphenyl 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+
+Skin Contact:  Wash exposed skin with soap and water for at least 15 minutes.  Seek medical attention if needed. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Aspiration hazard.  Do not induce vomiting.  If vomiting occurs, keep head lower than hips to prevent 
+aspiration.  If not breathing, give artificial respiration by qualified personnel.  Seek immediate medical attention. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  Irritation, dizziness, nausea, coughing, and aspiration. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  Not applicable. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability 
+properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, regular foam. 
+Unsuitable:  Straight streams of water. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+
+ 
+
+Health = 2 
+
+Fire = 1 
+
+Reactivity = 0 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Absorb spilled material with sand or non-combustible 
+material and collect in appropriate container for disposal.  Keep out of water supplies and sewers. 
+
+SRM 3079 
+
+ 
+
+Page 2 of 6 
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:    Store  and  handle  in  accordance  with  all  current  regulations  and  standards.    The  storage  floor  must  be 
+impermeable and form a collecting basin so that, in the event of an accident spillage, the liquid cannot spread beyond 
+the storage area. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits: 
+
+Transformer oil:  No occupational exposure limits established. 
+
+Aroclor 1254:  NIOSH (TWA):  0.001 mg/m3 (related to 1,1'-Biphenyl, chloro derivatives) 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal 
+Protective Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:    If workplace conditions warrant a respirator, a respiratory protection program that 
+meets  OSHA  29CFR  1910.134  must  be  followed.    Refer  to  NIOSH  42  CFR  84  for  applicable  certified 
+respirators. 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield. An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being performed and the risks involved and should be approved by a specialist before handling this product. 
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties 
+
+Appearance (physical state, color, etc.): 
+Molecular Formula: 
+Molar Mass (g/mol): 
+Odor: 
+Odor threshold: 
+pH: 
+Evaporation rate: 
+Melting point/freezing point: 
+Pour point: 
+Density: 
+Vapor Pressure: 
+Vapor Density (air = 1): 
+Kinematic Viscosity: 
+Solubility(ies): 
+Partition coefficient (n-octanol/water): 
+
+Transformer oil (>99 %) 
+clear, yellow liquid 
+not applicable 
+not applicable 
+not available 
+not available 
+not available 
+not available 
+–55 °C (–67 °F) 
+–40 °C (–40 °F) 
+0.8912 g/mL at 22 °C(b)  
+0.1 mmHg 20 C(a) 
+>5 at 101 kPa(a) 
+12 cSt (12 mm2/s) at 40 °C  
+insoluble in water 
+>6.5(a) 
+
+Thermal Stability Properties 
+
+Autoignition Temperature: 
+Thermal Decomposition: 
+Initial boiling point and boiling range: 
+Explosive Limits, LEL: 
+Explosive Limits, UEL: 
+Flash Point: 
+Flammability (solid, gas): 
+
+ 
+>315 C (599 F)(a)  
+not available 
+260 C to 371 C (500 F to 700 F) 
+not available 
+not available 
+>145 C (293 F)(a) 
+not applicable 
+
+(a) Physical property listed in the NIST Certificate of Analysis.  Values are not certified. 
+(b) Vendor supplied health and safety information. 
+
+ 
+
+SRM 3079 
+
+ 
+
+Page 3 of 6 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid excessive heat; high energy ignition sources. 
+
+Incompatible Materials:  Oxidizers. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon, sulfur oxides, aldehydes. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics: Dizziness, nausea, coughing. 
+
+Potential Health Effects (Acute, Chronic and Delayed): 
+
+Inhalation:    Acute  exposure  to  high  levels  of  vapor  from  transformer  oil  may  cause  central  nervous  system 
+depression, headache, dizziness, nausea, vomiting, anorexia, incoordination and unconsciousness.  Prolonged or 
+repeated exposure may cause irritation.  Short term exposure to Aroclor 1254 may cause irritation or liver damage; 
+long term exposure may cause rash, itching, hair loss, digestive issues, headache, dizziness, impotence, coma, 
+and cancer. 
+
+Skin Contact:  Short term and long term contact with transformer oil may cause skin irritation and dermatitis.  
+Short-term  exposure  to  Aroclor  1254  may  cause  skin  irritation  or  liver  damage;  long  term  exposure  to 
+Aroclor 1254 may cause same effects as for inhalation, plus hair loss and reproductive effects. 
+
+Eye Contact:  Acute exposure of liquid or vapor may cause irritation.  
+
+Ingestion:  Acute ingestion of transformer oil may cause abdominal pain, nausea, and vomiting.  Small amounts 
+of oil aspirated during ingestion or vomiting may cause lung damage; no information available for long-term 
+exposure to transformer oil.  Short term exposure to Aroclor 1254 may cause liver damage; long term exposure 
+to Aroclor 1254 may cause same effects as for inhalation, plus hyperactivity, menstrual disorders, reproductive 
+effects. 
+
+Numerical Measures of Toxicity: 
+
+Acute Toxicity:  Not classified. 
+Component:  Transformer oil 
+Rat, Oral LD50: 
+Rat, Inhalation LC50:  2180 mg/m3 (4 h) 
+Rabbit, Skin LD50:  >2000 mg/kg 
+
+>5000 mg/kg 
+
+Component:  Aroclor 1254 
+
+  Rat, Oral LD50: 
+
+1010 mg/kg 
+
+Skin Corrosion/Irritation:  Not classified. 
+  Transformer oil, Rabbit, skin:  0.5 mL/24 h, moderate 
+
+Serious Eye Damage/ Eye Irritation:  Not classified. 
+  Transformer oil, Rabbit, eye:  0.1 mL, mild 
+
+Respiratory Sensitization:  No data available; not classified. 
+
+Skin Sensitization:  No data available; not classified. 
+
+Germ Cell Mutagenicity:  No data available; not classified. 
+
+SRM 3079 
+
+ 
+
+Page 4 of 6 
+
+Carcinogenicity:  Category 1B 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+X  Yes 
+
+ 
+
+No 
+
+Transformer oil is not listed by NTP, IARC, or OSHA as a carcinogen/potential carcinogen. 
+
+Aroclor 1254 is listed by NTP as reasonably anticipated to be a human carcinogen (as PCB, polychlorinated 
+biphenyl, CAS number 1336-36-3) and by IARC as Group 1, carcinogenic to humans (related to Polychlorinated 
+biphenyls). 
+
+Reproductive Toxicity:  Category 2 
+
+Aroclor  1254:    Overexposure  has  resulted  in  decreased  birth  weight  in  offspring  of  exposed  mothers.  
+Significant exposure to PCBs that reach the fetus can cause teratogenic effects. 
+
+Oral Mammal TDLo - species unspecified:  14 mg/kg, prior to copulation 30 day(s) 
+
+STOT, Single Exposure:  No data available; not classified. 
+
+STOT, Repeated Exposure:  Not classified; this SRM contains less than 1 % of Archlor 1254, a Category 2 
+target organ toxicant. 
+
+Aspiration Hazard:  Category 1 
+
+Transformer oil is a human aspiration toxicity hazard. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:   
+  Transformer oil:  Fish, Rainbow Trout (Oncorhynchus mykiss) LC50: >5000 mg/L (96 h) 
+ 
+  Aroclor 1254: 
+
+Invertebrate, Water flea (Daphnia magna) EC50:  >1000 mg/L (48 h) 
+No data available. 
+
+ 
+
+ 
+
+ 
+
+Persistence and Degradability:  Has the potential to biodegradable. 
+
+Bioaccumulative Potential:  No data available 
+
+Mobility in Soil:  Expected to migrate from land to water and vice versa. 
+
+Other Adverse effects:  Keep out of water supplies. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  This material is not regulated by IATA or DOT. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Aroclor 1254, 1 lb. (0.454 kg) final RQ. 
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+
+SARA Title III Section 313 (40 CFR 372.65):  Aroclor  1254,  0.1  %  supplier  notification  limit  (related  or 
+
+ 
+
+polychlorinated biphenyls). 
+
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes. 
+Yes. 
+No. 
+No. 
+No. 
+
+ 
+
+ 
+
+SRM 3079 
+
+ 
+
+Page 5 of 6 
+
+State Regulations: 
+
+California Proposition 65:   
+
+WARNING!    This  product  contains  a  chemical  (Aroclor  1254,  related  to  PCBs)  known  to  the  state  of 
+California to cause cancer, reproductive, and/or developmental effects. 
+
+U.S. TSCA Inventory:  Transformer oil is listed. 
+
+TSCA  12(b),  Export  Notification:    Aroclor  1254  is  listed  in  Section  6,  50  ppm  de  minimis  concentration  (see 
+40 CFR 761, related to polychlorinated biphenyls). 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  27 May 2015 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Aroclor 1254, 20 March 2015. 
+
+ChemADVISOR, Inc., SDS, Transformer Oil, 20 March 2015. 
+
+ 
+
+Vendor MSDS, Exxon Mobile Corporation, UNIVOLT N 61 B, 30 May 2014. 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+
+CERCLA  
+
+CFR  
+DOT  
+
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+ 
+
+PEL  
+
+NRC 
+
+NTP  
+OSHA  
+
+RCRA  
+REL  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transportation Agency  
+RM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration  
+STOT 
+Median Lethal Dose or Lethal Dose, 50 % 
+TLV  
+Lower Explosive Limit  
+TPQ  
+Material Safety Data Sheet  
+TSCA  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  TWA  
+UEL  
+National Institute of Standards and Technology 
+WHMIS 
+ 
+
+RTECS 
+
+RQ  
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Reference Material  
+Short Term Exposure Limit  
+Specific Target Organ Toxicity 
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+http://www.nist.gov/srm. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+SRM 3079 
+
+ 
+
+Page 6 of 6 
+
+

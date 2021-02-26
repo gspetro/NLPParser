@@ -1,0 +1,644 @@
+﻿SAFETY DATA SHEET 
+
+Date of Issue: 
+12 December 2018 
+
+ 
+
+ 
+
+1.  SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name:   
+Other Means of Identification:  Not applicable. 
+
+1616b 
+  Sulfur in Kerosene (Low Level) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended for use in the evaluation of methods and the calibration of 
+instruments used in the determination of total sulfur in fuel oils or materials of a similar matrix.  SRM 1616b 
+consists of a special low sulfur kerosene (No. 1-K) suitable for use in non-flue-connected burner appliances and 
+for use in wick-fed illuminating lamps, as described in ASTM D 3699-92 Specification for Kerosene.  A unit of 
+SRM 1616b consists of 100 mL of the low sulfur kerosene in an amber glass bottle. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  https://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+
+1-800-424-9300 (North America) 
+
++1-703-527-3887 (International) 
+
+ 
+
+2.  HAZARDS IDENTIFICATION 
+
+Classification 
+
+Physical Hazard: 
+Health Hazard:  
+ 
+
+Flammable Liquid  Category 3 
+Category 2 
+Skin Irritation 
+Category 1 
+Aspiration Hazard 
+
+Label Elements 
+Symbol 
+
+Signal Word 
+DANGER 
+
+ 
+
+Hazard Statement(s) 
+H226 
+H304 
+H315 
+
+Flammable liquid and vapor. 
+May be fatal if swallowed and enters airways. 
+Causes skin irritation. 
+
+Precautionary Statement(s) 
+P210 
+P233 
+P241 
+P242 
+P243 
+P280 
+P301+310 
+P331 
+P303+P353+P361 
+P332+P313 
+ 
+
+Keep away from heat, sparks, open flames, and hot surfaces. – No smoking. 
+Keep container tightly closed. 
+Use explosion-proof equipment. 
+Use only non-sparking tools. 
+Take precautionary measures against static discharge. 
+Wear protective gloves and eye protection. 
+If swallowed:  Immediately call a doctor. 
+Do NOT induce vomiting. 
+If on skin (or hair):  Take off immediately all contaminated clothing.  Rinse skin with water. 
+If skin irritation occurs:  Get medical attention. 
+
+SRM 1616b 
+
+ 
+
+Page 1 of 6 
+
+P403+P235 
+P405 
+ 
+P501 
+
+Store in a well-ventilated place.  Keep cool. 
+Store locked up. 
+
+Dispose of contents and container according to local regulations.  
+
+Hazards Not Otherwise Classified:  None. 
+
+Ingredients(s) with Unknown Acute Toxicity:  None. 
+
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Kerosene 
+
+Other Designations:  Fuel oil No. 1; coal oil; range oil; kerosine; kerosene odorless. 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass Concentration 
+(%) 
+
+  8008-20-6 
+
+232-366-4 
+
+100 
+
+Kerosene 
+
+ 
+
+4.  FIRST AID MEASURES 
+
+Description of First Aid Measures  
+
+Inhalation:  If adverse effects occur, remove to well-ventilated (uncontaminated) area.  If breathing is difficult, 
+qualified personnel may administer oxygen.  If not breathing, qualified personnel should give artificial respiration.  
+Seek immediate medical attention.  
+
+Skin Contact:  Rinse affected skin with water for at least 15 minutes and then wash thoroughly with soap or mild 
+detergent and water.  If skin irritation persists, seek medical aid and bring the container or label. 
+
+Eye Contact:  Immediately flush eyes, including under the eyelids, with copious amounts of water for at least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Aspiration hazard; do not induce vomiting.  If vomiting occurs, keep head lower than hips to help 
+prevent aspiration.  Get immediate medical attention.  Give artificial respiration if not breathing. 
+
+Most Important Symptoms/Effects, Acute and Delayed 
+
+Inhalation:    Irritation,  cough,  ringing  in  the  ears,  nausea,  chest  pain,  headache,  drowsiness,  dizziness, 
+disorientation, hyperactivity, mood swings, loss of coordination, bluish skin color, lung congestion, convulsions, 
+and coma. 
+
+Skin Contact:  Irritation, absorption; long-term exposure may result in blood disorders.  
+
+Eye Contact:  No information available. 
+
+Ingestion:    Gastrointestinal  irritation,  vomiting,  diarrhea,  stomach  pain,  irregular  heartbeat,  headache, 
+drowsiness, dizziness, loss of coordination, coma, aspiration hazard. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek immediate medical attention. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Moderate fire hazard.  Vapor/air mixtures are explosive above the flash point.  Vapors 
+or gases may ignite at distant ignition sources and flash back.  Electrostatic discharges may be generated by flow or 
+agitation  resulting  in  ignition  or  explosion.    See  Section  9,  “Physical  and  Chemical  Properties”  for  flammability 
+properties. 
+
+Extinguishing Media 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, or regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  Not applicable. 
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done 
+without personal risk.  Avoid inhalation of material or combustion by-products.  Wear full protective clothing and 
+NIOSH-approved self-contained breathing apparatus (SCBA). 
+
+SRM 1616b 
+
+ 
+
+Page 2 of 6 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 2 
+
+Fire = 2 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; 
+see Section 8, “Exposure Controls and Personal Protection”.  Keep out of waters supplies and sewers. 
+
+Methods and Materials for Containment and Clean up:  Avoid heat, flames, sparks and other sources of ignition.  
+Stop leak if possible without personal risk, with water spray to reduce vapors.  Absorb spilled material with sand or 
+non-combustible material and collect in appropriate container for disposal.  
+
+7.  HANDLING AND STORAGE 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage and Incompatible Materials:  Store in a well-ventilated area.  Keep separated from incompatible substances 
+(see Section 10, “Stability and Reactivity”).   
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits  
+OSHA (PEL): 
+ACGIH (TLV): 
+
+ 
+NIOSH (REL): 
+
+No occupational exposure limits listed. 
+200 mg/m3 TWA, application restriction to conditions in which there are negligible aerosol 
+exposures, total hydrocarbon vapors. 
+Skin – potential significant contribution to overall exposure by the cutaneous route. 
+100 mg/m3 TWA 
+
+Engineering Controls:   Provide  local  exhaust  or  process  enclosure  ventilation  system.  Ensure  compliance  with 
+applicable exposure limits. 
+
+Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I.  Wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory  Protection:    If workplace conditions warrant a  respirator, a  respiratory protection program that 
+meets OSHA 29CFR 1910.134 must be followed.   Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.  Provide emergency 
+eyewash fountain and quick drench shower in the immediate work area. 
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended. 
+
+ 
+
+ 
+
+SRM 1616b 
+
+ 
+
+Page 3 of 6 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+ 
+
+Descriptive Properties 
+Molar Mass (g/mol) 
+Molecular Formula 
+Appearance (physical state, color, etc.) 
+
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point 
+Relative Density as Specific Gravity (water = 1) 
+Density(a) 
+
+Vapor Pressure 
+Vapor Density (air = 1) 
+Kinematic Viscosity(a) 
+Solubilities 
+
+Partition coefficient (n-octanol/water) 
+
+Thermal Stability Properties 
+Autoignition Temperature 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point(a) 
+Flammability (solid, gas) 
+
+(a)Property was determined for SRM 1616b (see Certificate of Analysis). 
+
+10.  STABILITY AND REACTIVITY 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  Not applicable. 
+
+Kerosene 
+≈170 
+not applicable 
+colorless to brown liquid; 
+oily free-flowing 
+petroleum odor 
+not available 
+not available 
+not available 
+–18 °C (–0.4 °F) 
+0.8 
+827.1 kg/m3 at 15 °C 
+39.5 API at 60 °F 
+5 mmHg at 38 °C 
+4.5 
+
+1.617 cSt at 40 °C 
+water:  insoluble; 
+
+soluble in petroleum solvents 
+not available 
+
+ 
+210 °C (410 °F) 
+not available 
+151 °C to 301 °C (303 °F to 574 °F) 
+0.7 
+5 
+
+58.9 °C (138 °F) 
+not applicable 
+
+Conditions to Avoid:  Avoid heat, flames, sparks, and other sources of ignition.  Containers may rupture or explode 
+if exposed to heat.  Keep out of water supplies and sewers. 
+
+Incompatible Materials:  Oxidizing materials, halogens. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+
+11.  TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+X 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    Eye  or  skin  irritation  and 
+possible skin disorders.  Lung damage and death are possible if aspirated into lungs. 
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Irritation hazard is low unless heated or misted.  High concentrations of vapor or mist may cause 
+irritation and possibly systems of central nervous system  depression.  Prolonged contact  may cause irritation, 
+bronchitis, and pneumonia. 
+
+Skin Contact:  May cause defatting of the skin resulting in dryness, irritation, dermatitis and edema.   
+
+Eye Contact:  No adverse effects reported. 
+
+SRM 1616b 
+
+ 
+
+Page 4 of 6 
+
+Ingestion:  If aspirated, lung damage and death may occur.  Ingestion may cause irritation or burning sensation 
+in  digestive  tract  and  other  digestive  discomfort.    In  large  quantities,  central  nervous  system  depression  may 
+occur.  
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified. 
+
+Rat, Oral, LD50:  >5000 mg/kg 
+Rat, Inhalation, LC50:  >5000 mg/m3 (4 h); >5.28 mg/L (4 h) 
+Rabbit, Dermal, LD50:  >2000 mg/kg 
+
+Skin Corrosion/Irritation:  Category 2. 
+ 
+ 
+
+Rabbit, skin: 500 mg severe. 
+Rabbits  treated  for  three  days,  with  3 mL/kg  each  day  experienced  hair  loss,  scaling,  cracking  of  the 
+epidermis, but no systemic toxicity. 
+
+Serious Eye Damage/Irritation:  Not classified. 
+ 
+
+Rabbit, eyes:  100 μL (24 h) mild. 
+
+Respiratory Sensitization:  No data available. 
+
+Skin Sensitization:  No data available. 
+
+Germ Cell Mutagenicity:  No data available. 
+
+Carcinogenicity:  Not classified. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+Kerosene is not listed in NTP or OSHA as a carcinogen.   
+IARC lists distillate (light fuel oils, kerosene) as Group 3, not classifiable as to their carcinogenicity.  
+ACGIH lists kerosene as A3 – confirmed animal carcinogen with unknown relevance to humans. 
+ 
+Mutagenic data:  Mouse, 350 mg/kg for 14 days, intermittent 
+
+X  No 
+
+Yes 
+
+ 
+
+Salmonella typhimurium (+S9) 25 μL per plate 
+
+Reproductive Toxicity:  No data available. 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  No data available. 
+
+Aspiration Hazard:  Category 1 (Kinematic viscosity is listed in Section 9, “Physical and Chemical Properties”). 
+
+Aquatic Toxicity, lethal loading rates:  Fish 18 – 25 mg/L; Invertebrates 1.4 – 21 mg/L; Algae 5 – 11 mg/L. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data: 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to disposal 
+regulations 40 CFR 262, Hazardous waste number, D001. 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  UN1223, Kerosene, Hazard Class 3, PG III. 
+
+SRM 1616b 
+
+ 
+
+Page 5 of 6 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21) 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+Yes 
+No 
+No 
+
+State Regulations 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Kerosene is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+
+Issue Date:  12 December 2018 
+
+Canadian Regulations:  WHMIS Information:  Not provided for this material. 
+
+Sources:  ChemADVISOR, Inc., SDS Kerosene, 09 December 2015. 
+
+The  American  Petroleum  Institute,  Petroleum  HPV  Testing  Group,  Kerosene/Jet  Fuel  Category 
+Assessment Document, Submitted to the US EPA on 21 September 2010. 
+
+ 
+
+ 
+
+Key of Acronyms:  
+
+ACGIH 
+CAS  
+
+CERCLA  
+
+CFR  
+DOT  
+
+EINECS 
+
+EPCRA  
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+n.o.s. 
+
+ 
+
+ 
+
+PEL  
+
+American Conference of Governmental Industrial Hygienists  NTP  
+Chemical Abstracts Service  
+Comprehensive  Environmental  Response,  Compensation, 
+and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+European  Inventory  of  Existing  Commercial  Chemical 
+Substances  
+Emergency Planning and Community Right-to-Know Act  
+International Agency for Research on Cancer  
+International Air Transport Association  
+Immediately Dangerous to Life and Health  
+Lethal Concentration  
+Median Lethal Dose or Lethal Dose, 50 % 
+Lower Explosive Limit  
+Material Safety Data Sheet  
+National Fire Protection Association  
+National Institute for Occupational Safety and Health  
+National Institute of Standards and Technology 
+Not Otherwise Specified 
+
+RQ  
+
+National Toxicology Program 
+
+OSHA   Occupational Safety and Health Administration  
+
+Permissible Exposure Level 
+
+RCRA   Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+REL  
+
+Reportable Quantity  
+
+RTECS  Registry of Toxic Effects of Chemical Substances 
+Superfund Amendments and Reauthorization Act  
+SARA  
+Self-Contained Breathing Apparatus  
+SCBA  
+Standard Reference Material  
+SRM  
+Short  Term Exposure Level  
+STEL  
+Median tolerance level 
+TLm 
+Threshold Limit Value  
+TLV  
+Threshold Planning Quantity  
+TPQ  
+Toxic Substances Control Act  
+TSCA  
+Time Weighted Average  
+TWA  
+UEL  
+Upper Explosive Limit  
+WHMIS  Workplace Hazardous Materials Information System 
+
+Disclaimer:   Physical  and  chemical  data  contained  in  this  SDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not 
+certify the data in the SDS.    The values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+https://www.nist.gov/srm. 
+
+SRM 1616b 
+
+ 
+
+Page 6 of 6 
+
+

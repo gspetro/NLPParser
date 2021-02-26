@@ -1,0 +1,693 @@
+﻿Date of Issue:
+
+13 July 2015
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	1057b
+
+		SRM Name:	Dibutyltin Bis(2-ethylhexanoate)
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended for use in the determination of the tin concentrations in lubricating oils.  A unit of SRM 1057b consists of 5 g of powder in a small bottle.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+	
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Classification 
+
+		Physical Hazard:	Not classified.
+
+		Health Hazard:	Skin Corrosion/Irritation	Category 2
+
+			Serious Eye Damage/Irritation 	Category 2A
+
+			
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word
+
+			WARNING
+
+			Hazard Statement(s) 
+
+	H315+H319	Causes skin and serious eye irritation.
+
+	Precautionary Statement(s)
+
+	P264 	Wash hands thoroughly after handling.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	P302+P352	If on skin: Wash with plenty of water.
+
+	P332+P313	If skin irritation occurs: Get medical attention.
+
+	P305+P351+P338	If in eyes: Rinse cautiously with water for several minutes.  Remove contact lenses, if present and easy to do.  Continue rinsing.
+
+	P337+P313	If eye irritation persists: Get medical attention.
+
+	P362+P364	Take off contaminated clothing and wash it before reuse. 
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  Dibutyltin Bis(2-ethylhexanoate)
+
+	Other Designations:  Dibutyltin di(2-ethylhexanoate); dibutylbis((2-ethyl-1-oxohexyl)oxy)stannane; tin, dibutyl-, di(2-ethylhexanoly)oxy- 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+
+(%)
+
+Dibutyltin Bis(2-ethylhexanoate)
+
+		2781-10-4
+
+220-481-2
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes while removing contaminated clothing and shoes.  Get immediate medical attention.  Thoroughly clean and dry contaminated clothing before reuse.  Destroy contaminated shoes.
+
+Eye Contact:  Flush eyes with plenty of water for at least 15 minutes. Then get immediate medical attention.
+
+Ingestion:  If swallowed, drink plenty of water, do NOT induce vomiting.  Get immediate medical attention.  Induce vomiting only at the instructions of a physician.  Do not give anything by mouth to unconscious or convulsive person.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Skin and eye irritation. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Regular dry chemical, carbon dioxide, and water.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Miscellaneous decomposition products.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 3	Fire = 0	Reactivity = 0
+
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Immediately contact emergency personnel.  Keep unnecessary personnel away.  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”. 
+
+Methods and Materials for Containment and Clean up:  Do not touch spilled material.  Notify safety personnel of spills.  Collect spilled material in appropriate container for disposal.  Isolate hazard area and deny entry. 
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+Storage:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (see Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:  
+
+	OSHA (PEL):	0.1 mg/m3 TWA (for all organic Sn compounds)
+
+		25 mg/m3 IDLH (as Sn)
+
+	NIOSH (REL):	0.1 mg/m3 TWA (skin, for organic Sn compounds except cyhexatin)
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemical-resistant gloves should be worn at all times when handling chemicals.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties
+
+
+
+Appearance
+(physical state, color, etc.)
+
+	white powder
+
+Molecular Formula
+
+	C24H48O4Sn
+
+Molar Mass (g/mol)
+
+	519.3
+
+Odor
+
+	odorless
+
+Odor threshold (mg/m3)
+
+	not available
+
+pH
+
+not available
+
+Evaporation rate
+
+not available
+
+Melting point/freezing point
+
+54.2 °C to 57.9 °C (130 ºF to 136 ºF)
+
+Relative Density
+
+not available
+
+Vapor Pressure
+
+4 Pa @ 20°C
+
+Vapor Density (air = 1)
+
+17.9
+
+Viscosity
+
+not available
+
+Solubility(ies)
+
+insoluble in water 
+
+Partition coefficient (n-octanol/water)
+
+log Kow = 2.64
+
+Thermal Stability Properties
+
+
+
+Autoignition Temperature
+
+not available
+
+Thermal Decomposition
+
+not available
+
+Initial boiling point and boiling range
+
+58 °C (136 ºF)
+
+Explosive Limits, LEL (Volume %)
+
+not available
+
+Explosive Limits, UEL (Volume %)
+
+not available
+
+Flash Point
+
+118°C (244 ºF)
+
+Flammability (solid, gas)
+
+not available
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoiding direct contact with material.
+
+Incompatible Materials:  Strong oxidizers.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce oxides of tin and carbon.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Skin and eye irritation.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Inhalation may result in upper respiratory tract irritation, cough, nausea, difficulty breathing, headache, lung congestion, and blood disorders.  Long term exposure may result in liver damage.
+
+Skin Contact:  Skin contact may result in irritation.
+
+Eye Contact:  Direct contact with the eyes may cause irritation.
+
+Ingestion:  Ingestion may result in gastrointestinal irritation, vomiting, headache, drowsiness, dizziness, loss of coordination, blood disorders, kidney damage, and liver damage.
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified.
+
+Rat, Oral LD50: 2071 mg/kg
+
+Rat, Dermal LD50: >2000 mg/kg
+
+Skin Corrosion/Irritation:  Category 2; skin irritation may occur.
+
+Serious Eye Damage/Irritation:  This SRM contains Category 2 skin irritant and is classified as a Category 2A, effects fully reverses within an observation period of normally 21 days.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Not classified.
+
+Listed as a Carcinogen/Potential Carcinogen
+
+
+
+Yes
+
+X
+
+No
+
+	Dibutyltin Bis(2-ethylhexanoate) is not listed by NTP, IARC or OSHA as carcinogens/potential carcinogens.
+
+Reproductive Toxicity:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity, Repeated Exposure: Not classified; no data available.
+
+Aspiration Hazard:  No data available.
+
+12. ECOLOGICAL INFORMATION
+
+	Ecotoxicity Data:	No data available.
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+
+
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+	CERCLA Sections 102a/103 (40 CFR 302.4):	Not regulated.
+
+	SARA Title III Section 302 (40 CFR 355.30):	Not regulated.
+
+	SARA Title III Section 304 (40 CFR 355.40):	Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):	Not regulated.
+
+	OSHA Process Safety (29 CFR 1910.119): 	Not regulated.
+
+		SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	No
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+State Regulations:  Not listed under California Proposition 65.
+
+U.S. TSCA Inventory:  Listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information is not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+	Issue Date:  13 July 2015
+
+	Sources:	ChemAdvisor, Inc., SDS Dibutyltin Dilaurate, 20 March 2015.
+
+	Eastman Kodak Company, Vendor MSDS, Dibutyltin Bis(2-ethylhexanoate), 27 May 1981.
+
+	ChemIDplus Advanced, National Library of Medicine's TOXNET system, Dibutyltin bis(2ethylhexanoate) CAS No. 2781-10-4; available at http://chem.sis.nlm.nih.gov/chemidplus/ (accessed July 2015).
+
+CDC, NIOSH Pocket Guide; Tin (Organic Compounds, as Sn), 13 February 2015; available at http://www.cdc.gov/niosh/npg/npgd0614.html (accessed July 2015).
+
+European Chemicals Agency (ECHA); Registered Substance, Dibutyltin bis(2ethylhexanoate) CAS No. 2781-10-4; http://echa.europa.eu/ (accessed July 2015).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+					Key of Acronyms:
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NRC
+
+Nuclear Regulatory Commission
+
+ALI
+
+Annual Limit on Intake
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EC50
+
+Effective Concentration, 50 %
+
+RM
+
+Reference Material
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+SRM 
+
+Standard Reference Material 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+STEL 
+
+Short Term Exposure Limit 
+
+LD50
+
+Lethal Dose, 50 %
+
+STOT
+
+Specific Target Organ Toxicity
+
+LEL 
+
+Lower Explosive Limit 
+
+TLm
+
+Threshold Limit, median
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TLV 
+
+Threshold Limit Value 
+
+NFPA 
+
+National Fire Protection Association 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIST
+
+National Institute of Standards and Technology
+
+TWA 
+
+Time Weighted Average 
+
+n.o.s.
+
+Not Otherwise Specified
+
+UEL 
+
+Upper Explosive Limit 
+
+
+
+
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 1057b		Page 6 of 6

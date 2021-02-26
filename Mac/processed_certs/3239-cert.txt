@@ -1,0 +1,294 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 3239
+
+
+
+Isoflavones Calibration Solutions
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in calibration of instruments and techniques used for the determination of isoflavones.  SRM 3239 consists of two solutions containing isoflavones at levels that reflect the mass fraction ratios found in soy products:  Solution 1, Isoflavone Glycosides (daidzin, genistin, and glycitin); Solution 2, Isoflavone Aglycones (daidzein, genistein, and glycitein).  The solutions contain a mixture of 80 % methanol and 20 % water (volume fractions); dimethyl sulfoxide (DMSO) was added to solubilize the crystalline isoflavones.  A unit of SRM 3239 consists of ten 2 mL ampoules, five each of Solution 1 and Solution 2.  Each ampoule contains approximately 1.2 mL of solution.
+
+		
+
+		Development of SRM 3239 was a collaboration between the National Institute of Standards and Technology (NIST) and the National Institutes of Health Office of Dietary Supplements (NIH ODS).
+
+
+
+Certified Mass Fraction Values:  Certified mass fraction values and structures for isoflavones are presented in Table 1 and Figure 1, respectively.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses for value assignment were performed by NIST and are based on the masses used in the gravimetric preparation of the solution and from the analytical results determined using liquid chromatography with ultraviolet absorbance detection (LCUV).  Certified values were calculated as the mean of the mean values from NIST methods.  The associated uncertainties are expressed at an approximately 95 % level of confidence [2–4].
+
+
+
+Expiration of Certification:  The certification of SRM 3239 is valid, within the measurement uncertainty specified, until 01 March 2026, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Storage and Use”).  The certification will be nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Coordination of the technical measurements leading to the certification of this SRM were performed by M.M. Phillips and C.A. Rimmer of the NIST Chemical Sciences Division.  Analytical measurements at NIST were performed by M.M. Phillips and M.A. Nelson of the NIST Chemical Sciences Division.
+
+
+
+Support for the development of SRM 3239 was provided in part by NIH ODS.  Technical consultation was provided by J.M. Betz (NIH ODS).
+
+
+
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+
+
+
+
+
+
+
+
+		Carlos A. Gonzalez, Chief	Chemical Sciences Division
+
+
+
+	Gaithersburg, MD 20899	Steven J. Choquette, Acting Director
+
+	Certificate Issue Date:  15 June 2016	Office of Reference Materials
+
+
+NOTICE TO USERS
+
+
+
+SRM 3239 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION.
+
+	
+
+METROLOGICAL TRACEABILITY 
+
+
+
+Metrological traceability of measurement results to a given reference must be established through an unbroken chain of calibrations, each contributing to the stated uncertainties [5], using measurement standards that are appropriate for the property measured.  The certified values in this calibration SRM are traceable to the International System of Units (SI), established through confirmation of the chemical identity and determination of the purity of primary standards, as well as calibration of the devices used to determine masses.  For this SRM, the measurand is the total concentration of each analyte listed, expressed as mass fraction (expressed as milligrams per kilogram), and the certified values are metrologically traceable to the SI unit for mass.
+
+
+
+For calibration of measurement processes used to evaluate results of the certified property, this SRM may be implemented as-is or diluted to prepare in-house calibration solutions.  The property values of in-house solutions are traceable to the certified value of the SRM if the uncertainties associated with the procedures of preparation are evaluated and appropriately combined with the uncertainty of the certified value.  The property value uncertainties assigned to results of the calibrated measurement process must include the uncertainty of the calibration function combined with the uncertainty associated with the precision of the measurement process.  Guidance on evaluating and combining uncertainties is provided in reference 6.
+
+
+
+INSTRUCTIONS FOR STORAGE AND USE
+
+
+
+Storage:  Sealed ampoules, as received, should be stored in a freezer (–18 °C to –22 °C).  Additional information for storing diluted solutions is provided in Appendix A.
+
+
+
+Use:  Prior to removal of a test portion for analysis, the contents of an ampoule should be mixed thoroughly.  Test portions for use should be withdrawn immediately after opening the ampoules, and should be processed or diluted without delay for the certified mass fraction to be valid within the stated uncertainty.  Gravimetric and volumetric methods for preparing in-house solutions are described in Appendix A.  The certified values do not apply to contents of previously opened and stored ampoules, as the stability of analytes in opened ampoules has not been investigated.
+
+
+
+PREPARATION AND ANALYSIS()
+
+Solution Preparation:  The solutions were prepared gravimetrically at NIST from a solution of 80 % methanol and 20 % water (volume fractions), primary standards for daidzin, genistin, glycitin, daidzein, genistein, and glycitein obtained from Blaze Science Industries (Lawndale, CA), and DMSO used to solubilize the primary standards.  After preparation, the solutions were mixed overnight (18 h) and aliquoted into 2 mL amber glass ampoules that had been purged with argon prior to addition of the solution.  The ampoules were then flame-sealed.  The masses of the primary standards and the total mass of the solutions were used to calculate the gravimetric mass fractions.  The mass fractions were adjusted for the purity estimates of the primary standards, which were determined using quantitative proton nuclear magnetic resonance spectroscopy (qNMR).
+
+
+
+Analytical Approach:  Aliquots from 10 ampoules of each solution, selected using a stratified random sampling scheme, were spiked with an internal standard (sissotrin) solution and analyzed in duplicate using LCUV at 254 nm.  Two to four independently prepared calibration solutions of each isoflavone were gravimetrically prepared, combined with the internal standard solution, and chromatographically analyzed.  The mass purity of the neat chemical calibrant materials was determined using qNMR.  A single internal standard solution was used for the calibrants and samples.  Representative chromatograms and the separation conditions are presented in Figure 2.
+
+
+
+Homogeneity Assessment:  The homogeneity of isoflavone mass fractions was assessed at NIST by using the analytical approach described above.  An analysis of variance did not show inhomogeneity for the 0.4 g test portions analyzed.
+
+
+
+
+Certified Mass Fraction Values for Isoflavones:  For calculation of assigned values, the means of the available sets of data were averaged.  Each certified mass fraction value is the mean of mean mass fractions determined at NIST by gravimetric preparation and LCUV measurements.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  The expanded uncertainty is calculated as U = kuc, where the combined uncertainty uc incorporates the observed difference between the results from the methods and their respective uncertainties, consistently with the ISO/JCGM Guide and with its Supplement 1, and k is a coverage factor corresponding to approximately 95 % confidence [3,4,7].
+
+
+
+
+
+Table 1.  Certified Mass Fraction Values for Isoflavones in SRM 3239
+
+
+
+																	
+
+Mass Fraction
+
+(mg/kg)
+
+Coverage Factor
+k
+
+	Solution 1
+
+			
+
+
+
+		Daidzin
+
+				95.2		2.0
+
+2.00
+
+		Genistin
+
+				110.0		3.0
+
+2.00
+
+		Glycitin
+
+				19.51		0.16
+
+2.00
+
+	Solution 2
+
+			
+
+
+
+		Daidzein
+
+				2.652		0.043
+
+2.00
+
+		Genistein
+
+				2.236		0.030
+
+2.00
+
+		Glycitein
+
+				0.549		0.011
+
+2.00
+
+
+
+
+
+
+
+
+
+Daidzin
+
+Daidzein
+
+
+
+
+
+Genistin
+
+Genistein
+
+
+
+
+
+Glycitin
+
+Glycitein
+
+
+
+Figure 1.  Structures of isoflavones in SRM 3239.
+
+
+
+
+
+
+
+
+Figure 2.  LC-UV chromatograms of SRM 3239 Isoflavone Calibration Solutions.  A C18 column with an embedded amide group and dimensions of 100 mm × 3.0 mm ID and containing 2.7 µm diameter particles and a gradient mobile phase consisting of 5 mmol/L ammonium acetate in water (pH 4.7) and acetonitrile were used.  The column temperature was not controlled and absorbance detection was conducted at 254 nm.
+
+
+
+
+
+REFERENCES
+
+
+
+	[1]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office: Washington, DC (2000); available at http://www.nist.gov/srm/upload/SP260136.PDF (accessed June 2016).
+
+	[2]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; U.S. Government Printing Office: Washington, DC (2008); available at http://www.nist.gov/pml/pubs/index.cfm/ (accessed June 2016).
+
+	[3]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2016); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed June 2016).
+
+	[4]	JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty in Measurement – Propagation of Distributions Using a Monte Carlo Method; JCGM (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed June 2016). 
+
+	[5]	JCGM 200:2012; International Vocabulary of Metrology – Basic and General Concepts and Associated Terms (VIM), 3rd ed. (2008 version with Minor Corrections); JCGM (2012); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf (accessed June 2016). 
+
+	[6]	EURACHEM; EURACHEM/CITAC Guide: Quantifying Uncertainty in Analytical Measurement; Ellison, S.; Williams, A., Eds.; 3rd ed. (2012); available at http://www.eurachem.org/index.php/publications/guides/quam (accessed June 2016).
+
+	[7]	Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993).
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+
+Appendix A
+
+
+
+Guidance for Diluting SRM 3239 Isoflavones Calibration Solutions
+
+
+
+The methanolic calibration solutions of SRM 3239 for isoflavones are of higher concentration than is typically encountered in soy products.  Therefore, dilution of the calibration solutions may be required for analysis by many of the common isoflavone assays.  Recommendations for dilution of the calibration solutions are as follows:
+
+
+
+The solutions should be allowed to reach room temperature and be thoroughly mixed prior to opening the ampoules for dilution.  However, to maximize stability of the isoflavones, care should be taken to minimize the total time at room temperature to less than 3 h for equilibrating, diluting and analyzing.
+
+
+
+The most accurate results for dilution will be obtained using gravimetry with a calibrated analytical balance.  Both the masses of the SRM 3239 solution and the total amount of solution after dilution are required to calculate the new concentration.
+
+
+
+For assays that utilize volumetric measurements, use of either a gas-tight syringe or a positive displacement pipette (PDP) is recommended for solution transfer.  If using a PDP, ensure all solution is delivered from the capillary (touching the tip of the capillary to the wall of the container may be required to fully deliver the correct volume).  The best results for a volume dilution will be obtained if a volumetric flask is used to achieve the desired total volume.
+
+
+
+If a positive displacement pipette is not available, an air-displacement pipette can be used.  However, the errors in the amount of the methanolic solution dispensed and the concentration of the diluted solution will be greater.  Also, in both (3) and (4), use of pipettes that are out of calibration will result in additional error.
+
+
+
+The choice of diluent does not matter, as long as the methanol/analytes are soluble.  Dilution with organic solvents such as alcohols or acetonitrile is preferable, but water can be used as the diluent if prescribed by the assay.  Proper technique is necessary if diluting volumetrically, and particular care must be taken to consider mixing of solvents during the dilution step.  All diluted SRM 3239 solutions should be stored in the dark in a sealed container (e.g., amber threaded bottle with a lined screw cap) to minimize concentration changes that could occur from evaporative losses.  Solutions diluted with organic solvents should be stored at –20 °C until ready for analysis (up to 6 months) to minimize isoflavone degradation.  The viability of solutions that have been diluted with water, stored at –20 °C, and then equilibrated to room temperature for analysis has not been investigated at NIST.  Therefore, it is recommended that samples diluted with water be analyzed without delay and discarded after 3 h.
+
+
+
+		SRM 3239		Page 5 of 5

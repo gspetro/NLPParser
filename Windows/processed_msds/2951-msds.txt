@@ -1,0 +1,716 @@
+﻿Date of Issue:
+
+26 January 2015
+
+
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+		SRM Number:	2951
+
+		SRM Name:	Respirable Alpha Quartz on Filter Media
+
+			(Nominal Mass of Alpha Quartz 5 µg)
+
+		Other Means of Identification:  Not applicable.
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for the calibration of X-ray diffraction (XRD) spectrometers for the determination of respirable alpha quartz using National Institute for Occupational Safety and Health (NIOSH) Method 7500, or the equivalent.  The SRM was produced by depositing a known amount of SRM 1878a Respirable Alpha Quartz, as a slurry on a 25 mm diameter polyvinyl chloride (PVC) filter.  A unit of SRM 2951 consists of five filters, each containing a nominal mass of 5 µg of respirable alpha quartz.  The SRM is provided with five blank PVC filters containing no alpha quartz.  The blank filters and the loaded filters are stored in two clear plastic petri dishes, respectively, with blue spacer sheets separating the filters.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+			1-800-424-9300	(North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+				+1-703-527-3887	(International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+2. HAZARDS IDENTIFICATION
+
+Note:  The particulate material on the filter is respirable quartz.  The health and physical hazard information provided in this SDS contains the effects associated with the inhalation of quartz particulates.
+
+Classification 
+
+			Physical Hazard:	Not classified.
+
+			Health Hazard:	Carcinogen		Category 1
+
+				STOT, Repeated Exposure 	Category 1
+
+		Label Elements
+
+				Symbol 
+
+				
+
+				Signal Word
+
+				DANGER
+
+	Hazard Statement(s):
+
+	H350	May cause lung cancer.
+
+	H372	Causes damage to lungs through prolonged or repeated inhalation.
+
+		Precautionary Statement(s):
+
+	P201	Obtain special instructions before use.
+
+	P202	Do not handle until all safety precautions have been read and understood.
+
+	P260	Do not breathe dust.
+
+	P264	Wash hands thoroughly after handling.
+
+	P270	Do not eat, drink or smoke when using this product.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	P308 + P313	If exposed or concerned:  Get medical attention.
+
+	P405	Store locked up.
+
+	P501	Dispose of contents and container in accordance with local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+	Substance:  αQuartz
+
+	Other Designations: Silica; silicon dioxide; crystalline silica; white silica sand; silicic anhydride; SiO2 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200; for the actual values see the NIST Certificate of Analysis.
+
+Hazardous Component(s)
+
+	CAS Number
+
+EC Number
+
+(EINECS)
+
+Nominal Mass Concentration
+(%)
+
+Quartz
+
+	14808-60-7
+
+238-878-4
+
+	100
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures: 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration or oxygen by qualified personnel.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated clothing before reuse.
+
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention.
+
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment.
+
+Most Important Symptoms/Effects, Acute and Delayed:  May cause irritation, lung damage, silicosis, and cancer. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek medical attention if needed.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media:
+
+		Suitable:  Use extinguishing agents appropriate for surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  None listed.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)	
+
+				Health = 1	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.
+
+Methods and Materials for Containment and Clean up:  Collect spilled material in appropriate container for disposal.  Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry.
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Minimize dust generation.  See Section 8, “Exposure Controls and Personal Protection”.
+
+Storage:  Store and handling in accordance with all current regulations and standards.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+Exposure Limits:
+
+	ACGIH (TLV):	0.025 mg/m3 (TWA) [respirable fraction]
+
+	OSHA (PEL): 	(30)/(%SiO2 + 2) mg/m3 (TWA) [total dust]
+
+		(250)/(%SiO2 + 5) mppcf (TWA) [respirable fraction]
+
+		(10)/(%SiO2 + 2) mg/m3 (TWA) [respirable fraction]
+
+			NIOSH (REL):	0.05 mg/m3 (TWA) [respirable dust]
+
+				50 mg/m3 (IDLH) [respirable dust]
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eyewash station should be readily available near areas of use.
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task being performed and the risks involved and should be approved by a specialist before handling this product.  Chemicalresistant gloves should be worn at all times when handling chemicals.
+
+9.  Physical and Chemical Properties
+
+
+
+Descriptive Properties:
+
+Quartz
+
+Appearance (physical state, color, etc.):
+
+colorless to white, amorphous powder
+
+Molecular Formula:
+
+SiO2
+
+Molar Mass (g/mol):
+
+60.09
+
+Odor:
+
+odorless
+
+Odor threshold:
+
+not available
+
+pH:
+
+not applicable
+
+Evaporation rate:
+
+not applicable
+
+Melting point/freezing point (ºC):
+
+1610 (2930 ºF)
+
+Density (g/mL):
+
+2.6 to 2.7
+
+Vapor Pressure (mmHg):
+
+0 at 20 ºC
+
+Vapor Density (air = 1):
+
+not applicable
+
+Viscosity (cP):
+
+not applicable
+
+Solubility(ies):
+
+insoluble in water; 
+soluble in hydrofluoric acid
+
+Partition coefficient (n-octanol/water):
+
+not available
+
+Particle Size:
+
+≈1.6 µm
+
+Thermal Stability Properties:
+
+
+
+Autoignition Temperature (ºC):
+
+not applicable
+
+Thermal Decomposition (ºC):
+
+not available
+
+Initial boiling point and boiling range (ºC):
+
+2230 (4046 ºF)
+
+Explosive Limits, LEL (Volume %):
+
+not applicable
+
+Explosive Limits, UEL (Volume %):
+
+not applicable
+
+Flash Point (ºC):
+
+not applicable
+
+Flammability (solid, gas):
+
+not applicable
+
+
+
+10.  Stability and Reactivity
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  None listed.
+
+Conditions to Avoid:  Avoid generating dust.
+
+Incompatible Materials:  Bases, halogens, acids, metal salts, metal, oxidizing materials, combustible materials.
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”.
+
+Hazardous Decomposition:  Thermal decomposition will produce miscellaneous decomposition products.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+
+
+Skin
+
+
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  May cause irritation, lung damage, silicosis, and cancer.
+
+Potential Health Effects (Acute, Chronic and Delayed):
+
+Inhalation:  Acute exposure to fine particles containing respirable quartz may result irritation; chronic exposure may result in irritation, chest pain, weight loss, difficulty breathing, digestive disorders, bluish skin color, lung damage, cancer, and death.
+
+Skin Contact:  May cause irritation due to mechanical abrasion.
+
+Eye Contact:  May cause irritation due to mechanical abrasion.
+
+Ingestion:  No data available.
+
+Numerical Measures of Toxicity:
+
+Acute Toxicity:  Not classified.
+
+Skin Corrosion/Irritation:  Not classified; no data available.
+
+Serious Eye damage/ Eye irritation:  Not classified; no data available.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity: Category 1
+
+Listed as a Carcinogen/Potential Carcinogen
+
+X
+
+Yes
+
+
+
+No
+
+	Silica dust, crystalline, in the form of quartz or cristobalite is listed by IARC, Group 1, carcinogenic to humans.  Silica, Crystalline (Respirable Size) is listed by NTP as a known human carcinogen (respirable size).  Quartz is not listed by OSHA as a designated carcinogen.  
+
+Reproductive Toxicity:  Not classified.
+
+Specific Target Organ Toxicity (STOT), Single Exposure:  Not classified; no data available.
+
+Specific Target Organ Toxicity (STOT), Repeated Exposure:  Category 1
+
+Cumulative exposure may result in reduced lung capacity and silicosis.
+
+Aspiration Hazard:  Not classified.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:  No data available.
+
+			Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations.
+
+14. TRANSPORTATION INFORMATION
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations:
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated.
+
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated.
+
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated.
+
+	SARA Title III Section 313 (40 CFR 372.65):  Not regulated.
+
+	OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	No.
+
+	CHRONIC HEALTH:	Yes.
+
+	FIRE:	No.
+
+	REACTIVE:	No.
+
+	PRESSURE:	No.
+
+State Regulations:
+
+California Proposition 65:  WARNING!  This product contains a chemical [silica, crystalline (airborne particles of respirable size)] known to the state of California to cause cancer.
+
+U.S. TSCA Inventory: Quartz is listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:
+
+WHMIS Information: Not provided for this material.
+
+
+
+
+16. OTHER INFORMATION
+
+	Issue Date:	26 January 2015
+
+	Sources:	ChemAdvisor, Inc., MSDS Quartz, 15 December 2014.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key of Acronyms:
+
+
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NIST
+
+National Institute of Standards and Technology
+
+ALI
+
+Annual Limit on Intake
+
+NRC
+
+Nuclear Regulatory Commission
+
+CAS 
+
+Chemical Abstracts Service 
+
+NTP 
+
+National Toxicology Program
+
+CEN
+
+European Committee for Standardization
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+CPSU
+
+Coal Mine Dust Personal Sample Unit
+
+REL 
+
+Recommended Exposure Limit 
+
+DOT 
+
+Department of Transportation 
+
+RM
+
+Reference Material
+
+EC50
+
+Effective Concentration, 50 %
+
+RQ 
+
+Reportable Quantity 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IATA 
+
+International Air Transportation Agency 
+
+SRM 
+
+Standard Reference Material 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+STEL
+
+Short Term Exposure Limit 
+
+ISO
+
+International Organization for Standardization
+
+STOT
+
+Specific Target Organ Toxicity 
+
+LC50
+
+Lethal Concentration, 50 % 
+
+TDLo
+
+Toxic Dose Low
+
+LD50
+
+Lethal Dose, 50 %
+
+TLV 
+
+Threshold Limit Value 
+
+LEL 
+
+Lower Explosive Limit 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NFPA 
+
+National Fire Protection Association 
+
+TWA 
+
+Time Weighted Average 
+
+MSHA
+
+Mine Safety and Health Administration
+
+UEL 
+
+Upper Explosive Limit 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2951		Page 6 of 6

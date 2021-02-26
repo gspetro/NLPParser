@@ -1,0 +1,247 @@
+﻿fy 
+\o
+
+ 
+
+‘ 
+Z 
+
+oxide) 
+
+Standard Reference Material 1923 
+
+Certificate of Analysis 
+
+National Institute of Standards & Technology 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Poly(ethylene 
+ 
+This Standard Reference Material (SRM) is intended prim arily for use in calibration and performance evaluation of 
+instruments used to determine molecular weight and molecular weight distribution by size exclusion chromatography 
+(SEC) or gel filtration chromatography.  SRM 1923 is supplied in the form of a white powder, and in units of 0.2 g. 
+ 
+This material is certified for weight-average molecular weight (Mw): 
+ 
+Mw = 26.9 x 103 ± 2.2 x 103 g/molea 
+ 
+aCombined expanded uncertainty, U (see Table 1). 
+ 
+The above uncertainty was calculated by a procedure complying with the description in NIST Technical Note 1297 [1]. 
+  
+ 
+Source:  This poly(ethylene oxide) was prepared by Polymer Labs, Church Stretton, Shropshire, England. 
+ 
+Expiration of Certification:   This certificate will be valid for five years from the date of shipment from NIST, when 
+maintained under recommended storage conditions. 
+ 
+Homogeneity and Material Characterization:   The homogeneity of the polymer was tested by SEC analysis of 
+solutions in water at 30  °C.  The M w was determined by Rayleigh light scattering.  The M w/Mn ratio (Mn is the number 
+average molecular weight) was estimated as 1.06 from the SE
+poly(ethylene oxide) by SEC and by light scattering is described in NISTIR 5286 [2]. 
+ 
+A high molecular weight peak, distinctly  remote from the main peak, occasiona lly appeared in chromatograms during 
+an aging study of this poly(ethylene oxide) by aqueous SE C.  The high molecular weight peak can be removed by 
+heating the solution at 50 °C for 1 h.  In order to avoid degradation, solutions of the standard should be freshly prepared 
+before each SEC calibration. 
+ 
+Storage:  SRM 1923 is provided bottled in an environment of dry  argon.  The polymer sample should be stored in the 
+original bottle tightly closed, under normal laboratory conditions. 
+ 
+The technical coordination leading to certification of this material was provided by C.C. Han, with technical 
+measurement and data interpretation provided by C.M. Guttman and J.R. Maurey, all of the NIST Polymers Division. 
+ 
+Technical and support aspects involved in the preparation, 
+through the Standard Reference Materials Program by J.C. Colbert. 
+ 
+Gaithersburg, MD  20899 
+June 10, 1994 
+ 
+ (over) 
+ 
+ 
+ 
+ 
+
+Thomas E. Gills, Chief 
+Standard Reference Materials Program 
+
+certification, and issuance of this SRM were coordinated 
+
+e characterization of this 
+
+C analyses in water.  Th
+
+ 
+
+ 
+
+  
+
+b  
+
+ui 
+
+of 
+
+0.44 A
+
+Type of  
+
+       Freedom 
+
+Source of Uncertainty 
+
+g/mole x 103 Uncertainty
+
+3 
+  
+ 5 
+10 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+c 
+B d 
+A 
+A 
+B 
+B 
+B  
+B  
+B  
+B  
+B  
+B 
+B  
+B 
+B  
+B 
+
+Table 1.  Components of Uncertainty in 
+Weight-Average Molecular Weight of SRM 1923 
+
+0.01 
+0.27 
+0.11 
+<0.01 
+0.81 
+0.05 
+<0.01 
+0.01 
+0.03 
+<0.01 
+0.40 
+0.08 
+0.03 
+0.27 
+0.08 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Degrees 
+ 
+ 
+ 
+Standard deviation of the mean Mw
+Solvent index of refraction 
+Calibration of differential refractometer 
+Differential refractive index 
+Wavelength of light 
+Rayleigh ratio of scattering standard 
+Light polarizers 
+Ratio of standard scattering to sample scattering 
+Solvent density 
+Solute weights and solvent weights 
+Light reflection 
+Optical alignment 
+Refraction correction 
+Anisotropy of polymer in solution 
+Truncation of virial expansion 
+Solute degradation 
+ 
+Combined standard uncertainty:  uc = 1.09 x 103 g/mole by root-sum-of-squares of ui [2]. 
+ 
+Combined expanded uncertainty:  U = 2.18 x 103 g/mole, obtained by multiplying uc by a coverage factor of   k  =  2 
+[1].  
+ 
+b.  The standard uncertainty of a mean, u i, is equated with the standard deviation of the mean when computed from 
+ 
+ 
+c.  Type A uncertainties are evaluated by statistical methods [1,2]. 
+ 
+ 
+d.  Type B uncertainties are evaluated by other means [1,2
+ infinite 
+[2]. 
+ 
+ 
+ REFERENCES 
+ 
+[1]  Taylor, B.N. and Kuyatt, C.E., Guidelines for Evaluating and Expressing the Uncertainty of NIST 
+  Measurement Results, NIST Tech. Note 1297, Jan. 1993. 
+ 
+[2]  Guttman, C.M. and Maurey, J.R., Determination of the Weight-Average Molecular Weight of Two 
+ 
+
+Poly(ethylene oxides), SRM 1923 and SRM 1924, NISTIR 5286, 1994.  
+
+analysis of variance of a statistical population of measurements [1]. 
+
+].  Degrees of freedom for all Type B uncertainties are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+2
+
+

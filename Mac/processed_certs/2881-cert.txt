@@ -1,0 +1,402 @@
+﻿ 
+
+oe 
+; 
+
+Staves  oe
+
+National Institute of Standards & Technology 
+Certificate 
+Standard Reference Material® 2881 
+
+ 
+
+ 
+
+ 
+Polystyrene Absolute Molecular Mass Distribution Standard 
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  the  calibration  and  the  performance  evaluation  of 
+instruments  used  to  determine  the  average molecular  mass  and  molecular  mass  distribution of  synthetic  polymers 
+(where  mass  is  taken  to  be  relative  to  the  mass  of  12C).    These  methods  include  size  exclusion  chromatography 
+(SEC) [1] and mass spectrometry (MS). [2]  The fractional contribution of each oligomer from 1 % to 99 % of the 
+cumulative  molecular  mass  distribution  (MMD)  was  certified  and  is  given  in  Table  1.    The  term  absolute  means 
+certification  of  the  molecular  mass  distribution  was  performed  without  reference  to  another  polymer  or  other 
+polydisperse material. 
+ 
+A unit of SRM 2881 consists of approximately 0.3 g of polystyrene powder.  The polystyrene was synthesized by 
+anionic polymerization where initiation was with an n-octyl group and termination was with a proton. 
+ 
+Certified Uncertainties:  The certified measurement uncertainty is expressed as a combined expanded uncertainty 
+with a coverage factor k = 2, calculated in accordance with accepted NIST procedure. [3]  The Type A (random) and 
+Type  B  (systematic)  contributions  to  the  expanded  uncertainty  of  the  measured  molecular  mass  fractions  include 
+uncertainties in sample preparation, instrumentation, and data analysis.  
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2881  is  valid,  within  the  measurement  uncertainties 
+specified,  until  01  January  2019,  provided  that  the  SRM  is  handled  in  accordance  with  the  storage  instructions 
+given below  (see  “Instructions  for Use”).   This  certification  is nullified if  the  SRM  is modified,  contaminated,  or 
+stored improperly. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before expiration of this certificate, NIST will notify 
+the purchaser.  Registration will facilitate notification  (see attached sheet). 
+ 
+Supplemental  Information:  Nuclear  magnetic  resonance  spectroscopy  (NMR)  and  matrix-assisted  laser 
+desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) were used to analyze the end groups on 
+the polymer.  Only the set of end groups specified above were found. 
+ 
+NIST Certification Method:  The certified values for the oligomeric fractions in the molecular mass distribution 
+were measured using MALDI-TOF MS. [4] 
+ 
+W.E. Wallace of the NIST Polymers Division provided technical coordination leading to certification of this SRM. 
+ 
+C.M. Guttman, W.E. Wallace, K.M. Flynn, and D.L. VanderHart of the NIST Polymers Division provided technical 
+measurement  and  data  interpretation.    A.J.  Kearsley  of  the  NIST  Mathematical  and  Computational  Sciences 
+Division provided methodology for instrument optimization and for unbiased peak integration methods for the data. 
+ 
+Statistical consultation was provided by J. Lu of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  preparation  and  issuance  of  this  SRM  were  coordinated  through  the  NIST 
+Measurement Services Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  12 December 2008 
+
+Robert L. Watters, Jr., Chief 
+Standard Reference Materials Program 
+
+Eric K. Lin, Chief 
+Polymers Division 
+
+SRM 2881 
+
+ 
+
+Page 1 of 3 
+
+ 
+INSTRUCTIONS FOR USE 
+ 
+Storage:    The  SRM  should  be  stored  in  the  original  bottle  with  the  lid  tightly  closed  under  normal  laboratory 
+conditions. 
+ 
+Homogeneity and Characterization:  SRM homogeneity was tested by SEC analysis as described in reference [4].   
+ 
+Table 1. Number fraction βi for each oligomer in the molecular mass  
+distribution (MMD) and associated uncertainties for SRM 2881 
+ 
+
+Repeat Unit Number  Oligomer Mass  Number Fraction of 
+
+i 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+
+g/mol 
+6675.80 
+6779.95 
+6884.10 
+6988.26 
+7092.41 
+7196.56 
+7300.71 
+7404.86 
+7509.01 
+7613.17 
+7717.32 
+7821.47 
+7925.62 
+8029.77 
+8133.93 
+8238.08 
+8342.23 
+8446.38 
+8550.53 
+8654.69 
+8758.84 
+8862.99 
+8967.14 
+9071.29 
+9175.44 
+9279.60 
+9383.75 
+9487.90 
+9592.05 
+9696.20 
+9800.36 
+9904.51 
+10 008.66 
+10 112.81 
+10 216.96 
+10 321.12 
+10 425.27 
+10 529.42 
+10 633.57 
+10 737.72 
+10 841.87 
+10 946.03 
+11 050.18 
+
+Uncertainty in 
+Number Fraction 
+k = 2 
+0.0003 
+0.0005 
+0.0006 
+0.0007 
+0.0008 
+0.0010 
+0.0011 
+0.0013 
+0.0014 
+0.0016 
+0.0017 
+0.0017 
+0.0017 
+0.0017 
+0.0017 
+0.0016 
+0.0015 
+0.0011 
+0.0010 
+0.0007 
+0.0007 
+0.0006 
+0.0008 
+0.0010 
+0.0012 
+0.0014 
+0.0016 
+0.0017 
+0.0017 
+0.0017 
+0.0016 
+0.0016 
+0.0015 
+0.0014 
+0.0013 
+0.0011 
+0.0010 
+0.0009 
+0.0007 
+0.0006 
+0.0006 
+0.0005 
+0.0005 
+
+Cumulative 
+Percentage of MMD 
+% 
+1.0 
+1.2 
+1.6 
+2.0 
+2.5 
+3.2 
+4.0 
+5.1 
+6.4 
+7.9 
+9.8 
+12.0 
+14.5 
+17.4 
+20.6 
+24.1 
+28.0 
+32.1 
+36.4 
+40.8 
+45.4 
+50.0 
+54.6 
+59.1 
+63.4 
+67.6 
+71.6 
+75.2 
+78.6 
+81.7 
+84.5 
+87.0 
+89.2 
+91.1 
+92.7 
+94.1 
+95.3 
+96.3 
+97.1 
+97.8 
+98.3 
+98.7 
+99.1 
+
+MMD 
+βi 
+0.0020 
+0.0025 
+0.0033 
+0.0041 
+0.0053 
+0.0067 
+0.0084 
+0.0105 
+0.0129 
+0.0157 
+0.0186 
+0.0217 
+0.0254 
+0.0287 
+0.0321 
+0.0353 
+0.0383 
+0.0410 
+0.0431 
+0.0449 
+0.0456 
+0.0459 
+0.0457 
+0.0450 
+0.0437 
+0.0416 
+0.0397 
+0.0368 
+0.0339 
+0.0310 
+0.0279 
+0.0249 
+0.0219 
+0.0191 
+0.0164 
+0.0140 
+0.0118 
+0.0098 
+0.0081 
+0.0066 
+0.0053 
+0.0042 
+0.0034 
+
+ 
+
+SRM 2881 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  ASTM D5296-05; “Standard Test Method for Molecular Weight Averages and Molecular Weight Distribution 
+of  Polystyrene  by  High  Performance  Size-Exclusion  Chromatography”;  Annu.  Book  ASTM  Stand., 
+Vol. 08.03 (2007). 
+
+[2]  ASTM D7134-05; "Standard Test Method for Molecular Mass Averages and Molecular Mass Distribution of 
+Atactic  Polystyrene  by  Matrix  Assisted  Laser  Desorption/Ionization  (MALDI)  Time  of  Flight  (TOF)  Mass 
+Spectrometry (MS)”; Annu. Book ASTM Stand., Vol. 08.03 (2007). 
+
+[3]  Taylor, B.N.; Kuyatt, C.E.; “Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;” NIST Technical Note 1297; U.S. Government Printing Office:  Washington DC (1994); available at 
+http://physics.nist.gov/Pubs/guidelines/TN1297/tn1297s.pdf. 
+
+[4]  Guttman,  C.M.;  Flynn,  K.M.;  Wallace,  W.E.;  Kearsley,  A.J.;  “Report  on  the  Certification  of  an  Absolute 
+Molecular  Mass  Distribution  Polymer  Standard:  Standard  Reference  Material  2881”;  Internal  Report  7512, 
+National  Institute  of  Standards  and  Technology,  U.S.  Department  of  Commerce:  Gaithersburg,  MD 
+(October 2008); available at http://nvl.nist.gov/pub/nistpubs/ir/2008/ir7512.pdf. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  Telephone (301) 975-2200; Fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http:/www.nist.gov/srm. 
+
+SRM 2881 
+
+ 
+
+Page 3 of 3 
+
+

@@ -1,0 +1,511 @@
+﻿ENT  OF 
+
+ 
+,
+p
+E
+
+ 
+*
+
+ 
+t
+o
+
+ 
+?
+
+Staves  oF 
+
+hy. 
+
+ 
+e
+y
+ 
+%
+0
+3
+
+ 
+.
+a
+c
+ M
+
+,
+e
+
+ M
+%
+
+ National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 158a 
+ 
+Silicon Bronze 
+(chip form) 
+
+a  laboratory’s  in 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validation  of  chemical  and  instrumental 
+methods of analysis for element contents of bronze alloys and materials of similar matrix.  It can be used to validate 
+containing 
+value assignment of a laboratory’s in-house reference materials.  A unit of SRM 158a consists of one bottle containing 
+hine 
+approximately 150 g of chips produced by a milling machine. 
+ 
+Certified Mass Fraction Values:  Certified  values  for constituents of SRM 158a are reported in Table 1 as mass 
+fractions of the elements in a bronze alloy matrix [1].  A NIST certified value is a value for which NIST has the highest 
+confidence in its accuracy in that all known or suspected sources of bias have been taken into account [2].  A certified 
+value is the present best estimate of the true value.  The certified values are metrologically traceable to the SI derived 
+unit of mass fraction (expressed as percent).  The expanded uncertainty estimates are expressed at a confidence level 
+of approximately 95 %, calculated following the ISO/JCGM Guide [3−10]. 
+ 
+
+rials.  A  unit  of  SRM 
+
+Values  for  SRM 
+Table 1.  Certified Mass Fraction Values for SRM 158a Silicon Bronze (chip form) 
+
+ 
+Constituent 
+
+Aluminum (Al) 
+Copper (Cu) 
+Iron (Fe) 
+Lead (Pb) 
+Manganese (Mn) 
+Phosphorus (P) 
+Silicon (Si) 
+Tin (Sn) 
+Zinc (Zn) 
+
+Mass Fraction 
+(%) 
+
+Expanded Uncertainty 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.4580 
+
+90.93 
+
+1.228 
+0.0973 
+1.112 
+0.0263 
+3.026 
+0.960 
+2.076 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.0094 
+0.29 
+0.015 
+0.0048 
+0.014 
+0.0028 
+0.021 
+0.013 
+0.019 
+
+ 
+Expiration of Certification:  The certification of SRM 158a is valid indefinitely within the measurement uncertainty 
+instructions  given  in  this  certificate  (see 
+specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage, and Use”).  Periodic recertification of this SRM is not required.  The certification 
+is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+,  NIST  will  notify  the  purchaser.
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements for certification was performed by R.K. Bell, formerly of NIST.  Review and 
+revision of values and uncertainty estimates was coordinated by J.R. Sieber of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation for this SRM was provided by A. Possolo of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  23 August 2018 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+Page 1 of 4 
+
+SRM 158a 
+
+  
+
+r0ttle  contents 
+Id  be  reca 
+
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Silicon bronze chips may be analyzed in the as-received form.  Test methods used to characterize the material used 
+sample quantities of 2 g or more.  While the material is believed to be homogeneous at lower quantities, it has not 
+ot 
+been tested in amounts < 2 g.  Before sampling, it is recommended to mix bottle contents by inverting and rotating the 
+bottle by hand for at least one minute.  A bottle containing unused material should be recapped immediately and stored 
+at room temperature away from light. 
+ 
+To use the uncertainty estimates given in this certificate, divide the expanded uncertainty by a coverage factor of k = 2 
+to obtain the combined standard uncertainty.  The effective degrees of freedom of the combined standard uncertainty 
+are ≥ 60. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+The  material  was  sieved,  blended  and  bottled  at  NIST.    Homogeneity  testing  of  samples  from  the  final  lot  was 
+performed J.E. Cumbo, Airco Alloys (Niagara Falls, NY) and J.C. Cline, Interlake, Inc. (Beverly, OH).  Analyses for 
+certification were performed using the test methods listed in Table 2. 
+ 
+Analyses  leading  to  the  certification  of  this  SRM  were  performed  at  NIST  by  R.K. Bell  and  E.E. Maczkowske, 
+formerly  of  NIST. 
+  Analytical  determinations  were  also  performed  by  A.W. Young,  Bridgeport  Brass 
+(Bridgeport, CT);  E.L. Smith,  H.J. Smith,  R.C. Burnham,  and  A.B. Feest,  Chase  Brass  and  Copper  Co. 
+(Waterbury, CT); O.P. Case, G.A. Reihl, W.T. Taras, and K.M. O’Brien, The American Brass Co. (Waterbury, CT); 
+and K.H. Storks, E. Bloom, Jr., and E.K. Jaycox, Bell Telephone Laboratories (Murray Hill, NJ). 
+ 
+
+ 
+
+Table 2.  Test Methods Employed in the Certification of SRM 158a Silicon Bronze (chip form) 
+  
+Element 
+
+Test Methods Used at NIST and Collaborating Laboratories 
+
+SRM 
+
+Aluminum 
+
+  
+•  Cu  in  a  2 g  sample  removed  by  electrolysis  of  a  HNO3-HF  solution.    Mercury  cathode 
+separation  then  made  in  sulfate  solution  followed  by  H2S  separation  in  0.01 N  acidity.  
+Sulfides  filtered  off,  and  MnO2  removed  with  persulfate  in  dilute  acid  solution.    Al 
+precipitated twice with NH4OH and ignited to Al2O3.; 
+
+•  Mercury cathode-Al2O3 method (see ASTM International method E54-49); 
+•  Mercury cathode 8-hydroxyquinoline gravimetric method; 
+•  Cu  removed  by  electrolysis  of  a  HNO3-HF  solution.    Si  in  the  electrolyte  removed  with 
+ina 
+H2SO4-HF  treatment,  Sn  with  HBr,  and  Mn  with  (NH4)2S2O8.    Filtrate  electrolyzed  in  a 
+mercury cathode.  Al precipitated with NH4OH, ignited to Al2O3, and corrected for P. 
+•  5.0 g sample dissolved in 40 mL HNO3 (1+1).  Solution digested on steam bath overnight, 
+filtered  and  the  precipitate  washed  with  hot  HNO3 (1+99).    Precipitate  treated  with 
+HNO3-HClO4-HF-HBr  and  residual  solution  combined  with  first  filtrate.    Two  drops 
+0.1 N HCl added, solution diluted to 300 mL and electrolyzed overnight,  using a current 
+density  of  0.5 A/dm2.    Residual  Cu  and  Pb  in  electrolyte  precipitated  with  H2S  and 
+determined by electrolysis.; 
+
+•  ASTM International method E36-45; 
+•  Direct electrolysis of a 2 g sample in HNO3-HF solution containing small amount of added 
+
+ANO 
+
+Pb; 
+
+•  Direct electrolysis of a 2 g sample in HNO3-HF solution. 
+•  SnCl2-K2Cr2O7 method; 
+•  Fe titrated with TiCl3; 
+•  Fe reduced in a silver redactor and titrated with Ce(SO4)2. 
+•  Weighed as PbO2; 
+•  Dithizone-photometric method; 
+•  Pb separated as PbSO4 and weighed as PbCrO4. 
+
+ 
+
+      
+
+  
+
+  
+
+Copper 
+
+    
+    
+
+  
+
+Lead 
+
+Iron 
+
+ 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+se.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 158a 
+
+Page 2 of 4 
+
+Table 2.  Test Methods Employed in the Certification of SRM 158a Silicon Bronze (chip form) 
+
+ 
+
+Manganese 
+
+  
+
+Element 
+
+Test Methods Used at NIST and Collaborating Laboratories 
+
+  
+
+•  Persulfate-arsenite method with potentiometric titration; 
+•  KIO4 photometric method (see ASTM International method E62-56); 
+•  NaBiO3 method. 
+•  Phosphomolybdenum blue method; 
+•  Molybdivanadophosphoric acid method. 
+•  Double dehydration with HClO4, and a Na2CO3 fusion followed by double dehydration with 
+
+  
+
+Phosphorus 
+
+  
+
+Silicon 
+
+H2SO4; 
+
+H2SO4; 
+
+•  Photometric method; 
+•  H2SO4 dehydration (see ASTM International method E54-49); 
+•  Double dehydration with H2SO4, and a Na2CO3 fusion followed by double dehydration with 
+
+Tin 
+
+  
+
+    
+    
+
+•  Molybdisilicic acid-photometric method; 
+•  HClO4 dehydration. 
+•  Sn reduced with Pb and titrated with KIO3 standardized with high-purity Sn; 
+•  Sn reduced with sodium hypophosphite and titrated with iodine; 
+•  Sn reduced with Al and titrated with KIO3 standardized with high-purity Sn; 
+•  Sn reduced with Pb and titrated with KIO3 (see ASTM International method 54-49). 
+•  Cu removed by electrolysis and electrolyte evaporated to fumes of H2SO4.  Solution treated 
+
+    
+
+•  ZnHg(CNS)4 method; 
+•  Zn extracted as thiocyanate and titrated with sodium ethylenediaminetetraacetate; 
+•  Zn in the electrolyte from the Cu determination precipitated twice with H2S in formic acid 
+
+with an excess of NaOH and filtered.  Zn determined in filtrate by electrolysis.; 
+
+solution and ignited to ZnO. 
+
+Zinc 
+
+ 
+ 
+ADDITIONAL CONSTITUENTS:  Noncertified values are provided for the following additional constituents in 
+SRM 158a. 
+ 
+Information Mass Fraction Values:  Information values for constituents in SRM 158a are reported as mass fractions 
+in Table 3.  An information value is a value that may be of interest to the SRM user, but insufficient information is 
+available  to  assess  the  uncertainty  associated  with  the  value [2].    Information  values  cannot  be  used  to  establish 
+metrological traceability. 
+ 
+
+Table 3.  Information Mass Fraction Values for SRM 158a Silicon Bronze (chip form) 
+
+Values  for  SRM
+
+ 
+
+Constituent 
+
+Mass Fraction 
+(%) 
+
+Chromium (Cr) 
+Nickel (Ni) 
+Silver (Ag) 
+
+ 
+ 
+ 
+
+0.001 
+0.001 
+0.001 
+
+ 
+ 
+NOTICE TO USERS 
+ 
+NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee the continued or continuous supply 
+of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a primary benchmark for the quality and 
+accuracy  of  the  user’s  in-house  reference  materials  and  working  standards.    As  such,  the  SRM  should  be  used  to 
+validate the more routinely used reference materials in a laboratory.  Comparisons between the SRM and a laboratory’s 
+in-house  reference  materials  or  working  measurement  standards  should  take  place  at  intervals  appropriate  to  the 
+conservation of the SRM and the stability of relevant in-house materials.  For further guidance on how this approach 
+can be implemented, contact NIST by email at srms@nist.gov. 
+ 
+
+ 
+
+SRM 158a 
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+rial 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Aug 2018). 
+
+available 
+
+(2008); 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136 U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Aug 2018). 
+
+[3]  Adcock, R.J.; A Problem in Least Squares; The Analyst, Vol. 5, pp. :53–54 (1878). 
+) 
+[4]  Deming, W.E.; Statistical Adjustment of Data; John Wiley & Sons, New York, NY (1943). 
+New  York,  NY 
+[5]  Horwitz, W., The certainty of uncertainty. J. AOAC International, Vol. 86, Issue 1, pp. 109–111, (2003). 
+) 
+[6]  Manuilova, E.;  Schuetzenmeister, A.;  Model, F.;  mcr: 
+
+  Method  Comparison  Regression, 
+
+ue 
+
+(2014). 
+
+https://CRAN.R-project.org/package=mcr R package version 1.2.1 (accessed July 2018). 
+
+[7]  R  Core  Team,  R:    A  Language  and  Environment  for  Statistical  Computing.    R  Foundation  for  Statistical 
+
+) 
+Computing, Vienna, Austria, 2015.  https://www.R-project.org/ (accessed July 2018). 
+
+[8]  Thompson, M.;  The  amazing  Horwitz  function;  AMC  Technical  Brief  17,  Royal  Society  of  Chemistry, 
+yyal  Society  of  Chemistry, 
+
+November 2004. 
+
+[9]  Thompson, M.;  Limitations  of  the  Application  of  the  Horwitz  Equation:    A  Rebuttal.    Trends  in  Analytical 
+
+Chemistry, Vol. 26, Issue 7, pp. 659–661 (2007). 
+ue 
+
+[10]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at  https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2018);  see 
+also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST 
+Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); 
+available at https://www.nist.gov/pml/nist-technical-note-1297 (accessed Aug 2018). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Certificate Revision History:  23 August 2018 (Revised values and uncertainties for certified constituents; update of the certificate to current 
+NIST standards; editorial changes); 8 August 1961 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 158a 
+
+Page 4 of 4 
+
+

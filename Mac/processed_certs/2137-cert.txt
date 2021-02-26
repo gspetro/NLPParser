@@ -1,0 +1,907 @@
+﻿ 
+
+ext oF  oy 
+
+BF 
+
+é 
+Somes  or
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+
+ 
+
+ 
+
+ 
+
+Standard Reference Material® 2137 
+
+ 
+Boron Implant in Silicon Standard for Calibration of Concentration in a Depth 
+Profile 
+ 
+Serial No:  SAMPLE 
+
+ 
+
+Total Uncertainty 
+
+0.00059 μg/cm2 
+
+0.01692 μg/cm2 
+
+Retained dose of 10B 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  for  use  in  calibrating  the  secondary  ion  response  to  minor  and 
+trace levels of boron in a silicon matrix by the analytical technique of secondary ion mass spectrometry (SIMS).  A unit 
+of  SRM 2137  consists  of  a  single  crystal  silicon  substrate  with  a  surface  rendered  disordered  by  silicon  ion 
+implantation.    The  substrate  is  ion-implanted  with  the  isotope  10B  at  a  nominal  energy  of  50 keV.    SRM 2137  is 
+certified for the retained dose of 10B atoms by neutron depth profiling.  The dose is expressed in units of 10B mass per 
+unit area.  Noncertified information about the concentration of  10B atoms as a function of depth below the surface is 
+provided by SIMS. 
+ 
+Certified Value and Uncertainty:  The total retained dose of 10B atoms was determined by a neutron reaction method 
+known  as  neutron  depth  profiling,  using  a  calibrated  reference  film  of  metallic  10B  deposited  on  silicon  as  a 
+standard [1]. 
+ 
+ 
+ 
+ 
+ 
+Using a value of 10.012937 g/mol for the isotopic mass of 10B, the retained dose is equivalent to: 
+ 
+ 
+ 
+The stated uncertainty is a 95 % coverage, 95 % confidence tolerance interval that includes random measurement error, 
+estimates of material variability, and systematic uncertainties.  The assumption has been made that the actual retained 
+dose  may  vary  among  SRM  units  due  to  spatial  variation  in  the  implantation  process.    The  interval  defined  by  the 
+certified  value  and  its  associated  uncertainty  covers  the  true  10B  dose  in  at  least  95 %  of  the  SRM  units,  with  95 % 
+confidence. 
+ 
+Expiration of Certification:  The certification of SRM 2137 is valid indefinitely, within the uncertainty specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage and Use”).  Accordingly, periodic recalibration or recertification of this SRM is 
+not required.  The certification is nullified if the SRM is damaged, contaminated or otherwise modified. 
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed  by 
+D.S. Simons of the NIST Surface and Microanalysis Science Division. 
+ 
+Statistical consultation was provided by S.B. Schiller and L.M. Oakley of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 August 2010 
+See Certificate Revision History on Last Page 
+
+John A. Small, Chief 
+Surface and Microanalysis Science Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+1.018 × 1015 atoms/cm2   
+
+0.035 × 1015 atoms/cm2 
+
+ 
+ 
+
+ 
+
+SRM 2137 
+
+Page 1 of 5 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Physical  Description:    The  production  of  the  SRM  involved  several  separate  steps.    The  starting  materials  were 
+commercial n-type silicon (100) single crystal wafers of 76-mm diameter, polished on one side.  A grid pattern of 5-mm 
+squares was made on the unpolished side of the wafer by a photolithographic method.  Each 5-mm square contains row, 
+column, and wafer numbers that provide unique locational identification. 
+ 
+The polished side of the silicon wafer was implanted with 28Si ions in an ion implanter to render the surface sufficiently 
+disordered  that  it  would  appear  to  be  amorphous  to  the  10B  ion  beam.    The  28Si  ions  were  implanted  in  3 stages:  
+2 × 1015 atoms/cm2 at 360 keV (as Si++); 2 × 1015 atoms/cm2 at 140 keV (as Si+); and 2 × 1015 atoms/cm2 at 50 keV (as 
+Si+).  Then 10B was implanted at a nominal energy of 50 keV and a nominal dose of 1 × 1015 atoms/cm2.  The wafers 
+were nominally at room temperature during all implantations. 
+ 
+The wafers were cut into 1 × 1 cm squares with a wafer saw.  All squares were located at least 7 mm from the edge of a 
+wafer.  The implanted face is the polished, reflective surface. 
+ 
+The ion implantation for this SRM was carried out at the NIST Semiconductor Electronics Division by D.B. Novotny 
+and R.G. Russell, and at the Naval Research Laboratory by H.B. Dietrich and F. Moore.  The grid patterning was done 
+by  M.L. Miller  and  wafer  dicing  was  done  by  J.E. Luther  and  M.L. Miller  of  the  NIST  Semiconductor  Electronics 
+Division.    Neutron  depth  profiling  measurements  were  performed  by  R.G. Downing  and  G.P. Lamaze  of  the  NIST 
+Inorganic  Analytical  Research  Division.    Secondary  ion  mass  spectrometry  measurements  were  performed  by 
+D.S. Simons  and  P.H. Chi  of  the  NIST  Surface  and  Microanalysis  Science  Division,  and  by  C.W. Magee  and 
+S.W. Novak of Evans East, Inc.  Sheet resistance mapping measurements for wafer homogeneity were performed by 
+J.R. Ehrstein of the NIST Semiconductor Electronics Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE 
+ 
+Handling:    The  implanted  side  of  the  SRM  is  the  polished,  reflective  side.    This  surface  was  cleaned  prior  to 
+packaging. Immediately prior to use, dust particles should be removed from the surface with a pressurized duster. 
+ 
+Etching the sample in HF is NOT recommended, because some boron may be removed with the surface oxide, and also 
+because the grid pattern on the back will be removed.  
+ 
+Storage:  When NOT in use the SRM should be stored in its original tray with the cover secured tightly. 
+ 
+Use:    Information  on  material composition as a function of depth can be obtained with SIMS by monitoring one or 
+more sputtered ion species as successive layers are removed by ion bombardment.  The concentration value of a species 
+is normally calibrated with a reference sample of the same species in the same matrix as the unknown [2,3].  SRM 2137 
+is  intended  for  calibrating  the  response  of  a  SIMS  instrument  for  10B  in  a  silicon  matrix  under  a  specific  set  of 
+instrumental  conditions.    It  may  also  be  used  by  a  laboratory  as  a  transfer  standard  for  the  calibration  of  working 
+standards  of  10B  in  silicon.    The  determination  of  the  response  of  a  SIMS  instrument  for  11B  requires  additional 
+knowledge about mass bias effects in SIMS for boron isotopes.  The relative response function of the SIMS instrument 
+for 11B with respect to 10B in a silicon matrix can be measured with the aid of a specimen of silicon that contains a bulk 
+doping of elemental boron with a natural isotopic composition (80.1 atom percent 11B, 19.9 atom percent 10B). 
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+The  usefulness  of  this  SRM  for  calibrating  the  SIMS  response  function  of  10B  in  silicon  depends  on  maintaining 
+constant analysis conditions during the acquisition of the SIMS profile.  Care must be taken to ensure that the primary 
+ion beam current remains stable and the beam raster location remains fixed. 
+
+SRM 2137 
+
+Page 2 of 5 
+
+ 
+The  energy  of  the  ion  implanter  was  not  calibrated.    Caution  should  therefore  be  exercised  in  comparing  the 
+experimental parameters from the SIMS profile with theoretical predictions of implantation models. 
+ 
+The  user  of  this  SRM  should  be  aware  of  a  possible  mass  spectral  interference  between  10B  and  30Si3+  that  may  be 
+significant under certain SIMS measurement conditions. 
+ 
+The functional form of the concentration vs depth of 10B in this material was measured by SIMS under conditions that 
++ bombardment at an angle of 52 to the surface normal).  SIMS depth-
+minimize ion-induced mixing effects (3 keV O2
+profile data from eight profiles from two areas on each of two different wafers are plotted together in Figure 1.  Data 
+points within 15 nm of the surface are not indicative of the true surface concentration of 10B due to the presence of a 
+native  oxide  on  the  silicon  and  transient  effects  that  occur  following  the  initiation  of  ion  sputtering.    Concentration 
+values below 1016 atoms/cm3 of 10B may not be indicative of the true depth distribution of 10B because of background 
+signals in the SIMS measurement. 
+ 
+The maximum  10B concentration of 8.37 × 1019 atoms/cm3 occurs at a depth of 0.188 μm.  Interpolated and averaged 
+SIMS data from Figure 1, excluding values for depths less than 20 nm from the surface and concentrations below 1016 
+atoms/cm3, are provided in Table 1 for reference. 
+ 
+The total 11B content within 0.5 μm of the surface is less than 1013 atoms/cm2, as determined by SIMS. 
+
+ 
+Table 1.  Noncertified SIMS Values of Concentration of 10B vs Depth for SRM 2137 
+
+10B Conc. (atoms/cm3) 
+
+ 
+
+ 
+
+ 
+
+Depth (μm) 
+0.020 
+0.025 
+0.030 
+0.035 
+0.040 
+0.045 
+0.050 
+0.055 
+0.060 
+0.065 
+0.070 
+0.075 
+0.080 
+0.085 
+0.090 
+0.095 
+0.100 
+0.105 
+0.110 
+0.115 
+0.120 
+0.125 
+0.130 
+0.135 
+0.140 
+0.145 
+0.150 
+0.155 
+0.160 
+0.165 
+0.170 
+
+10B Conc. (atoms/cm3) 
+3.90  ×  1018 
+4.50  ×  1018 
+5.17  ×  1018 
+5.86  ×  1018 
+6.63  ×  1018 
+7.53  ×  1018 
+8.49  ×  1018 
+9.59  ×  1018 
+1.08  ×  1019 
+1.22  ×  1019 
+1.36  ×  1019 
+1.54  ×  1019 
+1.71  ×  1019 
+1.91  ×  1019 
+2.14  ×  1019 
+2.38  ×  1019 
+2.65  ×  1019 
+2.93  ×  1019 
+3.24  ×  1019 
+3.56  ×  1019 
+3.90  ×  1019 
+4.28  ×  1019 
+4.67  ×  1019 
+5.08  ×  1019 
+5.49  ×  1019 
+5.90  ×  1019 
+6.32  ×  1019 
+6.72  ×  1019 
+7.11  ×  1019 
+7.48  ×  1019 
+7.79  ×  1019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Depth (μm) 
+0.175 
+0.180 
+0.185 
+0.190 
+0.195 
+0.200 
+0.205 
+0.210 
+0.215 
+0.220 
+0.225 
+0.230 
+0.235 
+0.240 
+0.245 
+0.250 
+0.255 
+0.260 
+0.265 
+0.270 
+0.275 
+0.280 
+0.285 
+0.290 
+0.295 
+0.300 
+0.305 
+0.310 
+0.315 
+0.320 
+
+8.05  × 1019 
+8.23  × 1019 
+8.34  × 1019 
+8.36  × 1019 
+8.27  × 1019 
+8.11  × 1019 
+7.83  × 1019 
+7.43  × 1019 
+6.93  × 1019 
+6.33  × 1019 
+5.68  × 1019 
+4.98  × 1019 
+4.28  × 1019 
+3.57  × 1019 
+2.91  × 1019 
+2.29  × 1019 
+1.76  × 1019 
+1.30  × 1019 
+9.25  × 1018 
+6.37  × 1018 
+4.20  × 1018 
+2.65  × 1018 
+1.61  × 1018 
+9.25  × 1017 
+5.01  × 1017 
+2.70  × 1017 
+1.34  × 1017 
+6.87  × 1016 
+3.26  × 1016 
+1.69  × 1016 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2137 
+
+Page 3 of 5 
+
+1020
+
+1019
+
+1018
+
+1017
+
+1016
+
+ 
+
+1015
+
+0.0
+
+)
+
+3
+
+m
+c
+/
+s
+
+m
+o
+t
+a
+(
+ 
+.
+c
+n
+o
+C
+B
+
+ 
+
+0
+1
+
+  
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxx
+x
+x
+xxx
+xx
+x
+x
+xxx
+x
+xxx
+xxx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xxx
+xxx
+xx
+x
+x
+x
+x
+x
+x
+xxxxx
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xxxxx
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xxxx
+x
+xx
+x
+x
+xx
+x
+x
+x
+xx
+x
+x
+xx
+xx
+x
+x
+x
+x
+x
+x
+xx
+xx
+x
+x
+xx
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+x x
+x
+x
+xx
+xx
+x
+x
+x
+x
+x
+x
+xx
+x
+x
+x
+x
+x
+x
+xx
+x
+
+x
+
+x
+
+x
+
+x
+
+  Peak depth:  0.188 m
+  Peak conc.:  8.37x1019/cm3
+
+0.1
+
+0.2
+Depth (m)
+
+0.3
+
+0.4
+
+ 
+Figure 1.  Eight superimposed SIMS depth profiles of 10B in SRM 2137 using 3 keV O2
+
++ ion bombardment at 52 from 
+
+ 
+
+normal. 
+
+SRM 2137 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1] 
+
+[3] 
+
+Simons, D.S.;  Downing, R.G.;  Lamaze, G.P.;  Lindstrom, R.M.;  Greenberg, R.R.;  Paul, R.L.;  Schiller, S.B; 
+Guthrie, W.F.; Development of certified reference materials of ion-implanted dopants in silicon for calibration 
+of secondary ion mass spectrometers; J. Vac. Sci. Technol. B, Vol. 25, pp. 1365-1375 (2007). 
+
+[2]  Wilson, R.G.;  Stevie, F.A.;  Magee, C.W.;  Secondary  Ion  Mass  Spectrometry  -  A  Practical  Handbook  for 
+
+Depth Profiling and Bulk Impurity Analysis; New York, John Wiley & Sons, Sect. 3.1 (1989). 
+ISO 18114:2003; Surface Chemical Analysis - Secondary Ion Mass Spectrometry – Determination of relative 
+sensitivity  factors  from  ion-implanted  reference  materials;  International  Organization  for  Standardization, 
+Geneva, Switzerland; available at http://www.iso.org/iso/home.html (accessed Aug 2010).   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    05 August 2010  (Extension  of  certification  period;  addition  of  a  journal  reference,  editorial  changes); 
+13 August 1993 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975  2200;  fax  (301)  926  4751;  e  mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 2137 
+
+Page 5 of 5 
+
+

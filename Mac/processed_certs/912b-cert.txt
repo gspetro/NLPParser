@@ -1,0 +1,182 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 912b 
+ 
+Urea 
+
+ 
+
+ 
+This Standard Reference Material (SRM) is certified as a neat chemical of known purity.  It is a primary standard 
+intended for use during calibration procedures and method validations implemented by clinical laboratories.  A unit 
+of SRM 912b consists of 25 g of high-purity crystalline urea. 
+ 
+
+Certified Urea Mass Fraction:  99.95 %  ±  0.01% 
+
+SRM
+
+ 
+A NIST certified  value is a  value  for  which NIST has the  highest confidence in its accuracy  in that all known or 
+suspected sources of bias have been investigated or taken into account [1].  The certified value [2] was determined 
+using a mass balance approach for purity assessment.  The uncertainty was determined as the 95 % coverage interval 
+(U95) [3,4] of the probability distribution function evaluated using a Bayesian statistical approach implemented via a 
+Markov Chain Monte Carlo method.  The measurand is the total concentration of urea.  Metrological traceability is to 
+the SI derived unit for mass fraction (expressed as percent).  Biuret is the primary impurity component [5], followed 
+by water with approximate mass fractions of 0.025 % and 0.015 %, respectively. 
+ 
+Expiration of Certification:  The certification of SRM 912b is valid, within the measurement uncertainty specified, 
+until 30 September 2027, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical activities were under the chairmanship of M.A. Nelson of the NIST 
+Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  B.E. Lang,  M.A. Nelson,  and  J.S. Pritchett  of  the  NIST 
+Chemical Sciences Division.  
+ 
+Statistical analysis was provided by B. Toman of the NIST Statistical Engineering Division.  
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  30 May 2017 
+
+SRM 912b 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 2 
+
+INSTRUCTIONS FOR STORAGE, AND USE 
+ 
+Storage:  The SRM should be stored in the original bottle at temperatures between 20 °C and 30 °C.  It must be 
+tightly re-capped after use and protected from excessive moisture, heat, and light.  Refrigeration is recommended 
+(4 °C), however the material should be brought to room temperature (between 20 °C and 30 °C) before opening 
+the  container.    Urea  at  these  temperatures  is  significantly  hygroscopic  when  exposed  to  high  relative  humidity 
+conditions (>75 %) [6] and this material should be contained under controlled low humidity.   
+ 
+Use:    SRM 912b  stored  as  described  above,  can  be  used  without  preliminary  drying.   The  minimum  sample  size 
+required is 10 mg.  
+ 
+SOURCE AND ANALYSIS(1) 
+ 
+Source  of  Material:    The  SRM  material  was  obtained  from  Spectrum  Chemical  Manufacturing  Corp.  (New 
+Brunswick, NJ). 
+ 
+Analytical  Approach  and  Homogeneity  Assessment:    Analyses  for  chemical  purity  and  homogeneity  were 
+performed by NIST.  Evaluations were performed using twenty two units, randomly selected from across the filling 
+run,  via  differential  scanning  calorimetry (DSC),  1H-nuclear  magnetic  resonance (NMR),  and  a  mass  balance 
+approach  for  purity  evaluation  that  included  Karl  Fischer  titration,  Liquid  Chromatography  with  Ultraviolet 
+Detection (LC-UV), ion chromatography with electrochemical detection, and thermogravimetric analysis (TGA).  No 
+trend in mass fraction purity was observed with respect to filling order and there is no discernible inhomogeneity at 
+the 95 % confidence level.  Biuret and water content mass fractions were respectively determined using a targeted 
+LC-UV calibration method and Karl Fischer titration. 
+ 
+ 
+
+mm  Spectrum  Chemical 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+May 2017). 
+
+[3] 
+
+Printing  Office:  Washington, DC 
+
+rial 
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government 
+http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=200349 (accessed May 2017). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed May 2017). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement,  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed May 2017). 
+
+available 
+
+(2008); 
+
+[4] 
+
+[5]  Redemann, C.E; Riesenfeld F.C; La Viola F.S.; Formation of Biuret from Urea; Ind. Eng. Chem. Res., Vol. 50, 
+
+pp 633–636 (1958). 
+
+[6]  Werner, E.A.; Urea as a Hygroscopic Substance; Nature, Vol. 139, pp. 512–512 (1937). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+ia  the  Internet  at
+
+contacting 
+
+fax 
+
+                                                           
+
+(1)  Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the 
+purpose. 
+
+SRM 912b 
+
+Page 2 of 2 
+
+

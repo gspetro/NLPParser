@@ -1,0 +1,451 @@
+﻿:  Ba  *  National  Institute  of  Standards  &  Cechnologu 
+
+Report  of 
+
+Inoestigation 
+
+ 
+Reference Material 8540 
+ 
+IAEA-CH-7 
+ 
+(Carbon and Hydrogen Isotopes in Polyethylene Foil) 
+
+ 
+This  Reference  Material (RM)  is  intended  for  use  in  developing  and  validating  methods  for  measuring  relative 
+differences in carbon (C) isotope-number ratios, R(13C/12C), and hydrogen (H) isotope-number ratios, R(2H/1H) [1].  
+Even though the values for this RM are reference values and not certified [2], its use will improve the comparability 
+of data from different laboratories.    The equivalent name  for this RM as used by the  International Atomic Energy 
+Agency (IAEA)  and  the  U.S. Geological  Survey (USGS)  is  IAEA-CH-7.    This  RM  was  formerly  also  called 
+PEF-1 (PEF – Polyethylene Foil).  A unit of RM 8540 consists of approximately 3.5 g of polyethylene foil. 
+
+Table 1. Reference Values(a) and Expanded Uncertainties for the Relative C and H Isotope-Number Ratio 
+Differences of RM 8540 
+ 
+RM Number  Name(b) 
+Expanded Uncertainty 
+Expanded Uncertainty 
+(d) 
+103 δ 2HVSMOW-SLAP
+(c) 
+103  δ 13CVPDB-LSVEC
+2.2 
+0.10 
+(a)  A reference value is a non-certified value that is the best estimate of the true value; however, the value may reflect only the 
+
+Reference Value 
+103 δ 2HVSMOW-SLAP
+–100.3 
+
+Reference Value 
+103 δ 13CVPDB-LSVEC
+–32.15 
+
+IAEA-CH-7 
+
+8540 
+
+(c) 
+
+(d) 
+
+measurement precision and may not include all sources of uncertainty [2]. 
+
+(b)  IAEA-CH-7 is also formerly known as PEF-1. 
+(c)  The δ13C value is expressed as a mean and an expanded uncertainty.  An expanded uncertainty is equal to U = kuc, where uc is 
+the combined standard uncertainty as defined by the ISO Guide [3] and k is the coverage factor. The value of the consensus 
+mean  and  the  associated  combined  standard  uncertainty  were  calculated  using  a  multivariate  Bayesian  approach [4].    The 
+combined  standard  uncertainty  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the  combined  effects  of 
+uncertainty sources evaluated by both Type A and B methods.  Uncertainty in the bias of the methods is not included.  The 
+coverage  factor,  k = 2,  provides  an  expanded  uncertainty  interval  that  has  about  a  95 %  probability  of  encompassing  the 
+consensus  mean.    The  δ13C  value  and  expanded  uncertainty  are  taken  from  Table  S-4 (Supporting  Info) [4].  (VPDB -
+ Vienna Peedee belemnite; LSVEC – Li Svec [named for H. Svec, formerly of Ames Laboratory, Iowa]) 
+
+(d)  The δ2H value is expressed as a mean and an expanded uncertainty.  The expanded uncertainty is equal to U = kuc, where uc 
+is the combined standard uncertainty as defined by the ISO Guide [3] and k is the coverage factor.   The combined standard 
+uncertainty is intended to represent, at the level of one standard deviation, the effect of random errors on the reference value 
+that  were  evaluated  by  statistical  means  (Type A).    Any  uncertainty  due  to  biases  in  the  methods  is  not  included  in  the 
+expanded uncertainty.  The coverage factor for the δ2H value, k = 2.571 (n=6), provides an expanded uncertainty interval that 
+has about a 95 % probability of encompassing the mean.  The δ2H value and uncertainty are taken from data in reference 5 
+(VSMOW – Vienna Standard Mean Ocean Water; SLAP-Standard Light Antarctic Precipitation). 
+
+Expiration  of  Reference  Values:    RM 8540  is  valid,  within  the  measurement  uncertainty  specified,  until 
+31 December 2020, provided the RM is handled and stored in accordance with instructions given in this Report of 
+Investigation (see Instructions for Handling and Use).  This report is nullified if the RM is damaged, contaminated, 
+or otherwise modified. 
+
+Maintenance of RM:  NIST will  monitor this RM over the period of its  validity.  If substantive technical changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+
+The  technical  aspects  involved  in  the  issuance  of this  RM  were  coordinated  through  the NIST  Chemical  Sciences 
+Division by R.D. Vocke, Jr. 
+ 
+
+Gaithersburg, MD 20899 
+Report Issue Date:  06 February 2013 
+Report Revision History on Last Page 
+
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+RM 8540 
+
+Page 1 of 4 
+
+ 
+Support  aspects  involved  in  the  issuance  of  this  RM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Reference Difference in Isotope-Number Ratio Values:  The differences in measured isotope-number ratios of 
+stable  carbon  isotopes  in  substance  P,  R(13C/12C)P  =  [N (13C)P/ N (12C)P],  are  reported  as  δ13C  values [6].    The 
+differences 
+substance  P, 
+R(2H/1H)P = [N (2H)P/ N (1H)P], are reported as δ2H values [6].  The relative differences in isotope-number ratios for 
+carbon are referenced to VPDB while those for hydrogen are referenced to VSMOW, where: 
+ 
+
+stable  hydrogen 
+
+isotope-number 
+
+in  measured 
+
+ratios  of 
+
+isotopes 
+
+in 
+
+ 
+
+δ13C = [R(13C/12C)sample / R(13C/12C)VPDB-LSVEC] – 1 
+
+δ2H = [R (2H/1H)sample / R (2H/1H)VSMOW-SLAP] – 1 
+
+ 
+VPDB-LSVEC refers to the Vienna PDB-LSVEC scale  which is defined by assigning a δ13C  value of +1.95 ‰ to 
+NBS 19 (RM 8544)  and  a  consensus  value  of  –46.6 ‰  to  LSVEC (RM 8545) [7]  for  the  purpose  of  normalizing 
+stable carbon isotopic measurements (see Normalization [6,7]).  The symbol ‰ is part per thousand and is equal to 
+0.001. 
+VSMOW-SLAP  refers  to  the  Vienna  SMOW-SLAP  scale  which  is  defined  by  assigning  a  δ2H  value  of 0  to 
+VSMOW2 (RM 8535a) and a value of –428 ‰ to measurements of SLAP (RM 8537) or –427.5 ‰ to measurements 
+of SLAP2 (RM 8537a) [9] for the purpose of normalizing stable hydrogen isotope measurements (see Normalization 
+[8,9]). The symbol ‰ is part per thousand and is equal to 0.001. 
+
+INSTRUCTIONS FOR HANDLING AND STORAGE 
+
+Handling and Storage:  RM 8540 (IAEA-CH-7) is stable at normal room temperatures. 
+
+ 
+Distribution:  The distribution of RM 8540 (IAEA-CH-7) is limited to one unit per customer per three-year period 
+of time. 
+ 
+PREPARATION AND ANALYSIS 
+
+Sample Preparation:  RM 8540 (IAEA-CH-7) was prepared by H. Gerstenberger and M. Herrmann, Zentralinstitut 
+für Isotopen und Strahlenforschung, Leipzig, Germany [10,11]. 
+ 
+Analytical  Methods:    The  δ13C  value  and  expanded  uncertainty  reported  in  Table 1  are  taken  from  results  of  an 
+inter-laboratory  study  involving  a  two  point  calibration [4].    Results  from  four  expert  laboratories  (Centrum  voor 
+Isotopen  Onderzoek,  Rijksuniversiteit  Groningen,  Groningen,  Netherlands;  Max-Planck-Institute 
+for 
+Biogeochemistry, Jena, Germany; UFZ [Umweltforschungszentrum] Leipzig-Halle GmbH, Leipzig, Germany; U.S. 
+Geological  Survey,  Reston, Virginia, USA)  using  continuous  flow  elemental-analyzer 
+isotope-ratio  mass 
+spectrometry  and  following  the  general  method  of  Qi  et  al. [12]  were  combined  using  a  multivariate  Bayesian 
+approach for data reduction [4]. 
+The  δ2H  values  were  measured  by  six  different  laboratories,  normalized  to  yield  a  value  of  –428 ‰  for 
+RM 8537 (SLAP)  and  reported  at  the  1993  IAEA  Consultants’  Group  Meeting  on  Stable  Isotope  Reference 
+Samples [5]. 
+The δ13C and δ2H values and expanded uncertainties reported in Table 1 for RM 8540 (IAEA-CH-7) are the values 
+accepted by the Commission on Isotopic  Abundances  and  Atomic Weights of the  International Union of Pure and 
+Applied Chemistry (IUPAC) (http://ciaaw.org/Carbon.htm and http://ciaaw.org/Hydrogen.htm, respectively) for this 
+RM as of the date of this report. 
+ 
+Isotopic  Homogeneity:    Data  from  the  inter-laboratory  comparisons  of  IAEA-CH-7  suggest  that  there  is  no 
+evidence of carbon or hydrogen isotopic heterogeneity. 
+ 
+
+ 
+
+RM 8540 
+
+Page 2 of 4 
+
+(1) 
+
+(2) 
+
+Normalization:  The δ13C values in samples should be normalized to the VPTB-LSVEC δ-scale by calibrating the 
+measurement  with  respect  to  the  δ-value  for  NBS 19 (RM 8544)  and  the  δ-value  for  LSVEC (RM 8545),  the 
+13C-depleted anchor RM [6,7].  A general formula for normalizing measured carbon isotope-number ratios using two 
+laboratory standards LS1 (NBS 19) and LS2 (LSVEC) can be expressed as: 
+ 
+
+13
+
+
+
+C
+
+
+
+δ
+
+13
+
+C
+
+sample,
+
+cal
+
+LS1,
+
+cal
+
+sample,
+
+WS
+
+LS1,
+
+WS
+
+
+
+
+13
+
+C
+
+
+
+
+
+
+
+13
+
+C
+
+
+
+
+
+f
+
+ 
+
+ 
+ 
+where the normalization factor f is: 
+ 
+
+
+
+
+13
+
+C
+
+
+
+δ
+
+13
+
+C
+
+LS2,
+
+cal
+
+LS1,
+
+cal
+
+
+
+f
+
+
+
+ 
+
+13
+
+13
+
+δ
+
+WS
+
+
+
+LS2,
+
+C
+
+C
+
+
+
+ 
+Note:  In the formulae above, cal denotes calibrated measurements made versus the VPDB scale, and  δ13C  LS1,cal and δ13C  LS2,cal 
+are  the  conventionally  fixed  δ13C  values  for  NBS 19  and  LSVEC.    WS  denotes  measurements  made  versus  a  transfer 
+gas (working standard), and δ13C LS1,WS and δ13CLS2,WS are the δ13C values for calibrated laboratory working standards. 
+Similar  formulae  are  used  for  normalizing  δ2H  values  in  samples  to  the  VSMOW-SLAP  scale  where  LS1  is 
+VSMOW2 and LS2 is SLAP or SLAP2 [8,9]. 
+Please note that the reporting scale for δ2H is still denoted and referred to as the VSMOW-SLAP scale in spite of the 
+exhaustion  of the  original  supply  of  VSMOW  and SLAP [13].    Of  course,  the  combined  standard  uncertainties  of 
+VSMOW2 and SLAP2 isotopic values have to be included in any uncertainty budget. 
+
+WS
+
+LS1,
+
+Reporting  of Stable  Isotope  δ  values:   The  following  recommendations  from  IUPAC  are  provided  for  reporting 
+δ13C and δ2H values [6-9].  It is recommended that: 
+
+ 
+
+ 
+
+δ13C values of all carbon-bearing substances be measured and expressed relative to VPDB on a normalized 
+scale where LSVEC has a consensus value of –46.6 ‰ and NBS 19 has a value of +1.95 ‰;  
+δ2H  values of  all hydrogen-bearing substances be  expressed relative to VSMOW-SLAP on a scale  where 
+SLAP or SLAP2 has a consensus  value of –428 ‰ or –427.5 ‰, respectively  and VSMOW2 has a  value 
+of 0; 
+
+  Authors should clearly state that their data have been normalized.  
+
+In  addition,  researchers  are  encouraged  to  report  the  isotopic  compositions  of  RM 8539 (NBS22)  and  other 
+internationally distributed carbon or hydrogen isotopic reference  materials [14] in their publications, as appropriate 
+to the method, as though they have been interspersed among unknowns. 
+
+Current Reports of Investigation (ROI) for all light stable isotopic RMs mentioned in this report are available on the 
+SRM web site [15]. 
+ 
+
+ 
+
+RM 8540 
+
+Page 3 of 4 
+
+REFERENCES 
+
+[1]  Coplen, T.B.;  Guidelines  and  Recommended Terms  for  Expression  of  Stable-Isotope-Ratio  and  Gas-Ratio 
+Measurement  Results;  Rapid  Communications  in  Mass  Spectrometry,  Vol.  25,  pp.  2538–2560 (2011); 
+available at http://onlinelibrary.wiley.com/doi/10.1002/rcm.5129/pdf (accessed Jan 2013). 
+
+[2]  May, W.E.;  Parris, R.M.;  Beck  II, C.M.;  Fassett, J.D.;  Greenberg, R.R.;  Guenther, F.R.;  Kramer, G.W.; 
+Wise, S.A.;  Gills, T.E.;  Colbert, J.C.;  Gettings, R.J.;  MacDonald, B.S.;  Definitions  of  Terms  and  Modes 
+Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Spec. Pub. 
+260-136;  U.S. Government 
+at 
+http://www.nist.gov/srm/publications.cfm (accessed Jan 2013). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  -  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement; (ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) 
+(2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed 
+Jan 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Jan 2013). 
+
+  Washington,  DC, (2000), 
+
+Printing  Office: 
+
+available 
+
+[4]  Coplen, T.B.;  Brand, W.A.;  Gehre, M.;  Groening, M.;  Meijer, H.A.J.;  Toman, B.;  Verkouteren, R.M.;  New 
+
+[3] 
+
+Guidelines for δ13C Measurements; Analytical Chemistry, Vol. 78, pp. 2439-2441 (2006). 
+
+[5]  Gonfiantini, R.;  Stichler, W.;  Rozanski, K.;  Standards  and  Intercomparison  Materials  Distributed  by  the 
+International  Atomic  Energy  Agency  for  Stable  Isotope  Measurements,  in  Reference  and  Intercomparison 
+Materials  for  Stable  Isotopes  of  Light  Elements;  In  Proceedings  of  a  consultants  meeting:  Vienna, 
+Dec. 1993; IAEA-TECDOC-825, pp 13-29 (1995), available at 
+http://www-pub.iaea.org/MTCD/publications/PDF/te_825_prn.pdf (accessed Jan 2013). 
+
+[6]  Coplen, T.B.;  Reporting  of  Stable  Hydrogen,  Carbon  and  Oxygen  Isotopic  Abundances;  Pure  &  Applied 
+
+Chemistry, Vol. 66, No. (2), pp. 273-276 (1994). 
+
+[7]  Coplen, T.B.;  Brand, W.B.;  Gehre, M.;  Groening, M.;  Meijer, H.A.;  Toman, B.;  Verkouteren, M.R.;  After 
+Two  Decades  a  Second  Anchor  for  the  VPDB  δ13C  Scale;  Rapid  Communications  in  Mass  Spectrometry, 
+Vol. 20, pp. 3165-3166 (2006). 
+
+[8]  Coplen, T.B.,  Normalization  of  Oxygen  and  Hydrogen  Data;  Chemical  Geology,  Vol. 72, 
+
+pp. 293-297 (1988). 
+
+[9]  Gröning, M.;  International  Stable  Isotope  Reference  Materials;  Stable  Isotope  Analytical  Techniques; 
+
+Vol. 1; De Groot, P.A., Eds.; Elsevier, Amsterdam, pp. 874-906 (2004). 
+
+[10]  Gerstenberger,  H.;  Hermann,  M.;  Report  on  the  intercomparison  for  the  isotope  standard  Limestone  LH2 
+
+and Polyethylene Foil PEF-1. ZFI Mitteilungen, Vol. 66, pp. 67-83 (1983). 
+
+[11]  Hut, G.;  Stable  Isotope  Reference  Samples  for  Geochemical  and  Hydrological  Investigations  (Rep. 
+Consultants Group Meeting, Vienna, 1985).  International Atomic Energy Agency, Vienna, pp. 1-42 (1987). 
+[12]  Qi, H.P.;  Coplen, T.B.;  Geilmann, H.;  Brand, W.A.;  Böhlke, J.K.;  Two  New  Organic  Reference  Materials 
+for  δ13C  and  δ15N  Measurements  and  a  New  Value for the  δ13C  of  NBS  22  Oil;  Rapid  Communications  in 
+Mass Spectrometry, Vol. 17, pp. 2483–2487 (2003). 
+
+[13]  Coplen, T.; Discontinuance of SMOW and PDB; Nature 375; Nature Publishing Group, pp. 285 (1995). 
+[14]  Coplen, T.B.;  Hopple, J.A.;  Böhlke, J.K.;  Peiser, H.S.;  Rieder, S.E.;  Krouse, H.R.;  Rosman, K.J.R.; 
+Ding, T.; Vocke, Jr., R.D.; Révész, K.M.; Lamberty, A.; Taylor, P.; De Bièvre, P; Compilation of Minimum 
+and  Maximum  Isotope  Ratios  of  Selected  Elements  in  Naturally  Occurring  Terrestrial  Materials  and 
+Reagents;  U.S.  Geological  Survey  Water-Resources  Investigations  Report  01-4222,  p. 98 (2001);  available 
+at http://pubs.usgs.gov/wri/wri014222/pdf/wri01-4222.pdf (accessed Jan 2013). 
+
+[15]  Light  Stable  Isotopic  Materials  (gas,  liquid  and  solid  forms)  Report  of  Investigation;  National  Institute  of 
+Standards  and  Technology;  U.S.  Department  of  Commerce:  Gaithersburg,  MD 20899;  available  at  
+https://www-s.nist.gov/srmors/viewTableV.cfm?tableid=42 (accessed Jan 2013). 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Report  Revision History: 06 February 2013 (Reference values revised and uncertainties changed to expanded uncertainties for δ13CVPDB-LSVEC 
+and δ2HVSMOW-SLAP; expiration date assigned; editorial changes); 22 June 1992 (Original report issue date). 
+
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+RM 8540 
+
+Page 4 of 4 
+
+

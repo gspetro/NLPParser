@@ -1,0 +1,459 @@
+﻿MATERIAL SAFETY DATA SHEET 
+
+ 
+1.  SUBSTANCE AND SOURCE IDENTIFICATION 
+ 
+National Institute of Standards and Technology
+Standard Reference Materials Program
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+ 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+
+SRM Number:  1202 
+MSDS Number:  1202 
+SRM Name: Fabric Smoldering Ignition 
+
+Testing Materials 
+
+Date of Issue:  25 June 2012 
+
+Emergency Telephone ChemTrec:
+
+1-800-424-9300 (North America)
++1-703-527-3887 (International)
+
+Description:  This Standard Reference Material (SRM) is intended to be used to evaluate upholstery fabrics for their 
+tendency  to  support  smoldering  combustion.    The  evaluation  metric  is  the  percent  mass  loss  of  the  polyurethane 
+foam after the specimen assembly is exposed to a burning SRM 1196 cigarette for 45 minutes.  A unit of SRM 1202 
+is  a  single  test  specimen,  which  consists  of  two  pieces  of  a  reproducibly  high  smoldering  standard  polyurethane 
+foam,  two  pieces  of  denim  upholstery  fabric,  a  piece  of  cotton  fabric,  and  one  pack  of  SRM 1196  cigarettes 
+containing 20 cigarettes. 
+Substance:  Carbon monoxide (CO) and carbon dioxide (CO2), and other oxides of carbon. 
+Other Designations:  Not applicable for this material. 
+
+2.  HAZARDS IDENTIFICATION 
+
+NFPA Ratings (Scale 0–4): 
+
+Health = 2 
+
+Fire = 1 
+
+Reactivity = 0 
+
+Note:    This  MSDS  addresses  the  CO  and  CO2  gas  generated  from  the  smoldering  fabric  and  foam.    The 
+concentration of carbon monoxide and carbon dioxide generated as a combustion product are unknown, and while 
+expected to be small, pose health hazards.  These gases are not under pressure.  This MSDS is for carbon monoxide 
+and carbon dioxide and is provided for information to the user. 
+
+Major  Health  Hazards:    Carbon  monoxide  is  harmful  if  inhaled,  may  cause  blood  damage,  and  suffocation.  
+Carbon dioxide may cause difficulty breathing. 
+
+Physical Hazards:  There are no physical hazards associated with this material. 
+
+Potential Health Effects (Acute and Chronic) 
+
+Inhalation:    CO  and  CO2  may  cause  suffocation  and  exposure  effects  include  changes  in  body  temperature, 
+changes  in  blood  pressure,  nausea,  vomiting,  chest  pain,  difficulty  breathing,  irregular  heartbeat,  headache, 
+drowsiness,  visual  disturbances,  pain  in  extremities,  tremors,  loss  of  coordination,  hearing  loss,  visual 
+disturbances, eye damage, blood disorders, unconsciousness, coma, and death.  CO exposure may also include 
+convulsions. 
+Skin Contact:  No information available. 
+Eye Contact:  No information available. 
+Ingestion:  Ingestion of a gas is unlikely. 
+Listed as a Carcinogen/Potential Carcinogen 
+ 
+In the National Toxicology Program (NTP) Report on Carcinogens 
+In the International Agency for Research on Cancer (IARC) Monographs 
+By the Occupational Safety and Health Administration (OSHA) 
+
+Yes 
+ 
+ 
+ 
+
+No 
+X 
+X 
+X 
+
+ 
+ 
+ 
+ 
+
+ 
+3.  COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+ 
+
+CAS Number 
+
+Components 
+Carbon monoxide 
+Carbon dioxide 
+Note:    The  fume  from  the  smoldering  material  is  a  complex  mixture  that  has  not  been  tested  as  a  whole.    The 
+material contains organic and inorganic compounds incorporated in the matrix (see Certificate of Analysis), which 
+have been reported to have toxic, mutagenic, and/or carcinogenic properties, and should be handled with care. 
+
+630-08-0 
+124-38-9 
+
+ 
+ 
+
+ 
+ 
+
+Nominal Concentration 
+(%) 
+1 
+1 
+
+EC Number 
+(EINECS) 
+211-128-3 
+204-696-9 
+
+MSDS 1202 
+
+Page 1 of 4 
+
+EC Classification:  Carbon monoxide:  Repr. Cat. 1, T; carbon dioxide is not classified.  
+
+EC Risk Phrases (R No):  23, 48/23, 61 
+
+EC Safety Phrases (S No):  45, 53 
+
+EC Risk/Safety Phrases:  See Section 15, “Regulatory Information”. 
+
+Note:  The EC classification includes F, with a Risk Phrase, R12 stating that it is extremely flammable.  This does 
+not apply to the quantities that might be generated from this experiment. 
+
+4.  FIRST AID MEASURES 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration by 
+qualified personnel.  Seek immediate medical attention. 
+
+Skin  Contact:    Rinse  affected  area  with  soap  and  water  for  at  least  15 minutes.    Seek  medical  assistance  if 
+necessary. 
+
+Eye  Contact:    Immediately  flush  eyes,  including  under  the  eyelids,  with  copious  amounts  of  water  for  at  least 
+15 minutes.  Seek immediate medical attention. 
+
+Ingestion:  Ingestion of a gas is unlikely. 
+
+5.  FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Slight fire hazard. 
+
+Extinguishing Media:  Regular dry chemical, carbon dioxide. 
+
+Fire Fighting:  Avoid inhalation of combustion by-products. 
+
+Flash Point (C):  Not applicable. 
+Method Used:  Not applicable. 
+
+Flammability Limits in Air (for CO; not applicable to CO2) 
+
+UPPER (Volume %):    74 
+LOWER (Volume %):  12.0 to 12.5 
+
+6.  ACCIDENTAL RELEASE MEASURES 
+
+Occupational Release:  Keep out of water supplies and sewers. 
+
+Disposal:  Refer to Section 13, “Disposal Considerations”. 
+
+7.  HANDLING AND STORAGE 
+
+Autoignition Temperature:  609 C to 650 C (1128 F to 1202 F) for CO.  Not applicable to CO2. 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+Safe Handling Precautions:  See Section 8, “Exposure Controls and Personal Protection”. 
+
+8.  EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Carbon monoxide:  The following values given for pure carbon monoxide are for informational purposes only. 
+
+OSHA (PEL): 
+ACGIH (TLV): 
+NIOSH (REL): 
+
+55 mg/m3 (50 ppm) TWA 
+30 mg/m3 (25 ppm) TWA 
+40 mg/m3 (35 ppm) TWA; 1380 mg/m3 (1200 ppm) IDLH; 229 mg/m3 (200 ppm) Ceiling 
+
+Carbon dioxide:  The following values given for pure carbon dioxide are for informational purposes only. 
+
+OSHA (PEL): 
+ACGIH (TLV): 
+NIOSH (REL): 
+
+5000 ppm (90 000 mg/m3) TWA 
+5000 ppm (90 000 mg/m3) TWA; 30 000 ppm (54 000 mg/m3) STEL 
+5000 ppm (90 000 mg/m3) TWA; 30 000 ppm (54 000 mg/m3) STEL, 40 000 ppm IDLH 
+
+Ventilation:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with  applicable 
+exposure limits. 
+
+Respirator:    If  workplace  conditions  warrant  a  respirator,  a  respiratory  protection  program  that  meets  OSHA 
+29 CFR 1910.134 must be followed.  Refer to NIOSH 24 CFR 84 for applicable certified respirators. 
+
+MSDS 1202 
+
+Page 2 of 4 
+
+Eye Protection:  Wear safety goggles.  An eyewash station and drench shower should be readily available near the 
+handling and use areas. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+ 
+
+Property 
+
+Carbon monoxide 
+
+Carbon dioxide 
+
+Appearance and Odor 
+
+colorless gas, odorless 
+
+colorless gas, odorless 
+
+Molecular Formula 
+
+Molar Mass (g/mol) 
+
+Density 
+
+Specific Gravity (water = 1) 
+
+Boiling Point 
+
+Vapor Pressure 
+
+Vapor Density (air = 1) 
+
+Water Solubility 
+
+Solvent Solubility 
+
+CO 
+
+28.01 
+
+1.25 g/L at 0 C 
+
+not available 
+
+0.968 
+
+2.3 % at 20 C 
+
+CO2 
+
+44.01 
+
+not available 
+
+1.522 at 21 C 
+
+not available 
+
+1.5 
+
+soluble 
+
+–192 C (–314 F) liquid 
+
+760 mm Hg at –191 C 
+
+43 700 mm Hg at 21 C 
+
+soluble in acetone, alcohol, 
+benzene, ethyl acetate, chloroform 
+
+soluble in organic solvents, 
+acetone, alcohol 
+
+pH 
+
+not applicable 
+
+acidic in solution 
+
+NOTE:  The physical and chemical data provided are for the pure components.  Physical and chemical data for the 
+solution are not available. 
+
+10.  STABILITY AND REACTIVITY 
+ 
+Stability: 
+
+Stable 
+
+X 
+
+ 
+
+Unstable 
+
+ 
+
+Stable at normal temperatures and pressure. 
+
+Conditions to Avoid:  Avoid inhalation of material or combustion by-products. 
+
+Incompatible Materials:  Combustible materials, halogens, lithium, metal oxides, metals and oxidizing materials. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+11.  TOXICOLOGICAL INFORMATION 
+ 
+Route of Entry: 
+
+Inhalation 
+
+X 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+Toxicity data and endpoints listed by Registry of Toxic Effects of Chemical Substances (RTECS). 
+
+ 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Toxicity Data for Carbon monoxide: 
+
+Rat, Inhalation LC50:  1807 ppm (4 h); 13 500 mg/m3 (15 min). 
+Mutagenic endpoint:  Mouse, 1500 ppm (10 min). 
+Reproductive endpoint:  Rat, (0 to 20 d pregnant), Inhalation TCLo: 150 ppm (24 h). 
+
+Toxicity Data for Carbon dioxide: 
+
+Rat, Inhalation LC50:  470 000 ppm (30 min). 
+Mutagenic endpoint:  No data available. 
+Reproductive endpoint:  Rat, (10 d pregnant), Inhalation TCLo: 6 pph. 
+
+Health Effects:  See Section 2, “Hazards Identification” for potential health effects. 
+
+Target Organs:  Blood, central nervous systems. 
+
+MSDS 1202 
+
+Page 3 of 4 
+
+Medical  Conditions  Aggravated  by  Exposure:    Blood  system  disorders,  heart  or  cardiovascular  disorders, 
+hormonal disorders, and respiratory disorders.  
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+12.  ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No ecotoxicity data available. 
+
+13.  DISPOSAL CONSIDERATIONS 
+
+14.  TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT and IATA. 
+
+15.  REGULATORY INFORMATION 
+
+U.S. Regulations 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30): Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+Yes 
+Yes 
+No 
+No 
+No 
+
+State Regulations: 
+
+Canadian Regulations: 
+
+WHMIS Information:  Not provided for this material. 
+
+European Regulations 
+EC Classification 
+
+T:  Toxic, Repr. Cat. 1 
+
+EC Risk Phrase(s): 
+
+California Proposition 65:  Warning!  This material contains a chemical (carbon monoxide) known to the state 
+of California to cause reproductive effects. 
+
+R23 – Toxic by inhalation 
+R48/23 – Toxic: danger of serious damage to health by prolonged exposure through inhalation. 
+R61 – May cause harm to the unborn child. 
+
+EC Safety Phrase(s): 
+
+S45 – In  case  of  accident  or  if  you  feel  unwell,  seek  medical  advice  immediately  (show  the  label  where 
+possible). 
+S53 – Avoid exposure – obtain special instructions before use. 
+
+National Inventory Status 
+
+U.S. Inventory (TSCA):  Carbon monoxide and carbon dioxide are listed. 
+TSCA 12(b), Export Notification:  Not listed. 
+
+16.  OTHER INFORMATION 
+
+Sources: 
+
+ChemAdvisor, Inc., MSDS, Carbon Monoxide, 20 December 2011. 
+ChemAdvisor, Inc., MSDS Carbon Dioxide, 20 December 2011. 
+EC;  European  Chemical  Substance  Information  System  (ESIS),  Carbon  Monoxide,  Index 
+Number 006-001-00-2, 
+(accessed 
+June 2012). 
+
+http://esis.jrc.ec.europa.eu/index.php?PGM=cla 
+
+available at 
+
+Disclaimer:    Physical  and  chemical  data  contained  in  this  MSDS  are  provided  only  for  use  in  assessing  the 
+hazardous nature of the material.  The MSDS was prepared carefully, using current references; however, NIST does 
+not certify the data in the MSDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+MSDS 1202 
+
+Page 4 of 4 
+
+

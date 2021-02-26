@@ -1,0 +1,676 @@
+﻿ 
+
+oe 
+g- 
+
+Srares  oe
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+ 
+Standard Reference Material® 1995 
+
+Standard Sapphire Single Crystal Wafer for Crystalline Orientation 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  the  calibration  of  instruments  (X-ray 
+diffractometers)  used  to  measure  the  crystal  orientation  of  wafers  relative  to  the  crystal  surface.    The  SRM  unit 
+consists of a 50 mm diameter sapphire wafer.   
+ 
+Certified Values and Uncertainites:  NIST certified values are values for which NIST has the highest confidence 
+in its accuracy in that all known or suspected sources of bias have been investigated or accounted for by NIST [1].  
+The crystal orientation of the sapphire crystal C-axis (001) relative to the surface normal has been measured both 
+parallel  and  perpendicular  to  an  edge  flat  (A-axis  (11-20))  that  is  manufactured  into  the  wafer.    The  statistical 
+uncertainty (type A) has been combined with the maximum systematic error (type B) in quadrature to determine an 
+overall error for all wafers of 8.4 arc seconds.  The certified crystal orientation is found in Table 1.  The calibration 
+uncertainty components are listed in Table 2. 
+ 
+Expiration  of  Certification:    The  certification  of  this  SRM  is  deemed  to  be  indefinite  within  the  stated 
+uncertainties,  provided  the  SRM  is  stored  and  handled  in  accordance  with  the  “Storage  and  Handling”  and 
+“Instructions  for  Use”  sections  of  this  certificate.    However,  certification  will  be  nullified  if  the  SRM  is 
+contaminated or otherwise altered. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination for this SRM was provided by E.C. Benck and R.J. Matyi of the NIST Atomic Physics Division. 
+ 
+The  crystal  orientation  measurement  technique,  development,  and  certification  of  this  SRM  were  performed  by 
+E.C. Benck of the NIST Atomic Physics Division. 
+ 
+Statistical analysis was performed by B. Toman of the NIST Statistical Engineering Division. 
+ 
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date: 02 October 2008 
+
+Carl J. Williams, Chief 
+Atomic Physics Division 
+ 
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+ 
+ 
+
+SRM 1995 
+
+Page 1 of 5 
+
+Storage and Handling:  Sapphire is typically inert under ambient and testing conditions.  The sapphire wafer may 
+be  returned  to  the  wafer  storage  box  and  reused.    The  wafer  should  not  be  dropped  or  similarly  mechanically 
+stressed.  
+ 
+INSTRUCTIONS FOR USE 
+ 
+Dust  should  be  removed  from  the  SRM  wafer  surface  and  the  wafer  mount  prior  to  installation  in  the  X-ray 
+diffractometer.  The flat manufactured into the wafer should be mounted either parallel or perpendicular to the X-
+ray  plane  of  dispersion  with  the  polished  surface  facing  towards  the  X-ray  source.    Consult  the  equipment 
+manufacturer’s operating instructions for performing the actual measurements with the SRM.  Measurements should 
+be made near the center of the wafer. 
+ 
+Summary  of  Analytical  Method:    The  angular  measurements  were  made  using  a  high  resolution  double  crystal 
+X-ray diffractometer.  The diffractometer utilizes a dispersive geometry with a fixed first crystal; for this work, a 
+(004)  reflection  from  a  highly  perfect  silicon  reference  crystal  is  used.    The  sample  crystal  is  mounted  on  an 
+Ultradex1  precision  indexing  table  that  is in turn mounted on a high precision rotation spindle that is driven by a 
+stepper motor and non-rotating micrometer via a sine arm.  The inclusion of the Ultradex table allows the sample to 
+be  indexed  in  1°  increments  for  large  excursions  while  leaving  the  sine  arm  drive  (total  angular  range  of 
+approximately ± 3°) for precision movements. 
+ 
+Attached  to  the  sample  rotation  spindle  is  a  polarization-encoded  optical  angle  interferometer  that  employs  a 
+calibrated  (NIST-traceable)  He-Ne  laser  source.    Angle  measurements  were  performed  by  counting  interference 
+fringes with a calibration technique relating fringes to angle increment that was established by conventional angle 
+metrology methods.  Since the wavelength of the interferometer is traceable to the SI, the measurements of angular 
+misorientation are as well.  
+
+The following measurement procedure was used for each of the sapphire wafers in the production run: 
+
+1.  The wafers were used as supplied by the vendor with no additional preparation. 
+2.  The sample was mounted on a precision rotation axis (φ-axis) with the wafer flat parallel to the plane of 
+dispersion.  The sample and φ-axis are mounted on the sample rotation or ω-axis of a double crystal X-ray 
+diffractometer.  The X-ray beam nominally samples a 1 cm wide area at the center of the wafer.  The ω-
+axis is perpendicular to the X-ray plane of dispersion; the rotation of this axis will be calibrated using circle 
+closure  with  an  optical  polygon  and  a  precision  nulling  autocollimator.    Angles  were  measured  using  a 
+polarization-encoded  angle  interferometer.    These  attributes  (closure  calibration  and  angle  measurement 
+with an angle interferometer with calibrated laser) ensure traceability to the SI. 
+
+3.  The sample surface was aligned with respect to a two-axis electronic autocollimator.  The sample surface 
+was made perpendicular to the autocollimator to a precision of better than 2 x 10-4 radians (i.e., better than 
+4 angular seconds).  The angle in the plane of dispersion corresponding to the crystal being aligned with 
+the  autocollimator  is  determined  from  a  linear  least  squares  fit  to  a  series  of  autocollimator  signal 
+measurements versus angle measurements. 
+
+4.  The  reflection  from  the  wafer  was  recorded  with  CuKα1  radiation  monochromated  by  a  highly  perfect 
+silicon reference crystal.  The angle was determined using a curve fitting routine with the X-ray detector 
+signal  and  angle  measurements.    The  angle  difference  between  the  autocollimator  signal  and  the  X-ray 
+reflection was calculated. 
+
+5.  The sample was rotated 180° about the φ-axis.  Steps (3) and (4) were repeated in order to determine the 
+
+surface normal and reflection angles from which the difference angle was calculated. 
+
+6.  The  angle  difference  between  the  autocollimator  and  the  X-ray  reflection  determined  in  (4)  and  (5)  was 
+summed,  and  one  half  of  this  value  is  the  wafer  misorientation  with  respect  to the  surface  about  an  axis 
+perpendicular to the wafer flat. 
+
+7.  The sample was rotated 90° to orient the wafer flat perpendicular to the plane of dispersion. 
+8.  Steps 3, 4, and 5 were repeated. 
+9.  The  angle  differences  between  the  autocollimator  and  the  X-ray  reflection  determined  in  step  8  were 
+summed,  and  one  half  of  this  value  is  the  wafer  misorientation  with  respect  to  the  surface  about  an  axis 
+parallel to the wafer flat. 
+
+                                                           
+
+1Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  describe  the 
+experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment are the best available for the purpose. 
+SRM 1995 
+
+Page 2 of 5 
+
+Table 1.  Certified Crystal Orientation 
+
+Wafer Label 
+
+Angle Parallel to Flat 
+
+Angle Perpendicular to Flat 
+
+Arc Minutes 
+
+Arc Seconds 
+
+Arc Minutes 
+
+ 
+
+ 
+
+ 
+AA_004 
+AA_005 
+BB_001 
+BB_002 
+BB_003 
+BB_006 
+BB_007 
+BB_008 
+BB_009 
+BB_010 
+BB_012 
+BB_013 
+BB_015 
+CC_001 
+CC_004 
+CC_005 
+CC_006 
+CC_007 
+CC_008 
+CC_009 
+CC_010 
+CC_011 
+CC_014 
+CC_015 
+CC_017 
+CC_019 
+CC_020 
+CC_021 
+CC_022 
+CC_024 
+CSI_3060103 
+CSI_3060104 
+CSI_3060106 
+CSI_3060107 
+CSI_3060108 
+CSI_3060109 
+CSI_3060111 
+CSI_3060112 
+CSI_3060113 
+CSI_3060114 
+CSI_3060115 
+CSI_3060116 
+CSI_3060117 
+CSI_3060120 
+
+-24 
+-25 
+-3 
+1 
+0 
+2 
+-1 
+0 
+0 
+-1 
+2 
+0 
+2 
+0 
+0 
+3 
+2 
+0 
+0 
+-3 
+0 
+1 
+-3 
+0 
+0 
+0 
+-3 
+5 
+2 
+2 
+0 
+-1 
+1 
+1 
+5 
+0 
+0 
+0 
+-4 
+0 
+0 
+2 
+0 
+-1 
+
+-37.1 
+-36.4 
+-38.9 
+58.5 
+20.4 
+1.4 
+-19.2 
+29.6 
+46.3 
+-37.4 
+15.9 
+53.7 
+36.3 
+29.2 
+-4.1 
+9.2 
+0.0 
+29.5 
+20.8 
+-28.7 
+30.0 
+57.8 
+-17.0 
+23.2 
+34.5 
+6.8 
+-36.1 
+20.9 
+17.4 
+14.1 
+16.2 
+-14.0 
+57.8 
+11.7 
+15.6 
+23.3 
+35.2 
+28.1 
+-6.4 
+23.7 
+19.0 
+25.4 
+20.7 
+-25.4 
+
+-2 
+1 
+1 
+3 
+3 
+-3 
+0 
+-3 
+0 
+0 
+-2 
+0 
+2 
+-3 
+3 
+-1 
+-3 
+-1 
+3 
+1 
+-3 
+3 
+-2 
+3 
+-1 
+3 
+-2 
+2 
+-3 
+3 
+3 
+0 
+3 
+0 
+2 
+1 
+0 
+1 
+2 
+0 
+-3 
+3 
+1 
+0 
+
+Arc Seconds 
+-3.3 
+59.7 
+59.4 
+32.6 
+7.6 
+-18.6 
+13.5 
+-11.7 
+41.4 
+-7.3 
+-51.0 
+53.2 
+36.6 
+-40.4 
+24.2 
+-42.9 
+-24.3 
+-31.3 
+13.9 
+46.7 
+-16.0 
+47.5 
+-16.5 
+16.5 
+-26.0 
+6.3 
+-7.4 
+32.8 
+-36.7 
+27.5 
+11.0 
+35.1 
+30.7 
+35.9 
+47.3 
+16.1 
+-59.0 
+36.5 
+4.3 
+42.4 
+-22.5 
+29.2 
+33.2 
+-3.5 
+
+SRM 1995 
+
+Page 3 of 5 
+
+Angle Perpendicular to Flat 
+
+Arc Minutes 
+
+Arc Seconds 
+
+Table 1. Crystal Orientation (cont.) 
+
+Wafer Label 
+
+Angle Parallel to Flat 
+
+Arc Minutes 
+
+Arc Seconds 
+
+0 
+5 
+0 
+5 
+0 
+0 
+0 
+0 
+0 
+0 
+-1 
+-3 
+0 
+1 
+1 
+5 
+0 
+0 
+0 
+2 
+0 
+0 
+-4 
+0 
+-1 
+4 
+5 
+0 
+
+ 
+CSI_3060122 
+CSI_3060123 
+CSI_3060125 
+CSI_3060126 
+CSI_3060127 
+CSI_3060128 
+CSI_3060129 
+CSI_3060131 
+CSI_3060132 
+CSI_3060133 
+CSI_3060134 
+CSI_3060135 
+CSI_3060136 
+CSI_3060137 
+CSI_3060138 
+CSI_3060139 
+CSI_3060140 
+CSI_3060141 
+CSI_3060142 
+CSI_3060143 
+CSI_3060146 
+CSI_3060148 
+CSI_3060149 
+CSI_3060150 
+CSI_3060153 
+CSI_DD_1364-3 
+CSI_DD_1365-2 
+CSI_DD_1372 
+ 
+ 
+Calibration Uncertainties:  Calibration uncertainty components are listed in Table 2.  
+ 
+ 
+
+29.4 
+20.4 
+34.4 
+25.7 
+13.0 
+30.7 
+17.6 
+31.4 
+37.1 
+33.5 
+-23.7 
+-23.7 
+20.8 
+54.6 
+53.6 
+13.9 
+20.9 
+30.5 
+6.3 
+35.0 
+18.2 
+31.5 
+-7.4 
+5.7 
+-17.5 
+41.4 
+10.0 
+47.0 
+
+-1 
+-2 
+0 
+-2 
+1 
+-1 
+-3 
+-1 
+3 
+0 
+0 
+-1 
+-2 
+3 
+-3 
+-3 
+-3 
+3 
+2 
+2 
+-1 
+3 
+-1 
+-3 
+0 
+-1 
+1 
+-5 
+
+Table 2.  SRM 1995 Calibration Uncertainty Components 
+
+ 
+
+ 
+
+-30.8 
+-36.9 
+-59.1 
+-48.4 
+6.7 
+-35.4 
+-1.7 
+-23.1 
+2.5 
+37.2 
+-31.1 
+-54.4 
+-58.8 
+34.4 
+-33.4 
+-0.6 
+-25.6 
+18.2 
+42.8 
+30.8 
+-6.7 
+5.8 
+-58.4 
+-14.3 
+-16.6 
+-52.5 
+9.6 
+-16.8 
+
+  Error Description 
+ 
+Misalignment of Surface Normal 
+Misalignment of φ-Axis 
+Mounting Misalignment 
+Angular Rotation about φ-Axis 
+Peak Assignment  
+Crystal Inhomogeneity 
+Measurement Repeatability 
+
+Value (angular seconds) 
+ 
+negligible 
+negligible 
+
+0.15 
+.9 
+0.1 
+5 
+6.7 
+
+ 
+Misalignment of the Sample Normal:  Misalignment of the sample normal out of the plane of the diffractometer 
+by  an  amount  φ  leads  to  a  tilt  error  Δθ    =    (φ2/2)  tan  θ.    The  fact  that  the  error  depends  on  the  square  of  the 
+misorientation  means  that  as  the  sample  is rotated 180° about the φ-axis, the apparent shift in the diffracted peak 
+position will be the same (θ  +  Δθ), so by taking the difference, the tilt error cancels out. 
+ 
+Misalignment of the φ-Axis:  Realignment of the wafer with respect to the autocollimator after each rotation about 
+the φ-axis results in errors due to misalignment of the φ-axis from the plane of the diffractometer negligible. 
+  
+
+SRM 1995 
+
+Page 4 of 5 
+
+ 
+Mounting Misalignment:  An error in aligning the major flat to the diffractometer plane results in an error in the 
+direction of the crystal misorientation, but not the overall magnitude.  Although care was taken to remove any dust 
+or debris from the wafer and the mounting bar, there always is the possibility of dust causing the wafer flat to be 
+misaligned.  In  addition,  there  is  the  possibility  of  the  wafer  support  itself  being  misaligned  relative  to  the 
+diffractometer  plane  resulting  in  a  systematic  error.    Consequently,  we  estimate  that  the  absolute  accuracy  of  the 
+wafer  alignment  to  be  better  than  20  angular  seconds.    For  the  magnitude  of  angles  being  measured,  this 
+corresponds to an uncertainty of 0.15 angular seconds. 
+ 
+Angular Rotation about φ-Axis:  Errors in the angular positioning about the φ-axis result in the most significant 
+uncertainty in the crystal orientation measurements.  The angular positioning of the φ-axis bearing is determined by 
+a set of interlocking gear teeth.  Based on the manufacturer’s specifications, the angular accuracy should be better 
+than  4 angular  minutes.    Consequently,  for  the  magnitude  of  angles  being  measured,  the  maximum  systematic 
+uncertainty due to any measured angle is 0.9 angular seconds.  
+ 
+Peak Assignment:  Error in the peak assignment, due to statistical noise, is not a significant source of error.  The 
+intensity of the X-ray beam was maintained to produce reasonable signal-to-noise ratios.  Repeat measurements of 
+the  same  rocking  curve  without  moving  the  φ-axis  maintain  results  in  the  same  angle  measurement  to  within 
+0.1 arc second. 
+ 
+Crystal  Inhomogeneity:    Although  the  sapphire  wafers  are  of  good  quality,  the  wafers  still  exhibited  some 
+variation in the crystal orientation across the surface of the wafer.  This is probably due to internal strains within the 
+crystal.  A broad X-ray beam was used to average any localized variations in the crystal orientation.  These internal 
+strains are probably responsible for the observed line widths of the rocking curves.  Crystals, in which the rocking 
+curves were so broad as to blend the two X-ray peaks, were rejected.  A few of the crystals produced rocking curves 
+where the X-ray peaks exhibited sub-peaks; this was  probably due to localized regions of strain sampled by the X-
+ray.  The curve fitting program could be forced to converge on an individual sub-peak instead of the envelope of the 
+entire  peak.    In  the  worst  case,  the  resulting  measurements  using  a  sub-peak  differed  from  the  normal  peak 
+assignment method by 5 arc seconds. 
+ 
+Measurement  Repeatability:    The  statistical  measurement  uncertainties  of  SRM  1995  were  determined  from 
+repeated measurements of three wafers selected from the production run.  Based on the statistical measurements, an 
+expanded uncertainty at the 95 % level of confidence was determined to be below 7 arc seconds.   
+ 
+ 
+ 
+
+REFERENCE 
+
+ 
+[1] 
+
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297, 
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+SRM 1995 
+
+Page 5 of 5 
+
+

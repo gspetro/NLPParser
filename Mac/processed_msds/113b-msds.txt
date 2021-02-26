@@ -1,0 +1,835 @@
+﻿Date of Issue:
+
+08 April 2014
+
+
+
+SAFETY DATA SHEET
+
+
+
+1. Substance and Source Identification 
+
+	Product Identifier
+
+	SRM Number:  113b
+
+	SRM Name:  Zinc Concentrate
+
+	Other Means of Identification:
+
+	Recommended Use of This Material and Restrictions of Use
+
+This Standard Reference Material (SRM) is intended primarily for use in the analysis of zinc sulfide ores and concentrates.  SRM 113b is in the form of a fine powder, and is packaged in an inert argon atmosphere to prevent air oxidation of the material, which would lead to changes in the certified values over time.  A unit of SRM 113b consists of a bottle containing 100 g of the powdered concentrate.
+
+	Company Information
+
+				National Institute of Standards and Technology
+
+				
+
+				Standard Reference Materials Program
+
+				
+
+				100 Bureau Drive, Stop 2300
+
+				
+
+				Gaithersburg, Maryland 20899-2300
+
+				
+
+				
+
+	
+
+				Telephone:  301-975-2200
+
+	Emergency Telephone ChemTrec:
+
+				FAX:  301-948-3730
+
+	1-800-424-9300 (North America)
+
+				E-mail:  SRMMSDS@nist.gov
+
+	+1-703-527-3887 (International)
+
+				Website:  http://www.nist.gov/srm
+
+				
+
+	
+
+2. HAZARDS IDENTIFICATION
+
+Classification
+
+		Physical Hazard:	Not classified.
+
+		Health Hazard:	Carcinogenic	Category 1A
+
+			Reproductive Toxicity	Category 1A
+
+			STOT, Repeated Exposure 	Category 2
+
+		Label Elements
+
+			Symbol 
+
+			
+
+			Signal Word:  DANGER
+
+			Hazard Statement(s) 
+
+	H350	May cause cancer through inhalation.
+
+	H360	May damage fertility or the unborn child.
+
+	H373	May causes damage to organs through prolonged or repeated exposure.
+
+Precautionary Statement(s)
+
+	P201	Obtain special instructions before use.
+
+	P202	Do not handle until all safety precautions have been read and understood.
+
+	P260	Do not breathe dust.
+
+	P280	Wear protective gloves, protective clothing, and eye protection.
+
+	P308+P313	If exposed or concerned:  Get medical attention.
+
+	P405	Store locked up.
+
+	P501	Dispose of contents and container according to local regulations.
+
+Hazards Not Otherwise Classified:  Not applicable.
+
+			Ingredients(s) with Unknown Acute Toxicity:  Not applicable.
+
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS
+
+Substance:  Zinc concentrate
+
+Other Designations:  Zinc sulfide ore; zinc sulphide ore
+
+NOTE:  Components are listed in compliance with OSHA’s 29 CFR 1910.1200; the actual effects may differ from the individual components.  For actual values, see the NIST Certificate of Analysis.
+
+Main Component
+
+	CAS Number
+
+EC Number
+(EINECS)
+
+Nominal Mass Concentration 
+(%)
+
+Zinc concentrate
+
+	not applicable
+
+not applicable
+
+	100
+
+	Individual Components of Zinc Concentrate in SRM 113b
+
+Zinc sulfide (ZnS)
+
+1314-98-3
+
+215-251-3
+
+	83.8
+
+Iron sulfide (FeS)
+
+1317-37-9
+
+215-268-6
+
+	3.5
+
+Lead sulfide (PbS)
+
+1314-87-0
+
+215-246-6
+
+	2.4
+
+Cadmium sulfide (CdS)
+
+1306-23-6
+
+215-147-8
+
+	1.4
+
+
+
+4. FIRST AID MEASURES
+
+Description of First Aid Measures 
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  Give artificial respiration if not breathing.  Seek immediate medical attention.
+
+Skin Contact:  Wash skin with soap and water for at least 15 minutes.  Thoroughly clean and dry contaminated clothing and shoes before reuse.
+
+Eye Contact:  Immediately flush eyes, including under the eyelids with copious amounts of water for at least 15 minutes.  Seek immediate medical attention.
+
+Ingestion:  If a large amount is swallowed, seek immediate medical attention.
+
+Most Important Symptoms/Effects, Acute and Delayed:  Respiratory tract irritation, skin irritation, and eye irritation, abnormal lung function, kidney damage, and cancer.
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above symptoms are present, seek immediate medical attention.
+
+5. FIRE FIGHTING MEASURES
+
+Fire and Explosion Hazards:  Negligible fire hazard.  See Section 9, “Physical and Chemical Properties” for flammability properties.
+
+Extinguishing Media
+
+		Suitable:  Use extinguishing agents appropriate for surrounding fire.
+
+		Unsuitable:  None listed.
+
+Specific Hazards Arising from the Chemical:  Not applicable.
+
+Special Protective Equipment and Precautions for Fire-Fighters:  Move container from fire area if it can be done without personal risk.  Avoid inhalation of material or combustion byproducts.  Wear full protective clothing and NIOSHapproved selfcontained breathing apparatus (SCBA).
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe)
+
+				Health = 1	Fire = 0	Reactivity = 0
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Use suitable protective equipment; see Section 8, “Exposure Controls and Personal Protection”.  Subject to California Safe Drinking Water and Toxic Enforcement Act of 1986 (Proposition 65).  Keep out of waters supplies and sewers.
+
+Methods and Materials for Containment and Clean up:  Collect spilled material in appropriate container for disposal.  Avoid generating dust.  Clean up residue with a high-efficiency particulate filter vacuum.  
+
+7. HANDLING AND STORAGE
+
+Safe Handling Precautions:  Avoid generating dust.  See Section 8, “Exposure Controls and Personal Protection”.
+
+	Storage and Incompatible Materials:  Store and handle in accordance with all current regulations and standards.  Keep separated from incompatible substances (See Section 10, “Stability and Reactivity”).
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION
+
+
+
+Exposure Limits
+
+Component(s)
+
+OSHA (PEL)
+
+ACGIH (TLV)
+
+NIOSH (REL)
+
+Lead sulfide
+Pb (related to Lead inorganic compounds)
+
+(See 29 CFR 1910.1025) 
+TWA:  50 µg/m3
+
+	Action level:  30 µg/m3
+
+				TWA:  0.05 mg/m3
+
+
+TWA:  0.05 mg/m3
+
+IDLH:  100 mg/m3
+
+
+Cadmium sulfide,
+as Cd (related to Cd compounds)
+
+				(See 29 CFR 1910.1027) 
+TWA:  5 µg/m3
+Action level:  2.5 µg/m3
+
+				TWA:  0.01 mg/m3
+
+				TWA:  0.002 mg/m3
+(respirable fraction)
+
+				IDLH:  9 mg/m3 (dust and fume)
+
+
+
+Zinc sulfide;
+Iron sulfide
+
+No occupational exposure limits established.
+
+Engineering Controls:  Provide local exhaust or process enclosure ventilation system.  Ensure compliance with applicable exposure limits.
+
+Personal Protection Measures:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective Equipment (PPE) to minimize exposure to this material.
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators.
+
+Eye Protection:  Splash resistant safety goggles and emergency eyewash are recommended.
+
+Skin and Body Protection:  Chemical resistant clothing and gloves are recommended.
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+NOTE:  No physical or chemical data are available for this mixture.  The physical and chemical data provided are for zinc sulfide, the main individual component.
+
+
+
+Properties
+
+Zinc sulfide (83.8 %)
+
+Molar Mass (g/mol)
+
+97.43
+
+Molecular Formula
+
+ZnS
+
+Appearance (physical state, color, etc.)
+
+grey to yellow powder
+
+Odor
+
+not available
+
+Odor threshold
+
+not available
+
+pH
+
+not available
+
+Evaporation rate (butyl acetate = 1)
+
+not available
+
+Melting point/freezing point
+
+1700 °C (3092 °F)
+
+Relative Density as Specific Gravity (water = 1)
+
+3.98
+
+Density
+
+not available
+
+Vapor Pressure
+
+not available
+
+Vapor Density (air = 1)
+
+not available
+
+Viscosity
+
+not applicable
+
+Solubilities
+
+soluble:  0.00069 %  at 18 °C in water, dilute mineral acids.
+
+insoluble:  acetic acid
+
+Partition coefficient (noctanol/water)
+
+not available
+
+Particle Size 
+
+not available
+
+
+
+
+Thermal Stability Properties
+
+Zinc sulfide (83.8 %)
+
+Autoignition Temperature
+
+not applicable
+
+Thermal Decomposition
+
+1185 °C (2165 °F)  sublimation
+
+Initial boiling point and boiling range
+
+not available
+
+Explosive Limits, LEL (Volume %)
+
+not applicable
+
+Explosive Limits, UEL (Volume %)
+
+not applicable
+
+Flash Point
+
+not applicable
+
+Flammability (solid, gas)
+
+not applicable
+
+	
+
+10. STABILITY AND REACTIVITY
+
+Reactivity:  Stable at normal temperatures and pressure.
+
+Stability:
+
+X
+
+Stable
+
+
+
+Unstable
+
+Possible Hazardous Reactions:  Not applicable.
+
+Conditions to Avoid:  Avoid generating dust.  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact with incompatible materials.
+
+Incompatible Materials:  Halogens, acids, bases, metals, metal oxides, peroxides
+
+Hazardous Decomposition:  Oxides of zinc, sulfur, iron, lead, and cadmium.
+
+Hazardous Polymerization:
+
+
+
+Will Occur
+
+X
+
+Will Not Occur
+
+
+
+11. TOXICOLOGICAL INFORMATION
+
+
+
+Route of Exposure:
+
+X
+
+Inhalation
+
+X
+
+Skin
+
+X
+
+Ingestion
+
+Symptoms Related to the Physical, Chemical and Toxicological Characteristics:  Respiratory tract irritation, skin irritation, and eye irritation, abnormal lung function, kidney damage, and cancer.
+
+Potential Health Effects (Acute, Chronic, and Delayed)
+
+	Inhalation:
+
+	Zinc sulfide:  Acute exposure may result in irritation of the mucous membranes, diarrhea, nausea, palpitations, headache, convulsions and respiratory failure.  Chronic exposure may result in an irregular heartbeat and weight loss.
+
+	Iron sulfide:  Inhalation of the dust or mists of soluble iron salts may be irritating to the respiratory tract.
+
+	Lead sulfide:  Absorption of large amounts of lead may cause a metallic taste, thirst, vomiting, delirium, visual failure, and paralysis.  Prolonged or repeated exposure to low levels of lead may result in an accumulation in body tissues and exert adverse effects on the blood, nervous systems, heart, endocrine and immune systems, kidneys and reproductive system.
+
+	Cadmium sulfide:  Cadmium is highly cumulative and respiratory effects from repeated or prolonged exposure to dusts or fumes may include respiratory cancers, irreversible kidney damage, ulceration of the nasal septum, teeth discoloration, and abnormal lung function.
+
+	Skin Contact:  Contact with this powder or generated dust may result in papulovesicular lesions with exfoliation, green discoloration of the skin, redness, pain, and irritation.  Prolonged exposure may lead to dermatitis with erythematous.
+
+	Eye Contact:  Generated dust may cause mechanical irritation with redness and pain; a local brown discoloration may occur.  Repeated exposure may cause conjunctivitis.
+
+Ingestion:
+
+Zinc sulfide:  Ingestion may cause burning in the mouth and throat, vomiting, watery or bloody diarrhea, hypotension, and convulsions.  Chronic exposure may result in liver and kidney damage.
+
+Iron sulfide:  Ingestion may cause nausea, vomiting, heartburn, constipation and diarrhea.  Chronic excessive iron intake can lead to hemosiderosis with possible damage to the liver and pancreas.
+
+Lead sulfide:  Ingestion of a large amount or repeated or prolonged exposure of lead may cause accumulation in body tissues and result the same effects as detailed in lead inhalation.
+
+Cadmium sulfide:  Ingestion may result severe nausea, abdominal pain, diarrhea, blurred vision, headache, liver damage, and kidney damage.
+
+Numerical Measures of Toxicity
+
+Acute Toxicity:  Not classified.
+
+	Zinc sulfide:	Rat, Oral LD50:  >2 g/kg
+
+		Rat, Dermal LD50:  >2 g/kg
+
+		Rat, Inhalation LD50:  <5040 mg/m3 (4 h)
+
+		Cadmium sulfide:  Rat, Oral LD50:  7080 mg/kg
+
+	Iron sulfide and lead sulfide:  No data available.
+
+Skin Corrosion/Irritation:  Not classified; no data available.
+
+	Serious Eye Damage/Eye Irritation:  Not classified; no data available.
+
+Respiratory Sensitization:  Not classified; no data available.
+
+Skin Sensitization:  Not classified; no data available.
+
+Germ Cell Mutagenicity:  Not classified; no data available.
+
+Carcinogenicity:  Category 1A
+
+Listed as a Carcinogen/Potential Carcinogen
+
+				X
+
+				Yes
+
+				
+
+				No
+
+Lead and lead compounds are listed as reasonably anticipated to be a human carcinogen per NTP.  IARC lists inorganic lead in Group 2A (probably carcinogenic to humans).  Lead is not listed by OSHA.
+
+Cadmium and cadmium compounds are listed as a known a human carcinogen per NTP.  IARC lists cadmium as Group 1 (carcinogenic to humans).  Cadmium related compounds are listed by OSHA as a carcinogen, see 29 CFR 1910.1027.
+
+Reproductive Toxicity:  Category 1A; lead crosses the placenta and may affect the fetus causing birth defects, mental retardation, behavioral disorders, and death during the first year of childhood.
+
+Specific Target Organ Toxicity, Single Exposure:  Not classified.
+
+Specific Target Organ Toxicity, Repeated Exposure:  Category 2; lead can accumulate in body tissues.  Cadmium is highly cumulative and respiratory effects may include respiratory cancers, irreversible kidney damage, ulceration of the nasal septum, teeth discoloration, and abnormal lung function.
+
+Aspiration Hazard:  Not applicable.
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity Data:
+
+	Zinc sulfide:	Water flea (Daphnia magna) LC50 [static]: 970 mg/L (48 h)
+
+		Fathead minnow (Pimephales promelas) LC50 [static]: 1826 mg/L (96 h)
+
+	Iron sulfide:	No ecotoxicity data available.
+
+	Lead sulfide:	No ecotoxicity data available.
+
+	Cadmium sulfide:	Water flea (Daphnia magna) LC50 [static]: 11 ug/L (48 h)
+
+Persistence and Degradability:  No data available.
+
+Bioaccumulative Potential:  No data available.
+
+Mobility in Soil:  No data available.
+
+Other Adverse effects:  No data available.
+
+13. DISPOSAL CONSIDERATIONS
+
+Waste Disposal:  Dispose in accordance with all applicable federal, state, and local regulations.  Subject to disposal regulations: U.S. EPA 40 CFR 262.  Hazardous Waste Number(s): iron sulfide (D003); lead sulfide (D001 and D008 for concentrations at or above the Regulatory level of 5.0 mg/L).
+
+14. TRANSPORTATION INFORMATION
+
+	U.S. DOT and IATA:  Not regulated by DOT or IATA.
+
+15. REGULATORY INFORMATION
+
+U.S. Regulations
+
+		CERCLA Sections 102a/103 (40 CFR 302.4):  Lead sulfide, 10 lbs (4.54 kg) final RQ
+
+		SARA Title III Section 302 (40 CFR 355.30):  Not regulated for this material.
+
+		SARA Title III Section 304 (40 CFR 355.40):  Not regulated for this material.
+
+	SARA Title III Section 313 (40 CFR 372.65):  1 % de minimis concentration (related to Zn compounds)
+
+		0.1 % supplier notification limit (related to Pb inorganic compounds)
+
+		0.1 % de minimis concentration (related to Cd compounds)
+
+		OSHA Process Safety (29 CFR 1910.119):  Not regulated.
+
+		SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21):
+
+	ACUTE HEALTH:	Yes
+
+	CHRONIC HEALTH:	Yes
+
+	FIRE:	No
+
+	REACTIVE:	No
+
+	PRESSURE:	No
+
+	State Regulations:  California Proposition 65:  WARNING! This product contains chemicals known to the state of California to cause cancer (inorganic Pb and Cd compounds) and reproductive/developmental effects (inorganic Pb compounds).
+
+U.S. TSCA Inventory:  Zinc sulfide, iron sulfide, lead sulfide, and cadmium sulfide are listed.
+
+TSCA 12(b), Export Notification:  Not listed.
+
+Canadian Regulations:  WHMIS Information: Not provided for this material.
+
+16. OTHER INFORMATION
+
+	Issue Date:	08 April 2014
+
+	Sources:	ChemAdvisor, Inc., MSDS Zinc Sulfide, 23 December 2013.
+
+		ChemAdvisor, Inc., MSDS Ferrous Sulfide, 23 December 2013.
+
+		ChemAdvisor, Inc., MSDS Lead Sulfide, 23 December 2013.
+
+		ChemAdvisor, Inc., MSDS Cadmium Sulfide, 23 December 2013.
+
+	U.S. National Institutes of Health (NIH), Health & Human Services (HHS), Hazardous Substances Data Bank (HSDB), Zinc Sulfide CAS# 1314-98-3; available at
+http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB (accessed April 2014).
+
+	NIH, HHS, HSDB, Cadmium Sulfide CAS# 1306-23-6; 
+available at http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB (accessed April 2014).
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Key of Acronyms: 
+
+ACGIH
+
+American Conference of Governmental Industrial Hygienists
+
+NTP 
+
+National Toxicology Program
+
+CAS 
+
+Chemical Abstracts Service 
+
+OSHA 
+
+Occupational Safety and Health Administration 
+
+CERCLA 
+
+Comprehensive Environmental Response, Compensation, and Liability Act 
+
+PEL 
+
+Permissible Exposure Limit
+
+CFR 
+
+Code of Federal Regulations 
+
+RCRA 
+
+Resource Conservation and Recovery Act 
+
+DOT 
+
+Department of Transportation 
+
+REL 
+
+Recommended Exposure Limit 
+
+EINECS
+
+European Inventory of Existing Commercial Chemical Substances 
+
+RQ 
+
+Reportable Quantity 
+
+EPCRA 
+
+Emergency Planning and Community Right-to-Know Act 
+
+RTECS
+
+Registry of Toxic Effects of Chemical Substances
+
+IARC 
+
+International Agency for Research on Cancer 
+
+SARA 
+
+Superfund Amendments and Reauthorization Act 
+
+IATA 
+
+International Air Transportation Agency 
+
+SCBA 
+
+SelfContained Breathing Apparatus 
+
+IDLH 
+
+Immediately Dangerous to Life and Health 
+
+STOT
+
+Specific Target Organ Toxicity
+
+LC50
+
+Lethal Concentration 
+
+SRM 
+
+Standard Reference Material 
+
+LD50
+
+Median Lethal Dose or Lethal Dose, 50 %
+
+STEL 
+
+Short Term Exposure Limit 
+
+LEL 
+
+Lower Explosive Limit 
+
+TLV 
+
+Threshold Limit Value 
+
+MSDS 
+
+Material Safety Data Sheet 
+
+TPQ 
+
+Threshold Planning Quantity 
+
+NFPA 
+
+National Fire Protection Association 
+
+TSCA 
+
+Toxic Substances Control Act 
+
+NIOSH 
+
+National Institute for Occupational Safety and Health 
+
+TWA 
+
+Time Weighted Average 
+
+NIST
+
+National Institute of Standards and Technology
+
+UEL 
+
+Upper Explosive Limit 
+
+n.o.s.
+
+Not Otherwise Specified
+
+WHMIS
+
+Workplace Hazardous Materials Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the data in the SDS.  The values for this material are given in the NIST Certificate of Analysis.
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+SRM 113b		Page 1 of 7

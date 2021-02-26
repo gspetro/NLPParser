@@ -1,0 +1,568 @@
+﻿ 
+
+ 
+
+ 
+ 
+
+Date of Issue: 
+31 May 2018 
+
+ 
+SAFETY DATA SHEET 
+
+1. SUBSTANCE AND SOURCE IDENTIFICATION  
+
+Product Identifier 
+SRM Number: 
+SRM Name: 
+Other Means of Identification:  Not applicable. 
+
+2886 
+Polyethylene (Mass-Average Molar Mass [MW] 87 000 g/mol) 
+
+Recommended Use of This Material and Restrictions of Use 
+
+This Standard Reference Material (SRM) is intended primarily for use in calibration and performance evaluation 
+of instruments used to determine the molar mass, and molar mass distribution by size exclusion chromatography.  
+A unit of SRM 2886 consists of approximately 0.3 g of polyethylene powder. 
+
+Company Information 
+
+National Institute of Standards and Technology 
+Standard Reference Materials Program 
+100 Bureau Drive, Stop 2300 
+Gaithersburg, Maryland 20899-2300 
+ 
+Telephone:  301-975-2200 
+FAX:  301-948-3730 
+E-mail:  SRMMSDS@nist.gov 
+Website:  http://www.nist.gov/srm 
+
+ 
+ 
+ 
+ 
+ 
+Emergency Telephone ChemTrec: 
+  1-800-424-9300 
+ +1-703-527-3887 
+ 
+
+(North America) 
+(International) 
+
+2. HAZARDS IDENTIFICATION 
+
+Classification  
+
+Physical Hazard: 
+Health Hazard: 
+ 
+
+Label Elements 
+
+Not classified. 
+Not classified. 
+
+Symbol:  No Symbol 
+
+Signal Word:  No Signal Word 
+
+Hazard Statement(s):  Not applicable. 
+
+Precautionary Statement(s):  Not applicable. 
+
+Hazards Not Otherwise Classified:  Not applicable. 
+
+Ingredients(s) with Unknown Acute Toxicity:  Not applicable. 
+
+3. COMPOSITION AND INFORMATION ON HAZARDOUS INGREDIENTS 
+
+Substance:  Polyethylene 
+
+Other Designations:  Ethene, homopolymer; ethylene, polymers; polyethene 
+
+Components are listed in compliance with OSHA’s 29 CFR 1910.1200. 
+
+Hazardous Component(s) 
+
+CAS Number 
+
+Polyethylene  
+
+ 
+
+9002-88-4 
+
+618-339-3 
+
+ 
+
+EC Number 
+(EINECS) 
+
+Nominal Mass 
+Concentration 
+(%) 
+100 
+
+SRM 2886 
+
+ 
+
+Page 1 of 5 
+
+ 
+
+4. FIRST AID MEASURES 
+
+Description of First Aid Measures:  
+
+Inhalation:  If adverse effects occur, remove to uncontaminated area.  If not breathing, give artificial respiration 
+or oxygen by qualified personnel.  Seek immediate medical attention. 
+Skin Contact:  Wash skin with soap and water. 
+Eye Contact:  Flush eyes with water for at least 15 minutes.  If necessary, seek medical attention. 
+Ingestion:  If adverse effects occur after ingestion, seek medical treatment. 
+
+Most Important Symptoms/Effects, Acute and Delayed:  May aggravate respiratory disorders. 
+
+Indication of any immediate medical attention and special treatment needed, if necessary:  If any of the above 
+symptoms are present, seek medical attention if needed. 
+
+5. FIRE FIGHTING MEASURES 
+
+Fire and Explosion Hazards:  Negligible fire hazard in bulk form.  Dust/air mixtures may ignite or explode.  Avoid 
+generating dust.  See Section 9, “Physical and Chemical Properties” for flammability properties. 
+
+Extinguishing Media: 
+ 
+ 
+
+Suitable:  Regular dry chemical, carbon dioxide, water, regular foam. 
+Unsuitable:  None listed. 
+
+Specific Hazards Arising from the Chemical:  None listed. 
+
+Special  Protective  Equipment and  Precautions  for  Fire-Fighters:   Avoid  inhalation  of  material  or  combustion 
+byproducts.  Wear full protective clothing and NIOSH approved self-contained breathing apparatus (SCBA). 
+
+NFPA Ratings (0 = Minimal; 1 = Slight; 2 = Moderate; 3 = Serious; 4 = Severe) 
+ 
+
+Reactivity = 0 
+
+Health = 1 
+
+Fire = 1 
+
+6. ACCIDENTAL RELEASE MEASURES 
+
+Personal Precautions, Protective Equipment and Emergency Procedures:  Any accumulated material on surfaces 
+should be removed and properly disposed of.  Use suitable protective equipment; see Section 8, “Exposure Controls 
+and Personal Protection”. 
+
+Methods  and  Materials  for  Containment  and  Clean  up:    Collect  spilled  material  in  appropriate  container  for 
+disposal.  Keep out of water supplies and sewers.  Keep unnecessary people away, isolate hazard area and deny entry. 
+
+7. HANDLING AND STORAGE 
+
+Safe Handling Precautions:  Minimize dust generation and accumulation on surfaces.  Routine housekeeping should 
+be instituted to ensure that dust does not accumulate on surfaces.  See Section 8, “Exposure Controls and Personal 
+Protection”.  Avoid contact with incompatible materials (see Section 10, “Stability and Reactivity”). 
+
+Storage:  Store and handle in accordance with all current regulations and standards. 
+
+8. EXPOSURE CONTROLS AND PERSONAL PROTECTION 
+
+Exposure Limits:  This material is a particulate matter and adequate inhalation/respiratory protection should be used 
+to minimize exposure.  No occupational exposure limits have been established for this fine particulate matter.  The 
+exposure limits for Particulates Not Otherwise Regulated are applicable. 
+
+OSHA (PEL):  15 mg/m3 (TWA, total particulates) 
+
+ 
+
+5 mg/m3 (TWA, respirable particulates) 
+
+Engineering  Controls:    Provide  local  exhaust  or  process  enclosure  ventilation  system.    Ensure  compliance  with 
+applicable exposure limits. 
+
+Personal Protection:  In accordance with OSHA 29 CFR 1910.132, subpart I, wear appropriate Personal Protective 
+Equipment (PPE) to minimize exposure to this material. 
+
+Respiratory Protection:  If workplace conditions warrant a respirator, a respiratory protection program that meets 
+OSHA 29CFR 1910.134 must be followed.  Refer to NIOSH 42 CFR 84 for applicable certified respirators. 
+
+SRM 2886 
+
+ 
+
+Page 2 of 5 
+
+Eye/Face Protection:  Wear splash resistant safety goggles with a face shield.  An eye wash station should be 
+readily available near areas of use. 
+
+Skin and Body Protection:  Personal protective equipment for the body should be selected based on the task 
+being  performed  and  the  risks  involved  and  should  be  approved  by  a  specialist  before  handling  this  product.  
+Chemical-resistant gloves should be worn at all times when handling chemicals. 
+
+9.  PHYSICAL AND CHEMICAL PROPERTIES 
+
+Descriptive Properties 
+
+Polyethylene 
+
+ 
+
+ 
+
+Appearance (physical state, color, etc.) 
+Molecular Formula 
+Molar Mass (g/mol) 
+Odor 
+Odor threshold 
+pH 
+Evaporation rate 
+Melting point/freezing point (°C) 
+Density (specific gravity, water = 1) 
+Vapor Pressure 
+Vapor Density (air = 1) 
+Viscosity (cP) 
+Solubility(ies) 
+
+Partition coefficient (n-octanol/water) 
+Nominal Particle Size 
+Thermal Stability Properties 
+
+Autoignition Temperature (°C) 
+Thermal Decomposition 
+Initial boiling point and boiling range 
+Explosive Limits, LEL (Volume %) 
+Explosive Limits, UEL (Volume %) 
+Flash Point 
+Flammability (solid, gas) 
+
+10.  STABILITY AND REACTIVITY 
+
+white opaque powder 
+(C2H4)X 
+not available 
+not available 
+not available 
+not available 
+not available 
+85 - 110 (185 - 230 °F) 
+0.91 - 0.96 
+not available 
+not available 
+not available 
+insoluble in water; soluble in turpentine, naphtha, 
+xylene, toluene, hot trichloroethylene, hot mineral 
+oils; slightly soluble in methyl acetate, acetone 
+not available 
+not available 
+ 
+349 (660 °F) 
+not available 
+not available 
+not available 
+not available 
+not available 
+not available 
+
+Reactivity:  Stable at normal temperatures and pressure. 
+
+Stability: 
+
+X 
+
+Stable 
+
+ 
+
+Unstable 
+
+Possible Hazardous Reactions:  None listed. 
+
+Conditions to Avoid:  Avoid generating dust.  Avoid heat, flames, sparks and other sources of ignition.  Avoid contact 
+with incompatible materials.  
+
+Incompatible Materials:  Combustible materials, halo carbons, halogens, oxidizing materials, acids. 
+
+Fire/Explosion Information:  See Section 5, “Fire Fighting Measures”. 
+
+Hazardous Decomposition:  Thermal decomposition may produce acrolein, formaldehyde, oxides of carbon. 
+
+Hazardous Polymerization: 
+ 
+ 
+
+ 
+
+  Will Occur 
+
+X  Will Not Occur 
+
+SRM 2886 
+
+ 
+
+Page 3 of 5 
+
+11. TOXICOLOGICAL INFORMATION 
+
+ 
+Route of Exposure: 
+
+X 
+
+Inhalation 
+
+X 
+
+Skin 
+
+ 
+
+Ingestion 
+
+Symptoms  Related  to  the  Physical,  Chemical  and  Toxicological  Characteristics:    May  aggravate  respiratory 
+disorders.   
+
+Potential Health Effects (Acute, Chronic, and Delayed) 
+
+Inhalation:  Acute exposure may result in mechanical irritation.  No data listed for chronic exposure. 
+Skin Contact:  Acute exposure may cause mechanical irritation.  No data listed for chronic exposure. 
+Eye Contact:  May cause mechanical irritation.  No data listed for chronic exposure. 
+Ingestion:  May cause irritation.  No data listed for chronic exposure. 
+
+Listed as a Carcinogen/Potential Carcinogen 
+
+ 
+
+Yes 
+
+X  No 
+
+Polyethylene is not listed by OSHA, IARC, or NTP as a carcinogen/potential carcinogen.   
+
+Tumorigenic:  Not classified. 
+  Rat, Implant TDLo: 33 mg/kg 
+Mutagenic:  Not classified 
+
+Reproductive Toxicity:  Not classified. 
+
+Specific Target Organ Toxicity, Single Exposure:  No data available. 
+
+Specific Target Organ Toxicity, Repeated Exposure:  No data available. 
+
+Numerical Measures of Toxicity 
+
+Acute Toxicity:  Not classified. 
+
+Rat, Inhalation LD50: 75.5 gm/m3 (30 m) 
+
+Skin Corrosion/Irritation:  Not classified. 
+
+Serious Eye Damage/Eye Irritation:  Not classified. 
+
+Respiratory Sensitization:  Not classified. 
+
+Skin Sensitization:  Not classified. 
+
+Germ Cell Mutagenicity:  Not classified. 
+
+Carcinogenicity:  Not classified. 
+
+Aspiration hazard:  Not applicable. 
+
+12. ECOLOGICAL INFORMATION 
+
+Ecotoxicity Data:  No data available for polyethylene. 
+
+Persistence and Degradability:  No data available. 
+
+Bioaccumulative Potential:  No data available. 
+
+Mobility in Soil:  No data available. 
+
+Other Adverse effects:  No data available. 
+
+13. DISPOSAL CONSIDERATIONS 
+
+14. TRANSPORTATION INFORMATION 
+
+U.S. DOT and IATA:  Not regulated by DOT or IATA. 
+
+ 
+
+ 
+
+Waste Disposal:  Dispose of waste in accordance with all applicable federal, state, and local regulations. 
+
+SRM 2886 
+
+ 
+
+Page 4 of 5 
+
+15. REGULATORY INFORMATION 
+
+U.S. Regulations: 
+
+CERCLA Sections 102a/103 (40 CFR 302.4):  Not regulated. 
+SARA Title III Section 302 (40 CFR 355.30):  Not regulated. 
+SARA Title III Section 304 (40 CFR 355.40):  Not regulated. 
+SARA Title III Section 313 (40 CFR 372.65):  Not regulated. 
+OSHA Process Safety (29 CFR 1910.119):  Not regulated. 
+SARA Title III Sections 311/312 Hazardous Categories (40 CFR 370.21): 
+No 
+No 
+No 
+No 
+No 
+
+ACUTE HEALTH: 
+CHRONIC HEALTH: 
+FIRE: 
+REACTIVE: 
+PRESSURE: 
+
+State Regulations: 
+
+California Proposition 65:  Not listed. 
+
+U.S. TSCA Inventory:  Polyethylene is listed. 
+
+TSCA 12(b), Export Notification:  Not listed. 
+
+Canadian Regulations:  WHMIS Information is not provided for this material. 
+
+Sources: 
+
+ChemADVISOR, Inc., SDS, Polyethylene, 20 March 2015. 
+
+16. OTHER INFORMATION 
+
+Issue Date: 
+
+31 May 2018 
+
+ 
+
+ 
+
+Key of Acronyms: 
+
+ACGIH 
+
+ALI 
+CAS  
+CERCLA  
+
+CFR  
+DOT  
+EC50 
+EINECS 
+
+EPCRA  
+
+IARC  
+IATA  
+IDLH  
+LC50 
+LD50 
+LEL  
+MSDS  
+NFPA  
+NIOSH  
+NIST 
+
+NRC 
+
+NTP  
+OSHA  
+PEL  
+
+RCRA  
+REL  
+RM 
+RQ  
+
+American Conference of Governmental Industrial 
+Hygienists 
+Annual Limit on Intake 
+Chemical Abstracts Service  
+Comprehensive Environmental Response, 
+Compensation, and Liability Act  
+Code of Federal Regulations  
+Department of Transportation  
+Effective Concentration, 50 % 
+European Inventory of Existing Commercial 
+Chemical Substances  
+Emergency Planning and Community Right-to-Know 
+Act  
+SARA  
+International Agency for Research on Cancer  
+SCBA  
+International Air Transport Association  
+SRM  
+Immediately Dangerous to Life and Health  
+STEL  
+Lethal Concentration, 50 %  
+TLV  
+Lethal Dose, 50 % 
+TPQ  
+Lower Explosive Limit  
+TSCA  
+Material Safety Data Sheet  
+National Fire Protection Association  
+TWA  
+National Institute for Occupational Safety and Health   UEL  
+National Institute of Standards and Technology 
+
+RTECS 
+
+WHMIS 
+
+Nuclear Regulatory Commission 
+
+National Toxicology Program 
+Occupational Safety and Health Administration  
+Permissible Exposure Limit 
+
+Resource Conservation and Recovery Act  
+Recommended Exposure Limit  
+Reference Material 
+Reportable Quantity  
+
+Registry of Toxic Effects of Chemical Substances 
+
+Superfund Amendments and Reauthorization Act  
+Self-Contained Breathing Apparatus  
+Standard Reference Material  
+Short Term Exposure Limit  
+Threshold Limit Value  
+Threshold Planning Quantity  
+Toxic Substances Control Act  
+Time Weighted Average  
+Upper Explosive Limit  
+Workplace Hazardous Materials Information System 
+
+ 
+Disclaimer:  Physical and chemical data contained in this SDS are provided only for use in assessing the hazardous 
+nature of the material.  The SDS was prepared carefully, using current references; however, NIST does not certify the 
+data in the SDS.  The certified values for this material are given in the NIST Certificate of Analysis. 
+
+Users of this SRM should ensure that the SDS in their possession is current.  This can be accomplished by contacting 
+the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srmmsds@nist.gov; or via the Internet at 
+https://www.nist.gov/srm. 
+
+SRM 2886 
+
+ 
+
+Page 5 of 5 
+
+
