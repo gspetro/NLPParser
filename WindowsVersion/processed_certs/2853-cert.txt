@@ -1,0 +1,172 @@
+﻿National Institute of Standards & Technology 
+ 
+
+ 
+
+σ = 27.6 Am2/kg ± 0.1 Am2/kg   (27.6 emu/g ± 0.1 emu/g) 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2853 
+ 
+Magnetic Moment Standard - Yttrium Iron Garnet Sphere 
+ 
+This Standard Reference Material (SRM) is intended for us e in the calibration of magnetometers (such as vibrating 
+sample magnetometers) used in the measurement of the ma gnetic properties of materials.  SRM 2853 consists of a 
+yttrium iron garnet (YIG) sphere with a nominal diameter of 1 mm and a nominal mass 2.8 mg .  The SRM 2853 lot 
+was produced by grinding pure (99.5 %), single-crystal YIG into spheres.  
+ 
+Certified Values and Uncertainty:   The certified value for the specific magnetization,  σ, at 298 K in an applied 
+magnetic field of 398 kA/m (5000 Oe) is: 
+ 
+ 
+ 
+The uncertainty in the certified value is calculated as  U = kuc, where k = 2 is the coverage factor for a 95 % level of 
+confidence, and  uc is the combined standard uncertainty calculated  and expressed in accordance with References 1, 
+2, and 3. 
+ 
+Corrections for temperature can be made using the equation: 
+ 
+ 
+ 
+where  σ is the specific magnetization in Am 2/kg and T is the temperature in kelvins.  Using this correction, the 
+stated uncertainty remains unchanged over the temperature range from 293 K to 303 K, providing the temp erature is 
+measured to an accuracy of ± 0.5 K.   For temperatures between 250 K and 293 K, and between 303 K and 310 K, 
+the uncertainties are approximately doubled.  No correctio
+n for the applied field is n ecessary for fields between 
+100 kA/m (1250 Oe) and 800 kA/m (10 kOe).  To determine the magnetic moment,  m, in Am2, multiply the specific 
+magnetization in Am2/kg determined from Equation 2 by the SRM mass in kg.  The mass value of each SRM, at the 
+time of its packaging, is provided with the unit (see note below).  
+ 
+Expiration of Certification:  The certification of this SRM within th e measurement uncertainties specified is valid 
+indefinitely, provided the SRM is used in accordance with
+discoloration of the SRM is visible, discard the SRM. 
+ 
+Certification of this SRM was performe d by R.D. Shull, R.D. McMichael, and L.J. Swartzendruber of the NIST 
+Metallurgy Division. 
+ 
+Statistical analysis and measurement advice were provide
+Division. 
+ 
+The support aspects involved in the preparation, certifica tion, and issuance of this SRM were coordinated through 
+the NIST Standard Reference Materials Program by J.M. Adams.  
+ 
+
+d by S.D. Leigh of the NIST Statistical Engineering 
+
+ the instructions in this certificate.  If damage or 
+
+σ = 27.6 [1 – 0.0021 (T – 298)] 
+
+(2) 
+
+(1) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  20 May 2002 
+
+Carol A. Handwerker, Chief 
+Metallurgy Division 
+ 
+John Rumble, Jr., Acting Chief 
+Standard Reference Materials Program 
+
+SRM 2853 
+
+ 
+
+Page 1 of 2 
+
+provided by L.H. Bennett, D. Mathews, L.C. Smith, G.E. Hicho, 
+
+Technical advice and assistance were 
+F. Biancaniello, R.L. Park, J.G. Hodos, and R.V. Drew  of the NIST Metallurgy Division, and H.E. Metger of the 
+NIST Fabrication Technology Division. 
+ 
+The YIG spheres were prepared from pure, single-crystal YIG by Deltronic Crystal Industries, Inc., Dover, NJ. 
+ 
+Measurement Technique:   The magnetic moment was determined by a sampling technique using an absolute 
+magnetometer that was developed at NIST and is based  on the Faraday method.  The magnetometer was calibrated 
+using three different methods to determine the value of the field gradient.  
+ 
+Storage and Handling:  When not in use, store SRM 2853 in the packaging provided, or in a manner that prov ides 
+equivalent or better protection against loss or damage.  The sphere should be carefully handled to avoid scratching,
+ 
+chipping, or the attachment of magnetic dust or particles from the environment.  The use of plastic or other 
+nonmagnetic tweezers with smooth surfaces an
+corrosive chemicals or temperatures above 373 K (100 °C).  
+ 
+NOTE ON MASS VALUES:  NIST DOES NOT certify the mass of ferromagnetic materials.  Mass values for this 
+series of SRMs were determined in a magnetically shie lded electrobalance calibrated  using standards traceable to 
+NIST.  Because the YIG sphere is ferromagnetic, the pres ence of small magnetic fields can influence the measured 
+mass value.  The value given has an expanded uncertainty of ± 3 μg (with a coverage factor of 2).  
+ 
+NOTE ON UNITS:  One oersted (Oe) corresponds to 1000/4π A/m.  For additional discussion on units of measure, 
+refer to References 4 and 5. 
+ 
+
+d a gentle grip is satisfactory.  
+
+DO NOT  expose the SRM to 
+
+REFERENCES 
+ 
+
+[1]   Guide to the Expression of Uncertainty in Measurement
+
+; 92-67-10188-9, 1st Ed, ISO, Geneva, Switzerland 
+(1993); see also Taylor, B.N.; Kuyatt C.E.;  Guidelines for Evaluating and Expressing Uncertainty of NIST 
+Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office, Washington, DC (1994); 
+available at http://physics.nist.gov/Pubs/. 
+
+[2]  Guide to the Expression of Uncertainty in Measurement
+Standards Laboratories Boulder, CO (1997/1998). 
+
+; ANSI/NCSL Z540-2-1997, National Conference of 
+
+[3]   Ruhkin, AL.; Vangel, M.G.;  Estimation of a Common Mean and Weighted Means Statistics
+
+; Journal of the 
+
+American Statistical Association, Vol. 93 No. 441, pp. 303-308 (1998). 
+
+[4]  Bennett, L.H.; Page, C. H.; Swartzendr uber, L.J.;  Comments on Units in Magnetism ; J. Res. Natl. Bur. Std., 
+
+Vol. 83(1), p. 9 (1978). 
+
+[5]   Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current. This can be accomplished by 
+contacting the SRM Program at:  tele phone (301) 975-6776; fax (301) 926-4 751; e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+
+SRM 2853 
+
+ 
+
+Page 2 of 2 
+
+

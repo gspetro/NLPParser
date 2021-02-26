@@ -1,0 +1,224 @@
+﻿National  Dnstitute  of  Standards  &  Tectmologp 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  330 
+Copper  Ore,  Mill  Heads 
+
+This  material  is  in  the  form  of  fine  powder  intended  for  use  both  in  checking  chemical  methods  of  analysis 
+and  in  calibration  of  instrumental  methods  of  analysis. 
+
+This  SRM  is  issued  primarily  for  use  in  evaluation  of  the  critically  important  "material  balance”  in  the  copper 
+mining  and  metallurgical  industries. 
+
+CAUTION:  The  bottle  should  be  kept  tightly  closed  except  when  in  direct  use.  Store  in  a  desiccator  over 
+desiccant. 
+
+Constituent 
+
+Certified  Value  2° 
+
+Total  Copper 
+Molybdenum 
+
+Rhenium 
+
+Table  1. 
+
+Certified 
+
+Values 
+
+Percent  by  Weight 
+
+ppm  by  Weight 
+
+0.84 
+0.018 
+
+0,30 
+
+Estimated 
+Uncertainty® 
+
+0.01 
+0.001 
+
+0.06 
+
+‘Based  on  samples  dried  at  105  °C  for  two  hours.  Separate  samples  are  used  for  rhenium  and  calculated  to  a  dry-weight  basis. 
+
+e  certified  value  is  the  best  estimate  of  the  "true"  value. 
+
+“Estimated  uncertainty  includes  both  method  imprecision  and  material  variability  with  samples  0.5  g  (or  more)  for  total  copper,  1.0  g  (or 
+more)  for  molybdenum,  and  2.5  g  (or  more)  for  rhenium. 
+
+Homogeneity  testing  of  selected  samples  representative  of  the  lot  of  SRM  330  was  performed  simultaneously 
+with  the  analytical  program  for  certification.  At  NIST,  0.5  g  samples  showed  the  maximum  variability  for  total 
+copper  to  be  +  0.010  percent. 
+At  Magma,  2.5  g  samples  showed  the  maximum  variability  to  be  +  0.01 
+percent. 
+
+This  Certificate  of Analysis  has  undergone  editorial  revision  to  reflect program  and  organizational  changes  at  NIST 
+and  at  the  Department  of  Commerce.  No  attempt  was  made  to  reevaluate  the  certificate  value  or  any  technical 
+data  presented  in  this  certificate. 
+
+Gaithersburg,  MD  20899 
+August  1,  1991 
+(Revision  of  Certificate 
+dated  1-20-77) 
+
+(over)
+
+William  P.  Reed,  Chief 
+
+Standard  Reference  Materials Program 
+
+  
+
+PLANNING,  PREPARATION,  TESTING,  ANALYSIS:  The  material  for  this  SRM  (330)  was  carefully 
+selected  and  provided  to  NIST  by  Magma  Copper  Company,  San  Manuel,  Arizona,  through  the  courtesy  of 
+T.L.  Young. 
+
+At  NIST  this  material  was  sieved  and  thoroughly  blended,  which  involved  several  independent  procedures. 
+
+Cooperative  analyses  were  performed  at  the  Magma  Copper  Company,  San  Manuel,  Arizona,  by  B.  Cripe,  R.L. 
+Culder,  A.B.  Hall,  D.A.  Shah,  J.T.  Tadano,  and  M.  Toelkes. 
+
+Analyses  were  performed  in  the  NIST  Analytical  Chemistry  Division  by  E.L.  Garner,  J.W.  Gramlich,  L.A. 
+Machlan,  E.J.  Maienthal,  J.R.  Moody,  and  T.J.  Murphy. 
+
+The  following  values  indicate  the  results  of  the  analytical  tests  made  at  NIST  and  the  Magma  Copper 
+Company. 
+
+Constituent/Method 
+
+Average 
+
+Standard 
+Deviation! 
+
+Number  of 
+Determinations 
+
+Total  Copper 
+
+Percent  by  Weight 
+
+Isotopic  dilution  mass  spectrometry” 
+(0.5  g  samples) 
+Polarographic  (0.5  g  samples) 
+Iodometric  (2.5  g  samples)* 
+
+0.837 
+
+0.85 
+0.85 
+
+0.007 
+
+0.01 
+0.01 
+
+8 
+
+3 
+21 
+
+Molybdenum 
+
+Range 
+
+Isotopic  dilution  mass  spectrometry” 
+(1  g  samples) 
+
+.0180 
+
+0.0001 
+
+2 
+
+Rhenium 
+
+Isotopic  dilution  mass  spectrometry” 
+(2.5  g  samples) 
+
+ppm  by  Weight 
+
+0.303 
+
+0.054 
+
+6 
+
+log  single  determinations  for  total  Cu;  range  given  for  Mo  and  Re. 
+
+is  method  has  been  studied  extensively  and  the  data  are  considered  free  from  systematic  errors  [1]. 
+
+Results  from  Magma  Copper  Company. 
+
+The  overall  direction  and  coordination  of  the  technical  measurements  at  NIST  leading  to  certification  were 
+performed  under  the  direction  of  W.R.  Shields  and  LL.  Barnes. 
+
+The  technical  and  support  aspects  involved  in  the  original  preparation,  certification,  and  issuance  of  this 
+Standard  Reference  Material  were  coordinated  through  the  Standard  Reference  Materials  Program  by  R.E. 
+Michaelis.  Revision  of  the  certificate  was  coordinated  through  the  Standard  Reference  Materials  Program  by 
+JS.  Kane.
+
+ADDITIONAL  INFORMATION  ON  THE  COMPOSITION:  Certification  is  made  only  for  total  Cu,  Mo, 
+and  Re.  Although  NOT  CERTIFIED,  the  following  additional  information  on  the  composition  may  be  of 
+interest. 
+
+Fire  assay  determinations  for  Au  and  Ag  were  made  at  Magma  Copper  Company: 
+
+Gold  _and_  Silver 
+
+Weight 
+ppm  by 
+
+Gold 
+
+(0.093) 
+
+Silver 
+
+(1.51) 
+
+Fire  assay 
+
+“Acid-Soluble”  _ Copper 
+
+The  total  copper  content  includes  "recoverable"  sulfide  copper  and  "“nonrecoverable"  oxide  copper.  Industrial 
+practice  is 
+the  oxide  copper  content. 
+Investigation  at  NIST  provided  additional  information  on  "acid-soluble"  copper  that  may  be  useful,  but  is  not 
+certified: 
+
+to  determine  “acid-soluble”  copper  and  to  relate  this  result  to 
+
+Constituent/Method 
+
+Average 
+
+Range 
+
+Number  of 
+Determinations 
+
+"Acid-Soluble"”  Copper 
+Isotopic  dilution  mass 
+spectrometry  (2.5  g  samples) 
+
+Percent  by  Weight 
+
+(0.069) 
+
+(0.063-0.081) 
+
+9 
+
+[i]  W.R.  Shields,  Editor,  Nat.  Bur.  Stand.  Tech.  Note  546,  (1970).
+
+REFERENCES 
+
+

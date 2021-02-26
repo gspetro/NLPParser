@@ -1,0 +1,129 @@
+﻿oe 
+&/ 
+
+ 
+"
+a
+
+ 
+a
+
+Stary oF 
+
+National  institute  of  Standards  &  Uerhnology 
+
+Certiftcale  of  Analysis 
+
+Standard  Reference  Material  2289 
+
+t-Amyl-methyl  Ether  in  Reference  Gasoline 
+(Nominal  2.7  Weight  Percent  Oxygen) 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  as  a  primary  standard  for  the  calibration  of 
+instruments  used  for  the  determination  of  the  oxygen  content  of  motor  fuels. 
+It  consists  of  a  solution  of  t-amyl-methyl 
+ether  (Chemical  Abstracts  Service  (CAS)  Registry  Number  994-05-8)  in  a  reference  gasoline.  Certified  concentrations 
+are  provided  for  t-amyl-methyl  ether  and  oxygen.  A  unit  of  SRM  2289  consists  of  two  20  mL  ampoules  of  the  t-amyl- 
+methyl  ether  in  reference  gasoline  solution,  each  containing  approximately  18  mL,  and  one  20  mL  ampoule  containing 
+approximately  18  mL  of  the  reference  gasoline,  intended  for  use  as 
+
+a  measurement  blank. 
+
+Certified  Concentrations:  The  certified  concentrations  and  estimated  uncertainties  for  t-amyl-methyl  ether  and  oxygen 
+are  given  below.  These  concentrations  are  based  on  results  obtained  from  the  gravimetric  preparation  of  the  solution  of 
+t-amyl-methy!  ether in  gasoline  and  from  the  analytical  results  determined  using  gas  chromatography,  corrected  for 
+impurities. 
+
+Component 
+
+t-Amyl-methyl  Ether 
+Oxygen 
+
+Wt  % 
+(2/100  g  Solution) 
+
+17.30  +  0.20 
+0.04 
+2.73  + 
+
+Uncertainty:  The  uncertainty  of  each  value  on  this  document  is  the  numerical  value  of  an  expanded  uncertainty  U=  ku, 
+with  U  determined  from  a  combined  standard  uncertainty  u,  and  a  coverage  factor, 
+k  =  2.  The  expanded  uncertainty 
+defines  a  range  of  values  for  the  certified  value  within  which  the  true  value  is  believed  to  lie,  at  a  level  of  confidence  of 
+95%  [1]. 
+
+NOTICE  AND  WARNING  TO  USERS 
+
+Handling  and  Storage:  Provide  local  exhaust  or  general  dilution  ventilation  to  meet  published  exposure  limits.  Those 
+handling  gasoline  should  wear  appropriate  clothing  and  gloves  to  prevent  skin  contact  with  this  material  and  splash-proof 
+Store  in  a  cool,  dry,  and  well-ventilated  area  away  from 
+or  dust  resistant  safety  goggles  to  prevent  eye  contact. 
+incompatible  materials  and  prevent  contact  with  heat  sparks  or  open  flame. 
+Protect  ampoules  from  physical  damage. 
+Please  read  the  MSDS  for  this  material  before  use. 
+
+Analytical  determinations  were  performed  by  $.N.  Chesler  and  T.L.  Green  of  the  NIST  Analytical  Chemistry  Division.  The 
+coordination  of the  technical  measurements  leading  to  certification  was  under  the  direction  of  S.N.  Chesler  and  F.R.  Guenther 
+of  the  NIST  Analytical  Chemistry  Division.  Data  analysis  was  provided  by  D.  Duewer  of  the  NIST  Analytical  Chemistry 
+Division  and  reviewed  by  K.  Eberhart  of  the  NIST  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were  coordinated 
+through  the  Standard  Reference  Materials  Program  by  T.E.  Gills  and  J.S.  Kane. 
+
+Gaithersburg,  MD  20899 
+January  25,  1995 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+(over)
+
+Expiration  of  Certification:  The  certified  values  are  valid,  within  the  limits  specified,  for  5  years  from  the  date  of 
+shipment  from  NIST.  In  the  event  that  the  certification  should  become  invalid  before  then,  purchasers  will  be  notified 
+by  NIST.  Please  return  the  attached  registration  card  to  facilitate  notification. 
+
+Use:  Sample  aliquots  for  analysis  should  be  withdrawn  at  20  to  25  °C  immediately  after  opening  the  ampoules  and  should 
+be  processed  without  delay  for  the  certified  values  to  be  valid  within  the  stated  uncertainty.  Because  of  the  volatility  of 
+some  of  the  components  in  the  reference  gasoline,  certified  values  are  not  applicable  to  material  stored  in  ampoules  that 
+have  been  opened  for  more  than  5  min,  even  if  they  are  resealed. 
+
+Preparation  and  Gravimetric  Analysis:  This  SRM  was  prepared  by  G.  Lew  of  Scott  Specialty  Gases  Inc.  at  Scott’s 
+facilities  in  Houston,  TX.  All  chemicals  used  in  the  preparation  of  this  material  were  obtained  from  commercial  sources. 
+The  reference  gasoline  was  obtained  from  Phillips  Petroleum,  Bartlesville,  OK  and  was  identified  as  RF-A.  HPLC  Grade 
+t-amyl-methyl  ether  was  obtained  from  Aldrich  Chemical  Co.,  Milwaukee,  WI. 
+
+This  SRM  was  prepared  by  additive  weighing  of  the  RF-A  gasoline  and  t-amyl-methyl  ether. 
+After  preparation  and 
+homogenization,  the  solution  was  aliquoted  into  20  mL  giass  ampoules  which  were  subsequently  flame  sealed.  The 
+gravimetrically  determined  concentration  of  t-amyl-methyl  ether  in  the  SRM  solution  was  (17.50  +  0.02)  2/100  g  solution. 
+
+Gas  Chromatographic  Analysis: 
+The  concentration  of  the  t-amyl-methyl  ether  in  the  SRM  solution  was  determined 
+by  capillary  column  gas  chromatography  using  flame  ionization  detection  (GC-FID).  Analysis  was  based  upon  the  ratio 
+of  the  elution  peak  area  of  t-amyl-methy!  ether  and  that  of  a  gasoline  component.  The  gasoline  component  selected  had 
+t-Amyl-methyl  ether  solution 
+a  large,  well-resolved  peak  with  a  similar  retention  time  to  t-amyl-methyl  ether. 
+concentration  was  calculated  from  a  calibration  curve  constructed  from  peak  area  ratios  for  unmodified  RF-A  gasoline 
+blank  and  NIST  gravimetrically  prepared  standards.  This  concentration  of  t-amyl-methyl  ether  in  the  SRM  solution  was 
+(17.55  +  0.12)  g/100  g  solution. 
+
+The  organic  purity  of  the  t-amyl-methyl  ether  was  also  determined  using  GC-FID.  Based  on  12  replicate  analyses,  it  was 
+determined  to  be  (98.79  +  0.04)%. 
+
+The  water  concentration  of the  SRM  solution  was  determined  by  capillary  column  gas  chromatography  using  atomic  emission 
+detection  (GC-AED)  in  oxygen-specific  mode.  Based  on 3  replicate  analyses,  it  was  determined  to  be  (0.02  +  0.01)  g/100¢ 
+SRM  solution.  The  concentration  of  oxygen  from  trace  organic  impurities  was  also  determined  using  GC-AED.  No 
+significant  oxygen-containing  impurities  other  than  water  were  found  in  this  SRM. 
+
+The  t-amyl-methyl  ether  content  in  the  SRM  solution  was  calculated  from  the  consensus  concentration  of  t-amy!-methyl 
+ether  in  the  SRM  solution,  with  corrections  for  both  water  and  organic  purity.  The  molecular  oxygen  content  in  the  SRM 
+was  calculated  from  the  sum  of  the  corrected  t-amyl-methy]  ether  concentration  and  water  concentration. 
+
+REFERENCE 
+
+[1] 
+
+"Guide  to  the  Expression  of  Uncertainty  in  Measurement",  ISBN  92-67-10188-9  Ist  Ed.  ISO,  Geneva,  Switzerland, 
+(1993).
+
+

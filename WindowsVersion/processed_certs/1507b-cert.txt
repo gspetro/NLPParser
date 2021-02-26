@@ -1,0 +1,382 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 1507b 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+11-Nor-Delta-9-Tetrahydrocannabinol-9-Carboxylic Acid in Freeze-Dried Urine 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  verifying  the  accuracy  of methods used for the 
+determination  of  11-nor-delta-9-tetrahydrocannabinol-9-carboxylic  acid (THC-9-COOH)  in  human  urine.    A  unit  of 
+SRM 1507b  consists  of  three  bottles  of  freeze-dried  urine:    two  bottles,  each  containing  a  different  certified 
+concentration  of  THC-9-COOH  and  one  bottle  of  a  urine  blank.    The  bottles  are  labeled  as  levels  1507b-1, 
+1507b-2, and 1507b-0, respectively.  The contents of each bottle must be reconstituted with 20.0 mL of organic-free 
+or HPLC-grade water. 
+ 
+Certified  Concentrations:    The  certified  concentrations  and  uncertainties  apply  only  to  urine  reconstituted  as 
+specified under “Reconstitution Procedure”.  The certified concentrations and uncertainties are based on the results 
+of  measurements  made  at  NIST  by  gas  chromatography/mass  spectrometry (GC/MS),  gas  chromatography/tandem 
+mass spectrometry (GC/MS/MS), and liquid chromatography (LC) and measurements by GC/MS at five laboratories 
+involved with the Department of Defense Drug Testing Program.  All NIST analytical measurements were based on 
+calibration solutions prepared from weighed quantities of THC-9-COOH obtained from Research Triangle Institute 
+(Research  Triangle  Park, NC).    Stability  measurements  have  been  performed  using  liquid  chromatography/mass 
+spectrometry (LC/MS). 
+ 
+The  certified  concentrations  of  THC-9-COOH  in  the  reconstituted  urine  are  given  in  Table 1  with  estimated 
+uncertainties.    THC-9-COOH  was  not  detected  in  the  urine  blank.    The  limit  of  detection,  XD,  refers  to  the 
+underlying true analyte concentration that the employed chemical measurement process is capable of detecting [1]. 
+The  measurand  is  the  total  concentration  of  THC-9-COOH  in  reconstituted  urine  and  the  values  listed  are 
+metrologically traceable to the SI unit for concentration (expressed as nanograms per milliliter and micromoles per 
+liter. 
+ 
+
+Table 1.  Certified Concentrations for THC-9-COOH in SRM 1507b 
+
+Concentration Level 
+
+ 
+
+Low  
+
+(1507b-1) 
+
+ 
+I
+
+Medium  
+
+7b- 
+(1507b-2) 
+
+(ng/mL) 
+
+11.7  ±  1.4 
+
+ 
++
+I
+
+24.1  ±  1.3 
+
+ 
++
+
+Concentration 
+
+(mmol/L) 
+
+1 
+
+ 
+x
+
+x 
+
+(3.40  ×  10–5)  ±  (0.41  ×  10–5) 
+(7.00  ×  10–5)  ±  (0.38  ×  10–5) 
+XD: (< 3)  ×  10–6 
+
+xX 
+
+8 
+
+Blank  
+
+(1507b-0) 
+
+ 
+ 
+Each  certified  concentration  is  a  weighted  average  of  results  from  each  method,  the  weights  being  determined 
+iteratively.    Given  the  weights,  the  effective  degrees  of  freedom  are  then  calculated  from  the  weights.    Given  the 
+weighted average  x  and the effective degrees of freedom, df, the approximate 95 percent confidence interval is [2]: 
+ 
+
+XD: < 1 
+
+x   ±  t (0.975, df)
+
+)(ˆ xσ
+
+ 
+
+ 
+For the two levels, the effective degrees of freedom are 3.5 and 3.9 respectively for levels 1507b-1 and 1507b-2.  The 
+standard errors of the weighted averages were 0.49 and 0.47. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1507b  is  valid,  within  the  measurement  uncertainty 
+10ns 
+specified,  until  31 December 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions 
+given in this certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM 
+is damaged, contaminated, or otherwise modified. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  14 December 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+lling,  Storage,  and  Use”).
+
+Page 1 of 4 
+
+  
+
+SRM 1507b 
+
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the preparation and technical measurements leading to the original certification 
+of  this  SRM  were  performed  under  the  direction  of  M.J. Welch  and  W.E. May  formerly  of  the  NIST  Analytical 
+Chemistry Division. 
+ 
+Coordination of the measurements for the reanalysis of the SRM was performed by M.J. Welch formerly of the NIST 
+Analytical Chemistry Division.  
+ 
+Analytical determinations for the reanalysis of the SRM were performed by L.T. Sniegoski and S.S. Tai of the NIST 
+Chemical Sciences Division. 
+ 
+Chemical 
+The  original  analytical  measurements  were  performed  by  L.C. Sander  and  S.S. Tai  of  the  NIST  Chemical 
+Sciences Division. 
+ 
+Statistical consultation was provided by K.J. Coakley of the NIST Statistical Engineering Division. 
+ 
+Office 
+Support aspects involved with the certification and issuance of this SRM were coordinated through the NIST Office 
+of Reference Materials. 
+ 
+NOTICE AND WARNINGS TO USER 
+ 
+SRM 1507b  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN-SOURCE  MATERIAL.    HANDLE 
+PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE.  
+THE  RECONSTITUTED  URINE  SHOULD  BE  HANDLED  WITH  PRECAUTIONS  SUITABLE  FOR  FRESH 
+URINE.  No known test method can offer complete assurance that Hepatitis B virus, HIV, or other infectious agents 
+are absent from this material. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage  and  Stability:    Prior  to  reconstitution,  SRM 1507b  should  be  stored  in  the  dark  at  a  temperature 
+between −10 °C and 5 °C. 
+ 
+Reconstitution  Procedure:    For  the  certified  concentration  to  be  valid  within  the  specified  uncertainty,  the  SRM 
+must be reconstituted as follows:  Add 20.0 mL of organic-free or HPLC grade water at room temperature to each 
+bottle.  Allow the bottles to stand with occasional swirling for 30 min to ensure complete dissolution.  Do not shake. 
+Vigorous shaking causes foaming which leads to inhomogeneous distribution of the analyte within the bottle.  After 
+the completion of the reconstitution procedure, samples should be extracted and processed within l h for the certified 
+concentrations to be valid. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source  and  Preparation  of  Material:    SRM 1507b  THC-9-COOH  was  prepared  by  Consolidated  Technologies 
+Inc. (Austin, TX).  The urine used to prepare this material was collected from male donors tested and found negative 
+for THC-9-COOH.  Processing for this SRM was carried out under clean conditions.  The bulk urine was processed 
+as  one  master  lot.    The  master  lot  of  urine  was  filtered  through  a  0.22 µm  cellulose  acetate  filter.    It  was  then 
+fortified,  and  appropriate  dilutions  were  made.    THC-9-COOH  in  ethanol  was  used  for  the  fortification.    The 
+THC-9-COOH  solution  was  obtained  from  Research  Triangle  Institute  (Research  Triangle  Park, NC).    All  levels 
+were dispensed into amber glass vials (20.0 mL per vial) and freeze-dried.  The net weight of the urine added to each 
+vial varied by less than 1.0 % relative standard deviation over the entire filling range.  
+
+DLING, 
+
+tio 
+
+                                                           
+
+(1)Certain commercial equipment, instrumentation, or materials are identified in this certificate to specify adequately the 
+e  to  specify  adequately  the
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 1507b 
+
+Page 2 of 4 
+
+Analytical Methods for Certification 
+   
+GC/MS  Analysis:    Three  series  of  measurements,  separated  by  approximately one year, were performed at NIST 
+using methods based on GC/MS.  For the first series, a total of twelve randomly selected vials, in two independent 
+sets, were analyzed for each level.  Samples were reconstituted as described in the “Reconstitution Procedure”, and a 
+single 10.0 mL aliquot was withdrawn from each vial.  For the second and third series, three randomly selected vials, 
+in three independent sets, were analyzed.  Two 8.0 mL aliquots were withdrawn from each vial for the second series 
+and a single 10.0 mL for the third series.  Each aliquot was spiked with an isotopically labeled internal standard, 
+5'-d3-11-nor-delta-9-THC-9-carboxylic  acid.    The  samples  were  processed  using  C18 solid-phase  extraction 
+cartridges  to  isolate  the  THC-9-COOH  from  the  urine.    The  THC-9-COOH  was  converted  to  its  trimethylsilyl 
+derivative for analysis. 
+ 
+The GC/MS measurements were performed using a quadruple mass spectrometer operated in the electron ionization 
+mode  with  a  30 m  nonpolar  fused  silica  capillary  column  connected  directly  to  the  ion  source.    Molecular  ions at 
+m/z 488 and 491 for the unlabeled and labeled forms, respectively, were monitored for the first two series.  For the 
+third  series  fragment  ions  at  m/z 371  and  374  were  monitored.    Analyte  concentrations  were  calculated  by  linear 
+interpolation from calibration curves constructed for each set of samples. 
+ 
+GC/MS  Analysis  (Laboratories  Affiliated  with  The  Department  of  Defense  Drug  Testing  Program):    A 
+standard Department of Defense procedure for determination of THC-9-COOH by GC/MS was used by laboratories 
+affiliated with the Department of Defense Drug Testing Program.  The method involved the addition of a deuterated 
+internal  standard  to  10 mL  of  the  reconstituted  urine,  followed  by  treatment  with  aqueous  KOH  to  hydrolyze  any 
+THC-9-COOH  esters.    The  solution  is  then  buffered  to  a  pH  between  9  and  10  and  put  through  a  solid-phase 
+extraction  column.    The  eluent  is  evaporated,  and  iodomethane  and  tetramethylammonium  hydroxide  in 
+dimethylsulfoxide  are  added  to  form  the  methyl  ester  of  THC-9-COOH.    The  derivative  is  extracted  into  organic 
+solvents  for  injection  into  a  GC/MS  instrument  equipped  with  a  nonpolar  capillary  column  and  set  to  monitor 
+m/z 313,  357,  and  372  from  the  derivative  and  360  and  375 from its deuterated analog.  Ion ratios obtained from 
+samples are compared with those obtained from calibration standards to determine the concentration of THC-9-COOH 
+in the sample.  Each laboratory analyzed one vial of each level of SRM 1507b. 
+ 
+GC/MS/MS Analysis:  Five vials of the low level, and three vials of the medium level were analyzed.  The entire 
+contents  of  each  vial  of  the  reconstituted  urine  were  spiked  with  the  labeled  internal  standard  and  processed  by  a 
+solid-phase  extraction  cartridge  using  a  mixed-mode  retention  mechanism  of  ion  exchange  and  reverse  phase  to 
+isolate the THC-9-COOH from the urine.  The THC-9-COOH was converted to its tert-butyldimethylsilyl derivative 
+for analysis. 
+ 
+The GC/MS/MS measurements were performed using a 30 m nonpolar fused silica capillary column interfaced to a 
+triple quadrupole mass spectrometer.  Electron ionization was used to generate molecular ions, m/z 572 and 575 for 
+the  unlabeled  and  labeled  forms,  respectively,  which  were  subjected  to  collisions  with  argon  in  the  middle 
+quadrupole.    The  quadrupoles  were  operated  in  the  neutral  loss  mode,  with  loss  of  57  monitored  for  both  ions. 
+Analyte concentrations were calculated by linear interpolation from calibration curves constructed for the analyte. 
+ 
+LC Analysis:  Four sets of SRM 1507b (consisting of one vial each of the two THC-9-COOH levels) were analyzed. 
+Urine  samples  were  reconstituted  and  spiked  with  an  internal  standard  solution  of  ∆8-THC  in  methanol.    The 
+contents  of  each  bottle  were  extracted  using  a  commercially  available  solid-phase  extraction  cartridge  specifically 
+designed for extraction of THC-9-COOH from urine.  THC-9-COOH and ∆8-THC were eluted from the cartridge with 
+methanol. 
+ 
+THC-9-COOH  was  determined  using  a  reversed-phase  LC  separation  performed  on  a  Zorbax1 C18 column  with 
+gradient  elution.    Phosphoric  acid  was  added  to  both water and acetonitrile (ACN) components (1.00 mL of 85 % 
+phosphoric  acid  per  liter  of  solvent).    The  following  program  was  employed:    step (1)  equilibration  with 
+50:50 ACN:H2O for 7.5 min; step (2) injection; step (3) linear gradient from initial conditions to 100 % ACN over 
+30 min; step (4) hold at 100 % ACN for 15 min; step (5) linear gradient from 100 % ACN to 50:50 ACN-H2O over 
+2 min.    Column  temperature  was  fixed  at  40 °C,  and  mobile  phase  flow  rate  was  2 mL/min.    Measurements  were 
+carried  out  using  UV  detection  at  210 nm.    Urine  standards  and  SRM 1507b  samples  were  processed  identically 
+using the method described above.  Samples and standards were run alternately throughout the analysis procedure.  A 
+linear regression fit (using peak areas) was made of the urine standards, and the concentrations of THC-9-COOH in 
+SRM 1507b samples were calculated from the regression line. 
+
+SRM 1507b 
+
+Page 3 of 4 
+
+  The 
+
+samples  were 
+
+spiked  with  an 
+
+LC/MS  Analysis:    Stability  measurements  for  this  SRM  have  been  performed  using  a  method  based  on  isotope-
+dilution  LC/MS [3]. 
+standard,  
+5'-d3-11-nor-delta-9-THC-9-carboxylic acid and processed using C18 solid-phase extraction cartridges to isolate the 
+THC-9-COOH from the urine. After the solvent from the extraction was evaporated, the residue was dissolved in the 
+mobile phase used for the LC/MS (40 mM ammonium acetate in methanol:water [80:20]). 
+ 
+A commercial LC/MS instrument with an electrospray ionization source and a quadrupole mass analyzer was used 
+for the analysis.  The LC separation was carried out using a commercial C-18 column with an isocratic mobile phase 
+at a flow rate of 0.3 mL/min.  Electrospray ionization in the negative ion mode was used to monitor the (M-H)− ions 
+at m/z 343 and 346 for THC-9-COOH and its labeled internal standard, respectively.  Analyte concentrations were 
+calculated by linear interpolation from calibration curves constructed for each set of samples. 
+
+isotopically 
+
+internal 
+
+labeled 
+
+ 
+ 
+ 
+ 
+REFERENCES 
+ 
+[1]  American  Chemical  Society;  Detection  in  Analytical  Chemistry  -  Importance,  Theory,  and  Practice; 
+
+Currie, L.A., Ed; ACS Symposium Series: New York, Vol. 361, p. 10 (1988). 
+
+[2]  Schiller, S.B.;  Eberhardt, K.R.;  Combining  Data  From 
+
+Independent  Chemical  Analysis  Methods; 
+
+Spectrochemica Acta, Vol. 46B, No. 12, pp. 1607−1613 (1991). 
+
+[3]  Tai, S.S.C.;  Welch, M.J.;  Determination  of  11-Nor-Delta-9-Tetrahydrocannabinal-9-carboxylic  Acid  in  a 
+Urine-based Standard Reference Material by Isotope Dilution-Liquid Chromatography/Mass Spectrometry with 
+Electrospray Ionization; J. Anal. Toxicol., Vol. 24, pp. 385−389 (2000). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  14 December 2016 (Change of expiration date; editorial changes); 25 May 2011 (Extension of certification period; 
+editorial changes); 05 January 2009 (Extension of certification period.); 01 December 2004 (This revision reflects the decertification and removal of 
+the  high  level  material);  29 September 2003  (This  revision  establishes  an  expiration  date based upon a reanalysis of the SRM that demonstrated 
+stability of THC-9-COOH in the material.); 01 February 1999 (This revision establishes an expiration date based upon a reanalysis of the SRM that 
+demonstrated stability of THC-9-COOH in the material.); 16 November 1994 (Editorial changes); 12 May 1993 (This technical revision reports a 
+correction in the certified data for all concentration levels.); 20 March 1992 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+e 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+possession  is  current. 
+948- 
+
+301) 
+
+ 
+
+; 
+
+- 
+
+SRM 1507b 
+
+Page 4 of 4 
+
+

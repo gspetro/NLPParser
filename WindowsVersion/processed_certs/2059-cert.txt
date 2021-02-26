@@ -1,0 +1,2769 @@
+﻿ 
+
+oor 
+Ne  g- 
+
+Srares  oe
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material® 2059 
+
+ 
+
+ 
+Photomask Linewidth Calibration Standard 
+ 
+Serial Number Sample 
+ 
+This Standard Reference Material (SRM) is a chrome-on-quartz photomask intended primarily for use in calibrating 
+optical  microscopes  used  to  make  dimensional  measurements  on  antireflecting  chromium  integrated  circuit 
+photomasks, and supersedes SRM 473 Optical Microscope Linewidth Standard [1].  SRM 2059 consists of patterns 
+of  clear  and  opaque  isolated  lines  with  nominal  dimensions  ranging  from  0.25  μm  to  32.0  μm  and  line-spacing 
+(pitch)  patterns  ranging  from  0.5  μm  to  250  μm  (see  Figure  1).   These  patterns  are  on  a  nominal  
+152.4 mm × 152.4 mm × 6.35 mm (the industry standard 6.0 in × 6.0 in × 0.25 in) quartz substrate.   
+ 
+Certified Values:  Certified values are given for isolated linewidths (both clear and opaque) and center-to-center 
+line-spacings for one of the eight repeated patterns on the SRM as indicated by the pattern number given as the final 
+digit of the serial number.  All measurements were averaged over the central 2 μm of each feature (at the horizontal 
+fiducial line, also 2 μm wide to aid in tool setup), and the certification applies only to that portion of the feature.  
+The certified values and their uncertainties are given in Tables I and II. 
+ 
+Expiration of Certification:  The materials used for this SRM, primarily quartz and chrome, are inherently stable.  
+Consequently  the  certification  of  SRM  2059  is  valid  indefinitely,  within  the  measurement  uncertainty  specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate  (see 
+“Instructions  for  Use”).   Periodic  recertification  is  not  required;  however,  this  certification  will  be  nullified  if  the 
+SRM is damaged, contaminated, or modified. 
+ 
+Maintenance of Certification:  NIST will monitor representative samples from this SRM lot over the period of its 
+certification.  If substantive changes occur that affect the certification, NIST will notify the purchaser.  Registration 
+(see attached sheet) will facilitate notification. 
+ 
+The overall preparation of this SRM was under the direction of J. Potzick. 
+ 
+The  underlying  theory  and  the  optical  equipment  used  in  the  certification  of  the  NIST  photomask  SRMs  were 
+developed and initially constructed by D. Nyyssonen of the NIST Precision Engineering Division.  Dr. Nyyssonen's 
+model of optical image formation in the microscope has been significantly improved by M. Davidson [2−4] of the 
+Spectel Research Corp., and this model was used in calibrating this SRM.  A wholly independent optical imaging 
+model developed by E. Marx of NIST was used to verify these modeling results. 
+ 
+The  equipment  for  automation  of  the  measurement  process  was  subsequently  designed,  constructed,  and 
+programmed by J.E. Potzick, M. Pedulla, and M.T. Stocker of the NIST Precision Engineering Division.   
+ 
+Measurements and data reduction were provided by M.T. Stocker and J.S. Jun of the NIST Precision Engineering 
+Division.    Atomic  force  microscope  (AFM)  measurements  were  provided  by  R.G.  Dixson  of  the  NIST  Precision 
+Engineering  Division.    Nien-Fan  Zhang  of  the  NIST  Statistical  Engineering  Division  provided  statistical  support.  
+R. Larrabee and R. Silver provided additional advice and occasional encouragement.   
+ 
+The  support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement 
+Services Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  13 November 2006 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Michael T. Postek 
+Precision Engineering Division 
+
+SRM 2059 
+
+Page 1 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f
+ 
+
+(
+C
+u
+r
+g
+)
+ 
+
+y
+z
+s
+h
+ 
+
+w
+w
+ 
+
+ 
+ 
+
+ 
+p
+s
+e
+n
+6
+ 
+
+p
+e
+r
+e
+s
+q
+u
+e
+o
+u
+n
+ 
+
+o
+a
+r
+s
+ 
+
+0
+8
+ 
+
+o
+o
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+All  features  centered_on 
+a  40  mx  80\m  grid? 
+
+US 
+NIST 
+SRM  2059 
+
+ 
+
+ 
+ 
+
+©
+ 
+
+=
+ 
+
+E
+ 
+
+g
+ 
+
+Figure 1. Chrome side view of SRM 2059. 
+
+SRM 2059 
+
+Page 2 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+Table I.  Isolated Lines and Spaces and Pitch Pattern C9(a)
+
+ 
+
+ 
+
+Calibration Data for SRM 2059 
+
+Photomask Linewidth Standard 
+
+Serial Number 2059-Sample, Pattern No. 1 
+Calibrated October 6, 2004 
+
+ 
+
+ 
+
+ 
+ 
+
+2059-Sample-1 
+Linewidth  
+
+  Nominal (μm)  
+
+  Measured (μm)  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A1 
+
+0.250 
+
+0.172 
+
+A2 
+
+0.300 
+
+0.238 
+
+A3 
+
+0.350 
+
+0.294 
+
+ 
+ 
+
+A4 
+
+0.400 
+
+0.346 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A5 
+
+0.450 
+
+0.386 
+
+A6 
+
+0.500 
+
+0.440 
+
+A7 
+
+0.600 
+
+0.535 
+
+A8 
+
+0.800 
+
+0.723 
+
+ 
+
+8-29-05 
+
+A9 
+
+1.000 
+
+0.923 
+
+ Uncertainty (nm)  
+
+13.6 
+
+13.4 
+
+13.5 
+
+13.8 
+
+13.4 
+
+13.3 
+
+14.0 
+
+14.2 
+
+14.1 
+
+B1 
+
+ 
+
+B3 
+
+ 
+
+B5 
+
+ 
+
+B7 
+
+ 
+
+B9 
+
+  Nominal (μm)  
+
+  Measured (μm)  
+
+2.000 
+
+1.906 
+
+ Uncertainty (nm)  
+
+21.4 
+
+Pitch  
+
+  Nominal (μm)  
+
+  Measured (μm)  
+
+ Uncertainty (nm)  
+
+C1 
+
+(b) 
+
+(b) 
+
+(b) 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+4.000 
+
+3.903 
+
+25.2 
+
+  
+
+ 
+
+ 
+
+  
+
+4.000 
+
+4.102 
+
+24.1 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Spacewidth  
+
+D1 
+
+D2 
+
+D3 
+
+D4 
+
+  Nominal (μm)  
+
+  Measured  (μm)  
+
+0.250 
+
+0.283 
+
+0.300 
+
+0.339 
+
+0.350 
+
+0.417 
+
+0.400 
+
+0.453 
+
+E1 
+
+ 
+
+E3 
+
+  Nominal (μm)  
+
+  Measured (μm)  
+
+2.000 
+
+2.090 
+
+ Uncertainty (nm)  
+
+24.2 
+
+8.000 
+
+7.897 
+
+23.4 
+
+  
+
+ 
+
+ 
+
+  
+
+D5 
+
+0.450 
+
+0.534 
+
+E5 
+
+8.000 
+
+8.111 
+
+22.1 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+16.000 
+
+15.898 
+
+23.39 
+
+  
+
+ 
+
+ 
+
+  
+
+D6 
+
+0.500 
+
+0.586 
+
+D7 
+
+0.600 
+
+0.701 
+
+D8 
+
+0.800 
+
+0.897 
+
+ 
+
+E7 
+
+ 
+
+ 
+
+  
+
+16.000 
+
+16.105 
+
+22.7 
+
+ 
+
+ 
+
+ 
+
+  
+
+32.000 
+
+31.884 
+
+24.4 
+
+C9 
+
+1.000 
+
+1.000 
+
+2.8 
+
+D9 
+
+1.000 
+
+1.100 
+
+E9 
+
+32.000 
+
+32.103 
+
+21.0 
+
+ Uncertainty (nm)  
+
+17.6 
+
+16.1 
+
+15.3 
+
+17.3 
+
+15.5 
+
+16.3 
+
+18.7 
+
+15.8 
+
+15.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+(a)Every pitch and isolated line feature on this SRM was measured at least 8 times on the NIST UV Microscope. The nominal and 
+measured  values  of  all  of  the  calibrated  lines  and  spaces  are  listed  above,  in  micrometers.    The  expanded  (2σ)  calibration 
+uncertainty for any linewidth or spacewidth feature is less than 26 nanometers. 
+
+(b)Values for the C1 pitch pattern are in Table II.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+SRM 2059 
+
+Page 3 of 11 
+
+ 
+Table II.  Pitch Pattern C1(a)
+Calibration Data for SRM 2059 
+
+Photomask Linewidth Standard 
+Serial Number 2059-Sample, Pattern No. 1 
+Calibrated October 5, 2004 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+Nom  Meas 
+
+ 
+ 
+
+ 
+ 
+Nom  Meas 
+
+2059-Sample-
+1 
+
+ 
+ 
+Nom  Meas 
+
+ 
+ 
+
+µm 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+3.0 
+3.5 
+4.0 
+4.5 
+5.0 
+5.5 
+6.0 
+6.5 
+7.0 
+7.5 
+8.0 
+8.5 
+9.0 
+9.5 
+10.0 
+10.5 
+11.0 
+11.5 
+12.0 
+12.5 
+13.0 
+13.5 
+14.0 
+14.5 
+15.0 
+15.5 
+16.0 
+16.5 
+17.0 
+17.5 
+18.0 
+18.5 
+19.0 
+19.5 
+20.0 
+20.5 
+21.0 
+21.5 
+22.0 
+22.5 
+23.0 
+23.5 
+24.0 
+24.5 
+25.0 
+25.5 
+26.0 
+26.5 
+27.0 
+27.5 
+
+µm 
+0.000 
+0.498 
+1.000 
+1.497 
+2.000 
+2.494 
+2.997 
+3.495 
+3.998 
+4.499 
+4.998 
+5.495 
+5.998 
+6.495 
+6.996 
+7.495 
+7.996 
+8.495 
+8.996 
+9.498 
+10.001 
+10.498 
+10.997 
+11.496 
+11.999 
+12.492 
+12.996 
+13.492 
+13.994 
+14.491 
+14.994 
+15.493 
+15.994 
+16.493 
+16.997 
+17.498 
+17.998 
+18.494 
+18.995 
+19.497 
+19.995 
+20.499 
+20.999 
+21.493 
+21.994 
+22.494 
+22.997 
+23.495 
+23.991 
+24.495 
+24.995 
+25.493 
+25.993 
+26.498 
+26.998 
+27.497 
+
+Unc 
+nm 
+0.0 
+1.5 
+2.6 
+3.1 
+2.7 
+2.9 
+4.0 
+4.1 
+4.1 
+4.1 
+4.3 
+4.6 
+3.9 
+3.6 
+3.9 
+3.6 
+4.0 
+4.7 
+4.8 
+4.9 
+4.3 
+3.4 
+3.9 
+4.2 
+4.3 
+5.0 
+4.9 
+5.2 
+5.2 
+5.6 
+5.5 
+5.8 
+6.1 
+6.7 
+6.6 
+6.6 
+6.4 
+5.8 
+5.4 
+5.6 
+6.4 
+6.6 
+6.3 
+5.9 
+5.9 
+6.4 
+6.4 
+6.1 
+5.8 
+5.4 
+5.5 
+5.4 
+5.8 
+5.9 
+6.0 
+5.6 
+
+µm 
+27.993 
+28.494 
+28.993 
+29.498 
+29.994 
+30.496 
+30.997 
+31.498 
+31.997 
+32.495 
+32.993 
+33.494 
+33.994 
+34.495 
+34.997 
+35.500 
+35.998 
+36.496 
+36.995 
+37.495 
+37.995 
+38.495 
+38.995 
+39.497 
+39.995 
+49.378 
+50.378 
+51.377 
+52.378 
+53.379 
+54.375 
+55.375 
+56.379 
+57.377 
+58.377 
+59.377 
+60.380 
+61.377 
+62.378 
+63.377 
+64.374 
+65.375 
+66.378 
+67.375 
+68.373 
+69.377 
+70.376 
+71.375 
+72.379 
+73.379 
+74.378 
+75.377 
+76.373 
+77.377 
+78.374 
+79.372 
+
+Unc 
+nm 
+5.0 
+5.2 
+4.6 
+5.0 
+4.9 
+5.3 
+6.0 
+6.6 
+6.9 
+6.6 
+6.0 
+6.0 
+5.7 
+5.3 
+4.9 
+4.9 
+5.1 
+5.8 
+6.2 
+6.7 
+6.9 
+6.7 
+6.2 
+6.0 
+5.9 
+5.9 
+6.1 
+6.4 
+6.4 
+6.5 
+6.0 
+6.3 
+6.0 
+5.8 
+6.1 
+6.5 
+6.8 
+7.1 
+6.5 
+7.1 
+8.4 
+8.4 
+8.1 
+8.0 
+8.2 
+8.2 
+7.8 
+7.6 
+6.8 
+7.6 
+8.9 
+8.8 
+7.9 
+7.5 
+6.8 
+6.8 
+
+µm 
+81.0 
+82.0 
+83.0 
+84.0 
+85.0 
+86.0 
+87.0 
+88.0 
+89.0 
+90.0 
+91.0 
+92.0 
+93.0 
+94.0 
+95.0 
+96.0 
+97.0 
+98.0 
+99.0 
+100.0 
+101.0 
+102.0 
+103.0 
+104.0 
+105.0 
+106.0 
+107.0 
+108.0 
+109.0 
+110.0 
+111.0 
+112.0 
+113.0 
+114.0 
+115.0 
+116.0 
+117.0 
+118.0 
+119.0 
+120.0 
+121.0 
+122.0 
+123.0 
+124.0 
+125.0 
+126.0 
+127.0 
+128.0 
+129.0 
+130.0 
+131.0 
+132.0 
+133.0 
+134.0 
+135.0 
+136.0 
+
+µm 
+28.0 
+28.5 
+29.0 
+29.5 
+30.0 
+30.5 
+31.0 
+31.5 
+32.0 
+32.5 
+33.0 
+33.5 
+34.0 
+34.5 
+35.0 
+35.5 
+36.0 
+36.5 
+37.0 
+37.5 
+38.0 
+38.5 
+39.0 
+39.5 
+40.0 
+50.0 
+51.0 
+52.0 
+53.0 
+54.0 
+55.0 
+56.0 
+57.0 
+58.0 
+59.0 
+60.0 
+61.0 
+62.0 
+63.0 
+64.0 
+65.0 
+66.0 
+67.0 
+68.0 
+69.0 
+70.0 
+71.0 
+72.0 
+73.0 
+74.0 
+75.0 
+76.0 
+77.0 
+78.0 
+79.0 
+80.0 
+
+ 
+ 
+
+ 
+ 
+
+ 
+8-29-05 
+
+Nom  Meas  Unc 
+nm 
+µm 
+7.1 
+136.376 
+6.0 
+137.380 
+5.3 
+138.378 
+5.8 
+139.381 
+7.7 
+149.131 
+8.3 
+151.130 
+8.4 
+153.129 
+7.4 
+155.129 
+7.7 
+157.126 
+7.5 
+159.123 
+7.7 
+161.126 
+7.5 
+163.126 
+6.6 
+165.131 
+6.7 
+167.126 
+8.9 
+169.123 
+8.4 
+171.125 
+7.7 
+173.123 
+9.3 
+175.124 
+9.4 
+177.127 
+8.6 
+179.125 
+8.3 
+181.125 
+8.9 
+183.126 
+9.4 
+185.122 
+9.8 
+187.125 
+9.7 
+189.125 
+9.7 
+191.124 
+9.5 
+193.125 
+9.9 
+195.122 
+10.1 
+197.124 
+10.0 
+199.124 
+10.0 
+201.122 
+9.1 
+203.126 
+8.9 
+205.129 
+7.8 
+207.125 
+8.5 
+209.125 
+9.1 
+211.129 
+8.5 
+213.126 
+8.5 
+215.123 
+9.1 
+217.125 
+9.4 
+219.124 
+9.4 
+221.122 
+9.5 
+223.125 
+9.4 
+225.122 
+8.4 
+227.125 
+9.3 
+229.125 
+9.6 
+231.123 
+9.5 
+233.127 
+8.6 
+235.124 
+8.7 
+237.124 
+9.4 
+239.126 
+9.7 
+241.121 
+9.5 
+243.125 
+9.8 
+245.125 
+10.3 
+247.123 
+11.0 
+249.124 
+  
+  
+
+µm 
+137.0 
+138.0 
+139.0 
+140.0 
+150.0 
+152.0 
+154.0 
+156.0 
+158.0 
+160.0 
+162.0 
+164.0 
+166.0 
+168.0 
+170.0 
+172.0 
+174.0 
+176.0 
+178.0 
+180.0 
+182.0 
+184.0 
+186.0 
+188.0 
+190.0 
+192.0 
+194.0 
+196.0 
+198.0 
+200.0 
+202.0 
+204.0 
+206.0 
+208.0 
+210.0 
+212.0 
+214.0 
+216.0 
+218.0 
+220.0 
+222.0 
+224.0 
+226.0 
+228.0 
+230.0 
+232.0 
+234.0 
+236.0 
+238.0 
+240.0 
+242.0 
+244.0 
+246.0 
+248.0 
+250.0 
+  
+
+Unc 
+nm 
+6.0 
+6.4 
+6.8 
+7.8 
+7.7 
+8.0 
+7.6 
+7.2 
+7.3 
+6.9 
+6.2 
+6.6 
+7.0 
+7.5 
+8.2 
+8.0 
+7.7 
+7.4 
+7.9 
+7.5 
+6.5 
+6.7 
+7.1 
+6.5 
+6.7 
+6.6 
+6.3 
+7.3 
+7.0 
+6.5 
+6.7 
+7.0 
+6.7 
+6.4 
+6.6 
+6.1 
+6.6 
+6.3 
+6.3 
+6.4 
+6.3 
+6.3 
+7.2 
+6.9 
+7.2 
+7.0 
+7.0 
+7.8 
+8.3 
+7.5 
+8.0 
+7.2 
+7.2 
+8.2 
+8.3 
+8.6 
+
+µm 
+80.376 
+81.379 
+82.377 
+83.378 
+84.376 
+85.376 
+86.375 
+87.379 
+88.383 
+89.379 
+90.375 
+91.374 
+92.376 
+93.377 
+94.378 
+95.380 
+96.377 
+97.381 
+98.380 
+99.379 
+100.378 
+101.379 
+102.373 
+103.375 
+104.377 
+105.378 
+106.374 
+107.377 
+108.378 
+109.377 
+110.376 
+111.376 
+112.376 
+113.377 
+114.375 
+115.373 
+116.372 
+117.377 
+118.376 
+119.378 
+120.376 
+121.381 
+122.378 
+123.373 
+124.377 
+125.378 
+126.378 
+127.376 
+128.378 
+129.375 
+130.373 
+131.373 
+132.375 
+133.375 
+134.378 
+135.374 
+
+ 
+
+ 
+ 
+
+(a)Every line on Pattern C1 was measured at least 11 times on the NIST UV Microscope.  The nominal and measured positions of 
+the  C1  lines  relative  to  the  "0"  line  are  listed  in  micrometers,  along  with  their  expanded  calibration  uncertainties  (2σ),  in 
+nanometers. 
+
+SRM 2059 
+
+Page 4 of 11 
+
+ 
+
+| 
+
+A 
+
+a 
+
+Pav 
+
+van 
+
+em 
+
+2  um 
+
+D 
+
+K-10  um 
+
+—*  -—linewidth 
+
+fiducial 
+‘Line 
+
+measure- 
+ment  area 
+
+ct
+
++  =i 
+
+—  ~-spacewidth 
+
+ 
+ 
+INSTRUCTIONS FOR USE   
+ 
+The  linewidth,  spacewidth,  and  pitch  measurands  are 
+defined  in  Figure  2.   Pitch  measurements  are  center-to-
+center  to  avoid  possible  confusion  from  inverting  or 
+reversing the image in a microscope.  The patterns in Row 
+F have not been calibrated. 
+ 
+Only  one  of  the  eight  replicated  patterns  is  certified  at 
+NIST, as noted in Table I.  The user is advised to transfer 
+these  calibrations  to  one  or  more  of  the  other  patterns  on 
+this  mask  for  routine  use,  as  insurance  against  damage  to 
+the certified pattern. 
+ 
+Use of this SRM in a scanning electron microscope is not 
+recommended;  the  SRM  may  become  contaminated,  the 
+material  profile  may  be  altered  and  charging  and  edge 
+effects may invalidate the measurement. 
+ 
+ 
+Handling  and  Storage:    Care  must  be  exercised  when 
+handling  this  SRM.   Avoid  touching  the  surface  with  the 
+microscope  objective  lens  while  setting  up  or  focusing.  
+Only  non-abrasive  and  non-corrosive  cleaning  techniques 
+should  be  used,  as  abrasives  and  acids  can  alter  the  line 
+edges.    When  not  in  use,  SRM  2059  should  be  stored  in 
+the photomask case supplied or equivalent. 
+ 
+Certification  Technique:   All  measurements 
+for 
+certification  were  made  with  the  NIST  Ultraviolet  (UV) 
+Microscope  Optical  Linewidth  Measurement  System  [5], 
+which  is  a  photometric  transmission  microscope  with  a 
+scanning 
+measuring 
+interferometer.   Except  for  the  setup  and  removal  of  the 
+photomasks,  the  entire  calibration  process  is  automated.  
+The performance of the system is assessed before and after 
+each  calibration  by  measuring  features  on  a  control 
+photomask.   These  control  measurements  include  center-
+to-center 
+that  have  been 
+line  pairs 
+Linescale 
+to 
+independently 
+Interferometer.   Feature  widths  below  ~2  μm  were 
+referenced to AFM measurements on the control mask, as 
+described below. 
+ 
+Linewidths  are  determined  from  the  image  profile  (image 
+intensity  vs.  position  across  a  feature).   The  algorithm  for 
+locating  the  position  on  the  image  profile  of  the  feature 
+edge  is  derived  from  a  mathematical  model  of  the  optical 
+microscope and is based on the theory of partial coherence 
+imaging  [6−10].  Because  the  relative  brightness  of  an 
+image  profile  at  this  edge  position  is  a  function  of  the 
+physical and optical properties of the imaged object (the line), the calibration of a linewidth measurement system, 
+by using this SRM, is valid only for measuring artifacts with physical and optical properties similar to the specific 
+SRM used. 
+ 
+Calibration Procedure for SRM 2059:    The scale of the UV Microscope (for both pitch and feature width) was 
+calibrated  using  SRM  2800  Microscope  Magnification  Standard  [11],  traceable  to  the  NIST  Linescale 
+Interferometer  [12].  The  line  and  space  features  on  SRM  2059  were  calibrated  using  a  combination  of  AFM  and 
+optical microscope measurements; each technique was used where it has the lower measurement uncertainty. 
+
+Figure 2.  Linewidth, spacewidth, and pitch 
+measurands.  The features in Row F were not 
+calibrated. 
+
+spacing  of 
+traced 
+
+displacement 
+
+the  NIST 
+
+stage 
+
+and 
+
+  
+
+SRM 2059 
+
+Page 5 of 11 
+
+All of the isolated linewidth and spacewidth features 8 μm and below on the control mask were measured by both 
+techniques,  creating  a  kind  of  "Rosetta  Stone"  of  AFM  and  optical  values  for  the  same  features.   These  pairs  of 
+measurements  tended  to  diverge  for  features  less  than  1  μm  and  coincide  for  features  greater  than  2  μm.    From 
+these data, AFM equivalents of the optical values were derived and used for all subsequent measurements on all the 
+photomasks: 
+ 
+ 
+ 
+where 
+
+ is the AFM weighting factor, and x is the feature width in micrometers.  Thus, every 
+
+AFMeq  =  m AFM + (1 − m) Optical, 
+
+e −
+
+(1) 
+
+m
+
+1.5 ) / 2
+
+1 /
+
+=
+
+X
+
+(
+
+⎡⎣
+
++
+
+⎤⎦
+1
+
+feature was measured optically on the UV Microscope, but the smaller line and space features were referenced to 
+the AFM measurements. 
+ 
+Linewidth  and  Spacewidth  Calibration  Uncertainty:    The  measurements  on  this  SRM  are  traceable  to  the 
+definition of the meter through the NIST Linescale Interferometer.  Some of the uncertainty components are listed 
+in Tables III and IV.  These include repeatability and scale factor uncertainty, as well as parametric components 
+ 
+ 
+
+(2) 
+
+, 
+
+∂
+
+LW P
+/
+i
+
+)
+
+(
+Pσ
+i
+
+)
+
+(
+σ ∂
+=
+P
+i
+
+ 
+where (
+
+LW P
+/
+∂
+i
+
+∂ ) is found using the optical imaging model and perturbing the parameter 
+
+iP .  The terms in Table 
+III  are  included  as  "Other  Terms"  in  Table  IV.    The  various  uncertainty  components  σ1,  σ2,  σP1,  σP2,  etc.,  are 
+weighted  by  m  or  (1−m),  as  appropriate,  and  combined  as  described  in  reference  13  to  yield  the  expanded 
+uncertainties, U, in Tables I and II: 
+ 
+
+2
+
+ 
+
+2
+
+U
+
+2
+2
+
+2
+1
+
++
+
++
+
+=
+
+2
+P
+1
+
++  
+...
+
+2
++
+σ σ σ σ
+P
+ 
+The factor 2 is the "coverage factor" and ensures there is a 95 % probability that the true value lies within the range 
+Measured Value ± U. 
+ 
+Differential Uncertainty:  The difference between two linewidth or spacewidth values on the same mask is useful 
+for  characterizing  the  linearity  of  a  linewidth  measuring  instrument.  The  uncertainty  of  this  difference,  Udiff,  has 
+fewer  components  than  the  uncertainty  of  a  single  feature  width  because  feature-to-feature  parameter  differences 
+like  Cr  n  and  k,  illumination  and  objective  numerical  apertures  (NAs),  etc.,  are  negligibly  small  (i.e.  these 
+parametric  uncertainties  are  correlated).   The  largest  components  are  optical-to-AFM,  repeatability,  and  defocus 
+effects.  These uncertainties are listed in Table IV as "Differential Unc": 
+ 
+
+(3) 
+
+U
+
+diff
+
+=
+
+(
+
+U
+
+2
+
+)2
+
+−
+
+u
+
+2
+corr
+
+ 
+
+(4) 
+
+ 
+For SRM 2059, it has been observed empirically that: 
+ 
+
+for spaces   ≤ 1 μm, Udiff /U ≈ 0.8 
+ 
+for lines   ≤ 1 μm, Udiff /U ≈ 0.7 
+ 
+for lines and spaces   > 1 μm, Udiff /U ≈ 0.3 
+
+ 
+The uncertainty of the difference between two lines or spaces on a single mask is then represented by the following 
+equation: 
+ 
+ 
+
+U x
+(
+1
+
+−
+
+x
+
+2
+
+)
+
+=
+
+U
+
+diff
+
+(
+
+)
+
+x
+1
+
++
+
+U
+
+(
+
+x
+
+2
+
+diff
+
+2
+
+2  
+
+)
+
+(5) 
+
+ 
+These uncertainties are listed in Table IV as "Differential Unc." 
+ 
+Chrome  Edge  Runout:   The  average  chrome  edge  profile  of  all  the  features  on  the  control  mask,  measured  by 
+AFM,  is  shown  in  Fig. 3.  Feature-to-feature variations  were small compared to the average profile.  The chrome 
+edge is taken here to be the "halfway up" point, which differs from the "halfway out" point by 0.6 nm.  Thus the 
+
+ 
+
+SRM 2059 
+
+Page 6 of 11 
+
+ 
+
+ 
+
+"halfway out" linewidth is 1.2 nm smaller than reported in Table III, and the "halfway out" spacewidth is 1.2 nm 
+greater. 
+ 
+If the cross section is considered to be rectangular, then the edge can be assumed to lie anywhere within the 7.74 nm 
+runout shown in Figure 3, with left and right edges mirror-image correlated, and the linewidth at the "halfway out" 
+point.  Then the feature width uncertainty will be as described in references 13 and 14 as "Rectangular Edge Unc." 
+See  the  references  for  a  discussion  of  the  relation  between edge runout and linewidth uncertainty.  Both Udiff and 
+Urect are expanded (2σ) uncertainties. 
+ 
+
+2
+
+−
+
+2
+
++
+
+(
+
+Cr edge runout
+
+)
+
+2
+
+ 
+
+(6) 
+
+ 
+
+ 
+
+ 
+
+U
+
+rect
+
+=
+
+2
+
+(
+
+U
+
+2
+
+)2
+
+4
+
+3
+
+ 
+
+=
+
+2
+
+2
+
++ .71  
+
+8
+
+(
+
+U
+
+2
+
+)2
+
+ 
+C1  Pitch  Patterns:    The  center-to-center  distance  between  any  line  and  the  “0”  line  in  pattern  C1  is  given  in 
+Table II, along with its expanded uncertainty.  The uncertainty can be summarized as  
+ 
+ 
+ 
+
+1.455 Ln(x) + 4 nm
+
+(7) 
+
+U
+
+ 
+
+< 
+
+C1
+
+ 
+where x is in micrometers for any unit of SRM 2059.  The lines not listed in Table II are guard lines, intended to 
+balance proximity effects in printing and measuring, and are not calibrated. 
+
+SRM 2059 
+
+Page 7 of 11 
+
+ 
+ 
+ 
+ 
+ 
+
+Table III.  Length-Independent Uncertainty Components 
+
+ 
+ 
+
+ 
+
+Source 
+
+Value (nm) 
+
+ 
+ 
+
+ 
+
+Weighted 
+
+ 
+ 
+
+Model Convergence 
+
+Model Uncertainty 
+
+Wavelength 
+
+Data Low Pass Filter 
+
+Data Convergence 
+
+Sampling Aperture 
+
+Cr Edge Runout 
+
+0.97 
+
+3.00 
+
+0.01 
+
+0.88 
+
+3.00 
+
+1.70 
+
+2.00 
+
+ 
+ 
+
+ 
+ 
+
+Unweighted 
+
+Unassigned 
+
+2.00 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+120 
+
+ 
+ 
+
+100 
+
+Top 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Cr Runout =  7.74  nm 
+
+Cr Cross Section 
+
+Halfway up 
+
+Substrate
+
+Linewidth 
+
+ 
+ 
+
+-60 
+
+-60 
+
+-40 
+
+-20 
+
+20 
+
+40 
+
+60 
+
+all 
+
+ 
+
+ 
+
+Figure 3.   Chrome 
+
+Position,  nm
+
+line edge definition.
+
+sidewall profile and 
+
+SRM 2059 
+
+Page 8 of 11 
+
+Table IV.  Width-Dependent Line and Space Uncertainty Component 
+
+(Typical values, not for this serial number, in nm unless otherwise indicated.) 
+
+ 
+
+ 
+
+Line ID 
+
+Species 
+
+A1 
+
+A9 
+
+  
+
+B9 
+
+D1 
+
+D9 
+
+  
+
+E9 
+
+LINE 
+
+LINE 
+
+LINE  LINE  SPACE  SPACE  SPACE  SPACE 
+
+Nominal Feature Width (μm) 
+
+0.25 
+
+1.00 
+
+1.50 
+
+32.00 
+
+0.25 
+
+1.00 
+
+1.50 
+
+32.00 
+
+AFM 
+
+AFM Scale 
+
+Optical-to-AFM 
+
+AFM Contribution 
+
+Weighted AFM 
+
+AFM Weight (m) 
+
+ 
+
+ 
+
+Optical Scale 
+
+Chrome n 
+
+Chrome  k 
+
+AFM 1σ Width Uncertainty (nm) 
+
+5.02 
+
+0.20 
+
+4.28 
+
+6.61 
+
+6.59 
+
+1.00 
+
+0.20 
+
+7.35 
+
+2.01 
+
+5.39 
+
+0.48 
+
+4.28 
+
+6.90 
+
+6.37 
+
+0.92 
+
+5.83 
+
+64.19 
+
+0.56 
+
+4.28 
+
+1.17 
+
+4.28 
+
+7.26 
+
+64.35 
+
+3.63 
+
+0.50 
+
+0.00 
+
+0.00 
+
+0.48 
+
+0.56 
+
+7.65 
+
+7.74 
+
+2.22 
+
+2.28 
+
+1.17 
+
+8.40 
+
+2.74 
+
+5.02 
+
+0.20 
+
+5.98 
+
+7.81 
+
+7.80 
+
+1.00 
+
+0.20 
+
+8.17 
+
+2.68 
+
+5.39 
+
+0.48 
+
+5.98 
+
+8.06 
+
+7.45 
+
+0.92 
+
+0.48 
+
+8.10 
+
+1.60 
+
+Optical 1σ Width Uncertainty (nm) 
+
+5.83 
+
+0.56 
+
+5.98 
+
+8.37 
+
+4.19 
+
+0.50 
+
+0.56 
+
+8.08 
+
+1.28 
+
+64.19 
+
+1.17 
+
+5.98 
+
+64.48 
+
+0.00 
+
+0.00 
+
+1.17 
+
+7.93 
+
+1.10 
+
+3.39 
+
+1.96 
+
+0.36 
+
+0.56 
+
+1.26 
+
+0.51 
+
+0.25 
+
+0.25 
+
+0.25 
+
+0.25 
+
+0.25 
+
+0.31 
+
+0.25 
+
+0.23 
+
+8.21 
+
+5.58 
+
+0.32 
+
+7.27 
+
+0.17 
+
+6.28 
+
+8.66 
+
+3.60 
+
+2.65 
+
+3.00 
+
+5.15 
+
+2.99 
+
+2.50 
+
+3.79 
+
+11.43 
+
+34.51 
+
+11.95 
+
+12.10 
+
+13.00 
+
+11.78 
+
+Obj NA 
+
+Illum NA 
+
+Residual Defocus 
+
+Focus Correction Unc 
+
+Optical Contribution 
+
+         
+
+Weighted Optical 
+  
+Repeatability  (nm) 
+  
+ 
+Other Terms(a) 
+ 
+ 
+
+11.95 
+  
+5.71
+  
+0.00 
+
+Expanded 2σ Uncertainty (nm) 
+
+0.92 
+  
+2.82 
+  
+4.77
+
+0.03 
+  
+1.24 
+  
+5.15 
+
+9.93 
+  
+2.58 
+  
+0.00 
+
+5.89 
+  
+2.04 
+  
+2.58 
+
+0.07 
+  
+0.63 
+  
+5.15 
+
+0.99 
+  
+1.00 
+  
+4.77 
+
+6.21 
+ 
+3.09 
+ 
+2.58 
+
+Differential Unc (same mask) 
+
+Expanded Uncertainty (U) 
+
+37.71 
+
+13.10 
+
+12.43 
+
+22.65 
+
+32.03 
+
+21.99 
+
+22.76 
+
+24.16 
+
+23.76 
+
+27.31 
+
+23.46 
+
+20.65 
+
+11.19 
+
+14.47 
+
+15.66 
+
+13.43 
+
+16.25 
+
+14.09 
+
+15.20 
+
+26.58 
+
+13.48 
+
+11.95 
+
+12.08 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+9.93 
+
+1.05 
+
+1.25 
+
+9.43 
+
+6.20 
+
+9.04 
+
+7.21 
+
+2.00
+
+      
+
+  
+
+  
+
+  
+
+  
+
+Rectangular Edge Unc 
+ 
+ 
+ 
+(a)Refer to the terms in Table III. 
+ 
+ 
+
+SRM 2059 
+
+Page 9 of 11 
+
+REFERENCES 
+ 
+
+Potzick,  J.E.;  Antireflecting-Chromium  Linewidth  Standard,  SRM  473,  for  Calibration  of  Optical Linewidth 
+Measuring Systems; NIST Special Publication 260-129, U.S. Government Printing Office:  Washington, DC 
+(1997). 
+Davidson; M.P.; Developments in Optical Modeling Methods for Metrology; International Society for Optical 
+Engineers (SPIE), Spectel Company:  Mountain View, CA (1999). 
+Davidson,  M.;  Kaufman,  K.;  Mazor,  I;  Cohne;  F;  An  Application  of  Interference  Microscopy  to  Integrated 
+Circuit Inspection and Metrology;  International Society for Optical Engineers (SPIE), Vol. 775 (1987). 
+Davidson,  M.;  Kleemann,  B.H.;  Bischoff,  J.;  A  Comparison  Between  Rigorous  Light  Scattering  Methods; 
+Optical  Microlithography  X,  International  Society  for  Optical  Engineers  (SPIE),  Vol.  305,  pp.  606−619 
+(1997). 
+Potzick, J.E.; Automated Calibration of Optical Photomask Linewidth Standards at the National Institute of 
+Standards and Technology; SPIE, Vol. 1087, Integrated Circuit Metrology, Inspection, and Process Control 
+III, In Proceedings of SPIE, Vol. 1087, Los Angeles, CA(Feb. 1989).  
+Nyyssonen, D.; Linewidth Measurement with an Optical Microscope: The Effect of Operation Conditions on 
+the Image Profile; Appl. Opt., Vol. 16, No. 8, pp. 2223−2230 (Aug. 1977). 
+Nyyssonen, D.;  Spatial Coherence:  The Key to Accurate Optical Micrometrology;  Application of Optical 
+Coherence,  Vol.  194;  In  Proceedings  of  SPIE,  Society  of  Photo-Optical  Instrumentation  Engineers:  
+Bellingham, WA, pp. 34−44 (1979). 
+Nyyssonen, D.; Larrabee, R.D.;  Submicrometer Linewidth Metrology in the Optical Microscope;  J. Res Natl. 
+Bur. Stand., Vol. 92, pp. 187−204 (1987). 
+D. Nyyssonen; The Theory of Optical Edge Detection and Imaging of Thick Layers; J. Opt. Soc. Am., Vol. 
+72. pp. 1425−1436 (1982). 
+
+[10]  D. Nyyssonen and C. P. Kirk, Optical Microscope Imaging of Lines Patterned in Thick Layers with Variable 
+
+Edge Geometry: Theory, J. Opt. Soc. Am. A 5, No. 8, pp. 1270 −1280 (1988). 
+Potzick,  J.;  New  NIST-Certified  Small  Scale  Pitch  Standard;  1977  Measurement  Science  Conference: 
+Pasadena, CA (1997). 
+
+[12]  Beers, J.; Length Scale Measurement Procedures at the National Bureau of Standards; NBSIR, pp. 87−3626 
+
+(1987). 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization  for  Standardization:  Geneva,  Switzerland  (1993);  see  also  Taylor,  B.N.;  Kuyatt,  C.E.; 
+Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical 
+at 
+Note 
+http://physics.nist.gov/Pubs/). 
+Terminology  for  Microlithography  Metrology;  Document  No.:    SEMI  P35−0704;  SEMI  International 
+Standards: San Jose, CA (2004). 
+
+1297,  U.S.  Government  Printing  Office:  Washington,  DC 
+
+(available 
+
+(1994); 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6] 
+
+[7] 
+
+[8] 
+
+[9] 
+
+[11] 
+
+[13] 
+
+[14] 
+
+SRM 2059 
+
+Page 10 of 11 
+
+APPENDIX 
+ 
+BIBLIOGRAPHY 
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+Potzick, J.;  Optical Photomask CD at NIST: Proceedings of the 188th PTB Seminar on CD Metrology; Bosse, 
+H; Bodermann, B; Mirande, W; Eds., Physikalisch-Technische Bundesanstalt (PTB):  Braunchweig, Germany  
+(20 Nov 2003). 
+Potzick,  J.;    Photomask  Feature  Metrology;  A  Handbook  on  Mask  Making  Technology,  Rizvi,  S.A.,  Ed., 
+Marcel Dekker, Inc.:  New York (2005). 
+Pedulla,  J.M.;  Potzick.  J.;  Silver,  R.;  Improving  the  Uncertainty  of  Photomask  Linewidth  Measurements; 
+Proceedings of SPIE 29th International Symposium on Microlithography, Vol. 5375-31 (2004). 
+Pedulla,  J.M.;  Potzick,  J.;  Stocker,  M.;    Updated  NIST  Photomask  Linewidth  Standard;  Proceedings  of  SPIE 
+28th International Symposium on Microlithography, Vol. 5038-43, pp. 338−349 (2003). 
+Potzick,  J.;  Pedulla,  J.M.;  Stocker,  M.;  New  NIST  Photomask  Linewidth  Standard;  Proceedings  of  BACUS 
+Symposium on Photomask Technology, Vol. 4889-37 (2002). 
+Potzick,  J.;  The  Problem  with  Submicrometer  Linewidth  Standards  and  a  Proposed  Solution;  Proceedings  of 
+SPIE 26th International Symposium on Microlithography, Vol. 4344-20 (2001). 
+Potzick,  J.;  The  Neolithography  Consortium ⎯  A  Progress  Report;  Proceedings  of  BACUS  Symposium  on 
+Photomask Technology, Vol. 4186-73 (2000). 
+Potzick, J.; Accuracy Differences Among Photomask Metrology Tools and Why They Matter; Proceedings of the 
+18th  Annual  BACUS  Symposium  on  Photomask  Technology  and  Management;  SPIE,  Vol.  3546-37,  
+pp. 340−348, Redwood City, CA (Sept. 1998). 
+Jerke,  J.M.;  Croarkin,  M.C.;  Varner,  R.N.;  International  Study  on  Linewidth  Measurement  for  Antireflective 
+Chromium Photomasks; NBS Special Publication 400-74 (1982). 
+
+10.  Potzick, J.; Accuracy and Traceability in Dimensional Measurements; Proceedings of SPIE 23rd International 
+
+Symposium on Microlithography, Vol. 3332-57, pp. 471−479 (1988). 
+
+11.  Potzick, J.; Photomask Metrology in the Era of Neolithography; Proceedings of the 17th Annual BACUS/SPIE 
+Symposium  on  Photomask  Technology  and  Management,  Vol.  3236,  pp.  284−292,  Redwood  City,  CA  
+(Sept. 1997). 
+
+12.  Potzick,  J.  (NIST);  Nunn,  J.  (NPL);  International  Comparison  of  Photomask  Linewidth  Standards:  United 
+States  (NIS)  and  United  Kingdom  (NPL);  Proceedings  of  the  SPIE  1996  Annual  Symposium  on 
+Microlithography, Vol. 2725-08, Santa Clara, CA (1996). 
+ISO;  International  Vocabulary  of  Basic  and  General  Terms  in  Metrology;  ISBN  92-67-01075-1,  1st  ed., 
+International Organization for Standardization: Geneva, Switzerland (1993). 
+
+13. 
+
+14.  Potzick,  J.;  The  Neolithography  Consortium;  Proceedings  of  SPIE  25th  International  Symposium  on 
+
+Microlithography, Vol. 3998-54 (2000). 
+
+SRM 2059 
+
+Page 11 of 11 
+
+

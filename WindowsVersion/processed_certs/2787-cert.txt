@@ -1,0 +1,1373 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2787 
+ 
+Fine Atmospheric Particulate Matter  
+(Mean Particle Diameter < 10 µm) 
+
+um 
+
+sugars, 
+
+isomers, 
+
+values  for 
+
+congeners, 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected polycyclic aromatic hydrocarbons (PAHs), nitro-substituted PAHs (nitro-PAHs), polybrominated diphenyl 
+ether (PBDE) 
+polychlorinated 
+hexabromocyclododecane (HBCD) 
+dibenzo-p-dioxin (PCDD)  and  dibenzofuran (PCDF)  congeners, 
+inorganic  constituents,  and  particle-size 
+characteristics in atmospheric particulate material and similar matrices.  All of the constituents for which certified, 
+reference, and information values are provided are naturally present in the particulate matter.  A unit of SRM 2787 
+consists of one bottle containing between 100 mg and 140 mg of particulate matter. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for PAHs, nitro-PAHs, and PBDE congeners are 
+provided in Tables 1, 2, and 3, respectively.  The certified mass fraction values for selected inorganic constituents are 
+provided in Table 4.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [1].  The certified values are 
+based on the agreement of results obtained at NIST using multiple analytical techniques or, for cadmium, mercury, 
+and lead, measurements performed at NIST using a single primary method.  The measurand is the total concentration 
+of each analyte.  Metrological traceability is to the SI unit of mass expressed as derived unit of mass fraction. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values are provided in Table 5 for additional PAHs, in 
+Table 6 for additional nitro-PAHs, in Table 7 for additional PBDE congeners, in Table 8 for selected inorganic 
+constituents, in Table 9 for selected sugars, and in Table 10 for selected PCDD and PCDF congeners and the total 
+tetra-, penta-, hexa-, and hepta-substituted congeners of PCDD and PCDF.  Reference values are noncertified values 
+that are estimates of the true value; however, the values do not meet the NIST criteria for certification and are 
+provided with associated uncertainties that may reflect only measurement precision, may not include all sources of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [1]. The 
+measurand is the concentration of each analyte, as determined by the methods indicated in the text.  Metrological 
+traceability is to the SI unit of mass expressed as derived unit of mass fraction. 
+ 
+Information  Values:    Information  mass  fraction  values  for  three  HBCD  isomers  are  provided  in  Table 11,  and 
+additional inorganic constituents in Table 12.  Information values for particle-size characteristics in Table 13.  An 
+information value is considered to be a value that will be of interest to the SRM user, but insufficient information is 
+available to assess the uncertainty associated with the value or only a limited number of analyses were performed [1].  
+Information values cannot be used to establish metrological traceability. 
+  
+Expiration of Certification:  The certification of SRM 2787 is valid, within the measurement uncertainty specified, 
+until 30 September 2026, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.   
+ 
+Overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+M.M. Schantz, R. Zeisler, S.E. Long, L.C. Sander, and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  01 December 2016 
+Certificate Revision History on Last Page 
+ 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+cal  Sciences
+
+,R. 
+
+ 
+
+ 
+
+Page 1 of 13 
+
+  
+
+SRM 2787 
+
+the 
+
+from 
+
+the  Nuclear  Physics 
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification.  
+ 
+Partial funding support for the preparation and certification of this SRM  was provided by the U.S. Environmental 
+Protection  Agency,  Office  of  Research  and  Development,  Human  Exposure  and  Atmospheric  Science  Division, 
+National Exposure Research Laboratory (Research Triangle Park, NC). 
+ 
+Institute 
+The  particulate  matter  was  collected  by  J. Kucera  and  staff 
+(Prague, Czech Republic).    The  collection,  processing,  and  bottling  of  fractions  of  the  particulate  matter  were 
+performed  by  M. Mildner,  R. Oflaz,  B.J. Porter,  M.M. Schantz,  and  R. Zeisler  of  the  NIST  Chemical  Sciences 
+Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  D. Cleveland,  J.M. Keller,  J.R. Kucklick,  S.E. Long, 
+K.E. Murphy, R. Oflaz, B.J. Porter, S.A. Rabb, M.M. Schantz, S.S. Vander Pol, and R. Zeisler of the NIST Chemical 
+Sciences Division.  The sugar measurements were performed by P. Louchouarn of the Department of Marine Science 
+and Department of Oceanography, Texas A&M University (Galveston, TX and College Station, TX), and the PCDD 
+and PCDF measurements were performed by G. Poole of Environment Canada, Environmental Technology Centre, 
+Analysis and Air Quality Division (Ottawa, Ontario, Canada). 
+ 
+Evaluation of the data for cadmium, lead and nickel was provided by A.L. Pintar of the NIST Statistical Engineering 
+Division (SED).  Evaluation of the data for all other constituents was provided by N.A. Heckert and S.D. Leigh of the 
+NIST SED. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+zed.  The  particle  size 
+Handling:  This material may contain constituents of unknown toxicity and is readily aerosolized.  The particle size 
+of a significant portion of the material is in the range of inhalable airborne particulate matter.  Therefore, caution and 
+care should be exercised during its handling and use. 
+ 
+.  away  from  direct  sunlight  at  room 
+Storage:  SRM 2787 is provided in an amber glass bottle and should be stored away from direct sunlight at room 
+temperature (25 °C) or below. 
+ 
+The
+Use:    Prior  to  removal  of  test  portions  for  analysis,  the  contents  of  the  bottle  should  be  mixed  thoroughly.    The 
+recommended minimum sample size is 30 mg.  The concentrations of constituents in SRM 2787 are reported on a 
+dry-mass basis.  The SRM, as received, contains a mass fraction of approximately 1.2 % moisture.  A separate test 
+portion of the SRM should be removed from the bottle at the time of analysis and dried to determine the moisture 
+content to convert the mass fraction to a dry-mass basis. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample  Collection  and  Preparation:    This  SRM  was  prepared  from  atmospheric  particulate  material  collected 
+in 2005 from an air intake filtration system of a major exhibition center in Prague, Czech Republic.  While the sample 
+is not intended to be representative of the area from which it was collected, it should generally typify atmospheric 
+particulate matter obtained from an urban area.  The particulate material was removed from the reusable surface filters 
+and sent to NIST.  A particle suspension unit and ultra-high-volume sampler (UHVS) were used to resuspend the total 
+suspended particulate matter, and the face velocity of the cyclone in the UHVS was adjusted to control the particle 
+size collected on Teflon® membrane filters.  The size-fractionated particulate matter was then brushed from the filters 
+and collected in a clean amber bottle with a Teflon®-lined cap.  The bottle containing the material was rolled and then 
+the  material  was  aliquoted  into  clean  amber  4 mL  bottles  with  Teflon®-lined  caps.    Each  bottle  contains  between 
+100 mg and 140 mg of material. 
+ 
+ 
+
+ 
+
+                     
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  specify  adequately  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 2787 
+
+ 
+
+Page 2 of 13 
+
+Conversion to Dry-Mass Basis:  The results for the constituents in SRM 2787 are reported on a dry-mass basis; 
+however, the material “as received” contains residual moisture.  The amount of moisture in SRM 2787 was determined 
+by measuring the mass loss after freeze-drying test portions of 100 mg to 140 mg for 5 days at 1 Pa with a –20 °C 
+shelf temperature and a –50 °C condenser temperature.  The mass fraction of moisture in SRM 2787 at the time of 
+certification analyses was 1.2 % ± 0.3 % at the 95 % confidence level. 
+ 
+PAHs, Nitro-PAHs, and PBDEs:  The general approach used for the value assignment of the PAHs, nitro-PAHs, 
+and  PBDEs  in  SRM 2787  was  similar  to  that  reported  for the  recent  certification  of  several  environmental-matrix 
+SRMs [2]  and  consisted  of  combining  results  from  analyses  using  various  combinations  of  different  extraction 
+techniques, cleanup/isolation procedures, and chromatographic separation and detection techniques.   
+ 
+Five sets of gas chromatography/mass spectrometry (GC/MS) results, designated as GC/MS (I) through GC/MS (V) were 
+obtained  at  NIST.    For  GC/MS (I)  analyses,  duplicate  test  portions  of  between  10 mg  and  30 mg  from  six  bottles  of 
+SRM 2787 were extracted using pressurized fluid extraction (PFE) at 150 °C with toluene.  The extract was fractionated 
+using an aminopropyl solid-phase extraction (SPE) column to isolate the fraction of interest.  The processed extract was then 
+analyzed  by  GC/MS  using  a  0.25 mm i.d. × 60 m  fused  silica  capillary  column  with  a  50 %  (mole  fraction)  phenyl 
+thickness;  DB-17,  Agilent  Technologies,  Wilmington, DE)  and  a 
+methylpolysiloxane  phase  (0.25 μm  film 
+0.25 mm i.d. × 15 m fused silica capillary column with a 50 % (mole fraction) liquid crystal polysiloxane phase (0.15 μm 
+film thickness; LC-50, J&K Scientific, Milton, Ontario, Canada).  The PAHs were determined on the DB-17 column using 
+electron impact MS (EI-MS), method GC/MS (Ia).  The PAHs were also determined on the LC-50 column using EI-MS, 
+method  GC/MS (Ib).    The  nitro-PAHs  and  PBDEs  were  determined  on  the  LC-50  column  using  negative  chemical 
+ionization MS (NCI-MS), method GC/MS (Ic). 
+ 
+For the GC/MS (II) determination of the PAHs, one test portion (100 mg) from each of six bottles was extracted using PFE 
+at 100 °C with dichloromethane (DCM).  Size exclusion chromatography (SEC) on a divinylbenzene-polystyrene column 
+(10 μm particle size, 10 nm [100 angstrom] pore size, 7.5 mm i.d. × 300 mm, PL-Gel, Polymer Labs, Inc., Amherst, MA) 
+was used.  The fraction of interest was further isolated using an alumina (5 % deactivated) SPE column.  The isolated fraction 
+was  then  analyzed  by  GC/MS  using  a  0.25 mm i.d. × 60 m  fused  silica  capillary  column  with  a  50 %  phenyl 
+methylpolysiloxane phase (0.25 μm film thickness; DB-17MS, Agilent Technologies).   
+ 
+The GC/MS (III) analyses focused on the PBDEs.  Six test portions (between 100 mg and 140 mg) were extracted using 
+PFE at 100 °C with DCM.  The extracts were cleaned up using an alumina (5 % deactivated) SPE column.  SEC on a 
+divinylbenzene-polystyrene column (10 μm particle size, 10 nm (100 angstrom) pore size, 7.5 mm i.d. × 300 mm, PL-Gel, 
+Polymer Labs, Inc.) was then used.  This step was followed by an acidified silica SPE column step.  Two fractions were 
+collected from the acidified silica column.  The PBDEs were quantified using GC/EI-MS on a 0.18 mm i.d. × 30 m fused 
+silica capillary column with a 5 % (mole fraction) phenyl methylpolysiloxane phase (0.18 μm film thickness; DB-5MS, 
+Agilent Technologies).  The PBDEs were also quantified using GC/NCI-MS on a 0.18 mm i.d. × 10 m fused silica capillary 
+column  with  a  5 %  (mole  fraction)  phenyl  methylpolysiloxane  phase  (0.18 μm  film  thickness;  DB-5MS,  Agilent 
+Technologies). 
+ 
+For GC/MS (IV), duplicate test portions of between 10 mg and 30 mg from three bottles of SRM 2787 were extracted using 
+PFE at 100 °C (for one of the test portions from each bottle; GC/MS IVa) or at 150 °C (for the other test portion from each 
+bottle; GC/MS IVb) with toluene.  The extract was fractionated using an aminopropyl SPE column to isolate the fraction of 
+interest.  The processed extract was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column 
+with a proprietary non-polar column (0.25 μm film thickness; DB-XLB, Agilent Technologies, Wilmington, DE) and a 
+0.25 mm i.d. × 30 m fused silica capillary column with a 50 % (mole fraction) phenyl methylpolysiloxane phase (0.25 μm 
+film thickness; DB-17MS, Agilent Technologies).  The PAHs were determined on the DB-XLB column using EI-MS.  The 
+nitro-PAHs were determined on the DB-17MS column using NCI-MS.   
+ 
+Duplicate  test  portions  of  50 mg  from  three  bottles  of  SRM 2787  were  extracted  using  PFE  at  100 °C  with  DCM  for 
+GC/MS (V) determination of the PAHs.  The fraction of interest was further isolated using an alumina (5 % deactivated) 
+SPE column.  The isolated fraction was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column 
+with a 50 % phenyl methylpolysiloxane phase (0.25 μm film thickness; DB-17MS, Agilent Technologies).   
+ 
+For the methods described above, selected perdeuterated PAHs, perdeuterated nitro-PAHs, and fluorinated and 13C-labeled 
+PBDEs  were  added  to  the  particulate  matter  prior  to  solvent  extraction  for  use  as  internal  standards  for  quantification 
+purposes.  The reference mass fraction values for selected PAHs (biphenyl, dibenzothiophene, phenanthrene, anthracene, 
+2-methylphenanthrene,  3-methylphenanthrene,  9-methylphenanthrene,  1,7-dimethylphenanthrene,  1-methylpyrene, 
+benzo[c]phenanthrene,  and  benz[a]anthracene)  were  significantly  higher  in  the  extracts  obtained  using  PFE  at  150 °C 
+compared to those obtained using PFE at 100 °C.  The mass fraction values listed in Table 5 are those obtained using PFE 
+at 100 °C, which is the typical temperature used for PFE, with the values obtained using PFE at 150 °C with toluene followed 
+by analysis on a LC-50 column is footnoted in Table 5. 
+
+isolated
+
+SRM 2787 
+
+ 
+
+Page 3 of 13 
+
+30
+
+ 
+Homogeneity  Assessment  for  PAHs,  Nitro-PAHs,  and  PBDEs:    The  homogeneity  of  SRM 2787  was  assessed  by 
+analyzing duplicate 10 mg to 30 mg test portions from six bottles selected by stratified random sampling.  No statistically 
+significant differences among bottles were observed for the three classes of compounds at the 30 mg sample size.  
+ 
+Value Assignment of PAHs and Nitro-PAHs:  Recent studies [3,4] on solvent extraction of other air particulate matter 
+SRMs have shown that using PFE at 200 °C removes higher quantities than using PFE at 100 °C or 150 °C for some PAHs 
+and nitro-PAHs.  As a result of these studies, SRM 2787 was reanalyzed for determination of PAHs using PFE at 200 °C, 
+and the results were found to be equivalent to the previously assigned values. 
+ 
+HBCDs:  The second fraction from the acidified silica SPE clean-up in Method GC/MS (III) above was analyzed by liquid 
+chromatography with tandem mass spectrometry (LC/MS/MS) for the HBCDs using both electrospray ionization (ESI), 
+Method LC/MS/MS IIId, and atmospheric pressurized photoionization (APPI), Method LC/MS/MS IIIe.  A C18 column 
+(3.0 mm × 150 mm × 3.5 μm  column,  Eclipse  Plus,  Agilent  Technologies)  was  used  with  a  solvent  gradient  using 
+2.5 mmol/L ammonium acetate in 12.5 % water in methanol (volume fraction) and acetonitrile at a flow rate of 0.3 mL/min.  
+13C-labeled HBCDs  were added to the air particulate  matter prior to solvent extraction for use as internal standards for 
+quantification purposes. 
+ 
+Inorganic Constituents Other Than Mercury:  Value assignment of the mass fractions of Cd and Pb were performed 
+using isotope dilution-inductively coupled plasma mass spectrometry (ID-ICP-MS).  Two 50 mg samples taken from 
+each of four bottles of SRM 2787 were spiked with 111Cd and 206Pb and subjected to microwave digestion using 1 g 
+of concentrated hydrofluoric acid and 9 g of concentrated nitric acid.  For Pb, a portion of the samples were heated to 
+near-dryness and redissolved in 2 % (volume fraction) nitric acid prior to ICP-MS analysis. For Cd, the remaining 
+sample portions were subjected to anion exchange chromatography to separate Cd from the matrix prior to analysis. 
+ 
+Value assignment of the mass fractions of additional inorganic constituents is based on instrumental neutron activation 
+analysis (INAA) and inductively coupled plasma optical emission spectrometry (ICP-OES).  For INAA, direct analysis of 
+pellets formed from duplicate test portions (median sample size of 1.3 mg) from each of 12 randomly selected bottles of 
+SRM 2787 was achieved by the comparator technique with established multielement standards.  Two sets of irradiations 
+were carried out in the RT-1 pneumatic facility of the NIST Center for Neutron Research (NCNR).  The irradiations 
+for  short-lived  nuclides  were  done  for  300 s.  The  long  irradiations  were  spaced  48 h  apart.    Irradiation  time  was 
+(6+6) h  with  a  180 degree  inversion  of  the  irradiation  capsule  after  the  first  6 h  for  flux  homogeneity.    For  the 
+gamma-ray  assay  of  short-lived  nuclides,  measurements  were  done  10 min  after  an  8 min  decay.    Standards  were 
+counted either before or after the samples for 5 or 10 min, respectively.  For the long irradiations, the first count was 
+2 h after a 3 d decay; the second count was 12 h after at least 25 d decay with counts of the standards following the 
+sample counts. 
+ 
+For ICP-OES, one 50 mg sample was taken from each of seven bottles of SRM 2787.  The samples were microwave-
+digested using 1 mL of concentrated hydrofluoric acid and 9 mL of concentrated nitric acid.  Following dilution with 
+water, the samples were analyzed by ICP-OES using optimized parameters for each element. 
+ 
+Homogeneity Assessment for Inorganic Constituents:  The assessment of the homogeneity of SRM 2787 for inorganic 
+constituents was based on the INAA results for the test portions from 12 bottles (median sample size of 1.3 mg).  Calculated 
+elemental homogeneity factors He [5] range from 1.3 for aluminum to 10 for titanium, which indicates that SRM 2787 is 
+suitable for milligram-size sampling for inorganic constituents. 
+ 
+Mercury:  Value assignment of the mass fraction of mercury is based on isotope dilution cold-vapor ICP-MS [6–8].  Single 
+subsamples (40 mg to 70 mg) were taken from each of four bottles and spiked with 201 Hg followed by microwave digestion.   
+ 
+Sugars:    Value  assignment  of  the  mass  fractions  of  sugars  is  based  on  the  analysis  of  three  samples  (30 mg)  of 
+SRM 2787  at  Texas A&M University [9]. 
+  The  samples  were  extracted  using  PFE  at  100 °C  with 
+dichloromethane:methanol  (9:1,  volume  fraction).    The  extracts  were  dried  and  redissolved  in  pyridine  and  then 
+derivatized 
+fraction) 
+trimethylchlorosilane (TMCS) at 75 °C for 1 h.  The sugars were quantified using GC/EI-MS on a 0.25 mm i.d. × 30 m 
+fused silica capillary column with a 5 % (mole fraction) phenyl methylpolysiloxane phase (0.25 μm film thickness, DB-5, 
+Agilent Technologies).  
+ 
+Polychlorinated  Dibenzo-p-Dioxins  and  Dibenzofurans:    Value  assignment  of  the  mass  fractions  of  the 
+2,3,7,8-substituted  polychlorinated  dibenzo-p-dioxin  and  dibenzofuran  congeners  and  the  total  tetra-through 
+hepta-substituted polychlorinated dibenzo-p-dioxins and dibenzofurans is based on the analysis of four test portions 
+(between 100 mg and 150 mg) of SRM 2787 by Environment Canada.  Samples were Soxhlet-extracted overnight with 
+toluene.  Extracts were concentrated and solvent exchanged to hexane, then passed through a modified silica column 
+
+N,O-bis(trifluoroacetamide (BSTFA) 
+
+containing 
+
+(volume 
+
+using 
+
+1 % 
+
+SRM 2787 
+
+ 
+
+Page 4 of 13 
+
+followed by a basic alumina column.  The dioxin/furan fraction was analyzed by using GC with high-resolution mass 
+spectrometric detection (GC-HRMS) and a 0.25 mm i.d. × 60 m fused silica capillary column with a 5 % (mole fraction) 
+phenyl-substituted  methylpolysiloxane  phase  (0.25 µm  film  thickness).    The  2,3,7,8-tetrachlorodibenzofuran  was 
+quantified using a 50 % cyanopropylphenyl-substituted methylpolysiloxane (DB-225, Agilent Technologies) capillary 
+column.  
+ 
+Particle-Size Information:   Particle size distribution  measurements  for SRM 2787  were carried out using a laser 
+diffraction instrument (Mastersizer 2000, Malvern Instruments, Southborough, MA) and the liquid suspension method 
+with the instrument manufacturer’s small-volume sample dispersion unit (Hydro 2000 SM).  A suspension of 0.1 % 
+(mass fraction) of SRM 2787 in distilled water with 0.001 % Triton (volume fraction) was prepared by ultrasonication 
+for  1 h.    A  measurement  sequence  of  background  and  sample  measurement  was  used.    After  the  recording  of  the 
+background, a portion of the suspension was added to the measurement cell to achieve an obscuration of 5 %.  Three 
+passes of the sample solution were recorded and averaged.  A refractive index of 1.5 and absorption index of 0.1 were 
+selected for the measurements.  Results were calculated using the General Purpose Model provided by the instrument 
+manufacturer; the results obtained are shown in Figure 1.   
+ 
+ 
+Table 1.  Certified Mass Fraction Values for Selected PAHs in SRM 2787 (Dry-Mass Basis) 
+
+Mass Fraction(a) 
+(mg/kg)  
+
+0.150  ± 
+± 
+12.28 
+± 
+9.60 
+± 
+4.23 
+± 
+3.44 
+7.74 
+± 
+1.724  ± 
+± 
+6.56 
+± 
+3.77 
+2.94 
+± 
+0.736  ± 
+± 
+4.05 
+3.228  ± 
+0.737  ± 
+± 
+4.99 
+± 
+4.18 
+0.418  ± 
+0.502  ± 
+0.581  ± 
+1.074  ± 
+1.70 
+± 
+0.823  ± 
+0.567  ± 
+
+0.010 
+0.21 
+0.39 
+0.26 
+0.20 
+0.76 
+0.016 
+0.27 
+0.25 
+0.11 
+0.017 
+0.22 
+0.074 
+0.012 
+0.14 
+0.24 
+0.067 
+0.012 
+0.030 
+0.047 
+0.15 
+0.027 
+0.034 
+
+Fluorene(b,c,d,e) 
+Fluoranthene(b,c,d,e,f,g) 
+Pyrene(b,c,d,e,f,g) 
+Retene(c,d,e,f) 
+Benzo[ghi]fluoranthene(b,e,f,,g) 
+Chrysene(c,d,g) 
+Triphenylene(c,d,g) 
+Benzo[b]fluoranthene(b,e,f,g) 
+Benzo[j]fluoranthene(b,e,f) 
+Benzo[k]fluoranthene(b,c,d,e,f) 
+Benzo[a]fluoranthene(b,c,d,e,f) 
+Benzo[e]pyrene(b,c,d,e,f,g) 
+Benzo[a]pyrene(b,c,d,e,f,g) 
+Perylene(b,c,d,e,f,g) 
+Benzo[ghi]perylene(b,c,d,e,f,g) 
+Indeno[1,2,3-cd]pyrene(b,c,d,e,f,g) 
+Dibenz[a,c]anthracene(b,e,f,g) 
+Dibenz[a,j]anthracene(b,c,d,e,f,g) 
+Benzo[b]chrysene(b,c,d,e,f,g) 
+Picene(b,c,d,e,f,g) 
+Coronene(b,c,d,e) 
+Dibenzo[b,k]fluoranthene(b,c,d,e,f) 
+Dibenzo[a,e]pyrene(b,c,d,e,f) 
+
+af 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+(a)  The certified value is a weighted mean of the results from three to six analytical methods [10,11].  The uncertainty listed with 
+each  value  is  an  expanded  uncertainty  about  the  mean [12],  with  coverage  factor,  k = 2  (approximately  95 %  confidence), 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance  following  the  ISO/JCGM 
+Guide [12–14]. 
+
+ethc 
+w,  k
+
+(b)  GC/EI-MS Ia using PFE at 150 °C with toluene followed by analysis on a DB-17 column. 
+(c)  GC/EI-MS IVa using PFE at 100 °C with toluene followed by analysis on a DB-XLB column. 
+(d)  GC/EI-MS IVb using PFE at 150 °C with toluene followed by analysis on a DB-XLB column. 
+(e)  GC/EI-MS V using PFE at 100 °C with DCM followed by analysis on a DB-17MS column. 
+(f)  GC/EI-MS II using PFE at 100 °C with DCM followed by analysis on a DB-17MS column. 
+(g)  GC/EI-MS Ib using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+
+SRM 2787 
+
+ 
+
+Page 5 of 13 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Table 2.  Certified Mass Fraction Values for Selected Nitro-PAHs in SRM 2787 (Dry-Mass Basis) 
+
+Nitro 
+
+1-Nitropyrene(b,c,d) 
+2-Nitrofluoranthene(b,c,d) 
+ 
+
+ 
+(a)  The certified value is a weighted mean of the results from three analytical methods [10,11].  The uncertainty listed with each 
+three 
+value is an expanded uncertainty about the mean [12], with coverage factor, k = 2 (approximately 95 % confidence), calculated 
+by combining a pooled within-method variance with a between-method variance following the ISO/JCGM Guide [12–14]. 
+
+(b)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+(c)  GC/NCI-MS IVa using PFE at 100 °C with toluene followed by analysis on a DB-17MS column. 
+(d)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a DB-17MS column. 
+ 
+ 
+
+Table 3.  Certified Mass Fraction Values for Selected PBDE Congeners(a) in SRM 2787 (Dry-Mass Basis) 
+
+iss  Fraction 
+
+PBDE  99 
+PBDE  209  (Decabromodiphenyl ether)(c,d) 
+
+(2,2',4,4',5-Pentabromodiphenyl ether)(c,d) 
+
+ 
+(a)  PBDE congeners are numbered according to IUPAC rules.   
+(b)  The certified value is a weighted mean of the results from three analytical methods [10,11].  The uncertainty listed with each 
+value is an expanded uncertainty about the mean [12], with coverage factor, k = 2 (approximately 95 % confidence), calculated 
+by combining a pooled within-method variance with a between-method variance following the ISO/JCGM Guide [12–14]. 
+
+(c)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+(d)  GC/NCI-MS III using PFE at 100 °C with DCM followed by analysis on a DB-5 column (10 m). 
+ 
+
+ 
+
+ 
+
+Table 4.  Certified Mass Fraction Values for Selected Trace Elements in SRM 2787 (Dry-Mass Basis) 
+
+ction  Value 
+
+nents 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction(a) 
+(μg/kg)  
+
+69.5 
+280 
+
+±  3.0 
+±  34 
+
+Mass Fraction(b) 
+ (μg/kg)  
+
+5.83  ±  0.73 
+
+169 
+
+± 30 
+
+Mass Fraction 
+(mg/kg)  
+
+0.706  ± 
+
+0.038(a) 
+
+35970 
+
+4.53 
+
+214 
+240 
+741 
+81.7 
+
+0.12(a) 
+
+± 1050(b) 
+± 
+±  15(b) 
+5(a) 
+± 
+±  30(b) 
+± 
+
+6.1(b) 
+
+ 
+ 
+
+ 
+ 
+
+Total Mercury 
+ 
+Aluminum 
+ 
+Cadmium 
+ 
+Chromium 
+ 
+Lead 
+ 
+Manganese 
+Vanadium 
+ 
+ 
+
+ 
+
+(a)  The certified mass fraction value is the mean of results obtained using one definitive analytical technique (ID-ICP-MS).  The 
+expanded uncertainty, U, is calculated as U = kuc, where uc is the standard error of the dry-mass corrected analyte mean, and the 
+coverage factor, k, is determined from the Student’s t-distribution corresponding to three degrees of freedom and a 95 % confidence 
+level for each analyte.  The coverage factor is 3.18. 
+
+three 
+
+ainty 
+(b)  The certified value is a weighted mean of the results from two analytical methods, INAA and ICP-OES [10,11].  The uncertainty 
+listed  with  each  value  is  an  expanded  uncertainty  about  the  mean [12],  with  coverage  factor,  k = 2  (approximately  95 % 
+confidence),  calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance  following  the 
+ISO/JCGM Guide [12–14]. 
+
+two 
+icertainty  about  t 
+pooled 
+
+between
+
+SRM 2787 
+
+ 
+
+Page 6 of 13 
+
+Table 5.  Reference Mass Fraction Values for Selected PAHs in SRM 2787 (Dry-Mass Basis) 
+
+scted  PAHs  in  SRM 
+
+ 
+Extraction Conditions 
+ 
+ 
+between  100  °C  and  150  °C 
+PFE using temperatures between 100 °C and 150 °C 
+
+Naphthalene(a,b,c,d) 
+1-Methylnaphthalene(a,b,c,d,f) 
+2-Methylnaphthalene(a,b,c,d,f) 
+1,6-Dimethylnaphthalene(d,f) 
+Acenaphthylene(b,c,d) 
+1-Methylphenanthrene(a,b,d) 
+2-Methylanthracene(f) 
+4H-cyclopenta[def]phenanthrene(a,d,f) 
+1-Methylfluoranthene(b,c,d,f) 
+3-Methylfluoranthene(a,b,c,d,f) 
+4-Methylpyrene(d,f) 
+Cyclopenta[cd]pyrene(b,c,d,f) 
+3-Methylchrysene(a,d,f) 
+6-Methylchrysene(a,d,f) 
+Dibenz[a,h]anthracene(a,d,f,h) 
+Dibenzo[a,h]pyrene(d) 
+
+100 
+
+PFE using 100 °C 
+ 
+ 
+
+Biphenyl(b) 
+Dibenzothiophene(b) 
+Phenanthrene(b,d,f) 
+Anthracene(b,d,f) 
+2-Methylphenanthrene(b,d,f) 
+3-Methylphenanthrene(b,d,f) 
+9-Methylphenanthrene(b,d,f) 
+1,7-Dimethylphenanthrene(b,d) 
+1-Methylpyrene(b,d,f) 
+Benzo[c]phenanthrene(a,b,d,f) 
+Benz[a]anthracene(b,c,d,f) 
+
+Biphenyl(a) 
+Dibenzothiophene(a) 
+Phenanthrene(a) 
+Anthracene(a) 
+2-Methylphenanthrene(a) 
+3-Methylphenanthrene(a) 
+9-Methylphenanthrene(a) 
+1,7-Dimethylphenanthrene(a) 
+1-Methylpyrene(a) 
+Benzo[c]phenanthrene(a) 
+Benz[a]anthracene(a) 
+
+°C 
+PFE using 150 °C 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction  
+(mg/kg)  
+
+0.319  ±  0.022(e) 
+0.113  ±  0.008(e) 
+0.213  ±  0.014(e) 
+0.121  ±  0.013(e) 
+0.153  ±  0.002(e) 
+0.902  ±  0.060(e) 
+0.135  ±  0.003(g) 
+0.57  ±  0.19(e) 
+0.554  ±  0.049(e) 
+1.02  ±  0.16(e) 
+1.03  ±  0.10(e) 
+0.293  ±  0.040(e) 
+0.747  ±  0.059(e) 
+0.642  ±  0.099(e) 
+0.53  ±  0.11(e) 
+0.248  ±  0.011(g) 
+
+0.133  ±  0.013(g) 
+0.164  ±  0.007(g) 
+3.51  ±  0.18(e) 
+0.286  ±  0.044(e) 
+0.831  ±  0.070(e) 
+0.627  ±  0.064(e) 
+0.440  ±  0.081(e) 
+1.09  ±  0.04(e) 
+0.978  ±  0.068(e) 
+1.747  ±  0.056(e) 
+5.00  ±  0.61(e) 
+
+0.325  ±  0.011(g) 
+0.252  ±  0.007(g) 
+4.55  ±  0.06(g) 
+0.398  ±  0.009(g) 
+1.16  ±  0.03(g) 
+0.905  ±  0.074(g) 
+0.545  ±  0.044(g) 
+1.94  ±  0.13(g) 
+1.23  ±  0.07(g) 
+1.90  ±  0.10(g) 
+5.79  ±  0.11(g) 
+
+ 
+(a)  GC/EI-MS Ia using PFE at 150 °C with toluene followed by analysis on a DB-17 column. 
+(b)  GC/EI-MS IVa using PFE at 100 °C with toluene followed by analysis on a DB-XLBcolumn. 
+(c)  GC/EI-MS IVb using PFE at 150 °C with toluene followed by analysis on a DB-XLB column. 
+(d)  GC/EI-MS V using PFE at 100 °C with DCM followed by analysis on a DB-17MS column. 
+(e)  The reference value is a weighted mean of the results from two to five analytical methods [10,11].  The uncertainty listed with 
+each  value  is  an  expanded  uncertainty  about  the  mean [12],  with  coverage  factor,  k = 2  (approximately  95 %  confidence), 
+the 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance 
+ISO/JCGM Guide [12-14]. 
+
+following 
+
+(f)  GC/EI-MS II using PFE at 100 °C with DCM followed by analysis on a DB-17MS column. 
+(g)  This reference value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, is calculated 
+as U = kuc, where uc is one standard uncertainty of the analyte mean, and the coverage factor, k, is determined from the Student’s 
+t-distribution corresponding to the associated degrees of freedom (df = 2) and a 95 % confidence level for each analyte. 
+
+The  exp:
+
+(h)  GC/EI-MS Ib using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+
+SRM 2787 
+
+ 
+
+Page 7 of 13 
+
+Table 6.  Reference Mass Fraction Values for Selected Nitro-PAHs in SRM 2787 (Dry-Mass Basis) 
+
+[ass  Fraction 
+
+Nitro 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction  
+(μg/kg)  
+
+±  55(d) 
+±  8.3(d) 
+
+942 
+26.2 
+12.50  ±  0.40(d) 
+7.18  ±  0.70(d) 
+98.9 
+
+±  3.5(e) 
+
+9-Nitroanthracene(a,b,c) 
+3-Nitrophenanthrene(a,b) 
+9-Nitrophenanthrene(a,b) 
+3-Nitrofluoranthene(a,b) 
+7-Nitrobenz[a]anthracene(c) 
+
+ 
+(a)  GC/NCI-MS IVa using PFE at 100 °C with toluene followed by analysis on a DB-17MS column. 
+(b)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a DB-17MS column. 
+(c)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+(d)  The reference value is a weighted mean of the results from two analytical methods [10,11].  The uncertainty listed with each 
+d  with  each 
+value is an expanded uncertainty about the mean [12], with coverage factor, k = 2 (approximately 95 % confidence), calculated 
+by combining a pooled within-method variance with a between-method variance following the ISO/JCGM Guide [12–14]. 
+(e)  Each  reference  values  are  the  means  of  results  obtained  using  one  analytical  technique.    The  expanded  uncertainty,  U,  is 
+calculated is U = kuc, where uc is one standard uncertainty of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom (df = 11) and a 95 % confidence level for each analyte. 
+
+Table 7.  Reference Mass Fraction Values for Selected PBDE Congeners(a) in SRM 2787 (Dry-Mass Basis) 
+) 
+
+ction  Values 
+
+ 
+ 
+
+ 
+(2,2',4,4'-Tetrabromodiphenyl ether)(b,c,d) 
+PBDE  47 
+PBDE  100  (2,2',4,4',6-Pentabromodiphenyl ether)(b,c) 
+PBDE  153  (2,2',4,4',5,5'-Hexabromodiphenyl ether)(c) 
+PBDE  154  (2,2',4,4',5,6'-Hexabromodiphenyl ether)(c) 
+PBDE  191  (2,3,3',4,4',5',6-Heptabromodiphenyl ether)(c) 
+
+Mass Fraction 
+(μg/kg)  
+
+ 
+
+±  1.5(e) 
+
+9.5 
+2.19  ±  0.34(b) 
+1.52  ±  0.27(f) 
+0.88  ±  0.20(f,g) 
+0.76  ±  0.20(f) 
+
+ 
+(a)  PBDE congeners are numbered according to IUPAC rules.   
+(b)  GC/NCI-MS Ic using PFE at 150 °C with toluene followed by analysis on a LC-50 column. 
+(c)  GC/NCI-MS III using PFE at 100 °C with DCM followed by analysis on a DB-5 column (10 m). 
+(d)  GC/EI-MS III using PFE at 100 °C with DCM followed by analysis on a DB -5 column (30 m). 
+(e)  The reference value is a weighted mean of the results from two or three analytical methods [10,11].  The uncertainty listed with 
+1  with 
+each  value  is  an  expanded  uncertainty  about  the  mean [12],  with  coverage  factor,  k = 2  (approximately  95 %  confidence), 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance 
+the 
+ISO/JCGM Guide [12–14]. 
+
+following 
+
+k 
+ve 
+
+Is 
+
+(f)  This reference value is the mean of results obtained using one analytical technique.  The expanded uncertainty, U, is calculated 
+as U = kuc, where uc is one standard uncertainty of the analyte mean, and the coverage factor, k, is determined from the Student’s 
+t-distribution corresponding to the associated degrees of freedom (df = 5) and a 95 % confidence level for each analyte. 
+
+The  exp: 
+
+2
+(g)  The reference value for PBDE 154 includes a contribution from PBB 153 (2,2',4,4',5,5'-hexabromobipenyl).  The quantitative 
+
+each 
+‘omobipenyl). 
+
+results are based on the response of only PBDE 154 in the calibration standards. 
+
+SRM 2787 
+
+ 
+
+Page 8 of 13 
+
+) 
+Table 8.  Reference Mass Fraction Values for Inorganic Constituents in SRM 2787 (Dry-Mass Basis) 
+
+[ass  Fraction 
+
+uents 
+
+Mass Fraction(a) 
+(mg/kg)  
+
+125.8 
+29.9 
+
+57200 
+
+6.5(b) 
+1.0(b) 
+
+± 
+± 
+±  1600(b) 
+
+4.20  ± 
+
+0.23(b) 
+
+±  470(b) 
+18850 
+14(c) 
+683 
+± 
+0.82(b) 
+15.91  ± 
+
+43300 
+
+±  2200(b) 
+
+20.91  ± 
+± 
+87.8 
+3.05  ± 
+
+0.62(b) 
+1.5(d) 
+0.10(b) 
+
+14790 
+2770 
+1820 
+
+±  370(b) 
+±  120(b) 
+94(b) 
+± 
+
+Antimony 
+Arsenic 
+Calcium 
+Cesium 
+Chlorine 
+Copper 
+Cobalt 
+Iron 
+Lanthanum 
+Nickel 
+Samarium 
+Sodium 
+Titanium 
+Zinc 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+(a)  The  results  are  expressed  as  the  reference  value ± the  expanded  uncertainty.    The  associated  uncertainty  accounts  for  both 
+random and systematic effects, but because only one method was used, unrecognized bias may exist for some elements in this 
+matrix. The expanded uncertainty in the reference value is equal to U = kuc, where uc is the combined standard uncertainty and 
+k is the coverage factor, both calculated according to the ISO/JCGM and NIST Guides [13,14]. The value of uc is intended to 
+represent, at the level of one standard deviation, the uncertainty in the value. Here uc accounts for within-method variation and 
+material inhomogeneity. The coverage factor, k, is the Student's t-value for a 95 % confidence interval with the corresponding 
+degrees of freedom.  
+
+(b)  The reference value is based on the results from the INAA study (df = 23). 
+(c)  The reference value is based on the results from the ICP-OES study (df = 6). 
+(d)  The reference mass fraction value for nickel is the mean of results obtained using one analytical technique (ICP-OES).  The 
+expanded uncertainty, U, is calculated as U = kuc, where uc is the standard error of the dry-mass corrected analyte mean, and the 
+coverage factor, k, is determined from the Student’s t-distribution corresponding to six degrees of freedom and a 95 % confidence 
+level for each analyte.  The coverage factor k is 2.45. 
+
+ 
+ 
+) 
+Table 9.  Reference Mass Fraction Values for Selected Sugars in SRM 2787 (Dry-Mass Basis) 
+
+[ass  Fraction 
+
+Sugar 
+
+Levoglucosan 
+Mannosan 
+Glactosan 
+
+ 
+The  expanded 
+(a)  Reference values are the means of results obtained by Texas A&M University using one analytical technique. The expanded 
+uncertainty, U, is calculated as U = kuc, where uc is one standard uncertainty of the analyte mean, and the coverage factor, k, is 
+determined from the Student’s t-distribution corresponding to the associated degrees of freedom (df = 2) and 95 % confidence 
+level for each analyte. 
+
+uncertainty
+
+u 
+
+ 
+ 
+
+Mass Fraction(a) 
+(mg/kg)  
+
+±  6 
+±  2 
+
+496 
+101 
+35.3  ±  0.8 
+
+SRM 2787 
+
+ 
+
+Page 9 of 13 
+
+Table 10.  Reference Mass Fraction Values for Selected Dibenzo-p-Dioxin 
+in  SRM 
+and Dibenzofuran Congeners in SRM 2787 (Dry-Mass Basis) 
+ 
+
+ 
+
+ 
+
+ 
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin 
+1,2,3,7,8-Pentachlorodibenzo-p-dioxin 
+1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin 
+1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin 
+1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin 
+1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin 
+Octachlorodibenzo-p-dioxin 
+ 
+2,3,7,8-Tetrachlorodibenzofuran(b) 
+1,2,3,7,8-Pentachlorodibenzofuran 
+2,3,4,7,8-Pentachlorodibenzofuran 
+1,2,3,4,7,8-Hexachlorodibenzofuran 
+1,2,3,6,7,8-Hexachlorodibenzofuran 
+2,3,4,6,7,8-Hexachlorodibenzofuran 
+1,2,3,7,8,9-Hexachlorodibenzofuran 
+1,2,3,4,6,7,8-Heptachlorodibenzofuran 
+1,2,3,4,7,8,9-Heptachlorodibenzofuran 
+Octachlorodibenzofuran 
+ 
+Total Tetrachlorodibenzo-p-dioxins 
+Total Pentachlorodibenzo-p-dioxins 
+Total Hexachlorodibenzo-p-dioxins 
+Total Heptachlorodibenzo-p-dioxins 
+ 
+Total Tetrachlorodibenzofurans 
+Total Pentachlorodibenzofurans 
+Total Hexachlorodibenzofurans 
+Total Heptachlorodibenzofurans 
+ 
+Total Dibenzo-p-dioxins(c) 
+Total Dibenzofurans(c) 
+
+Mass Fractions 
+(μg/kg)(a) 
+
+0.010 
+0.045 
+0.036 
+0.070 
+0.071 
+0.585 
+2.18 
+
+0.159 
+0.113 
+0.235 
+0.369 
+0.144 
+0.129 
+0.011 
+0.476 
+0.069 
+0.298 
+
+0.44 
+0.65 
+1.02 
+1.04 
+
+2.25 
+2.07 
+1.47 
+0.75 
+
+5.33 
+6.83 
+
+±  0.001 
+±  0.002 
+±  0.002 
+±  0.007 
+±  0.013 
+±  0.022 
+±  0.13 
+
+±  0.011 
+±  0.005 
+±  0.011 
+±  0.017 
+±  0.005 
+±  0.010 
+±  0.006 
+±  0.017 
+±  0.005 
+±  0.011 
+
+±  0.02 
+±  0.01 
+±  0.07 
+±  0.04 
+
+±  0.06 
+±  0.08 
+±  0.05 
+±  0.03 
+
+±  0.25 
+±  0.23 
+
+ 
+The  expanded
+(a)  Reference  values  are  the  means  of  results  obtained  by  Environment  Canada  using  one  analytical  technique.  The  expanded 
+uncertainty, U, is calculated as U = kuc, where uc is one standard uncertainty of the analyte mean, and the coverage factor, k, is 
+determined from the Student’s t-distribution corresponding to the associated degrees of freedom (df = 3) and 95 % confidence level 
+for each analyte. 
+
+(b)  Confirmation using a 50 % cyanopropylphenylpolysiloxane phase column. 
+(c)  Total of tetra-through octa-chlorinated congeners. 
+ 
+
+SRM 2787 
+
+ 
+
+Page 10 of 13 
+
+Table 11.  Information Mass Fraction Values  for Three HBCD Isomers(a,b) in SRM 2787 (Dry-Mass Basis) 
+
+ 
+(a)  The information value is a weighted mean of the results from two analytical methods [10,11].   
+(b)  Methods LC/MS/MS IIId (electrospray ionization) and LC/MS/MS IIIe (atmospheric pressurized photoionization). 
+
+ 
+ 
+ 
+ 
+Table 12.  Information Mass Fraction Values for Inorganic Constituents in SRM 2787 (Dry-Mass Basis) 
+
+uents 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+alpha-HBCD) 
+beta-HBCD   
+gamma-HBCD 
+
+Hafnium 
+Magnesium 
+Scandium 
+Thorium 
+
+Mass Fraction 
+(μg/kg)  
+
+140 
+44 
+150 
+
+Mass Fraction(a) 
+(mg/kg)  
+
+9060 
+
+4.6 
+
+7.7 
+6.0 
+
+(a)  The information values are based on the results from the INAA study.  
+
+ 
+
+ 
+ 
+ 
+ 
+Table 13.  Information Values for Particle Size Characteristics for SRM 2787(a) 
+ 
+
+Size 
+(µm) 
+
+Mean Particle Diameter, d(0.5)(b) 
+Particle Diameter, d(0.1)(c) 
+Particle Diameter, d(0.9)(d) 
+Volume Weighted Mean(e) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)  Figure 1 is an instrument-specific measurement of SRM 2787 dispersed in water with a 1 h sonication  
+ting  the  particle  size  below  which  50 
+(b)  d(0.5) is a parameter for the particle-size distribution indicating the particle size below which 50 % of the volume is present. 
+ting  the  particle  size  below  which  10 
+(c)  d(0.1) is a parameter for the particle-size distribution indicating the particle size below which 10 % of the volume is present. 
+ting  the  particle  size  below  which  90 
+(d)  d(0.9) is a parameter for the particle-size distribution indicating the particle size below which 90 % of the volume is present. 
+distribution.
+(e)  The volume weighted mean is the particle size in a uniform distribution. 
+ 
+
+8.3 
+2.1 
+23.9 
+11.2 
+
+SRM 2787 
+
+ 
+
+Page 11 of 13 
+
+ 
+ 
+Figure 1.  Particle size distribution for SRM 2787 after 1 h.  The solid line represents the volume in %.  See 
+“Particle-Size Information” for additional information. 
+
+ 
+
+ 
+
+SRM 2787 
+
+ 
+
+Page 12 of 13 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of Reference Materials for Chemical Measurements; NIST Special Publication 260-136 (2000); available at 
+http://www.nist.gov/srm/publications.cfm (accessed Dec 2016). 
+
+[2]  Wise, S.A.; Poster, D.L.; Kucklick, J.R.; Keller, J.M.; VanderPol, S.S.; Sander, L.C.; Schantz, M.M.; Standard 
+Reference  Materials  (SRMs)  for  Determination  of  Organic  Contaminants  in  Environmental  Samples;  Anal. 
+Bioanal. Chem., Vol. 386 pp. 1153–1190 (2006). 
+Schantz, M.M.; McGaw, E.; Wise, S.A.; Pressurized Liquid Extraction of Diesel and Air Particulate Standard 
+Reference Materials: Effects of Extraction Temperature and Pressure; Anal. Chem., Vol. 84, pp. 8222–8231 
+(2012). 
+
+[3] 
+
+[4]  Bergvall, C.;  Westerholm, R.;  Determination  of  252-302  Da  and  Tentative  Identification  of  316-376  Da 
+Polycyclic Aromatic Hydrocarbons in Standard Reference Materials 1649a Urban Dust and 1650b and 2975 
+Diesel Particulate Matter by Accelerated Solvent Extration- HPLC-GC-MS; Anal. Bioanal. Chem., Vol. 391 
+pp. 2235–2248 (2008). 
+Stoeppler, M.;  Kurfürst, U.;  Grobecker, K.H.;  Untersuchungen  über  die  Schwermetallanalyse  in  Feststoffen 
+mit  der  direkten  Zeeman-Atomabsorptions-Spektroskopie;  Fresenius  Z.  Anal.  Chem.,  Vol. 322  pp. 687–691 
+(1985). 
+
+[5] 
+
+[6]  Christopher, S.J.; Long, S.E.; Rearick, M.S.; Fassett, J.D.; Development of High Accuracy Vapor Generation 
+Inductively Coupled Plasma Mass Spectrometry and its Application to the Certification of Mercury in Standard 
+Reference Materials; Anal. Chem., Vol. 73 pp. 2190–2199 (2001). 
+Long, S.E.;  Kelly, W.R.;  Accurate  Determination  of  Mercury  in  Coal  by  Isotope  Dilution  Cold-Vapor 
+Generation Inductively Cloupled Plasma Mass Spectrometry; Anal. Chem., Vol. 74 pp. 1477-1483 (2002). 
+
+[7] 
+
+[9] 
+
+[8]  Kelly, W.R.; Long, S.E.; Mann, J.L.; Determination of Mercury in SRM Crude Oils and Refined Products by 
+Isotope  Dilution  Cold  Vapor  ICP-MS  Using  Closed-System  Combustion;  Anal.  Bioanal.  Chem.,  Vol. 376 
+pp. 753–758 (2003). 
+Louchouarn, P.; Kuo, L-J; Wade, T.L.; Schantz, M.M.; Determination of Levoglucosan and its Isomers in Size 
+Fractions of Aerosol Standard Reference Materials; Atmospheric Environment, Vol. 43 pp. 5630–5636 (2009). 
+[10]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177-188 (1986). 
+[11]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323-331 (2009). 
+[12]  Horn, R.A.;  Horn, S.A.;  Duncan, D.B.;  Estimating  Hetroscedastic  Variance  in  Linear  Models;  J.  Am.  Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Dec 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Dec 2016). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in Measurement; Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in 
+Metrology (2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Dec 2016).  
+
+[13] 
+
+[14] 
+
+ 
+ 
+ 
+ 
+
+Certificate Revision History:  01 December 2016 (Editorial changes); 13 August 2013 (Extension of certification period, addition of certified 
+values for cadmium and lead, addition of reference value for nickel, change of 9-nitroanthracene certified value to reference value, Table 5 
+modified to include the reference values previously listed in the footnotes, editorial changes); 15 June 2011 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.  
+
+telephone  (301) 975-2200; 
+
+the  SRM  Program: 
+
+SRM 2787 
+
+ 
+
+Page 13 of 13 
+
+

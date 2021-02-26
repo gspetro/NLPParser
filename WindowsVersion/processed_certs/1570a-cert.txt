@@ -1,0 +1,731 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1570a 
+
+ 
+
+ 
+Trace Elements in Spinach Leaves 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  the  reliability  of  analytical 
+methods for the determination of major, minor, and trace elements in botanical materials, agricultural food products, 
+and materials of similar matrix.  A unit of SRM 1570a consists of 60 g of finely powdered dried spinach leaves. 
+ 
+Certified Mass Fraction Values:   Certified  mass  fraction  values  for selected constituent elements, reported on a 
+dry-mass  basis,  are  provided  in  Table 1.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest 
+confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into 
+account [1]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values of constituent elements, reported on a dry-mass 
+basis, are provided in Table 2.  Reference values are noncertified values that are the best estimates of the true values 
+based on available data; however, the values do not meet  NIST criteria for certification [1] and are provided  with 
+associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all  sources  of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods. 
+ 
+Information  Mass  Fraction  Values:    Information  mass  fraction  values  for  additional  constituent  elements  are 
+provided in Table 3.  A NIST information value is a value that may be of interest to the SRM user, but insufficient 
+information is available to asses the uncertainty associated with the value, therefore no uncertainty is provided [1].  
+Values are reported on a dry-mass basis. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1570a  is  valid,  within  the  measurement  uncertainty 
+tiven 
+specified, until 31 August 2023, provided the SRM is handled and stored in accordance with the instructions given 
+iged,
+in  this  certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certified values before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination of analytical measurements for the characterization of this SRM was performed by D.A. Becker of the 
+NIST Chemical Sciences Division.  Revision of this certificate was coordinated by K.E. Murphy, D.J. O’Kelly, and 
+L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  current  and  former  staff  at  NIST,  E.S. Beary,  D.A. Becker, 
+C.M. Beck II, M.S. Epstein, J.D. Fassett, K.M. Garrity, R.R. Greenberg, R.M. Lindstrom, E.A. Mackey, P. Morales, 
+K.E. Murphy,  P.J. Paulsen,  B.J. Porter,  T.A. Rush,  R. Saraswati,  J.M. Smeller,  G.C. Turk,  R.D. Vocke, Jr., 
+R.L. Watters, Jr., and L.J. Wood. 
+ 
+Additional elemental analyses  were performed by D.L.  Anderson (Center for Food Safety and Applied Nutrition, 
+U.S. Food and Drug Administration, College Park, MD), A.R. Byrne (Nuclear Chemistry Department, Jozef Stefan 
+Institute,  Ljubljana,  Slovenia),  and  J. Kucera  (Nuclear  Physics  Institute,  Academy  of  Sciences  of  the  Czech 
+Republic, Rez, Czech Republic).  Several elements were also measured in an International Atomic Energy Agency 
+(IAEA, Vienna, Austria) interlaboratory comparison exercise. 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  25 February 2014 
+Certificate Revision History on Page 5 
+
+  
+
+SRM 1570a 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 6 
+
+Statistical  analysis  of  the  experimental  data  was  performed  by  W.F. Guthrie,  S.B. Schiller,  and  L.M. Gill  of  the 
+NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:   The  material  should  be  kept  in  its  tightly  closed  original  bottle  and  stored  in  the  dark  at  a  temperature 
+between 10 °C and 30 °C.  It should not be exposed to intense sources of radiation.  Ideally, the bottle should be kept 
+in a desiccator under the conditions indicated above.  Spinach leaves have a tendency to rapidly bleach and to turn a 
+tan  or  light  brown  color  in  the  presence  of  visible  light.    By  monitoring  SRM 1570,  the  original  SRM,  it  was 
+determined that there is no evidence of any change in elemental mass fractions as a result of the color change. 
+ 
+Instructions for Use:  The contents of a bottle should be thoroughly mixed by rotating and/or rolling before each 
+use.    Allow  the  contents  to  settle  for  1 minute  prior  to  opening  to  minimize  the  loss  of  fine  dust  particles.    A 
+minimum sample mass of 150 mg of the material, dried as described in the section (see “Instructions for Drying”), 
+should be used to relate analytical determinations to the certified values on this certificate.  In some cases, especially 
+for volatile elements such as mercury, it is preferable to analyze samples from the bottle without drying, determine 
+the moisture content on a separate sample from the same bottle taken at the same time, and convert the analytical 
+results to a dry-mass basis. 
+ 
+Digestion procedures should be designed to avoid loss of volatile elements, such as arsenic and mercury.  Digestion 
+of  the  SRM  in  nitric  and  perchloric  acids  was  found  to  be  incomplete,  with  a  small  residue  of  siliceous  material 
+remaining.    This  residue  must  be  considered  an  integral  part  of  this  SRM  and  should  be  dissolved  with  a  small 
+amount of hydrofluoric acid to obtain total dissolution.  All certified values are based on the total dissolution. 
+ 
+Instructions for Drying:  Samples of this SRM must be dried by one of the following two procedures in order for 
+certified values to be valid: 
+ 
+1.  Drying in a desiccator at room temperature (approximately 22 °C) for 120 h over fresh anhydrous magnesium 
+
+perchlorate.  The sample depth should not exceed 1 cm. 
+
+ 
+2.  Freeze-drying for 24 h at a pressure of 13.3 Pa or lower and a shelf temperature of –5 °C or lower after having 
+frozen  the  sample  (not  to  exceed  1 cm  in  depth)  at  –40 °C  or  lower  for  at  least  1 h.    At  the  end  of  the  24 h 
+period,  samples  should  be  placed  immediately  in  a  desiccator  with  fresh  anhydrous  magnesium  perchlorate.  
+Samples should be weighed after allowing a minimum of 4 h to establish temperature equilibrium. 
+
+ 
+Note:  An approximate mass loss on drying of 3.5 % was observed for the measurements reported here.  Vacuum 
+drying  at  room  temperature  and  oven  drying  at  elevated  temperatures  have  resulted  in  excessive  mass  losses  and 
+therefore are NOT recommended. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source  and  Preparation  of  Material:    The  material  (approximately  2270 kg)  for  this  SRM  was  obtained  from 
+commercial  supplier  Oregon  Freeze-Drying  Corp.  (Albany, OR).    It  consists  of  U.S. Grade A  chopped  frozen 
+spinach.    The  material  was  thawed,  placed  in  a  ribbon  mixer,  thoroughly  mixed,  and  blended.    After  mixing,  the 
+spinach  was  freeze-dried.    The  freeze-dried  material  was  then  ground  in  a  stainless  steel  grinder  and  shipped  to 
+NIST.  At NIST, the freeze-dried material was sieved through a polypropylene sieve having openings of 0.25 mm 
+(equivalent  to  a  U.S. Series 60  standard  sieve).    The  sieved  material  was  then  jet  milled  and  air  classified  to  a 
+particle size of approximately 75 µm (200 mesh).  After mixing in a large blender, the spinach was irradiated with 
+cobalt-60  radiation  to  a  minimum  absorbed  dose  of  approximately  27.8 kGy  for  microbiological  control  and  was 
+bottled. 
+ 
+
+ 
+
+                                                 
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 1570a 
+
+Page 2 of 6 
+
+Elemental  Analysis:    Value  assignment  of  the  mass  fractions  of  the  elements  in  SRM 1570a  was  based  on  the 
+combination of measurements from two or more different analytical methods at NIST and collaborating laboratories.  
+NIST  and  collaborating  laboratories  provided  measurements  by  using  colorimetry (COLOR),  cold-vapor  atomic 
+absorption spectrometry (CVAAS), flow injection hydride generation atomic absorption spectrometry (FI-HGAAS), 
+inductively coupled plasma optical emission spectrometry (ICP), isotope dilution inductively coupled plasma mass 
+spectrometry (IDICPMS),  isotope  dilution  thermal  ionization  mass  spectrometry (IDTIMS),  instrumental  neutron 
+activation  analysis (INAA),  laser-excited  atomic  fluorescence  spectrometry (LEAFS),  prompt  gamma  activation 
+analysis (PGAA),  and  radiochemical  neutron  activation  analysis (RNAA).    Data  from  an  IAEA  interlaboratory 
+comparison  exercise  were  also  used  where  available.    A  list  of  analytical  methods  used  for  measurement  of  each 
+element is provided in Appendix A. 
+ 
+Homogeneity Assessment:  Samples from randomly selected bottles of SRM 1570a were tested for homogeneity.  
+No evidence of statistically significant inhomogeneity was observed. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values are weighted means of results from two or more 
+different analytical methods combined using the DerSimonian-Laird procedure [2].  The uncertainty in the certified 
+mass fraction values was calculated according to the methods in Supplement 1 to the ISO/JCGM Guide [3] and the 
+results are consistent with the methods given in the ISO/JCGM Guide [4].  The uncertainty of each certified value is 
+expressed as U = kuc.  The quantity uc is the combined standard uncertainty, which accounts for the combined effect 
+of within-method uncertainty from all potential sources and any bias between methods at the level of one standard 
+deviation.  The coverage factor, k, is determined from the Student’s t-distribution corresponding to the appropriate 
+associated degrees of freedom and a 95 % level of confidence for each analyte. 
+ 
+The certified values are reported on a dry-mass basis.  For certified values to be valid, the material must be dried 
+according  to  the  instructions  provided  above.    The  measurand  is  the  mass  fraction  of  the  element.    The  certified 
+values are metrologically traceable to the SI unit of milligram per kilogram, expressed as percent. 
+ 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values (Dry-Mass Basis) of Constituent Elements 
+
+(Dry
+
+Element 
+
+ 
+Calcium 
+Phosphorus 
+Potassium 
+Sodium 
+
+Mass Fraction 
+(%) 
+ 
+  1.526  ±  0.066 
+  0.5187  ±  0.0067 
+  2.900  ±  0.026 
+  1.821  ±  0.023 
+
+Coverage Factor 
+(k) 
+ 
+2.0299 
+1.9772 
+2.3226 
+1.9943 
+
+Element 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+
+Element 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+ 
+
+ 
+ 
+
+Coverage 
+Factor 
+(k) 
+
+ 
+
+2.0102 
+2.0561 
+2.0127 
+2.0464 
+2.0320 
+2.0488 
+1.9855 
+
+±  15 
+
+ 
+Aluminum 
+Arsenic 
+Boron 
+Cadmium 
+Cobalt 
+Copper 
+Manganese 
+
+ 
+310 
+  0.068  ± 
+  37.7 
+± 
+  2.876  ± 
+  0.393  ± 
+  12.22  ± 
+± 
+  76.0 
+
+0.012 
+1.2 
+0.058 
+0.030 
+0.86 
+1.2 
+
+ 
+
+ 
+
+ 
+  Mercury 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Nickel 
+Selenium 
+Strontium 
+Thorium 
+Vanadium 
+Zinc 
+
+ 
+  0.0297  ±  0.0021 
+  2.142  ±  0.058 
+  0.1152  ±  0.0043 
+ 55.54 
+  0.0480  ±  0.0017 
+  0.568  ±  0.017 
+ 82.3 
+
+±  0.50 
+
+±  3.9 
+
+Coverage 
+Factor 
+(k) 
+ 
+2.0492 
+1.9709 
+2.0371 
+2.5029 
+2.0053 
+2.4938 
+2.0136 
+
+SRM 1570a 
+
+Page 3 of 6 
+
+Reference Mass Fraction Values:  Each reference value, expressed as a mass fraction on a dry-mass basis, is an 
+equally  weighted  mean  of  results  provided  by  NIST  and/or  collaborating  laboratories.    The  uncertainty  in  the 
+reference  mass  fraction  values  is  calculated  as  U = kuc.    The  quantity  uc  is  the  combined  standard  uncertainty 
+calculated  according  to  the  ISO/JCGM  Guide [3,4],  which  accounts  for  the  combined  effect  of  within-method 
+uncertainty  and  for  any  bias  between  methods  at  the  level  of  one  standard  deviation.    The  coverage  factor,  k,  is 
+determined from the Student’s t-distribution corresponding to the appropriate associated degrees of freedom and a 
+95 % level of confidence for each analyte. 
+ 
+These reference values are reported on a dry-mass basis.  In order for these reference values to be valid, the material 
+must be dried according to the instructions provided above.  The measurand is the mass fraction of the element as 
+it  of  milligram 
+determined by the method indicated.  The reference values are metrologically traceable to the SI unit of milligram 
+per kilogram, expressed as percent. 
+ 
+
+Table 2.  Reference Mass Fraction Values (Dry-Mass Basis) of Constituent Elements 
+ 
+
+(Dry 
+
+ 
+
+Element 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+Nitrogen (Total) 
+
+6.06  ±  0.20 
+
+Element 
+ 
+
+Europium 
+Scandium 
+
+Mass Fraction 
+(mg/kg) 
+
+Element 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+0.0055  ±  0.0010 
+0.0055  ±  0.0006 
+
+Rubidium 
+Uranium 
+
+12.7  ±  1.6 
+
+0.155 ±  0.023 
+
+ 
+Information Mass Fraction Values:  Each information value, expressed as a mass fraction on a dry-mass basis, is 
+an equally weighted mean of results provided by NIST and/or collaborating laboratories.  Insufficient information is 
+available to asses the uncertainty associated with the value, therefore no uncertainty is provided. 
+ 
+ 
+
+Table 3.  Information Mass Fraction Values (Dry-Mass Basis) of Constituent Elements 
+ 
+
+(Dry
+
+Element 
+ 
+
+Magnesium 
+Sulfur 
+
+Element 
+ 
+ 
+Lead 
+ 
+
+Mass Fraction 
+(%) 
+
+0.9 
+0.5 
+
+0.2 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 1570a 
+
+Page 4 of 6 
+
+REFERENCE 
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260–136,  U.S.  Government 
+Printing  Office:  Washington, DC (2000); 
+at  http://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed Feb 2014). 
+
+available 
+
+[2]  DerSimonian, R;  Laird, N.;  Meta-Analysis  in  Clinical  Trials;  Controlled  Clin.  Trials,  Vol. 7,  pp. 177–188 
+
+(1986). 
+
+[3]  JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement” - Propagation  of  Distributions  using  a  Monte  Carlo  Method;  JCGM (2008); 
+available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2014). 
+[4]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2014);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S. Government  Printing  Office:    Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2014). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    25 February 2014  (Extension  of  certification  period;  updated  certified  values  and  uncertainties;  removed 
+reference and information values for proximates, calories, total dietary fiber, fatty acids, and nitrogen (organic and protein) due to instability of 
+organic constituents; editorial changes); 08 October 2008 (Update of expiration date; editorial changes); 31 August 2001 (This technical revision 
+reports  the  addition  of  reference  and  information  values  for  proximates,  calories,  total  dietary  fiber,  and  fatty  acids  and  a  change  from  non-
+certified to  reference  and information  values  for  several  inorganic constituents);  15 July 1996  (Editorial  changes);  20  October 1994  (Original 
+certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 1570a 
+
+Page 5 of 6 
+
+APPENDIX A 
+ 
+Methods Used in Elemental Determinations 
+ 
+
+Element 
+ 
+Aluminum (Al) 
+ 
+ 
+Arsenic (As) 
+ 
+ 
+Boron (B) 
+ 
+ 
+Cadmium (Cd) 
+ 
+ 
+ 
+Calcium (Ca) 
+ 
+ 
+Cobalt (Co) 
+ 
+ 
+ 
+Copper (Cu) 
+ 
+ 
+Europium (Eu) 
+ 
+ 
+Lead (Pb) 
+ 
+ 
+Magnesium (Mg) 
+ 
+ 
+Manganese (Mn) 
+ 
+ 
+Mercury (Hg) 
+ 
+ 
+Nickel (Ni) 
+ 
+
+Method Code 
+ 
+ICP 
+INAA 
+ 
+FI-HGAAS 
+RNAA 
+ 
+IDICPMS 
+PGAA 
+ 
+IDICPMS 
+PGAA 
+RNAA 
+ 
+IDTIMS 
+INAA 
+ 
+INAA 
+RNAA 
+ 
+ 
+ICP 
+RNAA 
+ 
+IAEA 
+INAA 
+ 
+IAEA 
+IDICPMS 
+ 
+IDICPMS 
+ 
+ 
+INAA 
+LEAFS 
+ 
+CVAAS 
+RNAA 
+ 
+IDICPMS 
+RNAA 
+
+Element 
+ 
+Nitrogen (N) 
+ 
+ 
+Phosphorus (P) 
+ 
+ 
+Potassium (K) 
+ 
+ 
+Rubidium (Rb) 
+ 
+ 
+ 
+Scandium (Sc) 
+ 
+ 
+Selenium (Se) 
+ 
+ 
+ 
+Sodium (Na) 
+ 
+ 
+Strontium (Sr) 
+ 
+ 
+Sulfur (S) 
+ 
+ 
+Thorium (Th) 
+ 
+ 
+Uranium (U) 
+ 
+ 
+Vanadium (V) 
+ 
+ 
+Zinc (Zn) 
+ 
+
+Method Code 
+ 
+PGAA 
+ 
+ 
+COLOR 
+ICP 
+ 
+IDTIMS 
+INAA 
+ 
+IAEA 
+INAA 
+ 
+ 
+IAEA 
+INAA 
+ 
+FI-HGAAS 
+INAA 
+RNAA 
+ 
+PGAA 
+INAA 
+ 
+IDTIMS 
+INAA 
+ 
+PGAA 
+IAEA 
+ 
+INAA 
+RNAA 
+ 
+RNAA 
+ 
+ 
+IDTIMS 
+INAA 
+ 
+ICP 
+INAA 
+
+  COLOR:  Colorimetry 
+  CVAAS:  Cold-vapor atomic absorption spectrometry 
+
+Key: 
+ 
+ 
+atomic  absorption  spectrometry
+  FI-HGAAS:  Flow injection hydride generation atomic absorption spectrometry 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IAEA:  Various methods from an IAEA interlaboratory comparison exercise. 
+Inductively coupled plasma optical emission spectrometry 
+Isotope dilution inductively coupled plasma mass spectrometry 
+Isotope dilution thermal ionization mass spectrometry 
+Instrumental neutron activation analysis 
+
+LEAFS:  Laser-excited atomic fluorescence spectrometry 
+PGAA:  Prompt gamma activation analysis 
+RNAA:  Radiochemical neutron activation analysis 
+
+ 
+ 
+ICP: 
+  IDICPMS: 
+IDTIMS: 
+ 
+ 
+INAA: 
+ 
+ 
+ 
+
+SRM 1570a 
+
+Page 6 of 6 
+
+

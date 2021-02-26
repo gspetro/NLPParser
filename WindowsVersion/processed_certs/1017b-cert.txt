@@ -1,0 +1,736 @@
+﻿gent  OF  Oy, 
+
+oN 
+
+ 
+8
+0
+2
+
+ 
+.
+
+ 
+q
+ e
+
+e
+t
+ "
+
+ 
+G
+D
+
+ 
+*
+
+ 
+n
+y
+
+ 
+>
+
+States 
+
+ %
+a
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate  
+ 
+Standard Reference Material 1017b 
+ 
+Glass Beads - Particle Size Distribution 
+(100 µm to 400 µm diameter range) 
+
+ 
+tticle  size 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  and  calibrating  particle  size 
+measuring instruments covering the 100 μm to 400 μm range.  Typical use is in the evaluation of wire-cloth test sieves 
+in the range of 106 μm (No. 140) through 355 μm (No. 45).  A unit of SRM 1017b consists of approximately 70 g of 
+solid spherical soda-lime glass spheres contained in a glass bottle. 
+ 
+Certified Mass Fraction Values:  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account [1].    The 
+measurand  is  the  cumulative  mass  distribution  of  SRM 1017b,  determined  using  both  scanning  electron 
+microscopy (SEM)  and  standard  sieving  procedures  on  stratified  and  randomly  selected  bottles  of  spheres.    The 
+certified values are presented in Table 1, which are the average of results  from the SEM analyses of spheres  with 
+diameters less than a given length [2].  Metrological traceability is to the SI derived unit for mass fraction (expressed 
+as percent).  The uncertainty, computed according to the ISO/JCGM Guide [3], is an expanded uncertainty at the 95 % 
+level of confidence which includes uncertainty due to measurement imprecision as well as material variability. 
+ 
+Information Values:  Information values for nominal and effective sieve openings are provided in Table 2, which 
+were used to determine the variability between bottles as well as for a comparison with the SEM results.  Figure 1 is 
+a graphical comparison of the SEM and sieve results.  An information value is considered to be a value that will be of 
+interest to the SRM user, but insufficient information is available to assess the uncertainty associated with the value 
+or only a limited number of analyses were performed [1].  Information values cannot be used to establish metrological 
+traceability. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1017b  is  valid  indefinitely,  within  the  measurement 
+uncertainty  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate  (see  “Instructions  for  Handling  and  Use”).    Periodic  recertification  of  this  SRM  is  not  required.    The 
+certification is nullified if the SRM is damaged, contaminated, mass loss or material spillage that exceeds 2 % of the 
+original mass, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of SRM 1017b was provided by J.F. Kelly 
+formerly of NIST. 
+ 
+ag  Division. 
+Statistical analysis was provided by L.M. Gill formerly of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  20 June 2016 
+Certificate Revision History on Last Page 
+Last  Page
+
+John A. Small, Chief 
+Materials Measurement Science Division 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+provided 
+
+ 
+
+Page 1 of 5 
+
+SRM 1017b 
+
+  
+
+INSTRUCTIONS FOR HANDLING AND USE 
+ 
+The entire bottle of spheres should be used in any application of this SRM.  If this is impractical, special care must be 
+exercised when producing subsamples from the SRM unit.  The recommended procedure is to use a microriffler to 
+divide the entire 70 g unit until an appropriate subsample size is obtained.  An appropriate subsample size should be 
+validated by the user; fewer (larger) subsamples are generally preferred. 
+ 
+PREPARATION, AND ANALYSIS 
+ 
+Preparation:  The SEM values are based on the measurement of over 9 000 individual spheres from five bottles.  
+Preparation of the SEM samples was designed to achieve a balanced sampling of the different size fractions and a 
+balanced statistical measure of each size fraction.  This was achieved by the following steps:  five test bottles were 
+sieved into seven size fractions and then riffle split with a spinning microriffler to obtain a sample amount that could 
+be analyzed by SEM.  Electron  micrographs  were taken at seven different  magnifications to obtain both adequate 
+counting statistics and diameter resolution for particles in each size range.  Images of the glass spheres were captured 
+in a computer interfaced to the SEM.  Image analysis software was used for measurement of the sphere diameters.  
+Magnification calibration of the measurement process was determined using SRM 484 Scanning Electron Microscope 
+Magnification Standard (A Stage Micrometer Scale) and was checked with a stage micrometer slide calibrated at NIST 
+with the NIST Line Scale Interferometer. 
+ 
+Evaluation of the Effective Opening of Test Sieves with Calibrated Glass Spheres:  The allowed variation in sieve 
+openings makes it difficult to compare size determinations made with different sets of sieves even though each set 
+may comply with the applicable ASTM, ANSI, or ISO test standard.  The aperture size of a sieve can be determined 
+as the average size of the openings in the sieve.  However, the purpose of a sieve is to measure the size of particles, 
+and therefore, it is the effective opening that must be determined.  This effective opening is established by the size of 
+the calibrated glass spheres that will just pass through the sieve.  This, in turn, permits the measurement of the particle 
+size of an unknown material that will also just pass through the sieve. 
+ 
+The openings of a sieve are not all the same size, and particles that are larger than the average opening can pass through 
+the larger holes.  Thus, the effective opening is generally larger than the average opening.  In addition, the separation 
+achieved by a sieve is not sharp.  A few particles capable of passing the sieve are always retained. The number of 
+particles retained or passed depends on the manner and time of shaking and any measurement of the effective opening 
+must take these variables into account.  To a large extent, the glass sphere method of calibration automatically includes 
+these effects because the sieves are shaken in the same manner, when being calibrated, as when measuring an unknown 
+material. 
+ 
+The openings of sieves are essentially square and particles of irregular shape can pass through openings, even though 
+one of the dimensions of the particle may be considerably larger than the size of the opening.  The average dimension 
+of irregular particles that pass a sieve cannot be considered equal to the effective opening of the sieve as measured by 
+the diameter of spheres that just pass. 
+ 
+To evaluate the effective opening of standard 203 mm (8 in) or 305 mm (12 in) test sieves with this SRM, the entire 
+bottle of spheres is poured onto the top sieve.  The sieves are then shaken in exactly the same manner as that to be 
+followed in routine analysis.  (To prevent sieve blinding, the spheres should not be used with a single sieve.  A rough 
+rule of thumb is to keep the loading below six layers of particles).  For use with 76 mm (3 in) test sieves, the mass of 
+spheres must be reduced with a spinning riffler. 
+ 
+After the shaking has been completed, the stack of sieves is disassembled, and the spheres are removed from each 
+sieve and placed into a suitable weighing container.  To reduce loss of material during this step, the transfer should be 
+done using a large funnel or over glazed paper to recover any spillage.  A soft brush is useful in removing the spheres 
+from the sieve and funnel. 
+ 
+Each of the sieve mass fractions is weighed to a precision of at least 0.01 g.  After weighing, all spheres are returned 
+to the original bottle and kept for reuse.  The mass fraction retained on each sieve is used to calculate the ratio of the 
+mass of spheres passing through a sieve to the total starting mass.  The effective size of the sieve opening is then 
+determined by interpolation between the nearest bracketing values given in Table 1. 
+ 
+Note:    The  above  calibration  procedure  is  for  use  in  comparison  of  sieve  results  and  as  a  method  to  periodically 
+monitor for changes in sieves after service.  This procedure is not to be used as a certification for test sieves. 
+ 
+
+not
+
+ 
+
+SRM 1017b 
+
+Page 2 of 5 
+
+Certified Mass Fraction Values:  For each diameter, the certified value and expanded uncertainty are provided in 
+Table 1.  The uncertainty was calculated according to the ISO/JCGM Guide [3] and is an expanded uncertainty at the 
+95 % level of confidence, which includes uncertainty due to measurement imprecision as well as material variability. 
+ 
+ 
+
+Table 1.  Cumulative Size Distribution 
+Certified Mass Fraction (wB) of Spheres with Diameters Less Than the Diameter Indicated for SRM 1017b 
+
+Diameter 
+(μm) 
+
+ 
+
+ 
+
+Uncertainty 
+(%) 
+
+Diameter 
+(μm) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Uncertainty 
+(%) 
+
+ 
+
+ 
+
+ 
+
+wB 
+(%) 
+
+2.6 
+3.5 
+4.8 
+6.4 
+8.7 
+10.8 
+13.4 
+16.1 
+18.7 
+21.4 
+23.8 
+26.1 
+28.7 
+31.6 
+34.3 
+36.8 
+39.1 
+41.3 
+43.4 
+45.1 
+47.0 
+48.7 
+50.6 
+52.3 
+54.1 
+55.6 
+57.2 
+58.7 
+60.2 
+61.6 
+62.9 
+64.4 
+65.7 
+66.8 
+68.1 
+69.4 
+70.7 
+71.8 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+252 
+256 
+260 
+264 
+268 
+272 
+276 
+280 
+284 
+288 
+292 
+296 
+300 
+304 
+308 
+312 
+316 
+320 
+324 
+328 
+332 
+336 
+340 
+344 
+348 
+352 
+356 
+360 
+364 
+368 
+372 
+376 
+380 
+384 
+388 
+392 
+396 
+400 
+
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.4 
+0.3 
+0.8 
+0.9 
+0.9 
+0.9 
+0.7 
+0.6 
+0.9 
+1.0 
+0.9 
+0.9 
+0.9 
+0.9 
+0.8 
+0.9 
+0.8 
+0.7 
+0.8 
+0.7 
+0.7 
+0.7 
+0.8 
+0.6 
+0.4 
+0.6 
+0.7 
+0.7 
+0.7 
+0.9 
+0.9 
+0.9 
+0.9 
+
+100 
+104 
+108 
+112 
+116 
+120 
+124 
+128 
+132 
+136 
+140 
+144 
+148 
+152 
+156 
+160 
+164 
+168 
+172 
+176 
+180 
+184 
+188 
+192 
+196 
+200 
+204 
+208 
+212 
+216 
+220 
+224 
+228 
+232 
+236 
+240 
+244 
+248 
+
+wB 
+(%) 
+
+72.8 
+73.8 
+74.8 
+75.8 
+76.7 
+77.7 
+78.6 
+79.5 
+80.4 
+81.3 
+82.2 
+83.2 
+84.2 
+85.1 
+86.0 
+86.6 
+87.1 
+87.7 
+88.3 
+88.9 
+89.4 
+90.1 
+90.8 
+91.4 
+92.0 
+92.5 
+93.1 
+93.8 
+94.3 
+94.9 
+95.5 
+96.1 
+96.6 
+97.1 
+97.6 
+98.0 
+98.4 
+98.7 
+
+1.0 
+1.2 
+0.9 
+0.9 
+0.9 
+0.7 
+0.9 
+1.0 
+1.0 
+0.7 
+0.5 
+0.8 
+0.6 
+0.8 
+0.9 
+1.1 
+1.1 
+1.2 
+1.2 
+1.4 
+1.4 
+1.4 
+1.3 
+1.3 
+1.3 
+1.4 
+1.4 
+1.4 
+1.3 
+1.2 
+0.9 
+1.2 
+1.2 
+1.2 
+1.2 
+1.2 
+1.0 
+1.0 
+
+SRM 1017b 
+
+Page 3 of 5 
+
+ 
+)
+6
+9
+(
+
+ 
+S
+S
+A
+M
+
+ 
+E
+V
+I
+T
+A
+L
+U
+M
+U
+C
+
+  
+
+140 
+
+160 
+
+180 
+
+200 
+
+I 
+220 
+
+i 
+240 
+
+I 
+260 
+
+I 
+2780 
+
+300 
+
+320 
+
+340 
+
+360 
+
+380 
+
+400 
+
+DIAMETER 
+
+(MICROMETERS) 
+
+ 
+
+Figure 1.  A graphical comparison of the SEM and sieve data results. 
+
+data 
+
+ 
+Information  Values:    The  values  in  Table 2  are  from  a  series  of  sieve  analyses  following  recommended  ASTM 
+procedures [4].  A stacked set of seven sieves plus pan were used in a Ro-Tap®(1) sieving unit for a 15 min vibration 
+time.  Ten bottles were sieved with an average material loss of 0.03 g from a 72 g bottle.  The effective diameters were 
+obtained by comparing the mass fraction of glass spheres passing through a sieve, with the certified diameter for that 
+mass fraction as listed in Table 1.  Each of the effective diameters is well within the permissible variation of average 
+opening from the nominal sieve opening.  
+ 
+The  mass  density  of  the  glass  is  2.47 g/cm3  as  determined  by  helium  gas  pycnometry  for  use  with  Stokes’  Law 
+calculations. 
+ 
+
+Table 2.  Comparison of Nominal and Effective Sieve Openings for SRM 1017b 
+
+ 
+
+ 
+
+ 
+U.S. Sieve No. 
+ 
+140 
+120 
+100 
+80 
+70 
+60 
+50 
+
+ 
+
+Sieve Opening 
+(μm) 
+
+ 
+Nominal 
+ 
+106 
+125 
+150 
+180 
+212 
+250 
+300 
+
+ 
+Effective 
+ 
+107 
+124 
+150 
+183 
+211 
+244 
+306 
+
+ 
+
+ 
+
+ 
+ 
+
+                                                 
+
+adequately  specify  the
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1017b 
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office: Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed June 2016). 
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S. Government 
+http://www.nist.gov/pml/pubs/sp811/preface.cfm (accessed June 2016). 
+
+available 
+
+(2008); 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  June 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:    Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed June 2016). 
+
+[4]  ASTM E 11-95, Standard Specification for  Wire  Cloth and Sieves for Testing Purposes;  Annu. Book  ASTM 
+
+Stand., Vol. 14.02 (1995). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  20 June 2016 (Editorial changes); 07 August 1995 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail srminfo@nist.gov;  or  via  the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 1017b 
+
+Page 5 of 5 
+
+

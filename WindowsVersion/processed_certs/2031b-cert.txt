@@ -1,0 +1,694 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material 2031b 
+
+ 
+
+ 
+Metal-on-Fused-Silica Neutral Density Filters (250 nm to 635 nm) 
+ 
+Set Identification:  <<Set Serial No>> 
+<<Set  Serial  No>> 
+
+Filters 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the verification of the transmittance and absorbance 
+scales of spectrophotometers  in  the  ultraviolet  and  visible  spectral  regions.    SRM 2031b  is  a  transfer  standard 
+certified  using  the  NIST  Materials  Measurement  Laboratory  Transfer  Spectrophotometer  (MMLTS) [1]  with 
+traceability  through  the  NIST  second  generation  High  Accuracy  Spectrophotometer (HAS II),  modeled  after  the 
+original instrument [2].  A unit  consists of three individual neutral-density filters in separate metal holders and one 
+empty filter holder, all stored in a black anodized-aluminum container [3,4].  The exposed surface of each filter is 
+approximately  29 mm × 8 mm,  measuring  from  a  point  1.5 mm  above  the  base  of  the  filter  holder  (see  Figure 1).  
+The filter holders are provided with shutters that protect the filters when not in use.  Each filter-containing holder 
+bears  an  identification  number  for  the  set  and  an  individual  filter  number  (10,  30,  or  90)  that  corresponds  to  the 
+nominal percent transmittance (100 × transmittance) of the filter. 
+ 
+Certified  Values  of  Transmittance  Density  and  Transmittance:    Certified  transmittance  density  values, 
+independently  determined  for  each  filter  at  22 °C ± 1 °C  and  at  ten  wavelengths  in  the  ultraviolet  and  visible 
+portions of  the  electromagnetic  spectrum,  are  given  in  Table 1.    These  values  are  calculated  from  measured 
+transmittances (T) as –log10(T), and should be indicated by the absorbance (A) scale of the spectrophotometer, if the 
+filters are measured  with the empty filter holder in the reference beam.  The corresponding certified transmittance 
+values  are  given  in  Table  2.    The  expanded  uncertainties  allow  for  possible  changes  due  to  slight  surface 
+contamination  and  fundamental  material  effects  over  the  two  year  period  following  certification.    The  certified 
+values are valid for instrumental spectral slit width values of 5 nm or less (see “Instrument Dependence Warning”). 
+ 
+Expiration  of  Certification:    This  certification  of  SRM 2031b  is  valid,  within  the  measurement  uncertainty 
+specified,  for  two  years  from  the  date  of  certification  listed  in  Tables 1  and 2,  provided  the  SRM  is  handled  and 
+stored in accordance with instructions given in this certificate (see “Instructions for Handling, Storage, and Use”).  
+The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification: NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.    Registration  (see  attached  sheet)  will  facilitate  notification.    The  set  may  be  returned  to  NIST  for 
+cleaning  and  recertification  as  required  by  expiration  or  contamination.    Recertification  can  be  arranged  by 
+contacting  the  NIST  Optical  Filters  Program  at  (301) 975–8533  or  at  optical.filters@nist.gov.    Instructions  for 
+recertification are located on the NIST web site [5]. 
+ 
+Overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+ials  Division 
+S.J. Choquette of the NIST Biosystems and Biomaterials Division. 
+ 
+The  production  and  certification  of  this  SRM  were  performed  by  M.V. Smith  and  J.C. Travis  of  the  NIST 
+Biosystems and Biomaterials Division, and D.L. Duewer of the NIST Chemical Sciences Division.   
+ 
+Statistical support was provided by H.-k. Liu of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  03 May 2013 
+
+Anne L. Plant, Chief 
+ Biosystems and Biomaterials Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 5 
+
+  
+
+SRM 2031b 
+
+ 
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling  and  Storage:    The  SRM 2031b  set  is  stored  in  an  aluminum  container  to  minimize  contamination  of 
+the filter  surfaces  with  particulate  matter  due  to  static  charge.    Each  filter  is  placed  in  a  cylindrical  cavity  to 
+prevent any  contact  between  the  filter  face  and  the  walls  of  the  storage  container.    Each  filter  holder  is  provided 
+with a flat leaf spring that is inserted into the cylindrical cavity of the unit for transportation.  These springs should 
+be removed  during  use.    It  is  recommended  that  the  filter  in  the  holder  be  handled  only  by  the  edges  with  soft, 
+powder-free,  polyethylene  gloves,  and  optical  lens  tissue.    When  not  in  use,  the  filters  should  be  stored  in  the 
+supplied storage container.  Extended exposure to laboratory atmosphere and dusty surroundings should be avoided.  
+If  the  surface  of  the  filter  becomes  contaminated,  the SRM  set  should  be  returned  to  NIST  for  recertification;  do 
+NOT attempt to clean it.  Note:  Improper storage or handling of the filters may cause changes in the transmittance. 
+ 
+Use:    The  measured  transmittance  of  the  filters  depends  upon  the  intrinsic  properties  of  the  material  and  the 
+wavelength and geometry of the optical beam.  It can be affected by other factors such as stray light, temperature, 
+and  the  positioning  of  the  filter.    Changes  in  the  transmittance  may  be  caused  by  changes  in  surface  conditions, 
+aging  of  the  filter,  exposure  to  a  harmful  atmosphere,  or  improper  handling [3,4].    Because  the  transmittance  of 
+these filters exhibits appreciable optical neutrality, the dependence of transmittance on slit width is not anticipated, 
+and spectral slit widths up to 5 nm may be used (See “Instrument Dependence Warning”). 
+ 
+Instrument verification  should be performed at a sample temperature between 20 °C and 24 °C.  The empty filter 
+holder provided is to be used in the reference beam of the spectrophotometer so that approximately equivalent stray 
+radiation conditions are maintained for both beams.  The shutters provided with each filter must be removed at the 
+time of measurement and replaced after the measurements have been completed.  Measurements performed outside 
+of these specified conditions or the optical geometry used for certification (see “Determination of Transmittances”) 
+could produce transmittance values that differ from the certified values. 
+ 
+To  demonstrate  that  a  user’s  measurements  are  traceable,  within  acceptable  limits,  to  the  accuracy  transferred  by 
+SRM 2031b,  the  user  must  first  determine  the  required  tolerances  or  acceptable  uncertainty  for  the  application  in 
+question.  It is recommended that a number of replicate measurements be made for each filter and wavelength, with 
+removal and replacement of the filter between replicate measurements.  The user should then compare each mean 
+value and the user-defined tolerance with the NIST certified value and expanded uncertainty in Table 1 or Table 2.  
+An acceptable level of agreement between a user’s measurements and the certified value is demonstrated if any part 
+of  the  range  defined  by  the  NIST  certified  value  and  its  expanded  uncertainty  overlaps  any  part  of  the  user’s 
+tolerance band defined by the measured mean and the user-defined level of acceptable uncertainty [6]. 
+ 
+Instrument  Dependence  Warning:    In  some  commercial  instruments,  the  metal-on-fused-silica  filters  can  generate 
+reflection effects in the sample compartment that can degrade the accuracy of the measured transmittances.  During 
+the  development  of  SRM 2031,  the  presence  and  magnitude  of  such  effects  were  studied  and  were  found  to  be 
+negligible, within the uncertainty specified, in the spectrophotometers tested [4].  However, for certain instruments, 
+these effects could become significant.  In addition, unexpected spectral bandwidth effects have also been reported 
+in some commercial instruments.  If such effects are detected or suspected, the user should contact NIST Biosystems 
+and Biomaterials Division, at (301) 975-4117 or via email at optical.filters@nist.gov for assistance and instructions 
+as described in reference 5.  
+ 
+'ALUE  ASSIGNMENT  ? 
+PREPARATION AND VALUE ASSIGNMENT(1) 
+ 
+Preparation:    The  neutral  density  inserts  to  filters 10  and 30  were  produced  by  evaporating  different  thicknesses  
+of  inconel  metal  alloy  onto  3.0 mm  thick  fused-silica  plates  that  have  been  precision  ground  and  polished  by 
+Starna  Cells, Inc.,  (Atascadero, CA).    The  evaporative  inconel  coating  was  applied  by  CVI  Laser  Corporation 
+(Albuquerque, NM).  The metal films are protected by a 10 nm thick evaporated layer of silicon dioxide applied by 
+Precision Photonics Corporation (Boulder, CO).  Filter 90 is produced using an uncoated fused-silica plate identical 
+to the substrates used for the other two filters.  Each fused-silica piece used in SRM 2031b has been polished to a 
+flatness of two fringes of the mercury green line (546.1 nm), and assembled filters were tested for a deviation from 
+parallelism  of  less  than  2 × 10-4  radians.    Prior  to  certification  measurements,  the  filters  were  aged  at  NIST  for  a 
+minimum of six months, and each filter was examined for surface defects.  SRM 2031b differs from the prior series 
+by using an evaporated silicon dioxide protective overcoating rather than a protective cover plate in the construction. 
+
+to
+
+                                                 
+
+(1) Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2031b 
+
+Page 2 of 5 
+
+ 
+Determination of Transmittances:  The transmittance measurements are made with the empty filter holder used as 
+the reference at an ambient temperature of 22 °C ± 1 °C using an Agilent Cary 6000i spectrophotometer qualified as 
+a  transfer  spectrophotometer [1].    Transmittance  traceability  is  maintained  by  comparison  measurements  to  the 
+second generation NIST HAS II [2] with the results of the comparison reflected in the certification uncertainties [1].  
+The effective spectral slit width used to determine the certified values is 0.8 nm.  The transmittance measurements 
+are made by projecting the vertical image of the slit onto the middle of the entrance face of the filter, with the optical 
+centerline  15 mm  above  the  base  of  the  filter.    The  filter  is  mounted  in  a  multiple  filter  carriage  in  the 
+spectrophotometer.    Each  transmittance  value  reported  in  Table 2  is  the  average  of  three  transmittance  values 
+measured with a one second averaging time,  with the instrument cycling through the ten wavelengths, three times 
+for each filter in the carriage.  The filters are measured in the spectrophotometer in a position perpendicular to the 
+incident  light  beam,  as  shown  in  Figure 1.    Each  transmittance  value  is  calculated  from  a  measurement  of  the 
+intensity transmitted through the filter and a measurement of the blank (empty filter holder) at the beginning of the 
+measurement of each set of three filters.  Transmittance is monitored for temporal drift several times over the filter 
+aging period of six months; the aging period is extended for sets with excessive drift.  Only the final measurements 
+are used as the basis for the certified values. 
+ 
+Uniformity:  The transmittance density uniformity of each SRM 2031b filter is tested at five certified wavelengths 
+by comparing the transmittance density  measured at the center of each  filter  with that  measured 5 mm above and 
+below the center.  Filters are rejected if the relative difference of the two readings exceeds the allowable limits that 
+have been established.  These limits are reflected in the uncertainty determination.  
+ 
+Traceability:    Traceability  in  regular  spectral  transmittance  is  achieved  by  comparative  measurements  of 
+metal-on-fused-silica neutral-density  filters on the MMLTS and the HAS II.  The master set of reference filters is 
+the
+calibrated annually by the HAS II and measured at least quarterly on the MMLTS to assess the comparability of the 
+scales.  The comparison measurements are used to compute the bias of the MMLTS with respect to the HAS II for 
+each nominal transmittance density level and wavelength [1]. 
+ 
+Determination of Expanded Uncertainties:  The expanded uncertainties, U, of the certified transmittance density 
+values of Table 1 are determined from  the  measured bias and from standard uncertainties (i.e., estimated standard 
+deviation equivalents) of component uncertainty sources discussed below, and a coverage factor k = 2 based on the 
+Student’s t-distribution [1,7].  The expanded uncertainty defines an interval within which the unknown value of the 
+transmittance  density  would  be  asserted  to  lie  with  a  level  of  confidence  of  approximately  95 %  for  more  than 
+30 degrees of freedom (DF).  This uncertainty includes “Type A” uncertainties evaluated by statistical methods and 
+“Type B” uncertainties evaluated by other means [7]. 
+ 
+Bias determination for traceability was by means of three independent measurements made on each of two control 
+sets on the MMLTS and on the HAS II.  The average and sample standard deviation of the bias were computed for 
+each filter level (10, 30, or 90) and wavelength.  The maximum value of the bias and of the standard uncertainty of 
+the  bias  over  all  ten  wavelengths  were  assigned  to  conservatively  represent  all  wavelengths  at  that  level.    The 
+resulting  bias  and  standard  uncertainty  of  the  bias  were  combined  with  the  uncertainty  components  representing 
+filter  properties  and  direct  measurement  properties  as  described  in  reference 1  to  yield  the  final  expanded 
+uncertainty values reflected in Tables 1 and 2. 
+ 
+Most  of  the  Type B  uncertainty  components  were  estimated  from  studies  described  in  NIST  Special 
+Publication 260-68 [4].    These  components  include  uniformity  (see  “Uniformity”),  temporal  stability  (drift), 
+temperature dependence, and the linearity and geometry of the measurement.  The Type B standard uncertainties are 
+derived from an estimate of the ranges of the components [7]. 
+ 
+
+MMLTS 
+
+ 
+
+SRM 2031b 
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Shutter Removed 
+
+ 
+ 
+
+ 
+ 
+
+Shutter 
+Removed) 
+(Partially Removed) 
+
+Metal Filter Holder 
+57.0 mm × 12.5 mm × 12.5 mm 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Front 
+
+e
+s
+s
+e
+r
+e
+ 
+
+ 
+ 
+
+ 
+ 
+
+g
+s
+e
+s
+s
+s
+s
+c
+s
+s
+¥
+i
+r
+2
+\
+ 
+
+Incident Light Beam 
+
+Metal-on-Fused-Silica 
+Filter, Exposed Surface 
+29 mm × 8 mm 
+
+ 
+ 
+
+Base 
+
+Figure 1.  Metal holder for Metal-on-Fused-Silica Filters 
+
+Table 1. Certified Transmittance Density Values for SRM 2031b  
+
+SRM 
+
+Transmittance Density (–log10T) 
+
+Set Identification – Filter Number 
+
+Set Serial No – 30 
+
+Set Serial No – 90 
+
+ 
+ 
+
+Wavelength 
+(nm) 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Sample 
+
+Sample 
+
+Sample 
+
+ 
+ 
+
+Set Serial No – 10 
+
+  
+ 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+250.0 
+
+280.0 
+
+340.0 
+
+360.0 
+
+400.0 
+
+465.0 
+
+500.0 
+
+546.1 
+
+590.0 
+
+635.0 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+<<date>>.
+Date of Certification:  <<date>>. 
+
+ 
+
+ 
+ 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+SRM 2031b 
+
+Page 4 of 5 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+[1] 
+
+Table 2. Certified Transmittance Values for SRM 2031b 
+
+250.0 
+
+280.0 
+
+340.0 
+
+360.0 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+  
+
+Wavelength 
+(nm) 
+
+Transmittance (T) 
+  
+Set Identification – Filter Number 
+  
+
+  
+
+Set Serial No – 10 
+
+Set Serial No – 30 
+
+Set Serial No – 90 
+
+  
+
+  
+
+  
+
+465.0 
+
+400.0 
+
+Sample 
+
+Sample 
+
+  
+
+  
+
+  
+
+    
+    
+
+  
+
+  
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+590.0 
+
+546.1 
+
+635.0 
+
+500.0 
+
+  
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+Sample 
+
+-date>>. 
+Date of Certification:  <<date>>. 
+
+REFERENCES 
+
+Travis, J.C.:  Smith, M.V.;  Choquette, S.J.;  Liu, H-k.;  Certified  Transmittance  Density  Uncertainties  for 
+Standard  Reference  Materials  using  a  Transfer  Spectrophotometer;  NIST  Technical  Note  1715  (2011); 
+available at http://www.nist.gov/publication-portal.cfm (accessed May 2013).  It is also available on the SRM 
+details page as a data file available at https://www-s.nist.gov/srmors/view_detail.cfm?srm=2031B.  
+
+[2]  Mavrodineanu, R.;  An  Accurate  Spectrophotometer  for  Measuring  the  Transmittance  of  Solid  and  Liquid 
+
+Materials, J. Res. NBS, Vol. 76A, p. 405 (1972). 
+
+[3]  Mavrodineanu, R.;  Considerations  for  the  Use  of  Semi-Transparent  Metallic  Thin  Films  as  Potential 
+
+Transmittance Standards in Spectrophotometry; J. Res. NBS, Vol. 80A, No. 4, pp. 637−641 (1976). 
+[4]  Mavrodineanu, R.;  Baldwin, J.R.;  Metal-on-Quartz  Filters  as  a  Standard  Reference  Material 
+available 
+
+Spectrophotometry, 
+SRM 2031;  NIST 
+http://www.nist.gov/srm/upload/SP260-68.PDF (accessed May 2013). 
+
+260-68 (1979); 
+
+Publication 
+
+Special 
+
+for 
+at 
+
+[5]  NIST Recertification of Neutral Density Standard Reference Materials for Regular Spectral Transmittance; 
+
+available at http://www.nist.gov/mml/bbd/bioassay/optical_filter_recertification.cfm (accessed May 2013). 
+
+[7] 
+
+[6]  Becker, D.;  Christensen, R.;  Currie, L.;  Diamondstone, B.;  Eberhardt, K.;  Gills, T.;  Hertz, H.;  Klouda, G.; 
+Moody, J.;  Parris, R.;  Schaffer, R.;  Steel, E.;  Taylor, J.;  Watters, R.;  Zeisler, R.;  Use  of  NIST  Standard 
+Reference Materials for Decisions on Performance of Analytical Chemical Methods and Laboratories; NIST 
+Special Publication 829 (1992). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement  (GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008); 
+available 
+(accessed 
+May 2013); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed May 2013). 
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+accomplished  by 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+the
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+
+m 
+‘ov/srm 
+
+91)  948- 
+
+,e 
+
+SRM 2031b 
+
+Page 5 of 5 
+
+

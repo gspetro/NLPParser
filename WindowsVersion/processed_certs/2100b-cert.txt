@@ -1,0 +1,1025 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate  
+Standard Reference Material® 2100b 
+
+ 
+
+ 
+Fracture Toughness of Ceramics 
+
+ 
+This Standard Reference Material (SRM) is intended for verification of fracture toughness testing procedures.  This SRM 
+may be used with any fracture toughness test method, but is optimized for beam bending testing configurations.  A unit 
+of SRM 2100b consists of a set of five hot-pressed silicon nitride flexure specimens cut from a single billet (plate) of 
+material. 
+ 
+The  SRM  may  be  used  in  conjunction  with  American  Society  of  Testing  and  Materials (ASTM)  fracture  toughness 
+standard C1421-99 [1].  This SRM may also be used with three International Standards Organization (ISO) standard tests 
+prepared by ISO Technical Committee TC 206, Fine Ceramics [2,3,4]. 
+ 
+Certified Fracture Toughness:  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [5].  NIST tested 
+a  large  number  (15 %  to  20 %  of  the  total)  of  specimens  taken  at  random  from  three  billets  (see  Appendix A, 
+Specimen  and  Crack  Plane  Orientation).    Most  of  the  specimens  were  tested  at  NIST  by  the  surface  crack  in 
+flexure (SCF) and precracked beam [PB, also known as single-edged precracked beam (SEPB)] methods in accordance 
+with ASTM C1421 [1], see Figure 1.  In addition, ten specimens taken from SRM 2100 (billet C), one of the three 
+billets,  were  also  tested  by  the  chevron  notch  in  bending (CNB)  test  configuration A,  also  in  accordance  with 
+C1421 [1].    The  mean  toughness  values  as  measured  by  the  three  test  methods  agreed  to  within  0.4 %  to  1.6 %, 
+depending upon the billet, confirming that fracture toughness was independent of test method.  Additional details are 
+given in Appendix B. 
+ 
+
+Table 1.  Certified Fracture Toughness(a) 
+  
+
+ 
+
+Billet 
+
+Fracture 
+Toughness,  KIc 
+
+Uncertainty, U1, in Fracture 
+Toughness of a Single 
+Specimen 
+
+Uncertainty, Um, in the Mean 
+Fracture Toughness 
+For n = 5 Specimens 
+
+    
+    
+
+0.477 MPa·m½ (10.6 %) 
+
+0.224MPa·m½ (5.0 %) 
+
+4.495 MPa·m½ 
+
+APa- 
+
+D 
+
+  
+
+  
+
+  
+
+ 
+(a)  The uncertainties are at the 95 % confidence levels.  The numbers in parenthesis are the uncertainties expressed as a percentage of 
+percentage  of 
+the mean fracture toughness.  The measurand is the mean fracture toughness listed in Table 1.  Metrological traceability is to the 
+SI derived unit for toughness (expressed as MPa·m½). 
+
+levels 
+
+ 
+The  average  fracture  toughness  and  the  scatter  in  results  as  measured  by  the  three  test  methods  were  statistically 
+indistinguishable, and the data, therefore, was pooled.  The certified average fracture toughness in Table 1 is the grand 
+average of the pooled NIST data base for billet D. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2100b  is  valid  indefinitely,  within  the  measurement 
+uncertainty specified, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage,  Handling,  and  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+x.  Registration  (see  attached  sheet 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+This SRM was prepared by G.D. Quinn of the NIST Materials Measurement Science Division, with assistance from 
+K. Xu and R.J. Gettings formerly of NIST.   
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  03 March 2016 
+
+John A. Small, Chief 
+Materials Measurement Science Division 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+2asurement  Science
+
+ 
+
+Page 1 of 10 
+
+  
+
+SRM 2100b 
+
+Statistical consultation was provided by N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+J.J. Swab of the U.S. Army Research Laboratory assisted with preliminary experiments.  CNB tests were performed by 
+J.A. Salem of NASA-Glenn Center. 
+ 
+h  the  NIST  Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Description of SRM:  This SRM was prepared from material acquired during the 1970 to 1980’s and consists of a set 
+of 5 unprecracked ceramic test specimens of hot-pressed silicon nitride (HPSN), Norton Grade NC 132, manufactured 
+by Norton Co. (Worcester, MA).  The NC 132 HPSN was originally fabricated in the form of a billet of nominal size 
+158 mm × 158 mm square with a thickness of 20 mm to 30 mm.  The specimens were sliced from the billet such that the 
+3 mm × 4 mm  cross  section  plane  (in  which  cracks  will  be  initiated  and  propagated)  is  parallel  to  the  hot  pressing 
+direction as described in detail in Appendix A.  This material was hot-pressed with a small amount (about 1 wt %) of 
+magnesium oxide (or a magnesium compound which yields MgO when heated) sintering aid and is primarily composed 
+of slightly elongated beta silicon nitride grains.  A small amount of amorphous second phase resides in small triple point 
+pockets  or  as  thin  layers  between  the  silicon  nitride  grains.    Some  small  tungsten  carbide  inclusions  are  dispersed 
+throughout the material.  This material fractures in a mixed transgranular and intergranular mode.  It has a flat R-curve( 2) 
+and is highly resistant to environmentally-assisted slow crack growth at room temperature.  Consequently, different test 
+methods produce virtually identical toughness results. 
+ 
+billets.  There  were  three 
+There is a statistically significant difference in fracture toughness for specimens from different billets.  There were three 
+na 
+separate billets produced from the acquired material.  The specimens in this SRM kit are all from a single billet designed 
+en 
+“D” which is listed in the first column of Table 1 and scribed onto one end face of each specimen. 
+ 
+ 
+
+single 
+
+  
+
+SCF 
+
+  
+
+eee 
+ct  She 
+peroeet 
+  
+
+  
+
+  
+
+  
+
+  
+
+SEPB 
+
+CNE 
+
+ 
+
+ 
+Figure 1.  The three fracture toughness test methods in C1421 and in ISO 18756, ISO 15732, and ISO 24370.  The insert 
+depicts the specimen cross sections and the types of precracks.  Note that the SCF specimens may be precracked and 
+tested in either of two possible orientations. 
+ 
+Each 3 mm × 4 mm × (45 to 47) mm flexure bar specimen was prepared in accordance with conventional flexure strength 
+standards MIL STD 1942(A) [6], ASTM C 1161 [7], and ISO standard 14704 [8], as well as with ASTM C1421 [1] and 
+ISO 18756 [2], ISO 15732 [3], and ISO 24370 [4] for fracture toughness testing of ceramics.  In addition, one 4 mm wide 
+face has a 900 grit finish which is finer than is normally required and is provided as a convenience to users who wish to 
+precrack with a Knoop indenter for the SCF test method.  The edges of the specimens have been chamfered in accordance 
+with requirements for the surface crack in flexure (SCF) and single-edged precracked beam (SEPB) test methods.  (A 
+small correction factor for the chamfer should be applied to SCF results as described in Appendix C.) 
+ 
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+se. 
+
+                                                           
+
+  
+
+idependent  of  crack  size.
+(2) Crack growth resistance (R) is independent of crack size. 
+
+ 
+
+SRM 2100b 
+
+Page 2 of 10 
+
+Discussion of Uncertainties:  The uncertainty estimates were made according to the ISO/JCGM Guide [9] and consisted 
+of  Type A  uncertainties  evaluated  by  statistical  means.    NIST  tested  a  large  number  (15 %  to  20 %  of  the  total)  of 
+specimens taken at random from each billet used.  Most of the specimens were tested to fracture by one of the three 
+standard test method procedures: SCF, CNB, or PB (SEPB).  Additional PB (SEPB) experiments were performed on the 
+broken halves. 
+ 
+The uncertainty, U1, in Table 1 is a 95 % prediction uncertainty for a single future observation, based on the results of 
+the NIST independently and randomly selected observations from the same population [10].  The uncertainty, Um, is a 
+95 % prediction uncertainty for the mean of five future observations, also based on the results of the NIST independently 
+and randomly selected observations.  The expanded uncertainty is calculated as U = kuc where uc is, at the level of one 
+standard deviation, and represents the combined effects of material inhomogeneity and within-laboratory components of 
+uncertainty.  U1 is the uncertainty for an individual specimen, and Um is the uncertainty in the mean fracture toughness 
+for the five specimens in this kit.  The coverage factor, k, is determined from the Student’s t-distribution corresponding 
+to the degrees of freedom appropriate to the number of specimens tested at NIST and at the 95 % confidence level. 
+ 
+INSTRUCTIONS FOR STORAGE, HANDLING AND USE 
+ 
+Storage and Handling:  The specimens are packaged in conventional ceramic flexure specimen trays.  The specimens 
+are durable; no special handling requirements are necessary.  Once precracked, the CNB and SEPB specimens should be 
+handled with care to avoid accidental breakage. 
+ 
+Use:  This SRM may be used with any fracture toughness test method although the specimens have been optimized for 
+flexural modes of loading.  The user must precrack the specimens.  It is strongly recommended that the user test these 
+specimens only after they have acquired some familiarity with the test method. 
+ 
+The  certified  fracture  toughness  values  are  valid  for  cracks  propagated  in  planes  that  are  parallel  to  the  specimen 
+3 mm × 4 mm cross section.  Cracks may be initiated or propagated from either the 3 mm wide or the 4 mm  wide 
+surfaces.  The fracture toughness is not certified for cracks propagated on planes parallel to the specimens’ long axis.  
+See Appendix A for further details. 
+ 
+Consult ASTM C1421 [1] or ISO 18756 [2], ISO 15732 [3], or ISO 24370 [4] for specific test method details if the SCF, 
+PB (SEPB), or CNB methods are used. 
+ 
+Test Specimens:  Although the specimens are from a single billet, their dimensions should be measured individually 
+due to slight variations in machining.  The specimen chamfers should also be measured if the SCF method is used. 
+ 
+Test Fixtures:  The specimens are suitable for flexural modes of loading with conventional flexure strength fixtures.  
+Common  20 mm × 40 mm  (or  10 mm × 20 mm)  four-point  flexure  strength  fixtures  that  are  designed  to  be  in 
+accordance with the well-known standard flexure strength test standards are satisfactory for all three fracture toughness 
+methods.    Users  are  reminded  that  there  are  critical  requirements  for  fixture  alignment,  load  pin  and  specimen 
+alignment, fixture articulation, and load pin rolling action to eliminate friction constraints that will bias the test result. 
+ 
+Four-point flexural loading is preferred for SCF and CNB testing.  Spans of 20 mm × 40 mm are recommended, but 
+not required.  The PB (SEPB) test may be conducted in either three- or four-point loading.  The outer span should be 
+between 16 mm and 40 mm.  Three-point loading should be performed with extra caution since it may be difficult to 
+align the precrack with the middle roller, especially with short 16 mm to 20 mm spans.(3)  The specimens in the SRM 
+kit may be fractured on full-sized 20 mm × 40 mm fixtures.  The halves may then be precracked and retested on shorter 
+three- or four-point fixture spans. 
+ 
+Testing Rates:  Testing rates between 0.1 MPa·m½/s and 2.75 MPa·m½/s are specified for normal testing [1].  Fracture 
+toughness  is  independent  of  test  environment  (in  laboratory  air  ambient  conditions,  20 °C  to  25 °C,  with  relative 
+humidities of 20 % to 60 % or in dry-nitrogen gas) when normal testing rates were employed. 
+ 
+ 
+
+ 
+
+                                                           
+
+(3) Some tests are apt to be unacceptable and rejected due to twisted fracture planes. 
+
+SRM 2100b 
+
+ 
+
+Page 3 of 10 
+
+SCF  Precracking  and  Testing:    The  following  information  may  be  helpful  if  the  SCF  method  is  utilized.    SCF 
+specimens may be precracked at a 24.5 N (2.5 kgf) or 49.0 N (5 kgf) Knoop indentation load.  The 24.5 N load is 
+preferred since the resulting indentation is smaller, and less material needs to be removed by polishing or hand grinding 
+after indentation.  Most of the NIST SRM database was generated with this load, and a VAMAS round robin confirmed 
+that this load was eminently suitable.  One 4 mm wide face has been given a finer finish (900 grit) than is customary 
+for flexure specimens and is suitable for Knoop indentation.  The Knoop indentation alternatively may be implanted 
+on one of the 3 mm wide faces, but these should be fine ground, lapped, or polished to provide a flat, even surface for 
+the Knoop indentation.(4)  If an indentation load of 24.5 N is used and the proper amount of material has been removed 
+by polishing or hand grinding with abrasives, the precrack size should be approximately 50 µm deep × 150 µm wide.  
+Machining the residual stress damage zone off the specimen’s surface with the use of diamond grinding wheels is 
+possible, but not recommended.(5) 
+ 
+Four-point loading is required for the SCF configuration since it is very difficult to align the tiny precrack with the 
+middle load roller in three-point loading.   Fracture loads are modest, (typically 400 N to 600 N for 24.5 N precracks 
+in 20 mm × 40 mm four-point fixtures), so no special handling precautions need be taken.  The flexure strength of the 
+flawed  specimen,  and  thus  its  fracture  toughness,  should  be  corrected  for  the  chamfers  in  SCF  tests.    An  average 
+chamfer size should be measured and used for the correction as described in Appendix C.  Consult ASTM C1421 for 
+additional details.  Appendix D has details on the precision error associated with this test method. 
+ 
+CNB Precracking and Testing:  The specimens in this SRM are in accordance with configurations “A” and “D” in 
+ASTM C1421, which require four-point loading.  Proper chevron notch preparation is critical.  The notch should be 
+uniform,  the  grooves  should  align  very  closely,  and  the  back  sides  of  the  chevron  (dimensions  a11  and  a12  in 
+ASTM C1421) must not cut through to the specimen back face.  Causal notching with a diamond cut off wheel is 
+usually unsatisfactory.  A precision set up and specimen holder is optimal.   
+ 
+The  “A”  configuration  CNB  specimen-fixture  combination  in  ASTM C1421  requires  four-point  flexure  testing. 
+Fracture loads are small, (typically 20 N to 50 N depending upon loading configuration), so care should be exercised 
+in handling and preloading these specimens.  Cracks should pop in or extend stably from the chevron tip during a 
+normal fracture toughness test provided that the chevron notch has been prepared properly.  The specimens in this 
+SRM have been prepared with edge chamfers which are not required or recommended for CNB testing, but experience 
+has shown that the chamfers  do not interfere  with the results for this SRM.  Consult  ASTM C1421 for additional 
+details.  Appendix D has details on the precision error associated with this test method. 
+ 
+PB (SEPB) Precracking and Testing:  The following information may be helpful if the PB (SEPB) method is utilized.  
+Conventional bridge precrackers may be used to pop in a precrack that is between 0.35 W and 0.60 W deep, where 
+W, the specimen thickness, is 4 mm.  A starter flaw is carefully centered in the bridge anvil precracker.  A single 98 N 
+(10 kgf)  Knoop  has  been  found  to  be  satisfactory,  provided  that  the  long  axis  is  lined  up  perpendicularly  to  the 
+specimen long axis.  The indentation may be placed directly into the ground 3 mm wide face.  A finely ground or 
+polished surface is unnecessary.  With a 6 mm bridge gap, bridge anvil pop-in loads should be between 8 000 N and 
+11 000 N.  One or more aligned Vickers indentations may be used, provided that the indentation load does not exceed 
+98 N (10 kgf).  A shallow saw cut may also serve as a starter flaw.  
+ 
+Either three-or four-point loading may be used, but extra precautions are necessary with the former to guarantee that 
+the precrack is lined up with the middle roller.  Fracture loads will be small (50 N to 120 N depending upon testing 
+configuration and precrack size), so care should be exercised in handling and preloading the specimens.  No correction 
+for specimen chamfers should be made.  Consult ASTM C1421 for additional details.  Appendix D has details on the 
+precision error associated with this test method. 
+ 
+Other Precracking Testing Methods:  Other test methods may be used with this SRM, but since the specimens are 
+optimal for flexure testing, some configurations such as double torsion, double cantilever beam, etc., are not feasible.  
+The Vickers indentation crack length method is not recommended due to the lack of a universally accepted equation 
+for relating crack length to toughness, the  lack of a  universally accepted indentation load, and other experimental 
+difficulties  which  have  been  confirmed  by  a  VAMAS  round  robin  project on  similar  materials [11].    Crack  plane 
+orientation  is  also  an  issue  with  this  method,  since  it  is  known  that  the  fracture  toughness  is  different  for  cracks 
+extending  in  the  plane  perpendicular  to  the  hot-pressing  direction  compared  to  cracks  running  parallel  to  the 
+                                                           
+
+(4)One method utilized at NIST is to use a motorized hobby drill (e.g. Dremel) with a cloth polishing wheel and diamond 
+
+paste to polish a small spot in the middle of the specimen. 
+
+(5) Experiments at NIST confirmed that the identical mean fracture toughness is obtained, but the standard deviation was 
+considerably larger.   The SCF precracks  were not as regular as those from hand ground or lapped specimens.   Apparently the 
+machine grinding altered the precracks and possibly propagated portions of the crack front.  It is also difficult to guarantee that 
+each specimen has had the correct amount of material removed when using diamond wheel grinding, especially if the specimens 
+are mounted and ground together. 
+SRM 2100b 
+
+Page 4 of 10 
+
+ 
+
+hot-pressing direction.  Under no circumstances should this SRM be used to generate a so-called “universal calibration 
+constant” for the Vickers indentation crack length method, since it is impossible for a single constant to apply to a 
+wide range of ceramics. 
+ 
+Repeat  Testing:    Broken  halves  of  the  specimens  may  be  retested.    PB (SEPB)  testing  at  NIST  on  two  billets 
+demonstrated there was no difference in outcomes for full-size specimens tested on 20 mm × 40 mm four point fixtures 
+versus outcomes from specimen halves tested on 10 mm × 20 mm spans, or halves tested on three-point fixtures with 
+20 mm  spans.    The  reject  rate  for  the  three  point  configuration  was  greater,  however,  due  to  crack  twisting  and 
+alignment problems. 
+ 
+Additional Information:  Additional information on the development of the three billets is provided in references 22 
+to 25.  Reference 22 provides additional information on how the uncertainties were calculated. 
+ 
+
+:  Additional  information 
+
+the  three  billets  i 
+
+REFERENCES 
+
+ 
+[1]  ASTM C1421; Standard Test Methods for Fracture Tou210hness of Advanced Ceramics; In Annu. Book ASTM 
+
+[2] 
+
+[3] 
+
+[4] 
+
+Stand., Vol. 15.01; ASTM: West Conshohocken, PA. 
+ISO 18756;  Fine  Ceramics  (Advanced  Ceramics,  Advanced  Technical  Ceramics) – Determination  of  Fracture 
+Toughness of Monolithic Ceramics at Room Temperature by the Surface Crack in Flexure (SCF) Method; In Fine 
+Ceramics; ISO, TC 206. 
+ISO 15732;  Fine  Ceramics  (Advanced  Ceramics,  Advanced  Technical  Ceramics) – Test  Method  for  Fracture 
+Toughness of Monolithic Ceramics at Room Temperature by Single Edge Precracked Beam (SEPB) Method; In 
+Fine Ceramics; ISO, TC 206. 
+ISO 24370;  Fine  Ceramics  (Advanced  Ceramics,  Advanced  Technical  Ceramics) – Test  Method  for  Fracture 
+Toughness  of  Monolithic  Ceramics  at  Room  Temperature  by  Chevron-Notch  Beam  (CNB)  Method;  In  Fine 
+Ceramics; ISO, TC 206. 
+
+[5]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Mar 2016). 
+
+[6]  MIL STD 1942A;  Flexural  Strength  of  High  Performance  Ceramics  at  Ambient  Temperature;  U.S.  Army 
+
+Materials Technology Laboratory: Watertown, MA (8 November 1990). 
+
+[7]  ASTM C1161; Standard Test Method for Flexural Strength of Advanced Ceramics at Ambient Temperature; In 
+
+[8] 
+
+[9] 
+
+Annu. Book ASTM Stand., Vol. 15.01; ASTM: West Conshohocken, PA. 
+ISO 14704;  Fine  Ceramics  (Advanced  Ceramics,  Advanced  Technical  Ceramics) – Test  Method  for  Flexural 
+Strength of Monotonic Ceramics at Room Temperature; In Fine Ceramics; ISO, TC 206. 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Mar 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Mar 2016). 
+
+[10]  Hahn, G; Meeker, W.; Statistical Intervals: A Guide for Practitioners; John Wiley and Sons: NY (1991). 
+[11]  Quinn, G.D.;  Salem, J.A.;  Bar-on, I.;  Cho, K.;  Foley, M.W.;  Fang, H.;  Fracture  Toughness  of  Advanced 
+
+Ceramics at Room Temperature; J. Res. NIST, Vol. 97 (5), pp. 579–607 (1992). 
+
+[12]  Petrovic, J.J.; Mendiratta, M.G.; Fracture from Controlled Surface Flaws; In Fracture Mechanics Applied to Brittle 
+
+;  ASTM: 
+Materials, ASTM STP 678; Freiman, S., Ed.; ASTM: West Conshohocken, PA, pp. 83–102 (1979). 
+
+sture  from 
+[13]  Petrovic, J.J.;  Dirks, R.A.;  Jacobson, L.A.;  Mendiratta, M.G.;  Effects  of  Residual  Stresses  on  Fracture  from 
+
+Controlled Surface Flaws; J. Am. Ceram. Soc., Vol. 59(3-4), pp. 177–178 (1976). 
+
+[14]  Quinn, G.D.; Gettings, R.J.; Kübler, J.J.; Fracture Toughness of by the Surface Crack in Flexure (SCF) Method:  
+
+Results of the VAMAS Round Robin; Ceram. Eng. and Sci. Proc., Vol. 15(5), pp. 846–855 (1994). 
+
+nd  Robin; 
+
+Vol. 
+
+- 
+
+[15]  Quinn, G.D.;  Kübler, J.J.;  Gettings, R.J.;  Fracture  Toughness  of  Advanced  Ceramics  by  the  Surface  Crack  in 
+Flexure  (SCF)  Method:    A  VAMAS  Round  Robin;  VAMAS  Technical  Report  #17;  NIST:  Gaithersburg,  MD 
+(June 1994). 
+
+[16]  Quinn, G.D.; Gettings, R.J.; Kübler, J.J.; Fracture Toughness of Ceramics by the Surface Crack in Flexure (SCF) 
+Method;  In  Fracture  Mechanics  of  Ceramics,  Vol. 11;  Bradt, R.C.;  Hasselman, D.P.H.;  Munz, D.;  Sakai, M.; 
+Yashevchenko, V., Eds.; Plenum, NY, pp. 203–218 (1996). 
+
+[17]  Quinn, G.D.;  Gettings, R  J.;  Kübler, J.J.;  Fractography  and  the  Surface  Crack  in  Flexure  (SCF)  Method  for 
+Evaluating Fracture Toughness of Ceramics; In Fractography of Glasses and Ceramics, Ceramic Transactions, 
+Vol. 64; ACS: Westerville, OH, pp. 107–144 (1996). 
+
+[18]  Nose, T.; Fuji, T.; Evaluation of Fracture Toughness for Ceramic Materials by a Single-Edge-Precracked-Beam 
+
+Vol. 
+Method; J. Am. Ceram. Soc., Vol. 71(5), pp. 328–333 (1988). 
+
+-
+
+SRM 2100b 
+
+ 
+
+Page 5 of 10 
+
+[19]  Salem, J.;  Shannon, J.,  Jr.;  Jenkins, M.;  Some  Observations  in  Fracture  Toughness  and  Fatigue  Testing  with 
+Chevron-Notched  Specimens;  In  Chevron  Notch  Test  Experience:  Metals  and  Non-Metals,  ASTM  STP  1172; 
+Brown, K.; Baratta, F., Eds., ASTM: West Conshohocken, PA, pp. 9–25 (1992). 
+
+[20]  Baratta, F.I.;  Quinn, G.D.;  Matthews, W.T.;  Errors  Associated  With  Flexure  Testing  of  Brittle  Materials.; 
+Technical Report MTL TR 87-35; U.S. Army Materials Technology Laboratory: Watertown, MA (July 1987). 
+[21]  ASTM E 691; Practice for Conducting an Interlaboratory Study to Determine the Precision of a Test Method; 
+
+cy:
+
+Vol. 14.02, ASTM: West Conshohocken, PA. 
+
+[22]  Quinn, G.D.;  Xu, K.;  Salem, J.A;  Swab, J.J.;  SRM 2100:  The  World’s  First  Fracture  Toughness  Reference 
+Material;  In  Fracture  Mechanics  of  Glasses  and  Ceramics,  Vol. 14;  Bradt, R.C.;  Munz, D.;  Sakai, M.; 
+White, K.W., Eds.; Klewer/Plenum: NY, pp. 499–530 (2005). 
+
+[23]  Quinn, G.D.; Xu, K.; Gettings, R.; Standard Reference Material 2100: Fracture Toughness of Ceramics; Ceram. 
+
+Eng. and Sci. Proc.; Vol. 20(3), pp. 513–523 (1999). 
+
+[24]  Quinn, G.D.;  Xu, K.;  Gettings, R.J.;  Salem, J.A.;  Swab, J.J.;  Standard  Reference  Material  2100:  Ceramic 
+Fracture Toughness; In Fatigue and Fracture Mechanics, Vol. 32, ASTM STP 1406; Chona, R., Ed., ASTM: 
+West Conshohocken, PA, pp. 336–350 (2001). 
+
+[25]  Quinn, G.D.; Xu, K.; Gettings, R.J.; Salem, J.A.; Swab, J.J.; Does Anyone Know the Real Fracture Toughness?  
+SRM 2100: The World’s First Ceramic Fracture Toughness Reference Material; In Fracture Resistance Testing 
+of Monolithic and Composite Brittle Materials, ASTM STP 1409; Salem, J.A.; Quinn, G.D.; Jenkins, M.G., Eds. 
+ASTM: West Conshohocken, PA, pp. 76–93 (2002). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting 
+948-3730;  
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+975-2200; 
+
+Program: 
+
+telephone 
+
+(301) 
+
+(301) 
+
+SRM 
+
+fax 
+
+the 
+
+SRM 2100b 
+
+ 
+
+Page 6 of 10 
+
+APPENDIX A 
+ 
+Specimen and Crack Plane Orientation 
+
+HP  direction 
+
+Hot-pressing  (HP)  direction 
+
+ke 
+
+ 
+All specimens were cut from the hot-pressed silicon nitride plates as illustrated in the figure below.  Fracture toughness 
+‘rack  propagation 
+was measured and is certified only for crack planes that are parallel to the hot-pressing direction.  Crack propagation 
+may be in either the direction parallel to or perpendicular to the hot-pressing direction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+bane 
+
+  
+
+ 
+o
+w
+
+ 
+ 
+The small arrows show the direction of crack extension. 
+
+CNB  SEPB 
+
+SCF 
+
+SCF 
+
+3
+
+ 
+ 
+Identical  results  are  obtained  in  SCF experiments  with  artificial  precracks  implanted  on  the  narrow  3 mm  specimen 
+surfaces  as  compared  to  specimens  with  cracks  implanted  on  the  4 mm  faces.    In  addition,  PB (SEPB)  and  CNB 
+experiments  wherein  the  crack  extended  in  the  direction  as  the  4 mm  edge  produced  results  identical  to  the  SCF 
+experiments wherein the crack started on the 4 mm wide face and propagated into specimens parallel to the 3 mm face. 
+ 
+ASTM C1421 recommends that the crack plane and the crack extension direction be defined in relation to the plate.  The 
+identification scheme is a set of letters first indicating the crack plane, then a second set of letters which designate the 
+direction of crack extension in that plane.  The first letter which describes the crack plane is designated by the vector that 
+is normal to the crack plane.  By this nomenclature scheme, all crack planes and crack extensions in this SRM are “X-HP”, 
+“X-Y”, “Y-HP”, or “Y-X”.  Fracture toughness is not certified for crack planes that are perpendicular to the hot-pressing 
+direction (“HP-X” or “HP-Y” fracture systems).  The fracture toughness is smaller for these crack planes. 
+
+SRM 2100b 
+
+ 
+
+Page 7 of 10 
+
+ 
+
+APPENDIX B 
+
+Additional Background Information 
+
+ 
+The  fracture  toughness  data  for  this  SRM  was  generated  by  the  three  test  methods  in  the  ASTM  standard  test 
+method [1]. 
+ 
+The  SCF  method,  also  known  as  the  “controlled  flaw”  method,  is  a  development  of  early  work  by  Petrovic  and 
+colleagues [12,13].    This  innovative  method  utilizes  a  Knoop  indenter  to  create  a  micro,  semielliptical  surface 
+precrack.  It is essential that residual stresses from the indentation are eliminated by polishing or hand grinding the 
+indentation  away  after  indentation.    The  specimen  is  fractured  in  a  conventional  flexural  strength  test  fixture.  
+Fractographic  techniques  are  used  to  detect  and  measure  the  precrack  after  specimen  fracture.    The  name  of  this 
+method has been changed to “surface crack in flexure” in order to avoid confusion with other so-called controlled flaw 
+methods and to make it consistent with fracture mechanics conventions.  Fracture toughness is computed from the 
+stress (or maximum load) at fracture, the crack size, and stress intensity factor solutions.  The latter factor should be 
+individually calculated for each specimen precrack.  Additional details are in the literature [14-17]. 
+ 
+The PB (SEPB) method is widely accepted in the fracture mechanics and ceramics community in large part since it is 
+a traditional fracture mechanics configuration with a good record for producing accurate and precise results.  A variant 
+on the older single-edged notched beam method, the PB (SEPB) method uses an innovative precracking procedure 
+(compression bridge-anvil loading) to produce a sharp precrack [18].  A saw cut or indentation is placed in the narrow 
+side of a flexure specimen.  The specimens are placed into a compression-anvil precracking apparatus and loaded 
+carefully  until a precrack pops in.  The specimen is fractured in a  flexure  fixture.   Crack size is  measured on the 
+fracture surface.  Fracture toughness is computed on the basis of the specimen and fixture dimensions, the load at 
+fracture, and stress intensity factor formulations. 
+ 
+The CNB test entails loading a chevron-notched specimen to fracture in a flexure fixture.  The crack initiates at the 
+chevron tip and then propagates stabily through the chevron.  Since generalized stress intensity factor solutions do not 
+exist for CNB testing, it is necessary to specify very specific specimen and notch configurations.  The 3 mm × 4 mm 
+cross  section  sized  specimens  in  this  SRM  are  suitable  for  use  as  either  configuration  A  or  D  in  ASTM  C1421.  
+Stringent requirements are placed upon the specimen preparation since successful outcomes, which rely upon stable 
+crack  extension,  depend  upon  having  well-machined  notches [19].    Stress  intensity  factor  coefficients  are  very 
+sensitive to the precise chevron geometries.  Analytical errors of 10 % or more are possible if formulas for idealized 
+chevron  geometries  are  applied  to  casually-fabricated  specimens.    It  is  especially  important  that:    the  two  notch 
+grooves (one on either side of the specimen) meet very closely without an offset, the notch tip be well centered, the 
+sides of the chevron be very symmetric about the specimen centerline, and the sides of the chevron should end on the 
+specimen side and not break through to the back surface.  Proper specimen preparation requires careful machining by 
+an experienced laboratory or machine shop, but experience shows this can be quite routine.  Casual notch preparation 
+by a student with a cut off wheel in a laboratory will not suffice.  Misalignments in the chevron will promote unstable 
+crack propagation that will invalidate the test.  Experienced machine shops usually have a custom specimen holder to 
+position the specimen while the chevron is cut from one side.  The specimen or holder is flipped and the chevron 
+completed by cutting from the opposite side.  The specimen is tested in conventional flexure fixtures and the crack 
+must be propagated stability.  Fracture toughness is computed from the maximum load during stable crack extension, 
+the specimen and fixture dimensions, stress intensity factor coefficient solutions, and the precise chevron geometry 
+for each specimen. 
+ 
+A  Versailles  Advanced  Materials  and  Standards (VAMAS)  round  robin  which  featured  the  SCF  test  method  on 
+NC 132 hot-pressed silicon nitride obtained extraordinarily consistent results from 20 laboratories around the world.  
+Fracture toughness results for NC 132 in the literature from many sources, by many different test methods for over 20 
+years have been unusually consistent.  The crack planes were parallel to the hot-pressing direction in most of these 
+studies.  In particular, results by the chevron notch in bending, short bar chevron notch, surface crack in flexure, and 
+single-edged precracked beam tests converged in the range of 4.5 MPa·m½ to 4.9 MPa·m½.  The user is referred to 
+references 14 to 16 for more information. 
+
+SRM 2100b 
+
+ 
+
+Page 8 of 10 
+
+ 
+
+APPENDIX C 
+
+Chamfer Correction Factors, SCF Method 
+
+ 
+The fracture toughness of SCF specimens should be corrected for the corner chamfers.  The correction increases the 
+calculated SCF fracture toughness outcomes slightly (usually 0.4 % to 0.9 %).  The NIST SCF fracture toughness data 
+used to prepare the certified value for this SRM was corrected.  Do not correct PB (SEPB) or CNB test results for 
+corner chamfers. 
+ 
+The chamfers in the SRM specimens are typically 0.10 mm to 0.15 mm in size, although some may be larger.  The 
+chamfer size, c, may be measured with a microscope having a traveling stage or from photographic analysis.  All eight 
+c dimensions for the four chamfers should be measured and an average value used for the correction. 
+ 
+The fracture toughness in SCF specimens may be calculated from the formula: 
+
+K =
+Ic
+
+aσY
+f
+
+1/2
+
+ 
+
+ 
+in  the  specimen 
+where Y is the appropriate stress intensity shape factor (maximum), σf is the maximum flexure stress in the specimen 
+at  fracture,  and  a  is  the  crack  depth.    See  the  ASTM C1421  or  ISO 18756 SCF  standards  for  more  details  on  the 
+calculation of KIc by this method. 
+ 
+The maximum flexure stress may be calculated from simple beam theory, and it is common to assume that the cross 
+section is a simple rectangle.  The chamfers alter this geometry, however, and the second moment of inertia of the 
+specimen cross section about the neutral axis is altered [20].  The true maximum flexure stress at fracture is calculated 
+as follows: 
+
+σf  = F σb 
+
+ 
+where σb is the apparent flexure stress for a simple rectangular beam, computed from simple beam theory, and F is a 
+specimen 
+correction factor.  Correction factors are listed in the following tables and are practically identical for the two specimen 
+orientations. 
+ 
+Fracture toughness then may be calculated: 
+ 
+K
+ 
+ 
+ 
+ 
+ 
+
+Correction Factor, F, for 
+3 mm × 4 mm Specimens 
+
+ 
+Specimen Cross Section 
+
+(
+FY
+
+Y
+σ=
+
+2/1
+
+2/1
+
+σ
+
+=
+
+)
+
+a
+
+a
+
+Ic
+
+ 
+
+b
+
+f
+
+Flexure  Test 
+Loading  Direction 
+
+! 
+
+  
+
+    
+
+  
+
+  
+
+  
+
+  
+
+Correction 
+factor, F 
+B = 4,  W = 3 
+1.003 
+1.004 
+1.005 
+1.006 
+1.007 
+1.008 
+1.009 
+1.011 
+1.012 
+1.014 
+1.015 
+1.017 
+1.019 
+1.020 
+1.022 
+
+Correction 
+Factor, F 
+B = 3, W = 4 
+1.003 
+1.004 
+1.005 
+1.006 
+1.007 
+1.008 
+1.009 
+1.011 
+1.012 
+1.014 
+1.015 
+1.017 
+1.019 
+1.021 
+1.023 
+
+ 
+
+C 
+(mm) 
+
+0.080 
+0.090 
+0.100 
+0.110 
+0.120 
+0.130 
+0.140 
+0.150 
+0.160 
+0.170 
+0.180 
+0.190 
+0.200 
+0.210 
+0.220 
+
+SRM 2100b 
+
+ 
+
+Page 9 of 10 
+
+APPENDIX D 
+ 
+Test Method Uncertainties and VAMAS Round Robins 
+ 
+The precision uncertainty for a measured value of fracture toughness depends upon the test method. The following 
+information was not used in the preparation of the uncertainty statement for this SRM, but is included for the user’s 
+benefit to help the user appreciate the common sources of uncertainty. 
+ 
+SCF METHOD 
+ 
+Uncertainty of Individual Test Results by the SCF Method:  In ASTM C1421, for the SCF test method, the type B 
+uncertainties of the stress at fracture are estimated to be a maximum of 2 % to 3 %, the crack size measurement, 5 %, 
+and the stress intensity factor coefficient, 3 % to 5 %. The latter two uncertainties are coupled, and it is estimated that 
+this total uncertainty for fracture toughness is within 5 % [14-17]. 
+ 
+A Versailles Advanced Materials and Standards (VAMAS) interlaboratory round robin [14-16] with 20 laboratories 
+confirmed the practicality of the SCF test method and obtained estimates of the within-laboratory (repeatability) and 
+between-laboratory  (reproducibility)  precision  uncertainties. 
+  The  type A  estimates  for  repeatability  and 
+reproducibility are shown in Table 1.  These results were obtained on the same material as used for this SRM (but 
+from a different billet, designated “E”).  These uncertainties are for an individual test specimen and include both the 
+test method uncertainty and variability in the fracture toughness from specimen to specimen.  See references 14 to 17 
+for further details. 
+ 
+Table 1.  Precision for individual test results for the SCF method from a VAMAS round robin on NC 132 hot-pressed 
+silicon nitride computed in accordance with ASTM Standard E 691 [21].  Data from 19 laboratories on specimens 
+from a single billet “E”.  Results from one laboratory were outliers and were deleted. 
+ 
+
+ 
+
+Repeatability (Within-Lab) 
+  
+
+Reproducibility (Between-Labs) 
+
+Average 
+(MPa·m½) 
+
+Std. Dev(a) 
+(MPa·m½) 
+
+Number of 
+Specimens 
+
+Std. Dev. 
+(MPa·m½) 
+
+  
+    
+    
+
+0.24 
+
+0.32 
+
+4.56 
+
+0.31 
+
+0.86 
+
+0.68 
+
+102 
+
+6.8 
+
+5.4 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+95 % limit(a) 
+(MPa·m½) 
+
+COV(c) 
+(%) 
+
+95 % Limit(b) 
+(MPa·m½) 
+
+COV(c)
+(%) 
+
+Std. Dev. 
+(MPa·m½) 
+
+ 
+
+Notes: 
+
+a) 
+(a)  Standard deviation of all individual test results. 
+(b)  Coverage factor of 2.8 in accordance with ASTM E 691 [21]. 
+(c)  Coefficient of variance expressed as a percentage of the average. 
+
+ 
+ 
+ 
+ 
+PB (SEPB) METHOD 
+ 
+Uncertainty  of  Individual  Test  Results  by  the  SEPB  Method:    In  ASTM C1421,  the  type B  accuracy  of  the  stress 
+intensity factor coefficient for the SEPB test method is estimated to be a maximum of 2 %.  No estimate was made 
+for the total uncertainty. 
+ 
+ASTM C1421 cites results from a 16 laboratory international VAMAS round robin for a SEPB test procedure (similar 
+to but not identical to that in C1421) on a gas pressure sintered silicon nitride. 
+ 
+CNB METHOD 
+ 
+Uncertainty of Individual Results by the CNB Method:  In ASTM C1421, it is estimated that the type B accuracy of 
+the stress intensity factor coefficient, Ymin
+ 
+No CNB round robin data are available at this time. 
+
+*, for the CNB test method is a maximum of 1 %.  
+
+method  is  estimate 
+
+In  ASTM 
+
+: 
+
+SRM 2100b 
+
+ 
+
+Page 10 of 10 
+
+

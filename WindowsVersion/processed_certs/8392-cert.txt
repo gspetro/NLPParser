@@ -1,0 +1,245 @@
+﻿National Institute of Standards & Technology 
+Report of Investigation 
+Reference Material 8392 
+
+ 
+
+ 
+
+ 
+Human DNA for Whole-Genome Variant Assessment 
+
+ 
+
+(Family Trio of Eastern European Ashkenazi Jewish Ancestry) 
+(HG-002, HG-003, HG-004) 
+
+ 
+This Reference Material (RM) is intended for validation, optimization, and process evaluation purposes.  It consists 
+three  whole  human  genome  samples  from  a  son-father-mother  family  trio  of  Eastern  European  Ashkenazi  Jewish 
+ancestry from the Personal Genome Project (IDs huAA53E0, hu6E4515, and hu8E87A9), and it can be used to assess 
+performance of variant calling from genome sequencing.  A unit of RM 8392 consists of three vials containing human 
+genomic DNA from a specific family member; extracted from three large growths of human lymphoblastoid cell lines 
+from the Coriell Institute for Medical Research (Camden, NJ):  GM24385 (son) labeled as HG-002, GM24149 (father) 
+labeled as HG-003, and GM24143 (mother) labeled as HG-004.  Each vial contains approximately 10 µg of genomic 
+DNA, and the DNA is in TE buffer (10 mM TRIS, 1 mM EDTA, pH 8.0). 
+ 
+This  material  is  intended  for  assessing  performance  of  human  genome  sequencing  variant  calling  by  obtaining 
+estimates of true positives, false positives, and false negatives.  Sequencing applications could include whole genome 
+sequencing, whole exome sequencing, and more targeted sequencing such as gene panels.  This genomic DNA is 
+intended to be analyzed in the same way as any other sample a lab would process and analyze extracted DNA. Because 
+the  RM  is  extracted  DNA,  it  is  not  useful  for  assessing  pre-analytical  steps  such  as  DNA  extraction,  but  it  does 
+challenge sequencing library preparation, sequencing machines, and the bioinformatics steps of mapping, alignment, 
+and variant calling.  This RM is not intended to assess subsequent bioinformatics steps such as functional or clinical 
+interpretation. 
+ 
+Information Values:  Information values are provided for single nucleotide variations (SNVs), small insertions and 
+deletions (indels), and homozygous reference genotypes.  The v3.3.2 benchmark set covers approximately 87 to 88 % 
+of the GRCh37 assembly and 82 to 85 % of the GRCh38 assembly (excluding gaps in the assemblies), using methods 
+described in reference 1. An information value is considered to be a value that will be of interest and use to the RM 
+user, but insufficient information is available to assess the uncertainty associated with the value.  We describe and 
+disseminate our best, most confident, estimate of the genotypes using the data and methods currently available.  These 
+data and genomic characterizations will be maintained over time as new data accrue and measurement and informatics 
+methods  become  available.    Sequencing  data  for  HG-002,  HG-003,  and  HG-004  can  be  found  under  BioSample 
+SAMN03283347,  SAMN03283345,  and  SAMN03283346,  respectively,  in  the  National  Center  for  Biotechnology 
+Information (NCBI) Sequence Read Archive.  The information values are given as a variant call file (vcf) that contains 
+the benchmark SNVs and small indels, as well as a tab-delimited “bed” file that describes the benchmark regions in 
+which  any  additional  variants  not  in  the  benchmark  vcf  should  be  errors.    Information  values  cannot  be  used  to 
+establish metrological traceability.  The files referenced in this report are available at the Genome in a Bottle ftp site 
+hosted by the NCBI.  The Genome in a Bottle ftp site for the benchmark vcf and benchmark regions is: 
+ 
+
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio 
+
+ 
+Expiration of Value Assignment:  RM 8392 is valid, until 23 December 2024, provided the RM is handled and 
+material  and
+stored in accordance with instructions given in this report (see “Instructions for Storage and Use”).  This material and 
+associated information values are nullified if the RM is damaged, contaminated, or otherwise modified. 
+ 
+Overall direction and coordination of the analyses was performed by J. Zook and M. Salit of the NIST Biosystems 
+and Biomaterials Division. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  01 October 2019 
+Report Revision History on Last Page 
+
+Sheng Lin-Gibson, Chief 
+Biosystems and Biomaterials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 3 
+
+  
+
+RM 8392 
+
+Maintenance of RM:  This report will be updated periodically to reflect important new releases as the benchmark set 
+is updated.  NIST will monitor this RM over the period of its validity.  If substantive technical changes occur that 
+affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration (see 
+attached sheet or register online) will facilitate notification. 
+ 
+Statistical consultation for this RM was provided by D. Samarov of the NIST Statistical Engineering Division. 
+ 
+Technical  measurements  were  conducted  by  L. Harris,  J. McDaniel,  and  D. Catoe  of  the  NIST  Biosystems  and 
+Biomaterials Division.  Analyses were conducted by J. Zook, N. Olson, J. Wagner, D. Samarov, and J. McDaniel. 
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Office of Reference Materials. 
+ 
+NOTICE AND WARNINGS TO USERS  
+ 
+RM 8392 is from three human lymphoblastoid cell lines and is intended for research use.  Since there is no consensus 
+on  the  infections  status  of  extracted DNA, handle  RM 8392  components  as  Biosafety Level 1  material  potentially 
+capable of transmitting infectious disease, as recommended by the Centers for Disease Control and Prevention (CDC) 
+Office of Safety, Health, and Environment and the National Institutes of Health (NIH) [2]. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  RM 8392 is stored at –20 °C at NIST but will be shipped with freezer packs and may not arrive frozen.  
+Upon receipt, RM 8392 should be kept in the dark at –20 °C for long-term storage, or in the dark at 4 °C for short-term 
+storage (if use is imminent).   
+ 
+Use:  It is recommended that after comparing a vcf to the benchmark vcf, only the variants inside the benchmark 
+regions be considered as true positives, false positives, and false negatives. In addition, to understand the causes of 
+false positives and false negatives, including the potential for errors in the benchmark set, it is strongly recommended 
+that the user manually inspect aligned reads around a subset of putative false positive and false negatives using a 
+genome browser.  To develop standardized definitions for performance metrics and tools to compare variant calls with 
+different representations, the Global Alliance for Genomics and Health Benchmarking Team published best practices 
+for benchmarking germline small-variant calls in human genomes, which we strongly recommend following [3]. 
+ 
+As sequencing technologies and analysis methods improve, these benchmark calls and regions will be updated with 
+refined versions of the files in a different directory, and this Report of Investigation will be updated periodically to 
+reflect important new releases.  The current release contains small variant benchmark sets with respect to the GRCh37 
+and GRCh38 reference assemblies from the Genome Reference Consortium.  Datasets from a variety of technologies 
+for this genome are described in reference 4.   
+ 
+SOURCE PREPARATION(1) 
+ 
+The  DNA  for  the  son  in  NIST  RM 8392  is  from  the  same  growth  as  the  DNA  in  RM 8391  Human  DNA  for 
+Whole-Genome Variant Assessment (Son of Eastern European Ashkenazi Jewish Ancestry), which contains only the 
+son.  Coriell Institute For Medical Research grew a large batch of their cell lines GM24385, GM24149, and GM24143 
+to produce approximately 107 mg, 35 mg, and 30 mg of total extracted DNA, divided equally into 10 728, 3475, and 
+3037 vials for the son, father, and mother, respectively. To produce this large quantity of DNA, Coriell started with 
+five aliquots of cells from their stock.  These aliquots were pooled, cultured, and split into 50 aliquots.  One of these 
+aliquots was taken for quality control, and ten of the aliquots were pooled, split into 21 flasks, grown, and combined.  
+A small amount of these cells was saved for potential future sequencing.  The combined 21 growths were mixed and 
+the pool was split into 5 roller bottles, which were again grown and combined.  A small amount of these cells was also 
+saved for potential future sequencing.  Finally, this large pool was mixed and split into 25 roller bottles, which were 
+grown and combined.  A small amount of these cells was also saved for potential future sequencing.  This final pool 
+of cells was split into 3 pools for DNA extraction, and the extracted DNA was re-pooled and gently mixed at 4° C for 
+>48 hours before automated aliquoting into vials of 10 ug of DNA. 
+ 
+Note:  This RM is isolated DNA rather than live cells because cells are less stable and can mutate with each cell 
+division, so that the sequence may not be stable over time for live cells.  Extracting DNA from a large batch of cells 
+helps ensure that all vials contain essentially the same sequences of DNA. DNA is currently available from this same 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instrumentation,  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by NIST, nor does it imply that the 
+materials or equipment identified are necessarily the best available for the purpose. 
+RM 8392 
+
+Page 2 of 3 
+
+cell line from Coriell, but it may contain small differences in the DNA due to different mutations occurring in different 
+batches of the cells. 
+ 
+Stability: 
+  Stability  was  assessed  by  measuring  the  size  distribution  of  DNA  with  pulsed  field  gel 
+electrophoresis (PFGE).  Using PFGE, no change in the size distribution was detected after storage at 4 °C for eight 
+weeks, but the size distribution decreased significantly when stored at 37 °C for 2 weeks or longer.  In addition, for 
+similar  human  DNA  materials,  we  have  found  that  no  change  is  detected  after  five  freeze-thaw  cycles,  pipetting 
+vigorously, or vortexing.  Because we only measure size distribution, we still recommend storing at –20 °C for long 
+periods  of  time  and  limiting  freeze-thaw  cycles,  pipetting,  and  vortexing,  particularly  if  the  measurement  method 
+requires long, undamaged DNA fragments. 
+ 
+Homogeneity:  NIST sequenced multiple vials in an experiment designed to assess homogeneity of the samples.  No 
+significant differences were detected in terms of proportion of variant or copy number, except for a few in regions 
+known to be susceptible to systematic errors.  These results, along with the mixing of DNA before aliquoting, provide 
+confidence that no large differences in small variants or copy number are likely to exist between different vials. 
+ 
+Size, Concentration, and Volume:  Nominal fragment size length and amount of DNA are useful for judging whether 
+fragment sizes are appropriate for the application and for sample preparation.  The characterization of these properties 
+in this RM was intended to determine if they are fit for this purpose. 
+  
+The fragment size distribution of DNA is suitable for contemporary short read sequencing methods that use fragments 
+less than 1 kb in length.  Long and linked read sequencing may be limited by the size distribution of the molecules.  
+HG-002, HG-003, and HG-004 have a peak in the size distribution longer than 48.5 kb, as referenced by Lambda 
+DNA.  These size distributions were measured using PFGE, and biases of this method were not characterized. 
+ 
+The  nominal  concentration  of  DNA  was  measured  by  fluorescence.    The  mean  measured  concentration  was 
+approximately  300 ng/μl  for  HG-002,  230 ng/μl  for  HG-003,  and  240 ng/μl  for  HG-004.  The  mean  volume,  as 
+measured by pipette, was 37 μl for HG-002, 45 μl for HG-003, and 44 μl for HG-004.  Biases for these measurements 
+were not characterized.  It is expected that the user will characterize these properties using measurement methods 
+appropriate for use in their application. 
+ 
+
+REFERENCES 
+
+ 
+[1]  Zook,  J.M.;  McDaniel, J;  Olsen, N.D.;  Wagner, J.;  Parikh, H.;  Heaton, H.;  Irvine, S.A.;  Trigg, L.;  Truty, R.; 
+McLean, C.Y.;  De  La  Vega, F.M.;  Xiao, C.;  Sherry, S.;  Salit, M.;  An  Open  Resource  for  Accurately 
+Benchmarking  Small  Variant  and  Reference  Calls;  Nat. Biotech., Vol. 37,  pp. 561-566  (2019)  available  at 
+https://www.nature.com/articles/s41587-019-0074-6 (accessed Oct 2019). 
+
+[2]  CDC/NIH:  Biosafety  in  Microbiological  and  Biomedical  Laboratories,  5th  ed.;  HHS  publication  No.  (CDC) 
+21-1112;  Chosewood, L.C.;  Wilson, D.E.;  Eds.;  US  Government  Printing  Office:  Washington,  D.C.  (2009); 
+available at https://www.cdc.gov/biosafety/publications/bmbl5/ (accessed Oct 2019). 
+
+[3]  Krusche, P.;  Trigg, L.;  Boutros, P.C.;  Mason, C.E.;  De  La  Vega, F.M.;  Moore, B.L.;  Gonzalez-Porta, M.; 
+Eberle, M.A.;  Tezak, Z.;  L;babidi, S.;  Truty, R.;  Asimenos, G.;  Funke, B.;  Fleharty, M.;  Chapman, B.A.; 
+Salit, M.; Zook, J.M.; Best Practices for Benchmarking Germline Small-variant Calls in Human Genomes; Nat. 
+Biotechnol.  Vol. 37, pp. 555-560 (2019). 
+
+[4]  Zook, J.M;  Catoe, D.,  McDaniel, J;  Vang, L;  Spies, N.;  Sidow, A.;  Weng, Z.;  Liu, Y.;  Mason, C.E.; 
+Alexander, N.;  Henaff, E.; McIntyre, A.B.R.; Chandramohan, D.; Chen,  F.; Jaeger, E.; Moshrefi, A.; Pham, K.; 
+Stedman,  W.;  Liang,  T.;  Saghbini, M.;  Dzakula, Z.;  Hastie, A.;  Cao, H.;  Deikus, G.;  Schadt,  E.;  Sebra, R.; 
+Bashir, A.;  Truty, R.M.;  Chang, C.C.;  Gulbahce,  N.;  Zhao, K.;  Ghosh, S.;  Hyland, F.;  Fu, Y.;  Chaisson, M.; 
+Xiao, C.;  Trow, J.;  Sherry, S.T.;  Zaranek, A.W.;  Ball,  M.;  Bobe, J.;  Estep, P.;  Church,  G.M.;  Marks, P.; 
+Kyriazopoulou-Panagiotopoulou, S.;  Zheng, G.X.Y.;  Schnall-Levin, M.;  Ordonez, H.S.;  Mudivarti, P.A.; 
+Giorda, K.;  Sheng, Y.;  Rypdal, K.B.;  Salit, M.;  Extensive  Sequencing  of  Seven  Human  Genomes  to  
+Characterize  Benchmark  Reference  Materials;  Sci.  Data 
+at 
+https://www.nature.com/articles/sdata201625 (accessed Oct 2019). 
+
+available 
+
+160025 
+
+(2016); 
+
+3, 
+
+ 
+
+Report  Revision  History: 
+08 September 2016 (Original certificate date). 
+
+  01 October 2019  (Updated  title;  updated  released  benchmark  set  information;  editorial  changes); 
+
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm.  
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+RM 8392 
+
+Page 3 of 3 
+
+

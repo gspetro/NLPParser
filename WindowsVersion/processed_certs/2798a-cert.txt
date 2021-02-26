@@ -1,0 +1,344 @@
+﻿ 
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material 2798a 
+
+ 
+
+ 
+Vickers Microhardness of Nickel 
+ 
+Serial No.:  SAMPLE 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  as  a  primary  standard  for  use  in  calibrating  Vickers-type 
+microhardness testers and is certified for mean Vickers hardness values (HV) at a load of 4.905 N (0.500 kgf).  A 
+unit of SRM 2798a consists of a square test block of electrodeposited bright nickel on an AISI 1010 steel substrate.  
+The test block  measures 1.35 cm on each side, is approximately 750 μm thick, and is mounted in a thermosetting 
+epoxy.  Five indentations were made on the SRM’s polished surface for each load at positions illustrated in Figure 1.  
+The mean Vickers HV and the corresponding expanded uncertainty for the mean of five future indentations for each 
+load tested are presented in Table 1.  Vickers hardness values are reported as Vickers HV in units of kgf/mm2 and SI 
+units of gigapascal (GPa).  Each SRM was individually measured and bears a serial number imprinted on the epoxy 
+mount. 
+ 
+
+Table 1.  Certified Mean Vickers HV and Expanded Uncertainty, U 
+
+Load 
+
+N 
+4.905 
+
+(kgf) 
+(0.500) 
+
+Mean HV 
+
+GPa 
+SAMPLE 
+
+(kgf/mm2) 
+(SAMPLE) 
+
+ 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2798a  is  valid  indefinitely,  within  the  measurement 
+uncertainty specified, provided the SRM is handled, stored, and used in accordance with the instructions given in 
+this  certificate  (see  “Instructions  for  Handling,  Storage,  and  Use”).    Accordingly,  periodic  recalibration  or 
+recertification of this SRM is not required.  Aside from indentation, any physical damage or other alteration of the 
+surface of the specimen, including all processes that remove surface material such as repolishing, will invalidate the 
+certification. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see 
+attached sheet) will facilitate notification. 
+ 
+The coordination of the production and the technical measurements leading to the certification of SRM 2798a were 
+performed by D.R. Kelley of the Thin Film and Nanostructure Processing Group of the NIST Metallurgy Division.  
+This  SRM  was  fabricated  by  D.R. Kelley  and  C.E. Johnson  and  certified  by  H.B. Gates  of  the  Electrochemical 
+Processing Group of the NIST Metallurgy Division. 
+ 
+Statistical analysis of the data was performed by N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 September 2012 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Frank W. Gayle, Chief 
+Metallurgy Division 
+
+ 
+
+SRM 2798a 
+
+ 
+
+Page 1 of 3 
+
+ 
+
+1 
+
+4 
+
+5 
+
+2 
+
+3 
+
+SRM 2798a Serial No.:  SAMPLE 
+SAMPLE 
+Calibration Date: 
+H.B. Gates 
+Calibrated by: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Figure 1.  Position of Indentations 
+
+ 
+NIST  Specimen  Preparation:    The  starting  material  for  this  SRM  was  a  flat  sheet  of  electroformed  nickel, 
+23 cm  46 cm  1 mm,  over a  steel  substrate.    The nickel sheet/steel  substrate  combination  was  cut  into  coupons 
+that were mounted and highly polished to provide flat and parallel surfaces suitable for Vickers microindentations. 
+ 
+NIST Certification Procedure:  The Vickers microindentations are located in the center and near the four corners 
+of the block as illustrated in Figure 1.  These indentations were made in accordance with the Vickers hardness test 
+principle, in which a diamond indenter, in the form of a right pyramid with a square base, is forced into the surface 
+of  a  test  piece  followed  by  measurement  of  the  two  diagonal  lengths  of  the  indentation  left  in  the  surface  after 
+removal  of  the  test  force.    The  certified  mean  Vickers  HV  of  this  block  is  shown  in  Table 1.    Measurements  on 
+randomly selected blocks have established that the HV is uniform across the surface of each block. 
+ 
+Hardness values for this SRM were obtained using a dedicated, calibrated hardness tester.  The loading mechanism 
+of  the  hardness  tester  was  calibrated  with  a  miniature  precision  load  cell  that  was  calibrated  with  NIST  certified 
+weights.  The indentation sizes were measured on an optical microscope using a filar micrometer and/or an image 
+analyzer calibrated with a NIST certified stage micrometer.  When using the 10 X filar micrometer for measuring 
+the  indentation  size,  the  total  magnification  was  500 X  using  a  50 X  dry  objective  lens  with  a  numerical 
+aperture (NA) of 0.80.  For measurement with the image analyzer, the microscope 50 X dry objective lens was used 
+with a 1 X video camera lens.  
+ 
+The Vickers HV is computed from the following equation [2] 
+ 
+ 
+
+HV
+
+
+
+
+
+/2)
+ 
+
+( sin 2P 
+2
+
+d
+
+
+
+ P
+ 
+
+ 
+1.8544
+2
+
+d
+
+kgf/mm
+
+2
+
+ 
+where P is the indenter load in kilogram-force, d is the average of the two diagonal lengths in millimeters, and α is 
+the face angle of the ideal indenter, which is 136. 
+ 
+Since the units of gram-force (gf) and micrometers (μm) are normally used in this field, the constant in Equation 1 
+can be modified to accommodate the conversion factors to ease use during computation.  The equation for Vickers 
+HV, still expressed in kgf/mm2, becomes 
+ 
+
+HV
+
+
+
+ P'
+ 
+
+ 
+1854.4
+2
+
+d
+
+'
+
+kgf/mm
+
+2
+
+ 
+where P' is expressed in gf and d ' in µm. 
+ 
+To express the Vickers HV in SI units of GPa, the constant must be further modified to obtain 
+ 
+
+HV
+
+
+
+ 
+18.185
+
+ P
+ 
+
+2
+
+GPa   
+
+or   HV
+
+
+
+ P'
+ 
+
+18185
+ 
+2
+
+GPa
+
+d
+
+ 
+ 
+Discussion of Uncertainty:  The uncertainty in the certified value of the hardness measurement is expressed as an 
+uncertainty,  U,  at  the  95 %  level  of  confidence,  and  is  calculated  according  to  the  method  described  in  the  ISO 
+Guide [1].  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one 
+prediction standard deviation for the mean of five future observations, the combined uncertainty due to material 
+variability  and  measurement  uncertainty.    The  coverage  factor,  k,  is  determined  from  the  Student’s  t-distribution 
+corresponding to the 4 degrees of freedom and 95 % confidence. 
+ 
+
+d
+
+'
+
+(1) 
+
+(2) 
+
+(3) 
+
+SRM 2798a 
+
+ 
+
+Page 2 of 3 
+
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+The  metallic  block  is  durable  but  may  be  susceptible  to  tarnish  or  corrosion  in  an  environment  of  high  humidity 
+and/or acidic sulfur or chlorine bearing gases or liquids.  Oils, fingerprints, or skin oils should be removed before 
+and after use of the SRM.  The SRM unit may be cleaned with ethyl alcohol and soft wipe materials.  The surface 
+polish should be protected from abuse.  The blocks must NEVER BE REPOLISHED, as this will invalidate the 
+certification. 
+ 
+This SRM is intended for use with microhardness testing machines whereby a Vickers indentation can be made and 
+then measured with an optical microscope.  When using this SRM, a minimum of five indentations must be made 
+for accurate comparison to the certified mean HV and expanded uncertainty. 
+ 
+When making new indentations in the block, special care should be taken to ensure that the loading rates and load 
+duration are as prescribed by the applicable Vickers hardness test method standard.  There should be no vibrations or 
+impact imparted to the machine during the indentation cycle.  The surface of the test block and the indenter must be 
+clean  and  should  not  contain  skin  oils,  which  could  alter  the  friction  between  the  indenter  and  block  surface.  
+Indentations may be placed in any region of polished surface provided that they are not within 1.9 mm of any edge, 
+since  slight  edge  rounding  from  polishing  can  distort  the  indentation  shape  and  affect  the  size.    Guidelines  for 
+indentation spacing can be found in applicable Vickers hardness test method standards. 
+ 
+When measuring indentations, proper illumination and focus of the indentation tips are critical to obtain good clarity 
+and contrast.  The apparent indentation size will be affected by the magnification used since the numerical aperture 
+of the objective lens establishes the resolution limits.  A total magnification of 400 X or higher is recommended. 
+ 
+Magnifications should be checked by use of a calibrated stage micrometer.  Filar micrometers and image analyzing 
+systems should be calibrated with stage micrometers.  Proper use of filar crosshairs is essential.  For best results, it is 
+critical that the instructions of the hardness machine manufacturer and the applicable Vickers hardness test method 
+standard be followed.  Additional information on the preparation of this SRM can be found in references 2 and 3. 
+ 
+
+REFERENCES 
+
+ 
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008); 
+(accessed 
+available 
+Sep 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST  Measurement  Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC 
+(1994); available at http://physics.nist.gov/Pubs/ (accessed Sep 2012). 
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+
+at 
+
+[2]  Kelley, D.R.;  Johnson, C.E.;  Lashmore, D.S.;  Electroformed  Microhardness  Standards;  Proceedings  37th 
+
+Meeting of the Mechanical Failure Prevention Group; Cambridge University Press, pp. 55-58 (1984). 
+
+[3]  Kelley, D.R.;  Johnson, C.E.; Lashmore, D.S.;  Fabrication and  Certification of  Electroformed  Microhardness 
+Standards; Proceedings of IMS/ASTM Meeting; ASTM Special Technical Publication, Issue 889, pp. 186–195 
+(1985). 
+
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    04 September 2012  (Certification  procedure  updated;  editorial  changes);  10 October 2003  (Original  certificate 
+date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2798a 
+
+ 
+
+Page 3 of 3 
+
+

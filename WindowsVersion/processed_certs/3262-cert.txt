@@ -1,0 +1,1621 @@
+﻿Je < 
+
+NT  OF  ¢, 
+
+Ww 
+
+Oy
+
+National Institute of Standards & Technology  
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3262 
+ 
+St. John’s Wort (Hypericum perforatum L.) Aerial  Parts 
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination  of chlorogenic acid,  flavonoids, naphthodianthrones, and toxic elements in  Hypericum perforatum L. 
+and  similar  materials.    This  SRM  can  be  used for  quality  assurance when  assigning values  to  in-house  control 
+materials.    This  SRM  has also been  characterized  for  its  DNA  sequence.   A  unit  of  SRM 3262  consists of  five 
+heat-sealed aluminized  pouches, each containing approximately  3.3  g of material. 
+ 
+The  development  of  SRM 3262  was  through  collaboration  among  the  National  Institute  of  Standards  and 
+Technology (NIST);  the National  Institutes of Health Office  of Dietary  Supplements (NIH-ODS);  and the Food and 
+Drug Administration (FDA)  Center for Drug Evaluation and Research (CDER).   The addition of genetic informatio n  
+was  accomplished  through  collaboration  among  NIST,  NIH-ODS,  the  U.S.  Department  of  Agriculture (USDA ) 
+Agricultural  Research  Service (ARS),  AuthenTechnologies (Richmond,  CA),  and American  Herbal  Pharmacopoeia 
+(Scotts Valley,  CA). 
+ 
+Taxonomic  Identification:   The taxonomic  identity is Hypericum perforatum L.  established through identification 
+by a trained botanist using an herbarium specimen from  original material  and from  associated DNA sequence analysis 
+from  botanically authenticated Hypericum perforatum L.  The associated DNA sequences are available in companion 
+FASTA-formatted  files [1].    The  uncertainty  associated with  each  nucleotide  in  the  sequence,  and  in  turn  the 
+uncertainty  associated with  the  DNA  sequence as  an  identifier  of  species, is  expressed  in  an  ordinal  scale  that 
+represents the confidence estimates of the assigned value (Tables 1 and 2) [2].   These DNA  sequences are used as a 
+source of identity data for Hypericum perforatum L.   
+ 
+Certified  Mass  Fraction  Values:   Certified  mass  fraction  values for  toxic  elements  in  SRM 3262,  reported on a 
+dry-mass basis, are provided in Table 3.  A NIST  certified  value is a value for which NIST  has the highest confidence 
+in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [3].  Analyses 
+for value assignment were performed by NIST.   Certified  values were calculated as the mean of the mean values fro m 
+NIST  methods.  The associated uncertainties are expressed at an approximately  95 % level of confidence [4–6]. 
+ 
+Reference  Mass  Fraction  Values:   Reference  mass fraction  values, reported on a dry-mass basis, are provided for 
+chlorogenic  acid,  flavonoids, and  naphthodianthrones (Table 4)  and  lead  (Table 5).    A  NIST  reference  value  is  a 
+noncertified value that is the best estimate of the true value based on available  data; however, the value does not meet 
+the NIST  criteria  for certification  [3] and is provided with associated uncertainties that may reflect only measurement  
+reproducibility,  may  not include  all  sources of uncertainty, or  may  reflect  a lack  of sufficient  statistical agreement 
+among multiple  analytical  methods.  The reference mass fraction values were derived from  results reported by NIST. 
+ 
+Expiration  of Certification:   The certification  of SRM  3262 is valid, within the measurement uncertainty specified, 
+until  01 March  2026,  provided the  SRM  is  handled  and  stored in  accordance with  the  instructions given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed  by C.A. Rimmer, 
+L.J.  Wood of the NIST  Chemical  Sciences Division,  and K.E.  Sharpless formerly  of  the NIST  Chemical  Sciences 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Cert ificate Issue Date:  14 September 2016 
+
+Carlos A. Gonzalez,  Chief 
+Chemical  Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office  of Reference Materials 
+
+Page 1 of 13 
+
+SRM  3262 
+
+  
+
+these  agencies  was  provided  by  J.M. Betz  (NIH-ODS)  and  A. NguyenPho (FDA  CDER).   
+
+ 
+Maintenance  of  SRM Certification:   NIST  will  monitor this SRM over the period of its certification.   If substantive 
+technical  changes occur  that affect  the certification  before  the  expiration  of  this certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will  facilitate  notification. 
+ 
+Support for  the development of SRM  3262  was provided in  part by the NIH-ODS  and the FDA CDER.   Technical 
+consultation  from 
+Acquisition and preparation of the material  were  coordinated by A. NguyenPho and K.E.  Sharpless. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  B.L.  Catron,  K.D.  Chieh,  P.B.  Howell,  S.E.  Long, 
+K.E.  Murphy,  M.A. Nelson,  R.L.  Paul,  M.M. Phillips,  and  L.J.  Wood  of  the  NIST  Chemical  Sciences  Division.   
+Molecular  approach for  species identity was coordinated and performed  by D.H.  Reynaud of  AuthenTechnologies, 
+with  two  collaborating  laboratories  for  sequencing analyses: University  of  California  Berkeley  DNA  Sequencing 
+Facility (Berkeley,  CA) and Sequetech, Inc. (Mountain View,  CA).  Technical consultation was provided by J.M. Betz 
+(NIH-ODS),  J. Harnly  (USDA-ARS),  R.  Upton (American  Herbal  Pharmacopoeia),  and W. Applequist (Missouri 
+Botanical Garden,  St. Louis, MO).   
+ 
+Statistical analysis was provided by J.H.  Yen of the NIST  Statistical Engineering  Division. 
+ 
+Support  aspects involved  in  the  issuance of  this  SRM  were  coordinated through the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE  TO USERS:   SRM 3262  IS INTENDED  FOR  RESEARCH  USE,  NOT FOR  HUMAN  CONSUMPTION. 
+ 
+INSTRUCTIONS  FOR  STORAGE  AND  USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20  °C to 25  °C), in its original  unopened packets, 
+until required for use.  For elemental  analyses, the packet can be resealed and test portions removed and analyzed until 
+the material  reaches its expiration  date.  For chlorogenic acid, flavonoids, and naphthodianthrones analysis, the packet 
+can be resealed and test portions removed and analyzed for up to two months after opening. 
+ 
+Use:  Prior to use, the contents of the packet should be mixed  thoroughly.  Allow  the contents to settle for one minute 
+prior to opening to minimize  the loss of fine particles.  To relate analytical determinations to the certified or reference 
+values in  this  Certificate  of  Analysis, the  minimum  test portion  mass  indicated  in  the “Source,  Preparation,  and 
+Analysis” section for each group of analytes below should be used.  Results obtained in analyses should include their 
+own estimates of uncertainty and can be compared to the certified  or reference  values using procedures described in 
+reference [7].   The moisture conversion factor can be used for the sample(s)  when using an unopened packet for the 
+first time.   If using a previously opened and resealed packet, sample(s) need to be dried using one of the recommended 
+techniques (see “Determination  of Moisture”). 
+ 
+Determination  of Moisture:   Moisture content of SRM 3262  was determined at NIST  by (1) drying over magnesium 
+perchlorate  in  a  desiccator  at  room  temperature  for  14  d  and (2)  drying  for  2 h  in  a  forced-air  oven  at  70  °C.   
+Unweighted  results  obtained  using  both  techniques  were  averaged  to  determine  a  conversion  factor  of 
+(0.9512  ± 0.0022)  gram  dry-mass per gram  as-received mass, which  was used to convert data from  an as-received to 
+a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty (coverage factor k = 2).   A relative 
+uncertainty component for the conversion factor (0.11  %) obtained from  the moisture measurements is incorporated 
+in  the uncertainties  of  the  certified  and  reference  values,  reported on  a  dry-mass  basis,  that are  provided in  this 
+certificate. 
+ 
+SOURCE,  PREPARATION,  AND  ANALYSIS( 1) 
+ 
+Source and  Preparation:   The SRM is a cultivated, dried plant material  of St. John’s wort (Hypericum perforatum L.) 
+purchased from a commercial  source.  The material  was received as whole stalks; the leaves and petioles were stripped 
+off,  ground  in  a  blender,  and  sieved  to  180  µm  (80  mesh).    The  material  was  shipped to  High-Purity  Standards 
+(Charleston, SC)  where  it  was blended, aliquoted,  and heat-sealed inside nitrogen-flushed 4 mil  polyethylene bags, 
+which  were  then sealed inside  nitrogen-flushed aluminized  plastic bags along with  two packets of  silica  gel  each.  
+After packaging, the material  was irradiated  (Neutron Products, Inc., Dickerson, MD) by 60Co to an absorbed dose of 
+27.5  kGy  to 33.5  kGy. 
+
+                                                                 
+
+(1) Certain  commercial  equipment,  instruments or  materials  are  identified  in  this certificate  to adequately  specify the 
+ds
+experimental procedure. Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available  for the purpose. 
+
+SRM  3262 
+
+Page 2 of 13 
+
+inductively  coupled  plasma  mass  spectrometry (ICP-MS), 
+
+ 
+Analytical  Approach  for  Determination  of  Chlorogenic  Acid,  Flavonoi ds,  and  Naphthodianthrones:    Valu e 
+assignment of the mass fractions of chlorogenic acid, flavonoids, and naphthodianthrones in SRM 3262  was based on 
+measurements provided by NIST  using liquid  chromatography (LC)  with absorbance and/or fluorescence detection. 
+ 
+NIST  Analyses  for  Chlorogenic Acid,  Rutin, Hyperoside,  Quercitrin,  Hypericin, and Pseudohypericin:   The  mass 
+fractions of chlorogenic acid,  rutin,  hyperoside, quercitrin,  hypericin,  and pseudohypericin were determined  by LC 
+with  absorbance and/or fluorescence detection from  duplicate, nominal  1.0  g test portions taken from  10  packets of 
+SRM  3262.   Test portions were  combined  with  a measured  mass of internal  standard solution (rhodamine  6G),  1 g 
+hydromatrix,  and methanol, placed in a Pyrex  Soxhlet extraction thimble  and allowed to reflux  for 24  h before analysis 
+by LC.   A C18  column  and a  gradient method with  a  mobile  phase consisting of  (A) aqueous 0.5  % triethylamin e 
+(volume  fractions)  adjusted to pH 4.5  with  acetic  acid  and (B)  acetonitrile  were  used.  Absorbance at 340  nm  was 
+monitored  for  detection  of  chlorogenic  acid,  rutin,  hyperoside,  and  quercitrin,  and  absorbance  at  590  nm  was 
+monitored  for  detection  of  hypericin  and  pseudohypericin  using  a  photodiode  array  detector.    Hypericin  and 
+pseudohypericin were  also  monitored  by  fluorescence  at  an  excitation  wavelength  of  470  nm  and  an  emission 
+wavelength of 590  nm.  Additional method details and a typical chromatogram are provided in Appendix E.  Calibrants  
+were prepared gravimetrically  at levels intended to approximate  levels of the analytes in the extracts of the SRM.   The 
+purity  of neat calibrant  materials  for  chlorogenic  acid,  hyperoside, quercitrin,  hypericin,  and pseudohypericin was 
+determined at NIST  by quantitative proton nuclear magnetic resonance spectroscopy (qNMR). The purity of the neat 
+calibrant  material  for  rutin  was determined  at NIST  by LC  with  absorbance detection.   A single  internal  standard 
+solution was used for calibrants and samples. 
+ 
+Analytical  Approach  for  Determination  of  Elements:   Value  assignment of the mass fractions of the elements in 
+SRM  3262  was  based on measurements  provided by  NIST  using isotope dilution/cold  vapor  inductively  coupled 
+plasma  mass  spectrometry (ID/CV  ICP-MS), 
+isotope 
+dilution  inductively  coupled  plasma  mass  spectrometry (ID  ICP-MS),  and  instrumental  neutron  activation 
+analysis (INAA).   
+ 
+NIST Analyses for As by INAA:   The mass fraction of arsenic was determined by INAA from  duplicate, nominal  0.3  g 
+test portions taken from  ten packets of SRM  3262.   Test portions were packaged individually  in clean polyethylene 
+bags along with gravimetric  standards made from SRM  3103a,  lot #100818,  Arsenic (As) Standard Solution and were 
+distributed among  four  irradiation  vessels.  Each  vessel was irradiated  for  2 h  at 20 MW and rotated end-over-end 
+after 1 h to ensure a uniform  neutron flux.   Test portions were allowed  to decay 5 d to 6 d after which  test portions 
+were counted for 5 h.  The 559  keV  line  from  decay of 76As was used for quantification. 
+ 
+NIST Analyses for As by ICP-MS:   The mass fraction of arsenic was determined  by ICP-MS  from  duplicate, nominal 
+itric  acid 
+0.5  g test portions taken from  six  packages of SRM 3262.   Samples  were digested in closed vessels using nitric  acid 
+ns
+in  a  microwave  sample  preparation system.    Quantification  was  based on  the method  of  standard additions using 
+spectrometric single element  standard solution SRM 3103a,  lot #100818. 
+ 
+NIST Analyses for Cd and Pb by ID ICP-MS:   Mass fractions of cadmium  and lead in SRM  3262  were determined by 
+ID ICP-MS  from  duplicate,  nominal  0.7  g  test  portions taken  from  each  of  six  (Pb)  to  twelve  (Cd)  packets  of 
+SRM  3262.   Samples  were spiked with  isotopically enriched 206Pb and 111Cd and were digested in nitric  acid using a 
+microwave  sample  preparation system.   Digests were  transferred to plastic bottles and diluted with  the appropriate 
+volume  of 2 %  (volume  fraction)  nitric  acid.   Lead  was measured by ICP-MS  in standard mode,  whereas cadmiu m 
+was  measured  in  collision  cell/kinetic  energy  discrimination  mode.    The  use  of  ID ICP-MS  for  the  accurate 
+measurement  of Cd has been described in detail [8].   Cadmium  standards were prepared from  SRM  3108  Cadmiu m 
+Standard Solution  and high  purity  Cd  metal  (99.999+  percent purity)  whose source is  SRM 746  Cadmium-Vap o r 
+Pressure.  Lead standards were prepared from  SRM  3128  Lead (Pb) Standard Solution, and from  high purity Pb metal 
+(99.999  percent purity)  obtained from  Johnson Matthey (London, UK).    The standards were  used to calibrate  the 
+amount of added 111Cd and 206Pb via reverse ID  ICP-MS  [8].   
+ 
+NIST  Analyses  for  Hg  by  ID/CV  ICP-MS:    The  mass  fraction  of  mercury  in  SRM 3262  was  determined  by 
+ID/CV  ICP-MS  from  single,  nominal  0.2  g test portions taken  from  each of eight  packets of  SRM 3262.   Samples  
+were  spiked with  isotopically  enriched 201Hg and were  digested in  a  nitric  acid/hydrochloric  acid  mixture  using a 
+microwave  sample  preparation  system.    Quantification  was  based  on  the  method  of  isotope  dilution  analysis 
+monitoring  the 201Hg/202Hg isotope ratios [9]. 
+ 
+
+ 
+
+SRM  3262 
+
+Page 3 of 13 
+
+ASSIGNMENT  OF  IDENTITY 
+ 
+Molecular Approach for Species Identity:  Sanger sequencing was used on three independent chloroplast gene regions, 
+trnL-trnF intergenic region [10,11],  rbcL intron [12],  and the nuclear ribosomal gene internal transcribed spacer (ITS) 
+sequence for authentication of SRM 3262.   Complete  sequencing of the strands of DNA  for  the three gene regions 
+was performed  on triplicate  samples, the sequence reads were independently hand-curated, and the confidence values 
+were  estimated  as described below.    DNA  sequences are  available  in  companion  FASTA-formatted  files  [1].   To 
+certify the species identity, validation studies were performed based on the “Probability of Identification (POI)”  model 
+using an Inclusivity  and Exclusivity  Panel [13].    Multiple  samples of  authenticated herbarium  vouchers, botanical 
+identity reference materials,  and published literature were used to comprise the panels from  the target and most closely 
+related  species (see Appendix  A for  more  information  on the reference  samples).   These samples were  analyzed a 
+minimum  of  ten times  to  ensure consistency in  methods from  replicate  to  replicate.    Maximum  Likelihood  (ML) 
+phylogenetic  analyses were  performed  using  the  phylogenetic  estimation  using  ML  (PhyML)  algorithm,  with  a 
+General  Time  Reversible  (GTR)  substitution  model,  a  fixed  transition-transversion  ratio,  and  1,000  bootstrap 
+replicates.  ML phylogenies, and the DNA aligned matrices, which can be found in Appendices B, C and D, were used 
+to determine  the species identity of SRM 3262  and to estimate the confidence (as described below).   The confidence 
+levels for both the trnL-trnF intergenic region, the rbcL intron, and the ITS sequence were “Most Confident” (0). 
+ 
+The taxonomic  identification  is Hypericum  perforatum L.  and the associated chloroplast DNA  sequences from  the 
+trnL-trnF intergenic spacer and rbcL intron regions and from  the nuclear ribosomal  gene internal transcribed spacer 
+(ITS)  sequence are  available  in  companion  FASTA-formatted  files [1].    The  confidence  associated  with  each 
+nucleotide in the sequence, and in turn the confidence associated with the DNA  sequence as an identifier  of species, 
+is expressed in an ordinal  scale that represents the strength of the belief  in the assigned value (Table 1) [2].   In the 
+absence of a fully  developed metrology  for identity,  these DNA sequences are used as a source of  identity data for 
+Hypericum  perforatum L.    Chloroplast  and  nuclear  ribosomal  DNA  sequences from  botanically  authenticated 
+Hypericum perforatum L. samples are used to establish inclusivity; chloroplast and nuclear ribosomal  DNA sequences 
+from  close relatives are used to establish exclusivity. 
+ 
+Nucleotide Identity:    A  set of  heuristic,  experience-based,  rules  (see  Table 2)  were  used to  establish confidence 
+estimates for the nucleotides comprising  the DNA  sequences obtained from SRM 3262,  and their use in identifying 
+the  species  (see  Table  1).    The  DNA  sequences with  curated  confidence  estimates  are  available  in  companion 
+FASTA-formatted  files [1].   The DNA  aligned matrices  used to determine  the species identity and their  confidence 
+estimates are  provided in Appendices B, C,  and D.   The confidence associated with each nucleotide in the sequence 
+in  the FASTA files  provided [1],  and in  turn the confidence associated with  the DNA  sequence as an identifier  of 
+species, is expressed in an ordinal scale that represents the strength of the belief in the assigned value (Table 2) [2].  
+Characteristics  of  sequence data and  phylogenetic data used for  species identity  associated with  the levels  of  the 
+ordinal  scale are  described in  Tables 1  and 2.    The confidence estimates  for  the trnL-trnF  intergenic  spacer, rbcL 
+intron region, and ITS sequences are available in companion FASTA-formatted  files [1]. 
+ 
+
+Table 1.  Definitions  of Heuristic Rules for Confidence Estimates of Species Identity 
+ 
+
+Confidence Level 
+
+Species Identity 
+
+Most Confident (0) 
+
+Very  Confident (1) 
+
+Confident (2) 
+
+Ambiguous (3) 
+
+Have very well-supported and well-resolved  phylogeny and/or multiple 
+diagnostic nucleotides differentiating  species from  closest relatives; have data 
+from  multiple  samples of both an inclusivity and exclusivity  panel; data from 
+multiple  independent gene regions agree. 
+
+Have reasonably well-supported and well-resolved phylogeny and/or a few 
+diagnostic nucleotides differentiating  species from  close relatives; have data 
+from  multiple  samples of both an inclusivity and exclusivity  panel; data from 
+one gene, or data from  multiple  independent gene regions agree. 
+
+Have reasonably well-supported and well-resolved phylogeny and/or one or a 
+few diagnostic nucleotides differentiating species from  close relatives; have 
+data from  a few samples of both an inclusivity and exclusivity  panel; data from 
+one gene, or data from  multiple  independent gene regions generally agree. 
+
+Have a poorly supported and poorly resolved phylogeny and/or no diagnostic 
+nucleotides differentiating  species from  close relatives; have data from  a few  or 
+multiple  samples of both an inclusivity and exclusivity  panel; data from  one 
+gene, or data from  multiple  independent gene regions generally disagree. 
+
+SRM  3262 
+
+Page 4 of 13 
+
+Table 2.  Definitions  of Heuristic Rules for Confidence Estimates of DNA  Nucleotide Identity 
+
+ 
+
+Confidence Level 
+
+Nucleotide Identity 
+
+Most Confident (0) 
+
+Very  Confident (1) 
+
+Confident (2) 
+
+Ambiguous (3) 
+
+Have good answers (fully  reliable,  unambiguous base calls) on both strands; all 
+data from  both strands agree. 
+
+Have  good  answer  on  one  strand;  poor  answer  (less  than  fully  reliable, 
+potentially ambiguous base call)  on the second/alternate strand; base calls from 
+both strands typically agree, and there is biochemical context  that explains  the 
+anomalous sequence data. 
+
+Have good answer on one strand; anomalous sequence data that may give rise to 
+a  conflicting  base  call  on  the  alternate  strand; judgment  required  to  resolve 
+anomaly. 
+
+No  clear  mutually  supporting results; unambiguous base calls  disagree; or  no 
+unambiguous base calls  on either  strand; data from  the two  opposing strands 
+could not be authoritatively reconciled. 
+
+ 
+Homogeneity  Assessment:  The homogeneity of chlorogenic acid, flavonoids, naphthodianthrones, and elements was 
+assessed at NIST using the methods and test portion sizes described above.  Based on statistical analysis of analytical 
+results from  NIST,  and allowing  for potential uncertainty for material  heterogeneity, the uncertainty for cadmium  and 
+lead incorporate an additional  component for possible heterogeneity.  The homogeneity of the DNA  sequences was 
+evaluated by sequencing the DNA from  multiple  samples from  three randomly-selected packets, revealing the degree 
+of homogeneity in DNA sequence or species identity.  The DNA data were homogeneous. 
+ 
+NIST  strives to maintain  the SRM  inventory supply, but NIST  cannot guarantee the continued or continuous supply 
+of any specific SRM.   Accordingly, NIST  encourages the use of this SRM as a primary  benchmark  for the quality and 
+accuracy of  the user’s in-house reference  materials  and working  standards.  As such, the SRM  should be  used to 
+validate the more  routinely used reference  materials  in  a laboratory.  Comparisons  between the SRM  and in-house 
+reference materials  or working  measurement  standards should take place at intervals appropriate to the conservation 
+of  the  SRM  and  the stability  of  relevant  in-house materials.    For  further  guidance  on how  this  approach can  be 
+implemented,  contact NIST  by email  at srms@nist.gov. 
+ 
+Certified  Mass Fraction  Values for Selected Elements:   Each certified  mass fraction value, reported on a dry-mass 
+basis, is the combined mean  from  the means of results from  analyses provided by NIST.   The uncertainty provided 
+with  each  value  is  an  expanded  uncertainty  about  the  mean  to  cover  the  measurand  with  approximately  95 % 
+confidence.  The expanded uncertainty is calculated as U = kuc, where uc incorporates the observed difference between 
+the results from  the methods and their  respective uncertainties  consistent  with  the  ISO/JCGM  Guide  and with  its 
+Supplement 1, and k is a coverage factor corresponding to approximately  95 % confidence [4–6].   The uncertainty for 
+Cd  incorporates an uncertainty component for possible heterogeneity.  The measurand is the total mass fraction for 
+each element in St. John’s Wort (Hypericum perforatum L.) Aerial  Parts as listed in Table 3.  Metrological traceability  
+is to the SI derived unit for mass fraction (expressed as milligrams  per kilogram)  on a dry-mass basis. 
+ 
+
+Table 3.  Certified  Mass Fraction Values  for Elements  in SRM  3262 
+
+ 
+
+Arsenic (As)(a,b) 
+Cadmium  (Cd)(c) 
+
+Mercury (Hg)(d) 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+
+ 
+
+ 
+
+0.152  
+
+±  0.014 
+
+0.3638  ±  0.0094 
+
+0.01479  ±  0.00043 
+
+Coverage Factor, k 
+
+2.00 
+
+2.13 
+
+2.36 
+
+(a) ICP-M S 
+(b) RNAA 
+(c) ID ICP-M S 
+(d) ID/CV ICP/M S 
+ 
+ 
+ 
+
+SRM  3262 
+
+ 
+
+Page 5 of 13 
+
+Reference  Mass  Fraction  Values for  Chlorogenic  Acid,  Flavonoi ds,  and  Naphthodianthrones:   Each  reference 
+mass fraction value, reported on a dry-mass basis, is the mean  of results from  NIST  analyses by LC  with absorbance 
+and/or fluorescence detection.  The uncertainty provided with  each value is an expanded uncertainty about the mean  
+to cover the measurand  with  approximately  95  % confidence.    The expanded  uncertainty is calculated  as U = kuc, 
+where  uc  represents the  combined  uncertainty  consistent with  the  ISO/JCGM  Guide  and  k  is  a  coverage  factor 
+corresponding to approximately  95  %  confidence [4].    The  measurand is  the mass fraction  for  each analyte  in  St. 
+John’s Wort (Hypericum  perforatum  L.)  Aerial  Parts  as listed  in  Table 4  as determined  by the indicated  method.  
+Metrological traceability  is to the SI  derived unit for mass fraction (expressed as milligrams  per gram)  on a dry-mass 
+basis.   
+ 
+
+Table 4.  Reference  Mass Fraction Values for Chlorogenic Acid, Flavonoids, and Naphthodianthrones in SRM 3262 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Chlorogenic Acid(a) 
+
+Rutin(a) 
+Hyperoside(a) 
+Quercitrin(a) 
+Hypericin(a,b) 
+Pseudohypericin(a,b) 
+
+Mass Fraction 
+(mg/g) 
+
+0.1620  ±  0.0078 
+
+5.31 
+
+5.28 
+
+±  0.12 
+
+±  0.11 
+
+1.035  ±  0.032 
+
+0.542  ±  0.019 
+
+0.747  ±  0.021 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coverage Factor, k 
+
+2.11 
+
+2.11 
+
+2.11 
+
+2.11 
+
+2.00 
+
+2.00 
+
+(a) LC-absorbance 
+(b) LC-fluorescence 
+ 
+ 
+Reference  Mass Fraction  Value  for Lead:   The reference mass fraction value, reported on a dry-mass basis, is the 
+mean  of  results  from  NIST  analyses by  ID  ICP-MS.    The  uncertainty  provided  with  the  value  is  an  expanded 
+uncertainty about the mean to cover the measurand with  approximately  95  % confidence.  The expanded uncertainty 
+is calculated as U = kuc, where uc represents the combined uncertainty consistent with the ISO/JCGM  Guide  and k is 
+a  coverage  factor  corresponding to  approximately  95  %  confidence [4].    The  uncertainty for  Pb  incorporates  an 
+uncertainty component for  possible heterogeneity.  The measurand is  the mass fraction  for  lead in  St.  John’s Wort 
+(Hypericum  perforatum  L.)  Aerial  Parts  as listed  in  Table 5  as determined  by the indicated method.   Metrological 
+traceability is to the SI derived unit for mass fraction (expressed as milligrams  per kilogram)  on a dry-mass basis. 
+ 
+
+Table 5.  Reference  Mass Fraction Value  for Lead in SRM  3262 
+
+Lead (Pb)(a) 
+
+ 
+
+0.98  ±  0.14 
+
+2.23 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+(a) ID ICP-MS 
+ 
+
+REFERENCES 
+
+ 
+[1]    Certified  data can be downloaded at https://www-s.nist.gov/srmors/view_detail.cfm?srm=3262.   
+ 
+
+— The certified  sequence data file for trnL-trnF intergenic region is:  
+
+SRM3262  trnL-trnF  Sequence_v1.FASTA.  
+
+— The certified  confidence estimates for every base of trnL-trnF intergenic region sequence data file  is:  
+
+SRM3262  trnL-trnF  Nucleotide Confidence_v1.TXT.   
+
+— The certified  sequence data file for rbcL intron is:  
+
+SRM3262  rbcL  Sequence_v1.FASTA.  
+
+— The certified  confidence estimates for every base of rbcL-trnF intron region sequence data file  is:  
+
+SRM3262  rbcL  Nucleotide Confidence_v1.TXT. 
+
+ 
+
+— The certified  sequence data file for ITS  sequence is:  
+ 
+ — The certified  confidence estimates for every base of ITS sequence data file  is:  
+
+SRM3262  ITS  Sequence_v1.FASTA. 
+
+ITS
+SRM3262  ITS  Nucleotide Confidence_v1.TXT. 
+
+[2]    SRM  2374;  DNA  Sequence  Library  for  External  RNA  Controls;  National  Institute  of  Standards  and 
+
+Technology; U.S.  Department of Commerce:  Gaithersburg, MD (20  March 2013);  available at  
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=2374  (accessed Sep 2016). 
+
+SRM  3262 
+
+Page 6 of 13 
+
+[4] 
+
+[3]  May, W.;  Parris, R.;  Beck  II,  C.;  Fassett, J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise, S.;  Gills,  T.; 
+Colbert,  J.; Gettings, R.;  MacDonald, B.; Definition of Terms  and Modes Used at NIST for  Value-Assignment 
+of  Reference  Materials for  Chemical  Measurements; NIST  Special  Publication  260-136;  U.S.  Governmen t  
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PD F 
+(accessed Sep 2016). 
+JCGM  100:2008;  Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM  1995  with  Minor Corrections),  Joint Committee  for Guides  in Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_ E.pdf  (accessed Sep  2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST  Measurement 
+Results; NIST  Technical Note 1297,  U.S.  Government  Printing  Office:   Washington, DC (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm  (accessed Sep 2016). 
+JCGM  101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+-  Propagation  of  Distributions  using  a  Monte  Carlo  Method; 
+Uncertainty 
+JCGM  (2008);  available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_ 101_2008_ E.p d f 
+(accessed Sep 2016). 
+Efron,  B.; Tibshirani,  R.J.;  An Introduction to the Bootstrap; Chapman & Hall,  London, UK (1993). 
+Sharpless, K.E.;  Lippa, K.A.;  Duewer,  D.L.;  Rukhin,  A.L.;  The ABCs of Using Standard Reference Materials 
+in the Analysis of Foods and Dietary Supplements: A Practical Guide; NIST Special Publication 260-181;  U.S. 
+Government  Printing  Office:  Washington, DC  (2014);  available  at  http://www.nist.gov/srm/upload/SP260-
+181.pdf  (accessed Sep 2016).   
+
+in  Measurement” 
+
+[6] 
+[7] 
+
+[5] 
+
+[8]  Murphy, K.E.;  Vetter,  T.W.;  Recognizing and Overcoming  Analytical Error  in  the Use  of  ICP-MS  for  the 
+Determination of  Cadmium  in  Breakfast Cereal and Dietary  Supplements; Anal  Bioanal  Chem.,  Vol.  405, 
+pp. 4579–4588  (2013).   
+Christopher, S.J.;  Long, S.E.;  Rearick,  M.S.; Fassett, J.D.;  Development of High Accuracy Vapor Generation 
+Inductively Coupled Plasma Mass Spectrometry and its Application to the Certification of Mercury in Standard 
+Reference Materials; Anal. Chem.,  Vol.  73,  pp. 2190–2199  (2001). 
+
+[9] 
+
+[10]  Sang, T.; Crawford,  D.J.;  Stuessy, T.F.; Chloroplast DNA Phylogeny, Reticulate Evolution, and Biogeography 
+84,  pp.  1120 
+[11]    Tate, J.A.;  Simpson,  B.B.;  Paraphyly of  Tarasa (Malvaceae) and Diverse  Origins of  the Polyploid Species; 
+
+of Paeonia (Paeoniaceae); Am. J. Bot., Vol.  84,  pp. 1120–1136  (1997).   
+
+Syst. Bot., Vol.  28,  pp. 723–737  (2003).   
+
+[12]    Taberlet,  P.;  Gielly,  L.;  Pautou,  G.;  Bouvet,  J.;  Universal  Primers  for  Amplification of  Three  Non-coding 
+
+Regions of Chloroplast DNA, Plant Mol. Bio.,  Vol.  17,  pp. 1105–1109  (1991).   
+
+[13]    Labudde,  R.;  Harnly,  J.M.;  Probability of  identification (POI):  A  Statistical Model for  the  Validation of 
+Qualitative Botanical Identification Methods; Official  Methods of Analysis of AOAC  International.,  Vol.  95, 
+pp. 273–285,  (2012). 
+
+[14]  Nicolalde-Morejon,  F.; Vergara-Silva,  F.; Gonzalez-Astorga,  J.; Stevenson, D.W.; Vovides, A.P.;  Sosa, V.;  A 
+Character-based  Approach  in  the  Mexican  Cycads  Supports  Diverse  Multigene  Combinations  for  DNA 
+Barcoding; Cladistics, Vol.  27,  pp. 150–164  (2011).   
+
+[15]    Hill,  K.D.;  Chase, M.W.; Stevenson., D.W.; Hillis,  H.G.;  Schutzman,  B.; The Damilies and Genera of Cycads: 
+A Molecular Phylogenetic Analysis of Cycadophyta Based on Nuclear and Plastid DNA Sequences; Int. J. Plant 
+Sci.,  Vol.  164,  pp. 933–948  (2003).   
+
+[16]    Stech, M.; Quandt, D.;  Frey, W.; Molecular Circumscription of the Hornworts (Anthocerotophyta) Based on 
+
+the Chloroplast DNA trnL-trnF Region; J. Plant Res., Vol.  116,  pp. 389–398  (2003). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+ttp://www.nist
+
+fax 
+
+ 
+
+SRM  3262 
+
+Page 7 of 13 
+
+Appendix A 
+ 
+Reference Samples  and Sequences Used in the Specificity  Validation  Study for SRM  3262 
+ 
+Hypericum  perforatum  L. 
+Table A1. Inclusivity Panel for Hypericum perforatum L. 
+ 
+
+Hypericum 
+perforatum L.  
+
+Sample 
+Source(a) 
+
+ITS(b), trnL-trnF(c), rbcL(d) 
+
+1  UCBG 
+2  UC 
+3  UC 
+4  AHP 
+5  AHP 
+
+6  AHP 
+7  AHP 
+8  AHP 
+
+9  AHP 
+
+10  AHP 
+11  AHP 
+
+12  AHP 
+13  AHP 
+14  AHP 
+15  AHP 
+
+Voucher Information  or 
+GenBank  Accession #  
+78.0502 
+BC1783971 
+BC114533 
+2690 
+992 
+
+2870 
+2865 
+2877 
+
+771b 
+
+989 
+993 
+
+965 
+990 
+988 
+2657 
+
++, +, + 
++, –, + 
++, +, + 
++, +, + 
++, +, + 
+
++, +, + 
++, +, – 
++, +, + 
+
++, +, + 
+
++, +, + 
++, +, + 
+
++, +, + 
++, +, – 
++, +, – 
+–, +,  + 
+
+(a) AHP = American Herbal Pharmacopoeia (AHP-Verified Botanical Identity Reference M aterial); AT = AuthenTechnologies 
+Herbarium; UC = University Herbarium, University of California,  Berkeley; UCBG = University of California  Botanical 
+Garden. 
+
+iacopoeia  (AHP 
+
+(b) Internal Transcribed Spacer Sequence  is included  when a plus sign (+) is present. 
+(c) Intergenic  spacer sequence is included  when a plus sign (+) is present.  
+(d) Intron sequence is included  when a plus sign (+) is present. 
+ 
+ 
+
+ 
+Hypericum  perforatum  L. 
+Table A2. Exclusivity  Panel for Hypericum perforatum L. 
+
+ 
+
+Species 
+
+ITS(b), trnL-trnF(c), rbcL(d) 
+
+Hypericum hirsutum 
+Hypericum punctatum Lam 
+Hypericum punctatum Lam 
+Hypericum punctatum Lam 
+Hypericum maculatum Crantz 
+Hypericum maculatum Crantz 
+Hypericum maculatum Crantz 
+Hypericum majus 
+Hypericum undulatum 
+Hypericum sp. 
+(a) AHP = American  Herbal Pharmacopoeia (AHP-Verified  Botanical  Identity Reference M aterial); UC = University Herbarium, 
+
++, +, + 
+?, –, + 
+?, +, + 
+?, –, + 
++, –, + 
++, –, + 
++, –, + 
++, –, + 
++, +, + 
++, ?, ? 
+
+Voucher Information  or 
+GenBank  Accession # 
+994 
+965237 
+1358607 
+871976 
+1474097 
+1397220 
+M211846 
+M211846 
+995 
+M180044 
+
+Sample  Source(a) 
+or Reference 
+AHP 
+UC 
+UC 
+UC 
+UC 
+UC 
+UC 
+UC 
+AHP 
+UC 
+
+(b) Internal Transcribed Spacer Sequence  is included  when a plus sign  (+) is present, not included when a minus (–) is present, or 
+
+us  (—)  is  present 
+
+(c) Intergenic  spacer sequence is included  when a plus sign (+) is present, not included  when a minus (–) is present, or unknown 
+
+(—)  is  present 
+
+University of California, Berkeley. 
+
+unknown when a (?) is present. 
+
+when a (?) is present. 
+
+(d) Intron sequence is included  when a plus sign (+) is present, not included  when a minus (–) is present, or unknown when a (?) is 
+
+—)  is  present
+
+present. 
+
+ 
+
+ 
+
+SRM  3262 
+
+ 
+
+Page 8 of 13 
+
+Appendix B 
+trnL-trnF DNA Aligned Matrix  for Hypericum perforatum L. and Relatives 
+
+Matrix  for 
+
+1 
+
+Pri 
+
+Pri 
+
+Pri 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29  29 
+
+29  29 
+
+29  29 
+
+MON  TN 
+
+pr  2929 
+
+mis  2929 
+
+DAN  MEANS 
+
+STATON  ET 
+
+ADADTA  ATATAMTAAAAR 
+
+AAD  ARACAATA 
+
+TTA  CATA  ADA  AAMAA TAA  ACMATAMAAT 
+
+CATA  ALMRAR  ATAR  ATACADA  ACAMTAIT  TATA  ABRA  AA  TAR  AGM  TACATTOANADA 
+
+AAT  DAT  AA  TAR  RAARAD  ATAAA  AA  TT  TAAAR  AAA  ADR  AAMAAADA  ACA  TTAATANA  AMA  MGM   __AAA 
+
+ADAMADRACCAARAT  TTA  TAOMTAAN 
+ADD  TAD  DAATAARATAAAADATATAAATAMTAAATATAANA 
+
+AMA  TMT  ODA  MARAT  AIUTMAA  TOATACALITA TT    
+
+ 
+ 
+GGTAATCCTGAACCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAG---AAA 
+SRM 3262 
+Hypericum perforatum  GGTAATCCTGAACCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAG---AAA 
+GGTAATCCTGAGCCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAG---AAA 
+Hypericum punctatum 
+Hypericum maculatum   GGTAATCCTGARCCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAG---AAA 
+Hypericum undulatum   ---AATCCTGAGCCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAGAAAAAA 
+GGCAATCCTGAGCCAAATCCGGCTTTCCGAAAACAAAGAAAGATTCATAAACAG---AAA 
+Hypericum hirsutum  
+------------------------------------------------------------ 
+Hypericum majus 
+ 
+SRM 3262 
+AAAAAAGGATAGGTGCAGAGACTCAATGGAAGCTGTTCTAAAAAATGAAGTGGCTTGCAA 
+Hypericum perforatum  AAAAAAGGATAGGTGCAGAGACTCAATGGAAGCTGTTCTAAAAAATGAAGTGGCTTGCAA 
+AAAAUAGGATAGGTGCAGAGACTCAATGGAAGCTGTTCTAAAAAATGAAGTGGATTGCGA 
+Hypericum punctatum 
+Hypericum maculatum   AAAAAAGGATAGGTGCARAGACTCAATGGAAGCTGTTCTAAAAAATGAAGTGGCTTGCRA 
+AAAAAAGGATAGGTGCAGAGACTCAATGGAAGCTGTTCTAAAAAATGAAGTGGCTTGCGA 
+Hypericum undulatum 
+AAAAAAGGATAGGTGCAGAGACTCAATGGAAGCTGTTCTAAGAAATGAAGTGGATTGCAA 
+Hypericum hirsutum 
+-------------------GACTCAATGGAAGTTATTCTAAAAAATGAAGTGGATTGCGA 
+Hypericum majus 
+ 
+SRM 3262 
+TTAGTAAAAAGGATAAACTATACAT-------ATATGTGACAAATGTTAATCTACGTATT 
+Hypericum perforatum   TTAGTAAAAAGGATAAACTATACAT-------ATATGTGACAAATGTTAATCTACGTATT 
+TTAGTAAAAAGGATAAACTATACATATATGTGATATGTGACAAATATAAATCTACRTATT 
+Hypericum punctatum 
+Hypericum maculatum   TTAGTAAAAAGGATAAACTATACAT-------ATATGTGACAAATGTTAATCTACGTATT 
+Hypericum undulatum   TTAGTAAAAAGGATAAACTATACAT-------ATATGTGACAAATGTTAATCTACGTATT 
+TTAGTAAAAAGGATAAACTATACAT-------AGATGTGATATATATACATCTACGTATT 
+Hypericum hirsutum  
+TTAGTAAAAAGGATAAACCATACAT-------ATATATGACAAATATACATCTACGTATT 
+Hypericum majus 
+ 
+SRM 3262 
+AACATACTATATCAAA--AGATTACAGTCTGGTCTGATAAATAACTGATAAATTGCACGA 
+Hypericum perforatum   AACATACTATATCAAA--AGATTACAGTCTGGTCTGATAAATAACTGATAAATTGCACGA 
+AACATACTATATCAAA--AGATTACARTCTGGTCTGATAAATAACTGATAAATTGCACGA 
+Hypericum punctatum 
+Hypericum maculatum   AACATACTATATCAAA--AGATTACAGTCTGGTCTGAWAAATAACTGATAAATTGCACRA 
+Hypericum undulatum   AACATACTATATCAAA--AGATTACAGTCTGGTCTGATAAATAACTGATAAATTGCACAA 
+AACATACTATATCAAAAGAGATATCAGTCTGGTCTGATAAATAACTGATAAATTGCACGA 
+Hypericum hirsutum 
+AACATACTATATCAAA--AGATTACAGTCTGGTCTGAAAAAGAACCGATTAATTGCACGA 
+Hypericum majus 
+ 
+SRM 3262 
+GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+Hypericum perforatum  GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+Hypericum punctatum 
+GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+Hypericum maculatum   GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+Hypericum undulatum 
+GAATAAAGATAGAGTCCCAGTCTACATGTCAATATCGACATAAAGGAAATTTATAGTAAG 
+Hypericum hirsutum 
+GAATAAAGATAGAGTCCCATTCTACATGTCAATATCGACACAAAGGAAATTTATAGTAAG 
+Hypericum majus 
+ 
+SRM 3262 
+AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+Hypericum perforatum  AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+Hypericum punctatum 
+AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+Hypericum maculatum   AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+AGGAAAATCCGTCGACTTTATAAATCGKGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+Hypericum undulatum 
+AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTCTCCT 
+Hypericum hirsutum 
+AGGAAAATCCGTCGACTTTATAAATCGTGAGGGTTCAAGTCCCTCTATCCCCAGTTCCCT 
+Hypericum majus 
+ 
+SRM 3262 
+CGCCTTT--TTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTGAATATTCATTATCTT 
+Hypericum perforatum   CGCCTTT--TTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTGAATATTCATTATCTT 
+CGCCTT---TTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTGAATATTCATTATCTT 
+Hypericum punctatum 
+Hypericum maculatum   CGCCTTT--TTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTGAATATTCATTATCTT 
+CGCCTTT-TTTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTGAATATTCATTATCTT 
+Hypericum undulatum 
+CGCCTTTATTTTTTTGATCTGATTCTTTCTTTTCGTTAACCCTTGAATATTCATTATCTT 
+Hypericum hirsutum 
+CGCCT----TTTTTTGATCTGATTCTTTCTTTTCGTTAACGCTTTCAAATTCATTTTCTT 
+Hypericum majus 
+ 
+SRM 3262 
+TTTCATTGATTCGATTGTTTCACAAA 
+Hypericum perforatum   TTTCATTGATTCGATTGTTTCACAAA 
+TTTCATTGATTCGATTGTTTCACAAA 
+Hypericum punctatum 
+TTTCATTGATTCGATTGTTTCACAAA 
+Hypericum maculatum 
+TTTCATTGATTCGATTGTTTCACAAA 
+Hypericum undulatum 
+TTTCATTGATTCGATTGTTTCACAAA 
+Hypericum hirsutum  
+TTTCATTGATTCGATTTTTTCACAAA 
+Hypericum majus 
+ 
+Figure 1.  trnL-trnF DNA Aligned Matrix  for Hypericum perforatum L. and Relatives.  The results from the chloroplast 
+region demonstrates that this region does distinguish this species from its relatives and does authenticate Hypericum 
+perforatum L.  The individual bases are represented as A = Adenine, T = Thymine,  G  =  Guanine,  C=  Cystosine, and 
+U = Uracil.   Polymorphic  bases are represented by standard IUPAC codes with R = A/G,  W = A/T, M = A/c, Y  = C/T, 
+S  =  G/C,  K  =  G/T,  and N  =  missing  data.  The confidence estimate  for  the species identification  of  SRM 3262  as 
+Hypericum perforatum L. is Most Confident (0). 
+
+TTTTTTAATATAATTATTTATTTTAATTA  AAAATTAAAMAT TAA  TTATATT 
+
+Hypericum  perforatum  L.
+
+A  AADRDDATAAATACAATT  TAMAR  ATAAMAD 
+
+AN  AAA  OT  AMA  oT 
+COA  TTAARAR  AT  ARATATAT 
+
+TTTAATTAATTAAATTATTTAANAARDRD 
+
+ananctmm 
+
+mis  92929 
+
+pw  32949 
+
+piu  2949 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM  3262 
+
+Page 9 of 13 
+
+ 
+
+Appendix C 
+rbcL  DNA Aligned Matrix  for Hypericum perforatum L. and Relatives 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pw  32949 
+
+pw  32949 
+
+pw  32949 
+
+mas  9929 
+
+pw  32949 
+
+TTATMAATA ATA  AATARAAADATAT™T 
+
+TAM  TAATAMTTATANR 
+TAD  AAARAD  TAAAATAADAAAAA 
+
+DATARATAAMAAR AD  AAT  AR  AAT  TAAR  AAA  ADR  AAR  AR  ADRADAR  AAR  AA  AAT  AA  AMA  AA  OANA  TO 
+
+DA  TTAAATTAMTATAATAATAAR  ATATAAAR  AMATAAR  ATDATA  ATAATATAMMTARAADAA  TOM  AM 
+
+RAADADATAATAAARAATTAAR  CAAT  ATTAATATAATANAADRAATAN  ampmn  maa aT  mA  Am 
+
+DRAATTAD  AD  AAT TA  AAAATTMTTTAARDAADAD  CATTATATTA  AMAACATATT™TA  AMTTAAATT ATM 
+
+ 
+ATTGACTTATTATACTCCTGACTATGAAACTAAAGATACTGATATCTTGGCAGCATTTCG 
+SRM 3262 
+Hypericum perforatum  ATTGACTTATTATACTCCTGACTATGAAACTAAAGATACTGATATCTTGGCAGCATTTCG 
+ATTGACTTATTATACTCCTGACTATGAAACTAAAGATACTGATATCTTGGCAGCATTTCG 
+Hypericum punctatum 
+ATTGACTTATTATACTCCTGACTATGAAACCAAAGATACTGATATCTTGGCAGCATTTCG 
+Hypericum undulatum 
+ATTGACTTATTATACTCCTGACTATGAAACCAAGGATACTGATATCTTGGCAGCATTTCG 
+Hypericum hirsutum 
+ 
+SRM 3262 
+AGTAACTCCTCAACCTGGCGTTCCACCGGAGGAAGCAGGAGCAGCGGTAGCTGCGGAATC 
+Hypericum perforatum  AGTAACTCCTCAACCTGGCGTTCCACCGGAGGAAGCAGGAGCAGCGGTAGCTGCGGAATC 
+AGTAACTCCTCAACCTGGCGTTCCACCGGAGGAAGCAGGAGCAGCGGTAGCTGCGGAATC 
+Hypericum punctatum 
+AGTAACTCCTCAACCTGGCGTTCCACCGGAGGAAGCAGGAGCAGCGGTAGCTGCGGAATC 
+Hypericum undulatum 
+Hypericum hirsutum 
+AGTAACTCCTCAACCTGGCGTTCCACCGGAGGAAGCAGGAGCAGCGGTAGCTGCGGAATC 
+ 
+SRM 3262 
+TTCTACTGGTACCTGGACAACTGTTTGGACAGATGGACTGACCAGTCTTGATCGTTATAA 
+Hypericum perforatum  TTCTACTGGTACCTGGACAACTGTTTGGACAGATGGACTGACCAGTCTTGATCGTTATAA 
+TTCTACTGGTACCTGGACAACTGTTTGGACCGATGGACTGACCAGTCTTGATCGTTATAA 
+Hypericum punctatum 
+TTCTACTGGTACCTGGACAACTGTTTGGACAGATGGACTGACCAGTCTTGATCGTTATAA 
+Hypericum undulatum 
+TTCTACTGGTACCTGGACAACTGTCTGGACAGATGGACTGACCAGTCTTGATCGTTATAA 
+Hypericum hirsutum 
+ 
+SRM 3262 
+AGGACGATGCTACCACATTGAGCCTGTTCCTGGAGAGGAAAATCAATTTATTGCTTATGT 
+Hypericum perforatum  AGGACGATGCTACCACATTGAGCCTGTTCCTGGAGAGGAAAATCAATWTATTGCTTATGT 
+AGGACGATGCTACCACATTGAGCCTGTTCCTGGAGAGGAAAATCAATATATTGCTTATGT 
+Hypericum punctatum 
+AGGACGATGCTACCACATTGAGCCTGTTCCTGGAGAGGAAAATCAATATATTGCTTATGT 
+Hypericum undulatum 
+AGGACGATGCTACCACATTGAGCCTGTTCCTGGAGAGGAAAATCAATATATTGCTTATGT 
+Hypericum hirsutum 
+ 
+SRM 3262 
+AGCTTACCCCTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGT 
+Hypericum perforatum  AGCTTACCCCTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGT 
+AGCTTACCCCTTAGACCTTTTTGAGGAAGGTTCTGTTACGAACATGTTTACTTCCATTGT 
+Hypericum punctatum 
+AGCTTACCCCTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGT 
+Hypericum undulatum 
+AGCTTACCCCTTAGACCTTTTTGAGGAAGGTTCTGTTACTAATATGTTTACTTCCATTGT 
+Hypericum hirsutum 
+ 
+SRM 3262 
+AGGTAATGTATTTGGATTCAAAGCCCTGCGTGCTCTCCGGTTAGAGGATTTGCGAATCCC 
+Hypericum perforatum  AGGTAATGTATTTGGATTCAAAGCCCTGCGTGCTCTCCGGTTAGAGGATTTGCGAATCCC 
+AGGTAATGTATTTGGATTCAAAGCCCTGCGTGCTCTCCGGTTAGAGGATTTGCGAATCCC 
+Hypericum punctatum 
+AGGTAATGTATTTGGATTCAAAGCCCTGCGTGCTCTCCGGTTAGAGGATTTGCGAATCCC 
+Hypericum undulatum 
+Hypericum hirsutum 
+AGGTAATGTATTTGGATTCAAAGCCCTGCGTGCTCTCCGGTTAGAGGATTTGCGAATCCC 
+ 
+SRM 3262 
+TCCTGCTTATACTAAAACTTTCCAAGGTCCGCCCCACGGCATCCAAGTTGAAAGAGATAA 
+Hypericum perforatum  TCCTGCTTATACTAAAACTTTCCAAGGTCCGCCCCACGGCATCCAAGTTGAAAGAGATAA 
+CCCTGCTTATACTAAAACTTTCCAAGGTCCGCCCCACGGCATCCAAGTTGAAAGAGATAA 
+Hypericum punctatum 
+Hypericum undulatum 
+TCCTGCTTATACTAAAACTTTCCAAGGTCCGCCCCACGGCATCCAAGTTGAAAGAGATAA 
+TCCTGCTTATACTAAAACTTTCCAAGGTCCACCCCACGGCATCCAAGTTGAAAGAGATAA 
+Hypericum hirsutum 
+ 
+SRM 3262 
+ATTAAACAAGTATGGCCGTCCCCTATTAGGTTGTACAATTAAACCTAAATTGGGGTTATC 
+Hypericum perforatum  ATTAAACAAGTATGGCCGTCCCCTATTAGGTTGTACAATTAAACCTAAATTGGGGTTATC 
+ATTAAACAAGTATGGCCGTCCCCTATTAGGTTGTACAATTAAACCTAAATTGGGGTTATC 
+Hypericum punctatum 
+ATTAAACAAGTATGGCCGTCCCCTATTAGGTTGTACAATTAAACCTAAATTGGGGTTATC 
+Hypericum undulatum 
+ATTAAACAAGTATGGCCGTCCCTTATTAGGTTGTACAATTAAACCTAAATTGGGGTTATC 
+Hypericum hirsutum 
+ 
+SRM 3262 
+CGCTAAGAATT 
+Hypericum perforatum   CGCTAAGAATT 
+Hypericum punctatum 
+CGCTAAGAATT 
+Hypericum undulatum   CGCTAAGAATT 
+Hypericum hirsutum 
+CGCTAAGAATT 
+ 
+
+ADA  TTAAAD  AR  AATANAANAAATAANACA TAD  TTA  COATTATA  CAD  TTAARDCOOATAAR  AMTMA AA  TTA  TM 
+
+DAMA  TA AD  TA  TAM  TT  AAD  TT  ADD  WA  ETN  AEN  TN  TN  TN  AEN  DTD  AA  AAA  TT  TANIA  AIT 
+
+FAA TAA  TT  ATA  OAT  ADD  ATTA DD  AAT  ANNAN  AION  RAEN  A  OBATAADR  AAT  TAAAROAROAATAN 
+
+ACATAR  OA  ATT
+
+ 
+S
+P
+P
+P
+
+mas  9929 
+
+pw  32949 
+
+mas  9929 
+
+pw  32949 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Figure  2.   rbcL  DNA  Aligned Matrix  for Hypericum  perforatum L. and Relatives.  The results from  the chloroplast 
+region demonstrates that this region does distinguish this species from its relatives and does authenticate Hypericum 
+perforatum L.  The four bases of DNA are represented as A = Adenine, T = Thymine, G  = Guanine, and C  = Cytosine.  
+Polymorphic  bases are represented by standard IUPAC  codes with R = A/G,  W = A/T, M = A/c, Y  = C/T,  S = G/C, 
+K = G/T,  and N = missing data.  The confidence estimate  for the species identification of  SRM 3262  as Hypericum 
+perforatum L. is Most Confident (0). 
+
+ 
+
+SRM  3262 
+
+Page 10  of 13 
+
+ 
+
+Appendix D 
+ITS DNA  Aligned Matrix  for Hypericum perforatum L. and Relatives 
+ 
+ 
+ 
+
+Hypericum  perforatum  L. 
+
+ai 
+
+nm 
+
+mis 
+
+OO 
+
+LF 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99  £9 
+
+ATEIOM 
+
+mz  3949 
+
+mis  92929 
+
+m™me  32949 
+
+amsze  29249 
+
+COC  ACW  TO  ATT  om 
+
+ 
+e
+A
+A
+H
+A
+H
+I
+
+LUTT  ANT  RDA  ADD  PPA  DAT  WATT  NEN 
+
+PTR  ABPOOT 
+
+ACN  CC  AMCTH  COACARD  ATOCORARD  AMAT 
+
+AAT  AAR  DAD  TAR  AN  AOANADR  ROMA OTT  ATOAAIAD  ARR  OT  ANA  OA  OTA  TA  OMA  A  A  oT  ET 
+
+LODO  AAO  AAACN  LALA  ATO  OTA  AAD  AAA  CA  CANORA  CRP TUTOR  OCR  OMA  AO  AMA  TAO 
+
+AAA  AAAD  DARD  DRABRDDR  ADR  AAD  AN  AA  AOA  RADAR  ANDAR  OAAD  DAT  TOMMAD  AT  ONT  AD  OND  OM 
+
+CCTCCAAATGACCCGCGAACTAGTTATCCACAAGTCGGGGGTGTCGTGGGCTTCTTTCCC 
+SRM 3262 
+CCTYCRAATGACCCGCGAACTAGTTATCCACAAGTCGGGGGTGTCGTGGGCTTCTGTCCC 
+Hypericum perforatum 
+Hypericum quadrangulum  CCTCCAAATGACCCGCGAACTAGTTATCCACAAGTCGGGGGTGTCGTGGGCTTCTGTCCC 
+CCTCCAAATGACCCGCGAACTAGTTATCCACAAGTCGGGGGTGTCGTGGGCTTCTGTCCC 
+Hypericum maculatum 
+CCTCCAAATGACCCGCGAACTAGTTATCCACAAGTCGGGGGTGTCGTGGGCTTCTGTCCC 
+Hypericum undulatum 
+CCTCCAAATGACCCGCGAACCAGTTATCCACAAGT-GGGGGTGTCG--GGCTT-CGTCCC 
+Hypericum hirsutum 
+CTTGCAAAAGACCCGTGAACTAGTTATCAACATGTGGGGAGTGTTGGGAGATA-TCCCTT 
+Hypericum majus 
+ 
+GGCGCCCCCGGGGCGGTGGTGGCCAGGCGCGCCAAGYTYTTGGCACGGYTGGCCCATCWC 
+SRM 3262 
+GGCGCCCCCGTGSCGGTGGTGGCCAGGCGYGCCAAGCTYTTGGCWCGGCTGGCYCATCAC 
+Hypericum perforatum 
+Hypericum quadrangulum  GGCGCCCCCGTGCCGGTGGTGGCCAGGCGCGCCAAGCTCTTGGCACGGCTGGCCCATCAC 
+GGCGCCCCCGTGCCGGTGGTGGCCAGGCGCGCCAAGCTCTTGGCACGGCTGGCCCATCAC 
+Hypericum maculatum 
+GGCGCCCCCGTGCCGGTGGTGGCCAGGCGCGCCAAGCTTTTGGCACGGCTGGCCCATCAC 
+Hypericum undulatum 
+GGCGCCCCCGTTTGGGTGGTGGTCAGGCGCGCCAAGCTCTTGGCACGGCTGTTCCATCAC 
+Hypericum hirsutum 
+AGCTCCTTTGTGCCAGTGGTGGGTAATTGTGTCGTTATACCGGCATGATTGACCAACATC 
+Hypericum majus 
+ 
+CCGCCCAACAAACAAACCCCGGCGCGGCACGCGCCAAGGAACTTTTGCATCATAAGAAGY 
+SRM 3262 
+CTGCCCAACAAACAAACCCCGGCGCGGCAYGCGCCAAGGAACTTTTGCATCATAAGAAGY 
+Hypericum perforatum 
+Hypericum quadrangulum  CTGCCCAACAAACAAACCCCGGCGCGGCACGCGCCAAGGAACTTTTGCATCATAAGAAGT 
+CTGCCCAACAAACAAACCCCGGCGCGGCACGCGCCAAGGAACTTTTGCATCATAAGAAGT 
+Hypericum maculatum 
+CTGCCCAACAAACAAACCCCGGCGCGGCACGCGCCAAGGAACTTTTGCATCATAAGAAGT 
+Hypericum undulatum 
+CTGCCCAACAAACAAACCCCGGCGCGGCACGCGCCAAGGAACTTTTGCAATATAAGAAGG 
+Hypericum hirsutum 
+TGGACAAACTAACCAACCCCGGCGCGGCATGCGCCAAGGAACTT---CGCAATAAATGTG 
+Hypericum majus 
+ 
+SRM 3262 
+GTAAKGCTCCCGGCTGTG-CCGGAAATCGGACAACACG-----GTYGGGGGCYTCCTTCT 
+GTAAKGCTCCCGGCTGTG-CCGGAAATCGGACAACACG-----GTYGGGGGCYTCCTTCT 
+Hypericum perforatum 
+Hypericum quadrangulum  GTAAGGCTCCCGGCTGTG-CCGGAAATCGGACAACACG-----GTCGGGGGCTTCCTTCT 
+GTAAGGCTCCCGGCTGTG-CCGGAAATCGGACAACACG-----GTCGGGGGCTTCCTTCT 
+Hypericum maculatum 
+GTAAGGCTCCCGGCTGTG-CYGGAAATCGGACAACACG-----GTCGGGGGCTTCCTTCT 
+Hypericum undulatum 
+ATCACGCTCCCGGCCGTG-CCGGAAATCGGACAACGCG-----GTCGGGGGCTTCCTTCT 
+Hypericum hirsutum 
+GAAACGCTACCGGTCGTT-CCGAAAATCGGATAAAGCGGCCGTGTTGTGGACCACTTT-- 
+Hypericum majus 
+ 
+GTTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+SRM 3262 
+Hypericum perforatum 
+GTTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+Hypericum quadrangulum  GTTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+GTTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+Hypericum maculatum 
+GTTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+Hypericum undulatum 
+ATTCATAACAATAACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+Hypericum hirsutum 
+-TTCATTACAA-AACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACG 
+Hypericum majus 
+ 
+SRM 3262 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+Hypericum perforatum 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+Hypericum quadrangulum  TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+Hypericum maculatum 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+Hypericum undulatum 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+Hypericum hirsutum 
+Hypericum majus 
+TAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAAC 
+ 
+GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+SRM 3262 
+Hypericum perforatum 
+GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+Hypericum quadrangulum  GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+Hypericum maculatum 
+GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+Hypericum undulatum 
+Hypericum hirsutum 
+GCAAGTTGCGCCCGAAGCCTTCTGGCCGAGGGCACGCCTGCCTGGGTGTCACACATCGTC 
+GCAAGTTGCGCCCGAAGCCTCTTGGCCAAGGGCACGTCTGCCTGGGTGTCACACATCGTC 
+Hypericum majus 
+ 
+GCCCCCCAAAATCCCGATATCTYGCAAGAGACAATYGGGAATAGGATGGGCGGAAAATGG 
+SRM 3262 
+GCCCCCCAAAATCYCGATATCTYGCAAGASACAATCGGGAATAGGATGGGCGGAAAATGG 
+Hypericum perforatum 
+Hypericum quadrangulum  GCCCCCCAAAATCCCGATATCTCGCAAGACACAATCGGGAATAGGATGGGCGGAAAATGG 
+GCCCCCCAAAATCCCGATATCTCGCAAGACACAATCGGGAATAGGATGGGCGGAAAATGG 
+Hypericum maculatum 
+GCCCCCCAAAATCCCGATATCTCGCAAGAGACAATCGGGAATAGGATGGGCGGAAAATGG 
+Hypericum undulatum 
+GCCCCCCAAAAT-CCGATCTCTCGCAAGGGACGATCGGGAAGAGGATGGGCGGAAAATGG 
+Hypericum hirsutum 
+-CCCACCGAAACAAATACTCCTCGTAGG---TGTTTGGTAAGAGGATGGGCGGATAATGG 
+Hypericum majus 
+ 
+TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCCAAAAATGAGTTCCTGGC-AAAGCAAAGCC 
+SRM 3262 
+TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCCAAAAATGAGTTCYTGGC-AAAGCAAAGCC 
+Hypericum perforatum 
+Hypericum quadrangulum  TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCYAAAAATGAGTTCCTGGC-AAAGCAAAGCC 
+TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCYAAAAATGAGTTCCTGGC-AAAGCAAAGCC 
+Hypericum maculatum 
+TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCCAAAAATGAGTTCCTGGC-AAAGCAAAGCC 
+Hypericum undulatum 
+TCTCCCGTGCGCTCCCGTTCGCGGTTGGCCCAAAAATGAGTTCCTGGC-AAAGCAAAGCC 
+Hypericum hirsutum 
+TCTCCCGTGCGCGGTTGCTCGCGGTTGGCCTAAAAATAAGTTCCTGGTGATAGC-AAGCC 
+Hypericum majus 
+
+DAR  BRAT  TAAAA  AD  ADRAD  AA  ATMAT  AA  AANA  DAA  AAA  DRA  CAAT  A  AAMT  ARN  ATATAAAA  OA  TAMaTM 
+
+AAA  AR  DADD  TO  RMALD  TD  DATO  TRE  OAR  AOA  OR  AD  ATWOOD  AMA  COAT  A  CAAA AAR  AT  OO 
+
+TAM  AAD  WA  TAA  AD  TAA  TTAAT AT  ADR  AMT  AAAAR  ATAAAAT AR  AD  AMAA  TAAR  ATA TT  TAA  AM 
+
+TAT  AAA  AT  AAA  AM  AAA  OM  TAR  AT  AT  TAA  AA 
+
+ANDAR  ATOAAAMMTAAT AAO  DADA  OBRARAAM
+
+AA  TIT  TAN  AAT  AT  ATT  AD  OAD  OO 
+
+LVAD 
+
+OD  NA  ATA  TATA 
+
+mas  9929 
+
+m™me  39949 
+
+m™me  32949 
+
+mz  39  £9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM  3262 
+
+Page 11  of 13 
+
+ 
+
+ 
+
+m™me  32949 
+
+m™me  32949 
+
+Aa  Sa  ae  eee 
+
+RLIADRAADAA 
+
+AAR  ART AT  TAD  AA  ATADRARA 
+
+COAT  OAR  TAD  OMA  ACA  TOMAR  DOA OT  ON  AAD 
+
+AAA  TA  ATT  AMD  AT  AA  AA  TAN  ATAAR  AT  TATA  TA  DAOALLOATT  OCA  TMT  OT  ATTA 
+
+ 
+ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCATTGCTCGTAG 
+SRM 3262 
+ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCATTGCTYGTAG 
+Hypericum perforatum 
+Hypericum quadrangulum  ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCATTGCTCGTAG 
+ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCATTGCTCGTAG 
+Hypericum maculatum 
+ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCATTGCGCGTAG 
+Hypericum undulatum 
+ACGACCAGCGGTGGTTGTAAGACCCTCGGTACAAGTCGTGAG-CCTTGCGTTGCGAATAC 
+Hypericum hirsutum 
+ATGACCAGCGGTGGTTGAAAGACCCTCGATGGGTGTCGTGAGAACTTGCATCGCATGTTG 
+Hypericum majus 
+ 
+GGACATGTTGACCCTGAACGTGATCGAGTAACATCGA-ACACTCACAA 
+SRM 3262 
+GGACATGTTGACCCTGAACGTGATCGAGTAACATCGA-ACACTCACAA 
+Hypericum perforatum 
+Hypericum quadrangulum  GGACATGTTGACCCTGAACGTGATCGAGTAACATCGGTACACTCACAA 
+GGACATGTTGACCCTGAACGTGATCGAGTAACATCGGTACACTCACAA 
+Hypericum maculatum 
+GGACATGTTGACCCTGAACGTGATCGAGTAACATCGGTACACTCACAA 
+Hypericum undulatum 
+GGACATGTTGACCCTGAACGTGATCGAGTAACTTCGA-ACGCTCACAA 
+Hypericum hirsutum 
+GGAGATTCTGACCTTGATCGTGTTTAAGCA-TATCAA-ACACTCATGA 
+Hypericum majus  
+ 
+ 
+ 
+ 
+Figure  3.    ITS  DNA  Aligned  Matrix  for  Hypericum  perforatum  L.  and Relatives.    The  results from  the  nuclear 
+ribosomal  gene region demonstrates that this region does distinguish this species from  its relatives and is sufficient 
+for identification of Hypericum perforatum L.  The four bases of DNA are represented as A = Adenine, T = Thymine, 
+G  = Guanine,  and  C = Cytosine.    Polymorphic  bases are  represented  by  standard IUPAC  codes  with  R = A/G, 
+W = A/T,  M = A/c,  Y  = C/T,  S = G/C,  K = G/T,  and  N = missing  data.    The  confidence  estimate  for  the  species 
+ 
+identification of SRM 3262  as Hypericum perforatum L. is Most Confident (0). 
+
+H
+4
+
+ee 
+
+SRM  3262 
+
+Page 12  of 13 
+
+  
+
+ 
+
+ 
+
+10  mAU 
+
+ 
+—
+
+L 
+
+Appendix E 
+Typical Chromatograms 
+
+10  mAU. 
+
+Hyperoside    
+    
+   
+   
+‘Acid  (CA)        
+
+Quercitrin      Rhodamine 
+
+Isoquercitrin 
+
+Chlorogenic 
+
+6G  (IS) 
+
+  
+
+| 
+
+10  mAU 
+
+  
+    
+
+20  KFU 
+
+T 
+
+T 
+
+T 
+
+T 
+
+T 
+10 
+
+T 
+20 
+
+<0  am 
+
+Pseudohypericin 
+(PHP) 
+
+Hypericin 
+(HP) 
+
+590  nm 
+
+Rhodamine 
+6G  (IS) 
+
+(PHP)     
+
+Hypericin 
+(HP) 
+
+Pseudohypericin 
+
+T 
+30 
+
+T 
+40 
+
+T 
+
+T 
+50, 
+
+60 
+
+70 
+
+Time  (min)
+ 
+Figure 4.  Chromatograms  showing separation and detection of chlorogenic acid, flavonoids, and naphthodianthrones 
+in  SRM  3262  using LC  with  absorbance and  fluorescence  detection.  A  C18  column  was  held  at  40 °C  and  the 
+separation was performed  using a gradient consisting of (A) aqueous 0.5 % triethylamine  (volume  fraction)  adjusted 
+to pH 4.5  with acetic acid and (B)  acetonitrile.   
+
+ 
+
+SRM  3262 
+
+Page 13  of 13 
+
+

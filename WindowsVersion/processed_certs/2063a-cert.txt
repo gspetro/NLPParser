@@ -1,0 +1,119 @@
+﻿National 
+
+Institute  of  Standards  &  Technology 
+
+Gerttficate  of  Analysis 
+
+Standard  Reference  Matenal  2063a 
+
+Microanalysis  Thin  Film  Mg-S1-Ca-Fe 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  the  standardization  of  chenucal  analysis  by  xray 
+and  energy  loss  spectrometry  on  the  analytical  electron  microscope.  This  film  may  be  used  to  detertune  relative 
+sensitivity  factors  as  described  in  mary  references  [e.g  1,2].  SRM  2063a  consists  of  a  mineral  glass  film  that  has 
+been  deposited  onto  a  20-nm  thick  carbon  support  film  on  a  3-mim  diameter,  copper  transmission  electron 
+microscope  prid.  The  thickness  and  density  of  the  film  have  been  determined  and  are  presented  as  supplemental 
+information. 
+
+The  certified  values  for  Me  Si  Ca,  Fe,  and  O,  erren  below,  are  based  on  measurements  mace  using  several 
+anakytical  techniques.  The  value  for  Ar  in  parenthesis  is  not  certified  but  is  grren  for  information  only. 
+
+Certified  Concentration 
+Yo  by  weight 
+
+Unicertamty 
+Yo  by  weight? 
+
+Ele  ment 
+
+Me 
+ral 
+a 
+Fe 
+tl) 
+At 
+
+0.34 
+U.98 
+0.37 
+0.88 
+1.6 
+
+®  The  certified  value  listed  for  an  element  is 
+techniques  [4,4]. 
+
+a  weighted  mean  valie  pooling  results  from  several  anabytical 
+
+®  The  stated  uncertainty  includes  allowances  for  measurement  imprecision,  material  variability,  and  differences 
+Each  uncertainty  is  the  sum  of  the  half-width  of  a  95%  prediction  interval  and  an 
+among  analytical  methods. 
+allowance  for  systematic  error  among  the  methods  used. 
+In  the  absence  of  systematic  error,  a  93%  prediction 
+interval  precicts  where  the  true  concentrations  of  95%  of  the  samples  of  this  SRM  Lie.  [3,4]. 
+
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  under  the 
+direction  of  EB.  Steel  and  RA.  Velapoldi,  Chief,  NIST  Surface  and  Microanalysis  Science  Drvision. 
+
+eitatistical  anakysis  of  the  certification  data  was  provided  by  5.D.  Leigh  and  3.6.  Schiller  of  the  Statistical 
+Engineering  Drrision. 
+
+The  technical  and  support  aspects  involved  in  the  certification  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  Standard  Reference  Materials  Program  by  J.5.  Kane. 
+
+Gattherstuug,  MD  20899 
+February  12,1995 
+
+William  P.  Reed,  Chief 
+nitandard  Reference  Materials  Program 
+
+7.OF 
+25.44 
+11.82 
+11.06 
+432 
+(0.4) 
+
+Cover
+
+  
+
+Use:  The  dark  side  of  the  copper  grid  contains  the  glass  film  supported  by  carbon.  The  datk  side  should  face  the 
+x-tay  detector  for  calibration  procedures.  High  electron  beam  doses  (above  approximately  10-7 
+cm”)  may  cause 
+instability  in  the  chemucal  composition  of  the  thin  film.  For  this  reason  itis  suggested  that  onby  defocussed  beams 
+or  scanned  area  analyses  be  used  onthis  standard  anc  that  the  anabkrst  test  for  beam  damage  by  anahraing  at  several 
+beam  currents. 
+
+Preparation:  The  films  were  prepared by  JM.  Phelps  of  the  NIST  Surface  and  Microanalysis  Research  Diision 
+using  focussed  argon  ion  beam  sputtering  from  a  glass  target  onto  the  copper  support  grids.  The  glass  target  was 
+fabricated by  D1.  Blackburn  and  D.  Kauffman  of  the  NIST  Ceramics  Drvision. 
+
+Chemical  Analysis: 
+Electron  probe  microanalysis,  analytical  electron  microscopy,  xray  fluorescence,  and/or 
+time-of-flight  secondary  ion  mass  spectrometry  were  used  to  determine  the  chemical  composition  of  the  Mg,  41, 
+(a,  Fe,  and  Olin  the  thin  film.  The  Ar  content  was  calculated  using  a  Monte  Carlo  program  and  the  measured  x-ray 
+intensities  from  the  films.  Trace  concentrations  of  Ni,  Cr,  and  Min  were  also  observed  in  the  films.  The  analysts 
+were  JA.  Bennett,  JM.  Phelps,  and  EB.  Steel  of  the  MIST  Surface  and  Microanalysis  Science  Drision. 
+
+The  thickness  of  the  films  was  measured by  profilometry  and  was  found  to  be  76  nm  with  95%  confidence  limits 
+oftdinm.  A  density  of  3.1  gfe’?  with  95%  confidence  limits  of  $0.3  g/cm?  was  calculated  from  the  measured 
+thickness,  area,  and  mass  of  the  thin-film  depositions.  These  values  are  not  certified  but  are  erren  for  information 
+only. 
+
+eupplemerital  Information 
+
+REFERENCES 
+
+fl]  Clie  &.,  and  Lorimer,  GW,  7.  Micros,  Vol.  110,  p.  107,  c1  975). 
+[2]  Joy,  DUC.  et  al,  eds.,  Principles  of Analytical  Electron  Microscopy,  Plenum  Press,  New  York,  (1986). 
+[3]  Paule,  RC.  and  Mandel  J,  Consensus  Values  and  Weighting  Factors,  J].  Res.  Nat.  Bur.  Stand.  (U3),  87, 
+
+(2)  377-385  (Sept-Oct,  1982). 
+
+[4]  Schiller,  3.8,  and  Ebethardt,  ER,  Combining  Data  from  Independent  Chenucal  Anabrsis  Methods, 
+
+apectrochim.  Acta,  46D,  12,  pp.  1607-1613,  19913. 
+
+3.
+
+

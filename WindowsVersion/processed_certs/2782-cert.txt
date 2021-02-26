@@ -1,0 +1,868 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2782 
+
+Industrial Sludge 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  the  evaluation  of  methods  used  for  the 
+analysis of sludges and other materials of a similar matrix.  A unit of SRM 2782 consists of 70 g of dried, pulverized, 
+and radiation sterilized industrial sludge. 
+ 
+Certified Mass Fraction Values:  The certified values, expressed as mass fractions on a dry basis, for ten elements 
+are reported in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy 
+in that all known or suspected sources of bias have been investigated or accounted for by NIST [1].  The certified 
+values in this SRM are based on either a single NIST primary method or on concordant results from NIST and two or 
+more collaborating laboratories.  A certified value is the present best estimate of the true value. 
+ 
+Reference Mass Fraction Values:  Reference values, expressed as mass fractions on a dry basis, for 16 additional 
+elements are reported in Table 2.  A NIST reference value are noncertified value that is the present best estimate of 
+the  true  value;  however,  the  value  does  not  meet  NIST  criteria  for  certification  and  are  provided  with  associated 
+uncertainties that may reflect only measurement reproducibility and may not include all sources of uncertainty or may 
+reflect a lack of sufficient statistical agreement among multiple analytical methods [1].  The reference values in this 
+SRM are based on a combination of results from collaborating laboratories. 
+ 
+Information Mass Fraction Values:  Information values are listed in Table 3.  These values may be of interest to the 
+SRM user and represent results from one or more collaborating laboratories.  Insufficient information is available to 
+adequately assess the uncertainty associated with these values [1]. 
+ 
+Analytical methods used for the characterization of this SRM are given in Table 4.  All values are reported as mass 
+fractions [2], on a dry mass basis and are based on measurements using a sample mass of at least 100 mg. 
+ 
+Leachable  Mass  Fractions:    Reference  values  for  14 acid-leachable  mass  fractions  using  U.S.  Environmental 
+Protection  Agency (EPA) 3050,  3051,  and  New  Jersey  Department  of  the  Environment (NJDEP) 100 methods  are 
+contained  in  Appendix A.    These  values  are  the  means  of  all  results  supplied  by  cooperating  EPA  and  NJDEP 
+laboratories for the different leach and measurement methods used. 
+ 
+Expiration of Certification:  The certification of SRM 2782 is valid, within the measurement uncertainty specified, 
+until 1 October 2023, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(See “Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+ivision. 
+Statistical consultation was provided by L.M. Gill of the NIST Statistical Engineering Division. 
+ 
+Overall direction and coordination of the analyses were under the chairmanship of J.D. Fassett and G.C. Turk of the 
+NIST Chemical Sciences Division. 
+ 
+ 
+ 
+
+chairmanship
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  20 September 2015 
+Certificate Revision History on Page 5 
+
+  
+
+SRM 2782 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 6 
+
+NIST 
+
+fluorescence (XRF)  and/or 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+Source and Preparation of Material:  The base material for SRM 2782 was obtained as effluence from an industrial 
+site in northern New Jersey involved in pharmaceutical research and was collected before treatment with the assistance 
+of the New Jersey Department of Environmental Protection.  The base  material  was  freeze dried at a commercial 
+facility under contract to NIST, and transferred to the U.S. Geological Survey (USGS) in Denver, CO.  At USGS the 
+material was ball milled to pass a 75 µm (200 mesh) sieve and then blended into a single lot using a 0.2832 m3 (10 ft3) 
+blender.  The blended material was radiation sterilized and then bottled at USGS. 
+ 
+Analysis:  The homogeneity was assessed at USGS on replicate samples of bulk material for over 40 elements using 
+x-ray 
+inductively  coupled  plasma  atomic  emission  spectrometry (ICP-AES).  
+Homogeneity  was  further  assessed  during  certification  analysis  with  sample  sizes  of  100 mg  or  greater.    No 
+sample-to-sample variations in excess of those expected from the analytical measurements were detected. 
+ 
+Instructions for Use:  A minimum sample mass of 100 mg (dry mass - see “Instructions for Drying”) should be used 
+te  dissolution  for  analytical  determinations  to 
+and sample preparation procedures should be designed to effect complete dissolution for analytical determinations to 
+be related to the certified values provided. 
+ 
+Instructions for Drying:  When nonvolatile elements are to be determined, samples should be vacuum dried at room 
+temperature for 24 h or oven dried for 2 h at 110 ºC.  Volatile elements (e.g., arsenic, mercury, and selenium) should 
+be determined on samples as received; separate samples should be dried according to these instructions to obtain a 
+correction factor for moisture.  Moisture corrections are then made to measurement values before comparing them to 
+the certified values.  [Note:  The mass loss on drying at the time of certification was found to be in the range of 2.1 % 
+to 3.2 % when using the recommended drying procedures.] 
+ 
+Certified Values and Uncertainties:  The measurands are the total mass fractions of selected elements in industrial 
+sludge. The certified values are metrologically traceable to the SI unit for mass.  The certified values for Cd, Cu, Pb, 
+Mo and Ni are based on a primary NIST method.  The certified values for the remaining elements are the results from 
+two or more independent analytical methods as described by Schiller and Eberhardt [3].  The uncertainty in the values 
+certified by a NIST primary method is expressed as an expanded uncertainty, U, and is calculated according to the 
+method described in the ISO Guide [4].  The expanded uncertainty is calculated as U = kuc, where uc is intended to 
+represent, at the level of one standard deviation, the combined effect of uncertainty components associated with the 
+measurement  uncertainty  and  basis  weight  uncertainty.    The  coverage  factor,  k,  is  determined  from  the 
+Student t-distribution corresponding to the appropriate associated degrees of freedom and 95 % confidence for each 
+method.  The uncertainty in the values certified from combined independent method data is calculated as, U = kuc + B.  
+The quantity, uc, is the combined standard uncertainty calculated according to ISO Guide [4], which accounts for the 
+combined effect of the within variance for all participating laboratories at one standard deviation.  The bias adjustment, 
+B, is for the difference between methods, which is the maximum difference between the certified value and the method 
+means [3]. 
+ 
+ 
+
+2  total
+
+Table 1.  Certified Concentrations for Selected Inorganic Constituents (Dry-Mass Basis) 
+ 
+
+Element 
+
+Arsenic 
+Cadmium 
+Chromium 
+Copper 
+Lead 
+Mercury 
+Molybdenum 
+Nickel 
+Selenium 
+Zinc 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+4.17 
+
+166 
+
+ 
+ 
+ 
+109 
+  2594 
+574 
+ 
+ 
+ 
+ 
+ 
+  1254 
+
+1.10 
+10.07 
+
+154.1 
+
+0.44 
+
+20 
+0.09 
+6.0 
+52 
+11 
+0.19 
+0.20 
+3.1 
+0.11 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+±  196 
+
+ 
+ 
+
+SRM 2782 
+
+ 
+
+Page 2 of 6 
+
+Reference  Values  and  Uncertainties:    The  measurands  are  the  mass  fractions  of  selected  elements  in  industrial 
+sludge as determined by the methods indicated in Table 4.  The reference values are metrologically traceable to the 
+SI unit for mass.  The reference values are the means of the results from two or more independent analytical methods.  
+The uncertainty in the reference values is expressed as an expanded uncertainty, U, and is calculated according to the 
+method described in the ISO Guide to the Expression of Uncertainty in Measurement [4].  The expanded uncertainty 
+is calculated as U = kuc, where uc is intended to represent, at the level of one standard deviation, the combined effect 
+of between-laboratory and within-laboratory components of uncertainty. The coverage factor, k, is determined from 
+the Student t-distribution corresponding the appropriate associated degrees of freedom and 95 % confidence for each 
+element.  As the accuracy of the measurements could not be assessed from the data, the uncertainty associated with a 
+reference value may fail to include all sources of uncertainties and may represent only a measure of the precision of 
+the measurement methods.   
+
+Table 2.  Reference Concentrations for Selected Inorganic Constituents (Dry-Mass Basis) 
+
+Element 
+
+Barium 
+Cerium 
+Cobalt 
+Gallium 
+Indium 
+Lanthanum 
+Silver 
+Titanium 
+Vanadium 
+
+Mass Fraction 
+(mg/kg) 
+
+254 
+1240 
+
+± 
+24 
+±  110 
+
+66.3  ± 
+± 
+35 
+238 
+± 
+58.1  ± 
+30.6  ± 
+± 
+880 
+± 
+80 
+
+4.8 
+10 
+70 
+2.4 
+4.7 
+90 
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Element 
+
+Aluminum 
+Calcium 
+Iron 
+Magnesium 
+Phosphorus 
+Potassium 
+Sodium 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+1.37 
+0.67 
+
+26.9 
+
+0.26 
+0.50 
+0.32 
+1.30 
+
+±  0.09 
+±  0.06 
+±  0.7 
+±  0.02 
+±  0.06 
+±  0.01 
+±  0.05 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Information Values: Additional data from collaborating laboratories are provided as information to the SRM user.  
+These values represent results from one laboratory, two or more laboratories that used non-independent methods, or 
+from two or more laboratories using different methods with significant differences in their results [1].  Information 
+values cannot be used to establish metrological traceability. 
+ 
+
+ 
+Table 3.  Information Concentrations for Selected Inorganic Constituents (Dry-Mass Basis) 
+ 
+
+Inorganic  Constituents
+
+Mass Fraction 
+(mg/kg) 
+
+Mass Fraction 
+(%) 
+
+Element 
+
+Antimony 
+Europium 
+Gold 
+Hafnium 
+Lithium 
+Manganese 
+Rubidium 
+Samarium 
+Scandium 
+Tantalum 
+Terbium 
+Thorium 
+Uranium 
+Ytterbium 
+Yttrium 
+
+2.0 
+0.34 
+2.2 
+0.77 
+5.0 
+
+300 
+23 
+1.3 
+3.4 
+0.73 
+0.48 
+2.4 
+8.3 
+0.74 
+10 
+
+ 
+
+Element 
+
+Carbon 
+Silicon 
+Sulfur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.1 
+20.3 
+0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2782 
+
+ 
+
+Page 3 of 6 
+
+Table 4.  Methods Used for the Analysis of SRM 2782(a) 
+
+ 
+Aluminum 
+Antimony 
+Arsenic 
+Barium 
+Cadmium 
+Calcium 
+Carbon 
+Cerium 
+Chromium 
+Cobalt 
+Copper 
+Europium 
+Gallium 
+Gold 
+Hafnium 
+Indium 
+Iron 
+Lanthanum 
+Lead 
+Lithium 
+Magnesium 
+Manganese  
+
+ICP-AES, INAA, XRF 
+INAA 
+HG-AAS, ICP-AES, INAA, TXRF 
+ICP-AES, INAA, TXRF 
+ID-ICPMS, INAA, TXRF 
+ICP-AES, TXRF, XRF 
+RF-CIR 
+ICP-AES, INAA, TXRF  
+FAAS, ICP-AES, INAA, TXRF  
+ICP-AES, INAA  
+ICP-AES, ID-ICPMS, INAA, TXRF 
+INAA 
+ICP-AES, INAA 
+AAS, INAA 
+INAA 
+INAA, TXRF 
+ICP-AES, INAA, TXRF, XRF 
+ICP-AES, INAA  
+ICP-AES, ID-ICPMS, TXRF 
+ICP-AES 
+ICP-AES, XRF 
+ICP-AES, INAA, TXRF, XRF  
+
+Mercury 
+Molybdenum 
+Nickel 
+Phosphorus 
+Potassium 
+Rubidium 
+Samarium 
+Scandium 
+Selenium 
+Silicon 
+Silver 
+Sodium 
+Sulfur 
+Tantalum 
+Terbium 
+Thorium 
+Titanium  
+Uranium 
+Vanadium 
+Yttrium 
+Ytterbium 
+Zinc  
+
+CV-AAS, INAA 
+ICP-AES, ID-ICPMS, INAA, TXRF 
+ICP-AES, ID-ICPMS, INAA, TXRF 
+ICP-AES, XRF 
+ICP-AES, INAA, TXRF, XRF 
+INAA, TXRF 
+INAA 
+ICP-AES, INAA 
+HG-AAS, INAA 
+XRF 
+ICP-AES, INAA, TXRF 
+ICP-AES, NAA, XRF 
+TXRF, RF-SIR 
+INAA 
+INAA 
+INAA 
+ICP-AES, XRF 
+INAA 
+ICP-AES, INAA 
+ICP-AES, TXRF 
+INAA 
+ICP-AES, ID-ICPMS, INAA, TXRF  
+
+(a) Methods used for establishment of certified values are shown in bold-face type; methods used for reference and information 
+shown  in  bold-face  type;  methods  used  for  reference  and  information 
+
+values or to corroborate certified values are not in bold. 
+
+Atomic absorption spectrometry 
+Flame atomic absorption spectrometry 
+Resistance furnace with carbon infrared detector 
+Resistance furnace with sulfur infrared detector 
+Cold vapor atomic absorption spectrometry 
+Hydride generation atomic absorption spectrometry 
+Inductively coupled plasma atomic emission spectrometry 
+letry 
+Isotope dilution inductively coupled plasma mass spectrometry 
+Instrumental neutron activation analysis 
+Total reflectance x-ray fluorescence 
+Wavelength dispersive x-ray fluorescence 
+
+ 
+ 
+Methods 
+ 
+AAS 
+FAAS 
+RF-CIR 
+RF-SIR 
+CV-AAS 
+HG-AAS 
+ICP-AES 
+ID-ICPMS 
+INAA 
+TXRF 
+XRF 
+ 
+NIST Analysts 
+ 
+E.S. Beary 
+M.S. Epstein 
+R. Saraswati 
+ 
+Cooperating Analysts and Laboratories: 
+ 
+S. Landsberger and D. Wu; University of Illinois, Nuclear Engineering Department, Champaign, IL. 
+S.A. Wilson, D. Siems, and P. Briggs; USGS, Lakewood, CO. 
+of  Physical  and  Chemical  Analytics,
+A. Prange,  U. Reus,  and  R. Neidergesäs;  GKSS  Research  Center,  Institute  of  Physical  and  Chemical  Analytics, 
+Geesthacht, Germany. 
+ 
+
+ 
+
+SRM 2782 
+
+ 
+
+Page 4 of 6 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Aug 2015). 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at: 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+Publication 811;  U.S.  Government 
+http://physics.nist.gov/cuu/pdf/sp811.pdf (accessed Aug 2015).  
+
+[3]  Schiller, S.B.  and  Eberhardt, K.R.,  Combining  Data  from  Independent  Analysis  Methods;  Spectrochim.  Acta, 
+
+Vol 46B, pp. 1607–1613 (1991). 
+
+[4]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2015);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Aug 2015). 
+
+[5]  Federal  Register  SW-846  (1995);  available  at  http://www.epa.gov/osw/hazard/testmethods/sw846/frn.htm 
+
+[6]  New Jersey Administrative Code, 1994. N.J.A.C. 7:14-4. 
+[7]  Kane, J.S.; Leach Data vs Total: Which is Relevant for SRMs, Fresenius’ J. Anal. Chem. Vol. 352: pp 209-213, 
+
+(accessed Aug 2015). 
+
+(1995). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    20 August 2015  (Change  of  expiration  date;  editorial  changes);  09 September 2011  (Editorial  changes); 
+ 
+10 December 1998 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    Telephone  (301) 975-2200,  Fax  (301) 948-3730,  e-mail 
+srminfo@nist.gov, or via the Internet at http://www.nist.gov/srm. 
+ 
+
+is  current. 
+301) 
+
+- 
+
+ 
+
+SRM 2782 
+
+ 
+
+Page 5 of 6 
+
+ 
+
+APPENDIX A 
+ 
+Leachable Mass Fractions Using U.S. EPA and NJDEP Methods  
+ 
+The U.S. EPA in its monitoring programs, has established a number of leach methods such as Methods [5] for the 
+determination  of  acid  labile  or  extractable  mass  fractions  of  elements.    The  New  Jersey  Department  of  the 
+Environment (NJDEP) has developed its own leach method for state use [6].  The NJDEP and the U.S. EPA prepared 
+samples of SRM 2782 using the NJDEP 100 method and EPA Methods 3050 and 3051 and analyzed the resulting 
+leachates by FAAS, flame emission spectrometry (FES), and ICP-AES.  Based upon these results, method dependent 
+reference values have been developed for EPA 3050, 3051, and NJDEP 100 methods.  
+ 
+SRM 2782 has been certified for total mass fractions of constituent elements and thereby requires complete sample 
+decomposition.  However, for a number of environmental monitoring purposes, acid extractable mass  fractions of 
+elements are often used rather than total mass fractions.  Acid extractable methods do not necessarily result in total 
+decomposition of the sludge.  It should be noted that results obtained using acid leach conditions are often depicted in 
+reports as “total” results or total recoverable results.  However, reported acid labile or extractable mass fractions of 
+elements are generally lower than total mass fractions (see Table A1, Percentage Leach Recovery).  Results are often 
+presented  as  measured  mass  fractions  in  the  leachate  in  comparison  to  the  total  or  certified  mass  fractions.    The 
+recovery of an element as a percent of total is a function of several factors such as the mode of occurrence in the 
+sample, leach medium, leach time, temperature conditions, and pH of the sample-leach medium mixture [7].  
+ 
+Reference Values and Uncertainties:  Reference values have been established for the acid-leachable mass fractions 
+of fourteen elements in SRM 2782. These values are the means of all results from the different leach and measurement 
+methods used.  Please note that because EPA method 3051 did not provide useable results for silver, its results were 
+excluded.  In addition, variation in arsenic, cadmium, and vanadium data prevented their use as reference values.  The 
+reference values given in Table 1 are not NIST certified but are provided as a reference for U.S. EPA 3050, 3051, and 
+NJDEP 100 methods.  The reference values along with their uncertainties are based on 95 % confidence intervals 
+of  the  means  of  results.    The  uncertainties  include  within-laboratory  and  between-laboratory differences,  which 
+were significant for some elements. 
+ 
+
+Element 
+
+1  Values  for  SRM 
+
+82 
+11 
+220 
+
+1553 
+152 
+4740 
+
+Table A1.  Mass Fractions Reference Concentrations Leach Values for SRM 2782 
+ 
+Leachable Mass Fraction 
+(mg/kg) 
+± 
+± 
+± 
+9.3 
+± 
+4.6 
+± 
+± 
+47 
+±  16 000 
+36 
+± 
+28 
+± 
+15 
+± 
+4.7 
+± 
+33 
+± 
+330 
+± 
+57 
+± 
+
+Leach Recovery(a) 
+(%) 
+11 
+60 
+71 
+61 
+82 
+94 
+94 
+97 
+19 
+86 
+62 
+3 
+20 
+93 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2435 
+ 254 000 
+554 
+ 
+484 
+ 
+258 
+ 
+95.9 
+ 
+87 
+ 
+2620 
+ 
+1167 
+ 
+
+Aluminum(b,c) 
+Barium(b,c) 
+Calcium(c,d) 
+Chromium(b,c) 
+Cobalt(b,c) 
+Copper(b,c) 
+Iron(b,c) 
+Lead(b,c,e) 
+Magnesium(b,c) 
+Manganese(b,c) 
+Nickel(b,c) 
+Potassium(b,c) 
+Sodium(b,c) 
+Zinc(b,c) 
+
+66.1 
+54.5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+y  one  hundred.
+(a) Percentage is calculated as leach value divided by certified (or non certified) value then multiplying it by one hundred. 
+(b) FAAS.  
+(c) ICP-AES. 
+(d) FES. 
+(e) Graphite furnace atomic absorption spectrometry (GFAAS). 
+ 
+Cooperating Analysts and Laboratories:   
+S.J. Nagourney, N. Tummillo; New Jersey Department of Environmental Protection, Trenton, NJ.  
+J. Birri, K. Peist; U.S. Environmental Protection Agency, Edison, NJ. 
+
+certified 
+
+SRM 2782 
+
+ 
+
+Page 6 of 6 
+
+

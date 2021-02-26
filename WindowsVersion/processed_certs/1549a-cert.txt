@@ -1,0 +1,1288 @@
+﻿OT  OF  Coy 
+
+ 
+,
+y
+a
+e
+P
+
+ 
+7
+
+ 
+e
+n
+o
+g
+
+ 
+l
+o
+
+ 
+.
+
+ 
+g
+b
+“
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1549a 
+ 
+Whole Milk Powder 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for evaluation of methods for determining proximates, 
+fatty acids, cholesterol, vitamins, elements, and amino acids in whole milk powder and similar materials.  This SRM 
+can also be used for quality assurance when assigning valu es to in -house reference materials.  The  SRM is a whole 
+milk powder prepared by a commercial manufacturer.  A unit of SRM  1549a consists of five heat-sealed aluminized 
+packets, each containing approximately 10 g of material. 
+ 
+Certified  Mass Fraction   Values:   Certified  mass fraction   values  for  cholesterol,  elements,  and  vitamins  in 
+SRM 1549a, reported on an as-received basis, are provided in Tables 1 through 3.  A NIST certified value is a value 
+for which NIST has the highest confidence in its accuracy in that a ll known or suspected sources of bias have been 
+taken into account  [1].  Analyses for value assignment s  were performed by NIST   and collaborating laboratori es.  
+Certified values  were calculated as the mean of the me an value s from NIST methods  and the median of the  mean 
+results provided by collaborating laboratories , where  appropriate.  The associated uncertainties are expressed  at an 
+approximately 95 % level of confidence [2–4]. 
+ 
+Reference  Mass Fraction   Values:   Reference  mass fraction   values  for additional elements ,  additional vitamins, 
+choline, carnitine, proximates, fatty acids, calories, and amino acids in SRM 1549a, reported on an as-received basis, 
+are provided in Tables 4 through 8.  A NIST reference value is a noncertified value that is the best estimate of the true 
+value based on available data; however, the value does not meet the  NIST criteria for certification [1] and is provided 
+with an uncertainty that may reflect only measurement reproducibility, may not include all sources of uncertainty, or 
+may reflect a lack of sufficient statistical agreement among multiple analy tical methods.  The reference mass fraction 
+values were derived from results reported by NIST and/or collaborating laboratories. 
+ 
+Expiration of Certification:  The certification of SRM 1549a is valid, within the measurement uncertainty specified, 
+until 01 July 2025, provided the SRM is handled and stored in accordance with the instructions given in this certificate 
+(see “ Instructions for Storage   and Use ”).   The certification is nullified if the SRM is damaged, contam inated, or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If  substantive 
+technical changes occur that affect the certification before the e
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips 
+and L.J. Wood of the NIST  Chemical Sciences Division, K.E. Sharpless of the NIST Special Programs Office,  and 
+S. Ehling of the Grocery Manufacturers Association (GMA, Washington, DC). 
+ 
+Support for assignment of values for  vitamin D3 and 25-hydroxyvitamin D3 was provided by  the National Institutes 
+of Health, Office of Dietary  Supplements (NIH-ODS).  Technical consultation was provided by J.M.
+ Betz (NIH -
+ODS). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved in the issuance of this SRM were coordinated through t
+Materials. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+20 
+Certificate Issue Date:  29 May 2020 
+Certificate Revision History on Last Page 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+rdinated  through  the  NIST  Office  of  Reference
+he NIST Office of Reference 
+
+xpiration of this certificate, NIST will notify the 
+
+Supplements  ~~~ 
+
+Page 1 of 11 
+
+SRM 1549a 
+
+  
+
+ 
+
+led, stored under refrigeration, and test 
+
+ (FIACC) interlaboratory comparison exercise: 
+
+Analytical measurements at NIST were performed by C.  Bryan, C.Q. Burdette, W.C. Davis, C. Luvonga, B.E. Lang, 
+M.M. Phillips,  L.J. Wood, and L.L.  Yu  of the  NIST  Chemical Sciences   Division;  Y. Nuevo Ordóñez, R.  Oflaz, 
+D.J. O’Kelly, B.J. Porter, M.M. Schantz, L.T. Sniegoski, B.E. Tomlin, and M.J. Welch formerly of NIST. 
+ 
+Analyses for value assignment were also performed b y the following laboratories participating in a GMA Food 
+Industry Analytical Chemists Committee
+Abbott 
+Nutrition (Columbus, OH); ConAgra Foods (Omaha, NE); Covance, Inc. (Madison, WI); Del Monte Foods (Walnut 
+Creek, CA); Eurofins Central Analytical Laboratories  (Metairie, LA); Eurofins Chemical Control (Des Moines, IA); 
+Eurofins Scientific   (Des Moines,  IA);  Eurofins S&S   (Hanover, MD);  General Mills, Inc.   (Golden Valley,  MN); 
+Hormel Foods Corporation   (Austin, MN);  Krueger Food Laboratories   (Billerica, MA);  Land O’Lakes   (Arden 
+Hills, MN);  National Center for Food Safety and Technology
+(Summit-Argo, IL);  Schwan Food 
+Company (Salina, KS);  Silliker  (Madison, WI);  The J.M . Smucker Co.   (Orrville, OH);  The National Food 
+Laboratory (Livermore, CA). 
+ 
+NOTICE AND WARNING TO USERS   
+ 
+SRM 1549a IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored under refrigeration (2 °C to 8 °C) in the original unopened packets.  For elemental 
+analyses, the packet can be  opened, test portions removed and analyzed, then the packet  resealed until the material 
+reaches its expiration date.  For organic analyses, the packet can be resea
+portions removed and analyzed for three weeks after the packet was initially opened. 
+ 
+Use:  Before use, a packet should be allowed to warm to room temperature, and the  contents of the  packet should be 
+mixed thoroughly by shaking the packet.  Allow the contents to settle for one minute prior to opening to minimize the 
+loss of fine particles.  For certified values to be valid, test
+ portion size should be  based on descriptions below  (See 
+“Source, Preparation, and Analysis”).  Results obtained in analyses should include their own estimates of uncertainty 
+and can be compared to the certified values using procedures described in referenc e 5. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:    The SRM is a whole milk powder.   The contents of six bags, each  containing 27 kg of 
+powdered whole milk, were blended and packaged by High-Purity Standards (Charleston, SC).  The milk powder was 
+sealed in approximately 10 g aliquots in Mylar bags that had been flushed with nitrogen. 
+ 
+Analytical Approach for Determinati on of Cholesterol:    Value assignment of the cholesterol mass fraction was 
+based on measurements made by NIST using a method based on isotope dilution (ID) gas chromatography (GC) with 
+mass spectrometry (MS). 
+ 
+NIST Analyses for Cholesterol:    The mass  fraction of cholesterol was measured using the 
+ID-GC-MS  method 
+developed at NIST for serum cholesterol [6] and modified for the determination of cholesterol in food matrices u sing 
+AOAC International Official Method 996.06 for hydrolysis [7].  Three sets of samples were prepared, each consisting 
+of triplicate 0.5 g test portions from each of  three packets of SRM 1549a weighed into screw-capped test tubes.  An 
+-13C3, was added  to each  tube.  
+aliquot of a solution containing a known mass of the internal standard, cholesterol
+Cholesterol esters were hydrolyzed by heating the samples in an alcohol-KOH solution for 1 h at 100 °C.  Cholesterol 
+was extracted into hexane, and a portion of the hexane extract was evapora
+N,O-bis(trimethylsilyl)acetamide to convert cholesterol to the trimethylsilyl
+performed using  a 30  m (phenyl/methyl polysiloxane, 5/95  mole fraction) non -polar fused silica column directly 
+interfaced to the ion source.  Cholesterol was determined in the electron ionization mode with selected ion monitoring 
+-TMS, respectively.    Calibrants were prepared 
+at  m/z 458 and  m/z 461 for the unlabeled and labeled cholesterol
+gravimetrically, from SRM 911c Cholesterol, at levels intended to approximate the level of the cholesterol in the SRM 
+following extraction.  A single internal standard solution  was used for the calibrants and samples.  Calculations are 
+based on linear regression analysis for the calibrants. 
+ 
+ 
+
+ted to dryness prior to addition of 
+ (TMS) derivative.   GC-MS  was 
+
+ 
+
+(1) Certain commercial equipment, instruments or material
+
+fy the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+s are identified in this certificate to adequately speci
+
+SRM 1549a 
+
+Page 2 of 11 
+
+id  Zn 
+
+  with or without subsequent hot
+
+by  ICP-OES and/or  ICP-MS:   Mass 
+
+sodium,  strontium, and zinc were measured by 
+
+in a microwave sample preparation system either
+
+Analytical Approach for  Determination of Elements:   Value assignment of the mass fractions of the elements in 
+SRM 1549a  was based on the combination of measurements provided by  NIST  using  inductively coupled plasma 
+optical emission spectrometry  (ICP-OES), inductively coupled plas ma mass spectrometry  (ICP-MS), instrumental 
+neutron activation analysis (INAA), and provided by collaborating laboratories, where appropriate.   
+ 
+NIST Analyses for  Ba, Ca, Cu, Fe, I, K, Mg, Mn, Mo, Na, Ni, P, Sr, and Zn 
+fractions of barium, calcium, magnesium, phosphorus, potassium, 
+ICP-OES.  Mass fractions of barium, copper, iron, manganese, molybdenum, nickel, and strontium were measured by 
+ICP-MS.    For each technique, d uplicate  0.5 g test portions   were  taken from each of 10  packets of SRM  1549a.  
+Samples were digested 
+-plate 
+digestion using nitric acid, a nitric acid/hydrofluoric acid mixture, or a  nitric acid/perchloric acid mixture.  The mass 
+fraction of iodine was measured by ICP-MS in single 0.3 g test portions taken from each of six packets and in each of 
+four packets a year later.  Samples were digested in aqueous tetramethylammoni um hydroxide using a microwave 
+sample preparation system.   Quantitation for  all elements was based on the method of standard additions  using the 
+SRM 3100 series single element standard solutions. 
+ 
+NIST Analyses for Se and Zn by INAA:  The mass fractions of selenium and zinc were measured by INAA in duplicate 
+0.22 g test portions taken from each of six packets of SRM 1549a.  Powders were pressed into cylindrical pellets, and 
+samples, standards, and controls were packaged individually in clean polyethylene bags and irradiated individually at 
+20 MW.  Samples, controls, and standards, prepared from SRM  3100 series  single element standard solutions, were 
+irradiated for 4  h.  Irradiation capsules were then inverted  180 degrees, and materials were irradiated another 4  h.  
+Selenium and zinc were counted for 8 h after a decay of more than 90 d. 
+ 
+Analytical Approach for Determination of Vitamins:   Value assignment of the mass fractions of the vitamins in 
+SRM 1549a  was based on the combination of results provided
+  from  various  analytical methods at NIST   and 
+collaborating laboratories, where appropriate .  NIST provided measurements by using  liquid chromatography (LC) 
+with or without ID and MS or tandem mass spectrometry (MS/MS). 
+ 
+NIST Analyses for Riboflavin, Niacinamide, Pantothenic Acid, Pyridoxamine, and Pyridoxal by LC-MS or ID-LC-MS:  
+The mass fraction of riboflavin was measured by LC-MS in duplicate 2.5 g test portions taken from each of 10 packets 
+of SRM 1549a.  Mass fractions of niacinamide, pantothenic acid, pyridoxamine, and pyridoxal were measured by ID-
+2H4-niacinamide, 
+LC-MS  in duplicate 2.5  g test portions taken from each of 10
+13C3,15N-pantothenic acid, 2H3-pyridoxamine, and 2H3-pyridoxal were added as internal standards.   The analytes and 
+internal standards were extracted into dilute acetic acid for analysis by positive ion mode LC-MS.  A gradient method 
+with an ammonium formate buffer/methanol mobile phase and a  C18 column were used for LC-MS determination of 
+the vitamins.   Niacinamide and  2H4-niacinamide were measured at  m/z 123 and m/z 127, respectively.   Pantothenic 
+13C3,15N-pantothenic acid  were measured at  m/z 220  and  m/z 224, respectively.   Pyridoxamine and 
+acid and 
+2H3-pyridoxamine were measured at m/z 169 and m/z 172, respectively.  Pyridoxal and 2H3-pyridoxal were measured 
+at  m/z 168  and  m/z 171, res pectively.   Riboflavin was measured at  m/z 377,  using  13C3,15N-pantothenic acid as an 
+internal standard.  Calibrants were prepared gravimetrically at levels intended to approximate the levels of the vitamins 
+in the SRM following extraction.  The purity of neat calibrant materials was determined at NIST using LC-absorbance, 
+Karl Fischer titration, thermogravime
+spectroscopy (q1HNMR), and differential scanning  calorimetry (DSC).  A single internal standard solution was used 
+for the calibrants and samples. 
+ 
+Mass
+NIST Analyses for Riboflavin, Niacinamide, Pantothenic Acid, Pyridoxamine, and Pyridoxal by ID-LC-MS/MS:  Mass 
+fractions of riboflavin, niacinamide, pantothenic acid, pyridoxamine, and pyridoxal were measured by ID-LC-MS/MS 
+2H4-niacinamide, 
+in duplicate  2 g test portions taken from each of  six packets of SRM  1549a.  13C4,15N2-Riboflavin, 
+13C3,15N-pantothenic acid, 2H3-pyridoxamine, and 2H3-pyridoxal were added as internal standards.   The analytes and 
+internal standards were extracted into dilute acetic acid for analysis by positive-ion mode ID-LC-MS/MS.  A gradient 
+method with an ammonium formate buffer/methanol mobile phase and a  C18 column were used for  ID-LC-MS/MS 
+determination of the vitamins.  Calibrants were prepared gravimetrically at levels intended to approximate  the levels 
+of the vitamins in the SRM following extraction.  The purity of neat calibrant materials was determined at NIST using 
+LC-absorbance, Karl Fischer titration, TGA, q1HNMR, and DSC.  A single internal standard solution was used for the 
+calibrants and samples.  The analyte and internal standard transit
+ions monitored for ID -LC-MS/MS are listed  in 
+Table 9. 
+ 
+NIST Analyses for Choline and Carnitine:   Mass fractions of choline and  carnitine were measured in duplicate 1  g 
+samples taken from each of 10  packets of SRM 1549a.   2H9-choline chloride and  2H9-carnitine hydrochloride were 
+added as internal standard s.   The analytes and internal standards were extracted   and hydrolyzed by micro wave 
+digestion  into dilute  hydrochloric  acid for analysis by positive -ion mode  LC-MS.  A gradient method with an 
+ammonium formate/acetonitrile mobile phase and a mixed-mode C18 column were used for ID-LC-MS determination.  
+
+tric  analysis (TGA),  quantitative proton nuclear magnetic resonance 
+
+ packets  of SRM  1549a.  
+
+SRM 1549a 
+
+Page 3 of 11 
+
+the neat  vitamin D3  calibrant material was determined 
+
+Choline  and  2H9-choline  were measured at  m/z 104  and  m/z 113, respectively.   Carnitine  and  2H9-carnitine  were 
+measured at  m/z 162  and  m/z 171, respectively.   Calibrants were prepared gravimetrically, at levels intended to 
+approximate the levels of the vitamins in the SRM followi ng extraction.   The purity of  neat calibrant materials was 
+determined at NIST using q1HNMR.  A single internal standard solution was used for the calibrants and sampl es. 
+ 
+NIST Analyses for  Vitamin D3  and 25 -Hydroxyvitamin D3:   Mass fractions of  vitamin D3  (cholecalciferol) and 
+25-hydroxyvitamin D3  were measured in duplicate 2.0  g  to 3.0  g  test portions taken from each of ten  packets of 
+SRM 1549a.  Vitamin D3-13C5 and 25-hydroxyvitamin D3-13C5 were added as internal standards.   Prior to extraction, 
+the samples of SRM  1549a were incubated with lipase at 40  °C for 2  h to hydrolyze the fats.  Ethanol containing 
+butylated hydroxytoluene (BHT) and potassium carbonate was added to each sample, and the  analytes and internal 
+standards w ere extracted in to  hexane containing BHT by overnight stirring.  The samples were centrifuged
+, the 
+supernatants were decanted, and an additional aliquot of hexane containing BHT was added.  Samples were extracted 
+further by a combination of sonication and rotary mixing, then centrifuged, and the supernatants combined with those 
+from the previous extraction.  One additional cycle of sonication and rotary mixing was conducted, for a total of three 
+extractions.  Magnesium sulfate was added to the pooled organic layers.  Following vortex mixing and centrifugation, 
+the organic layer was decanted and evaporated to dryness under nitrogen.  The a
+nalytes were derivatized with 
+4-phenyl-1,2,4-triazoline-3,5-dione (PTAD) and reconstituted in a mixture of methanol and ethyl acetate for analysis 
+by positive-ion mode LC-MS/MS.  A gradient method with a  water/methanol mobile phase and a  pentafluorophenyl 
+column were used for ID-LC-MS/MS determination.  Vitamin D3+PTAD and vitamin D3-13C5+PTAD were measured 
+25-Hydroxyvitamin D3+PTAD  and 
+at  transitions  m/z 560 → m/z 298 and  m/z 565 → m/z 298, respectively.  
+25-hydroxyvitamin D3-13C5+PTAD  were measured at 
+transitions  m/z 558 → m/z 298 and  m/z 563 → m/z 298, 
+respectively.  Calibrants were prepared gravimetrically, at levels intended to approximate the levels of the vitamins in 
+by the 
+the SRM following extraction.  The purity of 
+manufacturer and confirmed at NIST using spectrophotometry.  The purity of the neat 25-hydroxyvitamin D3 calibrant 
+material was determined at NIST using LC-absorbance, Karl Fischer titration, TGA, and q1HNMR.  A single internal 
+standard solution was used for the calibrants and samples. 
+ 
+Analytical Approach for Determination of Fatty Acids:   Value assignment of the  mass fractions of fatty acids in 
+SRM 1549a was based on the combination of measurements made using two extraction procedures and two different 
+analytical methods at NIST  and by  collaborating laboratories, where appropriate .   NIST provided results using gas 
+GC with flame ionization detection (FID) and GC-MS. 
+ 
+NIST Analyses for Fatty Acids by GC-FID:  Mass fractions of fatty acids were determined by GC-FID from two 0.4 g 
+to 0.8  g test portions from each of 10  packets of SRM  1549a.  The milk powder was   added to pressurized -fluid 
+extraction (PFE) cells that were half filled with Hydromatrix (Varian, Palo Alto,  CA).  The milk powder was mixe d 
+with the Hydromatrix and additional Hydromatrix was added to fill the cell.  The mixtures were spiked with an internal 
+standard (IS)  solution containing  octacosanoic acid   and myristic -d27  acid  and 0.2  g water.   Following PFE with  
+ (m-trifluoromethylphenyl) 
+hexane:acetone (4:1  volume fraction), e xtracts were combined with methanolic
+ min prior to 
+trimethylammonium hydroxide (1:1  volume fraction), vortexed, and allowed to stand for at least 30
+analysis by GC -FID.  GC -FID was performed using a 0.25  mm × 100 m  biscyanopropyl polysiloxane-fused silica 
+capillary column.   Calibrants were prepared gravimetrically from SRM
+2,2,4-Trimethylpentane, at levels intended to approximate the levels of the fatty acids in the SRM following extraction.  
+A single internal standard solution was used for the calibrants and samples.  Calculations are based on average response 
+factors for the calibrants. 
+ 
+NIST Analyses for Fatty Acids by GC-MS:  Mass fractions of fatty acids were determined by  GC-MS from two 0.7 g 
+to 0.9 g test portions from each of six packets of SRM 1549a.  The milk powder was combined with wet Hydromatrix 
+An internal standard solution   containing 
+and transferred to a glass extraction thimble containing glass wool.  
+octacosanoic acid   and myristic -d27  acid  was  added, and samples were extracted for 22
+chloride:methanol  (2:1 volume fraction)  solution.  Following extraction, extracts were concentrated,
+  methanolic 
+sodium hydroxide was added, and the sample was hea ted at 100 °C for 5 min with gentle shaking every 10  min.  The 
+sample was cooled to room temperature, methanolic BF3 was added, and the samples were heated to 100 °C for 30 min.  
+Butylated hydroxytoluene (an antioxidant) in hexane was added, and the sample  was mixed for 30  s while still warm.  
+Saturated aqueous sodium chloride solution was added, and the sample was
+temperature.  The hexane layer was removed to another tube, and the hexane extraction was repeated twice.  The three 
+hexane layers were combined, and a portion was transferred to an autosampler vial for GC-MS analysis.  GC-MS was 
+ mm × 60 m fused silica capillary column   containing  cyanopropyl/phenylpolysiloxane 
+performed using a 0.25
+(50/50 mole fraction) phases.  Calibrants were prepared gravimetrically from SRM 2377 Fatty Acid Methyl Esters in 
+2,2,4-Trimethylpentane, at levels intended to approximate the levels of the fatty acids in the SRM following extraction.  
+The internal standard solution was used for the calibrants and sa mples.  Calculations are based on average response 
+factors for the calibrants. 
+ 
+
+ mixed for 1  min and cooled to room 
+
+ 2377  Fatty Acid Methyl Esters in 
+
+ h using a methylene 
+
+SRM 1549a 
+
+Page 4 of 11 
+
+Collaborating Laboratories’ Analyses:    The GMA FIACC laboratories  were asked to use their usual methods to 
+make single measurements  of proximates, calories, vitamins, elements, and amino acids  on test portions taken from 
+each of two packets of SRM 1549a.  Because of variability among data provided by  laboratories participating in  an 
+interlaboratory comparison exercise, the median of laboratory means is used, with the uncertainty estimated using the 
+median absolute deviation (MADe) [8]. 
+ 
+Homogeneity Assessment:  The homogeneity of fatty acids, cholesterol, elements, and vitamins was assessed at NIST 
+using the methods  and test portion sizes  described above.   Analysis of the variance  showed statistically significant 
+molybdenum, nickel, 
+heterogeneity  in some cases, and the uncertainties for barium, copper, iron, magnesium, 
+phosphorus, strontium, zinc, niacinamide, pantothenic acid, pyridoxal, pyrido xamine, total vitamin B6 as pyridoxal, 
+carnitine, choline,   cholecalciferol,  and  cholesterol  all incorporate an uncertainty component for possible 
+heterogeneity.  Homogeneity of constituents measured solely by collaborating laboratories (e.g., proxim ates, amino 
+acids) was not assessed although the data were treated as though these analytes were homogeneously distributed. 
+ 
+Value Assignment:  For calculation of assigned values for analytes that were measured only by NIST, the mean s of 
+the mean values from NIST results were used.  The collaborating laboratories reported the individual results for each 
+of their analyses for a given analyte.  The mean of each laboratory’s result s was then determined.  For calculation of 
+assigned values for analytes that were measured only by the collaborating laborat ories, the median of the laboratory 
+means was used.  For analytes that were  also measured by NIST, the mean of the individual sets of NIST d ata were 
+averaged with the median of the individual collaborating laboratory means, as appropriate. 
+ 
+Certified Mass Fraction Value for Cholesterol:   The certified mass fraction for cholesterol is the mean of results 
+obtained by NIST using ID -GC-MS.  Values are expressed as  x ± U95%(x), where x is the certified value and U95%(x) 
+is the expanded uncertainty of the certified value.   The true value of the analyte lie s within the interval x ± U95%(x) 
+with 95  % confidence.   To propagate this uncerta inty, treat the certified value as a normally distributed random 
+variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total mass fraction  of cholesterol 
+in milk powder as  listed in Table 1 on a n as-received basis.   Metrological traceability is  to the SI  measurement unit 
+for chemical mass fraction, expressed as milligrams per gram. 
+ 
+
+Table 1.  Certified Mass Fraction Value for Cholesterol in SRM  1549a 
+
+ 
+
+ 
+ 
+ 
+
+Cholesterol 
+
+  0.981  ± 
+
+0.071 
+
+Mass Fraction 
+(mg/g) 
+
+ 
+
+ 
+
+SRM 1549a 
+
+Page 5 of 11 
+
+Certified Mass Fraction Values for Elements:   Each certified mass fraction value is the  combined mean from the  
+mean of results from analyses by NIST and the median of the mean of results provi ded by collaborating laboratories, 
+where appropriate.  Values are expressed as  x ± U95%(x), where x is the certified value and  U95%(x) is the expanded 
+s  within the interval  x ± U95%(x)  with 95  % 
+uncertainty of the certified value.  The true value of the analyte lie
+confidence.   To propagate this uncertainty, treat the certified value as a normally  distributed random variable with 
+mean  x  and standard deviation  U95%(x)/2 [2–4].   The measurand s  are  the total mass fraction s  of elements in milk 
+powder as  listed in Table  2  on a n  as-received basis .  Metrological traceability is to the SI  measurement  unit for 
+chemical mass fraction, expressed as milligrams per kilogram. 
+ 
+
+Table 2.  Certified Mass Fraction Values for Elements in SRM 1549a 
+ 
+
+ 
+
+Barium (Ba)(a,b) 
+Calcium (Ca)(a,c) 
+Magnesium (Mg)(a,c) 
+Manganese (Mn)(b,d) 
+Phosphorus (P)(a,e) 
+Potassium (K)(a,c) 
+Selenium (Se)(c,f) 
+Sodium (Na)(a,c) 
+Strontium (Sr)(a,b) 
+Zinc (Zn)(a,d,f) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.566  ± 
+
+0.039 
+
+0.184  ± 
+
+0.024 
+
+±  240 
+±  62 
+
+±  500 
+±  430 
+
+±  58 
+
+0.242  ± 
+
+0.026 
+
+2.14  ± 
+± 
+33.8 
+
+0.19 
+2.3 
+
+8810 
+892 
+
+ 
+ 
+ 
+ 
+ 
+7600 
+  11920 
+ 
+ 
+ 
+ 
+
+3176 
+
+(a) NIST ICP-OES 
+(b) NIST ICP-MS 
+(c) Collaborating laboratories.  Reported methods included AAS and ICP -OES. 
+(d) Collaborating laboratories.  Reported methods included AAS, ICP-OES, and ICP-MS. 
+(e) Collaborating laboratories.  Reported methods included absorption spectrophotometry, colorimetry, ICP-OES, and ICP-MS. 
+(f)  NIST INAA 
+ 
+ 
+Certified Mass Fraction Values for Vitamins:   Each certified mass fraction value is the  combined mean from the  
+mean of results from analyses by NIST.  Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) 
+lies within the interval x ± U95%(x) 
+is the expanded  uncertainty of the certified value.  The true value of the analyte 
+with 95  % confidence.  To propagate this uncertainty, treat the certified value as
+ a normally distributed random 
+variable with mean x and standard deviation U95%(x)/2 [2–4].  The measurands are the total mass fractions of vitamins 
+in milk powder as  listed in Table 3 on an as-received basis.  Metrological traceability is to the SI  measurement unit 
+for chemical mass fraction, expressed as milligrams per kilogram. 
+ 
+
+Table 3.  Certified Mass Fraction Values for Vitamins in SRM 1549a 
+ 
+
+ 
+
+Riboflavin (Vitamin B2)(a,b)
+ 
+Niacinamide (Vitamin B3)(a,c,d) 
+Pantothenic Acid (Vitamin B5)(a,c) 
+Pyridoxal(a,c) 
+Pyridoxamine(a,c) 
+Total Vitamin B6 as Pyridoxal(a,c,e) 
+
+Mass Fraction 
+(mg/kg) 
+
+± 
+10.6 
+5.91  ± 
+33.7 
+± 
+1.72  ± 
+0.259  ± 
+1.97  ± 
+
+1.9 
+0.39 
+2.7 
+0.16 
+0.023 
+0.16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+(a) NIST ID-LC-MS/MS 
+(b) NIST LC-MS 
+(c) NIST ID-LC-MS 
+(d) Niacinamide was the only form of  vitamin B3 detected. 
+(e) NIST measured pyridoxal and pyridoxamine individually, and pyridoxamine wa
+
+multiplication by the ratio of the relative molecular masses. 
+
+ 
+ 
+
+SRM 1549a 
+
+s mathematically converted to pyridoxal by 
+
+Page 6 of 11 
+
+Reference Mass Fraction Values for Elements:    Each reference mass fraction  value is the mean result of NIST 
+analyses using  ICP-MS.   Values are expressed as  x ± U95%(x), where  x  is the estimated value and  U95%(x) is the 
+expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval x ± U95%(x) with 
+about a 95 % confidence [2-4].  The measurands are the mass fractions of elements in milk powder as listed in Table 4, 
+on an as-received basis, as determined by the method i ndicated.  Metrological traceability is to the SI  measurement 
+unit for chemical mass fraction, expressed as milligrams per kilogram. 
+ 
+
+Table 4.  Reference Mass Fraction Values for Elements in SRM 1549a 
+
+ 
+
+Copper (Cu) 
+Iodine (I) 
+Iron (Fe) 
+Molybdenum (Mo) 
+Nickel (Ni) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.638  ± 
+± 
+3.34 
+1.85 
+± 
+0.377  ± 
+0.068  ± 
+
+0.049 
+0.30 
+0.73 
+0.072 
+0.014 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Mass Fraction Values for Vitamins:    Each reference mass fraction value is the mean result of NI ST 
+analyses or the median of the mean results provided by collaborating laboratories.  Values are expressed as x ± U95%(x), 
+where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the 
+analyte lies within the interval  x ± U95%(x) with about a 95  % confidence [2-4].   The measurands are the total mass 
+fractions  of  vitamins  in milk powder as  listed in Table  5,  on a n  as-received basis , as  determined by the method 
+indicated.  Metrological traceability  is to the measurement processes and standards used by  NIST and  collaborating 
+laboratories. 
+ 
+
+Table 5.  Reference Mass Fraction Values for Vitamins, Carnitine, and Choline in SRM 1549a 
+
+ 
+
+ 
+
+ 
+
+Biotin(a) 
+Carnitine(b) 
+Choline(b) 
+Vitamin B12
+Cholecalciferol (Vitamin D3)(c) 
+25-Hydroxyvitamin D3
+
+(c) 
+
+(a) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.152 
+
+ 
+  173.1 
+  998 
+ 
+ 
+ 
+
+±  0.016 
+±  8.6 
+±  63 
+±  0.002 
+
+0.032 
+0.00188  ±  0.00035 
+0.00053  ±  0.00005 
+
+ 
+(a) Collaborating laboratories.  Reported methods included microbiological assay. 
+(b) NIST ID-LC-MS 
+(c) NIST ID-LC-MS/MS 
+ 
+ 
+
+ 
+
+SRM 1549a 
+
+Page 7 of 11 
+
+Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids:   Each reference mass fraction value is the 
+combined mean from the mean of results from analyses by NIST and the median of the mean of results provi ded by 
+collaborating laboratories, where appropriate.  Values are expressed as x ± U95%(x), where x is the estimated value and 
+U95%(x) is the expanded uncertainty of the value.  The method -specific value of the analyte lies within the interval 
+x ± U95%(x) with about a 95  % confidence [2-4].  The measurand s are the total mass fraction s of fatty acids in milk 
+powder as listed in Table 6, on an as-received basis, as determined by the methods indicated.  Metrological traceability 
+is to the measurement processes and standards used by  NIST and collaborating laboratories. 
+ 
+
+Table 6.  Reference Mass Fraction Values for Fatty Acids (as Free Fatty Acids) in SRM  1549a 
+ 
+
+Acids)  in  SRM
+
+ 
+
+Common Name 
+
+Butanoic Acid (C4:0)(a) 
+Hexanoic Acid (C6:0)(a) 
+Octanoic Acid (C8:0)(a,b,c) 
+Dodecanoic Acid (C12:0)(a,b,c) 
+Tridecanoic Acid (C13:0)(a) 
+Tetradecanoic Acid (C14:0)(a,b,c) 
+Pentadecanoic Acid (C15:0)(a) 
+Hexadecanoic Acid (C16:0)(a,b,c) 
+(Z)-9-Hexadecenoic Acid (C16:1 n-7)(a,b,c) 
+(E)-9-Hexadecenoic Acid (C16:1-9t)(a) 
+Heptadecanoic Acid (C17:0)(a) 
+(Z)-9-Heptadecenoic Acid (C17:1 n-8)(a) 
+Octadecanoic Acid (C18:0)(a,b,c) 
+(Z)-9-Octadecenoic Acid (C18:1 n-9)(a,b,c) 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n-6)(a,b,c) 
+(Z,Z,Z,Z,Z)-7,10,13,16,19-Docosapentaenoic Acid (C22:5)(b)  DPA 
+
+Butyric Acid 
+Caproic Acid 
+Caprylic Acid 
+Lauric Acid 
+ 
+Myristic Acid 
+ 
+Palmitic Acid 
+Palmitoleic Acid 
+trans-Palmitelaidic Acid 
+Margaric Acid 
+Margaroleic Acid 
+Stearic Acid 
+Oleic Acid 
+Linoleic Acid 
+
+ 
+(a) Collaborating laboratories.  Reported methods included GC-FID.  
+(b) NIST GC-FID 
+(c) NIST GC-MS 
+ 
+ 
+ 
+
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+0.868  ±  0.096 
+0.573  ±  0.028 
+0.311  ±  0.008 
+0.764  ±  0.084 
+0.029  ±  0.004 
+2.49  ±  0.19 
+0.265  ±  0.017 
+6.65  ±  0.44 
+0.385  ±  0.025 
+0.091  ±  0.015 
+0.171  ±  0.013 
+0.056  ±  0.005 
+2.57  ±  0.18 
+4.83  ±  0.50 
+0.659  ±  0.057 
+0.014  ±  0.001 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 1549a 
+
+Page 8 of 11 
+
+Reference Mass Fraction Values for Proximates  and Calories:  Each reference mass fraction value is the median 
+of the mean  results provided by collaborating laboratories.
+   Values are expressed as  x ± U95%(x), where  x  is the 
+estimated value and  U95%(x) is the expanded uncertainty of the value.   The method-specific value of the analyte lies 
+within the interval x ± U95%(x) with about a 95 % confidence [2-4].  For proximates, the measurands are the total mass 
+fractions in milk powder as  listed in Table  7, on an as -received basis, as determined by the methods indicated .  For 
+calories, the measurand is the caloric content in milk powder as listed in Table 7, on an as-received basis, as determined 
+by the method indicated .   Metrological  traceability is to the measurement processes and standards used by 
+collaborating laboratories. 
+ 
+
+Table 7.  Reference Values for Proximates and Calories in SRM 1549a 
+
+ 
+
+Solids(a) 
+Ash(b) 
+Protein(c) 
+Carbohydrates(d) 
+Fat (as the sum of fatty acids as Free Fatty Acids)  
+
+ 
+
+ 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+  96.92  ± 
+ 
+5.625  ± 
+  25.64  ± 
+  38.43  ± 
+  26.98  ± 
+ 
+
+0.26 
+0.045 
+0.31 
+0.95 
+0.66 
+
+Energy 
+00
+(kcal per 100 g) 
+
+Calories(e) 
+
+ 
+
+  502.2 
+
+± 
+
+5.7 
+
+(a) Collaborating laboratories.  Reported methods include
+
+  drying in a 
+
+forced 
+forced-air oven, drying in a vacuum oven, and 
+
+thermogravimetric analysis. 
+
+(b) Collaborating laboratories.  Reported methods include weight loss after ignition in a muffle furnace. 
+(c) Collaborating laboratories.  Reported methods include Kjeldahl, combustion, and thermal conductivity to determine nitrogen.  A 
+
+factor of 6.38 was used to convert nitrogen results to protein. 
+
+6.38 
+
+(d) Collaborating laboratories.  Calculated by difference (solids less the sum of protein, fat, and ash). 
+(e) The value for calories is the median of lab mean caloric calculations from the interlaboratory compa
+
+rison exercise.  If the mean 
+proximate values above are used for calculation, with caloric equiva lents of 9, 4, and 4 for fat  (as the sum of fatty acids), protein, 
+and carbohydrate, respectively, the mean caloric content is 499.1 kcal/100 g. 
+ 
+
+ 
+
+SRM 1549a 
+
+Page 9 of 11 
+
+Reference Mass Fraction Values for Amino Acids:   Each reference mass fraction value is the median of the mean 
+results provided by collaborating laboratories   using hydrolysis followed by derivatization and LC .   Values are 
+expressed as x ± U95%(x), where x is the estimated value and  U95%(x) is the expanded  uncertainty of the value.   The 
+method-specific value of the analyte lies within the interval  x ± U95%(x) with about a 95  % confidence [2-4].   The 
+measurands are the total mass fractions of amino acids in milk powder as listed in Table 8, on an as-received basis, as 
+determined by the method indicated.  Metrological traceability is to the measurement processes and standards used by 
+collaborating laboratories. 
+ 
+
+e
+c
+
+Table 8.  Reference Mass Fraction Values for Amino Acids in SRM 1549a 
+
+ 
+
+ 
+ 
+
+ 
+
+Alanine 
+Arginine 
+Aspartic Acid 
+Cystine 
+Glutamic Acid 
+Glycine 
+Histidine 
+Isoleucine 
+Leucine 
+Lysine 
+Methionine 
+Phenylalanine 
+Serine 
+Threonine 
+Tryptophan 
+Tyrosine 
+Valine 
+
+Mass Fraction 
+(g/100 g) 
+
+0.845  ±  0.084 
+±  0.14 
+0.89 
+±  0.06 
+1.96 
+±  0.02 
+0.18 
+±  0.22 
+5.34 
+0.46 
+±  0.04 
+0.617  ±  0.083 
+±  0.20 
+1.12 
+±  0.25 
+2.41 
+±  0.12 
+2.05 
+±  0.10 
+0.68 
+±  0.11 
+1.21 
+±  0.02 
+1.42 
+±  0.06 
+1.09 
+±  0.02 
+0.29 
+±  0.06 
+1.12 
+±  0.26 
+1.34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Compound 
+
+Precursor Ion 
+(m/z) 
+
+→ Product Ion 
+VZ 
+  (m/z) 
+
+Table 9.  LC-MS/MS Transitions Monitored for Vitamins 
+ 
+Internal Standard (IS)  IS Precursor Ion 
+
+→ IS Product Ion 
+(m/z) 
+
+377 
+
+123 
+
+220 
+
+169 
+
+168 
+
+Riboflavin 
+ 
+ 
+ 
+Niacinamide 
+ 
+ 
+Pantothenic Acid 
+ 
+ 
+ 
+Pyridoxamine 
+ 
+ 
+Pyridoxal 
+
+ 
+ 
+ 
+
+SRM 1549a 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+43 
+172 
+198 
+243 
+53 
+78 
+80 
+41 
+43 
+72 
+90 
+77 
+134 
+152 
+41 
+67 
+94 
+150 
+
+(m/z) 
+
+383 
+
+127 
+
+224 
+
+172 
+
+171 
+
+13C4,15N2-Riboflavin 
+ 
+ 
+ 
+2H4-Niacinamide 
+ 
+ 
+13C3,15N-Pantothenic 
+Acid 
+
+ 
+ 
+2H3-Pyridoxamine 
+ 
+ 
+2H3-Pyridoxal 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+43 
+175 
+202 
+249 
+56 
+81 
+84 
+41 
+43 
+76 
+94 
+79 
+136 
+155 
+43 
+70 
+97 
+153 
+
+Page 10 of 11 
+
+ 
+
+ 
+[1]  May, W.; Parris,
+
+REFERENCES 
+
+ R.; Beck,  C.; Fassett,
+
+ T.; 
+ J.; Greenberg,  R.; Guenther,
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for  Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office: Washington, DC (2000); available at  https://www.nist.gov/system/files/documents/srm/SP260-136.PDF 
+(accessed May 2020). 
+
+ F.; Kramer,
+
+ G.; Wise,
+
+ S.; Gills,
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data  — Guide to the Expression of Uncertainty in Mea surement 
+(GUM 1995 with Minor Corrections );  Joint Committee for Guides in  Metrology (JCGM)  (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2020); see also 
+Taylor, B.N.; Kuyatt,  C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note  1297;  U.S. Government Printing Office:  Washington,
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed May 2020). 
+
+ DC (1994); available at 
+
+[3]  JCGM 101:2008;  Evaluation of Measurement Data
+
+ – Supplement 1 to the “Guide to the Expression of 
+
+  —  Propagation of Distributions using a Monte Carlo Method
+; 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC Int., 
+
+Uncertainty in Measurement”
+JCGM (2008); available at 
+(accessed May 2020). 
+
+Vol. 91, pp. 1298–1302 (2008). 
+
+[6]  Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White, V.E.; Determination of Serum Cholesterol by a 
+ 614, 
+
+metric Definitive Method ;  Anal. Chem., Vol.
+
+Modification of the Isotope Dilution Mass Spectro
+pp. 1718–1723 (1989). 
+
+7] 
+[7]  AOAC Official  Method 996.06;  Official Methods of Analysis ,  18th  ed.;  AOAC International,  Rockville, MD 
+
+(2000). 
+
+[8]  Huber, P.J; Robust Statistics; John Wiley, New York (1981). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  29 May 2020 (Removal of certified value for ascorbic acid based on observed instability; certified values for 
+fatty acids changed to reference values to properly reflect traceability and moved from Table 1 to Table 6; reference values for fatty acids moved 
+from Table 7 to Table 6; some tables were re-numbered accordingly; correction to the measured isomer of heptadecenoic acid from n-7 to n-8; 
+correction to the name of cysteine to cystine; editorial changes); 22 August 2018 (Change of expiration date; removal of values for myristoleic 
+acid, vaccenic acid, α-linolenic acid, capric acid, and thiamine based on observed instability ; correction of values for lauric acid, myristic acid, 
+palmitic acid, iron, butyric acid, tridecanoic acid, margaric acid , margaroleic acid, cystine, glutamic acid, and glycine due to rounding errors; 
+editorial changes); 28 October 2016 (Addition of values for cholecalciferol and 25 -hydroxyvitamin D3; conversion of fatty acid values from 
+21 October 2014  (Update of values for  Vitamin B6; editorial changes);  13 August 2013 
+triglycerides to free fatty acids; editorial changes); 
+(Original certificate date). 
+
+ 
+ 
+ 
+ 
+Users of this SRM should ensure 
+accomplished by contacting the SRM Program:  telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+Internet  a 
+
+that the Certificate of Analysis in their possession is current.  This can be 
+
+session  18  current. 
+ 975-2200; fax (301)
+
+f 
+
+6 
+
+- 
+
+B01
+
+This  can  be 
+ 948-3730; 
+
+SRM 1549a 
+
+Page 11 of 11 
+
+

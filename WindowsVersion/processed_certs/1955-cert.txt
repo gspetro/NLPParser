@@ -1,0 +1,686 @@
+﻿até 
+
+NT  OF  o 
+
+YW 
+
+q 
+a 
+
+' 
+
+* 
+
+% 
+oN 
+° 
+
+States  oF 
+
+y 
+
+*  National  Iustitute  of  Standards  &  Cechnologu 
+Certificate  of  Aualusis
+
+ 
+
+ 
+Standard Reference Material® 1955 
+ 
+Homocysteine and Folate in Frozen Human Serum 
+
+liquid 
+
+chromatography/mass 
+
+spectrometry (GC/MS), 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  the  accuracy  of  clinical 
+procedures for the determination of homocysteine and folate (in various forms) in human serum.  It is also intended 
+for use in validating working or secondary reference materials.  A unit of SRM 1955 consists of three bottles of frozen 
+human serum, each of a different analyte concentration level.  Each bottle contains 1 mL of human serum. 
+ 
+Certified  Concentration  Values:    The  certified  concentrations  and  their  expanded  uncertainties  for  total 
+homocysteine (tHCY) and 5-methyltetrahydrofolic acid (5MT) are listed in Table 1.  The certified concentrations of 
+tHCY were determined at NIST using a combination of higher-order reference measurement procedures based upon 
+chromatography/mass 
+isotope  dilution  with  gas 
+spectrometry (LC/MS),  and  liquid  chromatography/tandem  mass  spectrometry (LC/MS/MS) [1–3].    The  certified 
+concentrations for 5MT were determined by a combination of reference measurement procedures based upon isotope 
+dilution LC/MS/MS performed at NIST [3,4] and the Centers for Disease Control and Prevention (CDC) [5].  The 
+methods  performed  at  NIST  for  tHCY  and  5MT  are  recognized  as  approved  higher  order  reference  measurement 
+procedures by the Joint Committee on Traceability in Laboratory Medicine (JCTLM) [6].  The certified concentrations 
+apply only to serum thawed to room temperature, 20 C to 25 C (see “Instructions for Storage, Stability, and Use”). 
+ 
+Reference  Concentration  Values:    The  reference  concentrations  for  folic  acid (FA)  and  their  expanded 
+uncertainties  are  listed  in  Table 2.    The  reference  concentrations  were  determined  using  LC/MS/MS-based 
+methods at NIST and CDC.  Because agreement among the methods for this low-level analyte does not meet 
+NIST criteria for a certified value, the results are listed as reference values [7]. 
+ 
+Information  Values:    CDC  provided  additional  results  for  total  folate,  5-formyltetrahydrofolic  acid (5FT), 
+tHCY,  and  vitamin  B12 (cobalamin).    The  values  are  listed  as  method-specific  results  in  Table 3.    For  those 
+analytes for which multiple methods were used, individual results  are provided because the different methods 
+may not be measuring the same entities.  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1955  is  valid,  within  the  measurement  uncertainty 
+specified, until 31 December 2018, provided the SRM is handled and stored in accordance with the instructions 
+given in the certificate (see “Instructions for Storage, Stability, and Use”).  The certification is nullified if the SRM is 
+damaged, contaminated, or otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the analyses at NIST  were  performed by M.J. Welch of the NIST  Chemical 
+Sciences Division. 
+ 
+Analytical measurements at NIST were performed by B.C. Nelson, M.B. Satterfield, and L.T. Sniegoski of the NIST 
+Chemical Sciences Division.  Measurements at CDC were performed by M. Zhang, Z. Fazili, S. Strider, and L. Jia 
+under the direction of C. Pfeiffer. 
+ 
+ 
+
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  31 December 2015 
+Certificate Revision History on Last Page 
+
+SRM 1955 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Robert L. Watters Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 6 
+
+Statistical analysis was provided by A. Hornikova and N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1955  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.    HANDLE 
+PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE.  
+The supplier of this serum has reported that each donor unit of serum or plasma used in the preparation of this product 
+was tested by an FDA-approved method and was found to be nonreactive for HbsAG, HCV, and HIV-1 antibodies.  
+However, no known test method can offer complete assurance that hepatitis B virus, hepatitis C virus, HIV, or other 
+infectious agents are absent from this material.  Accordingly, this human blood-based product should be handled at 
+the  Biosafety  Level 2  or  higher  as  recommended  for  any  POTENTIALLY  INFECTIOUS  HUMAN  SERUM  OR 
+BLOOD SPECIMEN in the CDC/National Institutes of Health (NIH) Manual [8]. 
+ 
+INSTRUCTIONS FOR STORAGE, STABILITY, AND USE 
+ 
+Storage:  The serum is shipped frozen (on dry ice), and upon receipt, should be stored frozen until needed for use.  A 
+freezer temperature of 20 °C is acceptable for storage up to one week.  If a longer storage time is anticipated, the 
+material should be stored at or below 50 °C.  The SRM should not be exposed to sunlight or ultraviolet radiation. 
+Storage of thawed material at room or refrigerator temperatures may result in changes in the analyte concentrations. 
+ 
+Stability:  The material is kept at 80 °C for long-term storage at NIST.  NIST will continue to monitor the stability 
+of the analytes in this material and will notify purchasers of the material of any changes in the certified concentrations. 
+ 
+Use:  Bottles of the SRM to be analyzed should be removed from the freezer and allowed to stand at room temperature 
+until thawed.  After the material is thawed to room temperature, it should be used immediately.  The material should 
+be swirled gently to mix it before aliquots are withdrawn. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source of Material:  SRM 1955 Homocysteine and Folate in Frozen Human Serum was prepared by Aalto Scientific 
+Ltd. (Carlsbad, CA). 
+ 
+Preparation of Material:  The material was prepared from a human serum master pool.  The analyte concentrations 
+in the level 1 and level 2 materials were unfortified.  The analyte concentrations in the level 3 material were fortified.  
+The level 2 material is equivalent to the human serum master pool.  The level 1 material was prepared by diluting the 
+level 2  material  with  phosphate-buffered  saline  solution,  pH 7.04.    The  level 3  material  was  prepared  by  adding 
+appropriate quantities of homocysteine and 5-methyltetrahydrofolic acid to the level 2 material. 
+ 
+ANALYTICAL METHODS 
+ 
+Homocysteine Measurements at NIST:  Homocysteine was measured using three isotope dilution mass spectrometry 
+approaches [13,9].  For the LC/MS and most of the LC/MS/MS measurements, three independent sets were analyzed.  
+A set consisted of two test portions per bottle from two bottles of each of the three levels.  Each test portion was spiked 
+with  a  known  amount  of  the  internal  standard,  homocysteine-d4.    After  reduction  of  the  sample  by  addition  of 
+dithiothreitol (DTT), sample clean-up was performed using anion exchange solid-phase extraction.  The solvent from 
+the extraction was evaporated to <50 µL and the residue was dissolved in 1.5 % (mass concentration) DTT in water.  
+A commercial LC/MS/MS instrument with an electrospray ionization source and a triple quadrupole mass analyzer 
+was  used  for  the  analysis.    The  LC  separations  were  carried  out  using  a  commercial  pentafluorophenyl 
+column (25 cm × 4.6 mm, 5 µm particle diameter)  with  an  isocratic  mobile  phase  at  a  flow  rate  of  0.5 mL/min.  
+Electrospray ionization in the positive mode was used with selected ion monitoring to measure the [M + H]+ ions at 
+m/z 136  and  m/z 140  for  homocysteine  and  homocysteine-d4,  respectively.    Selected  reaction  monitoring  of  two 
+transitions were carried out at m/z 136 → m/z 90 and m/z 136 → m/z 118 for homocysteine and m/z 140 → m/z 94 and 
+m/z 140 → m/z 122  for  homocysteine-d4  on  the  same  samples.    Analyte  concentrations  were  calculated  by  linear 
+interpolation from calibration curves constructed independently for each set of samples.  Three additional sets, each 
+
+                                                           
+
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1955 
+
+Page 2 of 6 
+
+consisting of two aliquots from one vial of each level, were prepared for LC/MS/MS measurements following NIST 
+5MT Method 3 [3] described below with measurements using the MS/MS conditions described above. 
+ 
+For measurements using GC/MS, three independent sets were analyzed.  A set consisted of two test portions per bottle 
+from two bottles of each of the three levels.  Each test portion was spiked with a known amount of the internal standard, 
+homocystine-d8.  DTT in sodium hydroxide solution was used to break disulfide bonds and release homocysteine and 
+homocysteine-d4, which were then isolated by absorption on anion exchange resin, followed by elution, concentration, 
+derivatization with N-methyl-N-(tert-butyldimethylsilyl)-trifluoroacetamide (MTBSTFA), and GC/MS with selective 
+ion  monitoring.    The  GC/MS  measurements were  performed  using  a  mass  selective  detector  with  two  different 
+30-meter capillary columns (one with a 5 % (mole fraction) phenylmethylpolysiloxane stationary phase, the other with 
+50 % phenylmethylpolysiloxane).  Two different pairs of ions (m/z 420/424 and m/z 318/322) were monitored. 
+ 
+Homocysteine Measurements at CDC:  CDC used two methods to measure homocysteine.  These data  were not 
+used to calculate  the certified values, but  are presented to demonstrate  the commutability of this SRM  for routine 
+methods for the determination of homocysteine.  For the first method [10], total homocysteine (tHCY) was measured 
+by isocratic liquid chromatography with fluorometric detection (LC-FD) at 385 nm excitation and 515 nm emission 
+after  reduction  of  protein-bound  and  oxidized  thiols (disulfides  and  mixed  disulfides)  to  free  thiol  with 
+tris(2-carboxyethyl)phosphine (TCEP),  protein  precipitation  with  trichloroacetic  acid,  and  fluorescent 
+derivatization with ammonium 7-fluorobenzo-2-oxa-1,3-diazole-4-sulfonate (SBD-F).  The separation of the 
+obtained  thiolderivatives  was  performed  isocratically  within  7 min,  with  the  use  of  an  acetate  mobile  phase  at 
+pH 5.5.  Cystamine was used as an internal standard.  Quantitation was by peak area ratio (analyte to internal standard) 
+and is based on a three-point standard curve in a serum matrix.  For the second method [11], tHCY was measured by 
+using an automated fluorescence polarization immunoassay (FPIA) from Abbott Diagnostics.  In brief, DTT reduces 
+homocysteine  bound  to  albumin  and  to  other  small  molecules,  homocysteine,  and  mixed  disulfides,  to  free  thiol.  
+S-adenosyl-homocysteine (SAH) hydrolase catalyzes conversion of homocysteine to SAH in the presence of added 
+adenosine.  In the subsequent steps, a specific monoclonal antibody and a fluoresceinated SAH analog tracer constitute 
+the FPIA detection system.  Serum tHCY concentrations were calculated by the Abbott AxSym using a machine-stored 
+calibration curve. 
+ 
+Folate  Measurements  at  NIST:    For  measurements  of  5MT  at  NIST,  three  variations  of  LC/MS/MS-based 
+methodology were used [3,4,9]. 
+ 
+Method 1:  For each sample, a 500 L aliquot of SRM 1955 was spiked with [13C5]-5MT stock standard, immediately 
+diluted  with  an  equal  volume  of  an  aqueous  solution  containing (mass  concentrations)  10 %  ascorbic  acid  and 
+1 % ethylenediaminetetracetic acid (EDTA) and allowed to equilibrate on ice for ≥15 min.  5MT was extracted from 
+samples  using  C18 SPE  cartridges:  methanol,  water,  and  1 % ascorbic  acid/1 % EDTA  solution  were  used  for 
+conditioning,  95+5  water+methanol  solution  was  used  for  washing  and  1 %  ascorbic  acid/1 % formic  acid  in 
+50+50 water+methanol  was  used  for  analyte  elution.    A  commercial  LC/MS/MS instrument  with  an  electrospray 
+ionization source and a triple quadrupole mass analyzer was used for extract analysis.  LC separations were carried 
+out  using  a  gradient  of  formic  acid  in  water  and  methanol  on  a  phenylpropyl  LC column  (3.9 mm × 150 mm, 
+4 μm particle diameter).  LC/MS/MS detection and quantification of 5MT and [13C5]-5MT were conducted in multiple 
+reaction  monitoring (MRM)  mode.    MRM  transitions  for  each  analyte  were  individually  optimized  for  protonated 
+analyte  molecules  [M + H]+  and  stable,  protonated  fragments.    The  relevant  MRM  mass  transitions  were 
+m/z 460 → m/z 313 for 5MT and m/z 465 →m/z 313 for [13C5]-5MT.  Analyte concentrations were calculated by linear 
+interpolation from calibration curves constructed independently for each set of samples. 
+ 
+Method 2:    Test  portions  were  spiked  and  equilibrated  as  with  Method 1.    Proteins  were  precipitated  with 
+metaphosphoric  acid  and  the  remaining  supernatant  was  neutralized  by  the  addition  of  a  solution  containing 
+0.4 mol/L K2HPO4  and  0.5 mol/L NaOH. 
+  5MT  was  extracted  from  samples  using  solid-phase  affinity 
+extraction (SPAE) columns:  a 1 % ascorbic acid (mass concentration) and 0.1 mol/L glycine-HCl solution (pH 3.0), 
+water, and 50 mmol/L potassium phosphate buffer (pH 7.4) were used for conditioning, water was used for washing, 
+and the ascorbic acid/glycine-HCl solution was used for analyte elution.  LC/MS/MS was performed as in Method 1. 
+
+SRM 1955 
+
+Page 3 of 6 
+
+Method 3:  For the analysis of 5MT and FA, sample preparation and instrumentation were as described for Method 1.  
+LC  separations  were  carried  out  using  a  gradient  of  formic  acid  in  water  and  methanol  on  a  C18 LC column 
+(4.6 mm × 150 mm,  5 μm particle  diameter).    LC/MS/MS  detection  and  quantification  of  5MT/[13C5]-5MT  and 
+FA/[13C5]-FA was conducted in multiple reaction monitoring (MRM) mode.  MRM transitions for each analyte were 
+individually  optimized  for  protonated  analyte  molecules  [M + H]+  and  stable,  protonated  fragments.    MRM  mass 
+transitions:    m/z 460 → m/z 313  for  5MT,  m/z 465 → m/z 313  for  [13C5]-5MT,  m/z 442 → m/z 295  for  FA  and 
+m/z 445 → m/z 295 for [13C5]-FA.  Analyte concentrations  were calculated by linear interpolation from calibration 
+curves constructed independently for each set of samples. 
+ 
+Folate and Vitamin B12 Measurements at CDC:  For the measurements of folates (5MT, FA, and 5FT) at CDC 
+using LC/MS/MS [5], the target analytes were quantitatively isolated from 275 μL of the SRM 1955 serum using a 
+phenyl  solid-phase  extraction  cartridge,  then  detected  and  quantified  in  stabilized  serum  extracts  by  positive-ion 
+electrospray ionization LC/MS/MS using an isocratic mobile phase of acetic acid in organic solvent on a C8 analytical 
+column.  13C-labeled folates were used as internal standards.  For the CDC microbiological assay for total folates [12], 
+using a 96-well plate microtiter method, diluted SRM test portions were added to an assay medium containing all of 
+the nutrients except folic acid necessary for growth of Lactobacillus casei (L. casei, NCIB 10463).  The assay medium 
+was then inoculated with L. casei, and the microtiter plate was incubated for 42 h at 37 ºC.  Because the growth of 
+L. casei  is  proportional  to  the  amount  of  total  folate  present  in  the  serum  sample,  the  folate  concentration  was 
+quantified by measuring the turbidity of the inoculated assay medium at 590 nm in a micro plate reader.  For the CDC 
+radioassay for total folates and vitamin B12, a radio-protein binding assay was used.  Test portions of the SRM were 
+combined  with  the  tracers  125I-folate  and  57Co-vitamin B12.    The  mixture  was  boiled  to  inactivate  endogenous 
+folate-binding proteins and to convert the various forms of vitamin B12 to cyanocobalamin.  After cooling, the mixture 
+was combined with immobilized affinity-purified porcine intrinsic factor and folate-binding proteins, incubated for 
+1 h at room temperature, and finally centrifuged and decanted.  The endogenous and labeled folate and B12 compete 
+for the limited number of binding sites on the basis of their relative concentrations and were concentrated in the bottom 
+of  the  tube  in  the  form  of  a  pellet.    The  unbound  folate  and  vitamin  B12  in  the  supernatant  were  discarded.    The 
+radioactivity  associated  with  the  pellet  was  counted.    Standard  curves  were  prepared  by  using  the  pre-calibrated 
+folate/vitamin B12 standards in a human serum albumin base.  The concentration of the folate and vitamin B12 in the 
+SRM was calculated from the standard curve. 
+ 
+ 
+
+Table 1.  Certified Concentration Values(a) for Total Homocysteine  
+and 5-Methyltetrahydrofolic Acid in SRM 1955  
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Level I 
+Level II 
+Level III 
+ 
+ 
+ 
+ 
+ 
+ 
+Level I 
+Level II 
+Level III 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Homocysteine(b) 
+
+(μmol/L) 
+ 
+
+3.98    0.18 
+8.85    0.60 
+
+17.7 
+
+  1.1 
+
+(μg/mL) 
+
+0.538    0.024 
+1.196    0.082 
+2.39    0.15 
+
+ 
+
+ 
+
+5-Methyltetrahydrofolic Acid(c) 
+
+(nmol/L) 
+
+(ng/mL) 
+
+4.26    0.25 
+9.73    0.24 
+
+37.1 
+
+  1.4 
+
+1.96    0.12 
+4.47    0.11 
+17.03    0.64 
+
+ 
+(a) Each certified value is the weighted mean from multiple methods.  A Bayesian approach [13] was used to combine the data from 
+the  multiple  methods  to  determine  the  combined  standard  uncertainties,  uc,  according  to  the  ISO/JCGM  Guide [14].    The 
+expanded uncertainty, U, in the value is calculated as U = kuc with coverage factor, k = 2.  
+
+(b) The measurand is the total concentration of homocysteine reported in Table 1.  Metrological traceability is to the SI derived unit 
+for amount-of-substance concentration (expressed as micromoles per liters) and mass concentration (expressed as micrograms 
+per milliliter). 
+
+(c) The measurand is the total 5-methyltetrahydrofolic acid concentration at each level reported in Table 1.  Metrological traceability 
+is  to  the  SI  derived  unit  for  amount-of-substance  concentration  (expressed  as  nanomoles  per  liters)  and  mass  concentration 
+(expressed as nanograms per milliliter). 
+
+SRM 1955 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Table 2.  Reference Concentration Values(a) for Folic Acid in SRM 1955 
+
+ 
+
+ 
+
+ 
+
+(nmol/L) 
+
+(ng/mL) 
+
+Level I 
+Level II 
+Level III 
+ 
+
+ 
+ 
+ 
+
+0.49    0.17 
+1.05    0.16 
+1.07    0.24 
+
+0.215    0.075 
+0.463    0.071 
+0.47    0.11 
+
+(a) Each reference value is the weighted mean from multiple methods.  A Bayesian approach [13] was used to combine the data 
+from the multiple methods to determine the combined standard uncertainties, uc, according to the ISO/JCGM Guide [14].  The 
+expanded uncertainty, U, in the value is calculated as U = kuc with coverage factor, k = 2.  The measurand is the total folic acid 
+concentration at each level reported in Table 2 based on the methods indicated.  Metrological traceability is to the SI derived 
+unit for amount-of-substance concentration (expressed as nanomoles per liter) and mass concentration (expressed as nanograms 
+per milliliter). 
+
+Table 3.  Method-Specific Information Concentration Values(a) for Total Folate, 
+5-Formyltetrahydrofolic Acid, Total Homocysteine(b), and Vitamin B12 in SRM 1955 
+
+ 
+
+Units 
+
+Level I 
+
+Method 
+
+Method 
+
+Analyte 
+
+Analyte 
+
+Level II 
+
+Concentration 
+
+Concentration(a) 
+
+  0.4 
+  1.2 
+  0.4 
+  0.4 
+  0.3 
+  0.3 
+
+nmol/L 
+nmol/L 
+nmol/L 
+nmol/L
+μmol/L 
+μmol/L 
+nmol/L 
+
+Total Folate 
+Total Folate 
+Total Folate 
+5-FT 
+Homocysteine 
+Homocysteine 
+Vitamin B12 
+
+6.0 
+5.6 
+4.5 
+1.3 
+4.2 
+3.5 
+0.16    0.01 
+
+LC/MS/MS 
+Microbiological 
+Radioassay 
+LC/MS/MS 
+FPIA 
+LC-FD 
+Radioassay 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Sufficient  information  was  not  available  for  a  complete  evaluation  of  uncertainty  for  the  individual  method  results.    The 
+
+LC/MS/MS 
+Microbiological 
+Radioassay 
+LC/MS/MS 
+FPIA 
+LC-FD 
+Radioassay 
+
+LC/MS/MS 
+Microbiological 
+Radioassay 
+LC/MS/MS 
+FPIA 
+LC-FD 
+Radioassay 
+
+13 
+14 
+10 
+2.3 
+8.6 
+8.2 
+0.36    0.05 
+
+41 
+44 
+25 
+3.6 
+17 
+17 
+0.35    0.05 
+
+Total Folate 
+Total Folate 
+Total Folate 
+5-FT 
+Homocysteine 
+Homocysteine 
+Vitamin B12 
+
+Total Folate 
+Total Folate 
+Total Folate 
+5-FT 
+Homocysteine 
+Homocysteine 
+Vitamin B12 
+
+nmol/L 
+nmol/L 
+nmol/L 
+nmol/L 
+μmol/L 
+μmol/L 
+nmol/L 
+
+nmol/L 
+nmol/L 
+nmol/L 
+nmol/L 
+μmol/L 
+μmol/L 
+nmol/L 
+
+  2 
+ 11 
+  3 
+  1.3 
+  1 
+  1 
+
+  1 
+  3 
+  1 
+  0.8 
+  0.4 
+  0.6 
+
+Concentration 
+
+Level III 
+
+Analyte 
+
+Method 
+
+Units 
+
+Units 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+uncertainties are  2 times the standard deviation of the mean of the measurements. 
+
+(b) See Table 1 for the certified values for homocysteine.  Data used to generate the information values for homocysteine provided 
+
+in this table were not included in the certified values. 
+
+SRM 1955 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  Nelson, B.C.;  Pfeiffer, C.M.;  Sniegoski, L.T.;  Satterfield, M.B.;  Development  and  Evaluation  of  an  Isotope 
+Dilution LC/MS Method for the Determination of Total Homocysteine in Human Plasma; Anal. Chem., Vol. 75, 
+pp. 774784 (2003). 
+
+[2]  Satterfield, M.B.; Sniegoski, L.T.; Welch, M.J.; Nelson, B.C.; Pfeiffer, C.M.; Comparison of Isotope Dilution 
+Mass Spectrometry Methods for the Determination of Total Homocysteine in Plasma and Serum; Anal. Chem., 
+Vol. 75, pp. 46314638 (2003). 
+
+[3]  Nelson, B.C.;  Satterfield, M.B.;  Sniegoski, L.T.;  Pfeiffer, C.M.;  Welch, M.J.;  Simultaneous  Quantification  of 
+Homocysteine  and  Folate  in  Human  Serum  or  Plasma  Using  Liquid  Chromatography/Tandem  Mass 
+Spectrometry; Anal. Chem., Vol. 77, pp. 35863593 (2005).  
+
+[4]  Nelson, B.C.;  Pfeiffer, C.M.;  Margolis, S.A.;  Nelson, C.P.;  Solid  Phase  Extraction-Electrospray  Ionization 
+Mass  Spectrometry  for  the  Quantification of  Folate  in  Human  Plasma  or  Serum;  Anal.  Biochem.,  Vol. 325, 
+pp. 4151 (2004). 
+
+[5]  Pfeiffer, C.M.; Fazili, Z.; McCoy, L.;  Zhang, M.; Gunter, E.W.; Determination of  Folate  Vitamers in  Human 
+Serum  by  Stable-Isotope-Dilution  Tandem  Mass  Spectrometry  and  Comparison  with  Radioassay  and 
+Microbiologic Assay; Clin. Chem.,Vol. 50, pp. 423432 (2004). 
+
+[6]  The  list  of  approved  reference  materials  and  reference  measurement  procedures  can  be  found  at  
+
+http://www.bipm.org/jctlm/ (accessed December 2015). 
+
+[7]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington,  DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+December 2015). 
+
+[8]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, D.C.  (2007);  available  at  http://www.cdc.gov/biosafety/publications/bmbl5/index.htm  (accessed 
+December 2015). 
+
+[9]  Satterfield, M.B.;  Sniegoski, L.T.;  Sharpless, K.E.;  Welch, M.J.;  Hornikova, A.;  Zhang, N.-F.;  Pfeiffer, C.M.; 
+Fazili, Z.;  Zhang, M.;  Nelson, B.C.;  Development  of  a  New  Standard  Reference  Material:    SRM 1955 
+(Homocysteine and Folate in Human Serum; Anal. Bioanal. Chem., Vol. 385, pp. 612–622 (2006). 
+
+[10]  Pfeiffer, C.M.; Huff, D.L.; Gunter, E.W.; Rapid and Accurate HPLC Assay for Total Plasma Homocysteine and 
+
+Cysteine in a Clinical Lab Setting; Clin. Chem., Vol. 45, pp. 290292 (1999). 
+
+[11]  Pfeiffer, C.M.;  Twite, D.;  Shih, J.;  Holets-McCormack, S.R.;  Gunter, E.W.;  Method  Comparison  for  Total 
+Plasma  Homocysteine  Between the Abbott IMx  Analyzer and an HPLC  Assay with  Internal  Standardization; 
+Clin. Chem., Vol. 45, pp. 152153 (1999). 
+
+[12]  Molloy, A.M.;  Scott, J.M.;  Microbiological  Assay  for  Serum,  Plasma,  and  Red  Cell  Folate  Using 
+
+Cryopreserved, Microtiter Plate Method;  Methods Enzymol, Vol. 281, pp. 4345 (1997). 
+
+[13]  Liu, H-K.; Zhang, N.-F.; Bayesian Approach to Combining Results from Multiple Methods; Proceedings of the 
+
+Section on Bayesian Statistical Sciences, American Statistical Association Meeting, Atlanta, Georgia (2001). 
+
+[14]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  December  2015);  see 
+also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST 
+Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); 
+available at http://www.nist.gov/physlab/pubs/index.cfm (accessed December 2015). 
+
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    31 December  2015  (Editorial  changes);  26 July  2013  (Extension  of  certification  period;  editorial  changes); 
+11 November 2010 (Update of Table 3 Information Values; extension of certification period; editorial changes); 30 April 2008 (Editorial changes 
+and update of the expiration date); 06 October 2005 (Original certification date). 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 1955 
+
+Page 6 of 6 
+
+

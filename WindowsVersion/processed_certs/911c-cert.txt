@@ -1,0 +1,242 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 911c 
+
+ 
+
+ 
+Cholesterol 
+
+99.2 %  ±  0.4 % 
+
+Certified Cholesterol Mass Faction: 
+
+ 
+This Standard Reference Material (SRM) is certified as a chemical of known purity.  It is intended primarily for use 
+in the calibration and standardization of procedures for the determination of cholesterol in research samples and for 
+routine  evaluations  of  daily  working  standards  used  in  these  procedures.    A  unit  of  SRM 911c  consists  of  2 g  of 
+material. 
+ 
+Certified Value:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all known or suspected sources of bias have been investigated or taken into account [1].  This certified value is the 
+equally  weighted  mean  of  results  obtained  from  the  analytical  methods.    The  expanded  uncertainty  in  the  certified 
+concentration  is  calculated  as  U = kuc.    The  quantity  uc is  the  combined  standard  uncertainty  calculated  based  on  a 
+Bayesian approach in reference 1 and the ISO/JCGM Guide [2].  The coverage factor, k = 2, represents an approximate 
+95 % level of confidence.  The measurand is the total mass fraction of cholesterol.  Metrological traceability to the SI 
+derived unit for mass fraction (expressed as percent). 
+ 
+ 
+ 
+Reference Value:  The major impurity in this material is 5,24-cholestadiene-3β-ol, identified by nuclear magnetic 
+resonance (NMR) analysis.  The reference concentration value of this impurity is based upon measurements by liquid 
+chromatography  mass  spectrometry (LC/MS)  and  liquid  chromatography  with  ultra  violet  detection (LC/UV).    A 
+reference value is a noncertified value that is the best estimate of the true values; however, the value does not meet 
+NIST  criteria  for  certification  and  is  provided  with  an  associated  uncertainty  that  may  reflect  only  measurement 
+precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among 
+  Based  on  the  method  used,  the  measurand  is  the  mass  fraction  of 
+multiple  analytical  methods [1]. 
+5,24-cholestadiene-3β-ol.  Metrological traceability is to the SI derived unit for mass fraction (expressed as a percent). 
+ 
+ 
+ 
+This  reference  value  is  the  equally  weighted  mean  of  results  obtained  from  the  analytical  methods.    The  expanded 
+uncertainty in the certified concentration is calculated as U = kuc.  The quantity uc is the combined standard uncertainty 
+calculated based on a Bayesian approach in reference 3 and ISO/JCGM Guide [2].  The coverage factor, k = 2, represents 
+an approximate 95 % level of confidence. 
+ 
+Expiration  of  SRM  Certificate:    The  certification  of  SRM 911c  is  valid,  within  the  measurement  uncertainty 
+in  accordance  with  instructions  given  in 
+specified, until 31 December 2024, provided the SRM is handled and stored in accordance with instructions given in 
+this  certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  were  provided  by 
+M.J. Welch of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 May 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos Gonzalez, Chief 
+Chemical Sciences Division 
+
+Reference 5,24-Cholestadiene-3β-ol Mass Fraction: 
+
+0.72 %  ±  0.13 % 
+
+Storage  and  Use”). 
+
+NIST
+
+The 
+
+Page 1 of 3 
+
+  
+
+SRM 911c 
+
+Analyses were performed at NIST by M.M. Schantz, L.T. Sniegoski, S. S-C Tai, M. Bedner, and M.J. Welch of the 
+NIST Chemical Sciences Division and D.K. Hancock of the NIST Biochemical Sciences Division. 
+ 
+Statistical consultation was provided by N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+SOURCE, PREPARATION AND ANALYSIS(1) 
+ 
+The material was obtained from Sigma-Aldrich (St. Louis, MO) who performed a vacuum drying step on the material 
+prior to shipping it to NIST. 
+ 
+Proton  NMR  was  used  to  detect  and  identify  impurities  in  the  SRM.    The  primary  impurity  identified  is 
+5,24-cholestadiene-3β-ol.    In  addition  there  are  much  smaller  amounts  of  5,25-cholestadiene-3β-ol  and  two  other 
+unidentified steroids.   
+ 
+Isotope dilution gas chromatography/mass spectrometry (ID/GS/MS) was used to compare the purity of SRM 911c 
+with SRM 911b, the previous lot of this SRM [4].  Gas chromatography with flame ionization detection was performed 
+using  two  different  stationary  phases.    LC/MS  and  LC/UV  were  used  to  measure  impurity  levels,  particularly 
+5,24-cholestadiene-3β-ol. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 911c IS INTENDED FOR REASEACH USE. 
+ 
+STORAGE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 911c should be stored in a tightly‐closed bottle at or below room temperature (–20 °C to 23 °C is 
+recommended).  It should not be subjected to heat, direct sunlight or sources of ultraviolet radiation.  For extended 
+periods of storage after opening, the material should be kept at or below room temperature in a desiccator under inert 
+gas.    It  should  be  allowed  to  warm  to  room  temperature  before  opening.    If  this  procedure  is  followed,  drying  is 
+unnecessary.  Experience at NIST, where SRM 911a, a previous lot, was stored under inert gas at −15 °C, indicated 
+that SRM 911c stored under the same conditions may be stable for as many as 10 years.  If the purity of the material 
+degrades beyond the limits certified, purchasers will be notified by NIST.  If the material is stored in a refrigerator 
+(2 °C to 8 °C), it is recommended that the material should not be used after three years from the date of shipment from 
+NIST.  If it is stored in the dark at room temperature, it is recommended that the material not be used after six months 
+from the date of shipment from NIST. 
+ 
+Preparation  of  Stock  Standard  Solution: 
+in  ethanol 
+(5.00 mmol/L ± 0.02 mmol/L) may be prepared by dissolving 194.9 mg ± 0.1 mg of SRM 911c in 50 mL of  warm 
+absolute ethanol in a 100.0 mL volumetric flask, allowing the solution to cool, and diluting to exactly 100.0 mL with 
+ethanol [5].  The 5.00 mmol/L solution of cholesterol in ethanol should be stored in an all-glass, tightly-stoppered 
+bottle at 0 °C.  Under such conditions this solution should be stable for about four months [6]. 
+ 
+sult 
+Solutions of cholesterol in glacial acetic acid gradually form cholesteryl acetate when stored and errors may result 
+when using this solution [7]. 
+ 
+All constituted solutions of cholesterol should be clear and display no turbidity. 
+
+  A  stock  standard  solution  of  cholesterol 
+
+                                                           
+
+(1)   Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+se.
+SRM 911c 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of  Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government  Printing  Office:  
+Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed May 2016). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee  for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May  2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed May 2016). 
+
+[3]  Liu, H.K.; Zhang, N F.; Bayesian Approach to Combining Results from Multiple Methods; proceedings of the 
+
+Section of Bayesian Statistical Science of American Statistical Society (2001). 
+
+[4]  Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White V, E.; Determination of Serum Cholesterol by a 
+Modification  of  the  Isotope  Dilution  Mass  Spectrometric  Definitive  Method;  Anal.  Chem.,  Vol.  61, 
+pp. 1718−1723 (1989). 
+
+[5]  Fundamental of Clinical Chemistry; Tietz, N, Ed.; W.B. Saunders Co.: Philadelphia, PA, p. 358 (1970). 
+[6]  Henry, R.D.; Clinical Chemistry, Principles and Technics; Hoeber Medical Division, Harper & Row: New York, 
+
+[7]  Klein, B.; Kleinman, N.B.; Esterification of Cholesterol in Glacial Acetic Acid; Clin. Chem., Vol. 20, pp. 90−91 
+
+p. 854 (1967). 
+
+(1974). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  11 May 2016 (Updated storage information; editorial changes); 06 January 2016 (Editorial changes); 28 July 2014 
+(Extension of certification period, editorial changes); 12 May 2009 (Changed the “Instructions for Use” for the amount of cholesterol used in the 
+ 
+stock standard solution from 193.7 mg to 194.9 mg ± 0.1 mg);  10 August 2007 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+mailto:srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+€@ 
+
+» 
+
+SRM 911c 
+
+Page 3 of 3 
+
+

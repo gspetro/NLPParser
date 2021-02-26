@@ -1,0 +1,633 @@
+﻿UL  S.  Departmeniecot  Commerce 
+Malcolne-Baidrige 
+es 
+ele 
+
+wo  ee 
+
+  
+
+National  Bureau  of  Standards 
+Certificate 
+
+Standard  Reference  Material  1587 
+
+Nitrated  Polycyclic  Aromatic  Hydrocarbons  in  Methanol 
+
+This  Standard  Reference  Material  (SRM)  consists  of  four  vials,  each  containing  approximately  1  mL-of  a  methanol 
+solution  of  seven  nitrated  polycyclic  aromatic  hydrocarbons  (N-PAH).  SRM  1587  is  intended  primarily  for  use  in  cali- 
+brating  chromatographic  instrumentation  used  for  the  determination  of  N-PAH  but  can  also  be  used  to  add  known 
+amounts  of  these  compounds  to  methylene  chloride  extracts. 
+
+Certified  Concentrations  of  N-PAH 
+Certified  concentrations  of  the  seven  N-PAH  in  SRM  1587  are  given  in  Table  1.  The  concentration  values  are  certified 
+in  4g/g  units  but  are  also  reported  in  ng/mL  units  for  user  convenience.  The  certified  values  in  Table  |  are  derived  from 
+the  concordant  results  obtained  from  high-performance  liquid  chromatography  (HPLC)  and  gas  chromatography  (GC). 
+These  data  are  given  in  Table  2,  The  N-PAH  used  in  the  preparation  of this  SRM  were  obtained  from  Midwest  Research 
+Institute,  Kansas  City,  MO,  where  they  were  synthesized  under  contract  from  the  Coordinating  Research  Council,  Inc., 
+Atlanta,  GA.  Compound  purities  were  determined  at  Midwest  Research  Institute. 
+Each  compound  was  at  least 
+99  percent  pure  and,  therefore,  no  correction  was  made  for  purity. 
+
+NOTICE  AND  WARNINGS  TO  USERS 
+Expiration  of  Certification:  This  certification  is  valid,  within  the  limits  certified,  for  one  year  from  the  date  of  purchase. 
+In  the  event  that  the  certification  should  become  invalid  before  then,  purchasers  will  be  notified  by  NBS. 
+
+Storage:  Sealed  ampoules,  as  received,  must  be  stored  in  the  dark  at  temperatures  between  —25  and'0  °C. 
+
+Use:  Prior  to  use,  samples  for  analysis  should  be  brought  to  room  temperature,  equilibrated  for  one  hour  and  ultra- 
+sonically  vibrated  for  about  30  seconds,  to  ensure  complete  solubility  of  the  compounds.  Certified  values  are  not 
+applicabie  for  ampoules  stored  after  opening,  even  if  resealed. 
+Aliquots  should  be  withdrawn  from  the  ampoules 
+immediately  after  opening  and  processed  without  delay  for  the  certified  values  in  Table  1  to  be  valid  within  the  stated 
+uncertainty. 
+However,  if  this  is  impossible  or  impractical,  we  recommend  that  after  aliquots  are  removed  from  the 
+ampoules,  they  should  be  transferred  to  amber  containers  and  not  be  stored  at  room  temperature  for  more  than  12  hours 
+before  use.  The  toxicity  or  carcinogenicity 
+/  mutagenicity  of  the  N-PAH  in  this  SRM  has  not  been  precisely  defined; 
+however,  this  material  should  be  treated  as  a  potential  health  hazard. 
+Preparation  and  analytical  determinations  for  this  standard  were  performed  in  the  Organic  Analytical  Research 
+Division,  Center  for  Analytical  Chemistry,  by  W.F.  Kline,  R.M.  Parris,  R.E.  Rebbert,  and  L.T.  Sniegoski. 
+Consultation  on  the  statistical  design  of  the  experimental  work  was  provided  by  R.C.  Paule  of  the  National  Measure- 
+ment  Laboratory. 
+The  coordination  of  the  technical  measurements  leading  to  certification  were  performed  under  the  direction  of 
+W.F.  Kline,  S.A.  Wise,  and  W.E.  May. 
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  Alvarez. 
+
+Gaithersburg,  MD  20899 
+June  25,  1985 
+. 
+
+(over) 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+.
+
+Preparation  and  Analysis 
+
+The  methanol  solution  of  seven  N-PAH  was  prepared  and  ampouled in  the  NBS  Toxic  Chemicals  Handling  Facility. 
+Approximately  6.3  L  of  methanol in  a  7-L  glass  Erlenmeyer  flask  were  purged  with  argon  at  a  flow  rate  of  approximately 
+400  mL/min  for  1.5  hours.  The  mass  of  the  methanol  was  then  determined  using  a  top-loading  balance.  The  flask  was 
+sealed  with  a  *Teflon-covered  stopper  and  covered  with  black  plastic.  An  electrobalance  was  used  to  determine  the  mass 
+of  each  N-PAH  component  added.  The  gold  foil  weighing  boat  containing  the  N-PAH  sample  was  transferred  to  the 
+flask  containing  the  methanol.  After  all  seven  of  the  nitro-PAH  had  been  transferred,  the  headspace  in  the  flask  was 
+again  filled  with  argon  and  the  stopper  was  secured  onto  the  flask.  The  solution  was  magnetically  stirred  for  20  hours in 
+the  dark  at  room  temperature.  Each  2-mL  amber  ampoule  was  purged  with  argon  at  a  flow  rate  of  approximately 
+600  mL/min  just  prior  to  the  addition  of  approximately  one  mL  of  solution  to  the  ampoule  which  was  then  flame  sealed. 
+The  solution  was  not  stirred  during  the  ampouling  process.  An  argon-filled  Teflon  gas  bag  was  used  as  a  reservoir  of 
+argon  to  fill  the  headspace  of  the  flask  created  as  the  solution  was  removed  during  the  ampouling  process. 
+
+Six  randomly  selected  ampoules  were  analyzed  in  duplicate  by  GC  on  a  DB-5  (30  m  x  0.25  mm  I.D.  x  0.25  um  film) 
+column  using  helium  as  a  carrier  gas  together  with  flame  ionization  (FID)  detection.  The  column  was  temperature 
+programmed  from  60  to  240  °C  at  a  rate  of  30  °C/min  and  from  240  to  270°C  at  a  rate  of  10°C/min.  Quantification 
+was  accomplished  using  benz{a]anthracene  as  an  internal  standard.  Two  independently  prepared  calibration  solutions 
+were  used  to  establish  detector  response  factors. 
+A  representative  chromatogram  from  the  GC  analyses  is  shown  in 
+Figure  1. 
+
+Sixteen  randomly  selected  ampoules  were  analyzed  in  duplicate  by  HPLC  on  a  Cig  column  *(Zorbax  ODS)  using  a 
+methanol/water  mobile  phase  with  UV  detection  at  254  nm.  Separation  of  the  N-PAH  was  accomplished  using  an 
+isocratic  mobile  phase  at  70  percent  methanol  in  water  for  10  minutes,  followed  by  a  linear  gradient  to  100  percent 
+methanol  in  20  minutes.  Column  temperature  was  maintained  at  30°C. 
+Quantification  was  accomplished  using 
+fluorene  as  an  internal  standard.  Three  independently  prepared  calibration  solutions  were  used  to  establish  detector 
+response  factors. 
+A  representative  chromatogram  from  the  HPLC  analyses is  shown in  figure  2. 
+
+In  addition  to  the  chromatograms  provided  in  figures  1  and  2,  GC  and  HPLC  retention  index  data  are  provided  to  assist 
+the  user  in  identifying  the  individual  N-PAH  compounds  in  this  SRM.  These  data  are  not  certified  and  are  provided  for 
+information  only.  GC  retention  index  data  are  listed  in  Table  3.  HPLC  retention  indices  for  the  N-PAH  on  both  a 
+monomeric  and  a  polymeric  C-18  column  and  using  methanol/water  and  acetonitrile  /  water  mobile  phase  are  provided 
+in  Table  4. 
+
+*The  use  of  a  “trade  name”  is  for  identification  only,  and  does  not  imply  endorsement  of  the  product  by  the  National 
+Bureau  of  Standards.
+
+Table  | 
+
+Certified"  and  Information  Values  for  SRM  _1587 
+
+2-Nitrofluorene 
+
+9-Nitroanthracene 
+
+3-Nitrofluoranthene 
+
+1-Nitropyrene 
+
+7-Nitrobenz{a  anthracene 
+6-Nitrochrysene 
+6-Nitrobenzo[a]pyrene 
+
+(ug/8)_ 
+9.67  +  0.39° 
+
+§.01+0.11 
+
+9.24  +  0.06 
+
+8.95  +0.28 
+
+9.27  +  0.23 
+8.13+0.11 
+(6.1) 
+
+(ug/mL)” 
+7.64  +0.31° 
+
+3.96  +  0.09 
+
+7.30  +  0.05 
+
+7.07  £0.22 
+
+7,32  £0.18 
+6.42  £0.09 
+(4.8)° 
+
+  
+
+The  uncertainties 
+
+“The  certified  values  and  associated  uncertainties  were  derived  from  the  weighted  combination  of  liquid 
+and  gas  chromatographic  data  as  described  by  Paule  and  Mandel  in  “Consensus  Values  and  Weighting 
+Factors,”  Journal  of  Research  of  the  National  Bureau  of  Standards,  Vol.  87,  No.  5,  Sept-Oct  (1982), 
+pp  377-385. 
+“These  values  are  provided  for  user  convenience  and  were  obtained  from  the  certified  concentration  in 
+ug/g. 
+apply  only  at  23  °C.  This  SRM  may  be  used  between  19  and  27  °C,  but  a 
+concentration  change  of  up  to  1%  will  occur  because  of  the  change  of  the  density  of  methanol  with 
+temperature. 
+*The  listed  uncertaintes  are  two  standard  deviations  of  the  values  and  include  both  within-  and  between- 
+analytical  method  differences  and,  where  observed,  vial-to-vial  variability. 
+‘Concentration  data  for  6-nitrobenzo{a]pyrene  is  provided  for  information  only.  The  analytical  data  for 
+6-nitrobenzo{a}pyrene  exhibited  the  largest  uncertainty  and  largest  between-bottle  variability.  Also,  the 
+solubility  of  this  compound  in  the  SRM  solution  appears  to  be  borderline. 
+
+Summary  of  Results  by  Method  Used  for  Quantification 
+
+Table  2 
+
+wee  eee  Concentration  (ug/g)  ------ 
+
+Gas  Chromatography 
+9.51  +  0.22" 
+
+Liquid  Chromatography 
+9.81  £  0.16" 
+
+2-Nitrofluorene 
+
+9-Nitroanthracene 
+
+3-Nitrofluoranthene 
+
+1-Nitropyrene 
+
+7-Nitrobenz{ajanthracene 
+
+6-Nitrochrysene 
+
+6-Nitrobenzo[a]pyrene 
+
+5.08  +  0.08 
+
+9.30  +  0.12 
+
+9.09  +  0.14 
+
+9.39  +  0.14 
+
+8.21 
+
++  0.16 
+
+6.09  +  0.30 
+
+4.96  +  0.04 
+
+9.23  +  0.06 
+
+8.81  +  0.12 
+
+9.15  +  0.08 
+
+8.09  +  0.06 
+
+6.03  +  0.16 
+
+  
+
+“The  listed  uncertainties  represent  +  two  standard  deviations  of  the  average  values  given.  The  uncertainties  also  include,  where 
+observed,  the  vial-to-vial  variability,  but  does  not  include  the  variability  between  the  two  methods.
+
+Table  3 
+
+Gas  Chromatographic  Retention  Indices* 
+
+  
+
+Compound 
+
+2-Nitrofluorene 
+9-Nitroanthracene 
+
+3-Nitrofluoranthene 
+
+1-Nitropyrene 
+
+7-Nitrobenz[a]anthracene 
+
+6-Nitrochrysene 
+
+6-Nitrobenzo[a]pyrene 
+
+RI 
+
+(352.07) 
+(356.68) 
+
+(413.05) 
+
+(421.03) 
+
+(448.96) 
+
+(460.47) 
+
+(501.71) 
+
+RI  (From  Literature) 
+353.06",  352.17 
+357.42",  356.95° 
+
+413.34° 
+421.48°,  421.08° 
+
+501.71° 
+
+  
+
+*The  retention  index  values  are  not  certified  and  are  provided  for  information  only.  They 
+were  determined  using  the  method  described  by  Lee  et  al.  in  Anal.  Chem.  5],  768  (1979). 
+*D.L.  Vassilaros,  R.C.  Kong,  D.W.  Later,  and  M.L.  Lee,  J.  Chromatogr.  252,  1  (1982). 
+“p.J.  Doherty,  R.M.  Hoes,  A.  Robbat,  Jr.,  and  C.M.  White,  Anal.  Chem.  56,  2697  (1984). 
+4C.M.  White,  A.  Robbat,  Jr.,  and  R.M.  Hoes,  Chromatogr.  17,  605  (1983). 
+
+Table  4 
+
+Liquid  Chromatographic  Retention  Indices* 
+
+  
+
+Compound 
+
+2-Nitrofluorene 
+
+9-Nitroanthracene 
+
+1-Nitropyrene 
+
+ 3-Nitrofluoranthene 
+
+7-Nitrobenz[a]anthracene 
+
+6-Nitrochrysene 
+
+6-Nitrobenzo[a  ]pyrene 
+
+woe  -  Logarithm  (RD 
+
+~s  “= 
+
+  
+
+Monomeric  Cig 
+(Zorbax  ODS) 
+3 
+(2.33). 
+
+a.. 
+(2.45) 
+
+Polymeric  Cig 
+(Vydac  TP  201) 
+D 
+Cc. 
+_  (2.65) 
+
+(2.53) 
+
+(3.27) 
+
+(3.35) 
+
+(3.55) 
+
+(3.75) 
+
+(4.19) 
+
+(2.70) 
+
+(3.31) 
+
+(3.31) 
+
+3.7) 
+
+(3.74) 
+
+(4.77) 
+
+(2.64) 
+(2.83) 
+(3.42) 
+(3.48) 
+(3.75) 
+(3.80) 
+(4.40) 
+
+(2.65) 
+(3.38) 
+(3.47) 
+(3.59) 
+(3.76) 
+(4.45) 
+
+  
+
+*  ‘The  retention  index  values  are  not  certified  and  are  provided  for  information  only.  They  were 
+determined  using  the  procedure  described  by  Wise  et  al.  in  J.  Chromatogr.  Sci.  17,  457  (1981). 
+‘Mobile  phase: 
+8  Mobile  phase:  75  percent  acetonitrile  in  water 
+
+80  percent  methanol  in  water 
+
+©  Mobile  phase: 
+
+80  percent  methanol  in  water 
+
+PMobile  phase: 
+
+60  percent  acetonitrile  in  water
+
+  
+
+    
+
+  
+
+  
+
+Y
+
+   
+
+Lo 
+L 
+C_ C 
+
+  
+
+-2-NITROFLUOARENE 
+9—NITROANTHAACENE 
+
+BENZ  (A)  ANTHRACENE  (INT. 
+
+STD.) 
+
+= 
+
+  
+
+  
+
+  
+
+4-NITROPYRENE 
+
+3-NITROFLUOQRANTHENE 
+
+(A)  ANTHRACENE 
+7-NITROBENZ 
+
+cc  6-NITROCHRYSENE 
+
+  
+    
+  
+
+cr  6~NITROBENZO  (A)  PYRENE 
+
+  
+
+ 
+y
+t
+a
+n
+m
+o
+
+ 
+p
+*
+
+9
+9
+
+ 
+S
+a
+d
+V
+H
+V
+I
+T
+O
+N
+
+ 
+0
+4
+
+ 
+S
+H
+W
+
+ 
+P
+T
+S
+8
+Z
+
+ 
+W
+O
+N
+O
+-
+N
+I
+L
+H
+V
+L
+A
+G
+
+ 
+d
+V
+H
+
+ 
+I
+N
+
+ 
+W
+A
+L
+H
+V
+N
+O
+T
+
+  
+
+  
+
+  
+
+  
+
+2-NITROFLUORENE 
+
+S-NITROANTHRACENE 
+
+FLUORENE  (INT. 
+
+STD) 
+
+  
+
+  
+
+| 
+
+4—-NITROPYRENE 
+
+3-NITROFLUOQRANTHENE 
+
+i 
+
+(A)  ANTHRACENE 
+7-NITROBENZ 
+
+6B-NITROCHRYSENE 
+
+L 
+
+6-NITROBENZO  (A)  PYRENE 
+
+  
+
+ 
+:
+Y
+S
+
+a
+ 
+o
+A
+t
+3
+H
+S
+S
+O
+-
+d
+H
+V
+S
+S
+
+ 
+7
+9
+
+ 
+S
+a
+d
+V
+H
+V
+I
+T
+O
+N
+
+ 
+o
+4
+
+ 
+S
+H
+W
+
+ 
+T
+G
+8
+Z
+
+ 
+W
+O
+N
+O
+-
+N
+I
+L
+H
+V
+L
+S
+G
+
+  
+
+ 
+d
+V
+H
+
+ 
+I
+N
+
+ 
+W
+A
+L
+H
+V
+N
+O
+J
+
+

@@ -1,0 +1,278 @@
+﻿ 
+
+ 
+ 
+
+National Institute of Standards & Technology 
+
+Report of Investigation 
+ 
+Reference Material 8091 
+
+Scanning Electron Microscope Sharpness Standard  
+ 
+
+Serial No.  SAMPLE 
+
+ 
+ 
+ 
+This  Reference  Material  (RM)  is  intended  primarily  for  use  in  checking  the  sharpness  performance  of  scanning 
+electron microscopes.  It is supplied as a small (2 mm × 2 mm) diced semiconductor chip.  This sample is capable of 
+being  mounted  directly  onto  a  wafer,  wafer  piece,  or  specimen  stub  for  insertion  into  a  laboratory  or  wafer 
+inspection scanning electron microscope (SEM).  The chip can also be mounted onto a ‘drop-in’ wafer type sample 
+holder.1  RM 8091 is fully compatible with state-of-the-art integrated circuit technology.  
+ 
+Description of RM Unit:  Each RM 8091 chip specimen is mounted on gel-pack inside a plastic box that, in turn, is 
+stored inside a foam lined wooden box to protect it from damage and to keep particle contamination to a minimum.  
+The utmost care should be taken in handling and mounting this specimen.  One floppy disk containing two image 
+files  and  one  copy  each  of  four  published  articles  are  included  with  each  RM  8091  unit.    The  first  file  is  a 
+well-focused and stigmatic image (focused); the second file is an image with intentionally induced astigmatism in 
+the  image  (astigmatic).    These  files  are  the  ones  used  to  develop  the  following  documentation  included  with  this 
+Report  of  Investigation:    Postek,  M.T.  and  Vladar, A.E.,  “Image  Sharpness  Measurement  in  Scanning  Electron 
+Microscopy–Part  I,”  SCANNING  Vol.  20,  1-9  (1998);  Vladar,  A.E.,  Postek,  M.T.,  and  Davidson,  M.P.,  “Image 
+Sharpness  Measurement  in  Scanning  Electron  Microscopy–Part  II,”  SCANNING  Vol.  20,  24-34  (1998);  Zhang, 
+N.F., Postek, M.T., Larrabee, R.D., Vladar, A.E., Keery, W.J., and Jones, S.N., “Image Sharpness Measurement in 
+Scanning  Electron  Microscopy–Part  III,”  SCANNING  Vol.  21,  246-252  (1999);  Vladar,  A.E.,  Postek,  M.T., 
+Zhang, N.F.,  Larrabee,  R.D.,  Jones,  S.N.,  and  Hajdaj,  R.E.,  “Reference  Material  8091:  New  Scanning  Electron 
+Microscope Sharpness Standard,” SPIE Microlithography (2001). 
+ 
+The  technical  direction  for  this  reference  material  was  provided  by  M.T.  Postek  and  A.E.  Vladar  of  the  NIST 
+Precision Engineering Division.  Acknowledgment is also given for the technical assistance provided by N.F. Zhang 
+of the NIST Statistical Engineering Division and R.D. Larrabee, S.N. Jones, and W.J. Keery of the NIST Precision 
+Engineering Division. 
+ 
+The  support  aspects  involved  in  the  issuance  of  this  RM  were  coordinated  through  the  NIST  Standard  Reference 
+Materials Program by N.M. Trahey. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  05 July 2001 
+ 
+
+John Rumble, Jr., Acting Chief 
+Standard Reference Materials Program 
+
+Dennis A. Swyt, Chief 
+ Precision Engineering Division 
+
+te, VY 
+
+—  XX.
+
+                                                           
+
+1Aluminum wafer drop-in type sample holders are available for purchase with this RM in two sizes, 150 mm (6 in) D 
+and  200 mm  (8  in)  D.  The  holders  are  identified  as  RM  9951  and  RM  9952,  respectively,  and  can  be  ordered  with  RM 8091 
+through the NIST SRM Program Sales Office. 
+
+Page 1 of 4 
+
+RM 8091  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+Introduction:  All SEMs, whether they are in a laboratory or on the production line, slowly lose performance as the 
+instruments are used.  Loss in image quality also means loss in measurement quality.  Loss of performance is due to 
+a  number  of  contributing  factors,  including  misalignment,  contamination,  and  increases  in  source  diameter.  
+Identifying  a  loss  in  “sharpness”  is  one  way  to  recognize  this  performance  decrease [1,2].    RM  8091  is  intended 
+primarily for use in routinely checking the sharpness performance of SEMs.  It is designed to be used in conjunction 
+with the NIST/SPECTEL SEM Monitor Program [3], the NIST Kurtosis Program [4], the University of Tennessee 
+SMART Program [5], or the analytical procedures proposed by Fanget et al. [6].  
+ 
+General Discussion:  Fully automated or semi-automated SEMs are now commonly used in the laboratory and in 
+semiconductor production and other forms of manufacturing.  Testing and proving that the instrument is performing 
+at  a  satisfactory  level  of  sharpness  is  an  important  aspect  of  quality  control.    In  industrial  applications,  such  as 
+automated  online  semiconductor  production,  users of SEM  metrology  instruments  want  to  have  these instruments 
+function without human intervention for long periods of time.  To accomplish that, there needs to be some simple 
+criterion, or indication, of when an SEM needs servicing or other attention.  At the present time, no self-testing is 
+incorporated  into  the  majority  of  these  instruments  to  verify  that  the  instrument  is  operating  at  a  satisfactory 
+performance  level.    Therefore,  there  is  a  growing  realization  of  the  need  for  the  development  of  a  procedure  for 
+periodic performance testing. 
+ 
+A degradation of the sharpness of the image of a suitable test object is one of several possible indicators of the need 
+for  maintenance.    Postek  and  Vladar  [1]  published  the  fundamental  philosophy  and  a  procedure  based  on  this 
+sharpness  principle.    The  basic  procedure has  subsequently  been  refined  into  a  user-friendly,  stand-alone  analysis 
+system [2,3].  This concept is based on the objective characterization of the spatial Fourier transform of the SEM 
+image of a test object for this purpose and the development of appropriate analytical algorithms for characterizing 
+sharpness.    The  main  idea,  as  put  forth  in  those  papers,  is  that  an  instrument  can  be  objectively  tested  in  an 
+automated manner, and the procedure described therein is one possible solution, and the solution provided as one 
+approach to the problem.  Zhang et al. [4,7] presented an alternative statistical measurement approach known as the 
+multivariate  kurtosis.    Recently,  Joy  [5]  developed  SMART  routines  to  measure  instrument  performance  as  well.  
+Each  of  these  methods  can  successfully  measure  the  sharpness  of  SEM  images  using  an  appropriate  test  sample.  
+RM  8091 was  primarily  designed for use with  the  current  SEM  Monitor  program  [3];  however,  this  SRM  can  be 
+used with the other methods described above.  
+ 
+NOTE on the Sharpness of SEM Images:  It is known that the low frequency changes in the video signal contain 
+information about the large features, and the high frequency changes carry information of finer details.  When an 
+SEM image has fine details at a given magnification, namely, there are more high frequency changes in it, it is said 
+to  be  sharper.    A  procedure  based  on  the  Fourier  transform  technique  on  SEM  images  that  is  capable  of  high-
+resolution operation, was proposed by Postek and Vladar [1].  Procedures based on the Fourier transform technique 
+can also be found in References [8-10].  Because SEM images are composed of two-dimensional arrays of data, the 
+two-dimensional  Fourier  transform  generates  two-dimensional  spatial  frequency  spectra.    Based  on  the  computed 
+spatial frequency spectra of selected SEM images, it can be observed that when one SEM image is visually sharper 
+than  a  second  image,  the  high  spatial  frequency  components  of  the first  image  are  larger  than  that  of  the  second.  
+Zhang  et  al.  [4,7,11]  have  published  an  alternative  statistical  analysis  method  based  on  the  Fourier  transform  of 
+SEM images.  This method is in the public domain and can be adapted for use by any interested party. 
+ 
+RM 8091:  RM 8091 is one type of a class of samples appropriate for testing the sharpness of SEMs.  The “ideal” 
+sample  for  the  sharpness  evaluation  would  have  diversified  size  features  with  exactly  known  structure  in  all 
+directions  and  dimension  ranges.    This  type  of  sample  would  be  “fractal–like,”  allowing  the  user  to  measure 
+accurately the geometric parameters of the primary electron beam.  Because no such sample exists, the only choice 
+is to find or produce artifacts that, at least in the most important magnification ranges, have satisfactory structure.   
+
+~~  ™|  7
+
+RM 8091  
+
+ 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+Beyond  the  geometry  requirement,  the  sample  must  yield  reasonably  noiseless  images  with  good  contrast  in  the 
+upper magnification range.  A number of different types of samples have been tested for their applicability to the 
+sharpness technique.  The conclusion is that the following characteristics should be present in any sample used for 
+determination of sharpness. 
+ 
+1.  The sample must be able to be formed or placed on or into a semiconductor wafer. 
+2.  Because  the  technique  is  used  in  automated  wafer  fabrication  instrumentation,  the  sample  must  be  able  to 
+
+approximate the product being viewed. 
+
+3.  The  specimen  must  be  solid  to  avoid  any  possible  particle  contamination  of  the  semiconductor  wafer  during 
+processing.  Therefore, latex spheres or zinc oxide powder (common SEM standards) are eliminated from the 
+possibilities. 
+
+4.  The sample cannot be a source of doping material.  Many semiconductor wafer-processing facilities are trying 
+to  avoid  any  use  of  specimens  containing  gold  because  of  the  fear  of  unwanted  doping  of  silicon  wafers.  
+Therefore, samples, such as gold–on–carbon, are also eliminated as potential samples.  
+
+ 
+
+ 
+
+ 
+Figure  1.    RM  8091  Sample.    Etched  grass;  (a)  SEM  image  of  a  silicon  sample,  “grass,”  that  is  a  result  of 
+preferential  masking  during  the  reactive  ion  etching.    (b)  An  AFM  image  that  illustrates  the  three-dimensional 
+structure of the grass sample.  (Field width = 180 nm). 
+ 
+The etching artifact “grass” meets the major characteristics of the evaluation sample as described above and can be 
+used for both laboratory and online instrumentation (Figure 1).  A quantity of the grass samples was developed in 
+collaboration with B.L. Newell, formerly of Texas Instruments, Dallas, TX.  The grass sample was selected as the 
+sample of choice, although other types of materials were explored by Postek et al. [12] for suitability as a sharpness 
+standard  sample.    Throughout  all  the  testing,  the  original  targeted  grass  material  was  always  the  specimen 
+demonstrated to be the best for the purpose.  The actual production of an SEM specimen with a surface structure 
+containing higher spatial frequencies than the imaging capabilities of good quality, present day SEMs is not trivial.  
+Several different approaches were evaluated and the most promising always remained this etching artifact.  Attempts 
+to generate a larger quantity of the grass samples or other similarly suitable substitute were unsuccessful; therefore, 
+the original limited quantity of artifacts were diced into approximately 2 mm × 2 mm size chips for this release as 
+RM  8091.    At  the  magnifications  used  for  analysis  of  the  instrument  sharpness,  there  are  over  1  million  sites 
+available.  
+
+RM 8091  
+
+ 
+
+Page 3 of 4 
+
+ 
+
+ 
+Specimen  Contamination:    The  deposition  of  contamination  on  the  surface  of  any  specimen  in  the  SEM  is  a 
+pervasive  problem.    The  surface  roughness  of  RM  8091  makes  this  standard  less  susceptible  to  the  effects  of 
+contamination.  However, as with any SEM inspection, care must be taken to always operate the instrument on a 
+clean area and not dwell too long on any particular area of the RM 8091 surface.  
+ 
+Conclusions:  RM 8091 has been developed as a usable artifact for the testing of sharpness of an SEM, whether the 
+instrument is used in the laboratory or the production environment.  The surface structure of this material is designed 
+to have greater spatial frequencies than can be imaged by the SEM under evaluation.  Therefore, the analysis of the 
+high spatial frequency content of the SEM images of the structure on these images can form the basis of measuring 
+the SEM sharpness capabilities.  It has been found convenient and fast to perform this analysis by examination of 
+the two-dimensional Fourier transform of the SEM image.  It is anticipated that the use of RM 8091, along with an 
+appropriate  imaging  analysis,  will  lead  to  a  simple  quantitative  criterion  to  determine  when  an  SEM  needs 
+adjustment and/or maintenance.  A secondary use of this RM is for the evaluation of the deposition of contamination 
+by the SEM electron beam. 
+ 
+
+REFERENCES 
+
+ 
+[1]  Postek, M.T. and Vladar, A.E., “SEM Sharpness Evaluation Using the Sharpness Criterion,” Proceedings SPIE 
+
+2725, pp. 504-514, (1996). 
+
+SCANNING 20, pp. 1-9, (1998). 
+
+[2]  Postek,  M.T.  and  Vladar,  A.E.,  “Image  Sharpness  Measurement  in  Scanning  Electron  Microscopy-Part  I,” 
+
+[3]  Vladar,  A.E.,  Postek,  M.T.,  and  Davidson,  M.P.,  “Image  Sharpness  Measurement  in  Scanning  Electron 
+
+Microscopy-Part II,” SCANNING 20, pp. 24-34, (1998). 
+
+[4]  Zhang,  N.F,  Postek,  M.T.,  and  R.D.  Larrabee,  “Image  Sharpness  Measurement  in  Scanning  Electron 
+
+[5] 
+
+Microscopy-Part III. Kurtosis,” SCANNING 21, pp. 256-262, (1999). 
+Joy,  D.C.,  “SMART  –  Routines  to  Measure  SEM  Resolution  and  Performance,”  SCANNING  22(2), 
+pp. 110-111, (2000). 
+
+[6]  Fanget,  G.L.,  Martin,  H.H.,  and  Florin,  B.,  “Survey  of  Scanning  Electron  Microscopes  Using  Quantitative 
+
+Resolution Evaluation,” SPIE Proceedings 3050, pp. 80-92, (1997). 
+
+[7]  Zhang,  N.F.,  Postek,  M.T.,  Larrabee,  R.D.,  and  Vladar,  A.E.,  “Multivariate  Kurtosis  for  Measuring  Image 
+Sharpness,” Proceedings of the 15th International Workshop on Statistical Modeling: New Trends in Statistical 
+Modeling, pp. 529-532, (2000). 
+
+[8]  Ong, K.H., Phang, J.C.H., and Thong, J.T.L., “A Robust Focusing and Astigmatism Correction Method for the 
+
+Scanning Electron Microscope,” SCANNING 19, pp. 553-563, (1998). 
+
+[9]  Ong, K.H., Phang, J.C.H., and Thong, J.T.L., “A Robust Focusing and Astigmatism Correction Method for the 
+Scanning Electron Microscope - Part III: An Improved Technique,” SCANNING 20, pp. 357-368, (1998). 
+[10]  Dodson,  T.A.  and  Joy,  D.C.,  “Fast  Fourier  Transform  Technique  for  Measuring  SEM  Resolution,”  12th 
+
+[11]  Zhang,  N.F.,  Postek,  M.T.,  and  R.D.  Larrabee,  “Statistical  Measure  for  the  Sharpness  of  the  SEM  Image,” 
+
+Proceedings of ICEM, pp. 406-407, (1990). 
+
+Proceedings SPIE 3050, pp. 375-387, (1997). 
+
+[12]  Postek,  M.T.,  Vladar,  A.E.,  Zhang,  N.F.,  and  Larrabee,  R.D.,  “Potentials  of  On-line  Scanning  Electron 
+Microscope Performance Analysis Using NIST Research Material 2091,” Proceedings SPIE 3998, pp. 42-56, 
+(2000). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+ 
+
+RM 8091  
+
+ 
+
+Page 4 of 4 
+
+

@@ -1,0 +1,788 @@
+﻿Staves  of ©
+
+National Institute of Standards & Technology 
+Certificate 
+Standard Reference Material® 2115 
+
+ 
+
+ 
+
+ 
+Low-Energy Izod Impact Specimen 
+ 
+Evaluation Specimens for Izod Impact Machines 
+ 
+Lot No.:  ZZ 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in the evaluation of Izod machines in accordance 
+with the current ASTM Standard E23 [1].  Each SRM consists of a set of individual 10 mm × 10 mm × 75 mm specimens 
+needed to perform one evaluation.  This SRM complies with ASTM Standard E23 dimensional requirements for the Izod 
+(Cantilever Beam) impact specimen, Type D, geometry.   
+ 
+Material Description:  SRM 2115 is made from 4340 alloy steel.  The bars are finished to length, stamped, heat-treated, 
+and machined in SRM specimen lots of up to 1200.  Each specimen has a lot number (ZZ-xx, where the x’s indicate the 
+sequential lot number) and an identification number (three or four digits) stamped on one end of the specimen.   
+ 
+SRM Certification Procedure:  Specimens taken at random from each SRM lot are tested by the NIST Materials 
+Reliability Division on its Izod reference machine (formerly a Charpy V-Notch reference machine).  The specimen data 
+generated are then statistically evaluated to assure the homogeneity of the lot, establish the certified value, and determine 
+the number of SRM specimens required for a user to perform a valid test.  See Table 1 for the approximate energy range 
+within which the individual certified values should fall.  A NIST certified value is a value for which NIST has the highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or accounted for by 
+NIST [2]. 
+ 
+NOTE:  THIS IS NOT A CERTIFIED VALUE.  THIS IS THE RANGE WITHIN WHICH THE BATCHES OF 
+SPECIMENS WILL FALL. 
+ 
+
+Table 1.  Approximate Izod SRM Energy Ranges 
+
+ 
+
+ 
+
+ 
+ 
+
+Range 
+
+J 
+Ft lbf 
+
+Energy Units 
+
+13 – 25 
+10 – 15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Expiration of Evaluation:  The evaluation report issued on an acceptable machine is valid for one year from the date 
+that the SRM was tested.  If a user’s machine is moved or undergoes any major repairs or adjustments, the current 
+evaluation will be invalidated, and the machine must be retested and reverified.  
+ 
+Maintenance of SRM Value Assignment:  NIST will monitor this SRM over the period of its value assignment. If 
+substantive technical changes occur that affect the value assignment before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  evaluation  of  test  specimens  and 
+machines, evaluation of test results, and issuance of the report on machine performance are under the direction of 
+T. Siewert, R. Santoyo, and C. McCowan of the NIST Materials Reliability Division (Boulder, CO).   
+ 
+Consultation on the statistical design of the experimental work and evaluation of the data were provided by J. Splett of 
+the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  14 August 2006 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephanie Hooker, Chief 
+Materials Reliability Division 
+
+SRM 2115 
+
+Page 1 of 2 
+
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+This  program  is  established  in  the  same  office  as the Charpy Reference Program, therefore, further information is 
+available  from  the  NIST  Charpy  Program  Coordinator:  telephone  (303) 497-3351;  fax  (303)  497-5939;  or  e-mail 
+charpy@boulder.nist.gov.  The lot number and energy results of the tested specimens must be provided in order to obtain 
+certified values by telephone or fax.   
+ 
+NOTICE TO USERS 
+ 
+Important Information:  Shipping charges for the return of broken specimens are the responsibility of the user.  The 
+mailing label provided with each SRM must be used to expedite shipping and, for overseas shipments, clearance by 
+U.S. Customs. 
+ 
+Note to International Customers:  Regular overseas shipments of broken specimens should be sent airmail so that after 
+they are cleared by U.S. Customs, they can be forwarded directly to NIST-Boulder.  If a more rapid shipping mode is 
+necessary, choose an overnight delivery service that will handle U.S. Customs clearance AND will deliver directly to 
+NIST-Boulder.  Unless such delivery is assured, air freight packages may be returned to the customer by U.S. Customs. 
+ 
+Storage:    The SRMs are composed of specimens anticipated to have an indefinite shelf life under normal storage 
+conditions.  Each specimen is coated with oil, wrapped in a corrosion inhibiting paper, and sealed in a plastic envelope.  
+It is recommended that the specimen be retained in this package to protect them from moisture until used.  The protective 
+oil coating should be wiped from each specimen just prior to testing. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Prior to testing an Izod impact machine, the machine should be checked to assure compliance with the appropriate 
+sections of the current ASTM Standard E23 [1].  As the Izod SRM is a new product, the standard does not give specific 
+directions, but most procedures follow those of the Charpy specimens.  SRM 2115 is to be tested at 21 °C ± 1 °C 
+(70 °F ± 2 °F).  All SRM specimens are to be tested in accordance with the testing procedures of the appropriate sections 
+of the current ASTM Standard E23.  All specimens are to be tested at the same time.  An acceptable machine is expected 
+to produce an average value similar to those obtained on the reference machine.  Although we do not yet have much data, 
+the preliminary data indicates that machines in good operating condition should produce values similar to those in the 
+Charpy Program, within 1.4 J (1.0 ft·lbf) or 5 % of the certified energy value, whichever is greater, providing the 
+specimens appear to have normal markings.   
+ 
+Evaluation of User’s Machine:  The NIST Izod Program Coordinator will issue a report of findings to the user’s facility 
+upon receipt of the fractured specimens and completed questionnaire: Questionaire for Izod Impact Machine Evaluation. 
+If the machine to be verified produces acceptable values and the specimens appear to have normal markings, this report 
+will verify its conformance.  If the machine produces values outside the expected tolerance of the certified energy values 
+or the specimens have abnormal markings, the report may suggest repair or replacement of machine parts, changes in 
+testing techniques, or other appropriate corrective actions.  Fractured specimens and completed questionnaires should be 
+returned to the NIST Izod Program Coordinator, Mail Code 853.07, 325 Broadway, Boulder, CO 80305-3328.  A plastic, 
+self-locking  bag  is  provided  for  the  return  of  broken  specimens.    The  broken  specimens  will  be  taped  together  as 
+described in the wrapping instructions included with the questionnaire. 
+
+ 
+REFERENCES 
+
+ 
+[1]  ASTM E23; Standard Test Methods for Notched Bar Impact Testing of Metallic Materials; Annual Book of ASTM 
+
+Standards, Vol. 03.01, ASTM, West Conshohocken, PA (2005). 
+
+[2]  May, W.; 
+
+Parris, R.;  Beck, C.; 
+
+Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.; 
+Gills, T.;  Colbert, J.;  Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  
+for  Chemical  Measurements;  NIST  
+NIST 
+Special  Publication  260-136;  U.S. Government Printing   Office: 
+  Washington, DC (2000);  available  at 
+http://www.cstl.nist.gov/nist839/special_pubs/SP260136.pdf. 
+
+of  Reference  Materials 
+
+for  Value-Assignment 
+
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2115 
+
+Page 2 of 2 
+
+ 
+
+QUESTIONNAIRE FOR IZOD IMPACT MACHINE VERIFICATION 
+ 
+IMPORTANT:  This  questionnaire  contains  information  to  help  you  perform  a  successful 
+verification  test  using  SRM  2115.    Energy  results  are  required  for  verification.    Other  specific 
+information is requested to help evaluate the condition of your machine.  The questionnaire and 
+the fractured specimens must be shipped to:  Izod Program Coordinator, NIST, Division 853, 325 
+Broadway, Boulder, CO  80305-3328.  Phone:  303/497-3351 Fax: 303/497-5939 
+ 
+Location of Machine 
+ 
+    Company    
+  
+      Address    
+ 
+                       
+                  
+             City    
+
+ 
+                                                        State 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        Country   
+ 
+Mailing Address for Verification Letter (if different from above) 
+ 
+     Company   
+ 
+       Address   
+ 
+                       
+ 
+             City   
+
+ 
+                                                                     State 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Province  
+     Zip 
+    Postal Code  
+
+    Province  
+     Zip 
+    Postal Code  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        Country  
+ 
+Test Machine (Circle appropriate units where indicated) 
+ 
+1.  Machine Manufacturer  
+ 
+2.  Machine Serial Number  
+ 
+3.  What is the maximum energy capacity of the machine?  
+ 
+4.  If the machine is adjustable, what capacity was used for this test?  
+ 
+                                                 (Joules or ft·lbf) 
+5.  Your machine should be securely bolted to a concrete foundation or a steel block having a 
+
+ 
+                                                    (Joules or ft·lbf) 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mass not less than 40 times that of the pendulum.  Your machine should be leveled according 
+to the requirements of the current ASTM Standard E23. 
+ 
+
+ 
+
+6.  ASTM Standard E23 does not allow the use of expansion bolts or fasteners with driven in  
+
+inserts.  These types of fasteners will work loose from the foundation and tighten up against 
+the bottom of the machine indicating a false torque value.  Only J or T bolts are permitted by 
+the standard.  What type of bolts are used to mount your machine?  (J, lag, etc.)  
+
+ 
+
+ 
+
+7.  Is your machine equipped with a carbide striker and/or anvils?  
+ 
+
+ 
+
+ 
+
+ 
+
+July 2006 
+
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+8.   With the pendulum in the free hanging position, engage the energy indicator.  The indicator 
+should read within 0.2 % of the maximum energy range being used. 
+ 
+9.  What is the friction/windage loss of your machine?  
+(Joules or ft·lbf) 
+(A)  Raise the pendulum to the latched position.  Without a specimen in the machine, release the 
+pendulum and permit it to swing 11 half cycles; after the pendulum starts its 11th half 
+cycle, move the pointer to between 5 to 10 % of scale range capacity and record the dial 
+reading.    
+
+(Joules or ft·lbf)   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(B)  Divide the value by 11, then divide by the maximum scale range of the machine and 
+
+ 
+
+multiply by 100. The result, friction and windage loss, should not exceed 0.4 %.  
+
+ 
+
+ 
+
+ 
+10.  With the specimen removed from your machine and the pendulum released from its latched 
+position, what is the dial reading after one swing? 
+(Joules or ft·lbf) 
+This reading should be zero.  If this reading is not zero and your machine is equipped with a compensated 
+scale, please adjust the dial to read zero.  If your machine is equipped with a non-compensated scale, please 
+compensate the energy values for windage and friction by subtracting the windage and friction value 
+calculated in item 13.   
+ 
+11.  When was your machine last verified by the NIST?  Date:  
+ 
+12.  Is your machine equipped with a direct reading scale or a non-compensated scale?  
+ 
+______________________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 2006 
+
+ 
+
+Page 2 of 4 
+
+ 
+
+   WRAPPING INSTRUCTIONS 
+ 
+
+To expedite the evaluation of your machine, please secure the 5 broken specimens (10 halves) 
+ing 
+from a particular energy series, as one unit with clear cellophane tape according to the following 
+instructions. See diagram below. 
+ 
+ 
+
+Notched Surface 
+
+Fracture Surface 
+
+Cellophane Tape 
+
+  
+
+     
+  
+    
+
+  
+
+ 
+
+Anvil Marks 
+
+ 
+
+ 
+ 
+1.  Keep broken halves correctly paired (back to back) with the fracture surfaces facing upward 
+
+and notched surfaces facing outward. 
+
+ 
+2.  Coat the FRACTURE SURFACES ONLY with a light coat of oil.  DO NOT use grease or 
+
+3  ONLY
+
+coat in plastic. 
+
+ 
+3.  Include this completed questionnaire with the fractured specimens. 
+ 
+4.  Be sure that you use the MAILING LABEL provided with the specimens, and attach the 
+label so that it is clearly displayed on the OUTSIDE of the package.  This will expedite 
+delivery to the Charpy Coordinator.  Customers returning specimens from outside the United 
+States should include the following statement on the U.S. Customs Declaration:        
+Contents include U.S. manufactured steel test bars being returned to the U.S. for 
+evaluation and are valued at less than 10 U.S. dollars.  
+
+  
+
+July 2006 
+
+ 
+
+Page 3 of 4 
+
+ 
+TEST RESULTS 
+ 
+INDICATE ENERGY UNITS (circle units used) 
+ 
+Joules or ft·lbf 
+
+ 
+
+Series _________________ 
+SRM   2115 
+Specimen Number  Value 
+ 
+ 
+ 
+ 
+ 
+Average Value 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Fax  
+
+________________________________ 
+
+________________________________ 
+
+ 
+ 
+ 
+ 
+ 
+Date of Test _______________________ 
+                           (Month/ Day/ Year) 
+ 
+  
+___________________________________________  Telephone   ________________________________ 
+PRINT Test Operator 
+  
+ 
+___________________________________________  Email  
+SIGNATURE Test Operator 
+ 
+___________________________________________  Telephone   ________________________________ 
+PRINT Company Representative 
+ 
+ 
+___________________________________________  Email  
+SIGNATURE Company Representative 
+ 
+If you require approval of your machine by the Defense Contract Management Command (DCMC), a 
+DCMC representative should provide his or her signature and the DCMC seal to indicate that the 
+preceding information was witnessed by a government representative. 
+ 
+ 
+________________________________ 
+Print Name of DCMC Official 
+ 
+________________________________ 
+Signature of DCMC Official and Seal 
+ 
+________________________________ 
+DCMC Office Location 
+
+ 
+________________________________ 
+
+________________________________ 
+
+DCMC Seal 
+
+ 
+Fax  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 2006 
+
+ 
+
+Page 4 of 4 
+
+

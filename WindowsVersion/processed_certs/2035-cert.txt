@@ -1,0 +1,1213 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 2035 
+
+ 
+
+ 
+
+ 
+Near Infrared Transmission Wavelength Standard from 10 300 cm-1 to 5 130 cm-1  
+ 
+This Standard Reference Material (SRM) is a certified transfer standard intended for the verification and calibration 
+of the wavenumber/wavelength scale of near infrared spectrometers operating in transmission mode.  SRM 2035 is 
+certified  for  the  location  of  the  center  of  gravity  (COG)  of  seven  absorbance  bands  in  the  spectral  range  from 
+10 300 cm-1 (971 nm) to 5 130 cm-1 (1949 nm) at six spectral bandwidths from 4 cm-1 to 128 cm-1.  
+ 
+SRM  2035  is  a  glass  filter  consisting  of  a  mole  fraction  of  3.00  %  holmium  oxide  (Ho2O3),  a  mole  fraction  of 
+1.30 % samarium  oxide  (Sm2O3),  a  mole  fraction  of  0.68  %  ytterbium  oxide  (Yb2O3),  and  a  mole  fraction  of 
+0.47 % neodymium  oxide  (Nd2O3)  in  a  base  glass  containing  lanthanum  oxide  (La2O3).    The  filter  is  25  mm  in 
+diameter and 1.5 mm thick in an optical mount.  This combination of the rare earth oxide concentrations and filter 
+thickness yields absorption bands between 0.1 and 0.6 absorbance units.   
+ 
+Certification:  The certified band locations for the SRM 2035 absorbance spectrum are given in Tables 1 and 2 of 
+this certificate.   
+ 
+Certified Values:  The certified[1] vacuum wavenumber locations for seven bands from 10 300 cm-1 to 5 130 cm-1 
+and six spectral bandwidths at 24 °C  ±  1.5 °C are given below in Table 1.  When using these filters to verify the 
+wavenumber scale of a spectrometer, the certified values that are most representative of the spectral bandwidth of 
+the spectrometer being tested should be used.  The absorbance spectrum of SRM 2035 is illustrated in Figure 1 of 
+this certificate.  Also shown in Figure 1 is the single channel air reference spectrum (arbitrary units).  Atmospheric 
+water vapor is a significant source of variance for band 3 and the associated peak should be used with caution when 
+calibrating commercial spectrometers with SRM 2035. 
+ 
+The certified values for wavelength peak locations for seven bands of SRM 2035 from 971 nm to 1949 nm and six 
+spectral bandwidths determined by the COG method at 24 °C  ±  1.5 °C are given in Table 2.  These wavelength 
+locations were derived from the constant-wavenumber-resolution FT data.   
+ 
+Reference Values:  The reference values [1] of the wavelength band locations at constant wavelength resolution are 
+given  in  Table  3. 
+  The  band  locations  were  corroborated  with  measurements  from  the  commercial 
+spectrophotometer used in the certification of NIST SRM 1920 Near Infrared Reflectance Wavelength Standard [2]. 
+ 
+Information  Values:    Information  values  [1]  of  the  peak  wavelength  and  wavenumber  positions  of  SRM  2035 
+derived using the Bruker maximum-finding method (four-point polynomial fit to the top of the peak) are listed in 
+Table 4.  These values may be useful in comparing SRM 2035 peak locations on a spectrometer that lacks a center-
+of-gravity peak location algorithm. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2035  is  valid,  within  the  measurement  uncertainty 
+specified,  until  31  December  2018,  provided  the  SRM  is  handled  in  accordance  with  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified.  
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed  by 
+S.J. Choquette and G.W. Kramer of the NIST Analytical Chemistry Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  29 September 2008 
+See Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 2035 
+
+Page 1 of 10 
+
+The production and certification of SRM 2035 were performed by S.J. Choquette and J.C. Travis with the assistance 
+of C. Zhu of the NIST Analytical Chemistry Division. 
+ 
+The SRM filters were cut and polished by J. Fuller of the NIST Fabrication Technology Division. 
+ 
+Statistical consultation was provided by J.J. Filliben of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Measurement Conditions:  The certification measurements were made using a Bruker IFS 66 Fourier Transform 
+(FT)  spectrophotometer1.    The  NIST  spectrophotometer  was  calibrated  in  vacuum  wavenumber  units  using  NIST 
+SRM 2517 Wavelength Reference Absorption Cell-Acetylene and water vapor bands.  Details of the measurements 
+and data analysis can be found in reference [7]  
+ 
+Wavenumber  and  Wavelength  Band  Location  Methodology:    The  method  used  to  determine  the  certified 
+wavenumber (cm-1) and reference wavelength (nm) band locations of SRM 2035 is the COG technique [3,4,5].  If 
+another  technique  is  used,  a  comparison  with  the  certified  values may  not  be valid.  In this certificate, positions 
+determined with the COG algorithm are referred to as band locations, whereas those determined by other techniques 
+are referred to as peak locations.  Only those values listed in Table 4 are peak locations.  For COG calculations, a 10 
+% fraction was used for both wavenumber and wavelength absorption data.  Table 2 lists the certified values for the 
+wavelength locations of SRM 2035 determined by the COG method.  These values were derived from the certified 
+FT  spectrometer  measurements  by  converting  wavenumber  scale  to  air  wavelength.    Because  resolution  varies 
+nonlinearly when converting from the wavenumber to the wavelength scale, the appropriate wavelength bandwidth 
+is listed for each band.  Table 3 lists the calculated wavelength band locations at constant wavelength bandwidth.  
+These values were determined by interpolating the appropriate data from Table 2.  Because all sources of error and 
+bias have not been fully investigated in this procedure, the locations in Table 3 are reference values.   
+ 
+NIST  will  provide,  upon  request,  a  copy  of  the  COG  algorithm  used  for  band  certification  by  contacting 
+S.J. Choquette at steven.choquette@nist.gov or fax 301-977-0587. 
+ 
+Certification Uncertainty:  The expanded uncertainty (U) [6]for the peak wavenumber and wavelength values is 
+given  in  Tables  1  to  3.    U  is  determined  from  the  root-mean-square  combination  of  component  standard 
+uncertainties  (i.e. estimated  standard  deviations)  and  a  coverage  factor  k  =  2  computed  according  to  reference  7.  
+The coverage factor defines the interval within which the unknown value of the band wavenumber location can be 
+asserted  to  lie  with  a  level  of  confidence  of  approximately  95  %.    Components  of  the  uncertainty  include: 
+calibration  of  the  NIST  FT  spectrometer  with  SRM  2517  [7],  COG  location  estimate,  location  shift  due  to 
+temperature,  and  water  vapor  interference.    Expanded  uncertainties  for  the  reference  wavelength  values  include 
+propagation of errors in the interpolation technique. 
+
+                                                 
+ 
+
+ 
+
+1Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+ 
+
+SRM 2035 
+
+Page 2 of 10 
+
+Temperature  Coefficients:    The  filter  temperature  can  be  a  significant  source  of  variance  of  the  band  location. 
+Band  locations  of  the  filter  were  determined  using  the  COG  algorithm  with  a  10  %  fraction  over  a  temperature 
+range between 6 °C and 50 °C.  The location of each absorbance band as a function of temperature was determined 
+by least squares fit to obtain the fit temperature coefficients given in Table 5.  The uncertainties of the values listed 
+in  Tables 1  to  3  include  a  temperature  variation  of  3  °C  uniformly  distributed  around  a  nominal  measurement 
+temperature of 24 °C. 
+ 
+Handling  and  Storage:    To  maintain  the  integrity  of  SRM  2035,  the  filter  should  only  be  handled  in  its  optical 
+mount.    While  not  in  use,  the  SRM  should  be  stored  in  the  container  provided  or  one  with  similar  or  better 
+mechanical protection. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Carefully  insert  SRM  2035  into  the  sample  beam  of  the  spectrometer  being  tested.  Measurements  under  a  dry 
+nitrogen  purge  are  highly  recommended.    If  a  nitrogen  purge  is  not  available,  the  location  of  band  3  may 
+significantly  differ  from  the  certified  values.    Acquire  the  absorbance  spectrum,  referenced  to  air,  at  a  nominal 
+temperature of 24 °C  ±  1.5 °C.  Compare each measured band location to its certified value listed in Table 1 or 3 
+for the spectral bandwidth most representative of the spectrophotometer being used.  Band locations in Table 1 are 
+vacuum  wavenumber  values,  while  those  in  Tables  2  and  3  are  air  wavelength  values.  To  convert  between  the 
+values in Tables 1 and 2, the appropriate correction for the index of refraction of air must be applied [8].  Taking 
+into  account  the  certification  uncertainty  of  each  band  of  SRM  2035,  any  significant  differences  between  the 
+measured and certified band locations may then be used to recalibrate the spectrometer wavenumber scale.   
+
+ 
+
+SRM 2035 
+
+Page 3 of 10 
+
+ 
+
+Resolution 
+(cm-1) 
+4 
+8 
+16 
+32 
+64 
+128 
+
+Table 1.  Certified(a) Band Locations(b) of SRM 2035 and Uncertainties(c) at Constant Wavenumber Resolution 
+
+Band 1 
+(cm-1) 
+5138.45  ±  0.2 
+5138.52  ±  0.2 
+5138.64  ±  0.2 
+5139.01  ±  0.2 
+5139.44  ±  0.2 
+5135.50  ±  0.2 
+
+Band 2 
+(cm-1) 
+6804.65  ±  0.05
+6804.55  ±  0.33
+6804.72  ±  0.33
+6805.22  ±  0.33
+6806.66  ±  0.33
+6807.11  ±  0.33
+
+Band 3 
+(cm-1) 
+7313.46  ±  0.66 
+7313.32  ±  0.32 
+7313.48  ±  0.16 
+7313.63  ±  0.15 
+7313.82  ±  0.15 
+7309.10  ±  0.22 
+
+Band 4 
+(cm-1) 
+8178.58  ±  0.24 
+8178.67  ±  0.24  
+8178.83  ±  0.24 
+8179.37  ±  0.24 
+8181.22  ±  0.24 
+8185.68  ±  0.24 
+
+Band 5 
+(cm-1) 
+8681.56  ±  0.27 
+8682.08  ±  0.18 
+8682.61  ±  0.18 
+8684.34  ±  0.18 
+8687.91  ±  0.18 
+8685.89  ±  0.18 
+
+Band 6 
+(cm-1) 
+9293.38  ±  0.29
+9294.00  ±  0.28
+9293.96  ±  0.28
+9294.05  ±  0.28
+9294.67  ±  0.28
+9296.67  ±  0.28
+
+Band 7 
+(cm-1) 
+10 245.43  ±  0.15 
+10 245.21  ±  0.12 
+10 244.82  ±  0.12 
+10 243.73  ±  0.12 
+10 242.74  ±  0.12 
+10 248.77  ±  0.12 
+
+ 
+(a)  A NIST Certified Value represents data reported on an SRM Certificate for which NIST has the highest confidence in its accuracy in that all known or suspected sources of 
+  bias have been fully investigated or accounted for by NIST. 
+(b)  Band location determined using a center-of-gravity method with f = 0.1   
+(c)  Uncertainties represent U, the expanded uncertainty with coverage factor k = 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2035 
+
+Page 4 of 10 
+
+ 
+
+1 
+ 
+
+Band 
+
+ 
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Position  
+(nm) 
+1945.61  
+
+(0.079)(d) 
+
+1469.24 
+
+(0.074) 
+
+1367.04 
+(0.51) 
+1222.39 
+
+(0.039) 
+
+1151.51 
+
+(0.029) 
+
+1075.69  
+
+ (0.037) 
+975.79 
+ (0.013) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+1.52 
+
+0.86 
+
+0.75 
+
+0.60 
+
+0.53 
+
+0.46 
+
+0.38 
+
+Table 2.  Summary of Certified(a) Center-of-Gravity Band Locations of SRM 2035 Air Wavelengths(b) 
+Constant Wavenumber Resolution 
+
+4 cm-1 
+
+8 cm-1 
+
+16 cm-1 
+
+32 cm-1 
+
+64 cm-1 
+
+128 cm-1 
+
+Resolution(c) 
+(nm) 
+
+nm 
+
+Resolution 
+(nm) 
+
+nm 
+
+Resolution 
+(nm) 
+
+nm 
+
+nm 
+
+Resolution 
+(nm) 
+
+nm 
+
+Resolution 
+(nm) 
+
+Resolution 
+(nm) 
+
+12.12 
+
+(0.076) 
+
+(0.078) 
+
+  1945.59 
+ 
+  1469.23 
+ 
+  1367.01 
+ 
+(0.50) 
+  1222.38 
+ 
+  1151.49 
+ 
+  1075.70 
+ 
+(0.037) 
+  975.798 
+(0.013) 
+ 
+
+(0.030) 
+
+(0.037) 
+
+3.03 
+
+1.73 
+
+1.50 
+
+1.20 
+
+1.06 
+
+0.93 
+
+0.76 
+
+(0.078) 
+
+(0.075) 
+
+(0.050) 
+
+(0.037) 
+
+  1945.55 
+ 
+  1469.19 
+ 
+  1366.99 
+ 
+  1222.36
+ 
+  1151.43 
+ 
+  1075.70 
+ 
+ 
+ 
+
+975.84 
+
+(0.030) 
+
+(0.012) 
+
+(0.037) 
+
+6.06 
+
+3.46 
+
+2.99 
+
+2.39 
+
+2.12 
+
+1.85 
+
+1.52 
+
+(0.074) 
+
+(0.078) 
+
+(0.050) 
+
+(0.037) 
+
+  1945.41 
+ 
+  1469.09 
+ 
+  1366.96 
+ 
+  1222.28 
+ 
+  1151.20 
+ 
+  1075.69 
+ 
+  975.95 
+ 
+
+(0.027) 
+
+(0.012) 
+
+(0.036) 
+
+(0.079) 
+
+(0.073) 
+
+  1945.27 
+ 
+  1468.77 
+ 
+  1366.93 
+ 
+(0.50) 
+  1222.00 
+ 
+  1150.72 
+ 
+  1075.62 
+ 
+ 
+ 
+
+(0.034) 
+976.041 
+(0.012) 
+
+(0.038) 
+
+(0.028) 
+
+24.24 
+
+13.82 
+
+11.97 
+
+9.57 
+
+8.49 
+
+7.41 
+
+6.10 
+
+1946.87 
+
+(0.087) 
+
+1468.69 
+
+(0.074) 
+
+1367.81 
+(0.50) 
+1221.35 
+
+(0.039) 
+
+1151.00 
+
+(0.046) 
+
+1075.38 
+
+(0.035) 
+
+975.48 
+
+(0.014) 
+
+6.91 
+
+5.98 
+
+4.78 
+
+4.25 
+
+3.71 
+
+3.05 
+
+48.49 
+
+27.65 
+
+23.93 
+
+19.14 
+
+16.99 
+
+14.82 
+
+12.20 
+
+ 
+(a)  A NIST Certified Value represents data reported on an SRM Certificate for which NIST has the highest confidence in its accuracy in that all known or suspected sources of 
+ 
+(b)  Data acquired on an FT spectrometer and converted to air wavelength at constant wavenumber resolution 
+
+bias have been fully investigated or accounted for by NIST. 
+
+ 
+
+(c)  Resolution in wavelengths (λ) is related to wavenumbers (ν) by:  
+
+dλ =
+
+−
+
+d
+ν
+
+ 
+
+(d)   Data in parenthesis is the expanded uncertainty U with a coverage factor of k = 2 for the indicated peak 
+ 
+
+1
+
+2
+
+ν
+
+ 
+
+SRM 2035 
+
+Page 5 of 10 
+
+ 
+Table 3.  Reference Values(a) of COG Wavelength Band Locations for SRM 2035 Interpolated from FT Data 
+Constant Wavelength Resolution 
+ 
+
+Band 
+
+1 nm 
+
+3 nm 
+
+1945.6 
+
+1469.2 
+
+1367.0 
+
+1222.4 
+
+1151.5 
+
+1075.7 
+
+1945.6 
+
+1469.2 
+
+1367.0 
+
+1222.3 
+
+1151.3 
+
+1075.7 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5 nm 
+
+1945.6 
+
+1469.1 
+
+1367.0 
+
+1222.3 
+
+1151.1 
+
+1075.7 
+
+975.8 
+
+975.9 
+
+976 
+
+10 nm 
+
+1945.6 
+
+1469.3 
+
+1367.2 
+
+1222.3 
+
+1150.9 
+
+1075.8 
+
+975.9 
+
+U(b) 
+
+1 
+
+1 
+
+2 
+
+1 
+
+1 
+
+1 
+
+1 
+
+ 
+(a)  A NIST Reference Value is a best estimate of the true value provided on a NIST Certificate/Certificate of Analysis/Report of Investigation where all known or suspected 
+ 
+(b)  U is the expanded uncertainty with a coverage factor of k = 2 for the indicated band 
+ 
+
+sources of bias have not been fully investigated by NIST.  
+
+SRM 2035 
+
+Page 6 of 10 
+
+Table 4.  Summary of Maximum Peak Location(a) for SRM 2035: Information Values(b) 
+ 
+
+4 cm-1 bandwidth 
+
+8 cm-1 bandwidth 
+
+16 cm-1 bandwidth 
+
+32 cm-1 bandwidth 
+
+64 cm-1 bandwidth 
+
+128 cm-1 bandwidth 
+
+nm 
+
+cm-1 
+
+nm 
+
+cm-1 
+
+nm 
+
+cm-1 
+
+nm 
+
+cm-1 
+
+nm 
+
+cm-1 
+
+nm 
+
+cm-1 
+
+1945.8 
+
+5137.9 
+
+1945.7 
+
+5138.0 
+
+1945.7 
+
+5138.2 
+
+1945.47 
+
+5138.8 
+
+1945.2 
+
+5139.5 
+
+1946.2 
+
+5136.9 
+
+1469.6 
+
+6803.9 
+
+1469.4 
+
+6803.4 
+
+1469.3 
+
+6804.0 
+
+1469.20 
+
+6804.6 
+
+1468.8 
+
+6806.3 
+
+1468.6 
+
+6807.4 
+
+1366.4 
+
+7316.5 
+
+1366.8 
+
+7315.2 
+
+1366.9 
+
+7314.0 
+
+1366.95 
+
+7313.6 
+
+1366.9 
+
+7313.9 
+
+1367.6 
+
+7310.0 
+
+1222.5 
+
+8178.0 
+
+1222.5 
+
+8177.3 
+
+1222.5 
+
+8178.0 
+
+1222.39 
+
+8178.5 
+
+1222.1 
+
+8180.5 
+
+1221.4 
+
+8185.5 
+
+1151.7 
+
+8680.6 
+
+1151.7 
+
+8680.9 
+
+1151.6 
+
+8681.6 
+
+1151.29 
+
+8683.6 
+
+1150.7 
+
+8687.7 
+
+1150.9 
+
+8686.3 
+
+1075.7 
+
+9294.0 
+
+1075.7 
+
+9294.1 
+
+1075.7 
+
+9293.9 
+
+1075.67 
+
+9294.0 
+
+1075.6 
+
+9294.5 
+
+1075.4 
+
+9296.9 
+
+975.8 
+
+10245.6 
+
+975.8 
+
+10245.4 
+
+975.8 
+
+10245.0 
+
+975.93 
+
+10243.8 
+
+976.0 
+
+10242.7 
+
+975.5 
+
+10248.5 
+
+ 
+(a)  Peak locations are determined using a four-point polynomial fit to the top of the band, wavelength (nm in air, wavenumbers (cm-1)are corrected to vacuum.  
+(b)  A NIST information value is considered to be a value that will be of interest and use to the user, but insufficient information is available to access the uncertainty associated 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+with the value. 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+SRM 2035 
+
+Page 7 of 10 
+
+ 
+
+Table 5.  Temperature Coefficients for Band Locations of SRM 2035:  Information Values(a) 
+
+Band 
+
+Nominal 
+Band Location 
+cm-1 
+5138.45 
+
+Coefficient 
+(cm-1/ oC) 
+
+Coefficient (nm/oC)
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+6804.65 
+
+7313.46 
+
+8178.58 
+
+8681.56 
+
+9293.38 
+
+10 245.43 
+
+-0.051 
+
+0.091 
+
+0.017 
+
+0.062 
+
+-0.042 
+
+-0.076 
+
+0.019 
+
+0.019 
+
+-0.02 
+
+-0.0032 
+
+-0.0093 
+
+0.0056 
+
+0.0088 
+
+-0.0018 
+
+ 
+ 
+(a)  A NIST information value is considered to be a value that will be of interest and use to the user, but insufficient information is available to access the 
+ 
+
+uncertainty associated with the value.   
+ 
+
+SRM 2035 
+
+Page 8 of 10 
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+4
+
+1
+
+7
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wu  Kh 
+
+ 
+ 
+
+ 
+ 
+
+6
+
+5
+
+2
+
+3
+
+ 
+
+ 
+ 
+
+0
+11000
+
+10000
+
+9000
+
+6000
+
+5000
+
+4000
+
+Figure 1.  Near Infrared Spectrum of SRM 2035 and Single Beam Air Reference 
+
+8000
+7000
+Wavenumber (cm-1)
+
+ 
+
+SRM 2035 
+
+Page 9 of 10
+
+ 
+REFERENCES 
+
+ 
+[1]  May,  W.E.;  Parris,  R.E.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of 
+
+Reference Materials for Chemical Measurements, NIST Special Publication 260-136. 
+
+[2]  Weidner, V.R.; Barnes, P.Y.; Eckerle, K.L.; A Wavelength Standard for the Near Infrared Based on 
+the  Reflectance  of  Rare-Earth  Oxides;  NBS  Journal  of  Research,  Vol.  91,  No.5,  pp.  243-253 
+(September-October 1986). 
+
+[3]  Cameron,  D.G.;  Kauppinen,  J.K.;  Moffat,  J.K.;  Mantsch,  H.H.;  Precision  in  Condensed  Phase 
+
+Vibrational Spectroscopy; Appl., Spectrosc., Vol. 36, pp. 245-250, (1982). 
+
+[4]  Zhu,  C.;  Hanssen,  L.M.;  Studies  of  a  Polystyrene  Wavenumber  Standard  for  Infrared  Spectrometry; 
+11th International Conference of Fourier Transform Spectrometry, AIP proceedings Vol. 430, Ed., J.A. 
+de Haseth, pp. 491-494, American Institute of Physics: NY (1998). 
+
+[5]  ASTM  E  1421-99;  Standard  Practice  for  Describing  and  Measuring  Performance  of  Fourier 
+Transform  Mid-Infrared (FT-MIR)  spectrometers:  Level  Zero  and  Level  One  Tests;  Annual  Book  of 
+ASTM Standards 2001, Vol. 03.06, Section Three, Analytical Procedures, pp. 513-524, (2001). 
+
+[6]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed., 
+International  Organization  for  Standardization:  Geneva,  Switzerland  (1993);  see  also  Taylor,  B.N.; 
+Kuyatt,  C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297,  U.S.  Government  Printing  Office:  Washington,  DC  (1994); 
+available at http://physics.nist.gov/Pubs/. 
+
+[7]  Gilbert, S.L.; Swann, W.C.; Standard Reference Materials: Acetylene C2H2 Absorption Reference for 
+1510 nm-1540 nm Wavelength Calibration- SRM 2517; NIST Special Publication 260-133 (1997). 
+
+[8]  Eden, B.; The Refractive Index of Air; Metrologia, Vol. 2, p. 12 (1966). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    29  September  2008  (Extension  of  certification  period);  04  December  2003  (This  technical  revision 
+reports a change in the expiration date); 17 August 2000 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be 
+accomplished by contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 2035 
+
+Page 10 of 10
+
+

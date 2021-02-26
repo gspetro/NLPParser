@@ -1,0 +1,762 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3232 
+ 
+Kelp Powder (Thallus laminariae) 
+
+three
+
+ 
+zlements 
+This Standard Reference Material (SRM) is intended primarily for use in validating methods for determining elements, 
+r  quality 
+arsenic species, vitamin K1, and proximates  in kelp and similar  matrices.  This SRM can also be used for quality 
+assurance when assigning values to in-house control materials.  A unit of SRM 3232 consists of three heat-sealed, 
+aluminized pouches, each containing approximately 5 g of material. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values reported on a dry-mass basis are provided for 
+elements in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account [1].    The  certified  mass 
+fraction values in this material are the unweighted means of the NIST method means.  The expanded uncertainty is 
+calculated as U = kuc, where the combined uncertainty uc incorporates the observed difference between method results, 
+the method uncertainties, and an uncertainty component for moisture correction, consistent with the ISO/JCGM Guide 
+and its Supplement 1 [2-4].  The coverage factor, k, corresponds to an approximately 95 % level of confidence.  Each 
+measurand in Table 1 is the total mass fraction of the element and is metrologically traceable to the SI derived unit of 
+milligrams per kilogram on a dry-mass basis. 
+ 
+Reference Mass Fraction Values:  The reference mass fraction values reported on a dry-mass basis are provided for 
+the  additional  elements  in  Table 2,  phylloquinone (vitamin K1)  and  arsenic  species  in  Table 3,  and  proximates  in 
+Table 4; a reference value for calories on a dry-mass basis is also provided in Table 4.  A NIST reference value is a 
+noncertified value that is the best estimate of the true value based on available data; however, the value does not meet 
+the  NIST  criteria  for  certification  and  is  provided  with  an  uncertainty  that  may  not  include  all  sources  of 
+uncertainty [1].  The reference values are derived from results reported by NIST or collaborating laboratories.  The 
+reference  values  are  the  unweighted  means  of  the  NIST  or  collaborator-reported  method  means.    The  expanded 
+uncertainty is calculated as U = kuc, where the combined uncertainty uc incorporates the observed difference between 
+method results, the method uncertainties, and an uncertainty component for moisture correction, consistent with the 
+ISO/JCGM Guide and its Supplement 1 [2-4].  The coverage factor, k, corresponds to an approximately 95 % level of 
+confidence.   
+ 
+Information Mass Fraction Value:  The information mass fraction value reported on a dry-mass basis is provided 
+for arsenous acid in Table 5.  A NIST information value is considered to be a value that may be of interest to the SRM 
+user,  but  insufficient  information  is  available  to  assess  the  uncertainty  associated  with  the  value [1].    Information 
+values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 3232 is valid, within the measurement uncertainty specified, 
+until  31 December 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  14 August 2019 
+Certificate Revision History on Page 7 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Page 1 of 8 
+
+  
+
+SRM 3232 
+
+RESEARCH
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.L. Yu of the 
+NIST Chemical Sciences Division. 
+ 
+Support for the development of SRM 3232 was provided in part by the Office of Dietary Supplements of the National 
+Institutes of Health (NIH-ODS).  Technical consultation was provided by J.M. Betz (NIH-ODS).  Acquisition and 
+preparation of the material were coordinated by K.E. Sharpless of the NIST Chemical Sciences Division. 
+ 
+Analyses  at  NIST  were  performed  by  J.F. Browning,  C.Q. Burdette,  G.C. Caceres,  K.D. Chieh,  W.C. Davis, 
+M. Ellisor,  B.L. Kassim,  S.E. Long,  K.E. Murphy,  R. Oflaz,  R.L. Paul,  L.J. Wood,  L.L. Yu,  and  R. Zeisler  of  the 
+NIST Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE  TO  USERS:    SRM 3232  IS  INTENDED  FOR  RESEARCH  USE;  NOT  FOR  HUMAN  OR  ANIMAL 
+CONSUMPTION. 
+ 
+SOURCE AND PREPARATION 
+ 
+The material used to produce the kelp powder (Thallus laminariae) was harvested from the East China Sea when 
+the kelp was approximately 6 months old.  The kelp powder was blended and packaged at High-Purity Standards 
+(Charleston, SC) into packets.  A packet contains approximately 5 g of kelp powder sealed in a nitrogen flushed plastic 
+bag, which was sealed inside a nitrogen-flushed aluminized polyethylene bag with two packets of silica gel.  The 
+packets of kelp powder were irradiated at Neutron Products (Dickerson, MD) to absorbed doses of 5.9 kGy to 7.6 kGy, 
+and then packaged into units of SRM 3232 at NIST (Gaithersburg, MD). 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C) in the original unopened packets.  
+From the date the packet is opened, the certification is valid for one year for elements, two weeks for arsenic species 
+and proximates, and 24 h for vitamin K1 and its isomers, provided that the remaining kelp material is resealed inside 
+the plastic bag and the aluminized polyethylene bag, and the resealed packet is stored in controlled room temperature 
+of 20 °C to 25 °C. 
+ 
+Use:  Before use, the contents of the packet should be homogenized thoroughly by shaking the packet in the horizontal 
+plane for 1 min.  The contents should be allowed to settle for 1 min prior to opening to minimize the loss of fine 
+particles.  For certified values to be valid, test portion size should be based on descriptions below (See “Analysis”).  
+Examples  of  how  the  measured  values  should  be  evaluated  relative  to  those  in  the  certificate  are  available  in  the 
+literature [5].  The reference values of arsenic species in Table 3 and information value of arsenous acid in Table 5 
+are  dependent  on  the  extraction  procedures.    The  extraction  procedure  described  in  the  Analysis  section  must  be 
+followed to relate the measurement values to the arsenic species values of the certificate. 
+ 
+Correction to a Dry-Mass Basis:  The SRM must be measured as received.  A separate portion of the SRM must be 
+used to determine the moisture contents for conversion of the analysis results from as-received to dry-mass basis.  The 
+portion of the SRM for moisture analysis must fill the glass weighing vessel to approximately 1 cm in depth and must 
+be dried to a constant mass.  The moisture content in mass fraction is calculated as the difference in mass of the test 
+portion before and after drying divided by the mass of the test portion before drying.  At NIST, the moisture content 
+of SRM 3232 was determined by drying over magnesium perchlorate in a desiccator at room temperature for 28 d and 
+by drying in a forced-air oven at 80 °C for 3 h.  The means of the two methods were combined to derive the unweighted 
+mean and the expanded uncertainty at approximately 95 % confidence of the dry-mass fraction of (0.9368 ± 0.0015) 
+gram per gram of as-received mass. 
+ 
+
+SRM 3232 
+
+Page 2 of 8 
+
+ANALYSIS(1) 
+ 
+Homogeneity Assessment:  The homogeneity of elements and arsenic species was assessed using the methods and 
+test  portion  sizes  described  below.    Analyses  of  variance  and  graphical  analyses  of  the  data  found  no  detectable 
+inhomogeneity  at  approximately  95 %  level  of  confidence.    For  the  values  related  to  vitamin  K1,  the  uncertainty 
+incorporates a component for possible inhomogeneity based on the standard deviation.  Homogeneity of proximates 
+was not assessed, although the data were treated as though the analytes were homogeneous. 
+ 
+Determination of Elements:  Value assignment of the mass fractions of the elements in SRM 3232 was based on 
+NIST measurements using inductively coupled plasma optical emission spectrometry (ICP-OES), inductively coupled 
+plasma mass spectrometry (ICP-MS), isotope dilution ICP-MS (ID-ICP-MS), isotope dilution cold-vapor generation 
+ICP-MS (ID-CV-ICP-MS), and instrumental neutron activation analysis (INAA). 
+ 
+ICP-OES and ICP-MS methods:  Mass fractions of calcium, iron, magnesium, manganese, phosphorus, potassium, 
+sodium, and zinc were measured by ICP-OES.  Mass fractions of arsenic and iodine were measured by ICP-MS.  For 
+the determination of all elements except iodine, 0.5 g test portions from either six or ten packets of SRM 3232 were 
+digested in a closed-vessel microwave system using nitric acid.  For the determination of iodine, 0.2 g test portions 
+from eight packets of SRM 3232 were digested in a closed-vessel microwave system using ammonium hydroxide.  
+Quantification  for  all  analyses  was  based  on  the  method  of  standard  additions  using  the  SRM 3100  series  single 
+element standard solutions. 
+ 
+ID-CV-ICP-MS method [6]:  The mass fraction of mercury was measured by ID-CV-ICP-MS.  Test portions of 0.25 g 
+from  6  packets  were  digested  with  enriched  isotopes  in  a  closed  vessel  microwave  system  using  a  mixture  of 
+hydrochloric acid and nitric acid.  The digests were stored in a refrigerator overnight at 4 °C to allow degassing of 
+excess nitrogen dioxide and carbon dioxide.  The following day, mercury isotopes were measured in time-resolved 
+analysis  mode  using  cold  vapor  generation  coupled  with  ICP-MS.    Quantitative  determinations  are  traceable  to 
+SRM 1641d Mercury in Water, a primary standard for mercury. 
+ 
+ID-ICP-MS  methods:    Mass  fractions  of  cadmium,  chromium,  copper,  lead,  and  molybdenum  were  measured  by 
+ID-ICP-MS.  For the determination of chromium, copper, and molybdenum, test portions of 0.5 g from 6 packets were 
+digested with enriched isotopes in a closed-vessel microwave system using a mixture of hydrofluoric acid and nitric 
+acid.  Isotopic measurements were made at mass resolution of approximately 4000 using a sector-field ICP-MS.  For 
+the determination of cadmium and lead, test portions of 0.6 g were digested with enriched isotopes in a closed-vessel 
+microwave system using a mixture of hydrofluoric acid and nitric acid.  Isotopic measurements were made using a 
+quadrupole ICP-MS.  Lead was measured in standard mode, and cadmium was measured in collision cell mode with 
+kinetic  energy  discrimination  using  8 %  hydrogen  in  balance  helium  as  collision  gas [7,8].    Quantitative 
+determinations are traceable to the SRM 3100 series single element standard solutions. 
+ 
+INAA methods:  Mass fractions of aluminum, arsenic, calcium, chlorine, cobalt, iodine, iron, potassium, magnesium, 
+manganese, rubidium, sodium, and zinc were determined by INAA.  Test portions of 0.2 g from 10 packets were made 
+into  13 mm  pellets,  sealed  in  linear  polyethylene  bags,  and  irradiated  at  a  reactor  power  of  20 MW.    For  the 
+determination of aluminum, calcium, chlorine, iodine, potassium, magnesium, manganese, and sodium, the duration 
+of the irradiation was 1 min.  Gamma rays were counted for 5 min to 30 min after a 5 min to 3 h decay.  For the 
+determination of arsenic, cobalt, iron, rubidium, and zinc, the duration of the irradiation was 6 h.  Gamma rays were 
+counted for 2 h to 8 h after a 5 d to 1 month decay.  Quantitative determinations are traceable to standards prepared 
+from  NIST  SRMs  and  standards  prepared  from  high  purity  metals  from  Alfa  Aesar,  Spex  Industries,  or  Aldrich 
+Chemicals. 
+ 
+Determination of Vitamin K1:  Value assignment of total vitamin K1 as a sum of trans-vitamin K1 and cis-vitamin K1 
+was based on NIST measurements using an isotope dilution liquid chromatography atmospheric pressure chemical 
+ionization tandem mass spectrometry (ID-LC-APCI-MS/MS) method.  The ratio of vitamin K1 isomers in SRM 3232 
+was determined with the assumption that the instrument response was the same for trans- and cis- isomers. 
+ 
+ID-LC-APCI-MS/MS  method:    The  mass  fractions  of  total  and  isomers  of  vitamin  K1  were  determined  by 
+ID-LC-APCI-MS/MS.  Test portions of 2.5 g from 10 packets were transferred into 50 mL polyethylene centrifuge 
+tubes containing an appropriate amount of vitamin K1-[2H7] as an internal standard.  For extraction, 30 mL of 30 mg/L 
+butylated hydroxytoluene (BHT) in hexane was added.  The samples were sonicated in a water bath for 1 h, mixed on 
+a  rotary  mixer  at  1 Hz  for  1 h,  centrifuged  at  1400 gn  for  15 min,  and  the  hexane  was  removed  from  the  aqueous 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3232 
+
+Page 3 of 8 
+
+solution.  Another 30 mL aliquot of hexane was added and the extraction process was repeated three more times.  The 
+hexane fractions from the four extraction steps were combined and 1 g magnesium sulfate was added.  The contents 
+were  mixed  and  centrifuged.    The  hexane  phase  was  decanted  into  a  drying  vessel,  dried  under  nitrogen,  and  the 
+residue was reconstituted in 1 mL of 1:1 volume ratio of ethanol:ethyl acetate that contained 30 mg/L BHT.  The 
+separation of vitamin K1 isomers was accomplished by eluting with water:methanol gradient at 0.75 mL/min through 
+a  150 mm X 3 mm  C30  column.    The  LC-MS/MS  was  operated  in  positive  ion  mode  and  multiple  reaction 
+monitoring (MRM) mode.  The transitions at m/z 451.4 → m/z 187.3 and at m/z 458.4 → m/z 194.4 were monitored 
+for vitamin  K1  and vitamin  K1-[2H7],  respectively.    Quantitative  determinations of vitamin  K1  are  traceable  to  the 
+molar absorptivity of vitamin K1 [9]. 
+ 
+Determination of Arsenic Species:  Value assignment of the mass fractions of arsenic species in SRM 3232 was 
+based on measurements at NIST using liquid chromatography followed by offline INAA determination (LC-INAA) 
+and online ICP-MS determination (LC-ICP-MS). 
+ 
+NOTE:  THE EXTRACTION PROCEDURE BELOW MUST BE FOLLOWED TO RELATE THE MEASURED 
+VALUES TO THOSE IN THE CERTIFICATE. 
+ 
+Extraction procedure:  Test portions of 1 g from 8 packets were transferred into 15 mL polypropylene test tubes, into 
+which  10 mL  of  a  solvent  containing  50 %  volume  fraction  of  methanol  in  water  was  added.    The  contents  were 
+vortexed at 40 Hz for 1 min and then allowed to stand on the bench for 2 h at ambient temperature of 21 °C ± 1°C.  
+The contents were vortexed at 40 Hz for 30 s and centrifuged at 3600 gn for 30 min.  The supernatant was used for 
+speciation measurements by LC-INAA and LC-ICP-MS.  The mass of the extracted arsenic species was calculated as 
+the mass concentration of the species in the extract multiplied by the volume of the solvent. 
+ 
+LC-INAA method [10]:  From the above extraction procedure, a 0.9 g aliquot of the extract was diluted in a 2 mL vial 
+by  weighing  into  the vial  0.9 mL  water  and  0.2 mL  internal  standard.   A  5 µg/g  monomethylarsonic  acid (MMA) 
+solution and a 5 µg/g trimethylarsine oxide (TMAO) solution were used as the internal standards for separation by 
+anion exchange and cation exchange, respectively.  A 50 µL aliquot of the extract containing the internal standard was 
+injected  onto  a  cation  exchange  or  an  anion  exchange  LC  column  and  eluted  under  isocratic  conditions  using 
+30 mmol/L pyridine at pH 3.0 and 20 mmol/L ammonium carbonate at pH 9.0, respectively.  Arsenic species were 
+quantitatively collected in the fractions of the eluent.  The solvent of each fraction was evaporated at 75 °C under a 
+stream of nitrogen.  The residue was reconstituted in water and quantitatively transferred to a filter paper, which was 
+dried under an infrared lamp and pressed into a pellet for measurement using a procedure similar to the INAA methods 
+described  above.    Quantitative  determinations  are  traceable  to  standards  prepared  from  SRM 3103a  Arsenic (As) 
+Standard Solution. 
+ 
+LC-ICP-MS method:  From the above extraction procedure, a 0.9 g aliquot of the extract was diluted in a 2 mL vial 
+by weighing into the vial 0.9 mL of water and 0.2 mL of 5 µg/g TMAO solution serving as an internal standard.  A 
+0.5 g aliquot of the resulting solution was diluted to 2 g with water to form a measurement sample.  A 1 g aliquot of 
+the measurement sample solution was spiked with a 0.3 g standard containing 95 ng/g arsenosugar 328 and 30 ng/g 
+dimethylarsinic acid (DMA).  An unspiked sample was prepared by mixing 1 g of the measurement sample with 0.3 g 
+water.    The  spiked  and  the  unspiked  kelp  extract  samples  were  analyzed  for  arsenous  acid,  DMA,  TMAO,  and 
+arsenosugar 328  by  cation  exchange  LC-ICP-MS  using  30 mmol/L  pyridine  in  a  gradient  elution  method [11].  
+Quantitative determinations are traceable to standards prepared from SRM 3103a Arsenic (As) Standard Solution and 
+SRM 83d Arsenic Trioxide (As2O3) Reductometric Standard. 
+ 
+Determination of Proximates:  The results for proximates were provided by Covance Laboratories (Madison, WI) 
+and National Food Lab (Livermore, CA).  The measurement methods for proximates are referenced in the footnote of 
+Table 4. 
+ 
+ 
+
+ 
+
+SRM 3232 
+
+Page 4 of 8 
+
+Table 1.  Certified Mass Fraction Values for Elements in SRM 3232 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage 
+Factor, k 
+
+Element 
+
+Arsenic (As)(a,b) 
+Cadmium (Cd)(c) 
+Calcium (Ca)(b,d) 
+Chromium (Cr)(c) 
+Copper (Cu)(c) 
+Iodine (I)(a,b) 
+Iron (Fe)(b,d) 
+Lead (Pb)(c) 
+Magnesium (Mg)(b,d) 
+Manganese (Mn)(b,d) 
+Mercury (Hg)(e) 
+Molybdenum (Mo)(c) 
+Potassium (K)(b,d) 
+Sodium (Na)(b,d) 
+Zinc (Zn)(b,d) 
+
+944 
+672 
+
+ 
+ 
+  12260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  76000 
+  16330 
+ 
+
+6130 
+
+38.3 
+± 
+0.4259  ± 
+
+1.3 
+0.0084 
+
+±  680 
+± 
+5.92 
+3.875  ± 
+± 
+± 
+1.032  ± 
+
+0.52 
+0.087 
+88 
+13 
+0.039 
+
+±  180 
+24.6 
+± 
+0.1129  ± 
+0.2441  ± 
+
+1.6 
+0.0032 
+0.0091 
+
+±  1100 
+±  380 
+± 
+
+1.1 
+
+27.4 
+
+Table 2.  Reference Mass Fraction Values for Elements in SRM 3232 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage 
+Factor, k 
+
+Element 
+
+Aluminum (Al)(a) 
+Chlorine (Cl)(a) 
+Cobalt (Co)(a) 
+Phosphorus (P)(b) 
+Rubidium (Rb)(a) 
+
+±  110 
+±  1200 
+
+1070 
+ 
+  35600 
+ 
+ 
+ 
+
+4551 
+
+0.307  ± 
+± 
+± 
+
+28.44 
+
+0.011 
+51 
+0.51 
+
+(a) ICP-MS 
+(b) INAA 
+(c) ID-ICP-MS 
+(d) ICP-OES 
+(e) ID-CV-ICP-MS 
+
+(a) INAA 
+(b) ICP-OES 
+ 
+
+Table 3.  Reference Mass Fraction Values for Vitamin K1 and Arsenic Species(a) in SRM 3232 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage 
+Factor, k 
+
+(b) 
+
+Total Vitamin K1
+(b) 
+cis-Vitamin K1
+(b) 
+trans-Vitamin K1
+Arsenosugar 328(c,d) 
+Arsenosugar 392(c) 
+Arsenosugar 482(c) 
+Dimethylarsinic acid(c,d) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.431  ±  0.081 
+0.0353  ±  0.0067 
+0.396  ±  0.075 
+±  0.14 
+1.20 
+±  0.72 
+14.06 
+5.59 
+±  0.51 
+0.479  ±  0.077 
+
+(a) The quantity of a species is expressed as mass fraction of arsenic.  Refer to the Appendix for nomenclature for arsenosugars. 
+(b) ID-LC-APCI-MS/MS 
+(c) LC-INAA 
+(d) LC-ICP-MS 
+
+the
+
+SRM 3232 
+
+Page 5 of 8 
+
+2.00 
+2.00 
+2.00 
+2.57 
+2.03 
+2.00 
+2.00 
+2.16 
+2.00 
+2.00 
+2.00 
+2.13 
+2.00 
+2.00 
+2.00 
+
+2.07 
+2.03 
+2.06 
+2.05 
+2.06 
+
+2.09 
+2.09 
+2.09 
+2.00 
+2.03 
+2.00 
+2.00 
+ 
+
+Table 4.  Reference Mass Fraction Values for Proximates and Calories in SRM 3232(a) 
+
+Ash(b) 
+Carbohydrates(c) 
+Protein(d) 
+Total Fat(e) 
+ 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+23.55 
+56.7 
+14.48 
+2.4 
+
+±  0.57 
+±  1.0 
+±  0.98 
+±  1.3 
+ 
+Energy 
+(kcal/100 g) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Coverage 
+Factor, k 
+
+2.00 
+2.00 
+2.00 
+2.00 
+ 
+Coverage 
+Factor, k 
+
+2.00 
+
+Calories(f) 
+
+306.2 
+
+±  4.0 
+
+(a)  Measurements of proximates and calories were made at Covance Laboratories and National Food Lab. 
+atories  and  National  Food  Lab. 
+(b)  Ash was determined using AOAC 923.03 Ash of Flour and AOAC 940.26 Ash of Fruits and Fruit Products methods and a 5 g 
+
+-s  methods  and  a5 
+
+(c)  Carbohydrates were calculated as 100 g of the as-received sample minus the sum of moisture, protein, total fat, and ash in the 
+sample, wherein the moisture was measured using AOAC 920.151 Solids (Total) in Fruits and Fruit Products and AOAC 925.09 
+Solids (Total) and Moisture in Flour. 
+
+(d)  Protein was determined using AOAC 992.15 Crude Protein in Meat and Meat Products Including Pet Foods method and a 0.3 g 
+
+sample size. 
+
+sample size. 
+
+(e)  Total Fat was determined using AOAC 922.06 Fat in Flour method and a 2 g sample size. 
+(f)  Calories were calculated as the sum of 9, 4, and 4 multiples of the measured fat, protein, and carbohydrates, respectively. 
+
+Table 5.  Information Mass Fraction Value for Arsenous Acid in SRM 3232 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction(a) 
+(mg/kg) 
+
+< 0.07 
+
+Arsenous acid(b) 
+
+(a) The quantity of arsenous acid is expressed as mass fraction of arsenic. 
+(b) LC-ICP-MS 
+ 
+
+expressed  as
+
+ 
+
+SRM 3232 
+
+Page 6 of 8 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Aug 2019). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Aug 2019). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures (BIPM),  Sèvres, France  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Aug 2019). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall: London, UK (1993). 
+[5]  Sharpless, K.E.;  Lippa, K.A.;  Duewer, D.L.;  Rukhin, A.L.;  The  ABCs  of  Using  Standard  Reference  
+Materials  in  the  Analysis  of  Foods  and  Dietary  Supplements:  A  Practical  Guide;  NIST  Special  
+Publication  260-181;  U.S. Government  Printing  Office:  Washington,  DC 
+(2014);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-181r1-2.pdf (accessed Aug 2019). 
+
+[3] 
+
+[6]  Long, S.E;  and  Kelly, W.R.;  Accurate  Determination  of  Mercury  in  Coal  by  Isotope  Dilution  Cold-Vapor 
+Generation Inductively Coupled Plasma Mass Spectrometry; Anal. Chem. Vol. 74, pp. 1477–1483 (2002). 
+[7]  Murphy, K.E.;  Beary, E.S.;  Rearick, M.S.;  Vocke, R.D.;  Isotope  Dilution  Inductively  Coupled  Plasma  Mass 
+Spectrometry (ID ICP-MS) for the Certification of Lead and Cadmium in Environmental Standard Reference 
+Materials; Fresenius J. Anal. Chem., Vol. 368, pp. 362–370 (2000). 
+
+[8]  Murphy, K.E.;  Vetter, T.W.;  Recognizing  and  Overcoming  Analytical  Error  in  the  use  of  ICP-MS  for  the 
+Determination  of  Cadmium  in  Breakfast  Cereal  and  Dietary  Supplements;  Anal  Bioanal  Chem.,  Vol. 405, 
+pp. 4579–4588 (2013). 
+
+[9]  Leenheer, A.P.D.;  Vitamin  K;  In  Modern  Chromatographic  Analysis  of  the  Vitamins,  Second  Edition, 
+
+). 
+Leenheer, A.P.D.; Lambert, W.E.; Nelis, H.J., Eds.; Marcel Dekker, Inc.: New York (1992). 
+
+New  York 
+
+[10]  Yu, L.L.;  Chao, W;  Zeisler, R;  Tong, J;  Oflaz, R;  Bao, H,  Wang, J.;  An  Approach  for  Identification  and 
+Determination of Arsenic Species in the Extract of Kelp; Anal. Bioanal. Chem., Vol. 407, pp. 3517–3524 (2015). 
+[11]  Davis, W.C.;  Zeisler, R.;  Sieber, J.R.;  Yu, L.L.;  Methods  for  the  Separation  and  Quantification  of  Arsenic 
+Species in SRM 2669: Arsenic Species in Frozen Human Urine; Anal. Bioanal. Chem., Vol. 396, pp. 3041–3050 
+(2010). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  14 August 2019 (Removal of reference value for arsenic acid (AsV); editorial changes); 08 May 2017 (Original 
+   
+certificate issue date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+08 
+
+ 
+
+SRM 3232 
+
+Page 7 of 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Appendix A.  Nomenclature for Arsenosugars 
+
+Table A1. Names of Arsenosugars in SRM 3232 
+
+Abbreviation 
+
+Arsenosugar 328 
+
+Arsenosugar 392 
+
+Arsenosugar 482 
+
+Name 
+
+sulfonic acid 
+
+ 
+IUPAC:  2-﴾2,3‐dihydroxypropoxy﴿‐5‐﴾dimethylarsorylmethyl﴿oxolane‐3,4‐diol 
+Common:  3-[5’-deoxy-5’-(dimethylarsinoyl)-ß-ribofuranosyloxy]propylene glycol 
+ 
+IUPAC:  3‐[5‐﴾dimethylarsorylmethyl﴿‐3,4‐dihydroxyoxolan‐2‐yl]oxy‐2‐hydroxypropane‐1-
+ 
+Common:  3-[5’-deoxy-5’-(dimethylarsinoyl)-ß-ribofuranosyloxy]-2-hydroxypropanesulfonic 
+ 
+ 
+IUPAC:  2,3‐dihydroxypropyl [3‐[5‐﴾dimethylarsorylmethyl﴿‐3,4‐dihydroxyoxolan‐2-
+ 
+Common: 3-[5’-deoxy-5’-(dimethylarsinoyl)-ß-ribofuranosyloxy]-2-hydroxypropyl 2,3-
+ 
+ 
+
+yl]oxy-2‐hydroxypropyl] hydrogen phosphate 
+
+dihydroxypropyl hydrogen phosphate 
+
+acid 
+
+ 
+Figure A1.  Structural Formula of Arsenosugars in SRM 3232 
+
+O
+
+As
+
+HO
+
+R
+
+O
+
+OH
+
+Arsenosugar 328: R = OH
+Arsenosugar 392: R = SO3H
+Arsenosugar 482: R = OPO2(OH)CH2CH(OH)CH2OH
+
+ 
+
+O
+
+OH
+
+ 
+ 
+ 
+
+SRM 3232 
+
+Page 8 of 8 
+
+

@@ -1,0 +1,1245 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+Standard Reference Material® 2812 
+
+ 
+
+ 
+Rockwell C Scale Hardness – High Range 
+ 
+Serial Number:  SAMPLE 
+ 
+and  verification  of 
+This Standard Reference Material (SRM) is a transfer standard intended for use in the calibration and verification of 
+the  performance  of  Rockwell  hardness  equipment  using  the  Rockwell C  Hardness  Scale (HRC).    A  unit  of 
+SRM 2812 is a steel test block, nominally 64 mm in diameter and 15 mm thick, having a polished test surface with a 
+micro-engraved circle 52 mm in diameter.  Each SRM unit bears a unique serial number on the edge of the block. 
+ 
+Certified  Hardness  Values:    This  SRM  is  certified  using  two  different  certification  modes:    (1) the  certified 
+average hardness value over the entire test surface and (2) individually certified hardness values at specific untested 
+locations on the test surface.  The certified average hardness value (Certification Mode 1) provides the user with a 
+comparison  value  for  performing  indirect  verifications [1]  of  Rockwell  hardness  machines  for  the  HRC  scale.    In 
+comparison  of  user  measurements  with  the  certified  average  hardness,  the  user  must  account  for  material 
+non-uniformity as manifest at the measurement locations chosen by the user.  This non-uniformity is not included in 
+the  uncertainty  for  Certification  Mode 1  given  in  this  certificate.    The  individually  certified  values  of  hardness  at 
+specific untested locations (Certified Mode 2) provide a more complete characterization of the surface hardness of 
+the  block.    The  Certification  Mode 2,  through  the  certified  hardness  values  are  their  uncertainties,  accounts  for 
+material non-uniformity over the surface of the block. 
+ 
+Expiration of Certification:  The certification of SRM 2812 is valid indefinitely, within the uncertainty specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate 
+(see “Instructions  for  Handling,  Storage,  and  Use”).    Accordingly,  periodic  recalibration  or  recertification  of  this 
+SRM is not required.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+If 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  material  over  the  period  of  its  certification.    If 
+the  purchaser.  
+substantive 
+Registration (see attached sheet) will facilitate notification. 
+ 
+Hardness  measurements  leading  to  the  certification  of  this  SRM  were  performed  by  J.L. Fink,  R.D. Jiggetts, 
+D.R. Kelly, S.R. Low, D.J. Pitchure, and R.E. Ricker of the NIST Materials Science and Engineering Division. 
+ 
+Geometric  verification  of  the  Rockwell  diamond  indenter  used  by  NIST  in  the  certification  of  this  SRM  was 
+Division. 
+conducted by J.F. Song and T.V. Vorburger of the NIST Semiconductor and Dimensional Metrology Division. 
+ 
+Statistical analysis was performed by W.S. Liggett of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certification Issue Date:  25 April 2013 
+Certificate Revision History on Last Page 
+
+Eric K. Lin, Chief 
+Materials Science and Engineering Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+the  certification,  NIST  will  notify 
+
+technical  changes  occur 
+
+he  period  of  its  certification. 
+
+that  affect 
+
+R.E. 
+
+Page 1 of 9 
+
+  
+
+SRM 2812 
+
+ 
+
+ 
+
+ 
+
+Certification Procedure:  Several test blocks were randomly selected from each production batch and covered with 
+hardness indentations using the NIST standardizing hardness tester and diamond indenter.  The NIST standardizing 
+hardness tester is a specially designed machine using directly loaded dead-weights for applying the required forces, 
+and a laser interferometry displacement sensor for measuring the depth of indentation.  Hardness was measured by 
+indentation tests in accordance with the Rockwell hardness principle [1] and following the test cycle given in this 
+certificate. 
+ 
+By  analyzing  the  hardness  profile  of  this  set  of  test  blocks,  information  on  material  uniformity  was  developed.  
+NIST determined that the hardness varies across the surface of each block and varies differently from block to block.  
+This hardness variation is due primarily to the nature of steel and the manufacturing process. 
+ 
+The geometry of the NIST standardizing diamond indenter was verified using a stylus instrument [2].  The indenter 
+measurements and expanded uncertainties (at a 95 % level of confidence) are 199.06 µm ± 1.97 µm for the tip radius 
+and 120.00° ± 0.02° for the cone angle. 
+ 
+Hardness measurements were then made at eight locations on the test surface of each SRM as illustrated in Figure 1.  The 
+first  indentation,  labeled  “Seat”,  was  made  to  ensure  that  the  new  test  block  was  adequately  seated  on  the  anvil.  
+“Seat” indentation data are potentially erroneous; thus, the resulting hardness value from this first indentation was 
+discarded.  The seven hardness tests that followed, labeled 1 through 7, were used to determine the SRM certified 
+hardness values for that SRM. 
+ 
+ 
+
+ch  SRM  as  illustrated  in  Figure 
+
+1
+
+3
+
+5
+
+6
+
+m
+m
+
+0
+
+7
+
+4
+
+Seat
+
+30
+
+20
+
+10
+
+-10
+
+-20
+
+-30
+
+2
+
+ 
+
+-20
+
+-30
+
+0
+mm
+ 
+Figure 1.  Test surface of SRM indicating the location and sequence of certification indentations (shown as 
+black dots), and illustrating the appearance of the engraved circle and NIST logo.  The labels 1 through 7 
+and “Seat” shown on the figure indicate the indentation sequence used in certification. 
+
+-10
+
+10
+
+20
+
+30
+
+ 
+
+ 
+Certification  Mode 1,  Certified  Average  Hardness  Value:    This  value  is  an  estimate  of  the  average  hardness 
+across the test surface of the block.  Hardness varies slightly across the surface due to material non-uniformity and 
+can  be  modeled  by  a  mathematical  function,  a  semivariogram  (see  “Discussion”).    The  average  hardness  value  is 
+defined as that hardness function integrated over the test block surface divided by the surface area. 
+ 
+ 
+
+SAMPLE  HRC  ±  SAMPLE  HRC 
+
+Certified Average Hardness Value: 
+
+Uncertainty  of  the  Certified  Average  Hardness  Value:    The  expanded  uncertainty,  U,  in  the  certified  average 
+hardness was calculated using U = kuc, where uc is the combined standard uncertainty calculated according to the 
+JCGM  Guide [3],  and  k = 2  is  the  coverage  factor.    The  value  of  uc  represents  the  combined  effect  of  the 
+individual sources of uncertainty listed in Table 1.  These sources include uncertainties due to deviations of the 
+NIST  standardizing  hardness  tester  and  diamond  indenter  from  the  defined  requirements  for  the  Rockwell 
+hardness test (forces, depth measurement, test cycle, and indenter shape) [1].  The value of uc is calculated as 
+follows: 
+ 
+
+   
+
+2
++
+σσσσ
+4
+
+=u
+c
+
++
+
++
+
+2
+
+2
+
+2
+
+3
+
+1
+
+2
+
+ 
+
+(1) 
+
+Page 2 of 9 
+
+SRM 2812 
+
+ 
+
+ 
+
+‘ied  Average  Hardness  Value 
+Table 1.  Sources of Uncertainty for the Certified Average Hardness Value 
+
+Uncertainty Source 
+
+Standard Uncertainty 
+(HRC) 
+
+σ1 
+σ2 
+σ3 
+σ4 
+uc 
+U 
+
+Material Uniformity and Measurement Repeatability 
+Day-to-Day Reproducibility 
+NIST Standardizing Hardness Tester 
+NIST Standardizing Indenter 
+Combined Standard Uncertainty 
+
+Expanded Uncertainty 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+±  SAMPLE 
+±  SAMPLE 
+±  SAMPLE 
+±  SAMPLE 
+±  SAMPLE 
+
+±  SAMPLE 
+
+ 
+ 
+The  expanded  uncertainty,  U,  provides  an  indication  of  the  accuracy  of  NIST’s  estimate  of  the  true  value  of  the 
+average hardness of this SRM.  The uncertainty should not be interpreted as the range in expected hardness values 
+that would be measured across the test surface, nor is it a limit of acceptable hardness values for verifying Rockwell 
+hardness  equipment.    Similarly,  σ1,  σ2,  σ3,  and  σ4  are  uncertainty  components  that  contribute  to  the  overall 
+uncertainty  in  the  certified  average  hardness  value  and  are  not  ranges  of  expected  hardness  results  due  to  each 
+source of uncertainty. 
+ 
+e 
+Certification Mode 2, Individually Certified Hardness Values for Specific Locations:  This certification mode 
+provides  the  user  with  individually  certified  hardness  values  at  11 untested  locations  on  the  SRM.    The  certified 
+values at each location, defined in x, y coordinates and labeled with the letters A through K, are given in Table 2 and 
+illustrated in Figure 2. 
+ 
+
+for  Specific  Locations: 
+
+Table 2.  Individually Certified Hardness Values for Specific Test Block Locations 
+ 
+
+Location 
+
+x (mm) 
+
+y (mm) 
+
+Hardness (HRC) 
+
+  
+
+  
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+0 
+
+20 
+
+20 
+
+0 
+
+– 20 
+
+23 
+
+12 
+
+– 12 
+
+– 23 
+
+– 12 
+
+  
+
+  
+
+  
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+  
+
+I 
+
+J 
+
+6 
+
+6 
+
+0 
+
+F 
+
+  
+
+H 
+
+K 
+
+G 
+
+10 
+
+10 
+
+12 
+
+12 
+
+– 6 
+
+– 6 
+
+– 20 
+
+– 10 
+
+– 10 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+SAMPLE  ±  SAMPLE 
+
+  
+
+  
+
+  
+
+  
+
+ 
+ 
+The x, y coordinate system is such that location x = 0, y = 0 is at the block center (NIST indentation 4) and oriented 
+with the NIST logo at the bottom of the block as illustrated in Figure 2. 
+ 
+ 
+
+   
+    
+  
+  
+  
+
+Page 3 of 9 
+
+SRM 2812 
+
+ 
+
+ 
+
+m
+m
+
+0
+
+30
+
+20
+
+10
+
+-10
+
+-20
+
+-30
+
+F
+
+E
+
+K
+
+J
+
+H
+
+I
+
+B
+
+C
+
+A
+
+G
+
+D
+
+0
+mm
+
+-30
+
+-20
+
+-10
+
+10
+
+20
+
+30
+
+ 
+
+as  open  circles  labeled  A  through  K)  of 
+Figure 2.  Test surface of SRM illustrating  the locations (shown as open circles  labeled A through K) of 
+individually certified hardness values given in Table 2. 
+
+ 
+Uncertainty of Individually Certified Hardness Values:  The uncertainties in the individually certified hardness 
+values  for  the  locations  reported  in  Table 2  are  calculated  using  the  same  sources  of  uncertainty  as  used  for  the 
+certified  average  hardness  values  given  in  Table 1.    A  difference  occurs  in  σ1,  the  uncertainty  component  due  to 
+block uniformity and measurement repeatability.  The remaining uncertainty components σ2, σ3, and σ4 are the same 
+for both types of hardness certification.  These four uncertainty components are given in Table 3 at a level of one 
+standard deviation.  These components are combined to calculate the standard uncertainty, uc, to which the coverage 
+factor k = 2 is applied to obtain the expanded uncertainty, U. 
+ 
+For the individually certified hardness values, the expanded uncertainty, U, provides an indication of the accuracy of 
+the best estimate of the true value of the hardness at that specific location on the SRM.  Similarly, σ1, σ2, σ3, and σ4 
+are uncertainty components that contribute to the overall uncertainty in the certified hardness value at each specific 
+location. 
+ 
+
+Table 3.  Sources of Uncertainty for Hardness Values at Each of the Individual Locations Given in Table 2 
+  
+
+ 
+
+Uncertainty Source 
+
+Standard Uncertainty 
+Locations A through F 
+(HRC) 
+
+Standard Uncertainty 
+Locations G through K 
+(HRC) 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+±  SAMPLE 
+
+Expanded Uncertainty 
+
+NIST Standardizing Indenter 
+
+Combined Standard Uncertainty 
+
+NIST Standardizing Hardness Machine 
+
+  σ1  Material Uniformity & Repeatability  
+Day-to-Day Reproducibility 
+  σ2 
+  σ3 
+  σ4 
+  uc 
+  U 
+
+     
+  
+  
+  
+
+ 
+ 
+Discussion:    To  illustrate  the  effect  of  the  material  non-uniformity,  the  test  surface  of  the  SRM  block  should  be 
+considered a collection of possible measurement locations.  The metal at each location will have a unique hardness 
+value that differs slightly from the hardness value at any other location.  If it were possible to determine the hardness 
+at every location, the collection of hardness values would be found to vary over a range, and an average hardness 
+value  for  the  entire  test  surface  could  then  be  calculated.    The  extent  of  this  range  defines  the  non-uniformity  in 
+hardness for the test surface.  The smaller the range in hardness values, the more uniform is the block.  Thus, for this 
+SRM,  the  hardness  values  at  individual  locations  will  vary  over  a  range  that  extends  both  above  and  below  the 
+average hardness value of the test surface. 
+ 
+As a consequence of this hardness non-uniformity, a single certified hardness value does not completely describe the 
+hardness  of  the  test  surface.    Thus,  two  types  of  hardness  certifications  are  provided  in  this  certificate:    (1) the 
+certified  average  hardness  (Certification  Mode 1)  and  (2) individually  certified  hardness  values  (Certification 
+Mode 2)  at  untested  locations.    The  certifications  are  based  on  the  seven  NIST  hardness  measurements  and  on 
+
+±  SAMPLE 
+
+Page 4 of 9 
+
+SRM 2812 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+modeling  hardness  as  a  random  function  across  the  test  surface.    These  two  types  of  certifications  define  the 
+hardness of the test block in distinctly different ways.  The user must keep this in mind when using these certified 
+values and the associated uncertainties. 
+ 
+In general, the closer two measurements are made, the closer the hardness values  will be to each other, limited by 
+minimum  spacing  considerations  (see  “Indentation  Spacing”).    The  method  used  to  predict  hardness  values  at 
+untested locations is based on a geostatistics formula [4] that models the hardness across the surface of a block as a 
+random function described by a semivariogram.  The semivariogram is a mathematical model that describes how the 
+measured hardness difference between any two test block locations relates to the physical spacing that separates the 
+two locations.  In statistical terms, this semivariogram gives one half the variance of the hardness difference between 
+any two locations on the test block.  Thus, the square root of twice the semivariogram is the standard deviation of 
+this difference. 
+ 
+For this SRM, the semivariogram is given by a simple function of Euclidean distance.  Consider two points, si and sj, 
+separated by the distance, d (in mm), where 
+ 
+
+d
+
+=
+
+(
+
+x
+i
+
+−
+
+x
+
+2
+
+)
+
+j
+
++
+
+(
+
+y
+
+i
+
+−
+
+y
+
+2
+
+)
+
+j
+
+ 
+
+The semivariogram is given by 
+
+(sγ
+
+i
+
+−
+
+)s
+j
+
+=
+
+
+
+
+
+c
+
+0
+
+0
+
+=if d
+
+0
+
+ 
+
+[
+1
+
++
+
+c
+e
+
+−
+
+exp
+
+a/d
+
+(
+−
+
+]
+)
+
+e
+
+ if d
+
+≠
+
+0
+
+ 
+where c0, ce, and 1/ae are given in Table 4.  In addition to the semivariogram, the calculation of certified hardness 
+values required the seven hardness readings obtained by NIST, given in Table 5. 
+
+ 
+Table 4.  Semivariogram Coefficients that Describe Uniformity and Repeatability 
+ 
+
+(2) 
+
+(3) 
+
+Coefficients 
+
+co 
+
+ce 
+
+1/ae 
+
+Values 
+
+SAMPLE 
+
+SAMPLE 
+
+SAMPLE 
+
+Table 5.  NIST Hardness Measurements for Individual Test Block Locations 
+ 
+
+Location 
+
+1 
+2 
+3 
+4 
+
+5 
+6 
+7 
+
+x 
+(mm) 
+
+–10 
+20 
+–10 
+0 
+
+10 
+10 
+–20 
+
+y 
+(mm) 
+
+17 
+0 
+–17 
+0 
+
+17 
+–17 
+0 
+
+Hardness Value 
+(HRC) 
+
+SAMPLE 
+SAMPLE 
+SAMPLE 
+SAMPLE 
+
+SAMPLE 
+SAMPLE 
+SAMPLE 
+
+ 
+ 
+The  certified  average  hardness  value  is  based  on  the  seven  NIST  hardness  measurements  and  on  the  hardness 
+prediction function discussed above.  This average value is defined as the hardness function integrated over the test 
+block surface divided by the  surface area, and as such, is the average of the predicted hardness values  for all  test 
+surface locations, and not the arithmetical average of the seven NIST measurements.  However, since the locations 
+chosen  for  the  seven  NIST  measurements  provide  a  good  representation  of  the  surface,  the  certified  average 
+hardness is close in value to the arithmetical average.  The NIST certified average hardness value is only somewhat 
+
+SRM 2812 
+
+Page 5 of 9 
+
+ 
+
+analogous to the certified value assigned to a commercially calibrated hardness test block that is typically calculated 
+as the arithmetical average of several calibration measurements. 
+ 
+This  certificate  also  provides  individually  certified  hardness  values  for  11 specific  untested  locations  on  the  test 
+surface  of  the  SRM,  given  in  Table 2.    These  certified  hardness  values  and  their  associated  uncertainties  were 
+calculated  using  a  mathematical  formula [4],  which  includes  the  semivariogram  given  above  and  the  three 
+coefficients given in Table 4.  All that is required to perform these calculations are the values and locations for the 
+seven NIST measurements given in Table 5, and the x, y coordinates of the locations for which hardness values are 
+to be determined.  Using this same formula, additional certified hardness values at other untested locations may be 
+calculated by the user [5,6].  The formulas may also be used for calculating various averages of the hardness at two 
+or more arbitrary locations. 
+ 
+Traceability:  This SRM can be used to demonstrate that a user’s measurements are traceable to the HRC scale as 
+determined  by  NIST;  however,  the  procedures  required  to  demonstrate  traceability  are  varied  depending  on  the 
+user’s needs.  In general, acceptable transfer of the NIST hardness values to the user can be accomplished in three 
+ways:  (1) verification  within  tolerances - verifying  that  the  user’s  measurements  are  in  agreement  with  NIST 
+certified  values  within  acceptable  tolerance  limits;  (2) verification  within  uncertainties - verifying  that  the  user’s 
+measurements are in agreement with NIST certified values within the uncertainty ranges of the user’s and NIST’s 
+measurements;  and  (3) calibration - calibration  of  the  performance  of  the  user’s  hardness  machine  to  the  NIST 
+certified values by making appropriate mathematical corrections, and then verifying that the user’s corrected values 
+are in agreement with NIST certified values within the uncertainties of the user’s and NIST’s measurements.  Each 
+of  the  three  methods  requires  differing  levels  of  effort  by  the  user  to  determine  the  accuracy  in  his/her 
+measurements. 
+ 
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This SRM is made of steel, and thus is susceptible to scratches, dents, and other mechanical damage, 
+particularly on the top and bottom surfaces, as well as being susceptible to corrosion from moisture and reaction to 
+skin oils.  The SRM is wrapped in corrosion-inhibiting paper and packaged in a protective wooden box.  The user 
+should  wear  protective  gloves,  such  as  lint-free  cotton  or  powder-free  latex  gloves,  while  handling  the  SRM.    If 
+gloves are not worn, skin oils should be removed by cleaning the SRM, see “Cleaning the SRM” below.  The SRM 
+should be held only by the round edge to avoid excessive contact with the top and bottom surfaces. 
+ 
+Storage:    When  not  in  use,  the  SRM  should  be  rewrapped  and  stored  in  the  original  box  or  in  a  manner  having 
+equivalent  or  better  mechanical  and  corrosion  protection.    The  SRM  storage  area  should  be  maintained  at 
+23 °C ± 2 °C (73 °F ± 5 °F) with a relative humidity of 50 % or less. 
+ 
+Use:  The SRM is intended for use with all equipment capable of conducting an HRC indentation hardness test.  The 
+HRC hardness test is defined as requiring the use of a Rockwell spheroconical diamond indenter and the following 
+test  forces:    a  preliminary  force  of  98 N (10 kgf)  and  an  additional  test  force  of  1373 N (140 kgf)  that,  when 
+combined  with  the  preliminary  force,  generates  the  total  test  force  of  1471 N (150 kgf).    The  Rockwell  hardness 
+tester should be set up and operated in accordance with the recommendations of the manufacturer and as required by 
+applicable test method standards.  All hardness measurements must be made within the circle engraved on the test 
+surface of the SRM.  In order to perform calibration or verification measurements over the full usable range of the 
+HRC  scale,  this  SRM  may  be  used  in  conjunction  with  SRM 2810  Rockwell C  Scale  Hardness - Low  Range  and 
+SRM 2811 Rockwell C Scale Hardness - Mid Range. 
+ 
+ad
+Test  Environment:    The  hardness  tester  to  be  calibrated  or  verified  should  be  stored  in  a  temperature  and 
+humidity-controlled environment maintained at 23 °C ± 2 °C (73 °F ± 5 °F) and a relative humidity of 50 % or less 
+and that the environment has been calibrated or verified to maintain those conditions.  The tester must also be in a 
+location that is free from shock or vibration that could affect the hardness measurements. 
+ 
+Anvil:  Use of a flat anvil is recommended (i.e., an anvil that can support the SRM for indentation anywhere on its 
+test surface).  However, when calibrating or verifying a hardness tester, the same anvil must be used with the SRM 
+that will be used on the tester after the calibration or verification. 
+ 
+Cleaning the Anvil and Indenter:  The tester anvil and indenter diamond tip should be thoroughly cleaned using the 
+recommendations  from  the  manufacturer.    In  the  absence  of  cleaning  instructions  from  the  manufacturer,  it  is 
+recommended  that  the  anvil  and  indenter  be  cleaned  with  ethyl  alcohol  and  dried  using  a  lint-free  paper  towel  or 
+cloth.  Then the surfaces should be blown clean of dust using filtered air, such as from a commercial compressed air 
+can or bottle.  DO NOT blow clean by mouth. 
+
+SRM 2812 
+
+Page 6 of 9 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Cleaning the SRM:  Prior to use, the SRM should be cleaned.  The SRM may be cleaned by gently wiping the top 
+and bottom surfaces  with a clean cotton or a non-abrasive  cloth thoroughly  wetted  with  ethyl alcohol.  The  metal 
+surfaces should immediately be dried using a soft lint-free paper towel or cloth before the alcohol evaporates.  There 
+should  be  no  residue  remaining  on  the  top  and  bottom  surfaces.    The  alcohol  cleaning  should  be  followed  by 
+blowing  the  surfaces  clean  of  dust  with  filtered  air.    The  top  and  bottom  surfaces  should  NOT  be  touched  after 
+cleaning. 
+ 
+Seating  the  Anvil  and  Indenter:    Prior  to  making  hardness  indentations  on  the  SRM,  the  tester  anvil  and  indenter 
+must be seated.  This can be accomplished by performing Rockwell hardness tests on a material using the highest 
+test force the tester is capable of applying.  The seating tests should be repeated until successive measurement values 
+show no trend of increasing or decreasing hardness. 
+ 
+Placement of the SRM on the Anvil:  Immediately before placing the SRM on the anvil, the top surface of the anvil 
+and the bottom surface of the SRM should be cleaned as described above.  Once clean, the SRM should be placed 
+immediately  on  the  anvil.    The  top  test  surface  of  the  SRM  should  be  blown  free  of  dust  prior  to  testing  and 
+occasionally during use.  The SRM should be slid several times back and forth over the surface of the anvil to help 
+seat the block on the anvil.   Any time the SRM  is  lifted from and replaced on the anvil, the procedure described 
+above in this paragraph should be repeated. 
+ 
+Preliminary Indentation:  When a flat anvil is used, at least one preliminary HRC test should be performed at any 
+location on the test surface of the SRM.  The preliminary test will help seat the SRM on the anvil.  The measured 
+hardness value of the preliminary test should not be used.  A preliminary indentation is not necessary when using a 
+spot anvil. 
+ 
+Indentation Location:  The user is cautioned not to make any indentation such that it contacts a previous indentation, 
+the engraved circle, or the NIST logo; as doing so may damage the indenter.  No indentation should be made outside 
+the engraved circle or on the bottom surface of the block. 
+ 
+Indentation  Spacing:    Rockwell  hardness  measurements  may  be  influenced  by  nearby  previous  indentations.    For 
+this  SRM,  a  hardness  measurement  will  not  be  measurably  affected  by  an  adjacent  Rockwell C  Scale  indentation 
+that  is  located  at  a  distance  of  5 mm  or  greater,  center-to-center  spacing,  from  the  measurement  location.    It  is 
+recommended  that  no  indentation  should  be  made  closer  than  3 mm,  center-to-center  spacing,  from  a  previous 
+indentation.  For hardness measurements within 3 mm to 5 mm distance of only one single previous indentation, the 
+resulting HRC value may be increased as much as 0.05 HRC.  Measurements made within 3 mm to 5 mm distance 
+from  multiple  previously  made  indentations  will  produce  an  even  higher  elevation  in  HRC.    The  user  should 
+consider  this  possible  elevation  of  hardness  when  making  measurements  on  this  SRM.    Table 6  lists  the  effect  of 
+indentation-to-indentation  spacing for this SRM.  In addition to this indentation-to-indentation spacing restriction, 
+no HRC measurement should be made within 1 mm of the engraved circle or the NIST logo. 
+ 
+
+Table 6.  Effect of Indent Spacing 
+
+Distance Between Indentations 
+(Indentation Center-to-center) 
+≥5 mm 
+≥3 mm and <5 mm 
+<3 mm 
+
+ 
+
+Effect on Hardness 
+
+No interaction 
+
+Not recommended 
+
+Increase in hardness of up to 0.05 HRC 
+
+SRM 2812 
+
+Page 7 of 9 
+
+ 
+
+ 
+
+ 
+
+Test Cycle:  This SRM unit has been certified by performing Rockwell C scale hardness tests using a specific test 
+cycle.  The HRC test cycle may be characterized by specifying four test cycle parameters that have been determined 
+to have a significant influence on the measurement results.  These parameters are defined as follows: 
+ 
+
+Preliminary  Test  Force  Dwell  Time – the  time  period  beginning  when  the  preliminary  force  is  fully 
+applied and ending when the first baseline measurement of indenter depth is taken. 
+ 
+Total Force Dwell Time – the time period during which the total force is fully applied. 
+ 
+Recovery Dwell Time – the time period beginning when the additional test force is fully removed returning 
+the applied force to the preliminary force level and ending when the final measurement of indenter depth is 
+taken. 
+ 
+Additional Force Application Time – the time period during the application of the additional force.  This 
+parameter may also be specified in terms of the indenter velocity during this time period. 
+ 
+
+To minimize the uncertainty in the hardness measurement, a test cycle should be used that replicates, as closely as 
+possible, the SRM certification test cycle parameters.  Deviations from the SRM test cycle in dwell times or force 
+application rate will result in measured hardness values that deviate from the certified values. 
+ 
+The test cycle parameters used for the certification of this SRM are given in Table 7 and illustrated in Figure 3. 
+ 
+
+Table 7.  Specifications for the SRM Test Cycle Parameters 
+
+Parameter 
+
+Preliminary Test Force Dwell Time 
+
+Total Force Dwell Time 
+
+Elastic Recovery Dwell Time 
+
+Indenter Velocity 
+
+Value 
+
+3 s 
+
+5 s 
+
+4 s 
+
+NIST Tolerance 
+
+0.1  s 
+
+0.1  s 
+
+0.1  s 
+
+± 
+
+± 
+
+± 
+
+± 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40 µm/s constant 
+
+2 
+
+µm/s 
+
+  
+
+ 
+ 
+
+Total Force
+Dwell Time
+
+( 5 s )
+
+1600
+
+1400
+
+180
+
+160
+
+140
+
+Additional Force
+Indenter Velocity
+µ
+( 40    m/s )
+
+80
+
+120
+
+100
+
+1200
+
+)
+f
+g
+k
+(
+ 
+e
+c
+r
+o
+F
+
+         
+  
+
+( 3 s )
+Preliminary Force
+Dwell Time
+
+( 4 s )
+Recovery
+Dwell Time
+
+(
+ 
+e
+c
+r
+o
+F
+
+1000
+
+800
+
+600
+
+200
+
+400
+
+20
+
+60
+
+40
+
+N
+
+)
+
+0
+
+0
+
+First Depth
+Measurement
+
+Time
+
+Final Depth
+Measurement
+
+ 
+
+Figure 3.  Illustration of the parameters of the HRC Test Cycle used in the certification of the SRM. 
+ 
+
+ 
+
+SRM 2812 
+
+Page 8 of 9 
+
+ 
+
+REFERENCES 
+ 
+[1]  ASTM E18;  Standard  Test  Methods  for  Rockwell  Hardness  and  Rockwell  Superficial  Hardness  of  Metallic 
+
+Materials; Annu. Book ASTM Stand. 
+
+[2]  Song, J.F.;  Rudder, F.F. Jr.;  Vorburger, T.V.;  Smith, J.H.;  Microform  Calibration  Uncertainties  of  Rockwell 
+
+Diamond Indenters; J. Res. Natl. Inst. Stand. Technol., Vol. 100, pp. 543–561 (1995). 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint  Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2013);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Apr 2013). 
+
+[4]  Cressie, N.A.C.; Statistics for Spatial Data; John Wiley & Sons, Inc.: Toronto, Canada (1991). 
+[5]  Liggett, W.S.; Low, S.R.; Pitchure, D.J.; Song, J.; Capability in Rockwell C Scale Hardness; J. Res. Natl. Inst. 
+
+dness 
+
+Stand. Technol., Vol. 105, pp. 511–533 (2000). 
+
+[6]  Low, S.R.; NIST Recommended Practice Guide: Rockwell Hardness Measurement of Metallic Materials; NIST 
+Special  Publication  960-5;  U.S.  Government  Printing  Office:  Washington, DC  (2001);  available  at 
+http://www.nist.gov/manuscript-publication-search.cfm?pub_id=853006 (accessed Apr 2013). 
+
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    25 April 2013  (Updated  document  format  for  selected  units;  corrected  minimum  measurement  spacing 
+requirement  in  text,  editorial  changes)  20 March 2013  (Updated  document  format;  added  new  units;  editorial  changes);  15 November 2011 
+(Updated  certification  period;  editorial  changes);  08 June 2011  (Updated  certification  period;  editorial  changes);  13 June 2006  (Updated 
+ication 
+certification  period;  editorial  changes);  26 May 2005  (Updated  certification  period;  editorial  changes);  10 June 2003  (Updated  certification 
+period; editorial changes for selected units); 17 May 2002 (Editorial changes); 16 October 2001 (Changed in the uncertainty values Tables 1, 2, 3, 
+and the semivariogram coefficients in Table 4, in addition to editorial changes); 08 December 1997 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2812 
+
+Page 9 of 9 
+
+

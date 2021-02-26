@@ -1,0 +1,247 @@
+﻿National  Institute  of  Standards  &  Technology 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  1834 
+
+Fused  Simulated  Ore  for  X-ray  Fluorescence  Spectrometry 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  calibrating  x-ray  fluorescence  spectrometers.  It  may  be 
+useful  in  particular  applications,  such  as  the  x-ray  spectrometric  analysis  of  rocks,  ores,  and  clays  in  which  the  samples  are 
+fused  with  a  suitable  fluxing  agent,  such  as  lithium  tetraborate,  (LTB)  before  measurement.  SRM  1834  can  also  be  used  in 
+quality  assurance  applications  and  to  monitor  instrument  stability. 
+
+SRM  1834  is  a  silica  base  glass  disk  (3  cm  in  diameter  x  0.3  cm  thick)  that  was  prepared  at  NIST  (see  preparation  section). 
+This  glass  material  has  about  the  same  elemental  composition  as  NIST  SRM  97a,  Flint  Clay,  with  the  amount  lost  on  ignition 
+replaced  with  oxides  of  lithium  and  boron.  Therefore,  when  SRM  97a  is  fused,  the  resultant  glass  disk  should  give  similar 
+x-ray  intensities  for  all  certified  elements  as  SRM  1834.  In  the  analysis  of  similar  fused  materials,  it  is  recommended  that 
+appropriate  corrections  for  interelement  effects  be  applied. 
+
+The  certified  constituent  elements  are  given  in  Table  1  and  are  based  on  measurements  made  using  at  least  two  or  more 
+independent  analytical  methods.  Noncertified  values  are  given  in  Table  2  as  additional  information  on  the  matrix.  The 
+noncertified  values  should  not  be  used  for  calibration  or  quality  control. 
+
+USE: 
+It  is 
+If  the  SRM  is  to  be  routinely  used  as  supplied  it  may  be  necessary  to  resurface  the  disk  occasionally. 
+recommended  that  any  resurfacing  be  performed  with  400  grit  abrasive  paper  in  the  dry  state  to  minimize  any  calcium 
+contamination.  If  the  SRM is  to  be  shattered  for  the  purpose  of  preparing  fused  samples,  it  is  recommended  that  the  SRM 
+be  first  wrapped in  several  layers  of  wax  or  glassine  paper  to  avoid  contamination. 
+
+The  certification  of  this  SRM  is  valid  5  years  from  the  date  of  purchase  from  NIST.  Should  any  of  the  certified  values  change 
+before  the  expiration  of  the  certification  period,  purchasers  will  be  notified  by  NIST. 
+
+The  statistical  analysis  of  the  certification  data  was  performed  by  R.C.  Paule  of  the  National  Measurement  Laboratory. 
+
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  under  the  direction  of 
+P.A.  Pella  of  the  NIST  Gas  and  Particulate  Science  Division. 
+
+The  technical  and  support  aspects  involved  in  the  certification  and  issuance  of  this  SRM  were  coordinated  through  the 
+Standard  Reference  Materials  Program  by  T.E.  Gills. 
+
+Gaithersburg,  MD  20899 
+July  17,  1990 
+
+William  P.  Reed,  Acting  Chief 
+Standard  Reference  Materials  Program 
+
+(over)
+
+  
+
+Table  1.  Certified  Elements  in  SRM  1834,  Simulated  Fused  Ore 
+
+Content,  wt% 
+Element 
+
+§ 
+
+Content,  wi.% 
+Element 
+
+§ 
+
+Aluminum 
+Barium 
+Calcium 
+Iron 
+Magnesium 
+
+20.71 
+
++ 
+0.062  + 
+0.095  + 
++ 
+0.32 
+0.088  + 
+
+0.10 
+0.003 
+0.005 
+0.03 
+0.004 
+
+Phosphorus 
+Potassium 
+Silicon 
+Strontium 
+Titanium 
+
+0.152  + 
++ 
+0.42 
++ 
+20.19 
+0.153  + 
++ 
+111 
+
+0.003 
+0.02 
+0.10 
+0.008 
+0.06 
+
+The  listed  uncertainty  is  +2  standard  deviations  of  the  certified  value  and  includes  material  heterogeneity  and  variability 
+among  the  measurement  methods  used. 
+
+Analytical  Methods 
+
+A.  Direct  Current  Plasma  Emission  Spectrometry 
+B.  Flame  Emission  Spectrometry 
+C.  Gravimetry 
+D.  Inductively  Coupled  Plasma  Emission  Spectrometry 
+E.  X-Ray  Fluorescence  Spectrometry 
+
+Elements 
+
+Ca,P 
+Ksr 
+ALSi 
+Ba,Fe,Mg,P,Ti 
+Al,Ba,Ca,Fe,Mg,P,K,SiSr,Ti 
+
+Table  2.  Noncertified  Elements  in  SRM  1834,  Simulated  Fused  Ore 
+
+Supplemental  Information 
+
+Element,  wt.  % 
+
+Boron 
+Chromium 
+Lithium 
+Sodium 
+Zirconium 
+
+Material P 
+
+. 
+
+(1.1) 
+(0.02) 
+(46) 
+(0.14) 
+(0.047) 
+
+Analysts 
+
+Center  for  Analytical  Chemistry 
+
+1.T.  A.  Butler 
+2.  M.S.  Epstein 
+3.  A.  F.  Epstein 
+4.  P.A,  Pella 
+
+5.  J, M.  Smeller 
+6.  T.  W. Vetter 
+7.  R.L.  Watters,  Jr. 
+8.  L.  J.  Wood
+
+The  material  for  this  SRM  was  fabricated  by  D.  Blackburn  and  D.  Kauffman  of  the  NIST  Glass  and  Optical  Material  Group, 
+Ceramics  Division  of  the  National  Institute  for  Materials  Science  and  Engineering.  The  glass  material  was  prepared  by 
+adding  a  known  amount  of  a  glass  containing  the  minor  constituents  to  a  melt  of  the  pure  compounds  comprising  the  major 
+components. 
+
+NIST 
+Standard 
+
+Reference 
+Materials 
+
+  
+Le 
+
+<< ansieiesnoneneeenrnnnannaaen ) 
+f 
+
+U.S.  DEPARTMENT  OF  COMMERCE 
+National  Institute  of  Standards  and  Technology 
+
+Standard  Reference  Material  1834 
+
+Fused  Simulated  Ore  for  X-ray  Fluorescence  Spectrometry 
+
+The  National  Institute  of  Standards  and  Technology  (NIST)  announces  the  availability  of  Standard  Reference 
+Material  (SRM)  1834,  Simulated  Fused  Ore,  intended  for  calibrating  x-ray  fluorescence  spectrometers  for  the 
+analysis  of  rocks,  ores,  and  clays. 
+This  synthetic  glass  material  has  an  elemental  composition  similiar  to  NIST 
+SRM  97a  (Flint  Clay),  with  the  amount  lost  on  ignition  replaced  by  oxides  of  lithium  and  boron.  SRM  1834  can 
+also  be  used  in  quality  control  applications  and  to  monitor  instrument  stability. 
+
+SRM  1834  is  a  silica  base  glass  disk  (3  cm  in  diameter  x  0.3  cm  thick)  that  was  specially  prepared  by  the  NIST 
+Glass  and  Optical  Group,  Ceramics  Division  of  the  National  Institute  for  Materials  Science  and  Engineering.  The 
+certified  weight  percent  values  of  the  constituent  elements  in  SRM  1834  are  given  below.  The  certified  values  are 
+based  on  two  or  more  of  NIST  most  proven  analytical  techniques  at  NIST. 
+
+Element 
+
+Content,  wt.% 
+
+Element 
+
+Content,  wt.% 
+
+Aluminum 
+Barium 
+Calcium 
+Iron 
+Magnesium 
+
++0.10 
+20.71 
+0.062  +  0.003 
+0.095  +  0.005 
+0.32 
+0.088  +  0.004 
+
++0.03 
+
+Phosphorus 
+Potassium 
+Silicon 
+Strontium 
+Titanium 
+
+0.152  +  0.003 
++0.02 
+0.42 
++0.10 
+20.19 
+
+0.153  +  0.008 
+111 
+
++0.06 
+
+SRM  1834  may  be  purchased  for  $298  each,  from: 
+
+Standard  Reference  Materials  Program 
+Building  202,  Room  215 
+National  Institute  of  Standards  &  Technology 
+Gaithersburg,  MD  20899 
+
+Telephone  (301)  975-6776 
+FAX  (301)  948-3730
+
+

@@ -1,0 +1,359 @@
+﻿National Institute of Standards and Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 154c 
+
+ 
+
+ 
+
+Titanium Dioxide 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in the evaluation of techniques employed in 
+the assay of titanium dioxide in the paint and ceramic industries.  A unit of SRM 154c consists of a clear glass bottle 
+containing 90 g of titanium dioxide (TiO2) as a fine powder (45 m). 
+ 
+Certified Value:  The certified value, expressed as the mass fraction [1] of titanium dioxide (TiO2) on a dry basis 
+(see  Drying  Instructions),  is  provided  below.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or accounted for by 
+NIST. 
+ 
+
+Titanium Dioxide (mass fraction):  99.591 %    0.062 % 
+
+ 
+This  value  is  based  on  the  results  of  12  independent  coulometric  reductimetric  back-titrations [2]  performed  on  a 
+stratified  random  sampled  set  of  8  units  of  SRM 154c  and  referenced  to  coulometrically  standardized  potassium 
+dichromate (K2Cr2O7).  The dissolution and reduction procedure were adapted from American Society for Testing 
+and  Materials (ASTM)  Standard  Method D1394-76 [3].    The  certified  value  includes  corrections  for  elements 
+known  to  interfere  in  the  reduction  and  coulometric  titration  used  for  the  certification.    The  uncertainty  in  the 
+certified  value  is  expressed  as  an  expanded  uncertainty,  U = kuc,  calculated  according  to  the  methods  in  the  ISO 
+Guide [4].  The quantity uc represents, at the level of one standard deviation, the potential combined effects of the 
+uncertainty  due  to  sample  dissolution  and  reduction,  coulometric  titration,  and  correction  for  impurities.    The 
+quantity k is a coverage factor used to obtain an expanded uncertainty with an approximate confidence level of 95 %.  The 
+value of the coverage factor, k = 2.004, is determined from the Student’s t-distribution with 55.05 degrees of freedom and 
+a nominal confidence level of 95 %.  The certified value is based on mass in vacuum. Corrections for the effect of 
+air buoyancy were calculated using a density of 4.28 g/cm3 for SRM 154c.  For use of SRM 154c as a calibration 
+or  evaluation  standard,  it  is  the  responsibility  of  the  user  to  ascertain  which  elements  interfere  with  the 
+procedure being calibrated or evaluated and to make corresponding corrections for the given application. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 154c  is  valid,  within  the  measurement  uncertainties 
+specified,  until  31 December 2020  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions 
+given in this certificate (see Instructions for (see “Instructions for Handling, Storage and Use”).  This certification is 
+nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coulometric analyses were performed by K.W. Pratt of the NIST Analytical Chemistry Division. 
+ 
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 January 2011 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 154c 
+
+Page 1 of 3 
+
+The support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services 
+Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Sampling:  The unit should be thoroughly mixed by rotating the bottle before sampling.  A minimum sample mass 
+of  200 mg  should  be  used  for  analytical  determinations  to  be  related  to  the  certified  value  provided.    The  SRM 
+should  be  stored,  as  received,  in  its  original  container  with  the  cap  tightly  closed,  under  normal  laboratory 
+conditions. 
+ 
+Drying:  A portion of SRM 154c should be dried for 2 hours at 110 °C prior to weighing the sample and stored in a 
+desiccator over anhydrous magnesium perchlorate or equivalent desiccant, until analyzed. 
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+Source of Material:  The titanium dioxide used for this SRM was donated by CPM Industries, Wilmington, DE.1 
+The material has the characteristic off-white color of rutile and was stated by the supplier as an Ultra High Purity 
+grade of rutile titanium dioxide with a nominal crystal structure of 99 % rutile. 
+ 
+Information Values:  Noncertified impurity information values for SRM 154c are reported in Table 1. These values 
+are  based  on  the  results  of  the  determination  of  impurity  trace  elements  in  SRM 154c  by  glow-discharge  mass 
+spectrometry (GDMS).  The values are given to provide additional characterization of the material only. They are 
+not recommended for use to monitor or assess analytical performance. 
+ 
+
+Table 1.  Noncertified Impurity Information Values 
+
+ 
+Element 
+ 
+Aluminum 
+Antimony 
+Arsenic 
+Barium 
+Beryllium 
+Bismuth 
+Boron 
+Bromine 
+Cadmium 
+Calcium 
+Cerium 
+Cesium 
+Chlorine 
+Chromium 
+Cobalt 
+Copper 
+Dysprosium 
+Erbium 
+
+mg/kg 
+ 
+130 
+3 
+0.7 
+0.8 
+<0.01 
+<0.05 
+1.7 
+<0.1 
+<0.1 
+75 
+<0.05 
+<0.5 
+11 
+13 
+0.07 
+14 
+<0.05 
+<0.05 
+
+ Element 
+  
+ Europium 
+ Fluorine 
+ Gadolinium 
+ Gallium 
+ Germanium 
+ Gold 
+ Hafnium 
+ Holmium 
+ Iodine 
+ Iridium 
+ Iron 
+ Lanthanum 
+ Lead 
+ Lithium 
+ Lutetium 
+ Magnesium 
+ Manganese 
+ Mercury 
+
+mg/kg 
+ 
+<0.05 
+<0.1 
+<0.05 
+0.7 
+<0.1 
+<0.5 
+5 
+<0.05 
+<0.1 
+<0.05 
+100 
+
+0.3 
+1.1 
+0.9 
+<0.05 
+17 
+1.5 
+<0.1 
+
+ 
+
+Element 
+ 
+Molybdenum 
+Neodymium 
+Nickel 
+Niobium 
+Osmium 
+Palladium 
+Phosphorus 
+Platinum 
+Potassium 
+Praseodymium 
+Rhenium 
+Rhodium 
+Rubidium 
+Ruthenium 
+Samarium 
+Scandium 
+Selenium 
+Silicon 
+
+mg/kg 
+ 
+5.2 
+<0.05 
+0.2 
+
+120 
+<0.05 
+<0.1 
+100 
+<0.1 
+31 
+<0.05 
+<0.05 
+<0.5 
+5 
+<0.05 
+<0.05 
+<0.05 
+<0.1 
+500 
+
+mg/kg 
+ Element 
+ 
+  
+29 
+ Silver 
+220 
+ Sodium 
+ Strontium  <3000 
+28 
+ Sulfur 
+<0.1 
+ Tellurium 
+<0.05 
+ Terbium 
+<0.05 
+ Thallium 
+<0.01 
+ Thorium 
+<0.05 
+ Thulium 
+4.5 
+ Tin 
+1.6 
+ Tungsten 
+<0.01 
+ Uranium 
+7.8 
+ Vanadium 
+<0.05 
+ Ytterbium 
+ Yttrium 
+ Zinc 
+ Zirconium 
+ 
+
+190 
+ 
+
+<200 
+
+1.5 
+
+                                                           
+
+1
+Certain  commercial  organizations,  services,  equipment,  or  materials  are  identified  in  this  certificate  to  specify  adequately  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by National Institute of Standards and Technology 
+nor does it imply that the organizations, services, materials, or equipment identified are necessarily the best available for the purpose. 
+ 
+
+SRM 154c 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+ 
+[1] 
+
+[2] 
+
+Taylor, B.N.,  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special  Publication 811, 
+1995 ed.; U.S. Government Printing Office, Washington, DC (April 1995). 
+Pratt, K.W;  Automated,  High-Precision  Coulometric  Titrimetry,  Part I.  Engineering  and  Implementation; 
+Anal.  Chim.  Acta,  Vol. 289,  p. 125–134  (1994)  and  Automated,  High-Precision  Coulometric  Titrimetry, 
+Part II. Strong and Weak Acids and Bases; Anal. Chim. Acta, Vol. 289, p. 135–142 (1994). 
+
+[3]  ASTM D 1394-76  (reapproved 1999);  Standard  Test  Methods  for  Chemical  Analysis  of  White  Titanium 
+
+Pigments; Annu. Book ASTM Stand., Vol. 06.03 (1999). 
+
+[4]  Guide  to  the  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9,  1st ed.,  ISO,  Geneva, 
+Switzerland  (1993);  see  also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the 
+Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office, 
+Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Jan 2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    19 January 2011  (Extension  of  the  certification  period;  minor  editorial  revisions); 
+01 June 2001 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet http://www.nist.gov/srm. 
+
+SRM 154c 
+
+Page 3 of 3 
+
+

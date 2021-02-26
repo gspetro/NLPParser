@@ -1,0 +1,203 @@
+﻿National Institute of Standards & Technology 
+
+Certificate  
+Standard Reference Material 2097 
+ 
+High-Energy Charpy V-Notch Specimens 
+
+ 
+
+ 
+
+ 
+
+(Self-Verification, 8-mm Striker) 
+
+Lot No.:  HH-171 
+
+ 
+
+ 
+
+This Standard Reference Material (SRM) is intended for the verification of Charpy machines equipped with an 8-mm 
+striker, in accordance with the current ASTM Standard E23 [1] and the current ISO Standard 148-2 [2].  Each SRM 
+consists of a set of five specimens needed to perform one verification.  SRM 2097 is used for in-house verification 
+(self-verification).  
+ 
+Material  Description:    SRM 2097  is  made  from  4340  alloy  steel.    The  bars  are  finished  to  length,  stamped, 
+heat-treated, and machined in SRM specimen lots of approximately 1200 to 2000 specimens.  Each specimen has a 
+lot number and an identification number (three or four digits). 
+ 
+SRM Certification Procedure:  Specimens taken from each SRM lot were tested by the NIST Applied Chemicals 
+and  Materials  Division  on  Charpy  reference  machines.    These  data  were  statistically  evaluated  to  assess  the 
+homogeneity of the lot, establish the certified value, and determine the number of SRM specimens required for a user 
+to perform a valid verification.   A NIST certified value, as used within the context of this certificate, is a value for 
+which  NIST  has  the  highest  confidence  in  its  uncertainty  assessment [3].    The measurand is absorbed energy as 
+measured  by the NIST reference machines.    Traceability is to the SI unit joule.    The  certified  value  for  energy 
+absorbed by SRM 2097 is provided in Table 1. 
+ 
+
+Table 1.  Certified Absorbed Energy and Expanded Uncertainty for SRM 2097(a)
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+SRM 
+
+ 
+
+Lot 
+
+–40 °C  ±  1 °C 
+
+Absorbed Energy 
+(J) 
+
+Expanded Uncertainty 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+2097 
+
+HH-171 
+
+97.9 
+
+(J) 
+
+0.722 
+
+ 
+ 
+
+ 
+ 
+
+ 
+(a)   The uncertainty in the certified value provided is an expanded uncertainty.    The expanded uncertainty is calculated as U = kuc, 
+where uc represents the combined uncertainty consistent with the JCGM Guide [4].  The coverage factor, k = 1.9955, is based 
+on 68 degrees of freedom and corresponds to an approximate 95 % uncertainty interval. 
+
+ 
+Expiration  of  Certification:    The  certified  value  and  uncertainty  furnished  in  the  verification  report  are  valid 
+indefinitely.  The verification statement in the report that is issued for an acceptable machine is valid for a maximum 
+of one year from the date on which the SRM was tested.  If a user’s machine is moved or undergoes any major repairs 
+or adjustments, the current verification  will be invalidated, and the  machine  must  be  retested  and  reverified  (see 
+“Instructions for Handling, Storage, and Use”). 
+
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  verification  of  test  specimens  and 
+machines are under the direction of the NIST Applied Chemicals and Materials Division (Boulder, CO). 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date: 12 August 2019 
+
+Daniel G. Friend, Chief 
+Applied Chemicals and Materials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 2097 
+
+Page 1 of 2 
+
+ 
+ 
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+
+ted  through  the  NIST  Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+
+ 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  The protective oil coating should be wiped from each specimen with a lint-free cloth just prior to testing. 
+ 
+Storage:  The SRMs are anticipated to have an indefinite shelf life under normal storage conditions (20 °C ± 20 °C, 
+≤ 50 % relative humidity). 
+ 
+Use:  Prior to verifying a Charpy machine equipped with an 8-mm striker, the machine should be checked to ensure 
+compliance  with  the  appropriate  sections  of  the  applicable  ASTM  or  ISO  Standard.    SRM 2097  is  tested 
+at -40 °C ± 1 °C (–40 °F ± 2 °F) in accordance with the applicable standard (ASTM or ISO).  The SRM can be used 
+as  a  substitute  for  SRM 2096  to  meet  the  indirect  verification  requirement  of  ASTM E23  and  ISO 148-2  when 
+no-post  verification  test  analysis  from  NIST  is  needed.    The  SRM  cannot  be  used  to  verify  a  Charpy  machine 
+equipped with a 2-mm striker. 
+ 
+When using SRM 2097, the user performs a self-service verification of the test machine.   The data and specimens 
+are not returned to NIST following the test.  NIST provides no letter or certification sticker for the machine verified. 
+ 
+The energy level of the SRM appropriate for verifying the performance of a particular Charpy impact machine can 
+be determined by considering the energy for the SRM, the maximum capacity of the machine, and the requirements 
+of the applicable test method (ASTM or ISO). 
+ 
+For questions concerning the production or use of this SRM, please contact the NIST Charpy Program Coordinator: 
+telephone (303) 497-3351; fax (303) 497-5939; or e-mail charpy@boulder.nist.gov. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  ASTM E23-18, Standard Test Methods for Notched Bar Impact Testing of Metallic Materials, Annual Book of 
+
+[2] 
+
+[3] 
+
+ 
+[4] 
+
+ASTM Standards, Vol. 03.01, ASTM, West Conshohocken, PA. 
+ISO 148-2:2016,  Metallic  Materials  −  Charpy  Pendulum  Impact  Test  −  Part 2:  Verification  of  testing 
+machines, International Organization for Standardization (ISO), Vernier, Geneva, Switzerland. 
+JCGM 200:2012; International Vocabulary of Metrology - Basic and General Concepts and Associated Terms 
+(VIM) (2008 version with Minor Corrections), 3rd edition; Joint Committee for Guides in Metrology (JCGM); 
+(2012); available at https://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf (accessed  
+Aug 2019). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/sites/default/files/documents/2017/05/09/tn1297s.pdf (accessed Aug 2019). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program: telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at https://www.nist.gov/srm. 
+
+SRM 2097 
+
+Page 2 of 2 
+
+

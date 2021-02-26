@@ -1,0 +1,203 @@
+﻿ 
+
+NUT 
+
+Date of Issue: 
+ch  2018 
+13 March 2018 
+ 
+
+Standard Reference Material 2372a 
+Human DNA Quantitation Standard 
+CERTIFICATE OF ANALYSIS 
+
+ 
+
+ 
+
+ 
+
+ssignment  of  human  genomic 
+Purpose:  This Standard Reference Material (SRM) is intended for use in the value assignment of human genomic 
+iolymerase  chain  reaction 
+deoxyribonucleic acid (DNA) quantitation materials, primarily those used for quantitative polymerase chain reaction 
+(qPCR). 
+ 
+Description:  A unit of SRM 2372a consists of three well-characterized human genomic DNA materials in pH 8.0 
+aqueous buffer.  The components are derived from human buffy coat samples and labeled A, B, and C.  Component 
+A consists of genomic DNA from a single male donor.  Component B consists of genomic DNA from a single female 
+donor.  Component C consists of a gravimetric mixture of genomic DNA (1 part male donor to 3 parts female donor).  
+A unit of the SRM consists of one sterile 0.5 mL vial of each component, each vial containing approximately 55 µL 
+of DNA solution.  Each of these vials is labeled and is sealed with a color-coded screw cap. 
+ 
+Certified Values:  Certified values are provided in Table 1.  These certified values were determined based on droplet 
+dilution  factors, 
+digital polymerase chain reaction (ddPCR) assay counts of ten unique targets on eight chromosomes, dilution factors, 
+st  confidence  in 
+and droplet volume measurements.  A NIST certified value is a value for which NIST has the highest confidence in 
+that all known or suspected sources of bias have been accounted for.   
+ 
+
+vided  in  Table 
+
+oncentration  for  SRM 
+
+Table 1.  Certified Values of Number and Mass Concentration for SRM 2372a(a) 
+The  copy  number  values  are  metrologically  traceable  to  the  natural  units  count  1  and  ratio  1  and 
+International System of Units (SI) derived units of volume.  The DNA mass concentration values are 
+metrologically traceable to the natural units count and ratio 1 and SI derived units of mass and volume. 
+Copy Number(b) 
+(per nL) 
+  
+A (red cap) 
+15.1  ±  1.5 
+B (white cap) 
+17.5  ±  1.8 
+C (blue cap) 
+14.5  ±  1.5 
+
+49.8  ±  5.0 
+57.8  ±  5.8 
+47.9  ±  4.8 
+
+DNA(c) 
+(ng/µL) 
+
+Component 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval  x ± U95%(x)  with  95 %  confidence.    To  propagate  this 
+uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation U95%(x)/2. 
+(b) Copy  number  concentration  values,  human  haploid  genome  equivalents  (HHGE)  per  nanoliter,  are  based  on  droplet  digital 
+
+human 
+
+U 
+
+x 
+
+(ddPCR) assay counts of ten unique targets on eight chromosomes, dilution factors, and droplet volume measurements. 
+
+(c) Mass concentration values, nanograms of human genomic DNA per microliter, are calculated from the number concentration 
+concentration
+results, the number of nucleotide base pairs (bp) in the reference HHGE, and the mean molecular weight of the sodium salts of 
+the nucleotide monomers that comprise the DNA polymer. 
+
+ 
+ 
+Expiration of Certification:  The certification of SRM 2372a is valid, within the stated measurement uncertainty, 
+until 13 February 2023, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate  (see  “Storage  and  Handling”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+ 
+ 
+ 
+ 
+Michael J. Tarlov, Chief 
+Biomolecular Measurement Division  
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 2372a 
+
+ 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+ 
+
+Non-Certified Values:  Table 2 lists values for the number of mitochondrial genomes (mtDNA) relative to the number 
+of nuclear haploid genomes (nDNA) present in the SRM 2372a components.  Because they are based on a limited 
+number  of  independent  ddPCR  assays,  these  values  do  not  meet  NIST’s  criteria  for  certification  but  are  the  best 
+currently available estimates. 
+ 
+
+Table 2.  Assay-Specific mtDNA/nDNA Ratios(a) 
+These values are metrologically traceable to the ddPCR measurement method and assays used. 
+
+say 
+
+Component 
+
+mtDNA/nDNA 
+
+ 
+A (red cap) 
+ 
+B (white cap) 
+ 
+C (blue cap) 
+ 
+
+174  ±  4 
+206  ±  5 
+279  ±  7 
+
+(a) Values are expressed as x ± U95%(x), where x is the best-estimate value and U95%(x) is its expanded uncertainty.  The true value 
+of the ratio is believed to lie within the interval x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, treat the value 
+as a normally distributed random variable with mean x and standard deviation U95%(x)/2. 
+
+ 
+ 
+Storage and Handling:  Until required for use, SRM 2372a should be stored in the dark between 2 °C and 8 °C.  
+Component vials should be mixed briefly and centrifuged (without opening the vial cap) prior to removing sample 
+aliquots  for  analysis.    For  the  certified  values  to  be  applicable,  materials  should  be  withdrawn  immediately  after 
+opening the vials and processed without delay.  Certified values do not apply to any material remaining in recapped 
+vials.  The certification only applies to the initial use and the same results are not guaranteed if the remaining material 
+is used at a later date. 
+ 
+Use: For qPCR assays, value assign secondary standard DNA solutions relative to the certified mass concentrations. 
+Calibrate the assays to SRM 2372a using one or more dilution series prepared from a SRM 2372a component. For 
+non-gender-specific  qPCR  assays,  all  three  components  should  be  used  as  calibrants  to  elucidate  potential 
+material-assay specific interactions. Users should keep in mind that a potential for pipetting error exists; therefore, 
+suitable care should be exercised in preparing calibration solutions. 
+ 
+Safety:  Each donor unit used in the preparation of this product was tested by FDA-licensed tests and found to be 
+negative for human immunodeficiency virus (HIV-1 RNA and Anti-HIV 1/2), hepatitis B (HBV DNA and HBsAg), 
+hepatitis C (HCV RNA and Anti-HCV), West Nile virus (WNV RNA) and syphilis.  Additionally, each donor was 
+tested according to FDA guidelines for Trypanosoma cruzi (Chagas) and found to be negative/non-reactive.  However, 
+no known test method can offer complete assurance that infectious agents are absent from this material.  Accordingly, 
+this human blood-based product should be handled at the Biosafety Level 1.  SRM 2372a components and derived 
+solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Source:  This SRM was developed after an appropriate human subjects research determination by NIST. 
+ 
+Additional  Information:    Full  details  on  the  production,  analysis,  and  statistical  evaluation  of  SRM 2372a  are 
+provided in:  NIST Special Publication 260-189, Certification of Standard Reference Material® 2372a Human DNA 
+Quantitation Standard.  This publication is available free of charge at https://doi.org/10.6028/NIST.SP.260-189.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NIST  will  monitor  this  SRM  until  its  certification  expires.    If  substantive  technical  changes  occur  that  affect  the 
+certified values before this certificate expires, NIST will notify the purchaser.  Registration (see attached sheet or 
+register online) will facilitate notification. 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  Contact the Office of 
+Reference Materials 100 Bureau Drive, Stop 2300, Gaithersburg, Maryland 20899-2300; telephone (301) 975-2200; 
+fax (301) 948-3730; e-mail srminfo@nist.gov; or the internet at https://www.nist.gov/srm. 
+
+SRM 2372a 
+
+ 
+
+Page 2 of 2 
+
+

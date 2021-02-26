@@ -1,0 +1,1150 @@
+﻿ent  OF  Co, 
+
+“4 
+
+iW  An 
+,  |  ;  National  Institute  of  Standards  &  Cechnalagy 
+
+yg: 
+
+.. 
+
+Certificate  of  Analusis
+
+ 
+Standard Reference Material® 1954 
+ 
+Organic Contaminants in Fortified Human Milk 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected  polychlorinated  biphenyl  (PCB)  congeners,  chlorinated  pesticides,  and  polybrominated  diphenyl  ether 
+(PBDE)  congeners  in  human  milk  and  similar  matrices.    Reference  concentration  values  are  provided  for 
+polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs), as well as some inorganic 
+constituents.  An information concentration value is provided for the PCB mixture Aroclor 1260.  The compounds in 
+Appendix A were spiked into the milk prior to bottling.  A unit of SRM 1954 consists of five bottles of approximately 
+5 mL fortified human milk.   
+ 
+The  development  of  SRM  1954  was  a  collaboration  between  the  National  Institute  of  Standards  and  Technology 
+(NIST) and the Division of Laboratory Sciences, Organic Analytical Toxicology Branch, U.S. Centers for Disease 
+Control and Prevention (CDC). 
+ 
+Certified  Concentration  Values:    Certified  values  for  concentrations,  expressed  as  mass  fractions,  for  PCB 
+congeners, chlorinated pesticides, and PBDE congeners along with 1 polybrominated biphenyl congener are provided 
+in Tables 1, 2, and 3, respectively.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  The certified 
+values  for the PCB congeners,  chlorinated pesticides, and PBDE congeners are based on the agreement of results 
+obtained  at  NIST  using  one  or  more  analytical  techniques  and  additional  results  from  the  CDC  and  from  an 
+interlaboratory study using different analytical techniques. 
+ 
+Reference Concentration Values:  Reference concentration values, expressed as mass fractions, are provided in 
+Table 4 for additional PCB, chlorinated pesticides, and PBDE congeners; in Table 5 for elements; and in Table 6 
+for  PCDD  and  PCDF  congeners.    Reference  values  are  noncertified  values  that  are  estimates  of  the  true  value; 
+however, the values do not meet the NIST criteria for certification and are provided with associated uncertainties that 
+may reflect only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient 
+statistical agreement among multiple analytical methods [1]. 
+ 
+Information Concentration Values:  An information concentration value for Aroclor 1260 is provided in Table 7.  
+An information value is considered to be a value that will be of use to the SRM user, but insufficient information is 
+available to assess the uncertainty associated with the value or only a limited number of analyses were performed [1].  
+Information values cannot be used to establish metrological traceability.  
+ 
+Expiration of Certification:  The certification of SRM 1954 is valid, within the measurement uncertainty specified, 
+until 31 August 2025, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of technical measurements leading to certification were performed by L.C. Sander 
+and S.A. Wise of the NIST Chemical Sciences Division and M.M. Schantz formerly of NIST. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  01 February 2016 
+Certificate Revision History on Page 9 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 1954 
+
+Page 1 of 10 
+
+Partial  support  for  the  development  of  SRM  1954  was  provided  by  the  Division  of  Laboratory  Sciences,  Organic 
+Analytical Toxicology Branch, CDC, Atlanta, GA. 
+ 
+Preparation of the milk was performed by Aalto Scientific, Ltd., Carlsbad, CA.   
+ 
+Analytical measurements at NIST were performed by J.M. Keller, S.E. Long, M.M. Schantz, S.S. Vander Pol, and 
+L.J. Wood  of  the  NIST  Chemical  Sciences  Division.    Analytical  measurements  at  CDC  were  performed  by 
+D. Patterson, A. Sjödin, and W. Turner of the CDC Organic Analytical Toxicology Branch.  Laboratories participating 
+in an interlaboratory study  included  Institut National de  Santé Publique du  Québec  (Québec, Canada), Stockholm 
+University (Stockholm, Sweden), and University of Liege (Liege, Belgium). 
+ 
+Statistical consultation was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM  1954  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.    HANDLE 
+PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE.  
+The milk was pasteurized prior to preparation of SRM 1954.  However, no known test method can offer complete 
+assurance that infectious agents are absent from this material.  Accordingly, this human milk-based product should be 
+handled  at  the  Biosafety  Level  2  or  higher  as  recommended  for  any  POTENTIALLY  INFECTIOUS  HUMAN 
+SPECIMEN in the CDC/National Institutes of Health (NIH) Manual [2].   
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The milk is frozen and should be stored in a freezer at –20 °C until use.  It should not be exposed to sunlight 
+or ultraviolet radiation.  After thawing, the contents should be used immediately. 
+ 
+Use:  Bring the vial to room temperature.  Once the milk is thawed, mix contents by gently swirling.  Do not shake 
+vigorously because this will cause frothing.  The recommended minimum sample size is 0.25 g. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Source  of  Material:    Milk  was  acquired  from  six  milk  banks  located  around  the  U.S:    Florida (4 %), 
+North Carolina (6 %), Iowa (6 %), Delaware (7 %), California (12 %), and Texas (65 %).   
+ 
+Preparation of Material:  The milk was pooled (approximately 100 L total) and was stored at 4 °C.  The pool was 
+split  into  two  for  production  of  SRM 1953  Organic  Contaminants  in  Non-Fortified  Human  Milk  and  SRM 1954.  
+Before  bottling,  approximately  710 mL  of  methanol  containing  169  compounds  at  varying  concentrations 
+(Appendix A) was added to 50 L of milk, which was then stirred for 4 h.  Using a calibrated automatic pipetter, 5 mL 
+aliquots of milk were dispensed into 10 mL amber glass vials. 
+ 
+Analytical Methods Used at NIST:  For NIST  Method 1, the frozen  milk in each of ten bottles  was thawed.    A 
+known  amount  of  internal  standard  solution  (containing  selected  13C-labeled  PCB  congeners,  selected 
+13C-labeled pesticides,  13C-labeled PBDE 209, fluorinated PBDE 47, PCB 103, and PCB 198) was added to  
+each  bottle,  sonicated  for  15 min  and  allowed  to  equilibrate  overnight  under  refrigeration.    After  samples  were 
+removed  from  refrigeration  and  allowed  to  reach  ambient  temperature,  10 mL  of  formic  acid  was  added,  as  a 
+denaturation agent, followed immediately by 10 mL of a 1+1 (volume fraction) mixture of n-hexane:methyl-tert-butyl 
+ether  for  extraction.    The  samples  were  vortexed  and  left  to  stand  for  0.5 h  with  occasional  stirring.    After 
+centrifugation to obtain a sharp phase boundary, the upper organic phase was transferred to a concentration vessel.  
+The extraction was repeated two more times with 10 mL of n-hexane each time.  The combined organic layers were 
+concentrated to approximately 4 mL using an automated evaporation system.  Approximately 2 mL of concentrated 
+sulfuric acid was added to the concentration vessel with swirling.  Following phase separation, the organic phase was 
+removed,  and  the  sulfuric  acid  phase  was  washed  twice  using  4 mL  portions  of  n-hexane.   The  combined  hexane 
+phases were concentrated to approximately 0.5 mL for silica solid-phase extraction (SPE) clean-up.  The fraction of 
+interest was eluted with 15 mL of 10 % (volume fraction) dichloromethane in hexane.  The concentrated samples were 
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 1954 
+
+Page 2 of 10 
+
+analyzed  using  gas  chromatography/mass  spectrometry  (GC/MS)  operated  in  both  the  electron  impact  (EI)  and 
+negative  ion  chemical  ionization  (NICI)  mode.    A  0.25 mm × 60 m  fused  silica  capillary  column  containing  a 
+non-polar proprietary phase (DB-XLB, Agilent Technologies, Wilmington, DE) 0.25 µm film thickness was used for 
+the EI analysis (NIST Method 1a) while a 0.25 mm × 60 m fused silica capillary column containing a 50 % (mole 
+fraction)  phenyl-substituted  methylpolysiloxane  phase  (DB-17MS,  Agilent  Technologies)  was  used  for  the  NICI 
+analysis (NIST Method 1b).  All injections were 1 µL using an on-column inlet. 
+ 
+For NIST Method 2, the frozen  milk in each of six bottles  was thawed.    A  known  amount  of  internal  standard 
+solution (containing selected  13C-labeled PCB congeners, selected  13C-labeled pesticides,  13C-labeled PBDE 
+209,  and  selected  fluorinated  PBDE  congeners)  was  added  to  a  2.5  g  milk  test  portion  from  each  bottle, 
+vortexed, and allowed to equilibrate overnight under refrigeration.  After samples were removed from refrigeration 
+and allowed to reach ambient temperature, 2 mL of formic acid was added followed by 3 mL of 20 % (volume fraction) 
+dichloromethane  in  hexane.    Samples  were  extracted  using  focused  microwave  extraction.    Following  extraction, 
+samples  were  centrifuged,  the  organic  phase  was  removed,  and  another  3 mL  of  20 %  (volume  fraction) 
+dichloromethane  in  hexane  was  added.    The  extraction  was  repeated,  and  the  organic  phases  were  combined.  
+Following  concentration  with  a  solvent  exchange  to  iso-octane,  sulfuric  acid-silica  column  clean-up  was  used, 
+followed by alumina column (5 % deactivated) clean-up.  The eluant from the clean-up columns was concentrated to 
+0.2 mL with a solvent change to iso-octane for analysis.  The concentrated samples were analyzed using GC/MS in 
+the EI mode (NIST Method 2a) with a 0.18 mm × 30 m fused silica capillary column containing a 5 % (mole fraction) 
+phenyl-substituted methylpolysiloxane phase (DB-5MS, Agilent Technologies) 0.18 µm film thickness.  All injections 
+were 20 µL using a programmable temperature vaporization (PTV) inlet.  For NIST Method 2b, the same extracts 
+were analyzed by GC/MS in the NICI mode using on-column injection into a 0.18 mm × 10 m fused silica capillary 
+column  containing  a  5 %  (mole  fraction)  phenyl-substituted  methylpolysiloxane  phase  (DB-5MS,  Agilent 
+Technologies), 0.18 µm film thickness. 
+ 
+For all of the NIST methods, multi-point calibration response curves  for the compounds of interest relative to the 
+internal  standards  were  determined  by  processing  gravimetrically  diluted  solutions  of  SRM 2261,  SRM 2262, 
+SRM 2274,  and  SRM  2275  plus  gravimetrically  prepared  solutions  of  the  additional  analytes  of  interest  with  the 
+internal standards added.  
+  
+Analytical Methods Used at CDC:  Details of the analytical methods used at CDC can be found in Patterson and 
+Turner [3] and Sjödin et al. [4].  In summary, the frozen milk was thawed and mixed.  Sample extraction was performed 
+using  a  C18  SPE  method.    After  addition  of  the  internal  standard  solution  and  formic  acid,  the  sample  was  eluted 
+through an SPE column using appropriate solvents.  The eluant was then cleaned up using a Universal Prep system 
+(Fluid Management Systems, Waltham, MA) containing an acid/neutral/base silica column, an alumina column, and 
+a  carbon  column.    Corresponding  13C-labeled  compounds  were  used  as  internal  standards  for  the  majority  of  the 
+analytes. 
+ 
+Gas chromatography/high-resolution mass spectrometry (GC/HRMS) with mass resolution of 10 000 was used for the 
+determination  of  the  PCBs,  chlorinated  pesticides,  PBDEs,  PCDDs,  and  PCDFs.    The  GC  column  was  a 
+0.25 mm × 30 m fused silica capillary column containing a 5 % (mole fraction) phenyl-substituted methylpolysiloxane 
+phase (DB-5MS, J&W Scientific, Folsom, CA), 0.25 µm film thickness.  All injections were splitless with helium as 
+the carrier gas. 
+ 
+Interlaboratory Study:  The three laboratories participating in the interlaboratory study used their usual methods for 
+these analyses.  Not every laboratory reported data for every analyte.  When more than one laboratory did report data 
+for a particular analyte, the mean of the concentrations was used for combination with other data to assign the certified 
+and reference concentration values.  
+ 
+ 
+Non-Volatile Extractable Mass Determination:  The percent of non-volatile extractable material (or total extractable 
+organics, TEO) was determined gravimetrically for the data sets described above.  Non-volatile extractable material is 
+3.21 %  0.33 % (95% confidence interval for the mean). 
+ 
+Total Mercury:  The concentration value for mercury is derived from isotope dilution cold vapor inductively coupled 
+plasma mass spectrometry measurements performed at NIST [5–7]. 
+ 
+Other Elements: The concentration values for calcium, copper, iron, magnesium, manganese, phosphorus, potassium, 
+sodium, and zinc were measured using inductively coupled plasma optical emission spectrometry (ICP-OES).  Test 
+portions (10 g) were digested in nitric acid.  To correct for matrix effects caused by differences between samples and 
+calibrants, the method of standard additions was used.  Results from the ICP-OES measurement were corrected for 
+spike recoveries. 
+ 
+
+SRM 1954 
+
+Page 3 of 10 
+
+Homogeneity Assessment:    The  homogeneity  of  PCBs,  pesticides,  and  PBDEs  was  assessed  at  NIST  by  using 
+Method 1.  An analysis of variance did not show inhomogeneity for a 5 g sample.  Other analytes were treated as 
+though they were homogeneously distributed in the material although homogeneity was not assessed. 
+ 
+
+Table 1.  Certified Concentration Values for Selected PCB Congeners(a) in SRM 1954 
+
+ 
+
+ 
+ 
+
+Mass Fraction 
+(ng/kg) 
+
+ 
+ 
+(2,2',5-Trichlorobiphenyl)(b,c) 
+(2,4,4'-Trichlorobiphenyl)(b,e,f) 
+(2,2',3,5'-Tetrachlorobiphenyl)(b,c,e) 
+(2,2',4,5'-Tetrachlorobiphenyl)(b,c,e) 
+(2,2',5,5'-Tetrachlorobiphenyl)(b,c,e,f) 
+(2,3',4,4'-Tetrachlorobiphenyl)(b,c,e) 
+(2,4,4',5-Tetrachlorobiphenyl)(b,c,e) 
+(2,2',3,4,5'-Pentachlorobiphenyl)(b,c,e) 
+(2,2',4,4',5-Pentachlorobiphenyl)(b,c,e,f,h) 
+(2,2',4,5,5'-Pentachlorobiphenyl)(b,c,e,f,h) 
+(2,3,3',4,4'-Pentachlorobiphenyl)(b,c,e,f,h) 
+(2,3,3',4',6-Pentachlorobiphenyl)(b,c,e,h) 
+(2,3',4,4',5-Pentachlorobiphenyl)(b,e,f,h) 
+(2,2',3,3',4,4'-Hexachlorobiphenyl)(b,c,e,f,h) 
+(2,2',3,4,4',5'-Hexachlorobiphenyl)(b,c,f) 
+(2,2',3,4',5,5'-Hexachlorobiphenyl)(b,c,e,h) 
+(2,2',3,4',5',6-Hexachlorobiphenyl)(b,c,e,h) 
+(2,3,3',4,4'-Hexachlorobiphenyl)(b,c,e,h) 
+(2,2',4,4',5,5'-Hexachlorobiphenyl)(b,e,f) 
+(2,3,3',4,4',5-Hexachlorobiphenyl)(b,c,e,f,h) 
+(2,3,3',4,4',5'-Hexachlorobiphenyl)(b,c,e,f,h) 
+(2,3,3',4,4',5'-Hexachlorobiphenyl)(b,c,h) 
+(2,3',4,4',5,5'-Hexachlorobiphenyl)(b,c,e,f,h) 
+(2,2',3,3',4,4',5-Heptachlorobiphenyl)(b,c,e,f,h) 
+(2,2',3,3',4,5,5'-Heptachlorobiphenyl)(b,c,e,h) 
+(2,2',3,3',4',5,6-Heptachlorobiphenyl)(b,c,e,h) 
+(2,2',3,3',5,5',6-Heptachlorobiphenyl)(b,c,e,h) 
+(2,2',3,4,4',5,5'-Heptachlorobiphenyl)(b,e,f) 
+(2,2',3,4,4',5',6-Heptachlorobiphenyl)(b,c,e,f,h) 
+(2,2',3,4',5,5',6-Heptachlorobiphenyl)(b,c,e,f,h) 
+(2,3,3',4,4',5,5'-Heptachlorobiphenyl)(b,c,e,f,h) 
+(2,2',3,3',4,4',5,5'-Octachlorobiphenyl)(c,e,h) 
+(2,2',3,3',4,4',5,6-Octachlorobiphenyl)(c,e,h) 
+(2,2',3,3',4,4',5,6'-Octachlorobiphenyl)(c,e) 
+(2,2',3,4,4',5,5',6-Octachlorobiphenyl) 
+(2,2',3,3',4,5,5',6'-Octachlorobiphenyl)(c,e) 
+(2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl)(c,e,h) 
+(Decachlorobiphenyl)(c,e,h) 
+
+ 
+ 
+ 
+PCB  18 
+PCB  28 
+PCB  44 
+PCB  49 
+PCB  52 
+PCB  66 
+PCB  74 
+PCB  87 
+PCB  99 
+PCB  101 
+PCB  105 
+PCB  110 
+PCB  118 
+PCB  128 
+PCB  138 
+PCB  146 
+PCB  149 
+PCB  151 
+PCB  153 
+PCB  156 
+PCB  157 
+PCB   158 
+PCB  167 
+PCB  170 
+PCB  172 
+PCB  177 
+PCB  178 
+PCB  180 
+PCB  183 
+PCB  187 
+PCB  189 
+PCB  194 
+PCB  195 
+PCB  196 
+ 
+203 
+PCB  199 
+PCB  206 
+PCB  209 
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [8] and later revised by Schulte and 
+Malisch [9] to conform with IUPAC rules.  For the specific congeners mentioned in this table, PCB 199 is PCB 201 under the 
+Ballschmiter and Zell scheme.   When two congeners are known to coelute under the GC analysis conditions used, the PCB 
+congener listed first is the major component and the additional congeners may be present as minor components.  The quantitative 
+results are based on the response of the congener listed first. 
+
+  45(d) 
+  24(d) 
+  35(d) 
+  15(d) 
+  40(g) 
+  40(d) 
+  19(d) 
+  57(d) 
+  38(d) 
+  26(g) 
+  31(d) 
+  34(g) 
+  35(g) 
+  26(g) 
+  34(d) 
+  30(g) 
+  12(d) 
+  22(d) 
+  49(d) 
+  54(d) 
+  33(g) 
+  20(d) 
+  53(g) 
+  63(g) 
+  29(g) 
+  27(d) 
+  12(g) 
+  71(d) 
+  19(g) 
+  25(g) 
+  35(g) 
+  28(d) 
+  40(d) 
+  61(d) 
+
+355 
+519 
+415 
+429 
+425 
+428 
+563 
+457 
+558 
+442 
+482 
+458 
+597 
+400 
+639 
+492 
+408 
+417 
+977 
+511 
+467 
+402 
+467 
+507 
+443 
+447 
+449 
+696 
+445 
+517 
+432 
+482 
+461 
+872 
+
+  35(d) 
+  30(d) 
+  36(d) 
+
+469 
+465 
+436 
+
+(b) NIST Method 1a using liquid-liquid extraction followed by GC/MS in the EI mode. 
+(c) NIST Method 2a using focused microwave extraction followed by GC/MS in the EI mode. 
+(d) Certified values are unweighted means of the results from two to five analytical methods.  The uncertainty listed with the value 
+is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [10] 
+with a pooled, within-method variance following the ISO/JCGM Guide [11].  The measurands are the total mass fractions of 
+selected PCB congeners.  The certified values are metrologically traceable to the SI unit for mass, expressed as nanograms per 
+kilogram. 
+
+(e) CDC method using GC/HRMS. 
+(f) Results from interlaboratory study. 
+
+SRM 1954 
+
+Page 4 of 10 
+
+(g) Certified values are weighted means of the results from four or five analytical methods [12].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95 %  confidence)  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the 
+ISO/JCGM  Guide  [11].    The  measurands  are  the  total  mass  fractions  of  selected  PCB  congeners.    The  certified  values  are 
+metrologically traceable to the SI unit for mass, expressed as nanograms per kilogram. 
+
+(h) NIST Method 1b using liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+ 
+
+Table 2.  Certified Concentration Values for Selected Chlorinated Pesticides in SRM 1954 
+
+ 
+ 
+
+Mass Fraction  
+(ng/kg)  
+ 
+
+Hexachlorobenzene(a,b,c,d) 
+β-HCH(a,b,c,d) 
+γ-HCH(a,c) 
+Oxychlordane(b,c,d,g) 
+cis-Chlordane(d,g) 
+trans-Chlordane(d,g) 
+cis-Nonachlor(d,g) 
+trans-Nonachlor(c,d,g) 
+Mirex(b,c,d,g) 
+2,4'-DDE(a,b) 
+4,4'-DDE(a,b,c,d) 
+2,4'-DDD(a,b) 
+4,4'-DDD(a,d) 
+2,4'-DDT(a,c) 
+4,4'-DDT(a,b,c) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) NIST Method 1a using liquid-liquid extraction followed by GC/MS in the EI mode. 
+(b) NIST Method 2a using focused microwave extraction followed by GC/MS in the EI mode. 
+(c) CDC method using GC/HRMS. 
+(d) Results from interlaboratory study. 
+(e) Certified values are weighted means of the results from four or five analytical methods [12].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence)  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the 
+ISO/JCGM Guide [11].  The measurands are the total mass fractions of selected chlorinated pesticides.  The certified values are 
+metrologically traceable to the SI unit for mass, expressed as nanograms per kilogram. 
+
+41(e) 
+ 
+38(f) 
+ 
+34(f) 
+ 
+  130(e) 
+9(f) 
+ 
+9(f) 
+ 
+11(f) 
+ 
+  140(f) 
+23(f) 
+ 
+14(f) 
+ 
+  350(e) 
+16(f) 
+ 
+15(f) 
+ 
+21(f) 
+ 
+74(f) 
+ 
+
+672 
+829 
+588 
+1050 
+368 
+377 
+496 
+1700 
+515 
+400 
+8120 
+427 
+425 
+444 
+703 
+
+(f)  Certified values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with the value 
+is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [10] 
+with a pooled, within-method variance following the ISO/JCGM Guide [11].  The measurands are the total mass fractions of 
+selected chlorinated pesticides.  The certified values are metrologically traceable to the SI unit for mass, expressed as nanograms 
+per kilogram. 
+
+(g) NIST Method 1b using liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+ 
+
+ 
+
+SRM 1954 
+
+Page 5 of 10 
+
+Table 3.  Certified Concentration Values for Selected PBDE Congeners and for PBB 153(a) in SRM 1954 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+401 
+579 
+
+  44(f) 
+  21(g) 
+
+ Mass Fraction 
+(ng/kg)   
+
+ 
+ 
+ 
+ 
+(2,2',4-Tribromodiphenyl ether)(b,c,d,e) 
+PBDE  17 
+(2,4,4'-Tribromodiphenyl ether)(b,c) 
+PBDE  28 
+(2',3,4-Tribromodiphenyl ether) 
+ 
+33 
+(2,2',4,4'-Tetrabromodiphenyl ether)(b,d,e,h) 
+PBDE  47 
+(2,3',4,4'-Tetrabromodiphenyl ether)(b,c,d,e,h) 
+PBDE  66 
+(2,2',3,4,4'-Pentabromodiphenyl ether)(b,c,d,e,h) 
+PBDE  85 
+(2,2',4,4',5-Pentabromodiphenyl ether)(b,c,d,e,h) 
+PBDE  99 
+PBDE  100  (2,2',4,4',6-Pentabromodiphenyl ether)(b,c,d,e,h) 
+PBDE  153  (2,2',4,4',5,5'-Hexabromodiphenyl ether)(b,c,d,e,h) 
+PBDE  154  (2,2',4,4',5,6'-Hexabromodiphenyl ether)(b,d,h) 
+PBDE  183  (2,2',3,4,4',5',6-Heptabromodiphenyl ether)(b,c,d,e) 
+PBDE  209  (Decabromodiphenyl ether)(b,c,e) 
+PBB 
+ 
+(a) PBDE congeners and PBB 153 are numbered according to IUPAC rules.  When two congeners are known to coelute under the 
+GC analysis conditions used, the PBDE congener listed first is the major component and the additional congeners may be present 
+as minor components.  The quantitative results are based on the response of the congener listed first. 
+
+  190(g) 
+  24(g) 
+7(f) 
+ 
+  41(f) 
+  90(g) 
+  90(f) 
+  30(g) 
+  34(f) 
+  24(g) 
+  25(g) 
+
+2570 
+411 
+473 
+739 
+1280 
+1440 
+464 
+511 
+423 
+474 
+
+153  (2,2',4,4',5,5'-Hexabromobiphenyl)(b,e) 
+
+(b) NIST Method 1b using liquid-liquid extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 1a). 
+(c) NIST Method 2b using focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+(d) CDC method using GC/HRMS 
+(e) Results from interlaboratory study 
+(f) Certified values are weighted means of the results from four or five analytical methods [12].  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95  %  confidence)  calculated  by 
+combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the 
+ISO/JCGM  Guide [11].  The measurands are the total mass fractions of selected PBDE congeners.  The certified values  are 
+metrologically traceable to the SI unit for mass, expressed as nanograms per kilogram. 
+
+(g) Certified values are the unweighted means of the results from two to five analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2,  calculated  by  combining  a  between-method 
+variance [10] with a pooled, within-method variance following the ISO/JCGM Guide [11].  The measurands are the total mass 
+fractions of selected PBDE congeners and for PBB 153.  The certified values are metrologically traceable to the SI unit for mass, 
+expressed as nanograms per kilogram. 
+
+(h) NIST Method 2a using focused microwave extraction followed by GC/MS in the EI mode. 
+ 
+
+ 
+
+SRM 1954 
+
+Page 6 of 10 
+
+Table 4.  Reference Concentration Values for Selected PCB Congeners(a),  
+Chlorinated Pesticides, and PBDE Congeners in SRM 1954 
+ 
+
+ 
+
+ 
+ 
+
+(ng/kg)  
+
+Mass Fraction 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [8] and later revised by Schulte and 
+
+PCB  77  (3,3',4,4'-Tetrchlorobiphenyl)(b) 
+PCB  81  (3,4,4',5-Tetrchlorobiphenyl)(b) 
+PCB  114 (2,3,4,4',5-Pentachlorobiphenyl)(d) 
+PCB  123 (2',3,4,4',5-Pentachlorobiphenyl)(d) 
+PCB  126 (3,3',4,4',5-Pentachlorobiphenyl)(b,d) 
+PCB  169 (3,3',4,4',5,5'-Hexachlorobiphenyl)(b,d) 
+Pentachlorobenzene(f) 
+Octachlorostyrene(f) 
+PBDE 203 (2,2',3,4,4',5,5',6-Octabromodiphenyl ether)(g) 
+PBDE 206 (2,2',3,3',4,4',5,5',6-Nonabromodiphenyl ether)(d,g) 
+
+2.71   
+0.630  
+90.5   
+67.9   
+10.4   
+9.3   
+
+0.14(c) 
+0.028(c) 
+7.4(c) 
+3.1(c) 
+1.5(e) 
+1.2(e) 
+
+  24(c) 
+  28(c) 
+  44(c) 
+  170(e) 
+
+362 
+374 
+494 
+816 
+
+Malisch [9] to conform with IUPAC rules.   
+
+(b) CDC method using GC/HRMS. 
+(c) Reference values are the means of results using one analytical technique.  The expanded uncertainty, U, is calculated as U = kuc, 
+where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the Student’s t-distribution 
+corresponding to the associated degrees of freedom and 95 % confidence level for each analyte.  The measurand is the mass fraction 
+as determined by the indicated method.  The reference values are metrologically traceable to the SI unit for mass, expressed as 
+nanograms per kilogram. 
+
+(d) Results from interlaboratory study. 
+(e) Reference values are unweighted means of the results from two analytical methods.  The uncertainty listed with the value is an 
+expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [10] with a 
+pooled, within-method variance following the ISO/JCGM Guide [11]. 
+
+(f) NIST Method 2a using focused microwave extraction followed by GC/MS in the EI mode. 
+(g) NIST Method 2b using focused microwave extraction followed by GC/MS in the NICI mode (same extracts as NIST Method 2a). 
+ 
+
+Table 5.  Reference Concentration Values for Selected Elements in SRM 1954 
+
+Mass Fraction 
+(mg/kg) (a) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+32.4 
+
+  257 
+
+  2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Calcium(b) 
+Copper(b) 
+Iron(b) 
+Magnesium(b) 
+Manganese(b) 
+Phosphorus(b) 
+Potassium(b) 
+Sodium(b) 
+ 
+ 
+ 
+ 
+Mercury(c) 
+
+0.268     
+0.194     
+   
+0.040     
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The reference values are the means of results obtained using one analytical technique. The expanded uncertainty, U, is calculated 
+as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the Student’s 
+t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte.  The measurand is the 
+mass fraction as determined by the indicated method.  The reference values are metrologically traceable to the SI unit for mass, 
+expressed as milligrams per kilogram or micrograms per kilogram. 
+
+135   
+462   
+127   
+   
+Mass Fraction   
+  μg/kg (a) 
+
+0.003 
+0.007 
+0.2 
+0.002 
+2 
+7 
+3 
+
+0.101    0.033 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b) Results from ICP-OES measurements performed at NIST. 
+(c) Results from isotope dilution cold vapor inductively coupled plasma mass spectrometry measurements performed at NIST. 
+ 
+
+ 
+
+SRM 1954 
+
+Page 7 of 10 
+
+Table 6.  Reference Concentration Values for Selected  
+Dibenzo-p-dioxin and Dibenzofuran Congeners in SRM 1954  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction  
+(pg/kg) (a) 
+
+162 
+240 
+182 
+890 
+207 
+1080 
+4890 
+
+ 
+20 
+ 
+17 
+16 
+     
+      140 
+     
+20 
+      240 
+      850 
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin(b,c) 
+1,2,3,7,8-Pentachlorodibenzo-p-dioxin(b,c) 
+1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin(b,c) 
+1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin(b,c) 
+1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin(b,c) 
+1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin(b,c) 
+Octachlorodibenzo-p-dioxin(b,c) 
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Reference values are unweighted means of the results from two analytical  methods except for octachlorodibenzofuran.  The 
+uncertainty listed with the value is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a 
+between-method variance [10] with a pooled, within-method variance following the ISO/JCGM Guide [11].  The reference value 
+for octachlorodibenzofuran is the mean of results using one analytical technique. The expanded uncertainty, U, is calculated as 
+U = kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is  determined  from  the  Student’s 
+t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte.  The measurand is the 
+mass fraction as determined by the indicated method.  The reference values are metrologically traceable to the SI unit for mass, 
+expressed as pictograms per kilogram. 
+
+2,3,7,8-Tetachlorodibenzofuran(b,c) 
+1,2,3,7,8-Pentachlorodibenzofuran(b,c) 
+2,3,4,7,8-Pentachlorodibenzofuran(b,c) 
+1,2,3,4,7,8-Hexachlorodibenzofuran(b,c) 
+1,2,3,6,7,8-Hexachlorodibenzofuran(b,c) 
+1,2,3,7,8,9-Hexachlorodibenzofuran(b,c) 
+2,3,4,6,7,8-Hexachlorodibenzofuran(b,c) 
+1,2,3,4,6,7,8-Heptachlorodibenzofuran(b,c) 
+1,2,3,4,7,8,9-Heptachlorodibenzofuran(b,c) 
+Octachlorodibenzofuran(b) 
+
+10 
+     
+18 
+     
+25 
+     
+15 
+     
+17 
+     
+     
+15 
+      100 
+     
+45 
+      100 
+      12.7 
+
+125 
+132 
+347 
+171 
+186 
+129 
+1090 
+407 
+160 
+94.3 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+(b) CDC method using GC/HRMS. 
+(c) Results from interlaboratory study. 
+
+ 
+ 
+Table 7.  Information Concentration Value for Aroclor 1260 in SRM 1954(a) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+(a) Concentrations determined by Institut National de santé publique du Québec (Québec, Canada).   
+
+Aroclor 1260 
+
+  8065 
+
+ Mass Fraction  
+(ng/kg)  
+
+SRM 1954 
+
+Page 8 of 10 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government 
+Printing  Office:    Washington, DC  (2000);  available  at:  http://www.nist.gov/srm/publications.cfm  (accessed 
+Feb 2016). 
+
+[2]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+CDC and National Institutes of Health; US Government Printing Office: Washington, D.C. (2007); available at 
+http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf. (accessed Feb 2016). 
+
+[3]  Patterson, D.G. Jr;  Turner, W.E.;  Analysis  of  Serum,  Adipose  Tissue,  and  Breast  Milk  for  PCDDs,  PCDFs, 
+cPCBs,  PCB  Congeners,  Chlorinated  Pesticides  by  High  Resolution  Gas  Chromatography  Isotope-Dilution 
+High  Resolution  Mass  Spectrometry;  CLIA  Document,  Environmental  Health  Laboratory,  Center  for 
+Environmental Health, Centers for Disease Control and Prevention, Atlanta, GA, pp. 1–253 (1997). 
+
+[4]  Sjödin, A.;  Jones, R.S.;  Lapeza, C.R.;  Focant, J.-F.;  McGahee, E.E. III;  Patterson, D.G.  Jr;  Semiautomated 
+High-Throughput Extraction and Cleanup Method for the Measurement of Polybrominated Diphenyl Ethers, 
+Polybominated  Biphenyls,  and  Polychlorinated  Biphenyls  in  Human  Serum;  Anal.  Chem.;  Vol. 76,  
+pp. 1921–1927 (2004). 
+
+[5]  Christopher, S.J.; Long, S.E.;  Rearick, M.S.;  Fassett, J.D.;  Development of High Accuracy Vapor Generation 
+Inductively Coupled Plasma Mass Spectrometry and its Application to the Certification of Mercury in Standard 
+Reference Materials; Anal. Chem.; Vol. 73, pp. 2190–2199 (2001). 
+
+[6]  Long,  S.E.;  Kelly,  W.R.;  Accurate  Determination  of  Mercury  in  Coal  by  Isotope  Dilution  Cold-Vapor 
+Generation Inductively Coupled Plasma Mass Spectrometry; Anal. Chem.; Vol. 74, pp. 1477–1483 (2002). 
+[7]  Long, S.E.;  Davis, W.C.;  Day, R.;  Christopher, S.J.;  Mann, J.L.;  Kelly, W.R.;  Improved  Certified  Values  for 
+Total Mercury and Speciated Mercury in NIST Standard Reference Materials Using Isotope Dilution ICP-MS; 
+Am. Lab; Vol. 39, pp. 26–27 (2007). 
+
+[8]  Ballschmiter, K.;  Zell, M.;  Analysis  of  Polychlorinated  Biphenyls  (PCB)  by  Glass  Capillary  Gas 
+Chromatography - Composition of Technical Aroclor- and Clophen-PCB Mixtures; Fresenius Z. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980).  
+
+[9]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius Z. Anal. Chem., Vol. 314, pp. 545–551 (1983). 
+[10]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-k.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[11]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb  2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2016). 
+
+[12]  Ruhkin, A.L.;  Vangel, M.G.;  Estimation  of  a  Common  Mean  and  Weighted  Means  Statistics;  J. Am.  Statist. 
+
+Assoc.; Vol. 93, pp. 303–308 (1998). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  01 February 2016 (Editorial changes); 06 August 2015 (Editorial changes); 26 May 2015 (Change of expiration date; 
+editorial changes); 04 June 2009 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 1954 
+
+Page 9 of 10 
+
+APPENDIX A 
+ 
+Details of Spiking Solution used for SRM 1954 
+ 
+
+Compound Class  
+ortho-PCBs  
+non-ortho PCBs  
+Chlorinated pesticides  
+Toxaphene congeners  
+Chlorobenzenes and octachlorostyrene  
+PBDEs and PBB 153  
+Hexabromocyclododecane, 1,2-bis(2,4,6-
+tribromophenyoxy)ethane, hexabromobenzene, 
+and decabromodiphenylethane  
+PCDD/PCDF  
+Brominated dioxins and furans  
+Chloro-bromo dioxins and furans  
+PCNs  
+Halogenated phenolic compounds  
+Hydroxylated PCBs  
+
+ 
+
+Number of 
+Compounds  
+38  
+4  
+22  
+6  
+8  
+18  
+
+Concentration Range 
+Added  
+50 pg/mL to 500 pg/mL  
+0.4 pg/mL to 0.8 pg/mL  
+
+500 pg/mL  
+500 pg/mL  
+500 pg/mL  
+500 pg/mL  
+
+4  
+18  
+17  
+8  
+9  
+12  
+5  
+
+500 pg/mL  
+
+0.1 pg/mL to 2.4 pg/mL  
+
+0.05 pg/mL  
+0.05 pg/mL  
+1 pg/mL  
+500 pg/mL  
+500 pg/mL  
+
+SRM 1954 
+
+Page 10 of 10 
+
+

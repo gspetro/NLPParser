@@ -1,0 +1,247 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1831 
+ 
+Soda-Lime Sheet Glass  
+(Nominal Mass Fraction 1.2 % Al2O3) 
+
+ 
+ 
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  in  checking  chemical  methods  of  analysis  and  in 
+calibrating  instrumental  methods  of  analysis.    A  unit  of  SRM  1831  consist  of  three  platelets  37  mm  square.    The 
+certified values are listed in Table 1 and represent the present best estimate of the “true value” based on the results of 
+the cooperative program for certification.  All values are reported as mass fractions [1]. 
+ 
+The  uncertainties  listed  are  expressed  as  “combined  uncertainties”  calculated  according  to  the  JCGM  and  NIST 
+Guides [2].  Each uncertainty is based on the 95 % confidence limit of the “true value,” and is intended to represent 
+the combined effect of uncertainty components associated with various analytical factors such as method imprecision, 
+possible systematic errors among methods, and material variability.  The measurand is the total mass fraction of each 
+constituent listed in Table 1, and the certified value is metrologically traceable to the SI-derived unit for mass fraction, 
+expressed as percent. 
+ 
+ 
+ 
+
+Table 1.  Certified Mass Fractions 
+
+ 
+
+ 
+
+Constituent 
+
+Mass Fraction  
+
+(%) 
+
+SiO2 
+Na2O 
+CaO 
+MgO 
+Al2O3 
+K2O 
+SO3  
+Fe2O3 (total iron as) 
+FeO 
+TiO2 
+
+73.08(a,l) 
+13.32(a,m,f,c) 
+8.20(a,m,k,g) 
+3.51(a,m,i,k) 
+1.21(a,m,k,n,j,i,e) 
+0.33(a,c,m,e) 
+0.25(a,b) 
+0.087(a,m,h) 
+0.025(a) 
+0.019(a,d,h) 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+0.08 
+0.05 
+0.05 
+0.05 
+0.04 
+0.02 
+0.01 
+0.003 
+0.007 
+0.002 
+
+ 
+‘referee  analysis
+Methods Used:  The primary procedures used in the analysis of this SRM are those recommended for referee analysis 
+in ASTM C 169, Standard Methods for Chemical Analysis of Soda-Lime and Borosilicate Glass.  All methods used 
+in the certification of SRM 1831 are cited in Table 1. 
+ 
+
+(a)ASTM C 169 referee analysis 
+(b)Combustion 
+(c)Flame Emission 
+(d)Spectrophotometry 
+(e)Butyl Alcohol, HClO4 
+
+(f)Magnesium Uranyl Acetate 
+(g)KMnO4 Titration 
+(h)X-ray Fluorescence 
+(i)Gravimetric (8-Hydroxyquinoline) 
+(j)Gravimetric (Single-Precipitation) 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+(k)Complexometric 
+(l)Gravimetric (Single-Dehydration) 
+(m)Atomic Absorption 
+(n)Gravimetric (Double Precipitate) 
+ 
+
+ 
+Expiration of Certification: The certification of SRM 1831 is valid indefinitely, within the measurement uncertainty 
+specified, provided the SRM is handled in accordance with instructions given in this certificate (see “Instructions for 
+Use”).  Accordingly, periodic recertification of this SRM is not required.  However, the certification is nullified if the 
+SRM is damaged, contaminated, or otherwise modified. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  12 July 2017 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Page 1 of 2 
+
+  
+
+SRM 1831  
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate this notification. 
+ 
+Technical  and  support  aspects  involved  in  the  original  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated through the Standard Reference Materials Program by W.P. Reed and R.K. Kirby. 
+ 
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials.  
+ 
+CAUTION:  Before using the SRM in checking chemical analysis, it must be ground in agate to -200 mesh.   
+ 
+Homogeneity(1):  This material was tested for homogeneity at NIST by P.A. Pella and R.L. Myklebust of the NIST 
+Analytical Chemistry Division using X-ray fluorescence spectrometry.  Three to five replicate measurements were 
+made on at least 10 elements in each of 15 samples chosen at random from the lot of material.  The results did not 
+indicate any significant difference between the samples; the relative standard deviation for each element was less than 
+1 %. 
+ 
+The  material  for  this  SRM  was  prepared  and  furnished  to  NIST  by  The  Pittsburgh  Plate  Glass  Industries,  Inc., 
+Pittsburgh, PA. 
+ 
+Development of this SRM is part of the program of ASTM Subcommittee C14.91 on Standard Reference Materials, 
+H.E.  Hagy,  Chairman.    The  overall  direction  and  coordination  of  the  cooperative  analyses  leading  to  certification 
+originally and in revision to include iron oxide were performed by G.D. Bowling, Chairman of ASTM Subcommittee 
+C14.02 on Chemical Properties and Analysis of Glass and Glass Products. 
+ 
+Cooperative analyses for certification were performed in the following laboratories: 
+ 
+Anchor Hocking Corp., Lancaster, OH 
+Broadway Glass Co., Inc., Brockway, PA 
+Corning Glass Works, Corning, NY 
+Emhart Industries, Inc., Windsor, CT 
+Ford Motor Co., Lincoln Park, MI 
+Libbey-Owens-Ford Co., Toledo, OH  
+
+Monarch Analytical Laboratories, Inc.,Toledo, OH 
+Owens-Corning Fiberglass Corp., Granville, OH 
+Owens-Illinois, Inc., Toledo, OH and Vineland, NJ 
+Pennsylvania State University, University Park, PA 
+Schott Glass Technologies, Inc., Duryea, PA 
+Sharp-Schurtz Co., Lancaster, PA 
+Thatcher Glass Co., Elmira, NY  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+REFERENCES 
+
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+rial 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/indexfull.cfm (accessed Jul 2017).  
+
+available 
+
+(2008); 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jun 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Jul 2017). 
+
+ 
+  
+Certificate Revision History:  12 July 2017 (Updated title; editorial changes); 22 December 2008 (Editorial revision); 18 October 2005 (Removal 
+ 
+of Table 2 and updated uncertainty values); 10 September 19991 (Iron oxide added); 18 July 1982 (Original certificate date).  
+  
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+22 
+
+                     
+fied  in  this  report  to  specify  adequately  the 
+(1)Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  specify  adequately  the 
+ 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 1831  
+
+Page 2 of 2 
+
+

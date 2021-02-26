@@ -1,0 +1,277 @@
+﻿ow’ 
+Ne  g 
+
+Somes  or
+
+National Institute of Standards & Technology 
+- 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 1778 
+
+ 
+
+ 
+Naval Brass WK3 
+(In Cooperation with the Institute of Non-Ferrous Metals, Gliwice, Poland) 
+ 
+This Standard Reference Material (SRM) is in the form  of a disk approximately 39.5 mm in diameter and 20 mm thick 
+intended primarily for use in optical emission and X-ray fluorescence spectrometric methods of analysis.  This material is 
+one in a series of five monolithic naval brasses prepared to cover a range of compositions for particular elements of interest. 
+ The other naval brasses in this WK series are SRMs 1776, 1777, 1779, and 1780. 
+ 
+These SRMs were produced as part of a joint project between the NIST SRM Program and the Institute of Non-Ferrous 
+Metals (IMN) in Gliwice, Poland under the sponsorship of the Marie Skłodowska-Curie Joint Fund.  Actual preparation of 
+these materials was performed at the IMN using specialized production facilities.  The melting and casting technology used 
+for the preparation of these materials was provided by M. Lachowski of the IMN [1]. 
+ 
+The certified values for ten elements are listed in Table 1.  The analytical methods used for the characterization of this SRM 
+are given in Table 2.  All values are reported as mass fractions [2]. 
+ 
+
+Table 1.  Certified Mass Fractions 
+
+ 
+
+ 
+
+ 
+
+Element (%) 
+
+Aluminum 0.044 
+Antimony 0.013 
+Bismuth 0.009 
+Copper 62.10 
+Iron 0.065 
+Lead 0.11 
+Nickel 0.13 
+Phosphorus 0.018 
+Silicon 0.15 
+Tin 0.49 
+
+±  0.006 
+±  0.002 
+±  0.001 
+
+  ±  0.25 
+
+±  0.006 
+±  0.02 
+±  0.01 
+±  0.004 
+±  0.02 
+±  0.03 
+
+ 
+Certified Values and Uncertainties:   The certified values are the means of the results from one or more analytical 
+methods.  The uncertainty listed for each certified value is expressed as the “combined uncertainty” calculated according   
+to the ISO Guide [3].  Each value listed is the 95 % confidence limit of the “true value”, and is intended to represent the 
+combined effect of uncertainty components associated with various analytical factors such as method imprecision, possible 
+systematic errors among methods, and material variability.  
+
+Expiration of Certification:  The certification of this SRM is valid, within the measurement uncertainties specified, until 
+31 December 2004.  Even though this material will likely remain stable for many years, the period of NIST certification 
+has been abbreviated because the criteria used in the orig
+requirements [4].  This certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 September 2003 
+See Certificate Revision History on Last Page 
+ 
+
+ 
+Willie E. May, Chief 
+Analytical Chemistry Division 
+
+John Rumble, Jr., Chief 
+  Measurement Services Division  
+
+inal certification, do not meet current NIST certification 
+
+SRM 1778 
+ 
+
+Page 1 of 3 
+
+The overall coordination of technical measurement and interlaboratory analyses were provided by W. Stankiewicz of the 
+IMN and W.P. Reed of the NIST Office of Measurement Services. 
+ 
+Homogeneity testing was performed by E. Műller and S. Witkowska of the IMN, Gliwice, Poland and by P.A. Pella and 
+M.L. Salit of the NIST Analytical Chemistry Division. 
+ 
+Statistical analysis was provided by L.M. Gill and L. Alvarez-Rojas of the NIST Statistical Engineering Division. 
+ 
+The technical and support aspects involved in the preparation, certification, and issuance of this SRM were coordinated 
+through the NIST Standard Reference Materials Program by P.A. Lundberg.  Support aspects involved in the issuance of 
+the revised certificate were coordinated through the NIST Standard Reference Materials Program by B.S. MacDonald of the 
+NIST Measurement Services Division.   
+ 
+Alloy Preparation:  Each brass alloy was sequentially cast as four billets of material.  Homogeneity testing was done prior 
+to further processing.  The billets were then heated in a resistance furnace to approximately 800 °C, followed by an 
+extrusion press to the final 39.5 mm diameter.  Homogeneity testing was done on each end of every rod and preliminary 
+analysis was done by X-ray fluorescence spectrometry, optical emission spectrometry, and atomic absorption spectrometry. 
+ The final samples were then cut from selected samples repr esenting the entire lot, milled into chips, and a composite 
+produced.   The certification was done using samples of the composite. 
+
+ 
+
+ 
+Table 2.  Methods Used for the Analysis of SRM 1778 
+
+ 
+
+Elements Methods
+ 
+Aluminum FAAS, 
+Antimony FAAS, 
+Bismuth FAAS, 
+Copper ELECTRO 
+Iron  
+Lead FAAS, 
+Nickel FAAS 
+Phosphorus SPECTRO, 
+Silicon GRAV, 
+Tin FAAS 
+ 
+
+a 
+
+SPECTRO 
+FAAS-Fe 
+FAAS-Fe 
+ 
+
+FAAS, FAAS-La 
+FAAS-Fe 
+ 
+TITR 
+SPECTRO 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Copper at 1.5 A/dm2 to 2.0 A/dm2 and 2.0 V to 2.5 V 
+Aluminum at 1.5 A/dm2 to 2.0 A/dm2 and 5 V to 6 V 
+
+Electrolysis: 
+ 
+Flame atomic absorption spectrometry 
+FAAS after co-precipitation with Fe(OH)3 
+FAAS after co-precipitation with La(OH)3 
+
+aMethods 
+ 
+ELECTRO 
+ 
+FAAS 
+FAAS-Fe 
+FAAS-La  
+GRAV Gravimetry 
+SPECTRO Spectrophotometry 
+TITR Titrimetry 
+ 
+Cooperative Analysts and Laboratories 
+ 
+W. Stankiewicz and Ł. Buzek; IMN; Gliwice, Poland 
+S. Honc and B. Sendal; ZHPPMN Hutmen; Wroclaw, Poland 
+A. Stroba, K. Zimma, and W.M. Łabedy; IMN; Gliwice, Poland 
+J. Palion and D. Derdas; HMN Szopienice; Katowice, Poland 
+ 
+
+SRM 1778 
+ 
+
+Page 2 of 3 
+
+ 
+
+REFERENCES 
+
+ 
+[1] M űller, E.; Stankiewicz, W.; Lachowski, M.;  Preparation of the Material for Spectral Reference Materials for the 
+
+ski,  M.; 
+
+Naval Brasses (MC62 and MC63) - 4th part; (1992).     
+
+[2]  Taylor, B.N.; Guide for the Use of the International System of Units (SI), NIST Special Publication 811 (1995). 
+[3]  Guide to the Expression of Uncertainty in Measurement,  ISBN 92-67-10188-9, 1st Ed., ISO, Geneva, Switzerland 
+
+(1993); see also Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST 
+Measurement Results ; NIST Technical Note 1297, U.S. Government
+ Printing Office:  Washington, DC (1994); 
+available at http://physics.nist.gov/Pubs/. 
+
+[4]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.;  Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+
+Gettings, R.; MacDonald, B.;  Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials for Chemical Measurements ;  NIST Special Publication 260-136, U.S. Government Printing Office: 
+Washington, DC (2000).  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  17 September 2003 (Removal and de-certification of Mn certified value.  Addition of expiration date); 18 July 1995 
+   
+(Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current. This can be accomplished by contacting 
+the SRM Program at:  telephone (301) 975-6776; fax (301) 
+http://www.nist.gov/srm. 
+ 
+
+926-4751; e-mail srminfo@nist.gov; or via the Internet 
+
+SRM 1778 
+ 
+
+Page 3 of 3 
+
+

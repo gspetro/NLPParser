@@ -1,0 +1,889 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3287 
+ 
+Blueberry (Fruit) 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of organic acids, anthocyanidins, and nutrients in blueberries and similar materials.  This SRM can also 
+be used for quality assurance when assigning values to in-house control materials.  A unit of SRM 3287 consists of 
+five packets, each containing approximately 5 g of freeze-dried, powdered fruit. 
+ 
+The  development  of  SRM 3287  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health Office of Dietary Supplements (NIH-ODS). 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for quinic acid, free water-soluble vitamins, and 
+elements in SRM 3287, reported on a dry-mass basis, are provided in Tables 1 through 3.  A NIST certified value is 
+a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have 
+been taken into account [1].  Analyses for value assignment were performed by NIST and collaborating laboratories.  
+Certified values were calculated as the mean of the mean values from NIST methods and the median of the mean 
+values of results provided by collaborating laboratories, where appropriate.  The associated uncertainties are expressed 
+at an approximately 95 % level of confidence [2–4]. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  for  anthocyanidins,  additional  organic  acids, 
+anions, proximates, amino acids, and additional nutrients are provided in Tables 4 through 7.  A NIST reference value 
+is a noncertified value that is the best estimate of the true value based on available data; however, the value does not 
+meet  the  NIST  criteria  for  certification [1]  and  is  provided  with  an  associated  uncertainty  that  may  reflect  only 
+measurement reproducibility, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical 
+agreement among multiple analytical methods.  The reference mass fraction values were derived from results reported 
+by NIST and/or collaborating laboratories. 
+ 
+Expiration of Certification:  The certification of SRM 3287 is valid, within the measurement uncertainty specified, 
+until 01 December 2027, provided the SRM is stored in accordance with instructions given in this certificate (see 
+“Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise 
+modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical measurements leading to the original certification of this SRM 
+were performed by L.C. Sander, K.E. Sharpless, and S.A. Wise of the NIST Chemical Sciences Division and S. Ehling 
+of the Grocery Manufacturers Association (GMA, Washington, DC).  Revision of this certificate was coordinated by 
+C.A. Rimmer and L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  30 May 2019 
+Certificate revision History on Last Page 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+SRM 3287 
+
+Page 1 of 9 
+
+ 
+
+in  the 
+
+Support  for  the  development  of  SRM 3287  was  provided  in  part  by  the  NIH-ODS.    Technical  consultation  was 
+provided by J.M. Betz (NIH-ODS).  Acquisition and preparation of the material were coordinated by K.E. Sharpless 
+of the NIST Special Programs Office. 
+ 
+Analytical measurements at NIST were performed by G.E. Hahm, M.M. Phillips, B.J. Porter, and L.J. Wood of the 
+NIST Chemical Sciences Division. 
+ 
+Analyses  for  value  assignment  were  also  provided  by  analysts  participating  in  a  GMA  Food  Industry  Analytical 
+Chemists Committee (GMA FIACC) interlaboratory comparison exercise:  Campbell Soup Company (Camden, NJ); 
+ConAgra  Foods  Analytical  Laboratory,  Omaha, NE;  Covance,  Inc.,  Madison, WI;  Eurofins  Scientific,  Inc.  (Des 
+Moines, IA); Eurofins Chemical Control (Cuneo, Italy); Eurofins – Strassburger and Siegel (Hanover, MD); General 
+Mills, Inc. (Minneapolis, MN); Hormel Foods Corporation (Austin, MN); Krueger Food Laboratories (Billerica, MA); 
+McCormick  &  Company,  Inc.  (Hunt  Valley, MD);  National  Center  of  Food  Safety  and  Technology 
+(Summit-Argo, IL);  Ocean  Spray  (Lakeville, MA);  Silliker  Inc.  (Chicago  Heights, IL);  The  Hershey  Company 
+Technical  Center  (Hershey, PA);  The  J.M. Smucker  Company  (Orrville, OH);  The  National  Food  Laboratory 
+(Livermore, CA); The Schwan Food Company (Salina, KS); and Welch’s (Billerica, MA). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+SRM 3287 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C), in unopened packets, until 
+required for use.  For elemental analyses, the packet can be opened and resealed; test portions can be removed and 
+analyzed until the material reaches its expiration date.  For other analyses, the packet can be opened and resealed; test 
+portions can be removed and analyzed for two weeks after the packet was first opened. 
+ 
+Use:  Prior to use, the contents of the packet should be mixed thoroughly.  Allow the contents to settle for one minute 
+prior to opening to minimize the loss of fine particles.  Homogeneity of the material has not been evaluated for sample 
+sizes smaller than those used by NIST methods described below.  Therefore, the certified and reference values may 
+not be valid for test portions smaller than those described in the sections below:  0.1 g for organic acid analysis, 0.5 g 
+for elemental analysis, 2.5 g for vitamin analysis, 1.0 g for anthocyanidin analysis.  Results obtained should include 
+their  own  estimates  of  uncertainty  and  can  be  compared  to  the  certified  and  reference  values  using  procedures 
+described in reference 5.  The moisture conversion factor below can be used for the sample(s) when using an unopened 
+packet for the first time.  If using a previously opened and resealed packet, sample(s) need to be dried using one of 
+the recommended techniques (see “Determination of Moisture”).  The moisture content should be determined on a 
+separate sample from that used for analysis, and the analytical result corrected to a dry-mass basis for comparison 
+with values in this certificate. 
+ 
+Determination of Moisture:  Moisture content of SRM 3287 was determined at NIST by (1) freeze-drying to constant 
+mass over 7 d; (2) drying over magnesium perchlorate in a desiccator at room temperature for 28 d; and (3) drying for 
+1 h in a forced-air oven at 80 °C.  Unweighted results obtained using all three techniques were averaged to determine 
+a conversion factor of (0.9859 ± 0.0065) gram dry mass per gram as-received mass, which was used to convert data 
+from an as-received to a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty.  A relative 
+uncertainty component for the conversion factor (0.32 %) obtained from the moisture measurements is incorporated 
+in  the  uncertainties  of  the  certified  and  reference  values,  reported  on  a  dry-mass  basis,  that  are  provided  in  this 
+certificate. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  The material for production of SRM 3287 was a combination (approximately 50/50) of 
+the  U.S.  Highbush  Blueberry 
+Tifblue  and  Rubel (highbush  and 
+
+rabbiteye  varieties)  acquired 
+
+from 
+
+                                                           
+ 
+
+(1) Certain commercial equipment, instruments or materials are identified in this certificate to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 3287 
+
+Page 2 of 9 
+
+mass  fractions 
+
+Council (Folsom, CA), which provided freeze-dried powdered blueberries (40 mesh) in nitrogen-flushed cans.  The 
+material  was  shipped  to  High-Purity  Standards (Charleston, SC), where it  was  blended,  aliquoted,  and  heat-sealed 
+inside nitrogen-flushed 4 mil polyethylene bags, which were then sealed inside nitrogen-flushed aluminized plastic 
+bags along with two packets of silica gel each.  Following packaging, SRM 3287 was irradiated (Neutron Products, 
+Inc., Dickerson, MD) to an absorbed dose of 7.2 kGy to 8.4 kGy. 
+ 
+acids 
+Analytical Approach for Determination of Organic Acids:  Value assignment of the mass fractions of organic acids 
+in SRM 3287 was based on the combination of measurements from two different methods:  isotope dilution liquid 
+chromatography  with  mass  spectrometric  detection (ID-LC-MS)  and  ion  chromatography  with  conductivity 
+detection (IC-CD). 
+ 
+NIST Analysis for Organic Acids Using ID-LC-MS:  Mass fractions of organic acids were determined by ID-LC-MS 
+from duplicate, nominal 0.1 g test portions taken from each of six packets of SRM 3287.  Organic acids were extracted 
+into water and the solutions from four successive extractions were combined.  For analysis by ID-LC-MS, an organic 
+acid column was held at 40 °C and an aqueous mobile phase containing 0.5 % (volume fraction) formic acid was used 
+under isocratic conditions at a flow rate of 0.5 mL/min.  The mass spectrometer was operated in negative ion mode, 
+with  electrospray  ionization.    Each  organic  acid  was  matched  with  a  13C-  or  2H-labeled  internal  standard,  and 
+quantitation was based on response factors calculated from the relative peak areas and concentrations.  Calibrants 
+were prepared gravimetrically, at levels intended to approximate the levels of the organic acids in the SRM following 
+extraction.  The purity of the neat organic acid calibrant materials was determined as an average of the manufacturer 
+data  and  NIST  data,  including  LC-absorbance  at  210 nm,  LC  with  evaporative  light  scattering  detection (ELSD), 
+differential scanning calorimetry (DSC), and Karl Fischer titration [6]. 
+ 
+NIST Analysis for Organic Acids Using IC-CD:  Mass fractions of organic acids were determined by IC-CD from 
+duplicate, nominal 0.1 g test portions taken from each of six packets of SRM 3287.  Organic acids were extracted into 
+water  and  the  solutions  from  four  successive  extractions  were  combined.    A  hydroxide-selective  anion  exchange 
+column was held at 30 °C and a flow rate of 1.5 mL/min was used for the separation.  Ultrapure water was used for 
+generation  of  a  hydroxide  gradient,  and  a  current  of  186 mA  was  applied  for  suppression  of  the  background 
+conductivity from the hydroxide mobile phase.  Quantitation was based on relative peak areas with trifluoroacetic 
+acid (TFA) as an internal standard.  Calibrants were prepared gravimetrically, at levels intended to approximate the 
+levels of the organic acids in the SRM following extraction.  The purity of the neat organic acid calibrant materials 
+was  determined  as  an  average  of  the  manufacturer  data  and  NIST  data,  including  LC-absorbance  at  210 nm, 
+LC-ELSD, DSC, and Karl Fischer titration [6]. 
+ 
+Analytical Approach for Determination of Free Water-Soluble Vitamins:  Value assignment of the mass fractions 
+of free water-soluble vitamins in SRM 3287 was based on the combination of results from NIST with confirmation 
+from data provided by one collaborating laboratory.  NIST provided measurements by using ID-LC-MS.  Duplicate, 
+nominal  2.5 g aliquots were  taken from  each of six  packets  for  analysis.   Vitamins  were  extracted  into water  that 
+contained  acetic  acid,  and  the  solutions  from  four  such  successive  extractions  were  combined.    For  analysis  by 
+ID-LC-MS,  a  C18 column  with  a  gradient  consisting  of  a  mobile  phase  of  methanol  and  20 mmol/L  ammonium 
+formate in water was used with a flow rate of 0.8 mL/min.  The mass spectrometer was operated in the positive ion 
+mode with electrospray ionization.  Each vitamin was matched with a 13C-, 15N-, or 2H-labeled internal standard, and 
+quantitation was based on response factors calculated from the relative peak areas and concentrations.  Calibrants 
+were prepared  gravimetrically,  at  levels  intended  to  approximate  the  levels  of  the  vitamins  in  the  SRM  following 
+extraction.  The purity of calibrant materials was determined at NIST using LC-absorbance and DSC. 
+ 
+Analytical  Approach  for  Determination  of  Elements:    Value  assignment  of  the  mass  fractions  of  elements  in 
+SRM 3287 was based on the combination of results from NIST and collaborating laboratories, where available [7].  
+NIST  provided  measurements  by  using  inductively  coupled  plasma  optical  emission  spectrometry (ICP-OES).  
+Duplicate, nominal 0.5 g test portions from each of six packets of SRM 3287 were analyzed for calcium, copper, iron, 
+magnesium, manganese, phosphorus, potassium, sodium, and zinc.  Test portions were digested in sealed vessels with 
+a HNO3/HF mixture using a microwave digestion system.  Quantitation was based on the method of standard additions 
+using calibration solutions prepared from the SRM 3100 series of single-element standard solutions. 
+ 
+Analytical  Approach  for  Determination  of  Anthocyanidins:    Value  assignment  of  the  mass  fractions  of 
+ctions  of
+anthocyanidins in SRM 3287 was based on measurements at NIST using LC-absorbance.  Mass fractions of cyanidin, 
+delphinidin, malvidin, peonidin, and petunidin were measured by LC-absorbance using duplicate, nominal 1.0 g test 
+portions from each of six packets of SRM 3287.  Anthocyanidins were isolated from SRM 3287 and hydrolyzed by 
+using a 24-h Soxhlet extraction into 225 mL of 6 % (volume fraction) hydrochloric acid in methanol.  Pelargonidin 
+chloride was used as an internal standard.  Following extraction, 50 mL of the extract was reduced to approximately 
+10 mL and analyzed by LC-absorbance using a C18 column and detection at 520 nm.  Gradient elution was used with 
+a 25 mmol/L potassium phosphate/methanol mobile phase and a flow rate of 1 mL/min.  Calibrants were prepared 
+
+SRM 3287 
+
+Page 3 of 9 
+
+gravimetrically at levels intended to approximate the levels of the anthocyanidins in the SRM following extraction.  
+The purity of the neat calibrant materials was determined at NIST using LC-absorbance at 520 nm. 
+ 
+Collaborating Laboratories’ Analyses:  The GMA FIACC laboratories were asked to use their usual methods to 
+make  single  measurements  on  test  portions  taken  from  each  of  two  packets  of  SRM 3287  for  measurements  of 
+nutrients.    Because  of  the  variability  among  data  provided  by  laboratories  participating  in  an  interlaboratory 
+comparison  exercise,  the  median  of  the  means  is  used.    The  median  of  the  collaborating  laboratories’  means  was 
+combined with NIST data for calculation of certified values of elements.  Collaborating laboratories’ data alone were 
+used to assign reference values for proximates, sugars, and amino acids. 
+ 
+Homogeneity  Assessment:    The  homogeneity  of  anthocyanidins,  organic  acids,  free  water-soluble  vitamins,  and 
+element  mass  fractions  was  assessed  at  NIST  using  the  methods  and  test  portion  sizes  described  above.    The 
+uncertainties  for  delphinidin,  malvidin,  petunidin,  and  peonidin  incoporate  an  uncertainty  component  for  possible 
+inhomogeniety  based  on  standard  deviation  for  the  test  portion  size  analyzed  (see  “Source,  Preparation,  and 
+Analysis”).    Homogeneity  of  constituents  measured  solely  by  collaborating  laboratories  (e.g.,  proximates,  amino 
+acids) was not assessed, although the data were treated as though these analytes were homogeneously distributed. 
+ 
+Value Assignment:  For calculation of assigned values for analytes that were measured only by NIST, the mean of 
+the mean values from NIST results were used.  The collaborating laboratories reported the individual results for each 
+of their analyses for a given analyte.  The mean of each laboratory’s results was then determined.  For calculation of 
+assigned values for analytes that were measured only by the GMA FIACC laboratories, the median of the laboratory 
+means was used.  For analytes that were also measured by NIST, the mean of the individual sets of NIST data were 
+averaged with the median of the individual GMA FIACC laboratory means.  In some cases, the calculation of assigned 
+values is the mean of the means of NIST results with confirmation provided by collaborating laboratories. 
+ 
+Certified Mass Fraction Value for Quinic Acid:  The certified mass fraction value, reported on a dry-mass basis, is 
+the combined mean from the means of NIST ID-LC-MS data and the mean of NIST IC-CD data.  Values are expressed 
+as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  The true 
+value  of  the  analyte  is  believed  to  lie  within  the  interval  x ± U95%(x)  with  95 %  confidence.    To  propagate  this 
+uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation 
+U95%(x)/2 [2–4].  The measurand is the total mass fraction of quinic acid in blueberry (fruit) as listed in Table 1 on a 
+dry-mass basis.  Metrological traceability is to the measurement unit as realized through the purity determined for the 
+primary chemical standards employed in the NIST methods. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Value for Quinic Acid in SRM 3287 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Quinic Acid 
+
+ 
+
+Mass Fraction 
+(mg/g) 
+
+ 
+
+25.53  ±  0.73 
+
+SRM 3287 
+
+Page 4 of 9 
+
+Certified Mass Fraction Values for Free Water-Soluble Vitamins:  Each certified mass fraction value, reported on 
+a dry-mass basis, is the mean from NIST ID-LC-MS data with confirmation by collaborating laboratories.  Values are 
+expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+The true value of the analyte is believed to lie within the interval x ± U95%(x) with 95 % confidence.  To propagate 
+this uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation 
+U95%(x)/2 [2–4].  The measurand is the total mass fraction of free water-soluble vitamins in blueberry (fruit) as listed 
+in Table 2 on a dry-mass basis.  Metrological traceability is to the measurement unit as realized through the purity 
+determined for the primary chemical standards employed in the NIST methods. 
+ 
+ 
+
+Table 2.  Certified Mass Fraction Values for Free Water-Soluble Vitamins in SRM 3287 
+
+ 
+
+Free Thiamin 
+Free Niacin(a) 
+Free Pantothenic Acid 
+Free Pyridoxine(b) 
+
+Mass Fraction 
+(mg/kg) 
+
+1.679  ±  0.030 
+
+2.864  ±  0.090 
+
+3.36  ±  0.19 
+
+1.263  ±  0.020 
+
+ 
+(a) Measured as niacinamide and converted to niacin by multiplication by the ratio of the relative molecular masses. 
+(b) Measured  as  the  sum  of  pyridoxine  and  pyridoxal,  which  was  converted  to  pyridoxine  by  multiplication  by  the  ratio  of  the 
+
+relative molecular masses. 
+
+ 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value, reported on a dry-mass basis, is 
+the  combined  mean  from  the  means  of  NIST  data  and  the  median  of  the  mean  results  provided  by  collaborating 
+laboratories.  Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty 
+of  the  certified  value.    The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval  x ± U95%(x)  with  95 % 
+confidence.  To propagate this uncertainty, treat the certified value as a normally distributed random variable with 
+mean x and standard deviation U95%(x)/2 [2–4].  The measurand is the total mass fraction of elements in blueberry 
+(fruit) as listed in Table 3 on a dry-mass basis.  Metrological traceability is to the SI derived unit for mass fraction 
+(expressed as milligrams per kilogram). 
+ 
+ 
+
+Table 3.  Certified Mass Fraction Values for Elements in SRM 3287 
+
+ 
+
+ 
+
+Calcium (Ca)(a,b) 
+Copper (Cu)(a,b) 
+Iron (Fe)(a,b) 
+Magnesium (Mg)(a,b) 
+Manganese (Mn)(a,c) 
+Phosphorus (P)(a,d) 
+Potassium (K)(a,d) 
+Zinc (Zn)(a,e) 
+
+Mass Fraction 
+(mg/kg) 
+
+323 
+
+±  16 
+
+2.22 ± 
+
+12.20 ± 
+
+0.16 
+
+0.74 
+
+313.7  ± 
+
+7.2 
+
+8.47 ± 
+
+0.59 
+
+671 
+
+±  21 
+
+  4490 
+
+±  220 
+
+6.49 ± 
+
+0.61 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) NIST ICP-OES. 
+(b) Collaborating Laboratories.  Reported methods included atomic absorption spectroscopy (AAS), direct current plasma optical 
+
+emission spectrometry (DCP-OES), and ICP-OES. 
+
+(c) Collaborating Laboratories.  Reported methods included inductively coupled plasma mass spectrometry (ICP-MS), colorimetry, 
+
+ 
+
+and ICP-OES. 
+
+(d) Collaborating Laboratories.  Reported methods included AAS, ICP-MS, DCP-OES, and ICP-OES. 
+(e) Collaborating Laboratories.  Reported methods included AAS, ICP-MS, and ICP-OES. 
+ 
+ 
+ 
+
+ 
+
+SRM 3287 
+
+Page 5 of 9 
+
+,  reported  on
+Reference Mass Fraction Values for Organic Acids and Anions:  Each reference mass fraction value, reported on 
+a  dry-mass  basis,  is  the  mean  from  NIST  IC-CD  data,  except  for  shikimic  acid  which  was  determined  by  NIST 
+ID-LC-MS.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the  estimated  value  and  U95%(x)  is  the  expanded 
+uncertainty of the value.  The method-specific value of the analyte is believed to lie within the interval x ± U95%(x) 
+with about a 95 % confidence [2–4].  The measurand is the mass fraction for each organic acid and anion listed in 
+Table 4 on a dry-mass basis as determined by the methods indicated.  Metrological traceability is to mass fraction 
+(expressed as milligrams per gram), as realized by the method used. 
+ 
+ 
+
+Table 4.  Reference Mass Fraction Values for Organic Acids and Anions in SRM 3287 
+
+ 
+
+Galacturonic Acid 
+
+Glycolic Acid 
+
+Isocitric Acid 
+
+Oxalic Acid 
+
+Shikimic Acid 
+
+ 
+Phosphate 
+Sulfate 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction 
+(mg/g) 
+
+0.1297 ±  0.0064 
+
+0.1707 ±  0.0047 
+
+0.2252 ±  0.0076 
+
+0.0892 ±  0.0056 
+
+0.438  ±  0.015 
+
+0.777  ±  0.044 
+
+1.17  ±  0.26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SRM 3287 
+
+Page 6 of 9 
+
+Reference  Mass  Fraction  Values  for  Proximates,  Sugars,  Total  Dietary  Fiber,  Calories,  and  Sodium:    Each 
+reference mass fraction value, reported on a dry-mass basis, is the median of the mean values provided by collaborating 
+laboratories.  Collaborating laboratories did not report methods used to determine proximates, sugars, and total dietary 
+fiber.  Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of 
+the value.  The value of the analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence [2-4].  
+For proximates and sugars, the measurands are the mass fractions listed in Table 5, on a dry-mass basis, as determined 
+by the collaborating laboratories.  Metrological traceability is to mass fraction (expressed as grams per 100 grams) as 
+realized by the methods used.  For calories, the measurand is the caloric content (expressed as kilocalories per 100 
+grams), listed in Table 5 on a dry-mass basis as determined by the method indicated and metrological traceability is 
+to the derived unit for energy.  For sodium, the measurand is the mass fraction listed in Table 5 on a dry-mass basis 
+as determined by the method indicated.  Metrological traceability is to the SI derived unit for mass fraction (expressed 
+as milligrams per kilogram), as realized by the method used. 
+ 
+ 
+
+Table 5.  Reference Mass Fraction Values for Proximates, Sugars,  
+Total Dietary Fiber, Calories, and Sodium in SRM 3287 
+
+ 
+
+ 
+
+ 
+
+Solids 
+
+Ash 
+
+Fat 
+
+Protein 
+
+Carbohydrate 
+Total Sugars 
+Fructose 
+
+Glucose 
+
+Total Dietary Fiber 
+ 
+
+Calories(a) 
+ 
+
+Sodium (Na)(b) 
+
+Mass Fraction 
+(g/100 g) 
+
+98.59  ±  0.65 
+
+1.126 ±  0.084 
+
+1.40  ±  0.37 
+
+3.43  ±  0.30 
+
+91.92  ±  0.83 
+
+60.4  ±  3.3 
+
+30.5  ±  1.5 
+
+30.5  ±  1.4 
+
+18.4  ±  1.3 
+ 
+Energy 
+(kcal/100 g) 
+
+392 
+
+±  10 
+ 
+Mass Fraction 
+(mg/kg) 
+
+16.39  ±  0.74 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) If the proximate values above are used for calculation, with caloric equivalents of 9, 4, and 4 for fat, protein, and carbohydrate, 
+
+ 
+
+respectively, the mean caloric content is 394 kcal/100 g. 
+
+(b) NIST ICP-OES 
+ 
+
+ 
+
+SRM 3287 
+
+Page 7 of 9 
+
+Reference Mass Fraction Values for Amino Acids:  Each reference mass fraction value, reported on a dry-mass 
+basis, is the median of the mean values provided by collaborating laboratories.  Values are expressed as x ± U95%(x), 
+where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the 
+analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence [2-4].  The measurand is the 
+mass fraction for each amino acid listed in Table 6 on a dry-mass basis.  Metrological traceability is to mass fraction 
+(expressed as grams per 100 grams), as realized by the method used. 
+ 
+ 
+
+Table 6.  Reference Mass Fraction Values for Amino Acids in SRM 3287 
+
+ 
+
+Alanine 
+
+Arginine 
+
+Aspartic Acid 
+
+Cysteine 
+
+Glutamic Acid 
+
+Glycine 
+
+Isoleucine 
+
+Leucine 
+
+Lysine 
+
+Methionine 
+
+Phenylalanine 
+
+Proline 
+
+Serine 
+
+Threonine 
+
+Tyrosine 
+
+Valine 
+
+Mass Fraction 
+(g/100 g) 
+
+0.167  ±  0.095 
+
+0.342  ±  0.037 
+
+0.279  ±  0.087 
+
+0.056  ±  0.023 
+
+0.402  ±  0.079 
+
+0.165  ±  0.006 
+
+0.110  ±  0.034 
+
+0.211  ±  0.022 
+
+0.149  ±  0.022 
+
+0.061  ±  0.007 
+
+0.134  ±  0.012 
+
+0.121  ±  0.019 
+
+0.141  ±  0.019 
+
+0.121  ±  0.015 
+
+0.088  ±  0.020 
+
+0.147  ±  0.060 
+
+Mass Fraction 
+(mg/kg) 
+
+294 
+
+± 
+
+24 
+
+  1180 
+
+±  230 
+
+  1390 
+
+±  280 
+
+650 
+
+286 
+
+±  120 
+
+± 
+
+51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Reference Mass Fraction Values for Anthocyanidins:  Each reference mass fraction value is the mean result of 
+NIST analyses using LC-absorbance.  Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) 
+is the expanded uncertainty of the value.  The method-specific value of the analyte is believed to lie within the interval 
+x ± U95%(x) with about a 95 % confidence [2–4].  The measurand is the mass fraction for each anthocyanidin listed in 
+Table 7, on a dry-mass basis, as determined by the method indicated.  Metrological traceability is to mass fraction 
+(expressed as milligrams per kilogram) as realized by the methods used. 
+ 
+ 
+
+Table 7.  Reference Mass Fraction Values for Anthocyanidins in SRM 3287 
+ 
+
+ 
+
+Cyanidin 
+Delphinidin 
+
+Malvidin 
+
+Petunidin 
+
+Peonidin 
+
+ 
+
+ 
+ 
+
+SRM 3287 
+
+Page 8 of 9 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed May 2019). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed May 2019). 
+JCGM 101:2008;  Evaluation  of  Measurement  Data - Supplement 1  to  the  “Guide  to  the  Expression  of 
+in  Measurement” — Propagation  of  Distributions  using  a  Monte  Carlo  Method; 
+Uncertainty 
+JCGM (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed May 2019). 
+
+[3] 
+
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+
+8). 
+Int., Vol. 91, pp. 1298–1302 (2008). 
+
+[6]  Phillips, M.M.; Case, R.J.; Rimmer, C.A.; Sharpless, K.E.; Wise, S.A.; Sander, L.C.; Determination of Organic 
+Acids in Vaccinium Berry Standard Reference Materials; Anal. Bioanal. Chem., Vol. 398, pp. 425–434 (2010). 
+[7]  Wood, L.J.;  Sharpless, K.E.,  Pichon, M.;  Porter, B.J.;  Yen, J.H.;  Ehling, S.;  Characterization  of  Three  Berry 
+
+Standard Reference Materials for Nutrients; J. Agric. Food Chem., Vol. 59, pp. 7246–7252 (2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate  Revision  History:    30 May 2019  (Editorial  changes);  29 March 2019  (Removal  of  reference  values  for  antioxidant  capacity  since 
+methods used for analyses provided on previous certificates are no longer considered valid; addition of reference values for anthocyanidins; editorial 
+changes); 19 December 2016 (Change of expiration date; editorial changes); 27 March 2013 (Removal of certified mass fraction values for citric 
+acid and malic acid; update of storage and use information; editorial changes); 22 December 2011 (Addition of certified mass fraction values for 
+water-soluble  vitamins;  addition  of  reference  mass  fraction  values  for  antioxidant  capacity;  editorial  changes);  14 September 2010  (Original 
+certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+   
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 3287 
+
+Page 9 of 9 
+
+

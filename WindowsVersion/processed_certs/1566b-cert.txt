@@ -1,0 +1,673 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1566b 
+
+ 
+
+ 
+Oyster Tissue 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  analytical  methods  and 
+instruments used for  the determination  of  the  mass  fraction values of  selected  elements  and  proximates  in  marine 
+bivalve tissue, foods, or similar materials.  A unit of SRM 1566b contains approximately 25 g of freeze-dried oyster 
+tissue. 
+ 
+Certified Mass Fraction Values of Constituent Elements:  Certified values for elements and for methylmercury are 
+provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been fully investigated or taken into account [1]. 
+ 
+Reference Mass Fraction Values:  Reference values for elemental mass fractions are provided in Table 2.  Reference 
+values  for  selected  proximates,  nitrogen,  and  total  dietary  fiber  are  provided  in  Table 3.    Reference  values  are 
+noncertified values that are the best estimates of the true values; however, the values do not meet NIST criteria for 
+certification [1].  Such values are provided with associated uncertainties that may reflect only measurement precision, 
+may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple 
+analytical methods. 
+ 
+Expiration of Certification:  The certification of SRM 1566b is valid, within the measurement uncertainty specified, 
+until 01 June 2030, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  was  performed  by  R.R. Greenberg,  D.J. O’Kelly,  S.A. Rabb 
+K.E. Sharpless and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Preparation of the oyster tissue material was performed by B.J. Porter of the NIST Chemical Sciences Division and 
+M.P. Cronise, C.N. Fales, and D.G. Friend of the NIST Office of Reference Materials. 
+ 
+Statistical analysis of the data was performed by N.A. Heckert, H.-K. Liu, J.H. Yen, L.M. Gill, and M.S. Levenson of 
+the NIST Statistical Engineering Division. 
+ 
+The NIST analysts and collaborating laboratories that participated in the characterization of this SRM are listed 
+in Appendix A. 
+ 
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  02 August 2019 
+Certificate Revision History on Page 5 
+
+ 
+
+SRM 1566b 
+
+Page 1 of 6 
+
+NOTICE AND WARNINGS TO USERS 
+ 
+SRM 1566B IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The material should be kept in its original bottle, tightly closed, and stored in a desiccator over magnesium 
+perchlorate, Mg(ClO4)2, at temperatures between 10 °C to 30 °C.  It should NOT be exposed to intense sources of 
+radiation, including ultraviolet light or sunlight. 
+ 
+Use:  A minimum sample mass of 250 mg of material is necessary for values in this certificate to be valid within stated 
+uncertainties.  This amount of material should be on a dry-mass basis (see “Instructions for Drying”).  The contents 
+of the bottle should be shaken well before each use, and the bottle should be closed tightly immediately after use and 
+stored as described above. 
+ 
+Instructions for Drying:  Prior to removal of test portions for elemental analysis, the contents of the bottle should be 
+thoroughly mixed.  Before the mass determination, samples of SRM 1566b must be dried to constant mass by one of 
+the following procedures: 
+ 
+
+1.  Drying at room temperature for at least 5 d over Mg(ClO4)2 in a desiccator. 
+2.  Vacuum  drying  at  room  temperature  for  at  least  24 h  at  a  pressure  of  approximately  30 Pa 
+at  least 
+
+(0.2 mm Hg) using a cold trap. 
+
+3.  Freeze drying for at least 5 d at a pressure of approximately 30 Pa (0.2 mm Hg). 
+
+ 
+The analyst should ascertain that the material has indeed reached constant mass.  Although the above procedures have 
+been generally sufficient, in a few instances the time needed to reach constant mass was longer than listed above.  If 
+the constituents of interest are volatile, a separate test portion of the oyster tissue should be removed from the bottle 
+at the time of analysis and dried to determine the mass fraction values on a dry-mass basis. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation of Material:  The oysters (Crassostrea virginica, an American Eastern oyster) used for the 
+preparation  of SRM 1566b were purchased from  Bon Secour Fisheries, Inc. (Bon Secour, AL).   The  oysters were 
+collected  from  the  Gulf  of  Mexico,  shucked,  rinsed  twice  to  remove  sediment  and  shells,  packed  and  sealed  in 
+polyethylene bags, and frozen.  The frozen oysters and fluids were shipped in coolers containing dry ice to NIST.  At 
+NIST, the oysters and fluids were ground in a Robot-Coupe Vertical Cutter Mixer that was equipped with a stainless 
+steel bowl and titanium blades.  The oyster tissue was blended for 100 s into a slurry; approximately 5 kg of slurry 
+was poured into each of 40 specially cleaned aluminum trays outfitted with temperature probes, and frozen at –20 °C.  
+The  trays  were  taken  to  a  large  freeze-drying  facility  at  the  Frederick  Cancer  Research  and  Development  Center, 
+Natural Products Group in Frederick, MD.  The freeze-dryer’s initial temperature was –45 °C and gradually increased 
+to a temperature of 10 °C over a period of five days.  The freeze-dried material was stored at –20 °C, then broken into 
+smaller pieces, blended in the Robot-Coupe Mixer, jet milled, and homogenized in a V-blender for 30 min to 40 min.  
+The material was radiation sterilized (60Co) at Neutron Products, Inc. (Dickerson, MD), for approximately 5 h to an 
+absorbed dose of 30 kGy and then aliquoted into amber bottles. 
+ 
+Description of Calculations Used in Certified Value Assignment 
+ 
+Sulfur:    The  certified  mass  fraction  value  of  sulfur  is  the  result  of  a  single  NIST  method,  thermal  ionization  mass 
+spectrometry (TIMS), with confirmation by a second NIST method, prompt gamma activation analysis (PGAA).  Its 
+uncertainty is expressed as an expanded uncertainty, U, and is calculated as U = kuc.  The quantity uc is the combined 
+standard uncertainty,  calculated  according  to  the JCGM Guide [2],  that  accounts for  the  combined  components of 
+uncertainty  for  the  method  at  one  standard  deviation.    The  coverage  factor,  k,  is  determined  from  the  Student’s 
+t-distribution  corresponding  to  five  degrees  of  freedom  and  a  95 %  confidence.    Because  of  heterogeneity,  the 
+uncertainty associated with sulfur takes the form of a prediction interval. 
+ 
+Methylmercury:  The results for methylmercury are expressed as milligrams per kilogram as mercury.  The certified 
+value  is  the  mean  of  results  from  four  different  laboratory  analyses  of  SRM 1566b  using  four  different  analytical 
+methods.    The  expanded  uncertainty  in  the  certified  value  is  equal  to  U = kuc where  uc is  the  combined  standard 
+uncertainty calculated according to the JCGM Guide [2] and k is the coverage factor.  The value uc is intended to 
+represent, at the level of one standard deviation, the combined effect of all the uncertainties in the certified value.  
+                                                           
+
+certificate  to  adequately  specify  the  experimental
+(1)Certain commercial equipment, instruments or materials are identified in this certificate to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1566b 
+
+Page 2 of 6 
+
+verage  factor,  k 
+
+Here, uc is given by the standard error of the mean of the four analyses.  The coverage factor, k, is determined from 
+the Student’s t-distribution corresponding to three degrees of freedom and 95 % confidence. 
+ 
+All Other Elements:  All other certified mass fraction values are weighted means of results from two or more analytical 
+methods.  For these certified values, the uncertainty is calculated as U = kuc + B.  The quantity uc is the combined standard 
+uncertainty calculated according to the JCGM Guide [2], which accounts for the combined effect of the within variance 
+for  all  methods  at  one  standard  deviation.    The  coverage  factor,  k,  is  determined  from  the  Student’s  t-distribution 
+corresponding to the appropriate associated degrees of freedom and 95 % confidence for each element.  The term B is a 
+bias adjustment for the difference between methods, which is the maximum difference between the certified value and 
+the method means [3].  Because of heterogeneity, the uncertainty associated with calcium and thorium takes the form of 
+a prediction interval. 
+ 
+
+Table 1.  Certified Mass Fraction Values for Elements and Methylmercury(a) 
+
+Mass Fraction 
+(%) 
+
+Element 
+
+0.0838 
+0.514 
+0.1085 
+
+±  0.0020 
+±  0.010 
+±  0.0023 
+
+Potassium (K)(c,d,e) 
+Sodium (Na)(c,f) 
+Sulfur (S)(d,g) 
+
+Mass Fraction 
+(mg/kg) 
+
+Element 
+
+Mass Fraction 
+(%) 
+
+0.652 
+0.3297 
+0.689 
+
+±  0.009 
+±  0.0053 
+±  0.014 
+
+Mass Fraction 
+(mg/kg) 
+
+197.2 
+
+7.65 
+2.48 
+0.371 
+71.6 
+205.8 
+
+0.308 
+18.5 
+ 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+ 
+
+6.0 
+0.65 
+0.08 
+0.009 
+1.6 
+6.8 
+0.009 
+0.2 
+ 
+
+Mercury (total) (Hg) (i,j) 
+0.0371 
+Methylmercury (as mercury)(l,m,n,o)  0.0132 
+Nickel (Ni)(e,k,p) 
+Rubidium (Rb)(c,p) 
+Selenium (Se)(c,k) 
+Silver (Ag)(c,p) 
+Thorium (Th)(b,c) 
+Vanadium (V)(c,p) 
+Zinc (Zn)(c,e) 
+
+1.04 
+3.26 
+2.06 
+0.666 
+0.0367 
+0.577 
+
+1 424 
+
+0.0013 
+0.0007 
+0.09 
+0.14 
+0.15 
+0.009 
+0.0043 
+0.023 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+±  46 
+
+ 
+(a) The measurands are the mass fractions of the elements listed in Table 1.  Metrological traceability is to the SI derived unit 
+
+for mass fraction (expressed on a dry-mass basis as a percent or milligram per kilogram). 
+
+der  kilogram
+
+s  fractions  of  the  eleme 
+on  a  dry 
+
+S 
+
+ 
+ 
+Element 
+ 
+Calcium (Ca)(b,c) 
+Chlorine (Cl)(c,d) 
+Magnesium (Mg)(b,c) 
+ 
+ 
+Element 
+ 
+Aluminum (Al)(c,h) 
+Arsenic (As)(c,k) 
+Cadmium (Cd)(p,q) 
+Cobalt (Co)(c,p) 
+Copper (Cu)( c,p,q) 
+Iron (Fe)(c,e,r) 
+Lead (Pb)(b,p) 
+Manganese (Mn)(c,p) 
+ 
+
+ 
+Analytical Methods: 
+ 
+
+(b)  Isotope dilution inductively coupled plasma mass spectrometry (ID-ICP-MS) at NIST 
+(c)  Neutron activation analysis (instrumental) (INAA) at NIST 
+(d)  PGAA at NIST; confirmation method for S measurement only. 
+(e)  ID-ICP-MS at National Research Council Canada (NRCC) 
+(f)  Flame atomic emission spectrometry at NIST 
+(g)  ID-TIMS at NIST 
+(h)  ICP-MS at NRCC 
+(i)  Cold vapor atomic absorption spectrometry (CVAA) at NIST 
+(j)  Neutron activation analysis (radiochemical) (RNAA) at Jožef Stefan Institute (Ljubljana, Slovenia) 
+(k)  Electrothermal atomic absorption spectrometry (AAS) at NRCC 
+(l)  Gas chromatography with atomic emission detection (GC-AED) at NIST 
+(m)  Gas chromatography with atomic fluorescence (GC-AFS) detection at Jožef Stefan Institute 
+(n)  CVAA at Jožef Stefan Institute 
+(o)  CVAA at Research Centre Jülich, (Jülich, Germany) 
+(p)  ICP-MS at NIST 
+(q)  RNAA at NIST 
+(r) 
+
+Inductively coupled plasma optical emission spectrometry (ICP-OES) at NRCC 
+
+SRM 1566b 
+
+Page 3 of 6 
+
+Table 2.  Reference Mass Fraction Values for Elements(a) 
+
+Element 
+
+Strontium (Sr)(f) 
+Tin (Sn)(d) 
+Titanium (Ti)(g) 
+Uranium (U)(d) 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+±  0.2 
+
+6.8 
+0.031  ±  0.008 
+±  0.39 
+12.24 
+0.2550  ±  0.0014 
+
+(a) The measurands are the mass fractions of the elements listed in Table 2 as determined by the indicated method or methods.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed on a dry-mass basis as a percent or milligram 
+per kilogram), as realized by the method used. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Element 
+
+Mass Fraction 
+
+(%) 
+
+Nitrogen (N)(b) 
+
+7.6 
+
+±  0.4 
+
+Element 
+
+Mass Fraction 
+(mg/kg) 
+
+Antimony (Sb)(c) 
+Barium (Ba)(d) 
+Boron (B)(b) 
+Gold (Au)(e,f) 
+Hydrogen (H)(b) 
+
+±  0.3 
+±  1.9 
+
+0.011  ±  0.002 
+8.6 
+4.5 
+0.0106  ±  0.0028 
+7.2 
+
+±  0.4 
+
+ 
+Analytical Methods: 
+(b)  PGAA at NIST 
+(c)  RNAA at NIST 
+(d)  ID-ICP-MS at NRCC 
+(e)  INAA at NIST 
+(f)  ICP-MS at NIST 
+(g)  ICP-OES at NIST 
+
+ 
+ 
+Reference Mass Fraction Values of Selected Proximates, Nitrogen, and Total Dietary Fiber:  Each reference value, 
+expressed as a mass fraction of the material on an as-received or dry-mass basis, for a stated measurand is an equally 
+weighted mean of results from the collaborating laboratories listed in Appendix A.  Each of four laboratories analyzed 
+one portion from each of three bottles of SRM 1566b using their routine methods.  Determinations were performed on 
+the material “as-received,” with conversion of results to a dry-mass basis using moisture values determined by the four 
+laboratories on separate subsamples  taken from each of the three bottles.   The uncertainty in  the reference values  is 
+expressed as an expanded uncertainty, U, at the 95 % level of confidence, and is calculated according to the method 
+described in the JCGM Guide [2].  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent, 
+at the level of one standard deviation, the combined effect of between-laboratory and within-laboratory components of 
+uncertainty.  The coverage factor, k, is determined from the Student’s t-distribution corresponding to the appropriate 
+associated degrees of freedom and 95 % confidence for each analyte.  Analytical methodology information is provided 
+in Table 4.  The measurands are the constituents listed in Table 3 as determined by the methods used by the laboratories.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed as-received and dry-mass basis as percent), 
+as realized by the method used. 
+ 
+
+Table 3.  Reference Mass Fraction Values of Selected Proximates, Nitrogen, and Total Dietary Fiber 
+
+ 
+
+Constituent 
+
+Mass Fraction 
+  as-received(a) 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)  Note that SRM 1566b was originally certified in 2001 and, at that time, reference and information values were provided for fatty 
+acids.  Those reference and information values are no longer valid as these compounds are not stable in this matrix for more than 
+10 y under these storage conditions. 
+
+0 (by definition) 
+100 (by definition) 
+±  0.15 
+±  2.6 
+±  0.42 
+±  1.4 
+
+ 
+Moisture 
+ 
+Solids 
+ 
+Ash 
+Protein(b) 
+ 
+Protein Nitrogen(b)   
+Total Dietary Fiber  
+
+± 
+± 
+3.87   ± 
+± 
+42.6 
+± 
+6.82 
+± 
+6.5 
+
+Mass Fraction 
+dry-mass basis(a) 
+(%) 
+
+3.6 
+3.6 
+0.09 
+1.3 
+0.20 
+1.6 
+
+4.05 
+44.7 
+7.16 
+6.8 
+
+4.6 
+95.4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+(b) The protein mass fraction value was calculated from the nitrogen values reported by the laboratories using a conversion factor of 
+6.25.  The value for protein is the mean of the individual protein calculations.  If the mean nitrogen values above are used for 
+calculation, the mean protein mass fraction values are 42.6 % and 44.7 % on as-received and dry-mass basis, respectively. 
+
+SRM 1566b 
+
+Page 4 of 6 
+
+Table 4.  Analytical Methods Used by Collaborating Laboratories for the Determination 
+of Proximates, Nitrogen, and Total Dietary Fiber in SRM 1566b 
+
+ 
+Ash 
+Moisture 
+Protein nitrogen 
+Protein 
+Solids 
+Total dietary fiber 
+
+mass after ignition in a muffle furnace 
+mass loss after drying in a vacuum oven (3 laboratories) or forced-air oven (1 laboratory) 
+Dumas (1 laboratory); modified Dumas (1 laboratory); Kjeldahl (2 laboratories) 
+calculated from nitrogen using a factor of 6.25 
+calculated; (sample mass – moisture) 
+enzymatic gravimetry 
+
+ 
+ 
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Jul 2019). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jul 2019);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jul 2019). 
+
+[3]  Schiller, S.; Eberhardt, K.; Combining Data from Independent Chemical Analysis Methods; Spectrochimica Acta, 
+
+Vol. 46B, No. 12, pp. 1607–1613 (1991). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  02 August 2019 (Change of expiration date; editorial changes); 26 June 2017 (Corrected units for gold; editorial 
+changes);  18 November 2015  (Added  reference  values  for  gold  and  titanium  in  Table 2;  editorial  changes);  07 February 2011  (Corrected  the 
+definition  of  ash  in  Table 4);  09 July 2010  (Removed  reference  and  information  concentration  values  of  fatty  acids  and  removed  reference 
+concentration  values  of  caloric  content,  carbohydrates,  and  fat  along  with  the  corresponding  analytical  methods;  changed  the  expiration  date; 
+editorial changes); 17 January 2001 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+ 
+
+SRM 1566b 
+
+Page 5 of 6 
+
+Appendix A 
+ 
+NIST Analysts, Chemical Sciences Division 
+
+B. Buehler 
+T.A. Butler 
+R. Demiralp 
+M.S. Epstein 
+M.E. Howard 
+W.R. Kelly 
+R.M. Lindstrom 
+S.E. Long 
+E.A. Mackey 
+
+J.L. Mann 
+J.L. Molloy 
+K.E. Murphy 
+S.A. Rabb 
+M.S. Rearick 
+S. Tutschku 
+R.D. Vocke, Jr. 
+R.P. Watson 
+L.L. Yu 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Collaborating Laboratories and Analysts for Elemental Determinations 
+
+ 
+Analytical Chemistry Division, National Research Council Canada (Ottawa, Canada):  V. Boyko, J. Lam, S. Willie, 
+and L. Yang 
+Jožef Stefan Institute, (Ljubljana, Slovenia):  H. Akagi, V. Fajon, M. Horvat, K. Jereb, and M. Logar 
+Research Centre Jülich (Jülich, Germany):  H. Emons and K. May 
+ 
+ 
+
+Collaborating Laboratories for Selected Proximates, Nitrogen, 
+and Total Dietary Fiber Determinations 
+
+ 
+Covance Laboratories (Madison, WI) 
+Lancaster Laboratories (Lancaster, PA) 
+Medallion Laboratories (Minneapolis, MN) 
+Southern Testing and Research Laboratories (Wilson, NC) 
+ 
+
+SRM 1566b 
+
+Page 6 of 6 
+
+

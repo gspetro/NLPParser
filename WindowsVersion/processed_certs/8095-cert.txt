@@ -1,0 +1,580 @@
+﻿ 
+
+Staves  of  ©
+
+National Institute of Standards & Technology 
+Report of Investigation 
+Reference Material 8095 
+
+ 
+
+ 
+
+ 
+Si1-xGex Films on Si 
+
+ 
+This  Reference  Material (RM)  is  intended  to  provide  a  microanalysis  reference  standard  for  the  semiconductor 
+industry,  primarily  for  secondary  ion  mass  spectrometry (SIMS)  analyses.    A  unit  of  RM 8095  consists  of 
+two 1 cm × 1 cm  sections,  each  with  a  different  film  of  Si1-xGex  on  Si.    The  films  have  nominal  compositions  of 
+10 %  (atom  fraction)  Ge  in  Si  (Si0.90Ge0.10)  and  25 %  (atom  fraction)  Ge  in  Si  (Si0.75Ge0.25).    This  Report  of 
+Investigation applies to serial numbers 8095-1 through 8095-5. 
+ 
+Reference  Values:    Reference  values  for  the  film  compositions  in  mass  fractions  are  provided  in  Table 1.  
+Reference values are non-certified values that are the present best estimates of the true values.  However, the values 
+do not meet the NIST criteria for certification and are provided with associated uncertainties that may not include all 
+sources of uncertainty [1]. 
+ 
+Information Values:  Information values for the Ge concentrations in atom fractions and atom fraction ratios are 
+provided in Table 2.  An information value is considered to be a value that may be of interest to the RM user, but 
+insufficient information is available to assess the uncertainty associated with the value [1]. 
+ 
+Expiration of Value Assignment:  The reference values for RM 8095 are valid indefinitely, within the uncertainty 
+specified, provided the RM is handled and stored in accordance with the instructions given in this certificate (see 
+“Instructions Handling, Storage, and Use”).  Accordingly, periodic recalibration or recertification of this RM is not 
+required.  The certification is nullified if the RM is damaged, contaminated or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+The overall technical coordination for material procurement, processing and measurement activities was conducted 
+by  S. Turner,  R.B. Marinenko,  D.S. Simons,  and  J.A. Small  of  the  NIST  Surface  and  Microanalysis  Science 
+Division. 
+ 
+Reference  and  information  value  measurements  and  sample  preparation  were  performed  by  R.B. Marinenko, 
+D. Klinedinst, L.J. Richter, D.C. Meier, K.C.K. Scott, N.W.M. Ritchie, D.E. Newbury, S. Turner and E.S. Windsor 
+of the NIST Surface and Microanalysis Division, R.L Zeisler, R.L. Paul, S.A. Rabb, L.L. Yu, and M.R. Winchester 
+of the NIST Analytical Chemistry Division. 
+ 
+SIMS  depth  profile  measurements  were  obtained  by  K.J. Kim,  guest  researcher  in  the  NIST  Surface  and 
+Microanalysis Science Division and by T. Büyüklimanli of Evans Analytical Group (East Windsor, NJ). 
+ 
+Statistical consultation for this RM was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  RM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  19 July 2011 
+ 
+
+John A. Small, Chief 
+Surface and Microanalysis Science Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+RM 8095 
+
+Page 1 of 6 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+
+Handling:  The film side of the two RM sections is the polished, reflective side.  These surfaces were cleaned by 
+ultrasonification  in  acetone  and  isopropyl  alcohol  under  clean  room  conditions  prior  to  packaging.    Immediately 
+prior to use, dust particles should be removed from the surface with a pressurized duster. 
+
+Storage:  When not in use the RM should be stored in its original container.  
+
+Use:  To use these films as composition reference materials for SIMS, the Ge compositions in atom fractions and the 
+atom ratios of Table 2 should be utilized.  Note that the compositions of the films given in Tables 1 and 2 refer only 
+to  the  portion  of  the  films  within  1.5 µmof  the  sample  surface  for  the  Si0.90Ge0.10  film  and  within  2.0 µm  of  the 
+sample surface for the Si0.75Ge0.25 film. 
+
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Material  Source  and  Preparation:    The  films  were  prepared  by  chemical  vapor  deposition  by  Advanced 
+Semiconductor  Materials  America (ASM America),  Phoenix, AZ  with  nominal  compositions  of  10 %  (atom 
+fraction) Ge in Si (Si0.90Ge0.10) and 25 % (atom fraction) Ge in Si (Si0.75Ge0.25) on 20 cm diameter Si wafers.  The 
+nominal film thicknesses are 4 µm and 5 µm, respectively.  The Si wafers were cut in half.  One half of each wafer 
+was sawed into 1 cm × 1 cm sections. 
+ 
+Homogeneity  Testing:    Spectroscopic  ellipsometry  of  the  uncut  20 cm  wafer  showed  that  the  maximum  lateral 
+chemical homogeneity occurred within approximately a 5 cm radius around the wafer center.  SIMS depth profiles 
+showed that some changes occur in the films below 2 µm.  Some details of the depth profile analyses are given in 
+the  Appendix  and  in  reference 3.    From  these  results  it  is  recommended  that  the  use  of  these  films  as  reference 
+standards be restricted to a depth no greater than 1.5 µm for the Si0.90Ge0.10 film and 2.0 µm for the Si0.75Ge0.25 film. 
+ 
+Five sections from each wafer were selected from the region of maximum chemical homogeneity for electron probe 
+microanalysis (EPMA)  characterization.    Quantitative  chemical  homogeneity  of  the  films  was  tested  with 
+wavelength  dispersive  spectrometer (WDS)  EPMA  using  thallium  acid  phthalate (TAP)  and  pentaerythritol (PET) 
+crystals  to  acquire  X-ray  count  data  from  the  GeL  and  SiK  peaks,  respectively.    Tests  included  50 µm  linear 
+traverses in 2 µm steps, random point analyses, and nested design experiments in which 10 randomly-selected points 
+were each sampled three times on each of the five specimens taken from the two film wafers.  The nested design 
+experiment  was  used  to  determine  the  within-specimen,  between-specimen,  and  measurement  heterogeneity 
+uncertainties.  The combined expanded heterogeneity uncertainty, 2W, for Si0.90Ge0.10 was determined to be 1.04 % 
+mass  fraction  (relative)  for  Ge  and  0.68 %  mass  fraction  (relative)  for  Si;  the  combined  expanded  heterogeneity 
+uncertainty,  2W,  for  Si0.75Ge0.25  was  determined  to  be  0.94 %  mass  fraction (relative)  for  Ge  and  1.48 %  mass 
+fraction (relative) for Si.  A table with further details of the homogeneity testing results is given in the Appendix.  
+Details of the testing procedures and analyses can be found in recent publications [2,3]. 
+ 
+Quantification:  The films were analyzed at 15 kV and 20 kV with WDS EPMA using the SiKα and GeKα X-ray 
+lines [3] with PET and LiF crystals, respectively.  Five points were sampled at 15 kV, and 10 points were sampled at 
+20 kV  on  each  of  five  specimens  from  each  film.    Data  were  quantified  with  the  Love-Scott II  matrix  correction 
+procedure [4] using X-ray form factor, attenuation and scattering tables (FFAST) mass absorption coefficients [5].  
+Pure  element  wafers  and  a  Si0.86Ge0.14  boule  were  used  as  reference  standards.    The  characterization  of  the 
+Si0.86Ge0.14 boule was reported [6] and the expanded overall heterogeneity uncertainty, 2W, was determined to be 
+0.92 %  mass  fraction (relative)  for  Ge  and  0.81 %  mass  fraction (relative)  for  Si.    The  Ge  composition  was 
+determined  by  inductively  coupled  plasma  optical  emission  spectrometry (ICP-OES)  and  instrumental  neutron 
+activation analysis (INAA) to be 30.228 % mass fraction with an expanded uncertainty of the mean of 0.195 % mass 
+fraction [6].   The Ge  and  Si concentrations  calculated for  both films  are  consistent  at both 15 kV  and 20 kV,  and 
+they are consistent using both the pure elements and the Si0.86Ge0.14 boule as reference standards.  The mass balance 
+for the two elements in the films is less than 100 % mass fraction.  The reasons are not fully evident without further 
+investigation.  A short description of work done to investigate the lack of mass balance is given in the Appendix and 
+further details are given in reference 3. 
+ 
+ 
+ 
+                                                 
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+RM 8095 
+
+Page 2 of 6 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+Table 1.  Reference Values for Ge, Si and Total (Mass Fraction, in %) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+  Si0.90Ge0.10 
+  Si0.75Ge0.25 
+ 
+
+Film 
+
+Si 
+(mass fraction, %)(a) 
+
+(mass fraction, %)(a) 
+
+74.96    0.67 (0.89 %) 
+53.50    0.34 (0.64 %) 
+
+22.80    0.10 (0.44 %) 
+43.66    0.21 (0.48 %) 
+
+Ge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Total 
+
+(mass fraction, %)(b) 
+ 
+ 
+  97.77    0.68 (0.70 %) 
+  97.16    0.40 (0.41 %)(c) 
+
+ 
+
+(a) The reference values for Si and Ge mass fraction, in %, are a weighted mean of the results from EPMA obtained under four 
+experimental  conditions.    The  uncertainties  for  the  elemental  values  are  an  expanded  uncertainty  about  the  mean  with 
+coverage factor 2, calculated by combining variance between experimental conditions [7-9] with a pooled variance across 
+the  four  experimental  conditions  following  the  ISO  Guide [10].    Relative  expanded  uncertainties  are  provided  in 
+parentheses.  Uncertainties for data collected under each experimental condition are given in reference 3. 
+
+(b) The uncertainties for the total values are calculated from propagation of uncertainty.  Relative expanded uncertainties for 
+
+the total values are provided in parentheses. 
+
+(c) The  uncertainties  reported  here are  slightly  different  from  those reported  in  reference 3  due  to the  recent  adoption  of  an 
+
+updated procedure for calculating uncertainties from different sources [7-9]. 
+
+Table 2.  Information Values for Ge (Atom Fraction) and Ge/Si Atom Ratio 
+ 
+
+Film 
+
+ 
+
+Si0.90Ge0.10 
+Si0.75Ge0.25 
+
+Ge  
+(atom fraction)(a) 
+ 
+
+Ge/Si  
+Atom Ratio(a) 
+ 
+
+0.1052 
+0.2398 
+
+  0.0009 (0.90 %) 
+  0.0015 (0.61 %) 
+
+0.1176 
+0.3155 
+
+  0.0012 (1.01 %) 
+  0.0025 (0.80 %) 
+
+ 
+
+ 
+ 
+ 
+
+(a) The information values for Ge atom fraction and Ge/Si atom ratio were obtained by normalizing the mass fraction values in 
+Table 1.    The  Si  and  Ge  mass  fractions  for  a  given  film  were  multiplied  by  a  common  scaling  factor  so  that  their 
+normalized mass fractions total 100 %.  The normalized mass fraction ratios were divided by the atomic weight ratio of the 
+two  elements  to  obtain  the  atom  fraction  ratios  and  from  these  values  the  atom  fractions  of  Ge  for  the  two  films  were 
+calculated.    The  uncertainties  were  obtained  using  a  Monte  Carlo  procedure  based  on  the  mass  fraction  uncertainties  of 
+Table 1.    The  uncertainties  are  an  expanded  uncertainty  about  the  mean  with  a  coverage  factor 2.    Relative  expanded 
+uncertainties for the total values are provided in parentheses. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+RM 8095 
+
+Page 3 of 6 
+
+ 
+
+REFERENCES 
+
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136  (2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed July 2011). 
+
+[2]  Marinenko, R.B;  Leigh, S.;  Heterogeneity  Evaluation  of  Research  Materials  for  Microanalysis  Standards 
+
+Certification; Micros. Microanal, Vol. 10, pp. 491-506 (2004). 
+
+[3]  Marinenko, R.B.;  Turner, S.;  Simons, D.S.;  Rabb, S.A.;  Zeisler, R.L.;  Yu, L.L.;  Newbury; D.E.;  Paul, R.L.; 
+Ritchie, N.W.M.;  Leigh, S.D.;  Winchester, M.R.;  Richter, L.J.;  Meier D.C.;  Scott, K.C.K;  Klinedinst, D.; 
+Small, J.A.;  Characterization  of  SiGe  Films  for  Use  as  a  National  Institute  of  Standards  and  Technology 
+Microanalysis Reference Material (RM 8905); Microsc. Microanal., Vol. 16; pp. 1-12 (2010). 
+[4]  Scott, V.D.; Love, G. Quantitative Electron-Probe Microanalysis; Wiley & Sons, New York (1983). 
+[5]  Chantler, C.T.;  Olsen, K.;  Dragoset; R.A.,  Chang, J.;  Kishore, A.R.;  Kotochigova, S.A.;  Zucker, D.S.;  X-Ray 
+at 
+
+(version 2.1); 
+
+Attenuation 
+
+Form 
+http://www.nist.gov/pml/data/ffast/index.cfm (accessed July 2011). 
+
+Scattering 
+
+available 
+
+Factor, 
+
+Tables 
+
+and 
+
+[6]  Marinenko, R.B.;  Armstrong, J.T.;  Turner, S.;  Steel, E.B.;  Stevie, F.A.;  Characterization  of  SiGe  Bulk 
+Compositional  Standards  with  Electron  Probe  Microanalysis;  In  Proceedings  2003  International  Conference 
+on  Characterization  and  Metrology  for  ULSI  Technology,  Austin, TX;  Seiler, D.G.;  Diebold, A.C.; 
+Shaffner, T.J.; McDonald, R.; Zollner, S.; Rajinder, P.K.; Secula, E.M., Eds., pp. 238-242 (2003). 
+
+[7]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrol., Vol. 46, pp. 323-331 (2009). 
+[8]  DerSimonian, R.;Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177-188 (1986). 
+[9]  Horn, R.A.;  Horn, S.A.;  Duncan, B.;  Estimating  Heteroscedastic  Variance  in  Linear  Models;  J. Am. Stat. 
+
+Assoc., Vol. 70, pp 380-385 (1975). 
+
+[10]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  July 2011);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed July 2011). 
+
+[11]  Ritchie, N.W.M.;  A  New  Monte  Carlo  Application  for  Complex  Sample  Geometries;  Surf.  and  Inter.  Anal., 
+
+Vol. 37, pp. 1006-1011 (2005). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 926-4751; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+ 
+
+RM 8095 
+
+Page 4 of 6 
+
+APPENDIX 
+
+ 
+.
+
+0.56
+
+0.60
+
+0.58
+
+b
+r
+a
+(
+ 
+i
+
+)
+s
+t
+i
+n
+u
+
+ 
+Depth Profiles:  An example SIMS depth profile plot for a Si0.75Ge0.25 film specimen is given in Figure A1 below.  
+Below  2 µm,  gradual  concentration  changes  occur.    In  the  six  Si0.75Ge0.25  specimens  measured,  the  Ge/Si  ratio 
+increased by 2.9 %  0.9 % (1) at a depth interval of 3 µm to 4 µm relative to a depth interval of 0.5 µm to 2 µm.  
+For the Si0.90Ge0.10 specimens, this transition was negative, 1.6 %  0.8 % (1) for a depth interval of 2 µm to 3 µm 
+relative to a depth interval of 0.5 µm to 1.5 µm.  Further details of analyses are given in reference 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A1.  SIMS depth profile plot of Ge/Si ratio vs. depth for a Si0.75Ge0.25 film specimen.  The ratio in this sample 
+is constant to about a depth of about 2 µm and then increases by 2.9 % over an interval of about 1 µm after which it 
+appears to remain constant down to the film-Si interface.  The ratio change near the top surface is a SIMS-related 
+artifact. 
+ 
+Homogeneity Results:  A summary of homogeneity testing of the films is given in Table A1 below. 
+ 
+
+Depth (m)
+
+S
+/
+e
+G
+
+0.52
+
+0.50
+
+0.54
+
+0
+
+3
+
+2
+
+1
+
+4
+
+5
+
+Table A1.  Information Values for Expanded Heterogeneity Uncertainties in Relative % Mass Fraction(a) 
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+ 
+
+(b) 
+
+SW
+PW 
+EW 
+W 
+
+crystal. 
+
+ 
+
+Si0.90Ge0.10  
+
+Si0.75Ge0.25 
+
+Ge  
+Heterogeneity 
+ (mass fraction, %)
+ 
+
+Si 
+Heterogenetiy
+ (mass fraction, %) 
+
+ 
+ 
+
+Ge 
+Heterogeneity 
+ (mass fraction, %) 
+
+Si 
+Heterogeneity 
+ (mass fraction, %) 
+
+ 
+0.70 
+0.46 
+0.62 
+1.04 
+
+ 
+0.46 
+0.36 
+0.36 
+0.68 
+
+ 
+
+ 
+ 
+ 
+
+ 
+0.68 
+0.57 
+0.38 
+0.94 
+
+ 
+1.32 
+0.54 
+0.40 
+1.48 
+
+(a) Ge  was  measured  using  the  GeLα  X-ray  line  with  a  TAP  crystal;  Si  was  measured  using  the  SiKα  X-ray  line  with  a  PET 
+
+(b) 2SW  is  between-specimen  expanded  uncertainty,  2PW  is  between-points  expanded  uncertainty,  and  2EW  is  the 
+measurement  expanded  uncertainty.    These  uncertainty  components  were  combined  in  quadrature  to  obtain  the  combined 
+expanded heterogeneity uncertainty, 2W.   
+
+RM 8095 
+
+Page 5 of 6 
+
+Mass  Balance:    The  lack  of  mass  balance  in  these  films  may  be  caused  by  physical  characteristics,  such  as  very 
+small voids in the films, vacancies in the lattice, or a density that is different from the SiGe boule that was used as a 
+standard.  INAA, Auger spectrometry, and FIB SEM analyses were used to evaluate these possibilities.  Impurities 
+are known to be present.  Traces of carbon and oxygen were observed in 2000s, 10 kV EDS spectra of both films, 
+but these elements were also observed in EDS spectra of the pure Si and Ge wafers used as reference materials for 
+the quantification.  Oxygen (atom fraction > 10 %) and some carbon were detected on the surfaces of the films to 
+depths  from  3 nm  to  6 nm  with  field  emission  Auger  electron  spectroscopy,  and  a  NIST  Monte  Carlo [11] 
+calculation determined that the amount of oxygen detected by Auger spectroscopy could be responsible for as much 
+as  a 1 %  mass  fraction  loss of  GeK X-rays.   No  voids were  observed  in  the  FIB  SEM  work, so  if present,  they 
+would  be  expected  to  be  at  the  atomic  level.    Some  work  may  be  done  in  the  future  with  the  analytical  electron 
+microscope  to  investigate  the  structure  of  these  films  more  fully.    In  addition  to  the  possibilities  cited  above, 
+elements may be present that could not be detected by EPMA.  Hydrogen was eliminated as a major contributor to 
+the mass discrepancy by INAA where each film was determined to contain a hydrogen concentration < 1 µg/cm2.  
+SIMS depth profiles obtained from Evans Analytical Group (East Windsor, NJ) of both films confirmed the INAA 
+results.    Surface  concentrations  of  oxygen,  carbon,  and  hydrogen  decreased  to  0.0002 atom  fraction  or  less  at 
+100 nm below the film surface, and both oxygen and carbon concentrations continued to decrease with depth. 
+ 
+ 
+ 
+
+RM 8095 
+
+Page 6 of 6 
+
+

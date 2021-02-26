@@ -1,0 +1,307 @@
+﻿fw 
+
+. 
+15  [ 
+. 
+    
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate 
+ 
+Standard Reference Material 1928 
+
+Standard 
+Infrared Specular High Reflectance Standard 
+(Nominal Diameter 51 mm) 
+ 
+Sample
+Serial Number:  Sample 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  calibrating  the  reflectance  scales  of  specular 
+reflectometers  in  the  infrared (IR)  spectral  region  from  1.0 µm  to  18.0 µm  (555 cm-1  to  10,000 cm-1).    A  unit  of 
+SRM 1928 consists of a specular finish gold plated copper disk, approximately 9.0 mm thick and 50.8 mm in diameter.  
+Each unit is inscribed with an identifier number; the two digits after the left “/” of the inscription correspond to the 
+serial number assigned by NIST.  SRM 1928 is shipped in an anodized aluminum container with protective inserts 
+constructed in such a way as not to impinge upon the front surface of the mirror.   The SRM is placed with its front 
+surface face down into the bottom half of the container. 
+ 
+Certified  Reflectance  Values: 
+  SRM 1928  was  measured  using  the  NIST  Fourier  Transform  Infrared 
+Spectrophotometer  and  Infrared  Reference  Integrating  Sphere [1-5].    This  instrument  measures  reflectance  using 
+absolute  techniques.    The  measurements  are  made  as  a  function  of  wavelength.    Each  unit  of  SRM 1928  is 
+independently certified for a wavelength range of 1 µm to 18 µm.  This SRM is certified for specular reflectance for 
+near-normal geometries, unpolarized incident light with an average angle of incidence on the sample between 0° and 
+30°, and any incident geometry between f/1 and f/16, and any collection geometry from near zero solid angle up to 
+the full reflected hemisphere.  For each unit of SRM 1928, at each wavelength, the certified value of the reflectance 
+is given in absolute units (between 0 and 1).  The measurand is the regular reflectance measured as a function of 
+wavelength (µm)  or  equivalent  wavenumber (cm-1).    Metrological  traceability  is  to  the  NIST  infrared  regular 
+reflectance scale as described in NIST Special Publication 250-94 [1].  The values shown in Figure 1 of this certificate 
+are  valid  for  the  ranges  mentioned  only.    The  certification  data  for  SRM 1928  Serial  Number  Sample  can  be 
+downloaded at the NIST website at https://www-s.nist.gov/srmors/view_detail.cfm?srm=1928. 
+ 
+Expiration of Certification:  The certification of SRM 1928 is valid, within the measurement uncertainty specified, 
+until 31 December 2023, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, exposed to excess humidity, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical measurements leading to certification were performed under the 
+supervision of J.P. Rice and L.M. Hanssen of the NIST Sensor Science Division. 
+ 
+Technical  measurements  leading  to  certification  were  performed  by  S.G. Kaplan  and  L.M. Hanssen  of  the  NIST 
+Sensor Science Division. 
+ 
+Statistical consultation and evaluation of the data were provided by N.F. Zhang of the NIST Statistical Engineering 
+Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  31 May 2019 
+Certificate Revision History on Last Page 
+
+Gerald T. Fraser, Chief 
+Sensor Science Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+SRM 1928 
+
+Page 1 of 4 
+
+Support aspects involved in preparation, certification, and issuance of this SRM were coordinated through the NIST 
+Office of Reference Materials.  
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling and Storage:  SRM 1928 is fragile and must be handled with care.  Airborne particulates, aromatics, and 
+improper handling may adversely affect the surface conditions.  The SRM should always be handled carefully so 
+that nothing is allowed to contact the bare gold surface, including fingers, other than any holder the user may require.  
+Any holder should be designed such that any contact with the holder is limited to the outside edges away from the 
+regions used for measurement.  Other than using a clean air bulb to gently remove dust from its front surface, the 
+user should not attempt any other cleaning process, as such action may adversely affect the gold coating.  When not 
+in use, SRM 1928 should be kept in its original container.  For storage, it is advisable to keep the SRM in a desiccator 
+cabinet. 
+ 
+Use:  The sample reflectance should be measured using unpolarized light at near normal incidence within the above 
+specified  ranges.    A  measurement  of  a  sample  at  45°  incidence  using  polarized  light  showed  a  variation  of  up  to 
+± 0.005 in reflectance for s or p polarization, but only 0.0005 for unpolarized light.  If the light source or detector 
+system used for reflectance measurements have significant polarization content or sensitivity and the incidence angle 
+is  greater  than  10°,  then  some  effort  should  be  made  to  depolarize  the  light  or  average  two  orthogonal  linear 
+polarization measurements. 
+ 
+Certification Data:  The certification data, as shown in Figure 1, is provided to the user in the form of a tab-delimited 
+text  file.    The  data  is  in  columnar  format,  with  columns  for  wavenumber,  wavelength,  reflectance,  and  expanded 
+uncertainty, respectively, over the entire spectral range in steps of 4 cm-1.   
+ 
+ 
+
+ 
+e
+c
+n
+a
+t
+c
+e
+l
+f
+e
+R
+
+1.000 
+
+0.995 
+
+0.990 
+
+0.985 
+
+0.980 
+
+0.975 
+
+  
+
+  
+
+FH 
+
+  
+
+  
+      
+
+    
+  
+  
+  
+ 
+    
+
+4 
+
+8 
+
+12 
+
+16 
+
+Wavelength,  pm 
+
+Figure 1.  Measured reflectance values for 
+SRM 1928 SN SAMPLE, with expanded uncertainty (k = 2) error bars. 
+ 
+
+ 
+
+ 
+
+SRM 1928 
+
+Page 2 of 4 
+
+SOURCE, PREPARATION, AND ANALYSIS 
+ 
+Source  and  Preparation:    The  SRM  samples  were  produced  by  Epner  Technology  Inc.  (Brooklyn, NY).(1)    The 
+standard material is an electrodeposited proprietary gold coating over nickel over a polished copper disk.  
+ 
+Certification Measurements:   Infrared  reflectance  measurements  were  performed using  a  Digilab 7000S  Fourier 
+Transform  Spectrometer (FTS)  system  coupled  to  a  custom  integrating  sphere  apparatus.    The  instrument  room 
+temperature was maintained at 23 °C ± l °C and the humidity ranged from 30 % to 50 % during the measurements.  
+Measurements were made under a purge gas of clean air (with CO2 and H2O removed) at atmospheric pressure.  Details 
+of the measurement methodology can be found in references 1, 4 and 5.  Spectral directional hemispherical reflectance 
+was measured from 2.5 µm through 18.0 µm (555 cm-1 through 4000 cm-1) with the setup of the FTS in a  mid-IR 
+mode  with  a  KBr  beamsplitter  and  a  SiC  “globar”  source,  and  in  a  near-IR  mode  from  1.0 µm  through  2.5 µm 
+(4000 cm-1 through 10000 cm-1) with a quartz beamsplitter and a quartz-halogen light source.  The spectral resolution 
+was  8 cm–1.    A  final  smoothing  was  applied  to  the  measured  reflectance  data,  resulting  in  an  effective  spectral 
+resolution of 21 cm-1.  Measurements were performed with an f/6 cone centered on an average 8° angle of incidence 
+with nominally unpolarized incident light.  The focus spot on the sample was 10 mm in diameter.  The detector was a 
+liquid-nitrogen-cooled mercury-cadmium-telluride photoconductive element with a KCl lens and gold-coated non-
+imaging  concentrator,  viewing  a  portion  of  the  inner  sphere  surface.    Additional  details  of  the  measurement 
+instrumentation and methodology can be found in references 1-5.  
+ 
+Uncertainty  Evaluation:    The  expanded  uncertainty,  U95%(x),  is  provided  for  each  certified  reflectance  value,  x,  
+at  each  wavelength  and  shown  as  error  bars  in  Figure 1.    It  is  the  product  of  the  coverage  factor,  k = 2,  and  the 
+combined  standard  uncertainty.    The  true  value  of  the  reflectance  x  is  believed  to  lie  within  x ± U95%(x)  with  an 
+approximate 95 % confidence.  The combined standard uncertainty is the root sum of squares of all the uncertainty 
+components [6–7].  Uncertainty components due to systematic effects are related to the FTS and interface optics and 
+the integrating sphere system.  The uncertainties related to the spectrometer and interface optics are wavelength scale 
+error,  phase  correction  error,  beam  geometry,  beam  polarization,  and  system  component  inter-reflections.  
+Uncertainties  related  to  the  integrating  sphere  system  are  detector  nonlinearity,  overfill  of  the  integrating  sphere 
+entrance and sample ports, nonequivalence of sample and reference alignment, atmospheric absorption variation, and 
+the local spatial variations of the integrating sphere throughput.  Uncertainty components due to random effects are 
+FTS source and alignment stability and detector noise.  The uncertainty contributions caused by these effects were 
+evaluated by multiple measurements of the test items.  Details on the estimation of these uncertainties are given in 
+Reference 5. 
+ 
+ 
+
+ 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  describe  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment is the best available for the purpose 
+SRM 1928 
+
+Page 3 of 4 
+
+ 
+
+ 
+[1]  Hanssen, L.M; Kaplan, S.G.; Datla, R.U.; Infrared Optical Properties of Materials ; NIST Special Publication 
+(2015);  available  at  https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.250-94.pdf 
+
+REFERENCES 
+
+[2]  Kaplan, S.G; Hanssen, L.M; Infrared Diffuse Reflectance Instrumentation and Standards at NIST; Anal. Chim. 
+
+[3]  Hanssen, L.M; Kaplan, S.G.; Infrared Diffuse Reflectance Instrumentation and Standards at NIST, Anal. Chim. 
+
+250-94 
+(accessed May 2019). 
+
+Acta, Vol. 380; pp. 303-310 (1998). 
+
+Acta; Vol 380, pp. 289-302 (1998). 
+
+[4]  Hanssen, L.M,  Integrating-Sphere  System  and  Method  for  Absolute  Measurement  of  Transmittance, 
+
+Reflectance, and Absorptance of Specular Samples,” Appl. Opt.; Vol. 40, pp. 3196-3204 (2001). 
+
+[5]  Chunnilall, C.J.;  Clarke, F.J,  Hanssen, L.M;  Kaplan, S.G.;  Smart, M.P.;  NIST-NPL  Comparison  of 
+
+[6] 
+
+[7] 
+
+Mid-infrared Regular Transmittance and Reflectance, Metrologia, Vol. 40, pp. S55-S59 (2003). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed May 2019); 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed May 2019). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+date).  
+Certificate Revision History:  31 May 2019 (Editorial changes); 26 February 2019 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at https://www.nist.gov/srm. 
+
+SRM 1928 
+
+Page 4 of 4 
+
+

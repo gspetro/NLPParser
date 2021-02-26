@@ -1,0 +1,1249 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 1934 
+
+Fluorescent Dyes for Quantitative Flow Cytometry 
+(Visible Spectral Range) 
+
+ 
+This Standard Reference Material (SRM) is  intended  for  use  in  assigning fluorescence intensity values to calibration 
+standards for quantitative flow cytometry in the visible spectral range.    A unit of SRM 1934  consists  of  four amber  
+ampoules,  each  containing  2 mL  of  a  different  fluorophore  solution  or  suspension. 
+  The  solutions  include 
+Part A: Fluorescein  Solution (60 μM  aqueous  borate  buffer  solution);  Part B:  Nile  Red  Solution  (60 μM  acetonitrile 
+solution);  Part C:  Coumarin 30  Solution  (acetonitrile  solution);  and  Part D:  APC  Suspension  (Allophycocyanin 
+fluorescent protein in aqueous buffer solution, 100 µL). 
+ 
+This  reference  scale  for  fluorescence intensity  is  based  upon  Equivalent  Reference  Fluorophore (ERF)  units [1–2].  
+The ERF scale is established for a particular set of experimental conditions by measuring the fluorescence intensity of 
+known concentrations of each ampoule under those experimental conditions (see “Instructions for Handling, Storage, 
+and Use”).  
+ 
+Certified  Co n ce nt ra t io n  Values:   The  certified  f l u o r o p h o r e  concentration and purity values for Parts A, B, and 
+A,B,  and
+C listed in Tables 1A, 2A, and 3A respectively, are provided based  on  gravimetric  preparation  and analysis of purity by 
+proton nuclear magnetic resonance spectroscopy.  A  NIST  certified  value  is  a value  for  which  NIST has  the  highest 
+confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [3]. 
+ 
+Reference  Values:    A  reference  value  for  the  allophycocyanin (APC)  suspension  concentration  for  Part D  is 
+provided in Table 4A.  The reference values for the molar extinction coefficients are provided for each solution corrected 
+for purity and based on gravimetric preparation and analysis of the absorbance of visible light at the peak wavelength.  A 
+NIST reference value is a noncertified value, which represents the best estimate of the true value based on available data; 
+however, the value does not meet the NIST criteria for certification and is provided with associated uncertainties that may 
+reflect only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical 
+agreement among multiple analytical methods [3]. 
+ 
+Information Values:  Information values are given for pH, buffer concentration and mass density for Parts A and D, and 
+for mass density for the solvents used in Parts B and C; corrected fluorescence emission spectrum of Parts A through D 
+at their recommended excitation wavelength; and APC purity for Part D.  A NIST information value is a value that may 
+be of use to the SRM user, but insufficient information is available to assess adequately the uncertainty associated with 
+the value [3].  An information value cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1934 is valid, within the measurement uncertainty specified, until 
+01 July 2021,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage, and Use”).  This certification is nullified if the SRM is damaged, contaminated, or 
+otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register online) will facilitate this notification. 
+ 
+Production  and  certification  of  this  SRM  were  performed  by  P.C. DeRose,  L. Wang,  A.K. Gaigalas,  K.D. Cole, 
+A .   U r b a s ,   B. Coxon,  G.W. Kramer  of  the  NIST  Biosystems  and  Biomaterials  Division;  with  assistance  from 
+B.A. Benner,  D.L. Duewer, B. Lang, M. Nelson, J.R. Sieber, T.W. Vetter,  a n d   L.L. Yu of the NIST Chemical Sciences 
+Division; D.M. Bunk, and E. White V. of the NIST Biomolecular Measurement Division; M.B. Satterfield of the NIST 
+Material Measurement Laboratory; and S.A. Margolis, J.B. Smeller,  Y. Tewari, M.J. Welch formerly of NIST. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  25 April 2016 
+SRM 1934 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+Page 1 of 10 
+
+Anne L. Plant, Chief 
+Biosystems and Biomaterials Division 
+
+ 
+ 
+
+V 
+
+SI, 
+
+Statistical consultation was provided by B. Toman and J. Lu of the NIST Statistical Engineering Division. 
+ 
+Ancillary  measurements  were  provided  by  G.E. Marti,  F. Abbasi,  and  J. Weaver  of  the  U.S. Food  and  Drug 
+Administration, R.F. Vogt of the Centers for Disease Control and Prevention, and Y-z. Zhang of Molecular Probes, Inc. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:   This SRM is comprised of a suspension in a plastic ampoule (Part D) and three solutions (Parts A-C), each 
+contained in a tip-sealed glass ampoule with pre-scored stem.  Therefore, all appropriate safety precautions, including the 
+use of gloves during handling, should be taken to avoid accidental breakage or spillage.   
+ 
+Storage:  Unopened ampoules should be stored in the dark between 2 °C and 6 °C in an upright position.  The ampoules 
+should NOT be frozen because of the possibility of breakage during freezing and thawing.  Once the ampoule is opened, 
+the solution should be used promptly with minimal exposure to any light (exposure to incandescent lighting is preferable 
+to illumination from daylight or fluorescent lighting).  Any unused solution in the ampoule should be discarded according 
+to local regulations. 
+ 
+NOTICE:    NIST  monitored  the  stability  of  SRM 1934.    Prior  to  certification,  SRM 1934  parts  were  monitored  as 
+follows:  Part A for over 24 months, Part B and Part C for five months, and Part D for approximately 9 months.   Within 
+the  error  of  the  measurements,  the  absorbance  spectrum  and  the  fluorescence  spectral  radiance (as  indicated  by  the 
+fluorescence signal spectrum) of the solution did not change.   Therefore, the ampouled solution, if  stored  as indicated 
+above, is likely to maintain its original optical properties for the duration of its certification period. 
+ 
+Opening  an  Ampoule:   When  an  ampoule  is  opened,  that  area  of  the  stem  where  the  pre-scored  band  is  located 
+should be wiped with a clean, damp cloth and the body of the ampoule wrapped in absorbent material.   Then holding the 
+ampoule  steady  and  with  the  thumb  and  forefinger  grasping  the  stem  above  the  scoring, minimal thumb pressure 
+should be applied to the stem to snap it.    Correctly done, the stem should break easily where pre-scored.  The use of a 
+metal file to break the stem is NOT recommended. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+SRM 1934 Part A Fluorescein 
+ 
+Certified  Values:   The  certified  concentration of fluorescein provided in Table 1A is based on gravimetric preparation 
+and analysis of purity by proton nuclear magnetic resonance spectroscopy that was independently verified by analysis of 
+impurities.    The  fluorescein  purity  determination  provided  below  is  based  on  proton  nuclear  magnetic  resonance 
+spectroscopy.    The  measurands  are  the  concentration  and  purity  of  fluorescein.    Metrological  traceability  is  to  the  SI 
+derived unit for amount-of-substance concentration and mass fraction (expressed as micromoles per kilogram and percent, 
+respectively). 
+ 
+
+cal 
+
+oO 
+
+Table 1A. Certified Amount-of-Substance Concentration and Mass Fraction for SRM 1934 Part A 
+
+Mass  Fraction 
+
+Fluorescein (concentration) 
+
+ 
+
+Fluorescein (purity) 
+
+ 
+
+ 
+
+ 
+
+60.97 μmol/kg  ± 
+
+0.4 μmol/kg 
+
+97.55 % 
+
+± 
+
+0.64 % 
+
+ 
+Reference Values:  Table 1B provides reference values for the molar extinction coefficient of SRM 1934 Part A corrected 
+based 
+for purity and fluorescence bias.  The measurand is the molar extinction coefficient at the peak wavelengths listed based 
+on the method indicated.  Metrological traceability is the SI units for mass, length, and amount-of-substance (expressed 
+as kg·cm-1·mol-1). 
+ 
+
+at 
+
+Table 1B. Reference Values for Molar Extinction Coefficient of SRM 1934 Part A at 22.4 °C ± 0.5 °C 
+
+ 
+
+ 
+
+Wavelength 
+(nm) 
+ 
+488.0 
+490.0 
+490.5 
+491.0 
+
+Molar Extinction Coefficient 
+(kg·cm−1· mol−1) 
+8.50  ×  104 
+8.70  ×  104 
+8.71  ×  104 
+8.70  ×  104 
+
+ 
+ 
+
+Uncertainty 
+(kg·cm−1· mol−1) 
+0.07  ×  104 
+0.07  ×  104 
+0.07  ×  104 
+0.07  ×  104 
+
+                                                           
+
+ntal 
+(1)Certain commercial instruments, materials, or processes are identified in this certificate to adequately specify the experimental 
+|  Technology,
+procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards and Technology, 
+nor does it imply that the instruments, materials, or processes identified are necessarily the best available for the purpose. 
+SRM 1934 
+
+Page 2 of 10 
+
+Determination  of  Fluorescein  Purity:   Table 1C  summarizes  the  purity  determinations  of  the  fluorescein  material 
+used to prepare SRM 1934 Part A.  The measurands are the constituents listed in Table 1C as determined by the indicated 
+methods.  Metrological traceability is to the SI derived unit for mass fraction (expressed as a percent). 
+ 
+
+Table 1C.  Reference Values for Fluorescein Purity Determinations and Associated Uncertainties 
+
+on 
+
+° 
+
+Constituent 
+
+Technique 
+
+Mass Fraction 
+(%) 
+
+Uncertainty 
+(%) 
+
+ 
+
+ 
+
+ 
+
+1H NMR(a) & HPLC(c)
+DHBBA(b)
+1H NMR(a)
+Ethanol 
+ 
+Methyl Isobutyl Ketone 1H NMR(a)
+1H NMR(a)
+HOAc/Acetate 
+1H NMR(a)
+Ethyl Acetate 
+ 
+Karl Fisher 
+Water 
+CHO Analysis(d)
+Total Organics 
+FAES(e)
+Potassium 
+ 
+FAES(e)
+Sodium 
+ 
+Argentimetry(f)
+Chloride 
+
+ 
+
+ 
+
+ 
+
+1.04 
+0.21 
+0.02 
+0.02 
+0.02 
+0.25 
+99.19 
+0.50 
+0.03 
+0.37 
+
+0.20 
+0.04 
+0.02 
+0.01 
+0.01 
+0.02 
+0.82 
+0.14 
+0.03 
+0.03 
+
+ 
+(a) 500 MHz Proton Nuclear Magnetic Resonance Spectroscopy 
+(b) 2-(2’,4’Dihydroxybenzoyl) benzoic acid 
+(c) High p erformance Liquid Chromatography and High Performance Liquid Chromatography-Mass Spectrometry, both normal  and 
+
+reversed phase 
+
+(d) Elemental  analyses  carried  out  by  Schwartzkopf  Microanalytical  Laboratory, Inc.  (Woodside, NY),  Atlantic  Microlab, Inc. 
+
+(Norcross, GA), and Galbraith Laboratories, Inc. (Knoxville, TN) 
+
+ride  by  X 
+
+(e) Flame Atomic Emission Spectroscopy 
+(f) Halide content identified solely as chloride by X-ray Fluorescence and Inductively Coupled Plasma-Mass Spectrometry 
+ 
+Information  Values:   Table 1D  provides  information  values for  SRM 1934 Part A.  The buffer concentration is the 
+concentration  of  boric  acid  in  the  buffer  solution  into  which  the  fluorescein  was  dissolved.    Figure 1  provides  the 
+fluorescence  emission  spectrum  of  fluorescein.    Additional  information  values  for  relative  signal  in  power  units  and 
+emission wavelength in nanometers is located on the Material Details web page under the Data Files icon for SRM 1934 
+(https://www-s.nist.gov/srmors/view_detail.cfm?srm=1934). 
+ 
+
+® 
+
+- 
+
+Table 1D.  Information Values for SRM 1934 Part A at 22 °C 
+
+pH 
+ 
+
+9.48 
+
+Buffer 
+Concentration 
+
+0.10 mol/L 
+
+Mass Density 
+ 
+
+1.003 g/mL 
+
+ 
+
+ 
+
+ 
+
+ 
+=
+
+ 
+o
+O
+
+ 
+9
+
+ 
+o
+a
+
+ 
+9
+
+ 
+o
+
+ 
+9
+
+ 
+S
+a
+
+ 
+o
+
+ 
+o
+i
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+ 
+e
+v
+i
+t
+a
+l
+e
+R
+
+ 
+o
+
+ 
+a
+
+500 
+
+550 
+
+600 
+
+650 
+
+700 
+
+Emission  Wavelength  (nm)
+
+ 
+
+ 
+Figure 1.  The fluorescence emission spectrum of  fluorescein is a corrected fluorescence emission spectrum for SRM 1934 Part A, 
+diluted 100 fold using borate buffer, at an excitation wavelength of 488 nm.  A 488 nm  Ar ion laser was used for excitation.  The 
+spectral bandpass of the detection system was set at 2 nm. 
+
+ 
+
+SRM 1934 
+
+Page 3 of 10 
+
+Source of Material:  The fluorescein [2-(6-hydroxy-3-oxo-3H-xanthen-9-yl)benzoic acid, C20H12O5, relative molecular 
+mass 332.311, CAS No. 2321-07-5] powder used in SRM 1934 was prepared especially for this purpose by  Molecular 
+Probes, Inc.  (Eugene, OR;  Leiden, The  Netherlands),  71358,  MPR,  Lot W018073.   Boric  acid granules  were obtained 
+from  Mallinckrodt  (St.  Louis, MO),  Lot 2549 KVTK,  relative  molecular  mass 61.83.  Sodium  hydroxide pellets were 
+from  Mallinckrodt,  Catalog No. 7708, Lot 7708M484721, relative  molecular mass 40.00.   All  water  used  was  NIST 
+deionized  water  that  was  then  subsequently  passed  through  a  second purification system (Millipore Mill-Q A10) to 
+produce water having a resistivity ≥18 MΩ·cm. 
+ 
+Preparation of Part A:  The borate buffer solution was prepared by dissolving 18.56 g of boric acid granules in slightly 
+less than 3 L of water.  The pH was adjusted to above 9.1 using 40 mL of an approximately 3.0 mol/L NaOH solution 
+made by dissolving 29.87 g of sodium hydroxide pellets in 0.250 L of water.  The mixture volume was increased to 3.00 L 
+with water to give a borate buffer with a boric acid concentration of about 0.10 mol/L. 
+ 
+The  SRM  solution  was  prepared  in  a  darkened  room  by  dissolving  0.05636 g ± 0.00004 g  of  fluorescein  (buoyancy 
+corrected) in 2.7134 kg ± 0.0006 kg of borate buffer solution (buoyancy corrected).   The mass of fluorescein used was 
+corrected for the fluorescein purity yielding a final fluorescein concentration of 60.97 μmol/ kg ± 0.40 μmol/kg.  The 
+fluorescein solution contained in an amber  bottle was immediately aliquotted into ampoules that were  subsequently 
+flame-sealed.  The  pH  and  mass  density  of  the  SRM  were determined from measurements on four ampoules selected 
+randomly from the lot. 
+ 
+Preparation of Part A for Analysis:  The SRM 1934 Part A solution should always be diluted gravimetrically at least 
+one-hundred  fold  with  the  same  buffer system used for the analyte of interest.   Subsequent gravimetric dilutions can 
+then be employed to generate a calibration curve.  The calibration curve describes the relationship between fluorescence 
+intensity, as determined by the fluorometer and the concentration of fluorescein, as determined by the gravimetric dilution.  
+Care must be taken in  making  the  gravimetric  dilutions  because  uncertainties  expand  during  this  serial  process.   An 
+error  at  one  level adversely affects determinations at all subsequent levels.  The calibration curve measurements should 
+be generated starting with the lowest concentration.   For best results, the conditions used for determining the calibration 
+curve such as solution degassing, temperature, ionic strength, pH, etc., should closely match those used in the measurement 
+of the analyte.   Because fluorescence is a highly sensitive technique, great attention must be paid to the cleanliness of 
+glassware and any other apparatus that contacts the solutions.   Many plastics and gloves can contaminate samples with 
+small amounts of highly fluorescent materials such as release agents and plasticizers.  The running of blanks to check for 
+such contamination is highly recommended. 
+ 
+Depending on the solution pH, aqueous fluorescein solutions are complex, rapidly equilibrating mixtures of its several 
+forms (cation, neutral species, monoanion, and dianion).   Each species has unique absorbance and fluorescence spectra.  
+Above pH 9, aqueous fluorescein exists almost exclusively as the highly fluorescent dianion.  However, as the pH of the 
+solution  is  reduced,  the  concentration  of  the  dianion  decreases,  and  the  concentrations  of  the  much  less  fluorescent 
+monoanion and neutral forms increase [4].  Accordingly, the sensitivity of the fluorometric assay  for  fluorescein  also 
+decreases,  and  quantitation  becomes  very  dependent  on  knowing  or  maintaining  the precise  pH  of  the  solutions 
+during  calibration  as  well as  during  the  assay  itself.   While  the  calibration  strategy described above can work with 
+solutions below pH 9, the uncertainties of such measurements inevitably grow larger as the solution pH is lowered. 
+ 
+Assignment  of  Uncertainties:  Standard  uncertainty  components  equivalent  to  the  estimated  standard  deviation were 
+assigned  for  sample  inhomogeneity  and  measurement  uncertainties.    These  values  were  then  combined  with  balance 
+accuracy and estimated instrument method uncertainties using the root-sum-of-squares method.  An expansion factor of 
+k = 2 was applied so that the expanded uncertainties given in this certificate express an interval within  which  the  true 
+value  is  expected  to  fall  with  a  level  of  confidence  of  approximately  95 %  for  a  normal distribution [5]. 
+ 
+
+ 
+
+SRM 1934 
+
+Page 4 of 10 
+
+Part B: Nile Red Solution 
+ 
+Certified  Value:  The certified concentration of Nile Red provided in Table 2A is based on gravimetric preparation and 
+analysis of purity by proton nuclear magnetic resonance spectroscopy that was quantified using an internal standard.  The 
+measurands  are  the  concentration  and  purity  of  Nile  Red.    Metrological  traceability  is  to  the  SI  derived  unit  for 
+amount-of-substance concentration and mass fraction (expressed as micromoles per kilogram and percent, respectively). 
+ 
+
+Table 2A. Certified Amount-of-Substance Concentration and Mass Fraction for SRM 1934 Part B 
+
+Nile Red (concentration) 
+ 
+Nile Red (purity) 
+
+ 
+ 
+ 
+
+118.7 μmol/kg 
+
+2.3 μmol/kg 
+
+97.74 % 
+
+1.02 % 
+
+± 
+
+± 
+
+ 
+Reference Values:    Table 2B  provides  reference  values  for  the  molar  extinction  coefficient  of  the  SRM 1934  Part B 
+corrected for purity.  Fluorescence bias was found to be statistically insignificant.  The measurand is the molar extinction 
+aceability  is  the  SI  units  for 
+coefficient at the peak wavelengths listed based on the method indicated.  Metrological traceability is the SI units for 
+mass, length, and amount-of-substance (expressed as kg·cm-1·mol-1). 
+ 
+
+Table 2B. Reference Values for Molar Extinction Coefficient of SRM 1934 Part B at 22.0 °C ± 0.5 °C 
+
+Wavelength 
+(nm) 
+ 
+488.0 
+532.0 
+
+Molar Extinction Coefficient 
+(kg·cm−1· mol−1) 
+1.83  ×  104 
+3.47  ×  104 
+
+ 
+ 
+
+Uncertainty 
+(kg·cm−1·mol−1) 
+
+0.04  ×  104 
+0.08  ×  104 
+
+ 
+Determination of Nile Red Purity:   Table 2C summarizes the purity determinations of the Nile Red  material used to 
+prepare SRM 1934 Part B.  The measurands are the constituents listed in Table 2C as determined by the indicated methods.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed as a percent). 
+ 
+
+Table 2C.  Reference Values for Nile Red Purity Determinations and Associated Uncertainties 
+
+iSS 
+
+Constituent 
+
+Technique 
+
+Mass Fraction 
+(%) 
+
+Uncertainty 
+(%) 
+
+Dichloromethane 
+Similar MW to NR(c) 
+Water 
+
+1H NMR(a) & HPLC(b)
+1H NMR(a)
+ 
+TGA(d)
+
+ 
+
+ 
+
+0.62 
+
+<0.3 
+<0.09 
+
+0.20 
+0.15 
+0.04 
+
+ 
+(a)  600 MHz Proton Nuclear Magnetic Resonance Spectroscopy 
+(b)  High Performance Liquid Chromatography, reversed phase 
+(c)  Constituents with a molecular weight similar to Nile Red 
+(d)  Thermogravimetric analysis 
+
+ 
+Information Value:   Table 2D provides an information value for the mass density of acetonitrile (ACN) in SRM 1934 
+Part B.  Figure 2 provides the fluorescence emission spectrum of Nile Red.  Additional information values for relative 
+signal in power units and emission wavelength in nanometers is located on the Material Details web page under the Data 
+Files icon for SRM 1934 (https://www-s.nist.gov/srmors/view_detail.cfm?srm=1934). 
+ 
+
+Table 2D.  Mass Density Information Value for SRM 1934 Part B at 22 °C [6] 
+
+isity  I
+
+ACN  
+
+ 
+
+0.7799 g/mL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+SRM 1934 
+
+Page 5 of 10 
+
+ 
+=
+
+ 
+o
+O
+
+ 
+o
+O
+
+ 
+o
+c
+
+ 
+o
+
+ 
+a
+
+ 
+S
+o
+
+ 
+f
+f
+
+ 
+=
+
+ 
+a
+h
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+ 
+e
+v
+i
+t
+a
+l
+e
+R
+
+ 
+=
+
+ 
+O
+o
+
+540 
+
+590 
+
+640 
+
+690 
+
+740 
+
+790
+
+Emission  Wavelength  (nm) 
+
+ 
+
+ 
+Figure 2.  Corrected fluorescence emission spectrum for SRM 1934 Part B, diluted 100 fold using ACN, at an excitation wavelength 
+of 488 nm.  A 488 nm diode laser was used for excitation.  The spectral bandpass of the detection system was set at 2.5 nm. 
+ 
+Source of Material:  The Nile Red (NR) (9-diethylamino-5-benzo[α]phenoxazinone, C20H18N2O2, relative molecular 
+mass 318.369, CAS No. 7385-67-3) was produced by Molecular Probes® (Life Technologies/Thermo Fisher Scientific) 
+as Cat. # N1142, Lot # 1189983, and determined by the manufacturer to be 99 % pure using HPLC with UV absorption 
+detection  at  254 nm.    Dye  solutions  were  dissolved  in  acetonitrile (ACN)  and  concentrations  were  determined 
+gravimetrically.  The ACN used was Mallinckrodt UltimAR®, (HPLC/Spectrphotometric grade) Lot # H454 T37465. The 
+balance  used  was  a  Mettler AT20,  which  was  internally  calibrated.  All  gravimetric  measurements  were  taken  at 
+temperature T = 21.0 °C, 25 % relative humidity (rh) and 995 mbar atmospheric pressure. 
+ 
+Preparation  of  Part  B:    The  SRM  solution  was  prepared  by  dissolving  0.030039 g ± 0.000005 g  of  Nile  Red  in 
+776.7 g ± 0.2 g of ACN.  The certified Nile Red concentration was corrected for the mass of air displaced by the dye and 
+ACN during weighing and the purity of the Nile Red, yielding a value of 118.7 μmol/kg ± 2.3 μmol/kg.  The  Nile Red 
+solution contained in an amber  bottle was aliquotted into ampoules that were  subsequently  flame-sealed.  
+ 
+Preparation of Part B for Analysis:  The SRM 1934 Part B  solution  should  always be diluted  gravimetrically  at least 
+one-hundred  fold  with  ACN.   Subsequent gravimetric dilutions can then be employed to generate a calibration curve.  
+The calibration curve describes the relationship between fluorescence intensity, as determined by the fluorometer and the 
+concentration of Nile Red, as determined by the gravimetric dilution.   Care must be taken in  making  the  gravimetric 
+dilutions because uncertainties expand during this serial process.   An error at one level adversely affects determinations 
+at all subsequent levels.  The calibration curve measurements should be generated starting with the lowest concentration.  
+For  best  results,  the  conditions  used  for  determining  the  calibration  curve  should  closely  match  those  used  in  the 
+measurement of the analyte.   Because fluorescence is a highly sensitive technique, great attention must be paid to the 
+cleanliness of glassware and any other apparatus that contacts the solutions.   Many plastics and gloves can contaminate 
+samples with small amounts of highly fluorescent materials such as release agents and plasticizers.  The running of blanks 
+to check for such contamination is highly recommended. 
+ 
+Assignment  of  Uncertainties:  A standard  uncertainty  component  equivalent  to  the  estimated  standard  deviation was 
+assigned for sample inhomogeneity.  This value was then combined with gravimetric and purity uncertainties using the 
+root-sum-of-squares method.  An expansion factor of k = 2 was applied so that the expanded uncertainties given in this 
+certificate  express  an  interval  within  which  the  true  value  is  expected  to  fall  with  a  level  of  confidence  of 
+approximately  95 %  for  a  normal distribution [5].  The upper limit of the bias due to evaporation of solvent during 
+ampouling was also estimated and added to the expanded uncertainty. 
+ 
+ 
+
+SRM 1934 
+
+Page 6 of 10 
+
+Part C: Coumarin 30 Solution 
+ 
+Certified  Value:    The  certified  concentration  of  Coumarin 30 (C30)  provided  in  Table 3A  is  based  on  gravimetric 
+preparation and analysis of purity by proton nuclear magnetic resonance spectroscopy that was quantified using an internal 
+standard.  The C30 purity determinations provided below is based on proton nuclear magnetic resonance spectroscopy.  The 
+measurands  are  the  concentration  and  purity  of  C30.    Metrological  traceability  is  to  the  SI  derived  unit  for 
+amount-of-substance concentration and mass fraction (expressed as micromoles per kilogram and percent, respectively). 
+ 
+
+Table 3A. Certified Amount-of-Substance Concentration and Mass Fraction for SRM 1934 Part C 
+
+Coumarin 30 (concentration) 
+
+ 
+Coumarin 30 (purity) 
+
+ 
+ 
+ 
+
+130.5 μmol/kg 
+
+1.7 μmol/kg 
+
+97.35 % 
+
+0.46 % 
+
+± 
+
+± 
+
+ 
+Reference Values:    Table 3B  provides  reference  values  for  the  molar  extinction  coefficient  of  the  SRM 1934  Part C 
+corrected for purity.  Fluorescence bias was found to be statistically insignificant.  The measurand is the molar extinction 
+coefficient at the peak wavelength listed based on the method indicated.  Metrological traceability is the SI units for mass, 
+length, and amount-of-substance (expressed as kg·cm-1·mol-1). 
+ 
+
+Table 3B. Reference Values for Molar Extinction Coefficient of SRM 1934 Part C at 22.0 °C ± 0.5 °C 
+
+Wavelength 
+(nm) 
+ 
+405.0 
+
+Molar Extinction Coefficient 
+(kg·cm−1·mol−1) 
+
+ 
+ 
+
+Uncertainty 
+(kg·cm−1·mol−1) 
+
+3.28  ×  104 
+
+0.05  ×  104 
+
+ 
+Determination  of  Coumarin 30 Purity:   Table 3C  summarizes  the  purity  determinations  of  the C30 material used to 
+prepare SRM 1934 Part C.  The measurands are the constituents listed in Table 3C as determined by the indicated methods.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed as a percent). 
+ 
+
+Table 3C.  Reference Values for C30 Purity Determinations and Associated Uncertainties 
+
+Constituent 
+
+Technique 
+
+Diethyl ether 
+Similar MW to C30(b) 
+Water 
+
+1H NMR(a)
+1H NMR(a)
+TGA(c)
+
+ 
+
+ 
+
+ 
+
+ 
+ypectroscopy 
+(a)  600 MHz Proton Nuclear Magnetic Resonance Spectroscopy 
+C30
+(b)  Constituents with a molecular weight similar to C30 
+(c)  Thermogravimetric analysis 
+
+Mass Fraction 
+(%) 
+
+Uncertainty 
+(%) 
+
+0.16 
+
+<0.3 
+<0.04 
+
+0.05 
+0.15 
+0.02 
+
+ 
+Information Values:  Table 3D provides information values for SRM 1934 Part C.  Figure 3 provides the fluorescence 
+emission spectrum of C30.  Additional information values for relative signal in power units and emission wavelength in 
+for  SRM 1934  
+nanometers 
+(https://www-s.nist.gov/srmors/view_detail.cfm?srm=1934). 
+ 
+
+the  Material  Details  web  page  under 
+
+the  Data  Files 
+
+located  on 
+
+icon 
+
+is 
+
+Table 3D.  Information Values for SRM 1934 Part C 
+
+solvent 
+ 
+
+ACN 
+
+IPA 
+
+ 
+
+Mass Density 
+ 
+(g/mL) 
+
+0.7799 
+
+0.7837 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 1934 
+
+Page 7 of 10 
+
+y
+t
+i
+s
+n
+e
+t
+n
+
+I
+ 
+
+e
+v
+
+l
+
+i
+t
+a
+e
+R
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+420
+
+470
+
+520
+
+570
+
+620
+
+Emission Wavelength (nm)
+
+ 
+
+IPA
+
+Figure 3.  Corrected fluorescence emission spectrum for SRM 1934 Part C, diluted 100 fold using IPA, at an excitation wavelength of 
+405 nm.  A 405 nm diode laser was used for excitation.  The spectral bandpass of the detection system was set at 2.5 nm. 
+ 
+Source  of  Material:    The  C30  [3-(2-N-methylbenzimidazolyl)-7-N,N-diethylaminocoumarin,  C21H21N3O2,  relative 
+molecular mass 347.410, CAS No. 41044-12-6], also known as Coumarin 515, was produced by Aldrich (Sigma-Aldrich) 
+as Cat. # 546127, Lot # BCBH1078V, and determined by  the  manufacturer to be 99 % pure  with  unspecified analysis 
+techniques.   Dye solutions  were dissolved in acetonitrile (ACN) and concentrations  were determined gravimetrically.  
+The ACN used was Mallinckrodt UltimAR®, (HPLC/Spectrphotometric grade) Lot # H454 T37465.  The balance used 
+was  a  Mettler  AT20,  which  was  internally  calibrated.    All  gravimetric  measurements  were  taken  at  temperature 
+T = 21.0 °C, 25 % relative humidity (rh), and 995 mbar atmospheric pressure. 
+ 
+Preparation  of  Part C:    The  SRM  solution  was  prepared  by  dissolving  0.036239 g ± 0.000006 g  of  C30  in 
+778.0 g ± 0.2 g of ACN.  The certified C30 concentration was corrected for the mass of air displaced by the dye and ACN 
+during  weighing  and  the  purity  of  the  C30,  yielding  a  value  of  130.5 μmol/kg ± 1.7 μmol/kg.  The  C30  solution, 
+contained in an amber  bottle, was aliquotted into ampoules that were  subsequently  flame-sealed.  
+ 
+Preparation of Part C for Analysis:  The SRM 1934 Part C solution should always be diluted gravimetrically at least 
+one-hundred  fold  with  isopropanol.   Subsequent gravimetric dilutions can then be employed to generate a calibration 
+curve.  The calibration curve describes the relationship between fluorescence intensity, as determined by the fluorometer 
+and the concentration of C30, as determined by the gravimetric dilution.  Care must be taken in  making  the gravimetric 
+dilutions because uncertainties expand during this serial process.    An error at one level adversely affects determinations 
+at all subsequent levels.  The calibration curve measurements should be generated starting with the lowest concentration.  
+For  best  results,  the  conditions  used  for  determining  the  calibration  curve  should  closely  match  those  used  in  the 
+measurement of the analyte.   Because fluorescence is a highly sensitive technique, great attention must be paid to the 
+cleanliness of glassware and any other apparatus that contacts the solutions.   Many plastics and gloves can contaminate 
+samples with small amounts of highly fluorescent materials such as release agents and plasticizers.  The running of blanks 
+to check for such contamination is highly recommended. 
+ 
+Assignment  of  Uncertainties:  A standard  uncertainty  component  equivalent  to  the  estimated  standard  deviation was 
+assigned for sample inhomogeneity.  This value was then combined with gravimetric and purity uncertainties using the 
+root-sum-of-squares method.  An expansion factor of k = 2 was applied so that the expanded uncertainties given in this 
+certificate  express  an  interval  within  which  the  true  value  is  expected  to  fall  with  a  level  of  confidence  of 
+approximately  95 %  for  a  normal distribution [5].  The upper limit of the bias due to evaporation of solvent during 
+ampouling was also estimated and added to the expanded uncertainty. 
+ 
+ 
+
+SRM 1934 
+
+Page 8 of 10 
+
+Part D: Allophycocyanin Suspension 
+ 
+Reference Values:  The purity of the allophycocyanin (APC) was estimated using sodium dodecyl sulfate polyacrylamide 
+gel  electrophoresis (SDS-PAGE)  and  size  exclusion  chromatography (SEC)  for  material  qualification.    The  protein 
+concentration was determined using amino acid analysis [7,8].  The measurand is the concentration of APC provided in 
+Table 4A based on the indicated method.  An information APC purity value is provided in Table 4C. 
+ 
+
+Table 4A. Reference Amount-of-Substance Concentration for SRM 1934 Part D 
+ 
+
+APC (concentration) 
+
+ 
+
+30.0 μmol/L 
+
+± 
+
+2.5 μmol/L 
+
+ 
+Table 4B provides reference values for the molar extinction coefficient of the SRM 1934 Part D corrected for purity and 
+fluorescence bias was found be statistically insignificant.  The molar extinction coefficient at the wavelength of 652 nm 
+in PBS, pH 7.4 with 0.02 % (w/w) Tween 20 was calculated using the absorbance value divided by the concentration and 
+the  path  length,  and  is  reported  for  reference  value.    The  measurand  is  the  molar  extinction  coefficient  at  the  peak 
+wavelengths listed based on the method indicated. 
+ 
+
+Table 4B. Reference Values for Molar Extinction Coefficient of SRM 1934 Part D at 22.4 °C ± 0.5 °C 
+
+Wavelength 
+(nm) 
+ 
+652.0 
+
+Molar Extinction Coefficient 
+(L·cm−1· mol−1) 
+8.81  ×  105 
+
+ 
+ 
+
+Uncertainty 
+(L·cm−1·mol−1) 
+
+0.74  ×  105 
+
+ 
+Information Values:  Table 4C provides information values for SRM 1934 Part D.  Figure 4 provides the fluorescence 
+emission spectrum of APC.  Additional information values for relative signal in power units and emission wavelength in 
+nanometers 
+for  SRM 1934  
+(https://www-s.nist.gov/srmors/view_detail.cfm?srm=1934). 
+ 
+
+the  Material  Details  web  page  under 
+
+the  Data  Files 
+
+located  on 
+
+icon 
+
+is 
+
+Table 4C.  Information Values for SRM 1934 Part D at 22 °C 
+
+ 
+
+ 
+
+Mass Fraction 
+>95 % (purity) 
+
+ 
+
+ 
+
+Mass Fraction(a) 
+<5 % (impurity) 
+ 
+ 
+
+Buffer Concentration 
+ 
+0.05 mol/L potassium phosphate 
+60 % saturated ammonium sulfate 
+
+Mass Density 
+ 
+1.1684 g/mL 
+
+ 
+
+(a) Value provided based on impurity bands of the total intensity. 
+ 
+
+ 
+APC  
+ 
+ 
+
+pH 
+ 
+7.0 
+ 
+
+y
+t
+i
+s
+n
+e
+t
+n
+
+I
+ 
+e
+v
+i
+t
+a
+l
+e
+R
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+640
+
+690
+
+740
+
+790
+
+Emission Wavelength (nm)
+
+ 
+
+ 
+Figure 4.  Corrected fluorescence emission spectrum for SRM 1934 Part D, diluted 100 fold using phosphate buffer, at an excitation 
+wavelength of 633 nm.  A 633 nm HeNe laser was used for excitation.  The spectral bandpass of the detection system was set at 2 nm. 
+ 
+
+633
+
+SRM 1934 
+
+Page 9 of 10 
+
+Source of Material:  The APC suspension was supplied by Life Technologies (Catalog #: A803, Lot #: 1575860, Product 
+1575860,  Product 
+information:  ~4 mg/mL,  M.W.  ~104,000,  medium,  60 %  saturated  ammonium  sulfate,  50 mM  potassium  phosphate, 
+pH 7.0). 
+ 
+Preparation of  Part D:  Twenty-eight vials of APC suspension were pooled after vortex to a single 50 mL centrifuge 
+tube.  A small stir bar was added to the tube and the tube was placed on a stir plate with gentle stirring to ensure the 
+suspension  was  mono-dispensed.    A  calibrated  pipettor  was  used  to  allocate  a  105 µL  suspension  into  a  0.5 mL 
+polypropylene Sarstedt tubes (#72.730.105).  After tightening a cap on the tube and placing the SRM Part D label on the 
+side of tube and a fill order indicator label on the top of the tube.  The tubes were stored in 4 °C refrigerator. 
+ 
+Preparation of Part D for Analysis:  The SRM 1934 Part D is a suspension that should be resuspended using vigorous 
+vortexing immediately before sampling, and it should always be diluted gravimetrically at least one-hundred fold with 
+PBS, pH 7.4 with 0.02 % Tween 20.  Subsequent gravimetric dilutions can then be employed to generate a calibration 
+curve.  The calibration curve describes the relationship between fluorescence intensity, as determined by the fluorometer 
+and the concentration of APC, as determined by the gravimetric dilution.  Care must be taken in making the gravimetric 
+dilutions because uncertainties expand during this serial process.  An error at one level adversely affects determinations 
+at all subsequent levels.  The calibration curve measurements should be generated starting with the lowest concentration.  
+For  best  results,  the  conditions  used  for  determining  the  calibration  curve  should  closely  match  those  used  in  the 
+measurement of the analyte.  Because fluorescence is a highly sensitive technique, great attention must be paid to the 
+cleanliness of glassware and any other apparatus that contacts the solutions.  Many plastics and gloves can contaminate 
+samples with small amounts of highly fluorescent materials such as release agents and plasticizers.  The running of buffer 
+blanks to check for such contamination is highly recommended. 
+ 
+Assignment  of  Uncertainties:  The uncertainty includes all Type A evaluated elements, that is, between amino acid, 
+within as well as between vial variability, calibration and pipetting [9,10].  A 3 % additional Type B uncertainty was also 
+included  based  on  further  expert  evaluation  for  the  APC  concentration  determination.    The  standard  and  expanded 
+uncertainty  for  the  determination  of  the  extinction  coefficient  includes  all  Type A  sources  from  APC  concentration 
+analysis and those from the absorbance coefficient analysis as well as 3 % Type B uncertainty in the APC concentration.  
+ 
+
+REFERENCES 
+
+ 
+[1]  Wang, L.;  Gaigalas, A.K.;  Development  of  Multicolor  Flow  Cytometry  Calibration  Standards:  Assignment  of 
+Equivalent  Reference  Fluorophores (ERF)  Unit;  J.  Res.  Natl.  Inst.  Stand.  Technol.,  Vol. 116 (3),  pp. 671–683 
+(2011). 
+
+[2]  Wang, L.;  Gaigalas, A.K.;  Marti, G.;  Abbasi, F.;  Hoffman, R.A.;  Towards  Quantitative  Fluorescence 
+
+Measurements with Multicolor Flow Cytometers; Cytometry Part A, Vol. 73A, pp. 279–288 (2008). 
+
+[3]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at  NIST for Value-Assignment of Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government  Printing  Office:  
+Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed Mar 2016). 
+
+[5] 
+
+[4]  Diehl, H.; Studies on Fluorescein–VIII; Talanta, Vol. 36(7), pp. 799–802 (1989); see also Sjöback, R.; Nygren, J.; 
+Kubista, M.;  Absorption  and  Fluorescence  Properties  of  Fluorescein;  Spectrochem.  Acta,  Part A,  Vol. 51,  
+pp. L7–L21 (1995). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data - Guide  to  the  Expression  of  Uncertainty  in  Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Mar 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:    Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Mar 2016). 
+
+[6]  NIST/TRC  Web  Thermo  Tables,  for  mass  density  with  corresponding  uncertainties; 
+
+  available  at  
+
+http://wtt-pro.nist.gov (accessed Mar 2016). 
+
+[7]  Anders, J.C.; Advances in Amino Acid Analysis; BioPharm, pp. 32–67 (2002). 
+[8]  MacColl, R.; Allophyocyanin and Energy Transfer; Biochimica et Biophysica Acta, Vol. 1657, pp. 73–81 (2004). 
+[9]  Lunn, D.J.; Spiegelhalter, D; Thomas, A.; Best, N.; The BUGS Project: Evolution, Critique and Future Directions; 
+
+Vol. 
+
+Statistics in Medicine, Vol. 28, pp. 3049–3067 (2009). 
+
+[10]  Toman, B.;  Possolo, A.;  Laboratory  Effects  Models  for  Interlaboratory  Comparison;  Accredit.  Qual.  Assur., 
+
+Vol. 14, pp. 553–563 (2009). 
+
+ 
+ 
+ 
+current.  This  can  be  accomplished  by
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by 
+contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the Internet 
+at http://www.nist.gov/srm. 
+
+SRM 1934 
+
+Page 10 of 10 
+
+

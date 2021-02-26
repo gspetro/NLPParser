@@ -1,0 +1,799 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2586 
+ 
+Trace Elements in Soil Containing Lead from Paint 
+(Nominal Mass Fraction 500 mg/kg Lead) 
+
+3  Fraction 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+lead,  trace  elements,  and  perfluorooctane  sulfonate (PFOS)  in  soil.    SRM 2586  is  a  blended  mixture  of  soil  
+samples collected from urban areas where the principal source of lead is believed to be from old house lead-based 
+paint.    All  values  are  reported  as  mass  fractions [1],  on  a  dry-mass  basis  and  are  based  on  measurements  using  a  
+sample mass of at least 200 mg.  A unit of SRM 2586 consists of approximately 55 g of material with a particle size 
+of <75 μm (200 mesh). 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values for four environmentally important elements are 
+provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or accounted for by NIST [2].  The measurands are 
+the certified mass fractions of the elements in Table 1 and are metrologically traceable to the SI unit of mass fraction 
+expressed as milligrams per kilogram. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for additional elements are provided in Table 2. 
+The reference mass fraction value for PFOS is provided in Table 3.  Reference values are noncertified values that are 
+the best estimate of the true value; however, the values do not meet NIST criteria for certification [2] and are provided 
+with associated uncertainties that may reflect only measurement reproducibility and may not include all sources of 
+uncertainty  or  may  reflect  a  lack  of  sufficient  statistical  agreement  determined  by  the  methods  indicated.    The 
+measurands  are  the  mass  fractions  listed  in  Tables 2  and  3,  as  determined  by  the  methods  indicated,  and  are 
+metrologically traceable to the SI unit of mass fraction expressed as milligrams per kilogram. 
+ 
+Information Mass Fraction Values:  Information mass fraction values are listed in Table 4 for additional elements. 
+An information value may be of interest and use to the SRM user; however, insufficient information is available to 
+adequately assess the uncertainty associated with these values [2].  Information values cannot be used to establish 
+metrological traceability. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2586  is  valid,  within  the  uncertainty  specified,  until 
+30 September 2023,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+damaged, 
+certificate (see “Instructions for Storage, Handling, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  were 
+performed by R.L. Watters, Jr. of the NIST Office of Reference Materials and G.C. Turk and C.E. Bryan of the NIST 
+Chemical Sciences Division. 
+ 
+Partial  financial  support  for  the  development  of  this  SRM  was  provided  by  the  U.S.  Environmental  Protection 
+Research
+Agency (EPA)  under  the  direction  of  project  manager  B. Schumacher  of  the  EPA  National  Exposure  Research 
+Laboratory (Las Vegas, NV). 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  16 August 2019 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+is 
+
+ 
+
+Page 1 of 5 
+
+  
+
+SRM 2586 
+
+Statistical consultation was provided by L.M. Gill and J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+ 
+Storage:  SRM 2586 is packaged as a dry material in glass bottles.  The SRM must be stored in its original bottle at 
+temperatures less than 30 °C away from fumes and direct sunlight. 
+ 
+Use:  To relate analytical determinations to the certified values on this Certificate of Analysis, a minimum sample 
+mass of 200 mg should be used and the sample should be dried according to the “Instructions for Drying”.  Sample 
+preparation procedures should also be designed to effect complete dissolution in order to relate the determined value 
+to the certified value.   
+ 
+Instructions  for  Drying:    Samples  should  be  oven  dried  for  2 h  at  105 °C.    For  the  determination  of  volatile 
+elements (arsenic and mercury), samples should be analyzed as received; separate samples should be dried according 
+to these instructions to obtain a correction factor for moisture.  Moisture corrections are then made to the measurement 
+results before comparing them to the certified values.  This alternative drying method may also be used for nonvolatile 
+elements. 
+ 
+COLLECTION, PREPARATION, AND ANALYSIS(1) 
+ 
+Collection:    Soil  material  used  in  the  preparation  of  SRM 2586  was  derived  from  approximately  20 000  samples 
+collected in the Baltimore, MD, area as part of an EPA study conducted in 1990.  Selection and classification of the 
+soil samples used for this SRM were coordinated through R. Fahy of the Maryland Department of Public Health. 
+ 
+Preparation: 
+the  U.S.  Geological  Survey (USGS) 
+laboratory (Denver, CO),  under  the direction of S.A. Wilson.   The  20 000 soil samples  were  initially  combined  in 
+10 separate 40 L containers, the contents of which were blended and chemically analyzed.  This information was then 
+used to combine and blend the sub-sets into a single set with a target lead concentration of 500 mg/kg.  The blended 
+mixture was ground to <75 μm (200 mesh) using a Hardinger ball mill equipped with an air separator system and 
+mixed for 20 h using a cross-flow V-blender.  The material was then split into 8 kg aliquots and sterilized using 
+60Co irradiation.  After sterilization the material was re-combined, blended for 3 h, and bottled. 
+ 
+Analysis:  Certification analyses were performed in the NIST Chemical Sciences Division, at USGS, and during an 
+interlaboratory comparison.  The analytical methods used and the analysts are listed in Table 5.  All values are reported 
+as mass fractions [2], on a dry-mass basis (see “Instructions for Drying”), and are based on measurements using a 
+sample mass of at least 200 mg. 
+
+  The  preparation  of  SRM 2586  was  performed  at 
+
+  
+Certified Mass Fraction Values and Uncertainties:  Certified values and uncertainties for elements in SRM 2586 
+are provided in Table 1.  The certified values are based on results from two or more NIST independent analytical 
+methods and additional results from methods used at USGS (Table 5).   
+ 
+
+Table 1.  Certified Mass Fractions (Dry-Mass Basis) for Elements in SRM 2586 
+
+ 
+
+ 
+
+Element 
+
+Arsenic (As) 
+Cadmium (Cd) 
+Chromium (Cr) 
+Lead (Pb) 
+
+Mass Fraction 
+mg/kg 
+
+8.7  ±  1.5 
+2.71  ±  0.54 
+
+301 
+432 
+
+±  45 
+±  17 
+
+ 
+The certified values are equally weighted means from the combination of results provided by NIST and USGS.  The 
+uncertainty is calculated as, U = kuc + B.  The quantity uc is the combined standard uncertainty calculated according 
+to  the  ISO/JCGM  and  NIST  Guides [3]  and  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the 
+combined effect of within-method variation and material inhomogeneity.  The coverage factor, k, is determined from 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instrumentation,  or  materials  are  identified  to  adequately  specify  the  experimental 
+procedure.  Such  identification  does  not  imply  a  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology, nor does it imply that the materials or equipment are the best available for the purpose. 
+SRM 2586 
+
+Page 2 of 5 
+
+the Student-t distribution corresponding to the calculated effective degrees of freedom and 95 % level of confidence 
+for  each  element.    B  is  a  bias  adjustment  for  the  difference  between  methods,  which  is  the  maximum  difference 
+between the certified value and method means [4]. 
+ 
+Reference Mass Fraction Values for the Elements:  Reference values and uncertainties for elements in SRM 2586 
+are given in Table 2.  The reference values for Ce, Dy, Eu, Gd, Hg, La, Nd, Pr, Sm, Y, and Yb are derived from a 
+-e  derived  from  two  or  more 
+single method performed at NIST.  The reference values for the remaining elements are derived from two or more 
+methods performed at NIST and/or USGS (Table 5). 
+ 
+
+Table 2.  Reference Mass Fractions (Dry-Mass Basis) for Elements in SRM 2586 
+
+1.0 
+
+890 
+
+27.2 
+
+27.0 
+
+51 610 
+
+Element 
+
+Element 
+
+0.23 
+0.14 
+
+1 001 
+9 760 
+
+2 100 
+730 
+
+760 
+18 
+540 
+
+17 070 
+1 000 
+
+291 500 
+4 680 
+
+0.8 
+77 
+180 
+
+1.9 
+0.14 
+0.03 
+0.27 
+
+66 520 
+413 
+22 180 
+
+Mass Fraction 
+mg/kg 
+
+Mass Fraction 
+mg/kg 
+
+± 
+± 
+± 
+6.78  ± 
+6.02  ± 
+± 
+± 
+84.1 
+± 
+0.79  ± 
+± 
+2.06  ± 
+± 
+± 
+
+± 
+± 
+± 
+57.1 
+± 
+4.69  ± 
+1.33  ± 
+6.04  ± 
+± 
+± 
+± 
+± 
+0.367  ± 
+ 
+
+Aluminum (Al) 
+Barium (Ba) 
+Calcium (Ca) 
+Cerium (Ce) 
+Dysprosium (Dy) 
+Europium (Eu) 
+Gadolinium (Gd) 
+Iron (Fe) 
+Lanthanum (La) 
+Magnesium (Mg) 
+Manganese (Mn) 
+Mercury (Hg) 
+ 
+
+Neodymium (Nd) 
+Phosphorus (P) 
+Potassium (K) 
+Praseodymium (Pr) 
+Samarium (Sm) 
+Silicon (Si) 
+Sodium (Na) 
+Strontium (Sr) 
+Terbium (Tb) 
+Titanium (Ti) 
+Ytterbium (Yb) 
+Yttrium (Y) 
+Zinc (Zn) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  element  reference  values  derived  from  a  single  method  at  NIST  are  the  means  of  the  measurements  for  the 
+individual method.  The expanded uncertainty is calculated as, U = kuc, where uc is the combined standard uncertainty 
+calculated according to the ISO/JCGM Guide [3], and k is the coverage factor corresponding to approximately 95 % 
+confidence. 
+ 
+Is  are  equally  weighted  means  from  the  combination 
+The element reference values derived from two or more methods are equally weighted means from the combination 
+of results provided by NIST and USGS.  The uncertainty is calculated as, U = kuc+ B.  The quantity uc is the combined 
+standard uncertainty calculated according to the ISO Guide [3] and is intended to represent, at the level of one standard 
+dard
+deviation, the combined effect of within-method variation and material inhomogeneity.  The coverage factor, k, is 
+determined from  the Student-t distribution corresponding to the calculated effective degrees of freedom and 95 % 
+level of confidence for each element. B is a bias adjustment for the difference between methods, which is the maximum 
+difference between the certified value and method means [4]. 
+ 
+ 
+Reference Mass Fraction Value for Perfluorooctane Sulfonate (PFOS):  The reference value and uncertainty for 
+PFOS in SRM 2586 is provided in Table 3.  The mass fraction for PFOS is based on three sets of data (two sets from 
+NIST and one set from an interlaboratory study) (Table 5).  
+ 
+
+840 
+18 
+  0.038 
+ 
+ 
+
+0.05 
+0.8 
+16 
+
+20.5 
+352 
+
+8.0 
+0.02 
+
+6 050 
+
+660 
+
+ 
+
+Table 3.  Reference Mass Fraction (Dry-Mass Basis) for Perfluorooctane Sulfonate (PFOS) in SRM 2586 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction 
+µg/kg 
+
+Perfluorooctane Sulfonate (PFOS) 
+
+3.41  ±  1.33 
+
+ 
+The  reference  value  is  the  equally  weighted  mean  from  the  combination  of  results  provided  by  NIST  and  the 
+interlaboratory study.  The uncertainty of each method mean is the standard deviation of that mean.  The expanded 
+uncertainty of the combined mean is calculated as, U = kuc, where uc is the combined standard uncertainty calculated 
+according to the ISO/JCGM Guide [3], and k is the coverage factor corresponding to approximately 95 % confidence. 
+The uncertainty of the combined mean is calculated using a bootstrap procedure based on a Gaussian random effects 
+model for the between-method effects [3,5–7]. 
+ 
+ 
+
+ 
+
+SRM 2586 
+
+Page 3 of 5 
+
+Information Mass Fraction Values:  Information values for elements in SRM 2586 are provided in Table 4.  The 
+values are either from a single method or are the mean of two methods (Table 5).  
+ 
+
+Table 4.  Information Mass Fractions (Dry-Mass Basis) for Elements  
+
+ 
+
+Element 
+
+Beryllium (Be) 
+Cobalt (Co) 
+Copper (Cu) 
+Erbium (Er) 
+Gallium (Ga) 
+Holmium (Ho) 
+Lithium (Li) 
+
+Mass Fraction 
+mg/kg 
+
+Element 
+
+Mass Fraction 
+mg/kg 
+
+1.4 
+35 
+81 
+3.3 
+14 
+1.1 
+25 
+
+Nickel (Ni) 
+Niobium (Nb) 
+Scandium (Sc) 
+Selenium (Se) 
+Thorium (Th) 
+Thulium (Tm) 
+Vanadium (V) 
+
+75 
+6 
+24 
+0.6 
+7 
+0.5 
+
+160 
+
+ 
+ 
+Table 5.  Methods Used for the Analysis of SRM 2586 
+ 
+Lab 
+NIST 
+
+  
+
+Analysts 
+
+B. Buehler, M.S. Epstein 
+
+Method 
+
+     
+
+Electrothermal Atomic Absorption 
+Spectrometry (AAS) 
+Flow Injection – Cold Vapor Atomic 
+Absorption Spectrometry (CVAAS) 
+Inductively Coupled Plasma Mass 
+Spectrometry (ICP-MS) 
+Inductively Coupled Plasma Mass Spectrometry 
+(ICP-MS) 
+
+  
+
+  
+
+NIST  M.S. Epstein 
+
+NIST 
+
+L.L. Yu 
+
+  
+
+NIST 
+
+C.E. Bryan, S.E. Long 
+
+Elements(a) 
+
+As, Cr 
+
+Hg 
+
+As, Cd 
+
+Ce, Dy, Eu, Gd, La, 
+Nd, Pr, Sm, Tb, Y, 
+Yb, 
+As, Cr 
+
+  
+
+NIST 
+
+R. Zeisler 
+
+  
+
+NIST 
+
+E.S. Beary, K.E. Murphy 
+
+Cd, Pb 
+
+Instrumental Neutron Activation 
+Analysis (INAA) 
+Isotope Dilution – Inductively Coupled Plasma 
+Mass Spectrometry (ID-ICP-MS) 
+X-Ray Fluorescence Spectrometry with Fusion 
+Sample Preparation, Calibrated with Fusions of 
+Mixed Pure Element Compounds 
+
+NIST 
+
+  
+Al, Ba, Ca, Cr, Fe, K, 
+Mg, Mn, P, Pb, Si, 
+Sr, Ti, Zn 
+
+P.A. Pella, A.F. Marlow, 
+E. Ramirez (Guest Scientist 
+from Centro Nacional de 
+Metrologia, Mexico) 
+P. Hageman 
+
+USGS 
+
+USGS 
+
+As, Se 
+
+P.H. Briggs 
+
+  
+
+  
+
+  
+
+Hydride Generation Atomic Absorption 
+Spectrometry (AAS) 
+Inductively Coupled Plasma Atomic Emission 
+Spectrometry (ICP-AES) 
+
+        
+   
+    
+  
+
+Inductively Coupled Plasma Mass 
+Spectrometry (ICP-MS) 
+X-Ray Fluorescence Spectrometry with Fusion 
+Sample Preparation, Calibrated with Fusions of 
+Geological Reference Materials 
+Liquid Chromatography with Triple Quad Mass 
+Spectrometry (LC-MS/MS)  
+Liquid Chromatography with Triple Quad Mass 
+Spectrometry (LC-MS/MS) 
+
+Al, Ba, Be, Ca, Co, 
+Cr, Cu, Fe, Ga, K, Li, 
+Mg, Mn, Na, Nb, Ni, 
+P, Pb, Sc, Sr, Th, Ti, 
+V, Zn 
+Er, Ho, Tm 
+
+  
+
+S.A. Wilson, J.S. Mee, 
+D.F. Siems 
+
+Al, Ca, Fe, K, Mg, 
+Na, P, Si, Ti 
+
+Interlaboratory Comparison 
+
+J.L. Reiner 
+
+A. Meier 
+
+USGS 
+
+USGS 
+
+PFOS 
+
+PFOS 
+
+NIST 
+
+(a)Certified Elements shown in Bold. 
+Bold 
+ 
+ 
+
+ 
+
+SRM 2586 
+
+Page 4 of 5 
+
+User Experience with SRM 2586:  In order to demonstrate user experience with SRM 2586, a number of laboratories 
+analyzed this material, using a variety of dissolution and instrumental methods.  For lead, this was done through the 
+Environmental  Lead  Proficiency  Analytical  Testing  Program (ELPAT),  where  SRM 2586  was  included  as  an 
+unknown for Round Robin number 13.  Data for As, Cd, Cr, and Hg were supplied by volunteer laboratories in a round 
+robin  exercise  organized  by  NIST. 
+included  EPA-SW846-3050A, 
+EPA-SW846-3051 [8], and others.  As these methods may not effect complete sample dissolution, the results obtained 
+using these methods tend to be lower than the certified values.  These results were not used in calculating the certified 
+values of SRM 2586. 
+ 
+
+  The  sample  preparation  methods 
+
+Table 6.  Results of Round Robin Exercise in SRM 2586 
+
+Element 
+
+Arsenic (As) 
+Cadmium (Cd)(a) 
+Chromium (Cr) 
+Mercury (Hg) 
+Lead (Pb) 
+
+ 
+ 
+ 
+ 
+ 
+
+Mean 
+(mg/kg) 
+
+6.7 
+2.3 
+
+114 
+
+0.30 
+
+401.2 
+
+Minimum 
+(mg/kg) 
+
+Maximum 
+(mg/kg) 
+
+Standard Deviation 
+(mg/kg) 
+
+ 
+ 
+ 
+ 
+ 
+
+4.7 
+1.2 
+57 
+0.12 
+
+336.5 
+
+ 
+ 
+ 
+ 
+ 
+
+10.4 
+3.3 
+
+156 
+
+0.40 
+
+472 
+
+ 
+ 
+ 
+ 
+ 
+
+1.6 
+0.5 
+25 
+0.07 
+37.8 
+
+ 
+ 
+ 
+ 
+ 
+
+n 
+ 
+
+20 
+15 
+23 
+20 
+67 
+
+ (a)The results reported for Cd from five laboratories were erroneously high and are not included in the summary statistics given 
+
+ 
+
+ 
+
+here. 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Publication  811;  U.S.  Government  Printing  Office:  Washington,  DC 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Aug 2019). 
+
+ternational  System  of  Units 
+
+available 
+
+(2008); 
+
+[3]  JCGM 100:2008;  Evaluation  of  Measurement  Data - Guide 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC (2000); available at: https://www.nist.gov/srm/publications.cfm (accessed Aug 2019). 
+in 
+Measurement; (GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); 
+available 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed 
+Aug 2019);  see  also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of 
+NIST  Measurement  Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  
+Washington, DC (1994); available at https://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2019). 
+
+the  Expression  of  Uncertainty 
+
+to 
+
+at 
+
+Spectrochimica  Acta, 
+[4]  Schiller, S.B.; Eberhardt, K.R.; Combining Data from Independent Chemical Analysis Methods, Spectrochimica Acta, 
+
+Vol. 46B, pp. 1607−1613 (1991). 
+
+[5]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee 
+Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Apr 2017) 
+[6]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[7]  Searle, S.; Casella, G.; McCulloch, C.; Variance Components, John Wiley, Hoboken, NJ (1992). 
+[8]  Federal Register 1-13-95 SW-846 update #2, Final. 
+ 
+ 
+ 
+
+  
+ Certificate  Revision  History:  16 August 2019  (Correction  of  PFOS  units  in  Table 3;  editorial  changes);  12 April 2017 (Change  information 
+values to reference values for Dy, Eu, Gd, Pr, Sm, Tb, and Y and update reference values for Ce, La, Nb, and Yb; addition of PFOS reference value; 
+editorial  changes);  11 March 2013 (Change  of  expiration  date;  editorial  changes);  24 June 2008 (Change  of  expiration  date;  editorial  changes); 
+03 March 1999 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+sis  in  their  possession  is  current.  This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.  This  can  be 
+fax
+accomplished  by  contacting 
+fax (301) 948-3730;  e-mail 
+ 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+telephone (301) 975-2200; 
+
+the  SRM  Program: 
+
+- 
+
+SRM 2586 
+
+Page 5 of 5 
+
+

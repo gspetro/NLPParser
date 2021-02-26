@@ -1,0 +1,231 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 2660a 
+
+ 
+
+ 
+
+ 
+Total Oxides of Nitrogen (NOX) in Air 
+ 
+(Nominal Amount-of-Substance Fraction – 100 µmol/mol) 
+ 
+This certificate reports the certified value for Lot 2660-C-XX. 
+
+Cylinder Number:  SAMPLE 
+Hydrotest Date:  April 2005 
+
+Total NOX Concentration:  98.0 µmol/mol    1.0 µmol/mol 
+
+NIST Sample Number:  SAMPLE 
+Blend Date:  October 2005 
+
+ 
+This Standard Reference Material (SRM) is a primary gas mixture for which the amount-of-substance fraction, expressed 
+as  concentration [1], may be related to secondary working standards.  This SRM is intended for the calibration of 
+instruments used for total oxides of nitrogen determinations and for other uses. 
+ 
+This SRM mixture is supplied in a DOT 3AL specification aluminum (6061 alloy) cylinder with a water volume of 6 L.  
+Mixtures  are  shipped  with  a  nominal  pressure  exceeding  12.4 MPa (1800 psig),  which  provides  the  user  with 
+0.73 m3 (25.8 ft3) of useable mixture.  The cylinder is the property of the purchaser and is equipped with a CGA-660 
+stainless steel valve, which is the recommended outlet for this total oxides of nitrogen mixture. 
+ 
+Certified Value:  This SRM mixture has been certified for the total oxides of nitrogen (NOX) concentration which is 
+defined  as  the  sum  of  the  nitrogen  dioxide (NO2)  concentration  plus  the  contaminant  gaseous  nitric  acid (HNO3) 
+concentration.  The certified value given below applies to the identified cylinder and NIST sample number. 
+ 
+ 
+ 
+ 
+ 
+ 
+A  NIST  certified  value  is  a  value  for  which  NIST  has  the highest  confidence  in  its  accuracy  in  that  all  known  or 
+suspected sources of bias have been investigated or taken into account [2].  The uncertainty of the certified value includes 
+the estimated uncertainties in the NIST standards, the analytical comparisons to the lot standard (LS), and the uncertainty 
+of  comparing  the  LS  with  each  of  the  mixtures  comprising  this  lot.    The  uncertainty  is  expressed  as  an  expanded 
+uncertainty U = kuc with uc determined by experiment and a coverage factor k = 2.  The true value for the total NOX 
+amount-of-substance fraction is asserted to lie in the interval defined by the certified value  U with a level of confidence 
+of approximately 95 % [3]. 
+ 
+Expiration of Certification:  The certification of SRM 2660a Lot No. 2660-C-XX is valid from this certificate issue 
+date, within the measurement uncertainties specified, until 31 December 2015, provided the SRM is handled and stored 
+in  accordance  with  the  instructions  given  in  this  certificate  (see  “Cylinder  and  Gas  Handling  Information”).    The 
+certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Cylinder and Gas Handling Information:  NIST recommends the use of a high-purity, two-stage pressure regulator 
+with a stainless steel diaphragm and CGA-660 outlet to safely reduce the pressure and to deliver this SRM mixture to the 
+instrument.  The regulator should be purged to prevent accidental contamination of the SRM by repeatedly (minimum 
+three times) opening the valve and pressurizing the regulator, then closing the valve and releasing the pressure safely into 
+a vent line.  This SRM should not be used after the internal pressure drops below 0.7 MPa (100 psig).  This SRM should 
+be stored under normal laboratory conditions within the temperature range of 15 ºC to 30 ºC. 
+ 
+The overall direction and coordination of the technical work required for certification of this SRM were performed by 
+F.R. Guenther of the NIST Analytical Chemistry Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  14 July 2011 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 2660a 
+
+Page 1 of 3 
+
+Analytical measurements leading to the certification of the current SRM lot were performed by W.J. Thorn III of the 
+NIST Analytical Chemistry Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Mixture Preparation:  The gas mixtures comprising this SRM lot were prepared in accordance with NIST technical 
+specifications by a commercial specialty gas vendor under contract to NIST.  The specifications stipulate that each SRM 
+mixture be identical in NOX concentration and stable with time. 
+ 
+Analytical Methods:  Analyses of the NOX concentration for this lot of cylinders were conducted by comparing each 
+cylinder  mixture  to  a  representative  cylinder  chosen  from  the  lot,  the  lot  standard (LS),  using  NIST’s  NOX 
+chemiluminescence primary analytical method.  Assignment of the NOX concentration to the LS was accomplished by 
+comparison to gravimetric nitric oxide primary standard mixtures and by comparison to dynamically generated NO2 in air 
+standards using calibrated NO2 permeation tubes. 
+ 
+Homogeneity Analysis:  Each of the NOX mixtures that comprise this SRM lot was compared to the LS using NIST’s 
+NOX  chemiluminescence  primary  analytical  method.    A  statistical  analysis  of  the  analytical  results  indicated  that 
+sample-to-sample  NOX  concentration  differences  were  not  statistically  significant.    This  indicates  that,  within  the 
+precision of the NIST measurements, all of the cylinders comprising this SRM lot have identical NOX concentrations.  
+Therefore, one concentration has been assigned to the entire SRM lot.  
+ 
+Total NOX Concentration Value Assignment:  The certified total NOX concentration for this SRM lot was computed 
+from the assigned concentration for the LS and the homogeneity analysis.  The total NOX concentration is the sum of the 
+NO2 concentration and the HNO3 concentration. 
+ 
+Estimate of Percent HNO3 Contamination of Total NOX:  HNO3 is formed whenever a NO2 mixture is added to an 
+aluminum cylinder.  An estimate of the gaseous percent HNO3 contamination level in this SRM 2660a lot expressed as a 
+percent  relative  to  the  total  NOX  concentration  was  determined  using  nylon  membrane  filters  and  by  fourier 
+transform-infrared spectroscopy (FT-IR).  An estimated value of 2.6 % HNO3 relative to the total NOX concentration was 
+determined  for  this  SRM 2660a  lot.    Similarly,  an  estimated  value  of  97.4 %  NO2  relative  to  the  total  of  NOX 
+concentration was determined for this SRM.  These estimates are not NIST certified values, but are presented here for 
+user informational purposes only. 
+ 
+Verification of Air Matrix Composition:  The air matrix in SRM 2660a closely matches ambient air.  Six SRM 2660a 
+mixtures from the lot were analyzed by gas chromatography to verify the air matrix composition.  The average of the six 
+measured values are: (0.93  0.02) % mol/mol argon, (363  6) µmol/mol carbon dioxide and (21.5  0.2) % mol/mol 
+oxygen.  These values are not NIST certified concentrations but are presented here for user informational purposes only. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Air 
+Nitric Acid 
+Nitrogen Dioxide 
+
+132259-10-0 
+7697-37-2 
+10102-44-0 
+
+CAS Registry 
+
+Constituent 
+
+ 
+
+SRM 2660a 
+
+Page 2 of 3 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/indexfull.cfm (accessed July 2011). 
+
+available 
+
+(2008); 
+
+[3] 
+
+for  Chemical  Measurements;  NIST  Special  Publication  260-136 
+
+[2]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials 
+(2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed July 2011). 
+JCGM 100:2008; Evaluation of Measurement Data   Guide to the Expression of in Measurement (ISO GUM 1995 
+with  Minor  Corrections);  Joint  Committee  for  Guides 
+in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  July 2011);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed July 2011). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current. This can be accomplished 
+by contacting the SRM Program: telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2660a 
+
+Page 3 of 3 
+
+

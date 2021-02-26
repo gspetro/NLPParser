@@ -1,0 +1,258 @@
+﻿National Institute of Standards and Technology 
+
+ 
+
+solutions 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1828c 
+ 
+Ethanol-Water Solutions (Six Levels) 
+ 
+ 
+This  Standard  Reference  Material (SRM)  is  a  set  of  six  levels  of  ethanol (ethyl  alcohol:  Chemical  Abstracts 
+Service [CAS]  Registry  Number  64-17-5).    SRM 1828c  is  intended  for  use  in  the  calibration  of  instruments  and 
+techniques used for the determination of ethanol in aqueous solutions.  A unit of SRM 1828c consists of six 2 mL 
+ampoules, one ampoule each of the  nominal ethanol  mass fractions of 0.02 %, 0.04 %, 0.08 %, 0.1 %, 0.2 %, and 
+0.3 %.  Each ampoule contains approximately 1.2 mL of solution.   
+ 
+Certified Values:  The certified mass fraction values expressed as percent and associated uncertainties for each of the 
+six solutions are given in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or accounted for by NIST [1]. The 
+certified values are based on the agreement of results obtained at NIST using two analytical techniques.   
+ 
+Information Values:  Information values for the density at 20 °C for each of the six solutions are given in Table 2. 
+An information value is a value that will be of interest to the SRM user, but insufficient information is available to 
+assess the uncertainty associated with the value or only a limited number of analyses were performed [1].  Information 
+values cannot be used to establish metrological traceability.  
+ 
+Expiration of Certification:  The certification of SRM 1828c is valid, within the measurement uncertainty specified, 
+until  30 April 2037,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified.  
+ 
+If  substantive 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  was  under  the  direction  of 
+J.A. Murray and W.A. MacCrehan of the NIST Chemical Sciences Division. 
+ 
+Preparation  of  and  analytical  measurements  on  the  SRM  were  performed  by  J. Murray  and  B. Lang  of  the  NIST 
+Chemical Sciences Division. 
+ 
+Statistical consultation and evaluation of the data were provided by N.-F. Zhang, of the NIST Statistical Engineering 
+Division. 
+ 
+coordinated  through  the  NIST  Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+22
+Certificate Issue Date:  22 December 2017 
+
+Steven J. Choquette., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+uncertainty 
+
+?SRM 
+
+by  J. 
+
+Page 1 of 3 
+
+  
+
+SRM 1828c 
+
+rE  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE AND USE 
+ 
+Handling:  The solutions contain ethanol in water at the stated concentrations.  Use proper disposal methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Use:    Sample  aliquots  for  analysis  should  be  withdrawn  immediately  after  opening  the  ampoules  and  should  be 
+processed without delay for the certified values in Table 1 to be valid within the stated uncertainty.  Because of the 
+volatility of ethanol, the certified values are NOT applicable to material stored in ampoules that have been opened for 
+more than 2 min, even if they are resealed. 
+ 
+Metrological Traceability for Certified Values:  The certified mass fraction of ethanol for each of the six solutions 
+through 
+is given in Table 1.  Metrological traceability is to the SI derived unit for mass fraction, expressed as percent, through 
+aization
+the  mass  balance  purity  assessment  of  neat  material,  determined  by  gas  chromatography  with  flame  ionization 
+detection  (GC-FID)  using  two  separate  columns  and  Karl  Fischer  analysis,  and  the  certified  value  of  SRM 2897a 
+Ethanol-Water Solution (Nominal Mass Fraction 2 %) used to prepare calibrants. 
+ 
+
+Table 1. Certified Values of Ethanol in Water for the Six Levels Comprising SRM 1828c 
+
+Nominal Mass Fraction Level 
+(%) 
+
+Mass Fraction(a) 
+(%) 
+
+0.01729  ±  0.00023 
+0.03725  ±  0.00047 
+0.07663  ±  0.00097 
+0.0977  ±  0.0013 
+0.2037  ±  0.0027 
+0.2985  ±  0.0037 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the certified mass fraction value (expressed as percent) and U95%(x) is the 
+expanded uncertainty of the certified value [2,3]. The true value of the analyte is believed to lie within the interval x ± U95%(x) 
+with 95 % confidence. To propagate this uncertainty, treat the certified values as a normally distributed random variable with 
+mean x and standard deviation U95%(x)/2.  
+
+Table 2. Information values for density of SRM 1828c at 20 °C. 
+
+Nominal Mass Fraction Level 
+(%) 
+
+Density 
+(g/mL) 
+
+0.9982 
+0.9982 
+0.9981 
+0.9980 
+0.9979 
+0.9977 
+
+0.02 
+0.04 
+0.08 
+0.1 
+0.2 
+0.3 
+
+0.02 
+0.04 
+0.08 
+0.1 
+0.2 
+0.3 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+4 
+ 
+
+SRM 1828c 
+
+Page 2 of 3 
+
+PREPARATION AND ANALYSIS(1) 
+ 
+The solutions were prepared at NIST by weighing and mixing known masses of ethanol and organic-free water.  Each 
+solution was mixed a minimum of 12 h.  Aliquots of 1.2 mL were dispensed into 2 mL amber glass ampoules that had 
+been evacuated with argon and then flame sealed.  
+ 
+Aliquots from twelve ampoules, selected using a random stratified sampling scheme, were analyzed in duplicate by 
+using  GC-FID  on  a  relatively  polar  DB-wax  column,  15 m × 0.45 mm id,  0.85 µm  film  thickness (Agilent 
+Technologies,  Wilmington, DE).    The  internal  standard  added  to  each  sample  for  quantification  purposes  was 
+1-propanol.  Calibration solutions consisting of weighed amounts of ethanol and the internal standard compound in 
+organic-free water were chromatographically analyzed to determine analyte response factors.  The ethanol used to 
+prepare  the  calibration  solutions  were  adjusted  for  the  mass  balance  purity  estimation  of  the  ethanol,  which  was 
+determined  using  GC-FID  with  two  stationary  phases  of  different  polarities,  and  Karl  Fischer  analysis  for  water 
+content.  
+ 
+In  addition  to  the  GC-FID  analyses,  the  mass  fraction  of  each  of  the  six  solutions  was  determined  by  using  gas 
+chromatography-mass  spectrometry  (GC-MS)  on  an  Rxi-1301Sil  MS  column,  60 m  x  0.25 mm  id,  1.0 µm  film 
+thickness (Restek  Technologies,  Bellefonte,  PA).    The  internal  standard  added  to  each  sample  for  quantification 
+purposes  was  1-propanol.    Calibration  solutions  consisting  of  weighed  amounts  of  SRM 2897a  and  the  internal 
+standard compound in organic-free water were chromatographically analyzed to determine analyte response factors.  
+Aliquots from six ampoules were analyzed in duplicate by GC-MS.  
+ 
+The density of all six solutions was estimated at 20 °C using a density meter with an oscillating U-tube sensor.  
+ 
+ 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Dec 2017). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (2008); 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed 
+available 
+Dec 2017); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST  Measurement  Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office: 
+Washington, DC (1994); available at http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Dec 2017). 
+Zhang, N.F.; Calculation of the Uncertainty of the Mean of Autocorrelated Measurements; Metrologia, Vol. 43, 
+pp. S276-S281 (2006). 
+
+[3] 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+fax (301)  948-3730; 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+telephone (301)  975-2200; 
+
+the  SRM  Program: 
+
+ 
+
+                                                           
+
+(1) Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by NIST, nor does it imply that the 
+materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1828c 
+
+Page 3 of 3 
+
+

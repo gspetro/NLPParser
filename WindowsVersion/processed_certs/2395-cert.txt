@@ -1,0 +1,1245 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2395 
+
+ 
+
+ 
+Human Y-Chromosome DNA Profiling Standard 
+ 
+This  Standard  Reference  Material  is  intended  primarily  for  use  in  the  standardization  of  forensic  and  paternity 
+quality  assurance  procedures  for  polymerase  chain  reaction  (PCR)-based  genetic  testing  and  for  instructional  law 
+enforcement or non-clinical research purposes that involve the human Y-chromosome.  In addition, SRM 2395 may 
+be  used  to  standardize  nomenclature  for  the  field  of  genetic  genealogy.    This  SRM  can  also  be  used  for  quality 
+assurance when assigning values to in-house control materials.  It is not intended for any human or animal clinical 
+diagnostic use.  Additional information on each Y-chromosome marker can be found at a NIST-sponsored database 
+on the Internet: http://www.cstl.nist.gov/biotech/strbase. 
+ 
+This SRM is composed of well-characterized human genomic deoxyribonucleic acid (DNA) in liquid form.  A unit 
+of  SRM  2395  consists  of  six  frozen  components  (A  through  F)  packaged  in  one  box.    Each  component  contains 
+50 µl of DNA at a concentration of approximately 1 ng/µL.  There are five male samples and one female sample in 
+this SRM.  See Table 1 for a complete listing of the components. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [1].  The SRM is certified 
+for  genetic  loci  on  the  human  Y-chromosome  [2–13].    Genetic  types  for  loci  were  certified  through  DNA 
+quantitation, sequencing, interlaboratory testing, and typing methodologies.  Table 1 provides the quantitative PCR 
+(qPCR)  results  from  multiple  analyses  of  two  SRM 2395  units  obtained  from  the  NIST  Measurement  Service 
+Division  and  one  unit  from  the  NIST  Biochemical  Science  Division  stored  at  –20°C.    Table 2  lists  the  certified 
+genetic  types  in  normal  font  for  41 different  Y-chromosome  short  tandem  repeat  (Y-STR)  markers.    All  certified 
+types have been confirmed through DNA sequencing of the alleles for each of the 5 male components. 
+ 
+Reference  Values:    A  NIST  Reference  Value  is  a  best  estimate  of  the  true  value  provided  by  NIST  where  all 
+known  or  suspected  sources  of  bias  have  not  been  fully  investigated  by  NIST  [1].    Table 2  also  includes  three 
+reference genetic types in bold font for different Y-STR markers.  Reference alleles have been typed but NOT fully 
+confirmed through DNA sequencing.   
+ 
+Informational Values:  An information value is considered to be a value that will be of interest and use to the SRM 
+user,  but  for  which  insufficient  information  is  available  to  assess  adequately  the  uncertainty  associated  with  the 
+value, or a value derived from a limited number of analyses [1].  Table 3 describes informational values for three 
+additional Y-STR loci that have been typed but not yet sequenced.  Table 4 lists the genetic types for 42 different 
+Y-chromosome  single  nucleotide  polymorphisms  (Y-SNPs)  determined  by  allele-specific  hybridization.    Figure 1 
+displays results from the quadruplicated Y-STR DYS464. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2395  is  valid,  within  the  measurement  uncertainties 
+specified,  until  31  December  2013,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions 
+given  in  this  certification  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of the technical activities leading to certification were under the leadership of 
+M.C. Kline and J.M. Butler of the NIST Biochemical Science Division. 
+
+Gaithersburg, MD  20899 
+Certificate Issue Date:  03 September 2008 
+See Certificate Revision History on Last Page 
+
+ 
+ 
+
+ SRM 2395  
+
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+Robert L. Watters Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 7 
+
+ 
+Analytical  determination  and  technical  measurements  leading  to  the  certification  of  this  SRM  were  performed  by 
+staff of the NIST Biochemical Science Division:  M.C. Kline and J.W. Redman prepared the samples; J.M. Butler, 
+R. Schoske, and P.M. Vallone initially evaluated the components using selected PCR amplification assays and kits 
+to  determine  the  certified  genotypes;  A.E. Decker  and  M.C. Kline  evaluated  the  stability  of  the  components  in 
+selected quantitative PCR (qPCR) assays; A.E. Decker performed a concordance evaluation of the components by 
+comparing  the  initial  genotypes  with  recently  obtained  genotypes  using  Y-STR  PCR  amplification  kits;  and 
+A.E. Decker performed sequencing and genotyping of 21 Y-STR loci to determine certified and reference values. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+The preparation of this SRM was supported in part by the National Institute of Justice, U.S. Department of Justice. 
+ 
+NOTICE AND WARNINGS TO USER 
+
+Storage:    All  six  components  must  be  stored  frozen  at  a  temperature  of  –20  ºC.    DO  NOT  use  a  self-defrosting 
+freezer because periodic cycling of temperatures may cause a shortened shelf-life of this SRM. 
+ 
+Handling:    SRM  2395  IS  A  HUMAN  SOURCE  MATERIAL.    SINCE  THERE  IS  NO  CONSENSUS  ON  THE 
+INFECTIOUS STATUS OF EXTRACTED DNA, HANDLE THE SRM 2395 COMPONENTS AS BIOSAFETY 
+LEVEL 1 MATERIALS CAPABLE OF TRANSMITTING INFECTIOUS DISEASE [14].  SRM 2395 components 
+and derived solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+INSTRUCTIONS FOR USE 
+
+Sample  aliquots  for  analysis  should  be  withdrawn  immediately  after  opening  the  vials  and  should  be  processed 
+without delay for the certified values to be applicable.  Let samples warm up to laboratory ambient temperature for 
+2 hours before use.  
+ 
+SOURCE AND ANALYSIS1 
+
+Source  of  Material:    Genomic  DNA  components  were  extracted  from  whole  blood  obtained  from  Millennium 
+Biotech, Inc. (Ft. Lauderdale, FL). 
+ 
+Interlaboratory Analysis:  The STR values for this SRM represent the pooled results from analyses performed at 
+NIST, ReliaGene Technologies, Inc. (New Orleans, LA), OligoTrail LLC (Evanston, IL), the Forensic Laboratory 
+for DNA Research at Leiden University Medical Center (Leiden, The Netherlands), Sorenson Molecular Genealogy 
+Foundation (Salt Lake City, UT) and Family Tree DNA (Houston, TX). 
+ 
+Additional Information:  Further characterization of SRM 2395 components through qPCR and DNA sequencing 
+is summarized on the NIST-sponsored Short Tandem Repeat DNA Internet DataBase (STRBase) and available at 
+http://www.cstl.nist.gov/biotech/strbase/srm2395.htm. 
+
+                                                           
+
+1Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2395  
+
+Page 2 of 7 
+
+ 
+ 
+Commercial kits used to obtain typing results used at NIST: 
+
+PowerPlex® Y (Promega):   
+
+DYS19, DYS385 a/b, DYS389I/II, DYS390, DYS391, DYS392, DYS393, DYS437, DYS438, DYS439 
+
+AmpFℓSTR® Yfiler™ PCR Amplification Kit (Applied Biosystems): 
+
+DYS19, DYS385 a/b, DYS389I/II, DYS390, DYS391, DYS392, DYS393, DYS437, DYS438, DYS439, 
+DYS448, DYS456, DYS458, DYS635, Y-GATA-H4 
+
+Signet™ Y-SNP Identification System (Marligen Biosciences, Ijamsville, MD): 
+
+42 Y-SNPs listed in Table 4 
+
+Table 1.  DNA Concentration Ranges of SRM 2395 Components Determined by Multiple qPCR Analysis Runs(a) 
+
+ 
+ 
+
+ 
+
+Component 
+
+Description 
+
+DNA Concentration Range 
+(ng/µL) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+A 
+B 
+C 
+D 
+E 
+F(b) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Male Genomic DNA 1 
+Male Genomic DNA 2 
+Male Genomic DNA 3 
+Male Genomic DNA 4 
+Male Genomic DNA 5 
+Female Genomic DNA 
+
+0.87 – 2.06 
+0.85 – 1.59 
+1.07 – 1.66 
+0.99 – 1.43 
+1.02 – 1.55 
+0.96 – 1.36 
+
+ 
+(a) DNA concentrations given are not intended for use as concentration standards. 
+(b) Component F is to serve as a negative control for Y-chromosome specific assays. 
+ 
+
+SRM 2395  
+
+Page 3 of 7 
+
+ 
+ 
+
+Table 2.  Certified and Reference Values for the 41 Y-STR Markers in SRM 2395 Components A–F(a) 
+ 
+ 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+F 
+
+Y-STR 
+Marker 
+
+  DYS19 
+  DYS385a/b 
+  DYS388 
+  DYS389I 
+  DYS389II 
+  DYS390 
+  DYS391 
+  DYS392 
+  DYS393 
+  DYS426 
+  DYS435 
+  DYS436 
+  DYS437 
+  DYS438 
+  DYS439 
+  DYS447 
+  DYS448 
+  DYS449 
+  DYS456 
+  DYS458 
+  DYS460 
+  DYS461 
+  DYS481 
+  DYS635 
+  Y-GATA-H4 
+  DYS492 
+  DYS522 
+  DYS527 
+  DYS532 
+  DYS534 
+  DYS570 
+  DYS572 
+  DYS576 
+  DYS607 
+  DYS650 
+  DYS652 
+  DYS709 
+  DYS710 
+  DYS712 
+  DYS715 
+  DYS717 
+
+14 
+12,15 
+12 
+13 
+29 
+25 
+11 
+13 
+13 
+12 
+12 
+12 
+15 
+12 
+12 
+24 
+19(c) 
+28 
+15 
+16 
+11 
+12 
+22 
+23 
+12(d) 
+12 
+10 
+21,23 
+15 
+15 
+17 
+11 
+18 
+19 
+18 
+24 
+13 
+36 
+23 
+24 
+17 
+
+14 
+14,17 
+15 
+13 
+28 
+23 
+11 
+11 
+12 
+11 
+11 
+12 
+14 
+9 
+12 
+25(b) 
+21(c) 
+32 
+15 
+15 
+10 
+13 
+23 
+21 
+12(d) 
+12 
+11 
+22 
+11 
+15 
+18 
+11 
+16 
+19 
+18 
+25 
+16 
+34.2 
+22.3 
+21 
+17 
+
+16 
+17,20 
+12 
+14 
+32 
+21 
+12 
+11 
+13 
+11 
+11 
+12 
+14 
+11 
+11 
+25(b) 
+21(c) 
+30 
+15 
+17 
+9 
+13 
+28 
+23 
+12(d) 
+11 
+10 
+17,20 
+12 
+15 
+18 
+9 
+17 
+19 
+16 
+25 
+15 
+35.2 
+21 
+22 
+17 
+
+15 
+14,15 
+12 
+12 
+28 
+22 
+10 
+11 
+14 
+11 
+11 
+12 
+16 
+11 
+11 
+23 
+21(c) 
+28 
+15 
+16 
+11 
+11 
+23 
+21 
+12(d) 
+11 
+12 
+15,21 
+15 
+14 
+17 
+9 
+18 
+17 
+18 
+23 
+17 
+33.2 
+26 
+23 
+20 
+
+17 
+13,15 
+13 
+14 
+31 
+24 
+10 
+12 
+14 
+11 
+11 
+12 
+14 
+10 
+11 
+26 
+20(c) 
+27 
+15 
+16 
+11 
+12 
+28 
+21 
+11(d) 
+12 
+12 
+22,23 
+9 
+14 
+18 
+11 
+17 
+18 
+24 
+26 
+16 
+31 
+19 
+23 
+14 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+ 
+(a) These values have all been confirmed through DNA sequencing at NIST (see STRBase for repeat motif information) except 
+
+for the three reference values in bold. 
+
+(b) Components B and C for DYS447 are listed as 25 repeats.  However, B contains 9-1-8-1-6 while C is 7-1-8-1-8 in terms of 
+
+[TAATA]-[TAAAA]-[TAATA]-[TAAAA]-[TAATA] repeats (see STRBase). 
+
+(c) Three different nomenclatures have been published for DYS448 [10].  The one listed here follows Redd et al [6]. 
+(d) The H4 nomenclature follows Butler et al. [5]; also see reference 16. 
+ 
+
+SRM 2395  
+
+Page 4 of 7 
+
+ 
+
+Table 3.  Informational Values for Additional Y-STR Loci in SRM 2395 Components A–F 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F 
+
+8 
+
+9 
+
+E 
+
+C 
+
+B 
+
+A 
+
+D 
+
+10 
+
+10 
+
+10 
+
+Name 
+
+13-14 
+
+20-20 
+
+19-19 
+
+19-21 
+
+19-22 
+
+19-23 
+
+Male 2 
+
+Male 3 
+
+Male 4 
+
+Male 1 
+
+Male 5 
+
+Female 
+
+DYS450 
+
+13-16-18 
+
+11-14-15 
+
+14-15-17 
+
+12-13-17 
+
+YCAII a/b 
+
+Component 
+
+13-16-16-18 
+
+13-13-14-14 
+
+11-14-14-15 
+
+14-15-15-17 
+
+12-13-13-17 
+
+DYS464 a/b/c/d 
+(expanded) 
+
+DYS464 a/b/c/d 
+(conservative) 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information  in  Table  3  has  not  been  fully  confirmed  through  direct  DNA  sequencing  of  the  SRM  components.  
+DYS464 is quadruplicated on the Y-chromosome and can produce up to four separate peaks (see Figure 1).  Both 
+expanded and conservative methods for calling DYS464 alleles are listed (see references 6 and 11). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   
+    
+
+     
+
+     
+
+  T 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1500 
+Lyooo 
+Lso0 
+
+1500 
+1000 
+500 
+
+2000 
+1500 
+1000 
+500 
+
+Laon 
+La  o00 
+
+iz 
+[1236] 
+
+[76] 
+[163.3] 
+
+[75] 
+[2361 
+
+A 
+
+B 
+
+C 
+
+D 
+
+2000 
+1000 
+
+E 
+
+[13] 
+784g 
+
+[ia 
+are 
+
+[12] 
+EGR] 
+
+[74] 
+1631 
+
+[13] 
+aor 
+
+[44] 
+os 
+
+[735] 
+o37 
+
+1053] 
+
+1093] 
+
+T 
+2e5 
+
+T 
+260 
+
+T 
+230 
+
+T 
+255 
+
+T 
+270 
+
+T 
+275 
+
+T 
+265 
+
+ere: 
+
+[13] 
+
+[13] 
+
+li? 
+
+li? 
+
+250 
+
+240 
+
+246 
+
+i 
+
+  
+
+Figure 1.  Allele calls (top label under peak) and peak heights (bottom label) for the multi-copy 
+Y-STR DYS464, which is quadruplicated on the Y-chromosome.  
+
+SRM 2395  
+
+Page 5 of 7 
+
+ 
+
+Table 4.  Information Values for 42 Y-SNP Loci in SRM 2395 Components A–F(a,b) 
+
+Y-SNP Marker/ 
+Haplogroup 
+
+  Amelogenin 
+  DYS391  C/G 
+  M119  A/C 
+  M11  A/G 
+  M124  C/T 
+  M130  C/T 
+  M146  A/C 
+  M150  C/T 
+  M153  T/A 
+  M157  A/C 
+  M168  C/T 
+  M170  A/C 
+  M172  T/G 
+  M174  T/C 
+  M175  +/– 
+  M18  –/+ 
+  M182  C/T 
+  M201  G/T 
+  M207  A/G 
+  M2  A/G 
+  M31  G/C 
+  M32  T/C 
+  M33  A/C 
+  M35  G/C 
+  M37  C/T 
+  M3  C/T 
+  M42  A/T 
+  M45  G/A 
+  M52  A/C 
+  M5  C/T 
+  M60  –/+ 
+  M75  G/A 
+  M87  T/C 
+  M89  C/T 
+  M94  C/A 
+  M95  C/T 
+  P25  C/A 
+  P3  C/T 
+  P4  G/A 
+  SRY10831  A/G 
+  SRY465  C/T 
+  SRY9138  C/T 
+  Tat  T/C 
+  YCC Haplogroup 
+
+A 
+
+X,Y 
+C 
+A 
+A 
+C 
+C 
+A 
+C 
+T 
+A 
+T 
+A 
+T 
+T 
++ 
+– 
+C 
+G 
+G 
+A 
+G 
+T 
+A 
+G 
+C 
+C 
+T 
+A 
+A 
+C 
+– 
+G 
+T 
+T 
+A 
+C 
+A 
+C 
+G 
+G 
+C 
+C 
+T 
+R1b 
+
+B 
+
+X,Y 
+C 
+A 
+A 
+C 
+C 
+A 
+C 
+T 
+A 
+T 
+A 
+G 
+T 
++ 
+– 
+C 
+G 
+A 
+A 
+G 
+T 
+A 
+G 
+C 
+C 
+T 
+G 
+A 
+C 
+– 
+G 
+T 
+T 
+A 
+C 
+C 
+C 
+G 
+G 
+C 
+C 
+T 
+J2 
+
+C 
+
+X,Y 
+G 
+A 
+A 
+C 
+C 
+A 
+C 
+T 
+A 
+T 
+A 
+T 
+T 
++ 
+– 
+C 
+G 
+A 
+G 
+G 
+T 
+A 
+G 
+C 
+C 
+T 
+G 
+A 
+C 
+– 
+G 
+T 
+C 
+A 
+C 
+C 
+C 
+G 
+G 
+C 
+C 
+T 
+E3a 
+
+D 
+
+X,Y 
+C 
+A 
+A 
+C 
+C 
+A 
+C 
+T 
+A 
+T 
+A 
+T 
+T 
++ 
+– 
+C 
+T 
+A 
+A 
+G 
+T 
+A 
+G 
+C 
+C 
+T 
+G 
+A 
+C 
+– 
+G 
+T 
+T 
+A 
+C 
+C 
+C 
+G 
+G 
+C 
+C 
+T 
+G 
+
+E 
+
+X,Y 
+C 
+A 
+A 
+C 
+C 
+A 
+C 
+T 
+A 
+T 
+C 
+T 
+T 
++ 
+– 
+C 
+G 
+A 
+A 
+G 
+T 
+A 
+G 
+C 
+C 
+T 
+G 
+A 
+C 
+– 
+G 
+T 
+T 
+A 
+C 
+C 
+C 
+G 
+G 
+C 
+C 
+T 
+I 
+
+F 
+
+X,X 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+ 
+(a) SRM  components  were  typed  through  allele-specific  hybridization  using  the  Signet Y-SNP Identification System (Marligen 
+
+Biosciences, Ijamsville, MD) [12]. 
+
+(b) Derived alleles are shaded to designate Y-Chromosome Consortium (YCC) haplogroups [13].  
+
+SRM 2395  
+
+Page 6 of 7 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.E.;  Gills, T.E.;  Parris, R.;  Beck, II, C.M.;  Fassett, J.D.;  Gettings, R.J.;  Greenberg, R.R.; 
+Guenther, F.R.; Kramer, G.; MacDonald, B.S.; Wise, S.A.; Definitions of Terms and Modes Used at NIST for 
+Value-Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136 
+(2000); available at http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm. 
+Jobling, M.A.; Pandya, A.; Tyler-Smith, C.;  The Y-Chromosome in Forensic Analysis and Paternity Testing; 
+Int. J. Legal Med., Vol. 110, pp. 118–124 (1997). 
+
+[2] 
+
+[3]  Kayser,  M.;  Calaglià,  A.;  Corach,  D.;  et  al  (30  co-authors);  Evaluation  of  Y-Chromosomal  STRs:  a 
+
+Multicenter Study; Int. J. Legal Med., Vo1. 10, pp. 125–133 (1997). 
+
+[4]  Roewer, L.;  Krawczak, M.;  Willuweit, S.;  Nagy, M.;  Alves,  C.;  Amorim, A.;  Anslinger, K.;  Augustin, C.; 
+Betz, A.;  Bosch, E.;  Caglia, A.;  Carracedo, A.;  Corach, D.;  Dekairelle, A.F.;  Dobosz, T.;  Dupuy, B.M.; 
+Furedi, S.; Gehrig, C.; Gusmao, L.; Henke, J.; Henke, L.; Hidding, M.; Hohoff, C.; Hoste, B.; Jobling, M.A.; 
+Kargel, H.J.;  de  Knijff, P.;  Lessig,  R.;  Liebeherr,  E.;  Lorente,  M.;  Martinez-Jarreta,  B.;  Nievas, P.; 
+Nowak, M.;  Parson, W.;  Pascali, V.L.;  Penacino, G.;  Ploski, R.;  Rolf, B.;  Sala, A.;  Schmidt, U.;  Schmitt, C.; 
+Schneider, P.M.;  Szibor, R.;  Teifel-Greding, J.;  Kayser, M.;  Online  Reference  Database  of  European 
+Y-Chromosomal Short Tandem Repeat (STR) Haplotypes; Forensic Sci. Int., Vol. 118, pp. 106–113 (2001). 
+[5]  Butler,  J.M.;  Schoske,  R.;  Vallone,  P.M.;  Kline,  M.C.;  Redd,  A.J.;  Hammer,  M.F.;  A  Novel  Multiplex  for 
+Simultaneous  Amplification  of  20  Y-Chromosome  STR  Markers;  Forensic  Sci.  Int.,  Vol.  129,  pp.  10–24 
+(2002). 
+
+[6]  Redd, A.J.; Agellon, A.B.; Kearney, V.A.; Contreras, V.A.; Karafet, T.; Park, H.; de Knijff, P.; Butler, J. M.; 
+Hammer, M. F.; Forensic Value of 14 Novel STRs on the Human Y-Chromosome; Forensic Sci. Int., Vol. 130, 
+pp. 97–111 (2002). 
+
+[7]  Schoske, R.;  Vallone, P.M.;  Ruitberg, C.M.;  Butler, J.M.;  Multiplex  PCR  Design  Strategy  Used  for  the 
+Simultaneous  Amplification  of  10  Y-Chromosome  Short  Tandem  Repeat  (STR)  Loci;  Anal.  Bioanal.  Chem., 
+Vol. 375, pp. 333–343 (2003). 
+
+[8]  Sinha, S.;  Budowle, B.;  Arcot, S.S.;  Richey, S.L.;  Chakrabor, R.; 
+
+Jones, M.D.;  Wojtkiewicz, P.W.; 
+Schoenbauer, D.A.;  Gross, A.M.;  Sinha, S.K.;  Shewale, J.G.;  Development  and  Validation  of  a  Multiplexed 
+Y-Chromosome  STR  Genotyping  System,  Y-PLEX™  6,  for  Forensic  Casework;  J.  Forensic  Sci.,  Vol. 48,  
+pp. 93–103 (2003). 
+
+[9]  Butler,  J.M.;  Recent  Developments  in  Y-STR  and  Y-SNP  Analysis;  Forensic  Sci.  Rev.,  Vol. 15,  pp. 91–111 
+
+(2003). 
+
+[10]  Schoske,  R.;  The  Design,  Optimization  and  Testing  of  Y-Chromosome  Short  Tandem  Repeat  Megaplexes; 
+
+Ph.D. Dissertation, American University (2003). 
+
+[11]  Schoske, R.; Vallone, P.M.; Kline, M.C.; Redman, J.W.; Butler, J.M.; High-Throughput Y-STR Typing of U.S. 
+Populations  With  27  Regions  of  the  Y-Chromosome  Using  Two  Multiplex  PCR  Assays;  Forensic  Sci.  Int., 
+Vol. 139, pp. 107–121 (2004). 
+
+[12]  Vallone,  P.M.;  Butler,  J.M.;  Y-SNP  Typing  Using  Allele-Specific  Hybridization  and  Primer  Extension; 
+
+J. Forensic Sci., Vol. 49, pp. 723–732 (2004). 
+
+[13]  Y  Chromosome  Consortium;  A  Nomenclature  System  for  the  Tree  of  Human  Y-Chromosomal  Binary 
+
+Haplogroups; Genome Res., Vol. 7, pp. 339–348 (2002). 
+
+[14]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, D.C. (2007); available at http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf. 
+
+[15]  Gusmao, L.; Butler, J.M.; Carracedo, A.; Gill, P.; Kayser, M.; Mayr, W.R.; Morling, N.; Prinz, M.; Roewer, 
+L.;  Tyler-Smith,  C.;  Schneider,  P.M.;  DNA  Commission  of  the  International  Society  of  Forensic  Genetics 
+(ISFG):  An  Update  of  the  Recommendations  on  the  Use  of  Y-STRs  in  Forensic  Analysis;  Forensic  Sci.  Int., 
+Vol. 157, pp. 187–197 (2006). 
+
+[16]  Mulero,  J.J;  Budowle,  B.;  Butler,  J.M.;  Gusmão,  L.;  Letter  to  the  Editor-Nomenclature  and  allele  repeat 
+
+structure update for the Y-STR locus GATA H4; J. Forensic Sci., Vol. 51, p. 694 (2006). 
+
+ 
+Certificate Revision History:  03 September 2008 (Extension of certification period and editorial revisions); 06 June 2003 (Original certificate 
+date). 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  Telephone (301) 975-6776; fax (301) 926-4751, e-mail srminfo@nist.gov, or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 2395  
+
+Page 7 of 7 
+
+

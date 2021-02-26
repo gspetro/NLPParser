@@ -1,0 +1,251 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Report of Investigation 
+Reference Material 8445 
+ 
+Spray-Dried Whole Egg for Allergen Detection 
+
+ 
+This Reference Material (RM) is intended primarily for use in evaluating test kits for determination of the presence of 
+allergenic egg proteins.  This material provides a common matrix to the allergen research community, who may wish 
+to conduct studies using a single broadly available material.  RM 8445 was prepared by representatives from the Food 
+Allergy Research and Resource Program (FARRP), Food Products Association (FPA), Health Canada, Institute for 
+Reference Materials and Measurements (IRMM), and U.S. Food and Drug Administration (FDA) Center for Food 
+Safety and Applied Nutrition (CFSAN).  This group is the sole authority for all of the information provided in this 
+report, including the reference value and other technical information.  A unit of RM 8445 consists of a single bottle 
+containing 5 g of material. 
+ 
+Reference Mass Fraction Value:  A reference mass fraction value for protein is provided in Table 1.  A reference 
+value is a noncertified value that is the best estimate of the true value based on available data; however, the value does 
+not meet the NIST criteria for certification [1] and is provided with an associated uncertainty that may not include all 
+sources  of  uncertainty.    The  reference  value  in  this  material  is  the  mean  of  three  measurements;  the  associated 
+uncertainty is the expanded uncertainty at the 95 % level of confidence [2,3].  Values are reported on an “as-received” 
+basis in mass fraction units [4]. 
+ 
+Expiration  of  Value  Assignment:    RM 8445  is  valid,  within  the  measurement  uncertainty  specified,  until 
+15 June 2024, provided the RM is handled and stored in accordance with the instructions given in this report (see 
+“Instructions  for  Storage  and  Use”).    The  report  is  nullified  if  the  RM  is  damaged,  contaminated,  or  otherwise 
+ninated,  or  otherwise 
+modified. 
+ 
+Maintenance of RM Value Assignment:  The characterizing agencies will monitor representative samples of this 
+RM over the period of its value assignment.  If substantive technical changes occur that affect the value assignment 
+before the expiration of this report, NIST will notify the purchaser.  Registration (see attached sheet or register online) 
+will facilitate notification. 
+ 
+Nebraska 
+The protein in RM 8445 was determined by the Department of Food Science and Technology, University of Nebraska 
+(Lincoln, NE).   
+ 
+Technical  and  support  aspects  involved  in  the  preparation  and  issuance  of  this  RM  were  coordinated  by 
+K.E. Sharpless, currently in the NIST Special Programs Office. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Materials.
+Support aspects involved in the issuance of this RM were coordinated through the NIST Office of Reference Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Report Issue Date:  21 March 2019 
+Report Revision History on Last Page. 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos. A Gonzalez, Chief 
+Chemical Sciences Division 
+
+Jniversity  of 
+
+M 
+
+  
+
+RM 8445 
+
+Page 1 of 3 
+
+in 
+
+STORAGE  AND 
+
+NOTICE AND WARNING TO USERS 
+ 
+Warning:  For laboratory use only.  Not for human or animal consumption.  This  material is  meant to serve as a 
+reference material for comparing analytical methods with the following understanding:  (1) that the use of eggs from 
+different  sources  may  have  different  compositions,  and  (2) if  the  material  is  subjected  to  various  forms  of 
+preparation/processing, (i.e., baking, boiling, frying) the composition and properties of the material may change. 
+ 
+) 
+INSTRUCTIONS FOR STORAGE AND USE(1) 
+ 
+Storage:  This RM, in an unopened container, should be stored at −20 °C in a desiccator or sealed plastic container 
+that contains desiccant. 
+ 
+The unopened bottle should be allowed to warm to room temperature (23 °C ± 2 °C) immediately prior to use.  The 
+egg powder should not be irradiated or treated in any way that might alter the proteins present.  A homogeneous stock 
+solution  containing  an  egg  powder  concentration  of  100 mg/mL  in  phosphate-buffered  saline (PBS)  should  be 
+prepared  using  a  Potter-Elvehjem  tissue  grinder.    This  stock  solution  should  be  further  diluted  in  PBS  for  use  in 
+evaluation of test kits and treated as a sample according to recommended extraction procedures.  Samples containing 
+<1 μg/mL egg powder not subjected to extraction may require the addition of an additive such as 0.1 % Tween−20 or 
+bovine serum albumin. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Source  and  Preparation  of Material:    Spray-dried  whole  egg  powder  (Henningsen  Foods,  Omaha, NE)  without 
+oroximately
+additives or stabilizers was packaged by FDA CFSAN in plastic, screw-cap bottles, each containing approximately 
+5 g of material.  
+ 
+Analysis:  Nitrogen was measured using a Leco protein analyzer (Dumas) on two sets of samples, with analysis of 
+sets separated by several months.  Results were converted to protein using a conversion factor of 6.25. 
+ 
+
+n  analyzer 
+
+(He 
+
+1y- 
+
+Table 1.  Reference Mass Fraction Value for Protein in RM 8445(a) 
+
+Mass  Fraction 
+
+RM 
+
+ 
+
+ 
+
+Total Protein 
+
+Mass Fraction 
+(%) 
+± 
+
+48 
+
+1 
+
+ 
+
+(a) The reference concentration value, expressed as a mass fraction on an as-received basis, is the mean of two sets of analyses for 
+nitrogen by the University of Nebraska’s Department of Food Science and Technology.  The uncertainty in the reference value, 
+calculated according to the method described in the ISO/JCGM Guides [2,3], is expressed as an expanded uncertainty, U.  The 
+expanded uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one standard deviation, the within- 
+and between-set component of uncertainty.  The coverage factor (k) is determined from the Student's t-distribution corresponding 
+to the appropriate associated degrees of freedom and approximately 95 % confidence.  The measurand is the total mass fraction 
+of total protein as determined by the methods indicted and the value listed is metrologically traceable to the SI unit of mass 
+fraction in percent on an as-received basis. 
+
+                                                           
+
+(1) Certain commercial equipment, instruments, or materials are identified in this report in order to adequately specify the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+RM 8445 
+
+Page 2 of 3 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed Mar 2019). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Mar 2019); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Mar 2019). 
+Levenson, M.S.;  Banks, D.L.;  Eberhardt, K.R.;  Gill, L.M.;  Guthrie, W.F.;  Liu, H.-K.;  Vangel, M.G.; 
+Yen;, J.H.;  Zhang, N.F.;  An  Approach  to  Combining  Results  From  Multiple  Methods  Motivated  by  the  ISO 
+GUM; J. Res. Natl. Inst. Stand. Technol., Vol. 105; p. 571 (2000). 
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+Publication 811;  U.S.  Government  Printing  Office:  Washington, DC 
+at 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Mar 2019). 
+
+available 
+
+(2008); 
+
+[4] 
+
+[3] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Report  Revision  History:    21 March 2019 (Change  of  expiration  date;  editorial  changes);  30 December 2013  (Change  of  expiration  date; 
+editorial changes); 17 January 2008 (Original report date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+; 
+telephone 
+- 
+(301) 
+accomplished  by  contacting 
+fax  (301) 948-3730;  e-mail 
+telephone  (301) 975-2200; 
+'s:-//www.nist.gov/srm
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+RM 8445 
+
+Page 3 of 3 
+
+

@@ -1,0 +1,927 @@
+﻿ 
+
+oor 
+Ne  ; 
+
+Srares  oe
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material® 2243 
+
+ 
+
+ 
+
+ 
+Relative Intensity Correction Standard for  
+Raman Spectroscopy: 488 nm and 514.5 nm Excitation 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  a  certified  spectroscopic  standard  for  the  correction  of  the  relative 
+intensity  of  Raman  spectra  obtained  with  instruments  employing  either  488  nm  or  514.5  nm  laser  excitation.  
+SRM 2243 consists of an optical glass that emits a broadband luminescence spectrum when excited with either of 
+these  two  laser  wavelengths.    The  relative  spectral  intensity  of  the  glass  luminescence,  for  each  excitation 
+wavelength, has been determined through the use of a white-light, uniform-source, integrating sphere that has been 
+calibrated  for  its  irradiance  at  NIST.    The  shape  of  the  luminescence  spectrum  of  this  glass  is  described  by  a 
+polynomial expression that relates the relative spectral intensity to the wavenumber (cm–1) expressed as the Raman 
+shift  from  the  excitation  laser  wavelength.    This  polynomial,  together  with  a  measurement  of  the  luminescence 
+spectrum of the standard, can be used to determine the spectral intensity-response correction that is unique to each 
+Raman system.  The resulting instrument-intensity-response correction may then be used to obtain Raman spectra 
+that are instrument independent.  
+ 
+This SRM is the third in a series of SRM’s (2241, 2242, 2243) that provide relative intensity correction for Raman 
+spectrometers  employing  lasers  commonly  used  for  Raman  spectroscopy.    This  SRM  is  intended  for  use  in 
+measurements over the range of 20 °C to 25 °C. 
+ 
+Certification:    The  polynomials  describing  the  relative  luminescence  spectrum  of  SRM  2243  as  a  function  of 
+excitation wavelength are given in Tables 1 and 2. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2243  is  valid  until  01  January  2014,  within  the 
+measurement  uncertainties  specified,  provided  the  SRM  is  handled  and stored  in  accordance with  the  instructions 
+given in this certificate (see “Instructions for Use”).  The certification is nullified if the SRM is physically damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive changes occur that affect the certification before the expiration of this certificate, NIST will notify the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Production and certification of this SRM were performed by S.J. Choquette, W.S. Hurst, and D.H. Blackburn of the 
+NIST Chemical Science and Technology Laboratory.   
+ 
+The SRM units were cut and polished by J. Fuller of the NIST Fabrication Technology Division. 
+ 
+Statistical consultation was provided by S.D. Leigh and N.A. Heckert of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 June 2009 
+See Certificate Revision History on Last Page 
+ 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+SRM 2243  
+
+Page 1 of 8 
+
+Table 1.  Coefficients of the Certified Polynomiala and of the Relative ± 2σ Confidence Curvesb 
+Describing the Luminescence Spectrum of SRM 2243 for 488 nm excitation. 
+(Valid for Temperatures of 20 °C to 25 °C) 
+ 
+
+Polynomial 
+Coefficient 
+
+Certified Value 
+Polynomial 
+Coefficientc 
+
+Polynomial Coefficientc 
+of the Relatived 
+± 2σ Confidence Curvesb 
+
+Table 2.  Coefficients of the Certified Polynomiala and of the Relative ± 2σ Confidence Curvesb 
+Describing the Luminescence Spectrum of SRM 2243 for 514.5 nm excitation. 
+(Valid for Temperatures of 20 °C to 25 °C) 
+ 
+
+A0 
+
+A1 
+
+A2 
+
+A3 
+
+A4 
+
+A5 
+
+A6 
+
+A0 
+
+A1 
+
+A2 
+
+A3 
+
+A4 
+
+A5 
+
+A6 
+
+Polynomial 
+Coefficient 
+
+20 °C  to 25 °C  
+
++ 2σ CC 
+
+– 2σ CC 
+
+6.914 6 E–03 
+
+0.049 033 7 
+
+–0.049 033 7 
+
+0 
+
+–1.084 59 E–04 
+
+1.084 59 E–04 
+
+6.066 55 E–08 
+
+1.202 87 E–07 
+
+–1.202 87 E–07 
+
+–6.115 22 E–11 
+
+–7.498 51 E–11 
+
+7.498 51 E–11 
+
+5.754 29 E–14 
+
+2.650 81 E–14 
+
+–2.650 81 E–14 
+
+–1.569 01 E–17 
+
+–4.646 92 E–18 
+
+4.646 92 E–18 
+
+1.284 18 E–21 
+
+3.096 85 E–22 
+
+–3.096 85 E–22 
+
+20 °C  to 25 °C  
+
++ 2σ CC 
+
+– 2σ CC  
+
+Certified Value 
+Polynomial 
+Coefficientc 
+
+–0.024 4612 
+
+3.176 90 E–04 
+
+–4.847 06 E–07 
+
+4.900 77 E–10 
+
+–1.703 40 E–13 
+
+2.385 45 E–17 
+
+–1.169 21 E–21 
+
+Polynomial Coefficientc 
+of the Relatived 
+± 2σ Confidence Curvesb 
+
+0.028 485 8 
+
+–0.028 485 8 
+
+–3.178 86 E–05 
+
+3.178 86 E–05 
+
+1.081 68 E–08 
+
+–1.081 68 E–08 
+
+–1.499 80 E–12 
+
+1.499 80 E–12 
+
+1.934 33 E–15 
+
+–1.934 33 E–15 
+
+–7.062 38 E–19 
+
+7.062 38 E–19 
+
+6.877 58 E–23 
+
+–6.877 58 E–23 
+
+ 
+ 
+
+ 
+
+a  A NIST certified value represents data, reported in a SRM certificate, for which NIST has the highest confidence in its accuracy in that all known 
+
+or suspected sources of bias have been fully investigated or accounted for by NIST [1].  
+b  The confidence curves were calculated point-by-point using the uncertainty analysis of [2]. 
+c  Where ISRM(Δυ = A0 + A1 × (Δυ)1 + A2 × (Δυ)2 + A3 × (Δυ)3 + A4 × (Δυ)4 + A5 × (Δυ)5 + A6 × (Δυ)6; for Δυ = 200 cm–1 to 4800 cm–1 and is in 
+
+units of photons sec–1 cm–2 (cm–1) –1 
+
+d  Relative ± 2σ Confidence Curve(Δυ) calculated as ± 2σ Confidence Curve(Δυ)/ISRM(Δυ). 
+
+SRM 2243  
+
+Page 2 of 8 
+
+listed 
+
+in  Table  1. 
+
+  The  spectrum  and 
+
+ 
+(95% CC) = ISRM(Δυ)  +  (± relative 2σ CC (Δυ) × ISRM(Δυ) 
+
+ 
+Certified Values:  A NIST certified value [1] represents a value derived from data reported in an SRM certificate 
+for which NIST has the highest confidence in its accuracy to the extent that all known or suspected sources of bias 
+have been fully investigated or accounted for by NIST.  The certified values of the coefficients of the sixth-order 
+polynomial describing the shape of the luminescence spectrum of SRM 2243, excited at 488 nm (20 492.35 cm–1), 
+are 
+its  associated  expanded  uncertainty  [3]  (relative  ±  2σ 
+confidence curves (CC)) are shown in Figures 1 and 2.  The dependent variable of this polynomial expression is the 
+relative  spectral  intensity  of  the  luminescence.    The  independent  variable  of  this  polynomial  is  the  wavenumber 
+expressed in units of Raman shift (cm–1) from the laser excitation wavelength of 20 492.35 cm–1.  This polynomial is 
+certified to describe the luminescent response of the SRM when it is measured between the temperatures of 20 °C to 
+25 °C.  This polynomial certifies the shape of the luminescence spectrum between 200 cm–1 and 4800 cm–1 Raman 
+shift for excitation of this SRM with a 488 nm laser.   
+ 
+The  certified  values  of  the  coefficients  of  the  sixth-order  polynomial  describing  the  shape  of  the  luminescence 
+spectrum of SRM 2243, excited at 514.5 nm (19 435.18 cm–1), are listed in Table 2.  The spectrum and its associated 
+expanded  uncertainty  [3]  (relative  ±  2σ  confidence  curves  (CC))  are  shown  in  Figures  3  and  4.    The  dependent 
+variable  of  this  polynomial  expression  is  the  relative  spectral  intensity  of  the  luminescence.    The  independent 
+variable  of  this  polynomial  is  the  wavenumber  expressed  in  units  of Raman  shift  (cm–1)  from  the  laser  excitation 
+wavelength of 19 435.18 cm–1.  This polynomial is certified to describe the luminescent response of the SRM when 
+it is measured between the temperatures of 20 °C to 25 °C.  This polynomial certifies the shape of the luminescence 
+spectrum between 200 cm–1 and 4800 cm–1 Raman shift for excitation of this SRM with a 514.5 nm laser. 
+ 
+Certification  Uncertainty:  The  coefficients  of  the  polynomials  that  express  the  expanded  uncertainty 
+(the relative ± 2σ confidence  curves)  of  the  certified  polynomial  of  ISRM(Δυ)  are  listed  in  Tables  1  and  2.    The 
+relative  ± 2σ  Confidence  Curves(Δυ)  are  calculated  as  ± 2σ  Confidence  Curve(Δυ)  /  ISRM(Δυ).    To  calculate  the 
+upper and lower 95 % confidence curves for the luminescence spectrum of SRM 2243, use the formula: 
+ 
+ 
+ 
+The relative ± 2σ confidence curves, as calculated from the coefficients of Tables 1 and 2, are shown in Figures 2 
+and 4.  The calculated upper and lower 95 % CC are shown in Figures 1 and 3. 
+ 
+The  confidence  curves  were  calculated  by  applying  the  point-by-point  uncertainty  analysis  of  [2]  to  the  fitted 
+polynomial.    This  method  was  used  to  evaluate  the  uncertainties  of  the  shape  of  the  luminescence  spectrum  of 
+SRM 2243  based  on  measurements  using  three  different  instruments.    Components  of  the  uncertainty  include  the 
+uncertainty in the white-light, uniform-source, integrating sphere irradiance calibration and various systematic errors 
+from the operation of the Raman instruments used in the measurements.  Careful measurements of the glass have 
+shown  it  to  be  spatially  homogeneous  in  spectral  luminescence.    No  significant  changes  in  the  shape  of  the 
+luminescence spectrum occur over the range of laser power densities commonly used in Raman instruments.    
+ 
+Physical Description:  SRM 2243 is a manganese-doped (0.15 wt % MnO2) borate matrix glass.  Each unit of this 
+SRM consists of a glass slide that is approximately 10.7 mm in width × 30.4 mm in length × 2.0 mm in thickness, 
+with one surface optically polished and the opposite surface ground to a frosted finish using a 400 grit polish.  The 
+frosted  surface  of  the  slide  is  characterized  by  a  surface  average  roughness  (root-mean-square)  in  the  range  of 
+1.30 μm to 1.49 μm, as determined by stylus profilometry [4].  The slide is held in a 12.5 mm square cuvette-style 
+optical  mount.    This  mount  is  designed  for  the  typical  12.5  mm  sampling  accessories  widely  used  in  chemical 
+spectroscopy,  i.e.,  absorbance,  fluorescence,  etc.    This  mount  can  easily  be  placed  on  its  side  for  use  on  a 
+microscope stage.  The mount holds the glass slide, frosted side up, in place with a clip.  The glass slide extends 
+approximately 0.3 mm above the sides of the mount to allow its use with close focus objectives.   
+ 
+Measurement Conditions:  The certification measurements of the luminescence spectrum of SRM 2243 were made 
+using  three  Raman  spectrometers.    One  was  a  commercial  Raman  microscopy  system,  while  the  other  two  used 
+commercial 0.5 m focal length spectrometers designed for array detectors. Each had its own dedicated, line-tuneable 
+argon ion laser.   All Raman systems were operated in a 180° backscattering geometry.  The collection optics ranged 
+from short focus objective lenses (microscope system) to an achromatic 200 mm focal length collection lens.  The 
+x-axis  of  each  spectrometer  was  calibrated  for  wavelength  using  a  neon  emission  pen  lamp.    The  y-axis  (relative 
+spectral intensity) of each system was calibrated with a white-light, uniform-source, integrating sphere that had been 
+calibrated for irradiance at NIST.  The spectral resolution of the systems ranged from approximately 3 cm–1 to 6 cm–
+1 as measured by the full-width-at-half-maximum of the neon emission lines.  All certification data were acquired at 
+nominal room temperature (21°C  ±  1°C ). 
+ 
+ 
+
+SRM 2243  
+
+Page 3 of 8 
+
+ 
+INSTRUCTIONS FOR USE  
+ 
+SRM  2243  is  used  to  provide  Raman  spectra  corrected  for  relative  intensity.    This  requires  a  measurement  of  its 
+luminescence  spectrum  on  the  Raman  instrument  and  then  a  mathematical  treatment  of  both  this  observed 
+luminescence spectrum and the observed Raman spectrum of the sample.   
+ 
+For  proper  use  of  this  procedure,  attention  must  be  paid  to  the  following  experimental  conditions.    Due  to 
+polarization effects that are present in Raman instrumentation, a polarization scrambler should be employed in the 
+Raman  light-collection  optics,  most  preferably  in  a  region  of  collimated  light.    Raman  spectral  bands  that  exhibit 
+various degrees of polarization will not be properly intensity-corrected without the use of a scrambler.  To acquire 
+the luminescence spectrum of SRM 2243, the surface of the glass should be placed at the same position from which 
+the  Raman  spectrum  of  the  sample  is  collected.    It  is  important  that  the  laser  excitation  be  incident  only  on  the 
+frosted surface of the glass.  The shape of the spectral luminescence will have some sensitivity to the placement of 
+the  glass  surface  relative  to  the  collection  optics  of  the  spectrometer,  which  is  minimized  by  scattering  from  the 
+frosted surface.  Measurement conditions should be arranged to furnish a spectrum of optimum signal-to-noise ratio.  
+The luminescence spectrum should be acquired over the same Raman range as that of the sample. 
+ 
+The relative intensity of the measured Raman spectrum of the sample can be corrected for the instrument-specific 
+response  by  a  computational  procedure  that  uses  a  correction  curve.    This  curve  is  generated  using  the  certified 
+polynomial  and  the  measured  luminescence  spectrum  of  the  SRM  glass.    For  the  spectral  range  of  certification, 
+Δυ  =   200  cm–1  to  4800 cm–1,  compute  the  elements  of  the  certified  relative  spectral  intensity  of  SRM  2243, 
+ISRM(Δυ), according to equation 1: 
+  
+ 
+ 
+where (Δυ) is the wavenumber in units of Raman shift (cm–1) and the An’s are the coefficients listed in Tables 1 or 2.  
+The  elements  of  ISRM(Δυ)  are  obtained  by  evaluating  equation  1  at  the  same  data  point  spacing  used  for  the 
+acquisition of the luminescence spectrum of the SRM and of the Raman spectrum of the sample.  ISRM(Δυ) has been 
+normalized to unity and is a relative unit expressed in terms of photons sec–1cm–2(cm–1)–1, or alternatively:  
+
+ISRM(Δυ)  =  A0  +  A1    (Δυ)1  +  A2  ×  (Δυ)2  +  A3  ×  (Δυ)3  +  A4  ×  (Δυ)4  +  A5  ×  (Δυ)5 + A6 ×  (Δυ)6 
+
+(1) 
+
+Photons 
+sec × cm–1 × cm2 
+
+(2) 
+
+ICORR(Δυ)  =  ISRM(Δυ) / SSRM(Δυ). 
+
+SCORR(Δυ)  =  SMEAS(Δυ)  ×  ICORR(Δυ) 
+
+The data sets that are the measured glass luminescence spectrum, SSRM, and the measured Raman spectrum of the 
+sample, SMEAS, must have the units of Raman shift (cm–1).  The elements of the correction curve ICORR(Δυ), defined 
+by equation 2, are obtained from ISRM(Δυ) and the elements of the glass luminescence spectrum, SSRM(Δυ) according 
+to equation 2: 
+ 
+ 
+The elements of the intensity-corrected Raman spectrum, SCORR(Δυ), are derived by multiplication of the elements of 
+the  measured  Raman  spectrum  of  the  sample,  SMEAS(Δυ),  by  the  elements  of  the  correction  curve  according  to 
+equation 3: 
+ 
+ 
+In  measurements  with  a  dispersive  spectrometer,  the  x-axis  is  directly  related  to  the  wavelength  (nm)  of  the 
+measured spectrum.  The transformation from the wavelength scale to the Raman shift scale requires a multiplicative 
+factor  of  λ2  be  applied  to  the  relative  intensity.    The  certified  relative  spectral  intensity  polynomial,  ISRM(Δυ), 
+includes  this  λ2 factor.    As  a  result  of  equations 1  through  3,  the  elements  SMEAS(Δυ)  and  SSRM(Δυ)  may  either 
+include this λ2 factor or not, so long as it is consistently applied, since it will cancel out if it is included.  A detailed 
+description of this procedure for the intensity correction of Raman spectra can be found in references 5 and 6. 
+ 
+The polynomial expression, equation 1, is certified for use between 200 cm–1 and 4800 cm–1.  This is the spectral 
+range  common  to  the  three  instruments  used  for  the  certification.    The  polynomial  fits  are  intended  as  simple 
+numerical  descriptors  of  the  spectral  response  observed  over  the  wavenumber  range  studied.    They  are  NOT 
+intended for use in extrapolation; in fact, such use is strongly discouraged.  Nor are these fits intended as physically 
+meaningful  models.    Additional  studies  have  measured  the  luminescence  of  SRM  2243  from  –1000  cm–1  and 
+7000 cm–1 Raman shift from the respective laser excitation wavelength.  The relative intensity corrected spectra of 
+SRM 2243 for the extended range is shown in Figure 5.  This figure is provided for information purposes only.   
+The  polynomial  coefficients  listed  in  Tables  1  or  2  can  not  be  used  to  extrapolate  the  certification  to  this 
+extended range without incurring significant error.  Extrapolation of the polynomial outside the certification 
+limits of 200 cm–1 and 4800 cm–1 is not a supported use of this SRM. 
+
+(3) 
+
+SRM 2243  
+
+Page 4 of 8 
+
+   
+If  additional  information  regarding  the  extended  luminescence  of  this  SRM  is  desired,  please  contact  NIST  [7].  
+Certified values of the polynomial coefficients given in Tables 1 or 2 are for use at temperatures between 20 °C to 
+25 °C.   
+ 
+Use of this SRM at temperatures other than the certification temperature is not currently supported.  However, the 
+temperature response of this SRM has been studied between the ranges of 5 °C and 60 °C.  Unlike previous SRM’s 
+in this series, the white light corrected and normalized luminescence spectra of SRM 2243 does not demonstrate a 
+temperature dependence. 
+ 
+This SRM is not intended for use as a standard for the determination of absolute spectral irradiance or radiance. 
+ 
+Handling and Storage:  To maintain the certified properties of SRM 2243, the glass slide should be handled only in 
+its mount.  When not in use, the SRM should be stored in the container provided or in one providing comparable 
+mechanical protection.  
+ 
+Luminescence  Spectrum on  the  Wavelength Scale:    The  equation  describing  the  luminescence  spectrum  of  the 
+glass SRM is given in equation 1, where (Δυ) is the wavenumber in units of Raman shift (cm–1).  For correction of 
+spectra where the x-axis is in wavelength with units of nanometers, the same polynomial coefficients can be used to 
+calculate ISRM(λ) through the following coordinate transformation: 
+ 
+ 
+ 
+where: 
+
+ISRM(λ) = [107/λ2]  ×  [A0  +  A1  ×  Z1  +  A2  ×  Z2  +  A3  ×  Z3  +  A4  ×  Z4  +  A5  ×  Z5 + A6 ×  Z6 ] 
+
+(6) 
+
+ 
+
+Z = 107  ×  [(1.0/λL)  –  (1.0/λ)] 
+
+(7) 
+
+  
+and λL is the wavelength of the laser in nm and λ is the wavelength in nanometers.  The factor of 107 in the first term 
+of equation 6 is needed only if it is desired to preserve the numerical value of spectral areas computed relative to the 
+two x-axis coordinate systems.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2243  
+
+Page 5 of 8 
+
+ 
+
+  
+
+y
+t
+i
+s
+n
+e
+t
+n
+
+I
+ 
+e
+v
+i
+t
+a
+l
+e
+R
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+  
+
+0.06
+
+0.04
+
+0.02
+
+0.00
+
+-0.02
+
+-0.04
+
+)
+ν
+Δ
+(
+
+M
+R
+S
+ 
+I
+ 
+/
+ 
+
+ 
+
+C
+C
+σ
+2
+ 
+±
+
+Certified Polynomial I  SRM(Δν)
+95 % Confidence Curves
+Laser excitation:  488 nm
+
+  
+
+0
+
+  
+
+5000
+
+4000
+
+3000
+2000
+Raman shift (cm -1)
+
+1000
+
+ 
+Figure  1.    Sixth-order  certified  polynomial  for  SRM  2243  when  excited  at  488  nm.    The  x-axis  is  expressed  in 
+Raman shift (cm–1) relative to 488 nm (20 492.35 cm–1).  The y-axis is on a relative scale and normalized to unity 
+with the dimensions of photons s–1cm–2(cm–1)–1.  Dashed lines indicate 95 % confidence curves. 
+ 
+ 
+
+  
+
+Relative  ± 2 σ Confidence Curves
+Laser excitation:  488 nm
+
+ 
+    
+
+3000
+2000
+Raman shift (cm -1)
+
+1000
+
+0
+
+-0.06
+
+5000
+
+4000
+
+ 
+Figure  2.    Relative  ± 2σ  confidence  curves  describing  the  luminescence  spectrum  of  SRM 2243.    The  two  solid 
+black  curves  represent  for  SRM  2243  at  room  temperature,  respectively,  the  quotient  ±  2σ  CC/  ISRM(Δυ).    The 
+certified polynomial is valid over the temperature range of 20 °C to 25 °C.  The x-axis is Raman shift (relative to 
+488 nm, 20 492.35 cm–1 laser excitation).   
+
+  
+
+SRM 2243  
+
+Page 6 of 8 
+
+ 
+
+ 
+ 
+
+Certified Polynomial I  SRM(Δν)
+95 % Confidence Curves
+Laser excitation:  514 nm
+
+ 
+ 
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+y
+t
+i
+s
+n
+e
+t
+n
+
+I
+ 
+e
+v
+i
+t
+a
+l
+e
+R
+
+ 
+ 
+
+5000
+
+4000
+
+1000
+
+0
+
+3000
+2000
+Raman shift (cm -1)
+
+ 
+Figure 3: Sixth-order certified polynomial for SRM 2243.  The x-axis is expressed in Raman shift (cm–1) relative to 
+514.5 nm (19 435.18 cm–1).  The y-axis is on a relative scale and normalized to unity with the dimensions of photons 
+s–1cm–2(cm–1)–1.  Dashed lines indicate 95 % confidence curves. 
+ 
+ 
+ 
+
+Relative  ± 2 σ Confidence Curves
+Laser excitation:  514 nm
+
+ 
+
+  
+ 
+
+ 
+
+0.02
+
+0.04
+
+0.00
+
+0.06
+
+-0.02
+
+ 
+ 
+
+C
+C
+
+σ
+2
+±
+
+)
+ν
+Δ
+(
+M
+R
+S
+ 
+I
+ 
+/
+ 
+
+ 
+ 
+
+ 
+
+-0.06
+
+-0.04
+
+5000
+
+4000
+
+1000
+
+0
+
+3000
+2000
+Raman shift (cm -1)
+
+Figure 4. Relative ± 2σ confidence curves describing the luminescence spectrum of SRM 2243.  The two solid black 
+curves represent for SRM 2243 at room temperature, respectively, the quotient ± 2σ CC/ ISRM(Δυ).  The certified 
+polynomial is valid over the temperature range of 20 °C to 25 °C.  The x-axis is Raman shift (relative to 514.5 nm, 
+19 435.18 cm–1 laser excitation).   
+ 
+
+ 
+ 
+
+ 
+ 
+
+SRM 2243  
+
+Page 7 of 8 
+
+y
+t
+i
+
+s
+n
+e
+t
+n
+
+I
+ 
+
+e
+v
+
+i
+t
+a
+
+l
+
+e
+R
+
+1.20
+
+1.00
+
+0.80
+
+0.60
+
+0.40
+
+0.20
+
+0.00
+
+ 
+v
+
+ 
+|
+
+ 
+v
+
+ 
+|
+
+ 
+v
+
+ 
+|
+
+ 
+v
+
+ 
+|
+
+ 
+v
+
+ 
+\
+
+ 
+t
+
+  
+
+  
+
+488 nm
+
+514 nm
+
+  
+
+  
+
+7000
+
+6000
+
+5000
+
+2000
+
+1000
+
+0
+
+-1000
+
+4000
+
+3000
+Raman shift (cm -1)
+
+ 
+Figure 5.  Extended Range Scan of SRM 2243 when excited by 488 nm or 514.5 nm laser irradiation.  The relative 
+intensity corrected spectra are provided for information purposes only.  
+
+ 
+ 
+ 
+REFERENCES 
+
+ 
+[1]  May,  W.;  Parris,  R.;  Beck,  C.M.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurement;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing 
+available at 
+http://www.cstl.nist.gov/nist839/NIST_special_publications.htm. 
+
+Washington, 
+
+(2000); 
+
+Office: 
+
+DC 
+
+[2]  Levenson, M. S.; Banks, D. L.; Eberhardt, K.R.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; Gill, L.M.; Guthrie, W.F.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105 Number 4, pp. 571-579 (2000).  
+
+[3]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.;  International 
+Organization for Standardization:  Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. 
+Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+[4]  J.F. Wong; T.V. Vorburger, Stylus Profiling at High Resolution and Low Force; Appl. Opt. 30, 42 (1991). 
+[5]  Ray, K.G.; McCreery, R.L.; Simplified Calibration of Instrument Response Function for Raman Spectrometers 
+
+based on Luminescent Intensity Standards; Appl. Spectrosc., Vol. 51(1), pp. 108-116 (1997). 
+
+[6]  Frost,  K.J.;  McCreery,  R.L.;  Calibration  of  Raman  Spectrometer  Response  Function  with  Luminescence 
+
+Standards: An Update; Appl. Spectrosc., Vol. 52, Number 12, pp. 1614-1618 (1998). 
+
+[7]  Additional  information  regarding  this  SRM  and  its  extended  luminescence  spectrum  may  be  obtained  by 
+contacting  Steven  Choquette  at  Steven.Choquette@nist.gov,  301-975-3096,  NIST,  Gaithersburg, 
+MD 20899-8312. 
+
+ 
+ 
+ 
+  
+Certificate Revision History:  11 June 2009 (This revision extends the expiration date with editorial changes); 02 July 2004 (Original certificate 
+   
+date).  
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at: telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+  
+
+SRM 2243  
+
+Page 8 of 8 
+
+

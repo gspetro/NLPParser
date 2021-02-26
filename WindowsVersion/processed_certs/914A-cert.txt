@@ -1,0 +1,153 @@
+﻿ 
+
+a 
+
+ny 
+
+:  Ba  :  National  Institute  of  Standards  &  Cechnologu 
+
+ 
+
+Gertificate  of  Analysis
+
+ 
+
+ 
+Standard Reference Material® 914a 
+ 
+Creatinine 
+ 
+ 
+This Standard Reference Material (SRM) is certified as a chemical of known purity.  It is intended primarily for use 
+in the calibration and standardization of procedures used for determination of creatinine concentration and for routine 
+evaluations of daily working standards used in these procedures.   
+ 
+The certified purity for this SRM is shown below.  The estimated uncertainty of the purity is based upon scientific 
+judgment and statistical analysis of the numerous analytical tests applied to the material in the certification process.   
+ 
+
+99.7    0.3 % 
+
+ 
+Expiration of Certification:  The certification of SRM 914a is valid for 5 years from the date of shipment from 
+NIST, within the measurement uncertainty specified, provided the SRM is handled and stored in accordance with 
+the  instructions  given  in  this  certificate  (see  “Instructions  for  Handling,  Storage,  and  Use”).    The  certification  is 
+nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Contributions to the certification and characterization of this SRM were made by A. Cohen, B. Coxon, S.A. Margolis, 
+and  E. White V  of  the  former  NIST  Organic  Analytical  Research  Division  and  M. Knoerdel,  W.F. Koch, 
+G. Marinenko, and S.F. Stone of the former NIST Inorganic Analytical Research Division. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  the  certification  were  provided  by 
+R. Schaffer of the former NIST Organic Analytical Research Division. 
+ 
+Statistical consultation and analyses were provided by R.C. Paule, formerly of NIST. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+This Certificate of Analysis has undergone editorial revision to reflect program and organizational changes at NIST and 
+at  the  Department  of  Commerce.   No  attempt  was  made  to  reevaluate  the  certificate  values  or  any  technical  data 
+presented on this certificate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  16 December 2015 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzales, Chief 
+Chemical Sciences Division 
+
+ 
+
+SRM 914a 
+
+Page 1 of 2 
+
+NOTICE AND WARNINGS TO USERS  
+ 
+SRM 914a IS INTENDED FOR RESEARCH USE.   
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage:  This SRM should be stored tightly closed, preferably in its original container, at room temperature (30 C 
+or less).  It should not be subjected to heat or direct sunlight during storage.  Refrigerated storage is recommended.  
+ 
+Use:  We do not recommend heat and/or vacuum treatment for reducing the water content of the material.  A "stock" 
+standard  solution  containing  1 mg/mL  of  creatinine  may  be  prepared  by  weighing  0.1003 g  of  SRM 914a  into  a 
+100 mL  volumetric  flask,  filling  the  flask  nearly  to  the  mark  with  0.1 mol/L  hydrochloric  acid,  agitating  until 
+dissolution of the creatinine is achieved, followed by filling the flask to the mark with 0.1 mol/L hydrochloric acid.  
+This solution  should be stored in a refrigerator.  A "working" standard containing 20 μg/mL of creatinine  may be 
+prepared by diluting 2.0 mL of the "stock" standard solution to 100 mL with distilled water in a volumetric flask [1].  
+This "working" standard solution should be prepared daily. 
+ 
+Stability of Prepared Solutions:  The "stock" standard solution containing 1 mg/mL, prepared as described above, 
+is stable indefinitely when stored in a refrigerator at 4 C in a well-stoppered, all-glass container.  The dilute "working" 
+standard solution should be prepared daily from the "stock" standard solution [2]. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+The  homogeneity  of  the  SRM  was  measured  by  acidimetric  titration.    Purity  of  the  SRM  was  determined  by  an 
+evaluation of both the results of acidimetric titration and the results of a number of analytical procedures to detect and 
+measure potential impurities in the SRM.  A number of additional analyses, which provide values of components of 
+the  material  were  performed  to  characterize  the  material.    These  are  described  below  and  are  provided  for 
+informational purposes only. 
+ 
+The following values are not certified but are provided as they may be of interest to the user of this SRM.  Moisture 
+was determined by Karl Fischer titration to be 0.07 % by weight.  The total ash of the material was 0.002 %.  Insoluble 
+matter upon dissolution in water was 0.005 %.  Soluble chloride by ion chromatography was 0.0014 %; total chloride 
+by neutron activation analysis was approximately 0.002 %.  Nuclear magnetic resonance spectroscopy detected no 
+impurities except methanol at 0.003 %.  Elemental analysis by neutron activation analysis indicates, in addition to 
+chloride,  the  presence  of  the  following  elements  at  the  indicated  approximate  levels:    Na,  0.4 μmol/mole; 
+Mg, 3 μmol/mole; Al, 0.4 μmol/mole; K, 4 μmol/mole; Mn, 0.02 μmol/mole; Cu, 0.4 μmol/mole; Cr, 0.1 μmol/mole; 
+Fe, 1.5 μmol/mole; Co, 0.2 μmol/mole; and Zn, 0.2 μmol/mole.    
+ 
+ 
+
+ 
+REFERENCES 
+
+ 
+[1]  Tietz, N.W., Fundamentals of Clinical Chemistry, W.B. Saunders Co., Philadelphia, PA, pp. 722-726 (1970). 
+[2]  Henry, R.D., Clinical Chemistry, Principles and Techniques, Hoeber Medical Division, Harper & Row, New 
+
+York, NY, pp. 292-302 (1967) 
+
+ 
+ 
+Certificate  Revision  History:    16 December 2015  (Editorial  changes);  08 February 1994  (Editorial  changes);  01 October 1984  (Original 
+certificate issue date).  
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 914a 
+
+Page 2 of 2 
+
+

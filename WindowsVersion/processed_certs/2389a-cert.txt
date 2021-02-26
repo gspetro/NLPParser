@@ -1,0 +1,316 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2389a 
+ 
+Amino Acids in 0.1 mol/L Hydrochloric Acid 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  calibration  of  chromatographic 
+instrumentation for the determination of amino acids.  SRM 2389a is a solution of amino acids in a 0.1 mol/L aqueous 
+solution of hydrochloric acid.  A unit of SRM 2389a consists of five 2-mL ampoules, each containing approximately 
+1.2 mL of the solution under argon. 
+ 
+Certified Concentrations of Amino Acids:  The certified concentrations and estimated uncertainties for the 16 amino 
+acids provided in Table 1 are based on the results obtained from the gravimetric preparation of the solutions and from 
+the  analytical  results  determined  using  liquid  chromatography-tandem  mass  spectrometry (LC-MS/MS).    A  NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources  of  bias  have  been  investigated  or  taken  into  account [1].    Values  are  provided  in  mass  fraction  units 
+(milligrams per gram), and, for user convenience, in amount-of-substance concentrations (millimoles per liter) [2].  
+The  amount-of-substance  concentrations  were  calculated  from  the  mass  fraction  values  using  the  density  of  the 
+solution determined at 20 °C (g/mL) and the relative molecular masses of each amino acid.  An allowance for the 
+change in density over the range 18 °C to 23 °C is included in the uncertainty. 
+ 
+Expiration of Certification:  The certification of SRM 2389a is valid, within the measurement uncertainty specified, 
+until 01 January 2024, provided the SRM is handled in accordance with the instructions given in this certificate (see 
+“Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  certification  was  under  the  direction  of  D.M. Bunk, 
+M.S. Lowenthal, and K.W. Phinney of the NIST Biomolecular Measurement Division.   
+ 
+Preparation  of  the  SRM  solution  was  performed  in  the  NIST  Chemical  Sciences  Division  by  L.T. Sniegoski  and 
+M.J. Welch.    Analytical  measurements  were  performed  by  B.S Benford,  formerly  of  NIST,  M.S. Lowenthal,  and 
+B.E. Lang of the NIST Chemical Sciences Division.   
+ 
+Statistical consultations on the experimental design and the evaluation of the data were provided by J.H. Yen of the 
+NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  17 June 2019 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+DM. 
+
+ 
+
+Page 1 of 3 
+
+  
+
+SRM 2389a 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Table 1.  Certified Values for Amino Acids in SRM 2389a 
+ 
+Mass Fraction(a) 
+(mg/g) 
+
+Amino Acid 
+ 
+
+Concentration(b) 
+(mmol/L) 
+
+Alanine 
+Arginine 
+Aspartic acid 
+Cystine 
+Glycine 
+Histidine 
+Isoleucine 
+Leucine 
+Lysine 
+Methionine 
+Phenylalanine 
+Proline 
+Serine 
+Threonine 
+Tyrosine 
+Valine 
+
+0.223  ±  0.007 
+0.436  ±  0.012 
+0.333  ±  0.010 
+0.295  ±  0.013 
+0.189  ±  0.005 
+0.390  ±  0.011 
+0.320  ±  0.015 
+0.319  ±  0.014 
+0.353  ±  0.024 
+0.373  ±  0.011 
+0.421  ±  0.014 
+0.282  ±  0.013 
+0.256  ±  0.012 
+0.296  ±  0.009 
+0.459  ±  0.014 
+0.293  ±  0.012 
+
+2.50  ±  0.07 
+2.51  ±  0.07 
+2.50  ±  0.08 
+1.23  ±  0.06 
+2.52  ±  0.07 
+2.52  ±  0.07 
+2.44  ±  0.11 
+2.44  ±  0.11 
+2.41  ±  0.17 
+2.51  ±  0.07 
+2.55  ±  0.09 
+2.46  ±  0.11 
+2.44  ±  0.11 
+2.49  ±  0.07 
+2.54  ±  0.08 
+2.51  ±  0.10 
+
+(a)  The results are expressed as the certified value ± the expanded uncertainty.  Each result is the average of the gravimetric and 
+the LC-MS/MS means.  The uncertainty provided with each value is an expanded uncertainty about the mean to cover the 
+measurand with approximately 95 % confidence: it expresses both the observed difference between the results from the methods 
+and their respective uncertainties, incorporating uncertainty components for purity correction and gravimetry, consistently with 
+the ISO/JCGM Guide and with its Supplement 1 [3-5].  The certified values are metrologically traceable to the SI-derived unit 
+for mass fraction (expressed as milligrams per gram). 
+
+(b)  The amount-of-substance concentrations (mmol/L) were obtained by multiplying the certified values in mass fraction units by 
+the density of the solution at 20 °C (1.00123 g/mL) and dividing by the relative molecular masses of each of the compounds.  
+These concentrations are for use in the temperature range of 18 °C to 23 °C, and an allowance for the change in density over 
+this temperature range is included in the Type B components of uncertainty. 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material contains 0.1 mol/L hydrochloric acid and should be handled with care.  Use proper disposal 
+methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at approximately 4 °C. 
+ 
+Use:  Prior to removal of the test portion for analysis, the contents of an ampoule of material should be allowed to warm 
+to room temperature (18 °C to 23 °C).  Test portions for use should be withdrawn immediately after opening the ampoules 
+and should be processed or diluted without delay for the certified concentration to be valid within the stated uncertainty.  
+The certified concentration values listed in Table 1 apply only to aliquots removed at 18 °C to 23 °C. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+re  of  the  highest  purity  available  and
+Preparation of Material:  All chemicals used in the preparation of this SRM were of the highest purity available and 
+were obtained from a commercial source.  The amino acid solution was prepared by weighing the individual amino acids, 
+concentrated HCl, and water and mixing until the amino acids were completely dissolved.  The total mass of this solution 
+was measured.  The concentration of each amino acid was calculated using the measured density of the 0.1 mol/L HCl 
+solution at 20 °C of 1.00123 g/mL.  Corrections were made to the calculated amino acid concentrations based on purity 
+as determined by LC with absorbance detection with confirmatory data provided by the manufacturer.  The purity of each 
+amino acid was also evaluated by elemental analysis at Galbraith Laboratories (Knoxville, TN).  Moisture content for all 
+amino acids was determined using Karl Fischer titration at Galbraith Laboratories and for lysine at NIST.  Arginine and 
+
+                                                 
+
+(1)  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  specify  adequately  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 2389a 
+
+ 
+
+Page 2 of 3 
+
+ble 
+
+ts  from  four 
+
+the 
+lysine contained measurable levels of water and values were corrected; correction for moisture was not necessary for the 
+remaining amino acids.   
+ 
+The bulk solution was dispensed in 1.2 mL aliquots into argon-flushed 2-mL amber ampoules that were then flame sealed 
+and stored in numbered boxes at ≈4 oC.  
+ 
+LC-MS/MS  Measurements:    Three  aliquots  from  four  randomly  selected  ampoules  were  analyzed  in  duplicate  by 
+LC-MS/MS on a SIELC (Prospect Heights, IL) Primesep 100 mixed-mode LC column.  Chromatographic separation 
+was  performed  using  microflow  liquid  chromatography  coupled  in-line  to  a  triple  quadrupole  mass  spectrometer 
+equipped with a standard source.  Data were acquired through selected-reaction monitoring of amino acid precursor-
+to-product ion transitions.  Unique isotopically-labeled internal standards were used for quantification of each amino 
+acid.  Internal standards and calibrants were prepared gravimetrically in 0.1 mol/L HCl as stock solutions and were further 
+diluted gravimetrically to working concentrations.  Internal standards were mixed gravimetrically with calibrants and 
+were measured quantitatively by LC-MS/MS to determine the calibration curves.  The same internal standard solution 
+was mixed with aliquots of SRM 2389a and was analyzed in an identical manner.  Mass ratios of SRM 2389a were 
+determined  by  interpolation  of  integrated  peak  area  ratios  through  calibration  curves  created  from  multiple  reaction 
+monitoring analysis of the calibrants. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136  (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF  (accessed June 2019). 
+
+[3] 
+
+[4] 
+
+France 
+
+Sèvres, 
+
+(2008); 
+
+(BIPM), 
+
+available 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at: 
+
+Publication 811;  U.S.  Government  Printing  Office:  Washington, DC 
+https://www.nist.gov/pml/special-publication-811 (accessed June 2019).  
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  June 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297  (accessed June 2019). 
+JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology (BIPM, IEC, IFCC, ILAC, ISO, IUPAC, IUPAP and OIML), International Bureau of Weights and 
+at 
+Measures 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed June 2019). 
+[5]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  17 June 2019 (Removed certified value for glutamic acid; editorial changes); 06 December 2018 (Change of 
+expiration date; editorial changes); 01 July 2010 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+  
+
+   
+
+available 
+
+(2008); 
+
+06 
+
+SRM 2389a 
+
+ 
+
+Page 3 of 3 
+
+

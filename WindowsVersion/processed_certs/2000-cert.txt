@@ -1,0 +1,1793 @@
+﻿ 
+< 
+ 
+e
+o
+
+ent 
+
+OF  Con 
+
+ 
+e
+o
+
+ 
+*
+
+ 
+g
+e
+i
+S
+
+r 
+
+ 
+
+Quantity(a) 
+dSRM 
+
+ξSRM 
+
+SRM 
+xSRM 
+ySRM 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis  
+Standard Reference Material® 2000 
+
+ 
+
+ 
+Calibration Standard for High-Resolution X-Ray Diffraction 
+
+ 
+This  Standard  Reference  Material (SRM)  provides  the  high-resolution  X-ray  diffraction (HRXRD)  community  with 
+International  System  of  Units (SI) [1]  traceable  Si (220) d-spacing  in  transmission,  surface-to-crystal-plane  wafer 
+miscut, and surface-to-Si (004) Bragg angle in reflection for our reference wavelength.  A unit of SRM 2000 consists of 
+25 mm × 25 mm × 0.725 mm  double-polished  (100)-oriented,  single-crystal  Si  specimens  with  a  nominal  50 nm 
+Si0.85Ge0.15 epitaxial layer and 25 nm Si cap.  These certified values can be used to calibrate HRXRD instrumentation. 
+ 
+
+  
+
+  
+
+Certified Value 
+
+Expanded Uncertainty(b), U for k = 2 
+
+  
+
+0.192 016 1  nm (at 22.5 °C) 
+
+0.000 000 9  nm 
+
+Table 1.  Certified Values for SRM 2000 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.360 
+
+–360 
+
+–1.534 
+
+4.0810 
+
+mrad 
+
+mrad 
+
+mrad 
+
+mrad 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.027 
+
+16 
+
+0.072 
+
+0.019 
+
+mrad 
+
+mrad 
+
+mrad 
+
+mrad 
+
+  
+
+θsurface,SRM(004) 
+
+0.604 785 
+
+rad 
+
+0.000 076 
+
+rad 
+
+ 
+
+(a)  The identity of the quantity is defined in Table 2. 
+(b) For uncertainty methods, see [2-4]. 
+ 
+Expiration of Certification:  The certification of SRM 2000 is valid indefinitely, within the uncertainty specified, 
+provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage, and Use”).  Accordingly, periodic recalibration or recertification of this SRM is 
+not required.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see 
+attached sheet) will facilitate this notification. 
+ 
+The overall coordination of the preparation and technical direction of the certification were performed by J.P. Cline of 
+the NIST Ceramics Division.  Realization of the instrumental capability, development of the experimental design, and 
+collection  of  measurement  data  were  performed  by  D. Windover  of  the  NIST  Ceramics  Division.    D.L. Gil,  a  guest 
+researcher for the NIST Ceramics Division, analyzed the data to estimate certified parameters.  Hardware design and 
+alignment procedures were facilitated by A. Henins of the NIST Ceramics Division. 
+ 
+Statistical analysis was provided by J. Filliben of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 March 2012 
+Certificate Revision History on Last Page
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Debra L. Kaiser, Chief 
+Ceramics Division 
+
+ 
+
+Page 1 of 10 
+
+  
+
+SRM 2000 
+
+Supporting  contributions  to  SRM  certification:    K. Bowen  of  Bede  X-ray  Metrology,  Denver, CO,  provided  key 
+advice  in  the  development  of  the  HRXRD  test  structure.    M. Wormington  of  Bede  X-ray  Metrology  and 
+L. Bruegemann  of  Bruker  AXS,  Karlsruhe,  Germany,  provided  supporting  HRXRD  measurements  on  the  SRM 
+feedstock.  D. Black of the Ceramics Division at NIST performed X-ray topographs at the XOR/UNICAT facility at the 
+Advanced  Photon  Source,  Argonne, IL.    R. Gates  of  the  Ceramics  Division  at  NIST  performed  SEM  images  at  the 
+NanoFab Facility of the CNST at NIST.  Applied Materials, Santa Clara, CA, deposited Si1-xGex epitaxial structures as 
+a custom service for NIST. 
+ 
+
+Table 2.  Definitions of the Certified Values for SRM 2000. 
+
+  
+
+  
+
+Quantity 
+dSRM 
+ξSRM 
+SRM 
+xSRM 
+ySRM 
+θsurface,SRM(004) 
+
+Description 
+Si (220) transmission case d-spacing of SRM 2000 
+Magnitude of wafer miscut (polar form) 
+Direction of wafer miscut (polar form) 
+Tilt of wafer miscut in x-plane (Cartesian form) 
+Tilt of wafer miscut in y-plane (Cartesian form)  
+Angle from wafer surface of Si (004) reflection peak 
+
+  
+ 
+Material Description(1):  The specimens were diced from 9 sequential wafers out of a series of 25 type-p, B-doped, 
+200 mm  Czochralski (CZ)  Si  wafers  manufactured  by  ShinEtsu,  SEH  America  Vancouver, WA.    Each  wafer  was 
+deposited with a nominal 25 nm Si surface layer capping a strained, epitaxial, nominal 50 nm Si0.85Ge0.15 thin film on 
+one of the polished substrate surfaces (referred to as the “front” surface) using a Centura RP Epi deposition system by 
+the applications lab at Applied Materials.  HRXRD measurements were performed on 24 areas (4 rows × 6 columns) 
+within  a  150 mm × 100 mm  rectangle  on  each  wafer.    Each  measured  sample  area  was  then  sectioned  into  a 
+25 mm × 25 mm  square  using  a  Disco 341  wafer  dicing  saw  at  the  Center  for  Nanoscale  Science  and  Technology 
+(CNST) at NIST.  Serial numbers (SNs) were then laser-etched onto the back surface of each specimen (see Figure 1 
+for SN convention).  The SN is on the edge of the wafer closest to the wafer notch of the feedstock,  = 0 rad. 
+ 
+ 
+
+0° 
+
+ 
+m
+m
+
+~~ 
+
+12  Olclock 
+
+ 
+0
+0
+.
+5
+  1
+
+r 
+azimuth 
+\ 
+\ 
+
+|_| 
+
+_to 
+
+masuel 
+  
+
+here 
+
+, 
+
+; 
+
+  
+
+Y 
+
+fT 
+
+  
+
+1  xx  yy 
+
+ 
+m
+m
+
+ 
+0
+0
+.
+5
+2
+
+ 
+    
+
+25.00mm 
+
+= 
+
+‘ 
+
+a)  
+
+ 
+
+   
+
+ 
+
+b)  
+
+  
+
++>}  15.00mm 
+
+ 
+
+Figure 1.    (a)  Schematic  of  specimen  back  showing  the  location  of  serial  numbers.    Serial  number 
+convention:  xx = wafer number, yy = specimen position on wafer.  (b) Schematic of specimen front 
+showing azimuth, , convention for miscut orientation. 
+
+ 
+ 
+MEASUREMENT PROCEDURE 
+ 
+D-spacing  and  Bragg  angle  measurements:    The  NIST  approach  for  establishing  SI  traceability  in  HRXRD 
+measurements  uses a Si reference crystal of known d-spacing and compares it to the wafer feedstock values by a 
+difference method to eliminate significant uncertainties arising from a number of systematic errors.  The reference 
+crystal used in this study was cut from a piece of the WASO 04 boule of silicon grown for the Avogadro Project, 
+
+                                                 
+(1)  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 2000 
+
+ 
+
+Page 2 of 10 
+
+spacing  has  been  determined  with 
+
+and  polished  to  a  strain-free  450 μm  thickness  lamella.    The  WASO 04  boule  is  discussed  in  reference [5];  its 
+(220) lattice 
+standard  uncertainty  of 
+uc(ΔdWASO04)/dWASO04 ≤ 610–8  by  the  d  lattice  comparator  at  NIST [6-9].    This  reference  crystal  was  measured 
+after system alignment changes so that wafer feedstock and reference crystal measurements could be paired only for 
+identical system configurations.  The following iterative measurement and analysis approach was followed: 
+
+combined 
+
+relative 
+
+a 
+
+1.  Align HRXRD instrument (see alignment methods [10-14]) 
+2.  Measure Si reference crystal with HRXRD instrument  
+3.  Measure Si wafer feedstock with HRXRD instrument at all sample positions 
+4.  Use reference data to provide SI traceability for wafer measurements.  
+
+Interpretation of a single diffraction measurement on an HRXRD instrument requires substantial knowledge about 
+instrument  alignment  and  goniometer  orientation.    One  way  to  eliminate  some  of  the  uncertainty  resulting  from 
+measuring  instrument-related  parameters  is  to  measure  two  diffraction  features  from  the  same  family  of  planes, 
+ideally  the  non-dispersive  and  dispersive  settings  of  the  same  planes  and  approximately  same  d-spacing  of  the 
+planes used in the instrument’s monochromator.  (For a treatment of dynamical diffraction theory, see references 15 
+and 16).  Our approach uses the (220) family to provide information on the Si substrate d-spacing.  The Bragg angle, 
+θB(220),  can  be  accurately  determined  by  measuring  the  angles  of  the  diffraction  peak  in  each  of  the  crystal’s  two 
+settings.    The angle between  the  diffracting  conditions for  the  sample  will  be  equal  to  2θB(220),  since  a  diffraction 
+peak is observed at both plus, (220)+, and minus, (220)–, the Bragg angle from a [100]-faceted Si crystal.  
+ 
+
+
+
+B(220)
+
+
+
+
+
+meas(220)
+
+meas(220)
+
+
+
+
+
+ 
+2
+
+ 
+
+ 
+
+(1) 
+
+ 
+This approach to measuring d-spacing is commonly known as the Bond method [17-21].  This method is typically 
+used in a reflection geometry, in which corrections for index of refraction and many other effects are necessary [22].  
+In  contrast,  the  reference  crystal  and  SRM  wafer  measurements  have  been  taken  in  a  transmission  geometry  to 
+eliminate  uncertainties  related  to  these  corrections.   The  impact  of  wafer  radius-of-curvature  and strain  effects  on 
+d-spacing  determination  is  largely  unexplored [23-25],  but  such  effects  should  affect  both  certification 
+measurements and subsequent measurements similarly. 
+ 
+Each 200 mm wafer was measured at the 24 central points of the SRM specimens.  At each point, or sample position, a 
+step-scan  was  taken  for  both  the  non-dispersive  and  dispersive  Si (220)  transmission  peaks  and  for  the  Si (004) 
+reflection peak from the Si substrate bulk.  A longer angular range scan of the Si (004) and Si1-xGex (004) reflection 
+peaks was made to measure properties of the epitaxial surface structure.  Table 3 provides the details of these scans.  
+This sequence of scans was performed at least twice at each of the 24 points. 
+ 
+
+Table 3.  Scan Angular Ranges for SRM Measurements. 
+
+Scan Type 
+
+Non-dispersive Si (220) 
+
+Non- dispersive Si (220) setup 
+
+Dispersive Si (220) 
+
+Dispersive Si (220) setup 
+
+Reflection Si (004) 
+
+Reflection Si (004) setup 
+
+Reflection Si (004) long 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+3.4
+
+3.4
+
+3.4
+
+Range (rad) 
+410
+
+310
+
+410
+
+310
+
+410
+
+310
+
+210
+
+
+3.4
+
+3.4
+
+3.4
+
+6.2
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+steps 
+200 
+
+50 
+
+100 
+
+50 
+
+100 
+
+50 
+
+500 
+
+count time (s) 
+2.0 
+
+1.0 
+
+2.0 
+
+1.0 
+
+1.0 
+
+1.0 
+
+5.0 
+
+ 
+ 
+Miscut Measurements:  The measurements used for the certification of dSRM were collected with the wafer notch 
+facing up,  = 0 rad.  The wafers were then rotated to  = /2 rad,  rad, and 3/2 rad orientations.  At least two 
+reflection (004) scans were collected at each azimuthal orientation to determine θ.  Equations 2 and 3 show the 
+calculations used for determining two miscut components, xSRM and ySRM, providing the angles between the polished 
+wafer surface and the Si crystal planes.  The geometry of each of the miscut angles is provided in Figure 2. 
+
+SRM 2000 
+
+ 
+
+Page 3 of 10 
+
+Si  (400) 
+reflection 
+
+| 
+|  0 
+eae, 
+! 
+
+2°  Xsan] 
+| 
+| 
+
+1 
+1 
+
+wafer 
+orientation 
+\ 
+   
+
+nd 
+
+i 
+Y 
+
+  
+
+tc 
+
+s 
+= 
+
+S 
+2 
+D 
+
+  
+
+Og=3n/2 
+
+| 
+
+= 
+Ss  me  =Yanna 
+
+LL 
+Crystal 
+Plane 
+
+A 
+Crystal 
+plane 
+
+Top  view 
+
+Si  XSRM 
+
+wafer 
+orientation 
+
+J 
+
+Si  (400) 
+reflection 
+
+Top  view 
+
+| 
+Si  YsRM 
+
+oO 
+
+| 
+| 
+| 
+| 
+
+4 
+f 
+7 
+
+0 
+
+Uo-0 
+
+Op=n 
+
+5 
+
++ 
+= 
+
+8 
+g 
+D 
+
+  
+
+2°  Ysru 
+
+| 
+| 
+
+— 
+
+  
+
+.  \ 
+\ 
+
+f 
+
+Crystal 
+Plane 
+
+crystal 
+plane 
+
+a) 
+Figure 2.    Schematic  of  wafer  miscut  from  the  Si crystal  planes  using  measurements  from  two  wafer 
+orientations.  A miscut is calculated for both the horizontal xSRM and the vertical ySRM wafer orientations.  
+Figure 2(a)  shows  xSRM  calculation  parameters  (see  Equation 2).    Figure 2(b)  shows  ySRM  calculation 
+parameters (see Equation 3). 
+
+  b)
+
+=  ial  =<Vopna 
+
+ 
+
+By  expressing  the  Cartesian  miscut  information,  xSRM  and  ySRM,  in  polar  coordinates,  we  can  provide  the  miscut 
+information  in  azimuthal  magnitude,  ξSRM,  and  orientation,  SRM (see  Figure 3).    Equations 4  and 5  are  used  to 
+calculate these quantities.  Note that the miscut orientation is defined from the front of the sample, with the angle of 
+the wafer notch setting SRM = 0 rad. 
+
+x
+SRM
+
+
+
+  
+2/
+
+2/3
+
+
+ 
+
+2
+
+y
+SRM
+
+
+
+0
+
+ 
+2
+
+ 
+
+Miscut 
+orientation 
+f  \ 
+
+Miscut 
+magnitude 
+
+SsRM 
+
+Cc 
+
+Sl) 
+a 
+2 
+O = 
+
+t 
+Crystal 
+Plane 
+
+ 
+
+
+SRM
+
+arctan
+
+ 
+tan
+
+
+tan
+
+y
+SRM
+
+x
+SRM
+
+2
+
+2
+
+ 
+
+
+SRM
+
+arctan
+
+tan
+tan
+
+x
+SRM
+y
+SRM
+
+ 
+
+ 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+ 
+Figure 3.    Schematic  of  wafer  miscut  polar  coordinates  showing  miscut  orientation,  SRM ,  and 
+miscut magnitude, ξSRM. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2000 
+
+ 
+
+Page 4 of 10 
+
+CERTIFICATION ANALYSIS 
+ 
+Calculating  Si  (220)  transmission  d-spacing:    With  the  effective  wavelength  known  for  each  alignment  of  the 
+system,  calculating  the  d-spacing  simply  requires  applying  Bragg’s  law  to  pairs  of  dispersive  and  non-dispersive 
+peak positions.  A small correction for temperature is also required with which a small uncertainty, uc(ΔTd) = 32 am, 
+is associated.  These statistical calculations were performed in Python [26], R [27], and DATAPLOT [28] and then 
+independently verified by the NIST Statistical Engineering Division (SED) using DATAPLOT. 
+ 
+Type A statistical uncertainty:  The measured d-spacing for each SRM 2000 specimen varies because of statistical 
+variation  (from  both  instrument  repeatability  and  sample  d-spacing  distribution)  as  well  as  systematic  variation 
+arising  from  the  sample  position  on  the  CDPBD  wafer  holder.    Because  of  the  systematic  nature  of  the  variation 
+with  sample  holder  position,  it  was  judged  inappropriate  to  include  this  variation  in  the  Type A  statistical 
+uncertainty  (k = 1),  ui(dSRM).    One-way  ANOVA  was  therefore  used  to  separate  the  statistical  variation  from  the 
+systematic component by generating a correction to d-spacing based on sample position.  The estimate of dSRM is 
+then the mean of the set of estimates, and ui(dSRM) = 0.24 fm is determined as the residual standard deviation of the 
+ANOVA model (that is, the variance not explained by the wafer holder position correction). 
+ 
+Type B systematic uncertainty related to misalignment:  The only error relating to alignment that has a significant 
+impact  on  the  uncertainties  for  dSRM  is  the  relative  misalignment  of  the  SRM  feedstock  and  the  reference 
+crystal, Δδ2.    Such  misalignment  may  cause  a  systematic  error  because  the  wafers  and  the  reference  crystals  are 
+mounted  differently.    Therefore,  based  on  a  study  of  misalignment  effects,  we  assign  a  large  maximum  offset  to 
+d-spacing of Δδ2d ≤ 0.62 fm and so a standard uncertainty (k = 1) of uj(Δδ2d) = 0.36 fm. 
+ 
+Best  estimate  and  combined  standard  uncertainty:    The  best  estimate  of  the  Si (220)  substrate  d-spacing  of  the 
+SRM 2012  feedstock  measured  in  transmission  is  dSRM = 0.192 016 1 nm.    The  combined  standard  uncertainty 
+(k = 1) of the SRM 2012 d-spacing is the combination of the statistical uncertainty computed above, the uncertainty 
+of the misalignment difference between the SRM and the reference crystal, the temperature uncertainty in measuring 
+the specimens, and the uncertainty in the reference crystal d-spacing from reference 5, uc(dWASO04) = 12.1 am. 
+
+
+
+2
+
+
+du
+c
+
+
+du
+c
+
+
+du
+i
+
+
+
+T
+
+WASO04
+
+(6) 
+
+2
+
+SRM
+
+SRM
+
+
+
+
+
+
+
+
+
+
+
+d
+
+u
+
+u
+
+d
+
+
+
+
+
+
+
+ 
+
+ 
+
+2
+
+2
+
+2
+
+c
+
+j
+
+Thus  the  standard  uncertainty  (k = 1),  uc(dSRM) = 0.43 fm.    Expressed  as  a  relative  standard  uncertainty  (k = 1), 
+uc(dSRM)/dSRM = 2.2  10–6.  The expanded uncertainty (k = 2) is U(dSRM) = 0.87 fm. 
+ 
+Calculating surface-to-crystal-plane miscut best estimates and combined standard uncertainty:  The estimates used 
+for the certified values are the means over all of the wafers, and the type A standard uncertainties are their estimated 
+standard deviations over that set.  Their values are given in Table 5. 
+ 
+Calculating  Bragg  angle  of  Si (004)  reflection  best  estimate  and  combined  standard  uncertainty:   Because  of  the 
+effects  of  material  index  of  refraction,  wafer  curvature,  vertical  divergence,  long-range  goniometer  angle 
+uncertainties,  and  other  systematic  corrections  to  reflection  Bragg  angle,  certification  of  the  d-spacing  of  the 
+substrate in reflection condition is not possible at this time.  Instead, to provide a traceable parameter for a reflection 
+condition measurement of the SRM, we use the uncorrected Bragg angle of the Si (004) reflection diffraction peak 
+from  the  surface  of  the  wafer.    This  quantity  can  be  calculated  from  the  Bragg  angle  of  the  Si (004)  reflection, 
+θB,SRM (004), corrected for the miscut of the surface relative to the crystal planes (see Equation 7). 
+
+ 
+
+ 
+
+ 
+
+Since only one Si (004) reflection case peak could be measured, to determine the uncorrected Bragg angle of the 
+reflection requires knowledge of the angle of the diffracting planes of the crystal, Δθ0 (see Equation 8).  
+
+This is known in this case from the positions of the dispersive and non-dispersive transmission peaks (used in the 
+d-spacing calculation of Equation 1). 
+
+
+
+surface,
+
+SRM(004)
+
+SRM(004)
+
+
+B,
+
+x
+
+ 
+
+SRM
+
+
+B,
+
+SRM(004)
+
+meas(004)
+
+
+
+
+
+
+
+
+0
+
+ 
+
+
+
+
+
+0
+
+meas(220)
+
+
+
+meas(220)
+
+
+
+
+
+
+
+2
+
+
+
+
+2
+
+ 
+
+(7) 
+
+(8) 
+
+(9) 
+
+The  Bragg  angle  of  the  Si  (004)  reflection  was  estimated  for  each  sample  position  for  each  wafer;  the  mean  and 
+estimated standard deviation of this set are given in Table 6.  Since temperature correction for d-spacing variation 
+
+SRM 2000 
+
+ 
+
+Page 5 of 10 
+
+cannot  be  applied  directly  to  angle,  an  additional  uncertainty  (k = 1),  ui(ΔTθB,SRM (004)) = 0.50 μrad,  due  to 
+temperature variation over the course of the measurements must be incorporated.  An uncertainty must be added due 
+to long-range error of the goniometer, uj(ωSRM) = 3.9 μrad at this angle.  Finally, a correction for the uncertainty in 
+NIST monochromator wavelength, λSRM (see Table 7), and its corresponding contribution to the uncertainty of the 
+Bragg  angle  (k = 1),  ui(λmonoθB,SRM (004)) = 7.3 rad,  must  be  included.    The  resulting  combined  standard  uncertainty 
+(k = 1), 
+
+
+
+B,
+
+u
+[
+i
+
+  
+
+2
+u
+])
+
+
+(
+
+mono
+B,
+
+
+T
+B,
+
+SRM(004)
+
+SRM(004)
+
+SRM(004)
+
+
+
+
+u
+i
+
+u
+i
+
+SRM
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+2
+
+2
+
+j
+
+
+
+11
+
+ μrad. 
+
+u
+
+c
+
+(
+
+B,
+
+SRM(004)
+
+)
+
+
+
+ 
+The  best  estimate  and  uncertainties  of  the  certified  angle  of  the  (004)  reflection  from  the  surface  are  given  in 
+Table 6. 
+
+Detail  view 
+
+   
+
+dignorsine 
+
+Si  (220) 
+ 
+-
+
+  
+       
+S
+reflection  K  28.00 4)  B
+
+Si  (220) 
+non-disp. 
+
+Si  (400) 
+
+ 
+
+ 
+Figure 4.  Top-view schematic of Si (004) reflection Bragg angle showing determination of crystal 
+plane using Si (220) dispersive and non-dispersive peak positions and showing the miscut angle in 
+the specimen x direction relating wafer surface with crystal plane, xSRM. 
+
+ 
+SI TRACEABILITY 
+ 
+Uncertainty  analyses  performed  for  this  SRM  follow  the  ISO  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement [2].  Figure 5 shows the SI traceability pathway for Si (220) d-spacing determination using SI-defined 
+units  of  time,  t,  and  distance,  m,  as  input  parameters [1,3,4].    This  diagram  illustrates  the  flow  of  SI  units,  the 
+essential prior SI-traceable measurements, and the measured feedstock and material properties in an unbroken chain, 
+as required for computing the total uncertainty budget in a given measurement.  Three different feedstock Si boules 
+and corresponding Si (220) d-spacings were used in the traceability chain for this SRM; (1) a purpose-commissioned 
+boule of Si known as the WASO 4.2 feedstock provided the direct link to the SI through optical frequency via its use 
+as  the  X-ray  interferometer  in  the  X-ray  /  optical  interferometer  at  Physikalisch-Technische  Bundesanstalt  (PTB, 
+Braunschweig,  Germany) [5];  (2) a  purpose-commissioned  boule  of  Si  used  in  the  Avogadro  Project,  known  as 
+WASO 04 feedstock, provided reference artifacts for internal calibration of the NIST CDPBD instrument through 
+direct  comparison  with  WASO 4.2  on  the  NIST  lattice  comparator [29];  (3) a  set  of  epitaxially-coated  wafers 
+sectioned  from  a  single  commercial  CZ  boule  of  Si,  known  as  SRM 2012  feedstock,  are  the  certified  artifacts 
+measured on the CDPBD by comparison with WASO 04. 
+
+SRM 2000 
+
+ 
+
+Page 6 of 10 
+
+SI  unit  of  time,  t 
+v(hfs  Cs)  = 
+9  192  631  770  Hz 
+
+  
+
+lodine  stabilized 
+HeNe  Laser 
+  
+
+Silicon 
+WASO  4.2 
+feedstock 
+
+  
+
+WASO  04 
+feedstock 
+
+Si  Unit]  | 
+
+Instrument  =C__) 
+
+Property  =  <>  | 
+
+    
+   
+   
+SI  unit  of  length,  m 
+Co  =  299  792  458  m/s 
+  
+  
+  
+
+Material =  [_] 
+
+   
+
+PTB  absolute  X-ray  / 
+optical  interferometer 
+
+Silicon  (220) 
+WASO  4.2 
+d-  spacing 
+
+       
+   
+
+   
+
+   
+
+   
+
+NIST  lattice 
+comparator 
+
+     
+
+Reference 
+crystal  (220) 
+d-spacing 
+
+   
+
+  
+
+  
+
+      
+   
+     
+    
+
+“Effective” 
+monochromator 
+wavelength 
+
+  
+
+  
+
+Time-stable 
+X-ray  source  / 
+monochromator 
+
+         
+  
+
+NIST  Ceramics 
+Division  Parallel  Beam 
+Diffractometer 
+(CDPBD) 
+
+   
+  
+  
+
+HRXRD  SRM 
+(220)  d-spacing 
+
+SRM  2000 
+feedstock 
+
+  
+
+   
+  
+  
+  
+
+  
+
+ 
+
+ 
+
+Figure 5:  SI traceability pathway for Si (220) d-spacing in transmission. 
+
+ 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage  and Handling:    The  epitaxial  layer  may  be  damaged  or  the wafer  strained  mechanically;  therefore  contact 
+with the front surface of the SRM should be avoided.  To remove surface contamination, use filtered nitrogen gas. 
+ 
+Peak  profiles:  The  measured  diffraction  peaks  were  significantly  asymmetric.    Supporting  measurements  suggest 
+that  this  asymmetry  may  not  be  entirely  due  to  instrument  effects,  but  in  part  due  to  properties  of  the  SRM 2000 
+feedstock.    Therefore,  a  split-Pearson VII  profile  was  used  for  fitting  and  estimating  peak  positions  and  is 
+recommended  for  determining  peak  positions  for  calibration.    Use  of  another  profile  function  may  result  in 
+systematic bias due to differing effects of asymmetry on profile position determination. 
+ 
+Use 
+Suggested use of d-spacing measured in Si (220) transmission:  Calibration by direct use of the certified d-spacing, 
+dSRM requires an instrument that can measure in transmission geometry.  If this is possible, one can calibrate either 
+the  instrument  monochromator’s  wavelength,  λinst,  or  angle  measurements  near  the  Si (220)  reflection  (in 
+transmission geometry), Δθinst.  The following procedure provides an approach for this calibration (see Table 3 for 
+scan ranges).  Individual instrument manufacturers may have alternative suggested procedures. 
+
+1.  Clean sample holder and SRM with filtered nitrogen prior to mounting.  
+2.  Mount SRM in holder with serial number upright and facing away from source.  
+3.  Locate non-dispersive Si (220) peak center, , using a setup scan.  
+4.  Perform  non-dispersive  Si  (220)  normal  range  scan  to  measure  peaks’  full  width  at  half  maximum 
+
+(FWHM).  
+
+5.  Re-align wafer azimuth and repeat (4) until minimum FWHM is achieved.  
+6.  Locate dispersive Si (220) peak center, , using a setup scan.  
+7.  Perform dispersive Si (220) normal range scan to measure FWHM.  
+8.  Locate Si (004) reflection peak center, , using a setup scan.  
+
+  
+
+SRM 2000 
+
+ 
+
+    
+  
+  
+  
+
+Page 7 of 10 
+
+9.  Perform a series of Si (004) reflection normal range scans at various wafer tilts, δ2 – defined as χ tilt on 
+
+most instruments. 
+
+10.  Set δ2 for wafer based on Si (004) reflection FWHM minimum.  
+11.  Measure non-dispersive Si (220) HRXRD data.  
+12.  Measure dispersive Si (220) HRXRD data.  
+13.  Repeat steps 11 and 12. 
+14.  Use difference of step 13 to determine θinst(220). 
+15.  Use θinst(220) and dSRM to calibrate either λinst or Δθinst. 
+
+ 
+Suggested use of surface-to-crystal-plane miscut:  The miscut certification will allow calibration and repeatability 
+studies for rotating sample holders in commercial instruments in the field.  By repeating miscut measurements on 
+the  SRM,  one  can  test  the  repeatability  and  stability  of  a  sample  holder  during  rotation  and  remounting.    The 
+following procedure provides an approach for this sample holder calibration.  Individual instrument manufacturers 
+may have alternative suggested procedures. 
+
+1.  Clean wafer holder and SRM with filtered nitrogen prior to mounting. 
+2.  Mount SRM in holder with wafer notch upright and scribe marks facing away from source. 
+3.  Measure Si (004) reflection HRXRD data at  = 0 rad. 
+4.  Rotate sample to  = π/2 rad and measure Si (004) HRXRD data. 
+5.  Rotate sample to  = π rad and measure Si (004) HRXRD data. 
+6.  Rotate sample to  = 3π/2 rad and measure Si (004) HRXRD data. 
+7.  Calculate xinst using equation 2 and data from steps 4 and 6. 
+8.  Calculate yinst using equation 3 and data from steps 3 and 5. 
+9.  Calculate ξinst and inst using equations 4 and 5. 
+10.  Compare values, ξinst and inst, with certified values ξSRM and SRM. 
+11.  Use comparison data to align wafer holder. 
+12.  Repeat steps 1 through 11 several times to reduce statistical uncertainty terms. 
+
+ 
+Suggested use of Bragg angle of Si (004) reflection:  If transmission measurements are not possible, one can use the 
+uncorrected  Bragg  angle  of  the  Si (004)  reflection,  θB,inst(004),  for  calibration  of  either  the  instrument 
+monochromator’s  wavelength,  λinst  or  angle  measurements  near  the  Si (004)  reflection  (in  reflection  geometry), 
+Δθinst.  The following relational formula uses Bragg’s law to relate the SRM and instrument parameters and may be 
+used to solve for either quantity of interest using equation 7: 
+
+ 
+
+
+
+inst
+
+sin(
+
+
+B,
+
+inst(004)
+
+
+
+SRM
+
+
+
+)
+
+sin(
+
+
+B,
+
+SRM(004)
+
+ 
+
+)
+
+(10) 
+
+The following procedure provides an approach for this type of calibration.  Additional uncertainties may result from 
+differences  in  beam  conditioning  optics.    Individual  instrument  manufacturers  may  have  alternative  suggested 
+procedures. 
+
+1.  Perform surface-to-crystal-plane misalignment calibration procedure. 
+2.  Remount SRM in holder with serial number upright and facing sample holder. 
+3.  Perform  specular  reflection  alignment  to  determine  specimen  surface  orientation  with  respect  to  the 
+
+instrument plane. 
+
+4.  Reset instrument  zero to the wafer surface. 
+5.  Measure Si (004) reflection HRXRD data at  = 0 rad. 
+6.  Use measured θsurface,inst(004) and θsurface,SRM(004) to calibrate either λinst or Δθinst. 
+7.  Repeat steps 2 through 5 several times to reduce the uncertainty in statistical mounting errors. 
+
+ 
+The procedures for aligning the specular reflection will introduce significant uncertainties that must be included in 
+any uncertainty budget for use of the certified values. 
+
+ 
+Table 4.  Uncertainty Budget for SRM 2000 Si (220) d-Spacing. 
+
+Standard Uncertainty (k = 1) 
+
+Quantity 
+dSRM 
+dSRM 
+Δδ2d 
+ΔTd 
+dWASO04 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+SRM 2000 
+
+0.43 
+0.24 
+0.36 
+
+32 
+12 
+
+fm 
+fm 
+fm 
+
+am 
+am 
+
+ 
+
+Uncertainty Type 
+Combined, uc(i) 
+A, ui(i) 
+B, uj(i) 
+Combined, uc(i) 
+Combined, uc(i) 
+
+Page 8 of 10 
+
+Table 5.  Uncertainty Budget for SRM 2000 Si (220) Miscut 
+
+Standard Uncertainty (k = 1) 
+
+Quantity 
+ξSRM 
+SRM 
+xSRM 
+ySRM 
+ξSRM 
+SRM 
+xSRM 
+ySRM 
+
+Quantity 
+θsurface,SRM(004) 
+xSRM 
+θB,SRM(004) 
+θsurface,SRM(004) 
+ΔTθB,SRM(004) 
+ωSRM 
+λSRMθB,SRM(004) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.014  mrad 
+mrad 
+7.9 
+36 
+rad 
+rad 
+9.5 
+0.014  mrad 
+mrad 
+7.9 
+36  
+rad 
+rad 
+9.5  
+
+38 
+
+rad 
+
+rad 
+36 
+rad 
+11 
+7.3  rad 
+0.5  rad 
+3.9  rad 
+7.3  rad 
+
+Uncertainty Type 
+Combined, uc(i) 
+Combined, uc(i) 
+Combined, uc(i) 
+Combined, uc(i) 
+A, ui(i) 
+A, ui(i) 
+A, ui(i) 
+A, ui(i) 
+
+Uncertainty Type 
+ 
+Combined, 
+)(iuc
+
+A, ui(i) 
+Combined, uc(i) 
+A, ui(i) 
+A, ui(i) 
+B, uj(i) 
+B, uj(i) 
+
+Table 6.  Uncertainty Budget for SRM 2000 Si (004) Surface Bragg Angle 
+
+Standard Uncertainty (k = 1) 
+
+Quantity 
+ui(dSRM) 
+
+uj(Δδ2d) 
+
+uc(ΔTd) 
+uc(dWASO04) 
+ui(ξSRM) 
+ui(SRM) 
+ui(xSRM) 
+ui(ySRM) 
+ui(xSRM) 
+uc(θB,SRM(004)) 
+
+Table 7.  Definitions used in SRM 2000 Uncertainty Analysis 
+
+Value 
+0.24 
+
+fm 
+
+0.36 
+
+fm 
+
+0.032  fm 
+am 
+12 
+0.014  mrad 
+7.9  mrad 
+rad 
+36 
+rad 
+9.5 
+
+see above 
+
+8.0 
+
+rad 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Description 
+standard  uncertainty  (k = 1)  (type A)  of  Si (220)  transmission  case 
+d-spacing 
+standard  uncertainty  (type B)  due  to  misalignment  between  reference 
+crystal and SRM feedstock 
+combined standard uncertainty of d-spacing due to temperature effects 
+combined standard uncertainty of WASO 04 d-spacing determination 
+standard uncertainty (type A) of magnitude of wafer miscut 
+standard uncertainty (type A) of direction of wafer miscut 
+standard uncertainty (type A) of tilt of wafer miscut in x-plane 
+standard uncertainty (type A) of tilt of wafer miscut in y-plane 
+see above 
+combined standard uncertainty of  Bragg angle from crystal planes for 
+Si (004) reflection peak 
+standard uncertainty (type A) of Bragg angle from crystal planes for Si 
+(004) reflection peak 
+standard  uncertainty  (type A)  due  to  temperature  deviation  over 
+measurements 
+standard uncertainty (type B) of long range error in  axis at Si (004) 
+reference monochromator wavelength for Si (004) measurements 
+standard  uncertainty  (type A)  due  to  monochromator  wavelength 
+deviation over Si (004) measurements 
+
+ui(θB,SRM(004)) 
+
+7.3 
+
+rad 
+
+ui(ΔTθB,SRM(004)) 
+
+0.5 
+
+rad 
+
+ωSRM 
+λSRM 
+ui(λSRMθB,SRM(004)) 
+
+3.9 
+ 
+154 055.9 
+7.3 
+ 
+
+rad 
+fm 
+rad 
+
+REFERENCES 
+
+The International System of Units (SI); 8th ed.; Bureau International des Poids et Mesures, Paris (2006). 
+JCGM  100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) 
+(2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed 
+Feb 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC 
+(1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2012). 
+
+SRM 2000 
+
+ 
+
+Page 9 of 10 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+[1] 
+[2] 
+
+[3] 
+
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+Publication 811;  U.S.  Government  Printing  Office:  Washington, DC 
+at 
+http://www.nist.gov/pml/pubs/index.cfm/ (accessed March 2012). 
+ISO; Quantities and Units; 3rd ed.; ISO: Geneva, Switzerland (1993). 
+
+[4] 
+[5]  Becker, P.;  Bettin, H.;  Danzebrink, H.U.;  Glaser, M.;  Kuetgens, U.;  Nicolaus, A.;  Schiel, D.;  De Bievre, P.; 
+Valkiers, S.;  Taylor, P.;  Determination  of  the  Avogadro  Constant  Via  the  Silicon  Route;  Metrologia, 
+Vol. 40(5), pp. 271–287 (2003). 
+
+available 
+
+(2008); 
+
+[6]  Hanke, M.; Kessler, E.G.; Precise Lattice Parameter Comparison of Highly Perfect Silicon Crystals; J. Phys. 
+
+D: Appl. Phys., Vol. 38(10A), pp. A117–A120 (2005). 
+
+[7]  Deslattes, R.D.;  Kessler, E.G.;  Owens, S.;  Black, D.;  Henins, A.;  Just  How  Perfect  Can  a  Perfect  Crystal 
+
+Be?; J. Phys. D: Appl. Phys., Vol. 32(10A), pp. A3–A7 (1999). 
+
+[8]  Becker, P.;  The  Determination  of  the  Avogadro  Constant  -  Not  Simply  a  Metrological  Problem;  IEEE 
+
+Transactions on Instrumentation and Measurement, Vol. 48(2), pp. 225–229 (1999). 
+
+[9]  Becker, P.; Kuetgens, U.; Stumpel, J.;  The Avogadro Problem: Summary of Tests on Crystal Imperfections; 
+
+IEEE Transactions on Instrumentation and Measurement, Vol. 50(2), pp. 612–615 (2001). 
+
+[10]  Bearden, J.A.;  Thomsen, J.S.;  Henins, A.;  Sauder, W.C.;  Marzolf, J.G.;  Precision  Redetermination  of 
+Standard   Reference  Wavelengths  for  X-ray  Spectroscopy;  Physical  Review  A  -  General  Physics, 
+Vol. 135(4A), p. A899 (1964). 
+
+[11]  Azároff, L.V.; X-ray Spectroscopy; McGraw-Hill Book Company, NY (1974). 
+[12]  Schnopper, H.W.; Spectral Measurements with Aligned and Misaligned 2-Crystal Spectrometers. I. Theory of 
+
+Geometrical Window; J. Appl. Phys., Vol. 36(4), p. 1415 (1965). 
+
+[13]  Schnopper, H.W.;  Spectral  Measurements  with  Aligned  and  Misaligned  2-Crystal  Spectrometers.  II. 
+
+Alignment; J. Appl. Phys., Vol. 36(4), p. 1423 (1965). 
+
+[14]  Bearden, J.A.;  Thomsen, J.S.;  Double-crystal  X-ray  Spectrometer  -  Corrections,  Errors,  and  Alignment 
+
+Procedure; J. of Appl. Cryst., Vol. 4, p. 130 (1971). 
+
+[15]  Batterman, B.W.;  Cole, H.;  Dynamical  Diffraction  of  X-rays  by  Perfect  Crystals;  Reviews  of  Modern 
+
+Physics, Vol. 36(3), p. 681 (1964). 
+
+[16]  Authier, A.; Dynamical Theory of X-Ray Diffraction, Oxford: Oxford University Press (2001). 
+[17]  Bond, W.L.;  Precision  Lattice  Constant  Determination;  Acta  Crystallographica,  Vol. 13(10),  pp. 814–818 
+
+(1960). 
+
+p. 418 (1970). 
+
+[18]  Walder, V.;  Burke, J.;  Elimination  of  Specimen  and  Beam  Tilt  Errors  in  Bond  Method  of  Precision  Lattice 
+
+Parameter Determinations; J. Appl. Cryst., Vol. 4, p. 337 (1971). 
+
+[19]  Halliwell, M.A.G.;  Measurement  of  Specimen  Tilt  and  Beam  Tilt  in  Bond  Method;  J.  Appl.  Cryst.,  Vol. 3, 
+
+[20]  Burke, J.;  Tomkeieff, M.V.;  Errors  in  Bond  Method  of  Lattice  Parameter  Determinations-Further 
+
+Considerations; J. Appl. Cryst., Vol. 2, Part 6, p. 247 (1969). 
+
+[21]  Hubbard, C.R.; Mauer, F.A.; Precision and Accuracy of Bond Method as Applied to Small Spherical Crystals; 
+
+[22]  Prince, E.;  Mathematical,  Physical  and  Chemical  Tables;  Vol.  C,  International  Tables  for  Crystallography, 
+
+[23]  Chantler, C.T.; X-ray-Diffraction of Bent Crystals in Bragg Geometry .1. Perfect-Crystal Modeling. J. Appl. 
+
+J. Appl Cryst.; Vol. 9, pp. 1–8 (1976). 
+
+3rd ed., London: Kluwer Academic (2004). 
+
+Cryst., Vol. 25, Part 6, pp. 674–693 (1992). 
+
+[24]  Chukhovskii, F.N.;  Petrashen, P.V.;  General  Dynamical  Theory  of  X-ray  Laue  Diffraction  from  a 
+
+Homogeneously Bent Crystal; Acta Crystallographica, Vol. 33, Section A, pp. 311–319 (1977). 
+
+[25]  Yan, H.;  Kalenci, O.;  Noyan, I.C.;  Diffraction  Profiles  of  Elastically  Bent  Single  Crystals  with  Constant 
+
+Strain Gradients; J. Appl. Cryst., Vol. 40, Part 2, pp. 322–331 (2007). 
+
+[26]  Jones, E.; Oliphant, T.; Peterson, P.; and others. SciPy: Open source scientific tools for Python (2001). 
+[27]  R  Development  Core  Team;  A  Language  and  Environment  for  Statistical  Computing.  R  Foundation  for 
+
+Statistical Computing; ISBN 3-900051-07-0, Vienna, Austria (2007). 
+
+[28]  Heckert, N.A.;  Filliben, J.J.;  NIST  Handbook  148:  DATAPLOT  Reference  Manual,  Volume  I:  Commands, 
+
+National Institute of Standards and Technology Handbook Series, (2003); 
+http://www.itl.nist.gov/div898/software/dataplot.html/ (accessed March 2012). 
+
+[29]  Kessler, E.G.;  Owens, S.M.;  Henins, A.;  Deslattes, R.D.;  Silicon  Lattice  Comparisons  Related  to  the 
+Avogadro  Project:  Uniformity  of  New  Material  and  Surface  Preparation  Effects;  IEEE  Transactions  on 
+Instrumentation and Measurement, Vol. 48(2), pp. 221–224 (1999). 
+
+ 
+Certificate Revision History:  05 March 2012 (Corrected uncertainty in Table 1 for dSRM; Editorial changes); 09 July 2009 (Original certificate 
+date). 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301)  926-4751; 
+telephone 
+ 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+fax 
+
+SRM 2000 
+
+ 
+
+Page 10 of 10 
+
+

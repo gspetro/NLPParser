@@ -1,0 +1,396 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 2859 
+ 
+Restricted Elements in Polyvinyl Chloride  
+
+Poly 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validation  of  chemical  and  instrumental 
+methods of analysis of polyvinyl chloride (PVC) and materials of similar matrix for restricted, additive and tramp 
+element contents.  It can be used to validate value assignment of in-house reference materials.  A unit of SRM 2859 
+consists of one bottle containing approximately 25 g of PVC pellets. 
+ 
+Certified Mass Fraction Values:   Certified values for constituents of SRM 2859 are reported in Table 1 as mass 
+fractions of the elements  in a PVC  matrix [1].  A NIST certified value  is a  value  for  which NIST has  the  highest 
+confidence in its accuracy in that all known or suspected sources of bias have been taken into account [2].  A certified 
+value is the present best estimate of the true value.  The certified values are the measurands and are metrologically 
+traceable  to  the  SI  derived  unit  of  mass  fraction  (expressed  as  percent).    The  expanded  uncertainty  estimates  are 
+expressed at a confidence level of approximately 95 %. 
+ 
+
+Table 1.  Certified Mass Fraction Values for SRM 2859 Restricted Elements in Polyvinyl Chloride 
+
+alues  for  SRM 
+
+ 
+Constituent 
+
+Cadmium (Cd) 
+Calcium (Ca) 
+Chromium (Cr) 
+Iron (Fe) 
+Lead (Pb) 
+Mercury (Hg) 
+Sulfur (S) 
+Tin (Sn) 
+
+Mass Fraction 
+(%) 
+
+Expanded Uncertainty 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.00734 
+3.603 
+0.0716 
+0.00635 
+0.07982 
+0.07695 
+0.1087 
+0.1362 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.00044 
+0.065 
+0.0016 
+0.00095 
+0.00096 
+0.00069 
+0.0052 
+0.0018 
+
+ 
+ 
+Expiration of Certification:  The certification of SRM 2859 is valid, within the measurement uncertainty specified, 
+2  with  instructions  given  in  this  certificate 
+until 01 July 2024, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+ris 
+(see “Instructions for Handling, Storage, and Use”).  Reference values are expected also to remain valid within this 
+period.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+,  NIST  will  notify  the  purchaser.
+technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements for certification was performed by J.R. Sieber of the NIST Chemical Sciences 
+Division. 
+ 
+Statistical consultation for this SRM was provided by N.A. Heckert of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  21 March 2019 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+Page 1 of 4 
+
+  
+
+SRM 2859 
+
+Office  of  Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Polyvinyl chloride pellets may be analyzed either in as-received form, cryogenically ground to powder for methods 
+requiring  dissolution,  or  melt  pressed  for  methods  that  require  a  larger  area  of  measurement,  such  as  X-ray 
+fluorescence  spectrometry (XRF).    To  relate  analytical  determinations  to  the  certified  values  in  this  Certificate  of 
+Analysis, a minimum test portion of 100 mg should be used when it has been prepared as powder.  See below for 
+additional  information  on  melt  pressing  and  exposure  to  X-rays.    A  bottle  containing  unused  material  should  be 
+recapped immediately and stored at room temperature away from light. 
+ 
+To  use  the  uncertainty  estimates  given  in  this  certificate,  divide  the  expanded  uncertainty  by  k = 2  to  obtain  the 
+combined standard uncertainty.  The effective degrees of freedom of the combined standard uncertainty are ≥60. 
+ 
+Heterogeneity of SRM 2859 is such that measurements of very small quantities will be subject to high variance.  The 
+element  Fe  is  characterized  by  discrete  locations  of  high  concentrations.    These  locations  range  in  size  from 
+approximately 50 µm to several hundred micrometers, and they may contain 10 times to 100 times the overall mass 
+fraction of the element.  Multiple measurements of small spots on a sample may exhibit widely varying results.  To 
+obtain  a  test  result  representative  of  the  overall  composition  of  SRM 2859,  the  user  must  make  measurements  of 
+different locations until the mean of the measurements and the standard deviation no longer change. 
+ 
+CAUTION TO USERS 
+ 
+When 
+Polyvinyl chloride is damaged by exposure to X-rays of  sufficient power density  for a sufficient duration.  When 
+radiation damage is suspected, do not make repeat measurements of the same location of a specimen.  Both microbeam 
+XRF and high-power wavelength dispersive XRF spectrometers use direct excitation and cause sufficient damage to 
+alter the composition of the PVC.  An energy dispersive XRF spectrometer of the secondary target design may not 
+damage the PVC.  Damage from irradiation is characterized by discoloration of the PVC that may be accompanied by 
+a faint odor of burned material.  Sample mass loss may be observed.  Excessive irradiation was observed to cause loss 
+of Cl and Hg from SRM 2859 as well as reduction of the hexavalent Cr originally added as Na2Cr2O7 prior to extrusion.  
+Losses of Cl and Hg can be observed as decreasing X-ray count rates from repeat measurements.  Increasing count 
+rates for Ca were observed when Cl was lost.   
+ 
+ADDITIONAL CONSTITUENTS:  Noncertified values are provided for the following additional constituents in 
+SRM 2859. 
+ 
+Reference Mass Fraction Values:  A reference value is a noncertified value that is the present best estimate of the 
+true value based on available data; however, the value does not meet the NIST criteria for certification and is provided 
+with  associated  uncertainties  that  may  reflect  only  measurement  repeatability,  may  not  include  all  sources  of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [2]. 
+ 
+A reference value for bromine in SRM 2859 is reported in Table 2 as the mass fraction of total Br in the PVC matrix.  
+The reference value for Br in SRM 2859 was determined at NIST using XRF.  The reference value is metrologically 
+traceable to the SI derived unit of mass fraction (expressed as percent).  The associated uncertainty is calculated as 
+U = kuc where uc is the combined standard uncertainty for the XRF test method, and the coverage factor, k = 2, was 
+determined  from  the  Student's  t-distribution  corresponding  to  the  95 %  confidence  level  and  to  (n – 1) degrees  of 
+freedom, where n = 64 is the number of determinations on which the mean value is based. 
+ 
+A reference value for hexavalent chromium in SRM 2859 is reported in Table 2 as a mass fraction of Cr+6 species in 
+the  PVC  matrix.    The  reference  value  for  hexavalent  Cr  in  SRM 2859  was  determined  using  laboratory-based, 
+high-resolution  XRF [6].    The  reference  value  is  metrologically  traceable  to  the  amount  of  Cr+6  species  in 
+ry  region
+commercially-available, high-purity Na2Cr2O7 through measurements of the fluorescent X-rays in the energy region 
+5395 eV  to  5435 eV  attributable  to  atoms  in  the  Cr+6  oxidation  state.    The  associated  uncertainty  is  calculated  as 
+U = kuc, where uc is the combined standard uncertainty for the XRF test method, and the coverage factor was chosen 
+as k = 2 to approximate a 95 % confidence level. 
+
+ 
+o
+l
+C
+
+ 
+
+SRM 2859 
+
+Page 2 of 4 
+
+Table 2.  Reference Mass Fraction Value for SRM 2859 Restricted Elements in Polyvinyl Chloride 
+
+Value  for  SRM 
+
+Constituent 
+
+Mass Fraction 
+(%) 
+
+Expanded Uncertainty 
+(%) 
+
+Bromine (Br) 
+Hexavalent Chromium (Cr+6) 
+
+0.0854 
+0.0480 
+
+0.0015 
+0.0066 
+
+ 
+ 
+Information Mass Fraction Values:  Information values for constituents in SRM 2859 are reported as mass fractions 
+in Table 3.  An information value is a value that may be of interest to the SRM user, but insufficient information is 
+available  to  assess  the  uncertainty  associated  with  the  value [2].    Information  values  cannot  be  used  to  establish 
+metrological traceability.  The information  values reported for Cl, Cu and Na  were determined  using a single test 
+method  at  one  laboratory:    Cl  by  XRF;  Cu  and  Na  by  inductively  coupled  plasma  optical  emission 
+spectrometry (ICPOES).  The values listed  for As, Ba, Sb, and Se are the estimated limits of detection of the test 
+methods.  These four elements were not added intentionally to this PVC formulation. 
+ 
+ 
+
+Table 3.  Information Mass Fraction Values for SRM 2859 Restricted Elements in Polyvinyl Chloride 
+
+ 
+
+ 
+
+Constituent 
+
+Antimony (Sb) 
+Arsenic (As) 
+Barium (Ba) 
+Chlorine (Cl) 
+Copper (Cu) 
+Selenium (Se) 
+Sodium (Na) 
+
+Mass Fraction 
+(%) 
+ 
+<0.001 
+<0.001 
+<0.001 
+33 
+0.0054 
+<0.001 
+0.037 
+
+ 
+ 
+ANALYSIS  ?
+PREPARATION AND ANALYSIS(1) 
+ 
+The material for SRM 2859 was prepared by combining a master blend with a dry blend in a mixer at 85 ºC, followed 
+by  extrusion  at  175 ºC,  cooling  in  a  water  bath,  and  chopping,  then  a  second  extrusion,  cooling,  and  chopping.  
+Blending and extrusion were performed by Polymers Center of Excellence (Charlotte, NC).  The master blend was 
+prepared from virgin PVC powder to which organometallic compounds of Ba, Cd, Hg, and Pb, an aqueous solution 
+of Na2Cr2O7 (containing a surfactant), and a copper phthalocyanine bromide dye were added.  The dry blend consisted 
+of PVC with added CaCO3 and methyltin mercaptide.  The approximate density of SRM 2859 is 1.3 g/cm3.  The PVC 
+pellets were blended and bottled at NIST. 
+ 
+Homogeneity testing was performed at NIST using XRF to measure disks made from 6.2 g of pellets melt-pressed at 
+175 ºC.  Additional evaluation of heterogeneity was performed using microXRF at NIST.  Material heterogeneity was 
+sufficiently low for value assignment.  Quantitative determinations were done at NIST by XRF after melt pressing 
+and  at  collaborating  laboratories  by  ICPOES  after  cryogenic  grinding  and  microwave-assisted  acid  digestion.  
+Calibrations for all constituents, except Br and Cl, were created using NIST SRM 3100 series spectrometric solutions.  
+Bromine by XRF was calibrated using high-purity NaBr, and Cl was calibrated using commercial reference materials 
+for PVC. 
+ 
+Each certified value is a weighted mean of the results from the three methods [3].  The uncertainty listed with each 
+certified value is an expanded uncertainty about the mean [4], with coverage factor, k = 2, calculated following the 
+ISO/JCGM Guide [5].   
+ 
+
+ 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2859 
+
+Page 3 of 4 
+
+Analyses leading to the certification of this SRM were performed at NIST by J.R. Sieber, J.L. Molloy, C. Bibb, and 
+M. Boyce  of  the  NIST  Chemical  Sciences  Division.    Analytical  determinations  were  also  performed  by  D. Cobb, 
+U.S. Consumer  Product  Safety  Commission (CPSC)  (Rockville, MD);  C.S. Helt  and  K. Leung,  Underwriters 
+Laboratories (Melville, NY); and E.P. Jahrman and G.T. Seidler, University of Washington (Seattle, WA). 
+ 
+ 
+NOTICE TO USERS 
+ 
+NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee the continued or continuous supply 
+of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a primary benchmark for the quality and 
+accuracy  of  the  user’s  in-house  reference  materials  and  working  standards.    As  such,  the  SRM  should  be  used  to 
+validate the more routinely used reference materials in a laboratory.  Comparisons between the SRM and in-house 
+reference materials or working measurement standards should take place at intervals appropriate to the conservation 
+of  the  SRM  and  the  stability  of  relevant  in-house  materials.    For  further  guidance  on  how  this  approach  can  be 
+implemented, contact NIST by email at srms@nist.gov. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+rial 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Mar 2019). 
+
+available 
+
+(2008); 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136 U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Mar 2019). 
+
+[3]  DerSimonian, R.  and  Laird, N.;  Meta-analysis  in  Clinical  Trials;  Control  Clin.  Trials,  Vol. 7,  pp. 177–188 
+
+(1986). 
+
+[4]  Horn, R.A.;  Horn, S.A.;  Duncan, D.B.;  Estimating  Heteroscedastic  Variance  in  Linear  Models;  J.  Am.  Stat. 
+
+[5] 
+
+[6] 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Mar 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Mar 2019). 
+Jahrman, E.P.; Seidler, G.T.; Sieber, J.R.; Determination of Hexavalent Chromium Fractions in Plastics Using 
+Laboratory-Based, High-Resolution X-ray Emission Spectroscopy; Anal. Chem., Vol. 90, pp. 6587-6593 (2018). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  21 March 2019 (Added reference value for hexavalent Cr mass fraction; editorial changes); 10 August 2017 
+(Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+fax  (301) 948-3730;  e-mail 
+accomplished  by  contacting 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+telephone  (301) 975-2200; 
+
+their  possession  is  current. 
+
+the  SRM  Program: 
+
+'s:-//www.nist.gov/srm
+
+SRM 2859 
+
+Page 4 of 4 
+
+

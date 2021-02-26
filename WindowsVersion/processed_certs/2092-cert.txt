@@ -1,0 +1,166 @@
+﻿National Institute of Standards & Technology 
+Certificate 
+Standard Reference Material® 2092 
+
+ 
+
+ 
+
+ 
+Low-Energy Charpy V-Notch Specimens 
+18
+ 
+(NIST-Verification, 8-mm Striker) 
+ 
+This Standard Reference Material (SRM) is intended primarily for the verification of Charpy machines equipped with 
+an  8-mm  striker,  in  accordance  with  the  current  ASTM  Standard E23 [1]  and  the  current  ISO  Standard 148-2 [2].  
+Each SRM consists of a set of specimens needed to perform a single verification.  
+ 
+Material Description:  SRM 2092 is made from 4340 alloy steel.  The bars are finished to length, heat-treated, and 
+machined in SRM specimen lots ranging in size from 1200 to 2000 specimens.  Each specimen has a lot number and 
+an identification number (three or four digits). 
+ 
+SRM  Certification  Procedure:    Specimens  from  each  SRM  lot  are  tested  by  the  NIST  Applied  Chemicals  and 
+Materials Division on Charpy reference machines.  These data are statistically evaluated to ensure the homogeneity 
+of the lot, establish the certified value, and determine the number of SRM specimens required for a user to perform a 
+valid test.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, in that all 
+known or suspected sources of bias have been investigated or taken into account [3].  The measurand is absorbed 
+energy as measured by the NIST Charpy reference machines.  Traceability is to the SI unit joule. 
+ 
+The certified value of the SRM is not given on this portion of the certificate.  The certified value and the uncertainty 
+associated  with  it  are  given  in  the  verification  report  that  is  issued  by  NIST  following  the  verification  test  (see 
+“Verification of the User’s Machine”).  If certified values are required immediately after testing you can contact the 
+NIST  Charpy  Program  Coordinator  as  follows:    telephone  (303)  497-3351;  fax  (303)  497-5939;  or  e-mail 
+charpy@boulder.nist.gov.  The lot number, serial number, and absorbed energy results of the tested specimens must 
+be provided in order to obtain certified values. 
+ 
+Expiration  of  Certification:    The  certified  value  and  uncertainty  furnished  in  the  verification  report  are  valid 
+indefinitely.  The verification statement in the report that is issued for an acceptable machine is valid for a maximum 
+of one year from the date on which the SRM was tested.  If a user’s machine is moved or undergoes any major repairs 
+or  adjustments,  the  current  verification  will  be  invalidated,  and  the  machine  must  be  retested  and  reverified  (see 
+“Instructions for Handling, Storage, and Use”). 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantial 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  measurements  leading  to  verification  of  test  specimens  and 
+machines, evaluation of test results, and issuance of the report on machine conformance are under the direction of the 
+NIST Applied Chemicals and Materials Division, Boulder,  CO. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 April 2019 
+Certificate Revision History on Last Page 
+
+James Fekete, Chief 
+Applied Chemicals and Materials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 2 
+
+  
+
+SRM 2092 
+
+lint 
+
+ING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  The protective oil coating should be wiped from each specimen with a lint-free cloth just prior to testing. 
+ 
+Storage:  The SRMs are anticipated to have an indefinite shelf life under normal storage conditions (20 °C ± 20 °C, ≤ 50 % 
+relative humidity).  
+ 
+Use:    Prior  to  verifying a  Charpy machine  equipped  with  an  8-mm  striker,  the  machine  should  be  checked  to  assure 
+compliance  with  the  appropriate  sections  of  the  applicable  ASTM  or  ISO  Standard.    SRM 2092  shall  be  tested  at 
+−40 °C ± 1 °C (−40 °F ± 2 °F) in accordance with the applicable standard (ASTM or ISO).  The energy level of the SRM 
+appropriate for verifying the performance of a particular Charpy impact machine can be determined by considering the 
+energy range that should be expected for the SRM, the maximum capacity of the machine, and the requirements of the 
+applicable test method (ASTM or ISO).  The certified energy of SRM 2092 specimens is within the range of 13 J to 20 J. 
+ 
+Verification of User’s Machine:  The NIST Charpy Program Coordinator will issue a verification report of findings to 
+the  user’s  facility  upon  receipt  of  the  fractured  specimens  and  completed  questionnaire.    Fractured  specimens  and 
+completed questionnaires should be returned to the NIST Charpy Program Coordinator, Mail Code 647, 325 Broadway, 
+Boulder, CO 80305-3337.  A plastic, self-locking bag is provided for the return of broken specimens.  The broken specimen 
+shall be taped together as described in the wrapping instructions included with the questionnaire.  The verification report 
+is considered to be the second part of this certificate, and includes the certified value and uncertainty of the SRM. 
+ 
+Shipping  Information:    Shipping  charges  for  the  return  of  broken  specimens  are  the  responsibility  of  the  user.    The 
+mailing label provided with each SRM must be used to expedite shipping and, for overseas shipments, clearance by U.S. 
+Customs. 
+ 
+Note to International Customers:  Regular overseas shipments of broken specimens should be sent airmail so that after 
+they are cleared by U.S. Customs, they can be forwarded directly to NIST-Boulder.  If a more rapid shipping mode is 
+necessary,  choose  an  overnight  delivery  service  that  will  handle  U.S.  Customs  clearance  AND  will  deliver  directly  to 
+NIST-Boulder.  Unless such delivery is assured, air freight packages may be returned to the customer by U.S. Customs. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1] ASTM E23; Standard Test Methods for Notched Bar Impact Testing of Metallic Materials; Annual Book of ASTM 
+
+Standards, Vol. 03.01, ASTM, West Conshohocken, PA. 
+
+[2] ISO 148-2;  Metallic  Materials  −  Charpy  Pendulum  Impact  Test  −  Part  2:  Verification  of  Testing  Machines; 
+
+esting  M 
+
+International Organization for Standardization: Geneva, Switzerland. 
+
+[3] May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.;  MacDonald, B.;  Definition  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of  Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government  Printing  Office: 
+Washington,  DC 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF(accessed Apr 2019). 
+
+available 
+
+(2000); 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate Revision History:  04 April 2019 (Editorial changes); 17 January 2018 (Title update; editorial changes); 14 February 2017 (Editorial 
+changes); 20 December 2013 (Editorial changes); 13 June 2013 (Lot number removed from title; editorial changes); 31 August 1989 (Original SRM lot 
+     
+certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate in their possession is current.  This can be accomplished by contacting 
+the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail  srminfo@nist.gov;  or  via  the  Internet  at 
+https://www.nist.gov/srm. 
+
+SRM 2092 
+
+Page 2 of 2 
+
+

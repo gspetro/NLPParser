@@ -1,0 +1,154 @@
+﻿U.  S.  Department  of  Commerce 
+Malcolm-Baldrige 
+Secretary’ 
+
+oni  feet 
+
+National  Bureau  of  Standards 
+
+Certificate 
+
+Standard  Reference  Material  1961 
+
+Nominal  30-um  Diameter  Polystyrene  Spheres 
+
+(In  Cooperation  with  the  American  Society  for  Testing  and  Materials) 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  as  a  primary  particle  size  reference  standard  for  the  calibration 
+of  particle  measuring  instruments  including  flow-through  counters  and  optical  and  electron  microscopes.  SRM  1961  is 
+a 
+suspension  of  polystyrene  spheres  in  water  at  a  weight  concentration  of  about  0.5%. 
+
+The  number  average  particle  diameter  was  measured  in  air  using  Center  Distance  Finding  (CDF),  an  optical  technique  related 
+to  array  sizing  [1].  Over  2000  particle  diameters  were  measured  with  this  technique.  The  certified  value  is: 
+
+Number  Average  Diameter,  pm 
+
+  
+
+29.64 
+
+Uncertainty,  wm 
+
++0.06 
+
+The  uncertainty  consists  of  both  random  and  systematic  errors,  and  includes  sample-to-sample  variability. 
+
+The  value  certified  for  the  number  average  diameter  was  confirmed  by  one  other  measurement  technique,  Metrology 
+Electron  Microscopy  (MEM).  In  this  technique,  which  measures  the  particles  in  an  ultra-high  vacuum,  the  particles  are 
+individually  scanned  through  a  stationary  electron  beam  while  the  position  of  the  scanning  stage  is  monitored  by a  stabilized 
+helium-neon  laser  interferometer.  A  plot  of  secondary-electron  intensity  vs.  stage  position  gives  the  particle  diameter  [2]. 
+The  result  from  MEM  is  29.68  +0.05  ym. 
+
+The  size  distribution  of  the  polystyrene  spheres,  as  determined  by  CDF,  is  Gaussian  with  a  coefficient  of  variation  of  0.8% 
+(excluding  particles  with  diameters  not  on  the  main  peak).  The  material  was  precision  sieved  with  a  33-~m  diameter-opening 
+electroformed  sieve  to  remove  oversized  particles.  As  a  result,  the  number  of  oversized  outliers  from  the  main  peak  Is  less 
+than  1%;  the  same  is  true  for  the  undersized  outliers.  A  sphere  is  defined  as  an  outlier  if  it’s  diameter  is  more  than  40  from 
+the  number  average  diameter  of  the  main  peak.  The  material  is  expected  to  have  at  least  a  four-year  shelf  life  when  stored 
+at  room  temperature,  provided  the  cap  on  the  vial  is  not  removed.  Care  should  be  exercised  to  prevent  contamination  once 
+the  cap  has  been  removed.  Fifty  ng/g  of  sodium  azide  was  added  as  a  biocide  before  the  material  was  packaged. 
+
+Before  sampling,  manually  shake  and/or  expose  the  SRM  vial  to  ultrasonics  until  the  spheres  are  uniformly  distributed,  then 
+take  a  sample  by  squeezing  a  drop  from  the  vial.  Use  filtered  (0.4-~m  pore  size  filter)  distilled  water  for  dilution.  When 
+electrolytes  are  used  for  electrical  sensing-zone  measurements,  first  dilute  the  sample  with  water  to  prevent  agglomeration. 
+
+The  technology  necessary  to  produce  these  latex  particles  was  developed  by  Lehigh  University  and  the  National  Aeronautics 
+and  Space  Administration  (NASA)  during  five  space  shuttle  missions  in  1982  and  1983.  The  30-ym  particles  in  SRM  1961 
+were  manufactured  in  space  aboard  the  space  shuttle  Challenger  during  the  NASA  STS-11  mission.  The  particles  were 
+provided  by  NASA  for  certification  by  NBS  as  a  Standard  Reference  Material  to  be  made  available  to  the  scientific  and 
+technical  community. 
+
+The  technical  direction  and  physical  measurements  leading  to  certification  were  provided  by  A.W.  Hartman,  T.  Doiron, 
+G.G.  Hembree,  and  T.R.  Lettieri  of  the  Precision  Engineering  Division  of  the  National  Bureau  of  Standards. 
+
+Manufacture  of  the  particles  was  carried  out  under  the  direction  of 
+of  the  National  Aeronautics  and  Space  Administration. 
+
+J.W.  Vanderhoff  of  Lehigh  University  and  D.M.  Kornfeld 
+
+The  overall  coordination  of  the  measurements  by  the  cooperating  laboratories  was  performed  under  the  direction  of 
+R.C.  Obbink,  ASTM-NBS  Research  Associate. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  NBS  Office  of  Standard  Reference  Materials  by  R.L.  McKenzie. 
+
+January  20,  1987 
+Gaithersburg,  MD  20899 
+
+. 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(Over) 
+
+.
+
+[i]  A.W.  Hartman,  Powder  Technology  46,  109  (1986). 
+
+[2]  S.  Jensen,  G.  Hembree,  J.  Marchiando,  and  D.  Swyt  in  Semiconductor  Microlithography  VI,  SPIE  Vol.  275  (SPIE, 
+Bellingham,  Wash.,  1981). 
+
+Cooperative  determinations  were  determined  in  the  following  laboratories: 
+
+Duke  Scientific  Corp.,  Palo  Alto,  California,  $.D.  Duke  (also  performed  precision  sieving). 
+
+Lehigh  University,  Bethlehem,  Pennsylvania, 
+
+J.W.  Vanderhoff. 
+
+National  Aeronautics  and  Space  Administration,  Huntsville,  Alabama,  D.  Kornfeld. 
+
+Particle  Data  Systems,  Elmhurst,  Dlinois,  R.  Karuhn. 
+
+The  following  results  are  given  for  information  only: 
+
+Number  Average 
+Diameter  (um) 
+
+Standard  Deviation 
+of 
+Distribution  (zm) 
+
+Method 
+
+TEM 
+
+Laboratory 
+
+Lehigh 
+
+Electrical- 
+sensing  Zone 
+
+_ 
+
+Particle  Data 
+Duke 
+
+NASA 
+
+Duke 
+
+Optical 
+microscope
+
+31.31 
+
+30.16 
+29.61 
+
+29.09 
+
+29.57 
+
+0.39 
+
+0.78 
+0.26 
+
+0.37 
+
+--- 
+
+

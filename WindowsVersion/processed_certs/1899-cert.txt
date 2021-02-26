@@ -1,0 +1,295 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1899 
+
+ 
+
+ 
+Silicon Nitride Powder-Specific Surface Area Standard 
+ 
+This Standard Reference Material (SRM) is intended for use in the calibration of instruments used to measure specific 
+surface area (SSA) in the range of 0.1 m2/g to 1 000 m2/g.  A unit of SRM 1899 consists of a single bottle containing 
+approximately 4 g of silicon nitride powder.  The SSA of this material was measured using a static volumetric type 
+Brunauer-Emmett-Teller (BET) (nitrogen gas)  instrument using a pellet cell. 
+ 
+
+Table 1.  Certified SSA Values and Uncertainties (2σ) by Nitrogen BET 
+ 
+
+Measurement Technique 
+
+Specific Surface Area 
+
+Multipoint 
+
+Single Point 
+
+10.67 m2/g  ±  0.19 m2/g 
+
+10.52 m2/g  ±  0.62 m2/g 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Expiration of Certification: The certification of this SRM is deemed to be indefinite within the stated uncertainties, 
+provided the SRM is stored and handled in accordance with the Storage and Handling and Instructions for Use sections 
+of  this  certificate.    Accordingly, periodic  recalibration  or  recertification  of  this  SRM  is  not  required.    However, 
+certification will be nullified if the SRM is contaminated or otherwise altered. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+Storage and Handling:  Silicon nitride is typically inert under ambient and testing conditions.  Samples from the 
+original bottle may be returned to the bottle and reused provided that the Instructions for Use, Sampling Procedure, and 
+Outgassing Procedure are strictly followed. 
+ 
+Cautions to User:  This SRM is NOT certified for pore size distribution, sample density, adsorption/desorption isotherm 
+form, or  particle size by any other method.  While the SSA of this SRM was determined using a static volumetric BET 
+type of instrument using nitrogen gas, it is possible that different methods of gas adsorption surface area analysis (e.g. 
+flowing gas analysis/dynamic gas analysis) may be used.  Its suitability for use with a different gas is undetermined.  The 
+user must determine the effect of different methods and measurement dynamics on the SSA of this SRM.   
+ 
+Coordination for this SRM was  provided by S.E. Malghan and S.J. Dapkunas of the NIST Ceramics Division.  
+ 
+The BET measurement technique, development, and certification was performed by D.B. Minor of the NIST Ceramics 
+Division. 
+ 
+Statistical analysis was performed by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  22 December 2008 
+See Certificate Revision History on Last Page 
+
+ 
+Debra L. Kaiser, Chief 
+Ceramics Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 1899  
+
+ 
+
+Page 1 of 3 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR USE1 
+ 
+The following instructions are based upon using a Quantachrome Autosorb 1, Model AS-1-11 using the pellet cell.  Use 
+of a large internal diameter cell will most likely yield an SSA, both single point and multipoint, higher than the stated 
+value  for  this  SRM.    The  effect  of  using  a  larger  volume  cell  has  not  been  determined  by  NIST.    An  instrument 
+manufacturer (Quantachrome Corp.) has tested SRM 1899 using both a large diameter sample tube and the pellet tube.  
+The results of these investigations are given in Table 2.  If using equipment other than that listed above, consult the 
+equipment manufacturer’s operating instructions for variations in testing procedure.  The sampling and outgassing 
+procedures described below should always be followed.  The sample preparation procedure was developed at NIST for 
+the U.S. Department of Energy and the International Energy Agency [2]. 
+ 
+Sampling Procedure:  Pour the entire contents of the bottle onto a suitable piece of weighing paper and quarter the 
+resulting pile.  Scoop enough material from each of the quarters so that the entire amount is sufficient for analysis.  The 
+mass to be analyzed should be between 0.1 g and 0.25 g.  Return the rest of the sample to the bottle, recap, and reserve 
+for future use.  The bulk sample need not be kept under vacuum or in a desiccator. 
+ 
+Outgassing Procedure:  Pre-weigh an empty sample tube and filler rod and record this empty mass to the closest 
+0.0001 g.  Place the sample into the analysis tube per manufacturer’s instructions or accepted practice.  Evacuate the 
+sample tube to less than 1.3 Pa (10 mTorr) and heat the sample to 200 oC for two h.  At the end of this time, turn off the 
+heat, remove the heating mantle and allow the sample to come to ambient temperature.  Back fill that sample with He 
+gas, and weigh  to the closest 0.0001 g.  This is the filled mass.  Calculate the sample mass by difference.  Immediately 
+perform the analysis following the manufacturer’s directions or the user’s particular method. 
+ 
+Certification Technique and Uncertainties:  The SSA of SRM 1899 was determined on 20 randomly selected bottles 
+from the production run.  This SRM is certified for both multipoint (MP) and single point (SP) analysis using nitrogen 
+gas as the adsorbate and using a static volumetric type of instrument based upon the BET method [3].  The certified 
+specific surface area values and the expanded uncertainties assigned, computed according to the ISO and NIST Guides 
+[4],  are  listed  in  Table  1.    The  expanded  uncertainty  at  the  95  %  level  of  confidence  includes  uncertainty  due  to 
+measurement imprecision as well as material variation.  The certified value and expanded uncertainty define a range of 
+values within which the true specific surface area is expected to lie with at least 95 % confidence.  
+ 
+RM 8570 LGC GM Calcined Kaolin (surface area) was used as a reference in the evaluation of SRM 1899.  The  single 
+point and multipoint values reported for SSA of RM 8570 are close to those determined for SRM 1899, thus RM 8570 
+and SRM 1899 can be directly related [5].  Two main advantages of using SRM 1899 over RM 8570 are that the sample 
+preparation method for SRM 1899 is easier, and bound water of hydration is not an issue. 
+ 
+Additional Noncertified Information: Measurement using large diameter cells is compared with pellet cells in Table 2. 
+A typical analysis of the nitrogen gas used during the certification of SRM 1899 is given in Table 3.   
+ 
+Table 2.  Manufacturer’s Information Values and Uncertainties (2σ) Comparison of SSA using Differing Cell Types 
+ 
+
+Measurement Technique 
+
+Cell Type 
+
+Pellet 
+
+Pellet 
+
+Large Diameter 
+
+Large Diameter 
+
+ 
+
+Specific Surface Area 
+
+ 
+10.77  m2/g  ±  0.15 m2/g 
+ 
+10.55  m2/g  ±  0.14 m2/g 
+ 
+11.13  m2/g  ±  1.20 m2/g 
+ 
+10.85  m2/g  ±  0.87 m2/g 
+
+ 
+
+ 
+Multipoint 
+ 
+Single Point 
+ 
+Multipoint 
+ 
+Single Point 
+
+ 
+                                                 
+
+ 
+
+ 
+
+SRM 1899  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1Certain commercial equipment, instruments or materials are identified in this report to adequately specify the experimental procedure.  
+Such identification does not imply recommendation or endorsement by the National Institute of Standards and Technology, nor does it 
+imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+Page 2 of 3 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Table 3.  Typical Gas Analysis 
+
+Gas 
+Grade 
+Assay 
+O2 
+H2O 
+Total Hydrocarbons 
+
+Nitrogen 
+Industrial 
+
+99.995 % 
+< 20 mg/kg 
+< 16 mg/kg 
+< 5 mg/kg 
+
+p. 309 (1938). 
+
+Standards and Technology, U.S. Department of Commerce: Gaithersburg, MD (1994). 
+
+REFERENCES 
+[1]  Malghan,  S.G.;  Hausner,  H.;  Pompe,  R.;  Tsubaki,  J.;  Hsu,  S.M.;  Development  and  Testing  of  Procedures  for 
+Characterization of Ceramic Powders, IEA ANNEX II, Subtask 6, prepared by NIST for the U.S. Department of 
+ 
+ 
+Energy, Oak Ridge National Laboratory (1993). 
+[2]  Brunauer, S.; Emmett, P.; Teller, E.; Adsorption of Gases in Multimolecular Layers; J. Amer. Chem. Soc., Vol. 60, 
+ 
+[3]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9,  1st  ed.;  International 
+Organization for Standardization:  Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for 
+ 
+Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results,  NIST  Technical  Note  1297,  U.S. 
+ 
+Government Printing Office, Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+ 
+[4]  Colbert,  J.C.;  Report  of  Investigation  of  Surface  Area  Reference  Material  8570  Kaolin,  National  Institute  of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  22 December 2008 (Editorial updates); 12 July 1997 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 1899  
+
+ 
+
+Page 3 of 3 
+
+

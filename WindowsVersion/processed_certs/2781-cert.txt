@@ -1,0 +1,980 @@
+﻿ 
+
+ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+ 
+Standard Reference Material® 2781 
+ 
+Domestic Sludge 
+
+Table 
+
+Values: 
+
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  evaluation  of  methods  used  for  the 
+analysis of sludges and other materials of a similar matrix.  Certified values are provided for elements.  Reference 
+values are provided for elements, synthetic polycyclic musks, and perfluorinated compounds (PFCs) as Perfluorinated 
+Alkyl Acids (PFAAs) and Hexabromocyclododecanes (HBCDs).  Information values are provided for PFAAs.  SRM 
+2781  is  a  dried,  pulverized  domestic  sludge.    A  unit  of  SRM  2781  consists  of  a  bottle  containing  40  g  of  dried, 
+pulverized domestic sludge. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values for elements are listed in Table 1; analytical 
+confidence  in  its 
+methods are provided in Table 7.  A NIST certified value is a value for which NIST has the highest confidence in its 
+count 
+The 
+accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account  [1].    The 
+SI  unit  for 
+measurands are the certified mass fractions listed in Table 1 and are metrologically traceable to the SI unit for mass 
+expressed as percentages or as milligrams per kilogram, as indicated in the table. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  for  elemental  and  organic  constituents  are 
+provided in Tables 2 through Table 5; analytical methods are provided in at the end in Table 7.  Reference values are 
+noncertified values that are the best estimate of the true values based on available data.  The values do not meet NIST 
+criteria  for  certification  and  are  provided  with  associated  uncertainties  that  may  reflect  only  measurement 
+reproducibility, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement 
+among  multiple  analytical  methods  [1].    The  measurands  are  the  mass  fractions  listed  in  Tables  2  through  5  as 
+determined by the methods indicated and are metrologically traceable to the SI unit for mass fraction expressed as 
+percentages or as micrograms per kilogram, as indicated in the tables.  
+ 
+Information  Mass  Fraction  Values:    Information  mass  fraction  values  for  organic  constituents  are  provided  in 
+Table 6.  An information value is considered to be a value that will be of interest to the SRM user, but insufficient 
+information is available to assess the uncertainty associated with the value or only a limited number of analyses were 
+performed [1].  Information values may not be used to assess metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 2781 is valid, within the measurement uncertainty specified, 
+until  31  August  2025,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  technical  measurements  for  the  original  characterization  of  this  SRM  was 
+performed  by  J.D.  Fassett  of  the  NIST  Chemical  Sciences  Division.    Coordination  and  certification  of  additional 
+elements  and  organic  constituents  were  performed  by  J.L.  Reiner  of  the  NIST  Chemical  Sciences  Division  and 
+D.J. O’Kelly formerly of NIST.  
+ 
+Statistical consultation was provided by L.M. Gill and N.A. Heckert of the NIST Statistical Engineering Division. 
+ 
+ 
+
+by  L.M.
+
+ 
+Gaithersburg, MD 20899  
+Certificate Issue Date:  15 September 2015 
+Certificate Revision History on Page 6 
+
+  
+
+SRM 2781 
+
+ 
+
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Robert L. Watters, Jr, Director 
+Office of Reference Materials 
+
+Page 1 of 8 
+
+Analytical  measurements  were  performed  at  NIST  by  M.H.  Ahsan,  E.S.  Beary,  C.M.  Beck  II,  D.A.  Becker, 
+M.S. Epstein, K. Garrity, R.R.  Greenberg, R.M. Lindstrom, E.A. Mackey, J.L. Molloy, J.R. Moody, M.S. Nocun, 
+B.R. Norman, D.J. O’Kelly, P.J. Paulsen, A. Peck, S.A. Rabb, M.S. Rearick, J.L. Reiner, T.A. Rush, R. Saraswati, 
+J.M. Smeller, R.L. Watters, Jr., and L.J. Wood. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 2781 must be stored in its original bottle at temperatures less than 30 °C. 
+ 
+Use:    A  minimum  sample  mass  of  100  mg  (dry  mass;  see  “Instructions  for  Drying”)  should  be  used  and  sample 
+preparation procedures should be designed to effect complete dissolution for analytical determinations to be related 
+to the certified values provided.  
+ 
+Instructions for Drying:  When nonvolatile elements are to be determined, samples should be vacuum dried at room 
+temperature for 24 h or oven dried for 2 h at 110 °C.  Volatile elements (e.g., arsenic, mercury, and selenium) and 
+organic constituents should be determined on samples as received; separate samples should be dried according to these 
+instructions to obtain a correction factor for moisture.  Moisture corrections are then made to measurement values 
+before comparing them to the certified values.  [Note that the mass loss on drying at the time of certification was found 
+to be in the range of 4.7 % to 6.6 % when using the recommended drying procedures.] 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Source  and  Preparation  of  Material:    The  U.S.  Geological  Survey  (USGS),  under  contract  to  NIST,  obtained 
+partially  dehydrated  sewage  cake  material  from  the  Metropolitan  Denver  Sewage  Disposal  District  No.  1.    The 
+material  (approximately  182  kg)  was  placed  in  plastic-lined  drums  and  transported  to  the  USGS  facilities 
+(Lakewood, CO) for processing.  It was dried at ambient temperature in a forced air chamber, ground to pass a 74 µm 
+(200 mesh) sieve, blended for 24 h to assure homogeneity of the pulverized material.  Test samples were taken from 
+the blender for preliminary homogeneity analyses.  The material was then radiation sterilized.  The sterilized material 
+was shipped in bulk to NIST, where the material was bottled in 40 g units after reblending for 4 h. 
+ 
+Analysis:  The homogeneity was assessed at USGS on 10 replicate samples of bulk material for over 40 elements 
+using  x-ray  fluorescence  (XRF)  and/or  inductively  coupled  plasma  atomic  emission  spectrometry  (ICP-AES).  
+Homogeneity  was  further  assessed  during  certification  analysis.    At  sample  sizes  of  100  mg  or  greater,  no 
+sample-to-sample variations in excess of those expected from the analytical measurements performed at USGS were 
+detected. 
+ 
+Value Assignment:  Analyses for value assignment were performed by NIST and collaborating laboratories where 
+appropriate.  Values were reported on a dry-mass basis in mass fraction units and are based on measurements using a 
+sample mass of at least 100 mg.  Analytical methods are provided in Table 7.   
+ 
+
+ 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2781 
+
+Page 2 of 8 
+
+ 
+
+Table 1.  Certified Mass Fractions for Elements 
+ 
+
+Element 
+
+Arsenic (As) 
+Cadmium (Cd) 
+Chromium (Cr) 
+Copper (Cu) 
+Lead (Pb) 
+Mercury (Hg) 
+Molybdenum (Mo) 
+Nickel (Ni) 
+Selenium (Se) 
+Silver (Ag) 
+Zinc (Zn) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.67(a) 
+0.63(a) 
+
+ 
+7.81  ± 
+  12.78  ± 
+  202 
+  627.8 
+  200.8 
+ 
+  46.6 
+  80.2 
+  16.0 
+  97.6 
+ 1273 
+
+±  14(a) 
+±  18.4(b) 
+4.2(b) 
+± 
+0.14(b) 
+3.68  ± 
+5.4(a) 
+± 
+1.8(b) 
+± 
+1.5(a) 
+± 
+6.5(b) 
+± 
+±  68(a) 
+
+Element 
+
+Nitrogen (N) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+4.78  ± 
+
+0.16(b) 
+
+(a) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The uncertainty listed with each value is an expanded uncertainty about the mean [1,2], with coverage factor, k, 
+based on the t-interval where the degrees of freedom is the number of methods minus one and calculated by combining a pooled 
+within-method variance with a between-method variance [3] following the ISO/JCGM Guide [4,5].  The certified values are 
+reported on a dry-mass basis.  For certified values to be valid, the material must be dried according to the instructions provided 
+above. 
+
+(b) The  certified  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The expanded uncertainty is the half-width of a symmetric 95 % parametric bootstrap confidence interval [6], which 
+is consistent with the ISO/JCGM Guide [4,5].  The effective coverage factor, k, is 2.  The certified values are reported on a 
+dry-mass basis.  For certified values to be valid, the material must be dried according to the instructions provided above. 
+
+ 
+ 
+Reference Mass Fraction Values:  Each reference mass fraction value, expressed as a mass fraction on a dry-mass 
+basis, is an equally weighted mean of results provided by NIST and/or collaborating laboratories. 
+ 
+
+Table 2.  Reference Mass Fractions for Elements 
+
+nce 
+
+ 
+
+ 
+ 
+
+Element 
+
+Beryllium (Be) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(µg/kg) 
+
+±  24.7(a) 
+
+Element 
+
+Aluminum (Al) 
+Calcium (Ca) 
+Iron (Fe) 
+Magnesium (Mg) 
+Phosphorus (P) 
+Potassium (K) 
+Silicon (Si) 
+Sodium (Na) 
+Titanium (Ti) 
+
+Mass Fraction 
+(%) 
+
+± 
+1.6 
+± 
+3.9 
+2.8 
+± 
+0.59  ± 
+2.43  ± 
+0.49  ± 
+5.1 
+± 
+0.21  ± 
+0.31  ± 
+
+0.1(b) 
+0.1(c) 
+0.1(c) 
+0.02(b) 
+0.04(b) 
+0.03(b) 
+0.2(a) 
+0.01(b) 
+0.01(b) 
+
+ 
+(a) The reference mass fraction value was calculated from a single measurement method.  The expanded uncertainty is the half width 
+of a 95 % Students t-confidence interval for μ.  The reference values are reported on a dry-mass basis.  For reference values to 
+be valid, the material must be dried according to the instructions provided above. 
+
+(b) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The reference values are reported on a dry-mass basis.  The expanded uncertainty is the half-width of a symmetric 
+95 % parametric bootstrap confidence interval [6], which is consistent with the ISO/JCGM Guide [4,5].  The effective coverage 
+factor, k, is 2.  For reference values to be valid, the material must be dried according to the instructions provided above. 
+
+(c)  The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The uncertainty listed with each value is an expanded uncertainty about the mean [1,2], with coverage factor, k, 
+calculated  by  combining  a  pooled
+based on the t-interval where the degrees of freedom is the number of methods minus one and calculated by combining a pooled 
+within-method variance with a between-method variance [3] following the ISO/JCGM Guide [4,5].  For reference values to be 
+valid, the material must be dried according to the instructions provided above. 
+
+  613.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2781 
+
+ 
+
+Page 3 of 8 
+
+Table 3.  Reference Mass Fractions for Polycyclic Musks 
+
+Mass Fraction 
+(µg/kg) 
+
+1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexa-methyl-cyclopenta-(γ)-2-benzopyran (HHCB) 
+7-Acetyl-1,1,3,4,4,6-hexamethyltetralin (AHTN) 
+5-Acetyl-1,1,2,6-tetramethyl-3-isopropylindan (ATII) 
+4-Acetyl-1,1-dimethyl-6-tert-butylindan (ADBI) 
+6-Acetyl-1,1,2,3,3,5-hexamethylindan (AHMI) 
+
+ 
+
+ 
+ 
+ 
+ 
+
+9200  ±  1220(a) 
+900(a) 
+19700  ± 
+90(a) 
+2260  ± 
+60(a) 
+1140  ± 
+6(b) 
+142  ± 
+
+ 
+(a) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The uncertainty listed with each value is an expanded uncertainty about the mean [1,2], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance  [3]  following  the  ISO/JCGM 
+Guide [4,5].  The reference values are reported on a dry-mass basis.  For reference values to be valid, the material must be dried 
+according to the instructions provided above. 
+
+(b) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The expanded uncertainty is the half-width of a symmetric 95 % parametric bootstrap confidence interval [6], which 
+is consistent with the ISO/JCGM Guide [4,5].  The effective coverage factor, k, is 2.  The reference values are reported on a dry-
+mass basis.  For reference values to be valid, the material must be dried according to the instructions provided above. 
+
+ 
+
+ 
+
+Table 4.  Reference Mass Fractions for Selected Perfluorinated Alkyl Acids (PFAAs) 
+ 
+
+Perfluorohexanoic Acid (PFHxA) 
+Perfluoroheptanoic Acid (PFHpA) 
+Perfluorooctanoic Acid (PFOA) 
+Perfluorohexanesulfonic Acid (PFHxS) 
+Perfluorooctanesulfonic Acid (PFOS) 
+Perfluorooctane Sulfonamide (PFOSA) 
+
+Mass Fraction(a) 
+(µg/kg) 
+
+13.0 
+
+± 
+7.96  ± 
+± 
+9.39  ± 
+
+28.5 
+
+2.0 
+1.50 
+3.3 
+1.76 
+
+225 
+
+±  41 
+
+6.31  ± 
+
+ 0.97 
+
+(a) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The uncertainty listed with each value is an expanded uncertainty about the mean [1,2], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance  [3]  following  the  ISO/JCGM 
+Guide [4,5].  The reference values are reported on a dry-mass basis.  For reference values to be valid, the material must be dried 
+according to the instructions provided above. 
+
+Table 5.  Reference Mass Fractions for Hexabromocyclododecanes (HBCD) 
+
+α-hexabromocyclododecane (α-HBCD) 
+β-hexabromocyclododecane (β-HBCD) 
+γ-hexabromocyclododecane (γ-HBCD) 
+
+Mass Fraction 
+(µg/kg) 
+
+17.8 
+
+± 
+1.65  ± 
+9.73  ± 
+
+1.7(a) 
+0.39(a) 
+0.77(b) 
+
+(a) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+analyte [1].  The uncertainty listed with each value is an expanded uncertainty about the mean [1,2], with coverage factor, k = 2, 
+calculated  by  combining  a  pooled  within-method  variance  with  a  between-method  variance  [3]  following  the  ISO/JCGM 
+Guide [4,5].  The reference values are reported on a dry-mass basis.  For reference values to be valid, the material must be dried 
+according to the instructions provided above. 
+
+(b) The  reference  mass  fraction  value  is  a  weighted  mean  of  the  mass  fractions  determined  by  the  methods  indicated  for  each 
+ach
+analyte [1].  The expanded uncertainty is the half-width of a symmetric 95 % parametric bootstrap confidence interval [6], which 
+is consistent with the ISO/JCGM Guide [4,5].  The effective coverage factor, k, is 2.  The reference values are reported on a 
+dry-mass basis.  For reference values to be valid, the material must be dried according to the instructions provided above. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+SRM 2781 
+
+ 
+
+Page 4 of 8 
+
+Table 6.  Information Mass Fraction Values for Selected Perfluorinated Alkyl Acids (PFAAs) 
+ 
+
+ 
+
+Perfluorononanoic Acid (PFNA) 
+Perfluorodecanoic Acid (PFDA) 
+
+Mass Fraction 
+(µg/kg) 
+
+5.09 
+4.76 
+
+ 
+ 
+
+ 
+
+Table 7.  Methods used for the Analysis of SRM 2781 
+
+Analyte 
+
+Method(a) 
+
+Analyte 
+
+Method(a) 
+
+Aluminum 
+Arsenic 
+Beryllium 
+Cadmium 
+Calcium 
+Chromium 
+Copper 
+HBCDs 
+Iron 
+Lead 
+Magnesium 
+Mercury 
+Molybdenum 
+
+Musks 
+Nickel 
+Nitrogen 
+
+INAA, ICP-AES, XRF 
+RNAA, Hyd. AAS, INAA 
+ICP-MS 
+ID-ICPMS, PGAA, RNAA, INAA, TXRF  PFAAs 
+INAA, TXRF, ICP-AES, XRF 
+INAA, ICP-OES 
+ID-ICPMS, RNAA, INAA, TXRF 
+LC-MS/MS 
+INAA, TXRF, ICP-AES, XRF 
+ICP-AES, ID-ICPMS, TXRF 
+INAA, ICP-AES, XRF 
+FIA-CV-AAS, RNAA, INAA 
+ID-ICPMS, ICP-AES, TXRF, INAA 
+
+Phosphorus 
+Potassium 
+Selenium 
+Silicon 
+Silver 
+Sodium 
+Titanium 
+Zinc 
+ 
+
+GC-MS 
+ICP-AES, ID-ICPMS, INAA, TXRF 
+PGAA 
+LC-MS/MS 
+Color, ICP-AES, XRF 
+INAA, TXRF, ICP-AES 
+Hyd. AAS, RNAA, INAA, TXRF 
+XRF 
+INAA, ICP-OES 
+INAA, ICP-AES, XRF 
+INAA, TXRF, XRF 
+ICP-AES, ID-ICPMS, INAA, TXRF 
+ 
+
+(a) Methods used for establishment of certified mass fraction values are shown in bold-face type; methods used for reference mass 
+
+ethods  used  for  reference 
+
+fraction values or to corroborate certified mass fraction values are not in bold. 
+Methods Key: 
+
+INAA:  Instrumental Neutron Activation Analysis 
+ICP-AES:  Inductively Coupled Plasma-Atomic Emission Spectroscopy 
+XRF:  X-Ray Fluorescence 
+RNAA:  Radiochemical neutron activation analysis 
+Hyd AAS:  Hydride Generation Atomic Absorption Spectroscopy 
+ICP-MS:  Inductively Coupled plasma – mass spectrometry 
+ID-ICPMS:  Isotope Dilution Inductively Coupled Plasma Mass Spectrometry 
+metry 
+PGAA:  Prompt Gamma Activation Analysis 
+TXRF:  Total Reflection X-ray Fluorescence Spectrometry 
+ICP-OES:  Inductively Coupled plasma 
+LC-MS/MS:  Liquid chromatography – Mass Spectroscopy Mass Spectroscopy 
+FIA-CV-AAS:  Cold Vapor Atomic Absorption Spectroscopy  
+GC-MS:  Gas chromatography – Mass Spectroscopy 
+Color:  Colorimetry 
+
+ 
+ 
+Cooperating Analysts and Laboratories: 
+ 
+University of Illinois, Nuclear Engineering Department, Champaign, IL, S. Landsberger and D. Wu. 
+USGS, Lakewood, CO, S.A. Wilson, D. Siems, and P. Briggs. 
+GKSS Research Center, Institute of Physical and Chemical Analytics, Geesthacht, Germany, A. Prange, U. Reus, and 
+
+ilytics,  Geesthacht,  Germany
+
+R. Neidergesäss. 
+
+3M Company; St. Paul, MN. 
+Colorado School of Mines. 
+US Environmental Protection Agency; Athens, GA. 
+Wageningen IMARES; Ijmuiden, The Netherlands. 
+ 
+ 
+
+ 
+
+SRM 2781 
+
+  
+
+Page 5 of 8 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[2]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[3]  Horn, R.A.; Horn, S.A.;  Duncan, D.B.; Estimating Hetroscedastic Variance in Linear Models; J. Am. Stat. 
+
+[4] 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sep  2015);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2015). 
+JCGM  101:2008;  Evaluation  of  Measurement  Data  –  Supplement  1  to  the  Guide  to  the  Expression  of 
+Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method; 
+JCGM  (2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Sep 2015). 
+Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+
+[6] 
+[7]  Kane, J.S.; Leach Data vs Total: Which is Relevant for SRMs; Fresenius J. Anal. Chem. Vol. 352: pp 209–213, 
+
+[5] 
+
+Vol. 
+
+(1995). 
+
+[8]  U.S. EPA 1991 Code of Federal Regulations, Title 40, Part 136, Paragraph 33. 
+[9] 
+
+Federal Register SW-846, Test Methods for Evaluating Solid Waste, Physical/Chemical Methods; available at 
+www.epa.gov (accessed Sep 2015). 
+
+inorganic  and  organic  constituents;  addendum  changed 
+
+[10]  New Jersey Administrative Code,  N.J.A.C., 7:14-4 (1994). 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  15 September 2015 (Change from reference to certified mass fractions and the addition of reference mass fractions 
+for  several 
+to  appendix;  change  of  expiration  date;  editorial  changes); 
+ 
+25 October 1996 (Addition of Addendum); 22 June 1995 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301)  948-3730; 
+telephone 
+ 
+accomplished  by  contacting 
+-//www.nist.gov/srm 
+e-mail srminfo@nist.gov; or via the Internet http://www.nist.gov/srm.  
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+fax 
+
+ 
+
+SRM 2781 
+
+ 
+
+Page 6 of 8 
+
+APPENDIX A 
+ 
+Leachable Mass Fractions Using U.S. EPA and NJDEP Methods for Flame Atomic  
+Absorption Spectrometry and Inductively Coupled Plasma Atomic Emission Spectrometry 
+
+ 
+To obtain total mass fractions, either subsamples of the SRM must be completely decomposed, or the sample must be 
+analyzed directly in its solid form.  For mixed acid dissolution, hydrofluoric acid must be included in the acid mixture 
+to totally dissolve siliceous material present in sludge. 
+ 
+For a number of environmental monitoring purposes, acid extractable mass fractions of elements are often used rather 
+than total mass fractions.  Acid extractable methods do not necessarily result in total decomposition of the sludge.  It 
+should be noted that results obtained using acid leach conditions are often depicted in reports as total results.  However, 
+reported acid labile or extractable mass fractions of elements are generally lower than total mass fractions.  Results 
+are often presented as measured mass fractions in the leachate in comparison to the total or certified mass fractions.  
+The recovery of an element as a percent of total is a function of several factors such as the mode of occurrence in the 
+sample, leach medium, leach time, temperature conditions, and pH of the sample-leach medium mixture [7].  
+ 
+In its monitoring programs, the U.S. Environmental Protection Agency (U.S. EPA) has established a number of leach 
+methods, such as Methods 3015, 3050, and 3051 [8,9] for the determination of acid labile or extractable mass fractions 
+of  elements.    The  New  Jersey  Department  of  the  Environment  (NJDEP)  has  developed  its  own  leach  method, 
+NJDEP 100 for state use [10].  The NJDEP and the U.S. EPA prepared samples of SRM 2781 using the NJDEP 100 
+method and EPA Methods 3050 and 3051 and analyzed the resulting leachates by FAAS and ICP-AES. 
+ 
+Reference values have been established for the acid-leachable mass fractions of several elements in SRM 2781.  These 
+values  are  the  means  of  all  results  from  the  different  leach  measurement  methods  and  combinations  used.    The 
+reference values are listed in Table A1, along with their uncertainties which are based on 95 % confidence intervals 
+of  the  means  of  results.    For  some  of  the  elements  (copper,  iron,  silver,  vanadium),  no  statistically  significant 
+differences were found among results from the two laboratories using three or four combinations of sample preparation 
+and instrumental measurement techniques (NJDEP 100 - FAAS; NJDEP 100 - ICP-AES; EPA 3050 - ICP-AES; EPA 
+3051 - ICP-AES).  For all other elements, statistically significant between-laboratory differences were identified and 
+are  included  in  the  stated  uncertainties.    These  differences  are  small  in  comparison  to  control  limits  for  many 
+environmental monitoring programs.  Therefore, the reference values are meaningful, despite the between-laboratory 
+differences found. 
+ 
+Reference Values:  The reference values given in Table A1 are not NIST certified but are provided as a reference for 
+U.S. EPA 3050 and 3051, and NJDEP 100 methods.  The uncertainties are based on a 95 % confidence interval for 
+the mean and include an allowance for differences between the analytical methods used. 
+ 
+
+ 
+
+Leach  R 
+each 
+
+ 
+
+Recovery  (%) 
+
+100  x 
+ (%) =   100 ×
+
+= 
+
+%) 
+
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿ℎ
+
+ 
+𝑅𝑅𝐿𝐿𝐿𝐿𝑅𝑅𝑅𝑅𝐿𝐿𝑅𝑅𝑦𝑦
+
+Leach  Value 
+ 
+  
+Certified  or  Reference  Value
+
+ 
+
+ 
+
+ 
+ 
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿ℎ
+𝑅𝑅𝑅𝑅
+
+𝑉𝑉𝐿𝐿𝑉𝑉𝑉𝑉𝐿𝐿
+𝑅𝑅𝐿𝐿𝐶𝐶𝐿𝐿𝑅𝑅𝐿𝐿𝑅𝑅𝐿𝐿𝐿𝐿
+
+𝑉𝑉𝐿𝐿𝑉𝑉𝑉𝑉𝐿𝐿
+
+𝐶𝐶𝐿𝐿𝑅𝑅𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐿𝐿𝐶𝐶
+
+SRM 2781 
+
+ 
+
+Page 7 of 8 
+
+Table A1.  Reference Leach Values for SRM 2781 
+ 
+
+Leachable Mass Fraction 
+(mg/kg) 
+
+Leach Recovery 
+(%) 
+
+Element 
+
+Aluminum (Al) 
+Barium (Ba) 
+Cadmium (Cd) 
+Calcium (Ca) 
+Chromium (Cr) 
+Copper (Cu) 
+Iron (Fe) 
+Lead (Pb) 
+Magnesium (Mg) 
+Manganese (Mn) 
+Nickel (Ni) 
+Silver (Ag) 
+Vanadium (V) 
+Zinc (Zn) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+± 
+8040 
+± 
+570 
+± 
+11 
+± 
+36440 
+± 
+143 
+± 
+601 
+± 
+24300 
+± 
+183 
+± 
+4850 
+745 
+± 
+72.3  ± 
+86.3  ± 
+81.9  ± 
+± 
+
+1120 
+
+980 
+65 
+2 
+1830 
+14 
+16 
+2100 
+15 
+290 
+33 
+6.3 
+1.7 
+3.8 
+34 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+50 
+--(a) 
+86 
+93 
+71 
+96 
+87 
+91 
+82 
+-- 
+90 
+88 
+-- 
+88 
+
+(a) -- indicates that a certified or reference total mass fraction value was not available for the element. 
+ 
+ 
+Cooperating Analysts and Laboratories:   
+ 
+S.J. Nagourney; New Jersey Department of the Environment, Trenton, NJ.  
+J. Birri, K. Peist; U.S. Environmental Protection Agency, Edison, NJ. 
+ 
+
+SRM 2781 
+
+ 
+
+Page 8 of 8 
+
+

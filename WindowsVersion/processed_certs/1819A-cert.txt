@@ -1,0 +1,359 @@
+﻿Pia 
+
+s 
+
+yw 
+5,  Bel 
+
+%, 
+
+eigen  * 
+
+Faryy  OF 
+
+Naltonal  dnsttlule  of  Standards  &  Cerbnalagyu 
+
+Certtftrate  of  Analysts 
+
+Standard  Reference  Materials  1819a 
+
+Sulfur  in  Lubricating  Base  Oil 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  use  as  an  analytical  standard  in  the  determination  of  tou 
+sulfur  in  lubricating  base  oils  or  materials  of  similar  composition,  SRM  1819a  consists  of  five  hibricaling  base  ails 
+at  different  sulfur  concentrations, 
+
+Total  Sulfur  Concentration  (ma'keg)  in  SRM  1819a 
+
+Level 
+
+OW! 
+Oii  [I 
+On  Tt 
+Oi  IV 
+Ol  ¥ 
+
+Certified 
+Value 
+
+423.5 
+7411 
+
+4022 
+4689 
+6135 
+
+Expanded 
+Uncertainty 
+
+2 
+4.3 
+i? 
+21 
+23 
+
+The  sulfur  contents  in  SRM  1819a  were  certified  using  isotope  dilution  thermal  ionization  mass  spectrometry  (1D- 
+TIMS).  The  expanded  uncertainty  of  the  certified  values  was  computed  according  to  the  NIST  uncertainty  policy, 
+as  described  in  NIST  Technical  Note  1297  [1],  and  is  at  the  95%  level  of  canfidence. 
+
+Oils 
+
+Eto  TV  were  purchased  from  suppliers  and  Oil  ¥  was  provided  by  Mobil  Corp.,  Paulsboro,  NJ. 
+
+The  standards  shoukl  be  stored  in  a  cool,  dark  place  wher  not  in  use. 
+
+The  cerification  of  SRM  1819a  is  valid  for  three  years  from  the  date  of  shipment  from 
+Please  discard  the  standards 
+
+Stability  and  Storage: 
+NIST. 
+immediately  if  anv  sediment  is  observed. 
+
+ID-TIMS  analyses  for  certification  were  performed  hy  WLR.  Kelly  and  R,  Vocke,  Inorganic  Analytical  Research 
+Division,  X-ray  Nuorescence  analyses  were  performed  by  P.T.  Pei,  Ceramic  Division  and  by  J.R.  Sicher.  Texaco 
+Inc.,  Beacon,  NY,  to 
+The 
+production  of  this  SRM  was  coordinated  by  P.T.  Pei. 
+
+test  for  homogeneity,  according  t  modified  ASTM  D  4294-90  and  D  4927-39. 
+
+The  statistical  analysis  of  the  certification  data  was  performed  by  S.B.  Schiller,  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  T.E.  Gills  and  J.S.  Kane. 
+
+Gaithersburg,  MD  20899 
+April  Li,  (994 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+(over)
+
+SUPPLEMENTAL  INFORMATION 
+
+The  uncertainty  of  the  certified  value  does  not  réflect  the  expected  precision  of  a  finture  measurement  by  X-ray 
+fluorescence  spectrascopy  (modified  ASTM  D  4294-90);  therefore,  a  table  providing  the  expected  precision  of  a 
+single  future  measurement  (at  the  95%  confidence  level)  is  given,  Assuming  the  measurement  process  is  under 
+comiral,  a  future  measurement  should  fall  within  this  unceriainty  of  the  certified  value. 
+
+Certified  Value  (ng/kp} 
+
+Uncertainty  of  a 
+Singic  Future  XRE 
+Measurement 
+
+Level  [ 
+
+Level  I 
+
+Level  Ul 
+
+Level  [IV 
+
+Level  ¥ 
+
+4238 
+
+Fal 
+
+422 
+
+4689 
+
+6135 
+
+1 
+
+14 
+
+66 
+
+6) 
+
+92 
+
+3 
+11 
+169 
+oc 
+oo 
+
+A 
+N 
+A 
+B 
+B 
+
+The  table  below  describes  the  sources  of  uncertaimty  combined  co  determine  the  expanded  uncertainties  of  the 
+certified  values. 
+The  combined  suuulard  uncertainty  is  the  root  sum  of  squares  of  the  individual  standard 
+uncertainties,  and  the  expanded  uncertainty  is  the  product  of  the  combined  standard  uncertaimy  and  a  t-multiplier 
+based  on  the  degrees  of  freedom  reported  in  the  table. 
+
+Level 
+
+I 
+
+H 
+
+Iv 
+
+v 
+
+Degrees  of 
+Freedom 
+
+Uncertainty 
+Type? 
+
+Components  of  Uncertainty  (mg‘ke) 
+
+sampic  Mcasurement 
+Spike  Calibration 
+Sampic  Blank 
+Spike  Blank 
+Mass  Fractionation 
+
+6.60 
+0.23 
+0.81 
+0.12 
+0.35 
+
+1.58 
+0.4G 
+0.93 
+0.21 
+0.61 
+
+Hl 
+
+O21 
+2.20 
+0.98 
+1,16 
+3.28 
+
+7.83 
+2.36 
+0.94 
+1.36 
+3.83 
+
+8.59 
+3.35 
+0,93 
+177 
+5.0) 
+
+Combined: 
+
+1.10 
+
+1.98 
+
+F.St 
+
+9.23 
+
+10,68 
+
+Certified  Value 
+of  S  (mg/kg): 
+Expanded 
+Uncertainty: 
+Degrees  of  Freedom: 
+
+423.5 
+
+741.1 
+
+4022 
+
+4689 
+
+4155 
+
+2.2 
+
+730 
+
+43 
+12 
+
+i? 
+it 
+
+2) 
+10 
+
+23 
+12 
+
+' 
+
+A: 
+B: 
+
+Estimated  by  statistical  methods 
+Estimated  by  scientific  judgment
+
+The  following  physical  properties  of  SRM  $8192  have  been  measuced  to  provide  additional  information  on  the  nature 
+of  the  oils:  the  values  are  reported,  bul  are  not  certified. 
+Tests  were  performed  at  Saybolt,  Inc.,  Corpus  Christi, 
+TX. 
+
+Physical  Propertics  of  SRM  1819a 
+
+Ol 
+
+iF 
+Wl 
+Iv 
+
+Flash* 
+Point 
+*C) 
+
+232 
+207 
+207 
+249 
+235 
+
+Kinernatic® 
+Viscosity 
+ieSt} 
+
+40  °C 
+
+ig0  °C 
+
+49.93 
+24.88 
+30,85 
+63,00 
+38.34 
+
+74 
+4.64 
+$.36 
+8.39 
+6.17 
+
+Density! 
+aris  °C 
+dky it 
+
+Refractive® 
+Index 
+Cea) 
+
+0.8703 
+0.8650 
+0.8725 
+O.8779 
+0.8768 
+
+L.4?  70 
+1.4775 
+L  4800 
+b.A820 
+1.4830 
+
+Table  3 
+
+Pour® 
+Point 
+ce 
+
+“15 
+6 
+O 
+6 
+-6 
+
+Methods  Used  for  Physical  Tests 
+
+ASTM  D  92-90  Flash  and  Fire  Points  by  Cleveland  Open  Cup. 
+
+.  ASTM  D  445-88  Kinematic  Viscosity  of  Transparent  and  Opaque  Liquids. 
+
+ASTM  D  97-87  Pour  Paint  of  Petroleum  Oils. 
+ASTM  D  1298-90  Density,  Relative  Density  or  API  Gravity  of  Crude  Petrolcum  and  Liguid  Petroleum  Products 
+by  Hyclrometer  mechad. 
+ASTM  D  1218-82  Test  for  Refractive  Index  and  Refractive  Dispersion  of  Hydrocarbon  Liquids. 
+
+{!] 
+
+Taylor,  B.N.,  and  Kuyatt,  C.E..  “Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST 
+Measurement  Results",  NIST  Tech  Note  1297,  (1993). 
+
+REFERENCE 
+
+e
+e
+t
+
+

@@ -1,0 +1,342 @@
+﻿res 
+%     
+vee" 
+
+National  Insittule  of  Standards  &  Technology 
+
+Cerlifteale  of  Analysts 
+
+Standard  Reference  Material  1818a 
+
+Chlorine  in  Lubricating  Base  Oils 
+
+This  Standard  Reference  Matertal  (SRM)  is  intended  for  use  as  an  analytical  standard  far  the  determination  of  total 
+chiorine  in  lubricating  base  oils  or  matcrials  of  similar  composition.  SRM  18182  consists  of  a  series  of  five  20  mL 
+ampules  of  lubricating  base  oils  at  different  chlorine  concentrations. 
+
+Level 
+
+1818a-I 
+181)  8a-ff 
+1818a-HI 
+1$18a-fV 
+1818a-V 
+
+Total  Chlorine  Concentration  Gin  mg*kg3 
+
+Certified  Value 
+
+Expanded  Uncertainey 
+
+31.6 
+60.0 
+78.2 
+{S4.4 
+234.0 
+
+0.9 
+2.3 
+2.5 
+5.3 
+[2.4 
+
+The  chlorine  certified  values  in  SRM  18182  were  established  using  instrumental]  neutron  activation  analysis  (INAA}. 
+Homogeneity  testing  perfonned  using  X-ray  Nuorescence  spectroscopy  (XRF)  did  not  show  significant  material 
+variance,  while  INAA  certification  analyses  did  detect  possible  material  heterogeneity. 
+
+The  uncertainty  was  calculated  according  to  NIST  Technical  Note  1297,  "Guidelines  for  Evaluating  and  Expressing 
+Uncertainty  of  NIST  Measurement  Results”.  {{]  The  expanded  uncertainty  given  includes  both  analytical  uncertainty 
+and  possible  material  hetcragencity,  and  is  at  the  95%  level  of  confidence. 
+
+Stability  and  Storage: 
+The 
+ampules  should  be  stored  in  a  cool  and  dark  place,  Any  ampule  observed  to  contain  sediment  should  be  discarded. 
+
+The  certification  of  SRM  18182  is  valid  for  three  years  from  date  of  purchase, 
+
+INAA  analyses  for  certification  were  performed  by  L.  Tandon  and  D.A.  Becker,  of  the  NIST  Inarganic  Analytical 
+Research  Division  and  XRF  analyses  were  performed  by  P.T.  Pei,  of  the  NIST  Ceramic  Division,  The  production 
+of  tis  SRM  was  coordinated  by  P.T.  Pei. 
+
+The  statistical  analysis  of  the  certification  data  was  performed  by  $.B.  Schiller,  of  the  NIST  Statistical  Engineering 
+Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  by  T.E.  Gills  and  J.S.  Kane  through  the  Standard  Reference  Materials  Program. 
+
+Gaithersburg,  MD  20899 
+April  11,  1994 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+fover)
+
+SUPPLEMENTAL  INFORMATION 
+
+I, 
+
+Detailed  standard  uncertainties  (in  maka),  and  Degrees  of  Freedom  (DF),  assuming  material  heterogeneity 
+based  on  INAA  data 
+
+Tabic  1.  Components  of  Uncertainty  (marke) 
+
+Degrees  of 
+Freedom! 
+
+Uncertainty 
+Type* 
+
+Source  of  Uncertainty 
+
+I 
+
+Ul 
+
+HI 
+
+Iv 
+
+¥ 
+
+Measurement  Replication 
+and  Material  Variability 
+Standard  Concentration 
+Irradiation  Position 
+Weighing 
+Couming  Geomeirry 
+
+O.061 
+G.285 
+(047 
+0.001 
+0.046 
+
+0.0810 
+0.445 
+0.09] 
+0.002 
+0.094 
+
+0.799 
+0.703 
+Q.11F 
+0.002 
+0.134 
+
+2.052 
+0.770 
+0.232 
+0.005 
+Q.196 
+
+4.861 
+LL  70 
+G.351 
+0.007 
+0.304 
+
+3 
+3 
+3 
+» 
+oo 
+
+A 
+A 
+A 
+A 
+RB 
+
+Combined  Uneertainty: 
+
+Q.299 
+
+0.983 
+
+L.OTY 
+
+2.213 
+
+3.021 
+
+Certified  Value  (mp‘kg) 
+Degrees  of  Freedom: 
+Coverage  Factor: 
+Expanded  Uncertainty: 
+
+31.6 
+3.62 
+2.90 
+0.87 
+
+60.0 
+8.15 
+2.30 
+2.3 
+
+78.2 
+
+8.32 
+2,29 
+2.45 
+
+154.4 
+6.44 
+2.41 
+5.3 
+
+234.0 
+
+3.65 
+2.48 
+12.4 
+
+Two  degrees  of  freedom  for  standard  concentration  in  Levels  IV  &  ¥ 
+
+2  Uncertainty  Type: 
+
+A: 
+B: 
+
+By  statistical  methods 
+By  other  means 
+
+lf.  XRF  Results 
+
+The  uncertainty  of  the  certified  value  dees  not  reflect  the  expected  precision  of  a  future  measurement  by  X-ray 
+fluorescence  spectroscopy  (XRF)  (2);  therefore,  a  table  providing  the  expected  precision  of  a  single  measurement 
+(at  the  95%  confidence  level)  is  given.  Assuming  the  measurement  process  is  under  control,  a  future  measurement 
+should  fall  within  this  uncertainty  of  the  certified  valuc. 
+
+Certified  Value 
+
+Uncertainty  of  a 
+
+in  mgske 
+
+single  future  XRF  measurement 
+
+Level  | 
+Level  Il 
+Level  1 
+Level  IV 
+Level  ¥ 
+
+3.6 
+60.0 
+78.2 
+154.4 
+234.0 
+
+7S 
+6.1 
+37 
+af 
+14.1
+
+The  following  physical  propertics  have  been  measured  on  SRM  1818a  to  provide  additional  information  on  the 
+nature  of  the  oils,  the  values  are  reported,  but  are  not  certified. 
+
+Table  3 
+
+Physical  Properties  of  SRM  1818a  Lubricating  Base  Oils 
+
+Flash? 
+Point 
+cy 
+
+Kinematic! 
+Viscosity 
+ieSy 
+
+Pous* 
+Point 
+rey 
+
+Density? 
+13  °C 
+at 
+CegiLy 
+
+Refractive* 
+Index 
+(ah? 
+
+4OFC 
+
+100°C 
+
+38.6 
+28.52 
+25.37 
+31.49 
+31.02 
+
+8.38 
+5.04 
+4,67 
+5.34 
+5.30 
+
+-12 
+-12 
+4 
+5 
+Q 
+
+216 
+195 
+210 
+204 
+196 
+
+0.8773 
+0.8752 
+0.8730 
+0.8773 
+0.87%) 
+
+L.4825 
+AROS 
+1.4790 
+14815 
+1.4835 
+
+Ou 
+
+I 
+i 
+i 
+iv 
+¥ 
+
+Methods  Used  for  Physical  Tests 
+
+a,  ASTM  D  92-90  Flash  Point  by  Cleveland  Open  Cup. 
+b.  ASTM  1)  445-88  Kinematic  Viscosity  of  Transparent  and  Qpaque  Liquids, 
+c.  ASTM  D  97-87  Pour  Point  of  Petroleum  Oils. 
+d.  ASTM  D  1298-90  Density,  Relative  Density  or  AP]  Gravity  of  Cride  Petroleum  &  Liquid  Petroleam  Products 
+
+by  Hydrometer  method. 
+
+ec.  ASTM  D  1218-82  Test  for  Refractive  Index  and  Refractive  Disperison  of  Hydracarbon  Liquids. 
+
+The  measurements  for  Table  3  were  pertormed  by  G.  Plocek,  Saybolt,  Inc..  Corpus  Chrisi,  TX. 
+
+REFERENCE 
+
+{i)  Taylor,  B.N.,  and  Kuyatt,  C.£.,  “Guidelines  fer  Evaluating  and  Expressing  the  Uncertainty  of  NIST 
+
+Measurement  Results,  NIST  Tech  Note  1297,  (1993). 
+
+[2] 
+
+Pei,  P  T.,  Fleming,  R..  and  Hsu,  $.M.,  “Test  Methods  for  Total  Chlorine  in  Lubricating  Base  Oils",  NIST 
+Special  Publication  674,  p.  271  (£984). 
+
+e
+e
+t
+
+

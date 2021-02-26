@@ -1,0 +1,648 @@
+﻿National Institute of Standards & Technology 
+
+Staves  of ©
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1991 
+
+ 
+
+ 
+Mixed Coal Tar/Petroleum Extract in Methylene Chloride 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination 
+of  selected  polycyclic  aromatic  hydrocarbons (PAHs),  particularly  in  determining  relative  response  factors  for 
+ASTM Method D7363-11  “Standard  Test  Method  for  Determination  of  Parent  and  Alkyl  Polycyclic  Aromatics  in 
+Sediment Pore Water Using Solid-Phase Microextraction and Gas Chromatography/Mass Spectrometry in Selected 
+Ion  Monitoring  Mode” [1].    All  of  the  constituents  for  which  certified,  reference,  and  information  values  are 
+provided are naturally present in the extract.  A unit of SRM 1991 consists of five ampoules each containing 1.2 mL 
+of a methylene chloride solution. 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  for  PAHs  are  provided  in  Table 1.    A  NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources  of  uncertainty  have  been  investigated  or  taken  into  account [2].    The  certified  values  are  based  on  the 
+agreement of results obtained at NIST and the Energy and Environmental Research Center (EERC) at the University 
+of North Dakota (Grand Forks, ND) using multiple analytical techniques. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values are provided in Table 2 for additional PAHs and 
+in  Table 3  for  groups  of  alkylated  PAHs.    Reference  values  are  noncertified  values  that  are  estimates  of  the  true 
+values.  The values do not meet the NIST criteria for certification and are provided with associated uncertainties that 
+may  reflect  only  measurement  precision,  may  not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of 
+sufficient statistical agreement among multiple analytical methods [2]. 
+ 
+Information  Mass  Fraction  Values:    Information  mass  fraction  values  are  provided  in  Table 4  for  additional 
+PAHs.    An  information  value  is  considered  to  be  a  value  that  will  be  of  interest  and  use  to  the  SRM  user,  but 
+insufficient information is available to assess adequately the uncertainty associated with the value or only a limited 
+number of analyses were performed [2]. 
+ 
+Expiration of Certification:  The certification of SRM 1991 is valid, within the measurement uncertainty specified, 
+until 30 September 2020 provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+M.M. Schantz and L.C. Sander of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  J.A. Murray  and  M.M. Schantz  of  the  NIST  Chemical 
+Sciences Division and D.J. Miller and S.B. Hawthorne of the EERC. 
+ 
+Evaluation of the data was provided by N.A. Heckert and A.L. Pintar of the NIST Statistical Engineering Division.  
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  25 February 2013 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 1991 
+
+ 
+
+Page 1 of 6 
+
+Partial  funding  support  for  the  preparation  and  certification  of  this  SRM  was  provided  by  the  Electric  Power 
+Research Institute (EPRI, Palo Alto, CA). 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:    This  material  contains  PAHs  in  methylene  chloride,  many  of  which  have  been  reported  to  have 
+mutagenic and/or carcinogenic properties and should be handled with care (see Material Safety Data Sheet).  Use 
+proper disposal methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Use:  Samples for analysis (minimum sample size of 400 mg) should be withdrawn at 20 °C to 25 °C immediately 
+after opening ampoules and should be processed without delay for the certified values in Table 1 to be valid within 
+the stated uncertainties.  Certified values are not applicable to material stored in ampoules that have been opened 
+longer than 4 minutes. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample  Preparation:  The  mixed  coal  tar/petroleum  non-aqueous  phase  liquid (NAPL)  used  for  this  SRM  was 
+received from  EERC.   A known  mass  of  the  mixed  coal  tar/petroleum  sample  was  diluted  with  a known  mass  of 
+methylene chloride in a large glass carboy.  The diluted mixture was stirred overnight and ampouled under an argon 
+headspace the following day.  Each 2 mL amber ampoule contains approximately 1.2 mL of the methylene chloride 
+solution. 
+ 
+Polycyclic  Aromatic  Hydrocarbons:    The  general  approach  used  for  the  value  assignment  of  the  PAHs  in 
+SRM 1991 consisted of combining results from analyses using various combinations of chromatographic separation 
+and detection techniques [3]. 
+ 
+Three  sets  of  gas  chromatography/mass  spectrometry (GC/MS)  results,  designated  as  GC/MS (I)  through 
+GC/MS (III), were obtained at NIST.  For GC/MS (I) analyses, duplicate test portions of 400 mg from 10 ampoules 
+of  SRM 1991  were  transferred  to  individual  vials,  were  spiked  with  a  known  amount  of  an  internal  standard 
+solution (see  below),  and  were  analyzed  on  the  GC/MS.    They  were  then  diluted  approximately  1:10 (volume 
+fraction)  with  methylene  chloride  and  rerun  on  the  GC/MS.    Each  sample  was  analyzed  by  GC/MS  using  a 
+0.25 mm i.d.  × 60 m  fused  silica  capillary  column  with  a  50 % (mole  fraction)  phenyl  methylpolysiloxane  phase 
+(0.25 μm  film  thickness;  DB-17MS,  Agilent  Technologies,  Wilmington,  DE).    The  results  from  the  DB-17MS 
+column are denoted as GC/MS (I). 
+ 
+For the GC/MS (II) and GC/MS (III) determination of the PAHs, one test portion (400 mg, exact mass known) from 
+each of six ampoules was transferred to a vial and spiked with a known amount of internal standard solution (see 
+below).  The solutions were analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column with a 
+relatively  non-polar  proprietary  stationary  phase  (0.25 μm  film  thickness;  DB-XLB,  Agilent  Technologies).    The 
+same  samples  were  analyzed  by  GC/MS  using  a  0.25 mm i.d.  × 15 m  fused  silica  capillary  column  with  a  50 % 
+(mole fraction) liquid crystal polysiloxane phase (0.15 μm film thickness; LC-50, J&K Scientific, Milton, Ontario, 
+Canada).  The results from the DB-XLB column are denoted as GC/MS (II) and those from the LC-50 column as 
+GC/MS (III). 
+ 
+For  the  methods  described  above,  selected  perdeuterated  PAHs  were  added  to  the  coal  tar  solution  as  described 
+above for use as internal standards for quantification purposes. 
+ 
+In addition to the analyses performed at NIST, SRM 1991 was analyzed by EERC using a method similar to that 
+described in Hawthorne et al. [4].  These data were used as the fourth data set, GC/MS (IV), in the determination of 
+the values for PAHs in SRM 1991. 
+ 
+Homogeneity  Assessment  for  PAHs:    The  homogeneity  of  SRM 1991  was  assessed  by  analyzing  duplicate  test 
+portions  of  400 mg  from  10 ampoules  selected  by  stratified  random  sampling  using  GC/MS (I).    No  differences 
+among ampoules were observed for the PAHs at the 400 mg test portion size.  
+ 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by NIST, nor does it imply that the 
+materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1991 
+
+Page 2 of 6 
+
+ 
+
+Certified  Mass  Fraction  Values:    The  certified  values  are  weighted  means  of  average  mass  fractions,  with  one 
+average  from  each  of  two  or  more  analytical  methods [5,6].    The  expanded  uncertainty  is  the  half  width  of  a 
+symmetric  approximately 95 %  parametric  bootstrap  confidence  interval [7],  which  is  consistent  with  the  ISO 
+Guide [8,9].  The effective coverage factor, k, is included in the table for each PAH. 
+ 
+
+Table 1.  Certified Mass Fraction Values for Selected PAHs in SRM 1991 
+
+ 
+
+ 
+
+Naphthalene(a,b,c) 
+1-Methylnaphthalene(a,b,c) 
+2-Methylnaphthalene(a,b,c) 
+Biphenyl(a,b) 
+Dibenzothiophene(a,b,d) 
+Phenanthrene(a,b,c,d) 
+Anthracene(a,b,c,d) 
+1-Methylphenanthrene(a,b) 
+3-Methylphenanthrene(a,b,d) 
+9-Methylphenanthrene(a,b) 
+2-Methylanthracene(a,b,d) 
+4H-Cyclopenta[def]phenanthrene(a,b,d) 
+Fluoranthene(a,b,c,d) 
+Pyrene(a,b,c,d) 
+Benzo[ghi]fluoranthene(a,b,d) 
+Benzo[c]phenanthrene(a,b,d) 
+Benz[a]anthracene(a,b,c,d) 
+Chrysene(a,b,d) 
+Benzo[a]fluoranthene(a,b,d) 
+Benzo[b]fluoranthene(a,d) 
+Benzo[j]fluoranthene(a,d) 
+Benzo[k]fluoranthene(a,b,d) 
+Benzo[e]pyrene(a,b,c,d) 
+Benzo[a]pyrene(a,b,c,d) 
+Perylene(a,b,c,d) 
+Benzo[ghi]perylene(a,b,c,d) 
+Indeno[1,2,3-cd]pyrene(a,b,c,d) 
+Dibenz[a,c]anthracene(a,d) 
+Dibenz[a,h]anthracene(a,d) 
+Benzo[b]chyrsene(a,b,d) 
+Picene(a,b,d) 
+
+Mass Fraction(a) 
+(mg/kg) 
+
+  1.1 
+
+  0.5 
+
+  0.6 
+
+26.0 
+8.02    0.32 
+11.7 
+2.03    0.06 
+1.20    0.06 
+12.1 
+3.33    0.43 
+1.54    0.12 
+2.40    0.10 
+1.17    0.05 
+1.35    0.04 
+1.80    0.15 
+3.54    0.39 
+5.91    0.16 
+0.292    0.019 
+0.440    0.025 
+1.79    0.21 
+1.32    0.15 
+0.342    0.020 
+0.565    0.050 
+0.479    0.041 
+0.336    0.012 
+0.652    0.028 
+1.33    0.12 
+0.203    0.017 
+0.549    0.028 
+0.382    0.030 
+0.071    0.003 
+0.128    0.025 
+0.183    0.015 
+0.121    0.017 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+k 
+
+2.02 
+1.97 
+1.98 
+1.97 
+1.97 
+1.96 
+1.97 
+1.97 
+1.97 
+1.97 
+1.96 
+1.97 
+1.97 
+1.97 
+1.96 
+1.97 
+1.97 
+1.97 
+1.97 
+1.97 
+1.97 
+1.97 
+1.97 
+1.97 
+1.96 
+1.97 
+1.97 
+1.96 
+1.96 
+1.97 
+1.97 
+
+ 
+(a) GC/MS (I) – analysis on a DB-17MS column 
+(b) GC/MS (II) – analysis on a DB-XLB column 
+(c) GC/MS (IV) – analysis at EERC 
+(d) GC/MS (III) – analysis on an LC-50 column 
+ 
+
+ 
+
+SRM 1991 
+
+ 
+
+Page 3 of 6 
+
+Reference Mass Fraction Values for PAHs:  The reference values are weighted means of average mass fractions, 
+with one average from each of two or more analytical methods [5,6], when available.  The expanded uncertainty is 
+the half width of a symmetric approximately 95 % parametric bootstrap confidence interval [7], which is consistent 
+with the ISO Guide [8,9].  For PAHs analyzed by only one method, the reference mass fraction value is the mean of 
+results obtained using that analytical technique.  The expanded uncertainty, U, is calculated as U = kuc, where uc is 
+one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is  determined  from  the  Student’s 
+t-distribution corresponding to the associated degrees of freedom and a 95 % confidence level for each analyte.  The 
+effective coverage factor k is included in the table for each PAH. 
+ 
+
+Table 2.  Reference Mass Fraction Values for Selected PAHs in SRM 1991 
+ 
+
+ 
+
+Acenaphthene(a,b,c) 
+Fluorene(a,b,c) 
+1-Methylfluoranthene(b) 
+3-Methylfluoranthene(b) 
+1-Methylpyrene(a,b,d) 
+4-Methylpyrene(a,b,d) 
+Cyclopenta[cd]pyrene(b,d) 
+Triphenylene(b,d) 
+3-Methylchrysene(a,b,d) 
+Anthanthrene(a,b, f) 
+Dibenz[a,j]anthracene(a,b,d) 
+Coronene(b) 
+Dibenzo[b,k]fluoranthene(b) 
+Dibenzo[a,e]pyrene(b) 
+Dibenzo[a,h]pyrene(b) 
+
+Mass Fraction 
+(mg/kg) 
+
+  0.89 
+  1.0 
+
+6.83 
+3.8 
+0.098    0.009 
+0.257    0.025 
+0.638    0.043 
+0.65 
+  0.12 
+0.216    0.011 
+0.255    0.016 
+0.226    0.005 
+0.204    0.009 
+0.124    0.024 
+0.114    0.017 
+0.122    0.006 
+0.105    0.007 
+0.027    0.005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+k 
+
+1.97 
+1.97 
+2.57 
+2.57 
+1.97 
+1.98 
+1.97 
+1.97 
+1.99 
+1.96 
+1.97 
+2.57 
+2.57 
+2.57 
+2.57 
+
+ 
+(a) GC/MS (I) – analysis on a DB-17MS column 
+(b) GC/MS (II) – analysis on a DB-XLB column 
+(c) GC/MS (IV) – analysis at EERC 
+(d) GC/MS (III) – analysis on an LC-50 column 
+
+SRM 1991 
+
+ 
+
+Page 4 of 6 
+
+Reference  Mass  Fraction  Values  for  Alkylated  PAH  Groups:    The  reference  values  are  weighted  means  of 
+average mass fractions, with one average from each of two or more analytical methods [5,6], when available.  The 
+expanded  uncertainty  is  the  half  width  of  a  symmetric  approximately  95 %  parametric  bootstrap  confidence 
+interval [7], which is consistent with the ISO Guide [8,9].  For C3-fluorenes, the reference mass fraction value is the 
+mean  of  results  obtained  using  one  analytical  technique.    The  expanded  uncertainty,  U,  is  calculated  as  U = kuc, 
+where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the Student’s 
+t-distribution corresponding to the associated degrees of freedom and a 95 % confidence level for each analyte.  The 
+effective coverage factor k is included in the table for each PAH. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Selected Alkylated PAH Groups(a) in SRM 1991 
+ 
+
+ 
+
+C2-naphthalenes(b,c) 
+C3-naphthalenes(b,c) 
+C4-naphthalenes(b,c) 
+C1-fluorenes(b,c) 
+C2-fluorenes(b,c) 
+C3-fluorenes(b) 
+C1-dibenzothiophenes(b,d) 
+C2-dibenzothiophenes(b,d) 
+C3-dibenzothiophenes(b,d) 
+C1-phenanthrenes/anthracenes(b,c,d) 
+C2-phenanthrenes/anthracenes(b,c,d) 
+C3-phenanthrenes/anthracenes(b,c,d) 
+C4-phenanthrenes/anthracenes(b,c) 
+C1-fluoranthenes/pyrenes(b,c,d) 
+C2-fluoranthenes/pyrenes(b,d) 
+C1-benzanthracenes/chrysenes/triphenylenes(b,c,d) 
+C2-benzanthracenes/chrysenes/triphenylenes(b,d) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+  2.8 
+  1.5 
+  4.7 
+
+21.3 
+29.5 
+33.8 
+5.62    0.27 
+7.20    0.39 
+5.16    0.50 
+1.53    0.04 
+1.06    0.09 
+0.415    0.036 
+10.7 
+15.5 
+15.1 
+10.2 
+6.86    0.54 
+1.67    0.44 
+1.54    0.46 
+0.44    0.12 
+
+  3.2 
+  1.9 
+  0.2 
+  1.1 
+
+k 
+
+1.97 
+1.97 
+1.97 
+1.98 
+2.40 
+2.57 
+1.98 
+1.98 
+1.97 
+1.97 
+1.97 
+1.96 
+2.43 
+1.98 
+1.96 
+1.97 
+1.96 
+
+ 
+(a) For GC/MS (II) and GC/MS (III), the compounds used for quantification were:   
+
+C2-naphthalenes – an average response from 1,2-, 1,6-, and 2,6-dimethylnapthalene;   
+C3-napthalenes – 2,3,5-trimethylnaphthalene; 
+C1- to C3-fluorenes – fluorene; 
+C1- to C3-dibenzothiophenes – dibenzothiophene; 
+C1-phenathrenes/anthracenes – an average response from 1-, 2-, 3-, and 9-methylphenantherene; 
+C2-, C3-, and C4-phenanthrenes/anthracenes – 1,7-dimethylphenanthrene; 
+C1- and C2-fluoranthenes/pyrenes – an average response from 3- and 6-methylfluoranthene and 1- and 4-methylpyrene;  
+C1- and C2-benzanthracenes/chrysenes/triphenylenes – an average response from 3- and 6-methylchrysene. 
+For GC/MS (IV), the compounds used for quantification are described in reference [4]. 
+
+(b) GC/MS (II) – analysis on a DB-XLB column 
+(c) GC/MS (IV) – analysis at EERC 
+(d) GC/MS (III) – analysis on an LC-50 column 
+ 
+ 
+
+ 
+
+ 
+
+Table 4.  Information Mass Fraction Values for Selected PAHs in SRM 1991 
+
+1,6-Dimethylnaphthalene(a,b) 
+Acenaphthylene(a,b,c) 
+2-Methylphenanthrene(a,b,d) 
+1,7-Dimethylphenanthrene(a,b,d) 
+
+Mass Fraction 
+(mg/kg) 
+
+3.9 
+0.5 
+2.0 
+0.5 
+
+(a) GC/MS (I) – analysis on a DB-17MS column 
+(b) GC/MS (II) – analysis on a DB-XLB column 
+(c) Acenaphthylene may be unstable in the solution.  The value from EERC was 4.6 mg/kg. 
+(d) GC/MS (III) – analysis on an LC-50 column 
+
+SRM 1991 
+
+ 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  ASTM Method D7363-11; Standard Test Method for Determination of Parent and Alkyl Polycyclic Aromatics 
+in  Sediment  Pore  Water  Using  Solid-Phase  Microextraction  and  Gas  Chromatography/Mass  Spectrometry  in 
+Selected Ion Monitoring Mode; ASTM Committee D19, Subcommittee D19.06 (2011). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Feb 2013) 
+
+[3]  Wise, S.A.; Poster, D.L.; Kucklick, J.R.; Keller, J.M.; VanderPol, S.S.; Sander, L.C.; Schantz, M.M.; Standard 
+Reference  Materials  (SRMs)  for  Determination  of  Organic  Contaminants  in  Environmental  Samples;  Anal. 
+Bioanal. Chem., Vol. 386, pp. 1153–1190 (2006). 
+
+[4]  Hawthorne, S.B.;  Miller, D.J.;  Kreitinger, J.P.;  Measurement  of  Total  Polycyclic  Aromatic  Hydrocarbon 
+Concentrations  in  Sediments  and  Toxic  Units  Used  for  Estimating  Risk  to  Benthic  Invertebrates  at 
+Manufactured Gas Plant Sites; Environ. Toxicol. Chem., Vol. 25, pp. 287–296 (2006). 
+
+[5]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[6]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[7]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+[8]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2013);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Feb 2013). 
+
+[9]  JCGM  101:2008;  Evaluation  of  Measurement  Data  –  Supplement 1  to  the  Guide  to  the  Expression  of 
+Uncertainty  in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 1991 
+
+ 
+
+Page 6 of 6 
+
+

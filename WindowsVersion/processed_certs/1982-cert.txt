@@ -1,0 +1,1322 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1982 
+ 
+Thermal Spray Powder – Particle Size Distribution 
+Yttria-Stabilized Zirconia (Spheroidal) 
+ 
+This Standard Reference Material (SRM) is primarily intended for use in the calibration of equipment used to measure 
+particle  size  distributions (PSD)  in  the  10 μm  to  150 μm  range.    A  unit  of  SRM 1982  consists  of  a  single  bottle 
+containing approximately 10 g of yttria-stabilized zirconia (YSZ) powder.   
+ 
+The  PSD  values  at  five  mass  percentiles  were  measured  by  scanning  electron  microscopy (SEM)  and  laser  light 
+scattering (LLS), and sieving [1].  The certified PSD values by SEM are listed in Table 1.  These certified values were 
+determined by the measurement of over 20 000 individual particles from five bottles.  The reference PSD values by 
+LLS and sieving are listed in Tables 2 and 3.  A comparison of all three methods is shown in Figure 1.   
+ 
+
+by  SEM
+Table 1.  Certified PSD Values by SEM 
+
+ 
+
+Cumulative Mass  
+(%) 
+
+Certified Diameter  
+(μm) 
+
+Uncertainty 
+(μm) 
+
+10 
+
+25 
+
+50 
+
+75 
+
+90 
+
+26.2 
+
+34.6 
+
+49.7 
+
+66.9 
+
+80.1 
+
+± 1.4 
+
+± 1.2 
+
+± 1.2 
+
+± 2.1 
+
+± 2.9 
+
+ 
+Certified  Value  Uncertainties:    The  measurand  is  the  diameter  for  each  cumulative  mass  listed  in  Table 1.  
+Metrological traceability is to the SI unit for length (expressed as micrometers).  The uncertainty at each percentile, 
+computed  according  to  the  ISO/JCGM  and  NIST  Guides [2],  is  an  expanded  uncertainty  at  the  95 %  level  of 
+confidence, which includes uncertainty due to measurement imprecision as well as material variability.  Each certified 
+diameter with its expanded uncertainty defines a diameter range within which the associated percentile is expected to 
+lie for at least 95 % of the samples. 
+ 
+Overall technical direction leading to the certification of this SRM were provided by S.G. Malghan and S.J. Dapkunas 
+formerly of the NIST Ceramics Division. 
+ 
+SRM measurement technique, development, and certification were performed by J.F. Kelly and P.T. Pei formerly of 
+the NIST Ceramics Division. 
+ 
+SRM powder characterization was performed by P.T. Pei, J.F. Kelly, and D. Minor formerly of the NIST Ceramics 
+Division.  
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 September 2016 
+Certificate Revision History on Last Page 
+
+John A. Small, Chief 
+Materials Measurement Science Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+SRM 1982  
+
+ 
+
+  Page 1 of 9 
+
+ 
+ 
+
+Expiration  of  Certification:    The  certification  of  SRM 1982  is  valid  indefinitely,  within  the  measurement 
+uncertainty  specified, prior to  use provided  the  unit  has not been  spilled, contaminated, or otherwise modified.  
+The  SRM 1982  powder  contains  no  organic  binder  and  is  therefore  considered  chemically  stable.    If  sieving  is 
+performed, it is recognized that some powder will be lost with each use.  When the unit’s mass loss exceeds 2 % of 
+the original mass, the certification is void.  If employing LLS, the unit or subdivision thereof should be discarded after 
+a single use. 
+ 
+ification.  If  substantive
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Statistical analyses were performed by the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+SRM Preparation and Bottling:  The starting material was a 9.08 kg batch of powder from a single lot (95087G-3A) 
+of YSZ produced by Metallurgical Technologies Inc. (Pearland, TX).  This powder was chosen for its size distribution, 
+spheroidal particle morphology (Figure 2) and low degree of aggregation.  The powder was split using spinning rifflers 
+into bottle units containing approximately 10 g each.  A randomized set of 100 bottles from the 730 bottles prepared 
+was selected for homogeneity testing and certification analyses.  Ten bottles were sent to Leeds and Northrup Co. 
+(St. Petersburg, FL) for homogeneity determination, (Microtrac model X-100).  The remaining bottles were set aside 
+for use in the SEM microscopy, sieving analysis, and Microtrac round robin study. 
+ 
+Scanning Electron Microscopy Analysis:  SEM based image analysis was carried out on six samples using five of 
+the 10 g bottles with two tests run on one bottle.  Sample preparation for microscopy entailed both a reduction in the 
+mass of powder and a separation into size fractions.  The size fractionation was accomplished by sieving with a Sonic 
+Sifter  (ATM  Corp.,  Milwaukee, WI)  using  U.S.  Standard  Series  sieves  numbers  170 (90 μm),  200 (75 μm), 
+230 (63 μm),  270 (53 μm),  325 (45 μm)  and  400 (38 μm).    Subsamples  from  each  of  the  sieve  splits  were  then 
+produced by successive division using a spinning riffler.  
+ 
+SEM images were acquired for each of the nine sieve fractions.  The backscatter electron images of the particles were 
+acquired as greyscale image files into a computer via a digital interface.  The 1024 x 1024 pixel images were analyzed 
+to obtain the projected area of each zirconia particle.  These areas were converted to a particle volume and particle 
+diameter  based  on  the  assumption  of  spherical  particle  shape.    The  pixel-to-length  conversion  was  calibrated  by 
+collecting  digital  images  of  calibrated  standard  NIST  RM 8090  SEM  Magnification  Reference  Material  and  of  a 
+micrometer slide measured at NIST using laser interferometry.  The two calibration standards agreed to within a length 
+uncertainty of 1 %.  Several hundred particles were measured for each sieve fraction for a total of approximately 4 000 
+zirconia particles measured from each bottle.  Particle size distributions describing the percentage of powder volume 
+represented by particles with diameters less than a given length were calculated using the weighting factors obtained 
+from the sieving results.  The diameter values corresponding to the specific mass fractions of 10 %, 25 %, 50 %, 75 %, 
+and 90 % are listed in Table 1.  Current practice in the thermal spray industry is to specify these values to define the 
+particle size distribution.  A graphical comparison of the mean of the SEM distributions with the mean distributions 
+obtained by sieve analysis and laser light scattering is shown in Figure 1.  The diameter values for the sieve analyses 
+were obtained by using the nominal ASTM mesh opening for each sieve. 
+ 
+The sieve results indicated that only about 2 % by mass of the material exceeds 90 μm in diameter in contrast to the 
+result  of  20 %  obtained  by  light  scattering.    This  discrepancy  is  expected  to  result  mainly  from  the  effect  of  the 
+breaking up of particle clusters by the sonic vibration associated with the sieving. 
+ 
+Laser Light Scattering Analysis by Microtrac Instrument:  Nine laboratories participated in this round robin study.  
+Each round robin participant received four bottles for analysis using their model of the Microtrac Instrument.  The 
+reference distribution values given in Table 2 are based on 42 measurements by the nine participating laboratories.  
+The  data  from  all  nine  laboratories  were  obtained  using  Microtrac  Instrumentation  models  7995,  7997,  158704, 
+FRA 9220, and X-100 following the sample preparation procedure specified by NIST.  Therefore, in the use of this 
+SRM for LLS, the sample dispersion procedure is mandatory, otherwise the data may not be comparable. 
+
+                              
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1982  
+
+  Page 2 of 9 
+
+ 
+
+Although  Microtrac  instruments  produce  a  continuous  plot  of  weight  percentage  finer  than  a  given  diameter,  five 
+cumulative percentiles were selected as a representative data set, consistent with current industrial practice.  Weighted 
+averages  of  each  participant’s  data  are plotted  in  Figure 3.    Analysis  from  ten  samples  in  duplicate  by  Leeds  and 
+Northrup showed no evidence of material heterogeneity.  
+ 
+ 
+
+Table 2.  PSD Reference Values by Laser Light Scattering (Microtrac) 
+
+ 
+
+Cumulative Mass 
+(%) 
+
+Reference Value  
+(μm) 
+
+Uncertainty  
+(μm) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+25 
+
+50 
+
+75 
+
+90 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24.3 
+
+36.1 
+
+53.1 
+
+73.6 
+
+95.6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+± 0.9 
+
+± 1.0 
+
+± 1.9 
+
+± 3.4 
+
+± 5.0 
+
+ 
+The  measurand  is  the  diameter  for  each  cumulative  mass  listed  in  Table 2  as  determined  by  LLS.    Metrological 
+traceability is to the SI unit for length (expressed as micrometers).  The expanded uncertainties, computed according 
+to the ISO/JCGM and NIST Guides [2], include between-laboratories and within-laboratory uncertainty and have a 
+joint level of confidence of 95 %.  The reference values and their expanded uncertainties for the five percentiles stated, 
+define  a  range  within  which  the  true  percentiles  of  the  distribution  are  expected  to  lie  with  approximately  95 % 
+confidence for all five percentiles considered together. 
+ 
+Sample Dispersion Procedure for Light Scattering Microtrac Method:  Use of this SRM for the reference PSD 
+values by the Microtrac method requires rigorous adherence to this sample dispersion procedure.  Otherwise, results 
+may not be comparable to the reference values listed in Table 2.  Each SRM unit contains 10 g powder sufficient for 
+one PSD analysis by older Microtrac instruments.  For newer Microtrac instruments such as model X-100, a smaller 
+sample size is needed and a micro-riffler is recommended for splitting the 10 g sample into subsamples of the desired 
+mass.  Another satisfactory splitting method may be used if a micro-riffler is unavailable [3].  Once used, samples 
+should be discarded. 
+ 
+To prepare solutions and  measurements,  use distilled  water for  which the pH is adjusted to 9.5 ± 0.1 using 0.1 M 
+sodium  hydroxide.    Make  a  paste  of  sample  powder  by  adding  separately  prepared  4 %  (by  mass)  sodium 
+pyrophosphate solution at the ratio of 0.5 cm3 per gram powder.  Transfer the paste quantitatively (totally) into the 
+measuring  cell  containing  pH-adjusted  distilled  water.    The  transfer  of  the  paste  can  be  achieved  by  flushing  the 
+container with pH-adjusted distilled water.  
+ 
+for  instrument  operation
+The size measurement is carried out by following the instrument manufacturer's procedure for instrument operation 
+and determination of PSD. 
+ 
+Sieving Analysis:  Ten samples were analyzed by sieving using wire mesh screen numbers 120, 170, 200, 230, 270, 
+325, and 400.  A Sonic Sifter was used in this analysis with the following settings:  10 min at amplitude setting 3, and 
+pulse/shift mode.  One bottle of this SRM was used for each test.  The measurand is the mass fraction for each sieved 
+mass listed in Table 3 as determined by method indicated.  Metrological traceability is to the SI derived unit for mass 
+(expressed as a percent).  The stated uncertainties represent one standard deviation from the mean of the mass fractions 
+passing each sieve. 
+ 
+
+ 
+
+SRM 1982  
+
+ 
+
+  Page 3 of 9 
+
+Table 3.  PSD Reference Values by Sieving.  Mean values for mass passing each sieve. 
+
+Mesh  
+(number) 
+
+Opening  
+(μm) 
+
+Mass Fraction  
+(%) 
+
+Standard Deviation  
+(%) 
+
+120 
+170 
+200 
+230 
+270 
+325 
+400 
+
+(125) 
+(90) 
+(75) 
+(63) 
+(53) 
+(45) 
+(38) 
+
+99.93 
+97.56 
+85.13 
+71.06 
+55.14 
+41.09 
+29.87 
+
+0.05 
+0.56 
+1.09 
+0.95 
+1.07 
+1.22 
+1.13 
+
+ 
+The following individuals and companies participated in the development of this SRM:  
+ 
+T. Weigel and P. Plantz; Leeds and Northrup (St. Petersburg, FL). 
+R.N. Jennings; Alloys International (Baytown, TX).   
+J. Tan; Hoeganaes Corp. (Riverton, NJ).   
+J. Cusati; Sulzer Metco (U.S.) Inc. (Hicksville, NY).   
+M. Roy and C. Kodali; Zircoa Inc. (Solon, OH).   
+H. Garrelts; Stellite Coatings (Goshen, IN).   
+R. Douglas; Metallurgical Technologies Inc. (Pearland, TX). 
+B. Spilka and P. Zajchowski; United Technologies Pratt & Whitney (East Hartford, CT). 
+L. Burnett; Praxair Surface Technologies (Indianapolis, IN).   
+C.J. Williams and D. Pohl; Horiba Instruments Inc. (Irvine, CA). 
+H. Hildebrand; Coulter Scientific Instruments (Hialeah, FL). 
+J. Bohan; Amherst Process Instruments (Hadley, MA).  
+C. Dam; Caterpillar Inc. (Peoria, IL). 
+M. Froning; H.C. Starck Inc. (Newton, MA). 
+ 
+Information Values:  Information values are provided in Tables 4 to 6.  An information value is considered to be a 
+value  that  will  be  of  interest  to  the  SRM  user,  but  insufficient  information  is  available  to  assess  the  uncertainty 
+associated with the value or only a limited number of analyses were performed.  Information values cannot be used to 
+establish metrological traceability. 
+ 
+
+Table 4.  Information Values for Selected Properties of SRM 1982 
+
+ 
+Specific Gravity by He Pycnometry:  
+Tap Density: 
+Hall Apparent Density: 
+Hall Flow Rate:  
+Specific Surface Area by Nitrogen Gas Adsorption Method: 
+ 
+
+5.86 g/cm3  ± 
+2.47 g/cm3  ± 
+1.82 g/cm3  ± 
+No Flow 
+0.40 m2/g 
+
+± 
+
+ 0.01 g/cm3 
+ 0.02 g/cm3 
+ 0.02 g/cm3 
+
+ 0.01 m2/g 
+
+Table 5. Major Chemical Compounds/Components 
+(data provided by Metallurgical Technologies Inc., Pearland, TX)  
+
+Constituent 
+
+Mass Fraction (%) 
+
+ 
+
+ 
+
+ 
+
+Yttrium Oxide 
+Hafnium Oxide 
+Silicon Oxide 
+Titanium Oxide 
+Aluminum Oxide 
+Calcium Oxide 
+Ferric Oxide 
+Magnesium Oxide 
+Uranium + Thorium Oxide 
+Zirconium Oxide(a) 
+
+7.33 
+1.39 
+0.13 
+0.08 
+0.02 
+0.01 
+0.02 
+0.01 
+0.01 
+91.00 
+
+ 
+(a)This mass fraction was arrived at by calculation assuming the balance was zirconium oxide. 
+oxide.
+ 
+
+SRM 1982  
+
+ 
+
+  Page 4 of 9 
+
+The averages of measurements made on the zirconia powder at each of the nine participating laboratories are listed in 
+Table 6.  The stated uncertainties represent one standard deviation.  
+ 
+
+Table 6.  Industrial Laboratory Data from Round-Robin Study on Zirconia Powder. 
+ 
+
+Weighted Average Particle Size (μm) 
+
+Laboratory 
+Microtrac Model 
+
+A/X-100 
+
+B/X-100 
+
+C/#7997 
+
+D/X-100 
+
+E/9220-4 
+
+F/7995-12 
+
+G/7995-10 
+
+H/158704-1 
+
+I/SRA#7995-11 
+
+Maximum 
+
+Minimum 
+
+d10 
+
+d25 
+
+d50 
+
+d75 
+
+d90
+
+(a) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24.5 ± 0.2 
+
+25.8 ± 0.5 
+
+23.5 ± 0.2 
+
+24.5 ± 1.6 
+
+24.9 ± 0.1 
+
+25.1 ± 0.3 
+
+23.7 ± 1.7 
+
+23.4 ± 0.1 
+
+24.1 ± 0.4 
+
+  25.8 
+
+  23.4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.3 ± 0.4 
+
+37.3 ± 1.9 
+
+35.1 ± 0.2 
+
+36.8 ± 2.4 
+
+35.9 ± 0.1 
+
+37.6 ± 0.5 
+
+36.3 ± 1.8 
+
+35.4 ± 0.2 
+
+34.9 ± 0.6 
+
+  37.6 
+
+  34.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+51.9 ± 0.6 
+
+55.4 ± 0.5 
+
+52.6 ± 0.3 
+
+53.6 ± 2.9 
+
+51.1 ± 0.2 
+
+55.5 ± 0.4 
+
+54.2 ± 2.4 
+
+53.5 ± 0.3 
+
+50.6 ± 0.8 
+
+  55.5 
+
+  50.6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+69.1 ± 0.9 
+
+89.7 ± 1.6 
+
+72.8 ± 0.4 
+
+89.6 ± 0.7 
+
+72.5 ± 0.4 
+
+97.4 ± 0.9 
+
+73.8 ± 3.3 
+
+94.4 ± 4.0 
+
+69.6 ± 0.3 
+
+91.8 ± 0.6 
+
+78.4 ± 1.0 
+
+  101.9 ± 0.5 
+
+75.9 ± 2.9 
+
+96.6 ± 5.6 
+
+75.9 ± 0.7 
+
+98.9 ± 2.1 
+
+74.6 ± 1.7 
+
+  100.0 ± 1.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  78.4 
+
+  69.1 
+
+101.9 
+
+89.6 
+
+ 
+ 
+(a) dN, is the particle diameter for which N % of the mass is finer. 
+ 
+
+SRM 1982  
+
+ 
+
+  Page 5 of 9 
+
+100
+
+  
+
+  
+
+)
+
+%
+
+(
+ 
+n
+o
+i
+t
+c
+a
+r
+F
+ 
+s
+s
+a
+M
+ 
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+  
+
+ 
+¢
+
+SEM
+
+  
+
+  
+
+  
+
+  
+
+     
+    
+  
+        
+  
+  
+  
+  
+
+   
+  
+
+      
+  r
+
+LaserDiffraction
+
+ 
+a
+
+  
+
+Sieve
+
+  
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Diameter (µm)
+
+ 
+
+ 
+Figure 1.  SRM 1982 Size Determination by SEM, Sieving and LLS. 
+ 
+
+SRM 1982  
+
+ 
+
+  Page 6 of 9 
+
+ 
+Figure 2.  SEM micrographs of SRM 1982 illustrating powder and particle morphology. 
+ 
+
+ 
+
+ 
+
+ SRM 1982  
+
+ 
+
+  Page 7 of 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+O
+s
+c
+ 
+
+a
+ 
+
+0
+0
+d
+ 
+
+f
+t
+ 
+
+O
+S
+L
+ 
+
+O
+O
+L
+ 
+
+o
+o
+ 
+
+O
+s
+ 
+
+I
+-
+4
+3
+ 
+
+o
+O
+ 
+
+o
+O
+ 
+
+w
+i
+t
+ 
+
+*
+3
+Z
+7
+1
+S
+ 
+
+A
+1
+O
+I
+L
+Y
+V
+d
+ 
+
+s
+j
+e
+p
+o
+w
+ 
+
+j
+u
+U
+s
+d
+s
+s
+j
+j
+i
+p
+ 
+
+B
+u
+i
+s
+n
+ 
+
+s
+a
+i
+0
+}
+y
+O
+4
+0
+Q
+D
+|
+ 
+
+J
+U
+s
+4
+a
+s
+s
+I
+P
+ 
+
+A
+q
+ 
+
+D
+l
+U
+O
+C
+o
+U
+I
+Z
+ 
+
+y
+o
+ 
+
+G
+S
+q
+ 
+
+“
+¢
+ 
+
+e
+4
+n
+B
+b
+i
+4
+ 
+
+y
+y
+ 
+
+Q
+D
+A
+P
+O
+I
+O
+I
+W
+ 
+
+J
+O
+ 
+
+ 
+
+i
+ 
+
+t
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+t
+ 
+
+|
+ 
+
+|
+ 
+
+y
+ 
+
+e
+ 
+
+V
+v
+ 
+
+o
+ 
+
+:
+ 
+
+°
+*
+ 
+ 
+
+°
+ 
+
+4
+A
+u
+0
+}
+_
+1
+0
+q
+g
+D
+0
+7
+ 
+
+a
+i
+n
+ 
+
+u
+d
+ 
+
+a
+e
+ 
+
+-
+ 
+
+y
+ 
+
+e
+ 
+
+a
+ 
+
+v
+ 
+
+i
+ 
+
+*
+ 
+
+y
+ 
+
+Z
+Y
+ 
+
+x
+ 
+
+]
+ 
+
+'
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+f
+o
+e
+ 
+
++
+0
+9
+ 
+
+L
+o
+p
+ 
+
+i
+ 
+
++
+O
+ 
+
+%  ‘NOLLOVYS  SSVI  SALLYININND
+
+k
+e
+ 
+
+9
+ 
+
+g
+e
+ 
+
+a
+y
+ 
+
+ 
+ 
+ 
+ 
+
+—
+l
+o
+o
+r
+ 
+
+©
+ 
+
+o
+e
+ 
+
+2
+ 
+
+A
+ 
+
+4
+ 
+
+L
+S
+ 
+
+ 
+
+SRM 1982  
+
+ 
+
+  Page 8 of 9 
+
+REFERENCES 
+
+ 
+[1]  Pei, P.T.;  Kelly, J.F.;  Malghan, S.;  Dapkunas, S.;  Analysis  of  Zirconia  Powder  for  Plasma  Spray:    Reference 
+Material for Particle Size Distribution Measurement; Proceeding of the 9th National Thermal Spray Conference, 
+Cincinnati, OH (1996). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Sep 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2016).  
+
+[3]  Allen, T.; Particle Size Measurement; Powder Technology Series, Ed. B. Scarlett, 3rd Ed., Chapman and Hall: 
+
+New York, p. 24, (1981). 
+
+16 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    19 September 2016  (Editorial  changes);  16 September 2003  (This  revision  reflects  the  addition  of  an  MSDS); 
+   
+  
+06 November 1996 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+SRM 1982  
+
+ 
+
+  Page 9 of 9 
+
+

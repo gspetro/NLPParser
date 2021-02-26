@@ -1,0 +1,474 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+
+ 
+
+ 
+Reference Material 8480 
+ 
+Secondary Ferrite Number Standard - Low Range 
+ 
+SAMPLE 
+Serial No:   SAMPLE 
+ 
+This Reference Material (RM) is intended for the calibration of instruments used to measure weld metal ferrite content 
+ntent 
+in  accordance  with  American  National  Standards  Institute (ANSI),  American  Welding  Society (AWS)  and 
+International Standards Organization (ISO) normative standards ANSI/AWS A4.2 and ISO 8249 [1,2].  The ferrite 
+made 
+content is measured in terms of a method defined quantity, the Ferrite Number (FN).  NIST measurements were made 
+in accordance with ANSI/AWS A4.2 [1]. 
+ 
+Description  and  Source  of  Material:    Each  RM  unit  is  a  set  of  eight  individually  measured  specimens.    Each 
+specimen  is  approximately  10 mm × 12 mm × 20 mm  and  has  an  identification  number  scribed  on  one  of  the 
+12 mm × 20 mm  faces.  The  measurement  surface is the  face opposite the surface that  contains the  identification 
+number.  RM 8480 comprises eight specimens having FN values ranging from 0 FN to 30 FN.  The related RM 8481 
+Secondary Ferrite Number Standard - High Range, comprises eight specimens having FN values ranging from 30 FN 
+to 120 FN. 
+ 
+The  RM  was  made  from  centrifugal  castings  of  chromium-nickel  steel  alloys.    The  ferrite  content  was  varied  by 
+adjusting the composition of the alloy.  The cast specimens approximate the ferrite distribution in a weld deposit and 
+have a solidification structure similar to that of  welds [3].  Like the ferrite in  welds, the magnetic response of the 
+ferritic (magnetic) phase varies with alloy composition.  The homogeneity of the cast material was demonstrated to 
+be sufficient for use as secondary FN standards [4]. 
+ 
+Metrological Traceability:  The measurand is ferrite number and is intended for the calibration of instruments used to 
+measure weld metal ferrite content in accordance with ANSI, AWS, and ISO normative standards ANSI/AWS A4.2 and 
+ISO 8249[1,2]. 
+ 
+Expiration  of  Value  Assignment:    RM 8480  is  valid  indefinitely,  within  the  measurement  uncertainty  specified, 
+provided  the  RM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  Report  of  Investigation (see 
+“Instructions for Handling, Storage and Use”).  Periodic validation of this RM is not required.  This report is nullified 
+if the RM is damaged, contaminated, or otherwise modified.  
+ 
+Material Maintenance:  NIST will monitor this RM over the period of its validity. If substantive technical changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser. 
+Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical measurements leading to certification were performed by F. DelRio 
+of  the  NIST  Applied  Chemicals  and  Materials  Division.    FN  measurements  and  analysis  were  managed  by 
+C.N. McCowan of the NIST Applied Chemicals and Materials Division.  Statistical support was provided by J. Wang 
+of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved in issuance of this RM were coordinated through the NIST Office of Reference Materials.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  07 November 2018 
+Report Revision History on Page 3 
+
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Frank DelRio 
+Applied Chemicals and Materials Division 
+
+Office  of  Reference  Materials.
+
+rials  Division 
+
+ 
+
+| 
+
+Page 1 of 4 
+
+  
+
+RM 8480 
+
+ 
+Centrifugal castings were manufactured by Merinov Enterprises (formerly the Mladis Co., Moscow, Russia). 
+ 
+NIST Measurement Procedure:  The FN measurements were made with a Magne-Gage-type instrument( 1) using a 
+#3 magnet, as specified by ANSI/AWS 4.2 [1].  Measurements were made on each specimen in the RM unit in five 
+positions by two operators using two gages.  As shown in Figure 1, the five positions are clustered about the center of 
+the specimen face.  At each position, five measurements were made by each operator using each gage.  The lowest 
+repeatable measurement of the five was retained in accordance with ANSI/AWS 4.2 (to screen out measurements for 
+which the magnet detaches prematurely).  In total, 100 measurements were made on each specimen, but only 20 are 
+used in the calculation of the FN value. 
+ 
+ 
+
+  
+
+    
+  
+
+Figure 1.  Measurements were made in the five positions shown, on 
+the face of the specimen opposite to the identification number. 
+
+ 
+ 
+Uncertainty Analysis:  The RM consists of eight individually measured specimens.  Table 1 provides three columns 
+of data on each specimen: the mean and standard uncertainty for position 5 of the specimen, pooled statistics from all 
+five positions on the specimen, and grand means and standard uncertainties for all five positions.  The data for position 
+5 is given as the reference value in accordance with normative standards [1,2]. The pooled statistics and grand averages 
+are provided in Table 1 for information only to more fully describe the variation in FN measurement within a specimen.  
+The pooled statistics combine information from each gage-operator combination.  The data used to generate the grand 
+mean considered every measurement as an individual observation regardless of gage, operator, or position. 
+ 
+Measurement Repeatability (uR):  The Type A uncertainty in FN measurements taken at a single location (position 5) 
+is due to differences in operators, gages, and magnets used on the gages.  uR is given in Table 1. 
+ 
+Calibration Error (uC):  The Type B uncertainties in FN measurements due to sources of bias include: (1) uncertainty 
+due to variation in the thickness of the coating thickness standards (SRMs 1321, 1363a and 1364a) used to calibrate 
+the gage, (2) uncertainty of the dial readings on the gage, and (3) uncertainty related to the fit of the calibration curve. 
+ 
+The calibration error shown in Figure 2 was determined by simulation.  A triangular distribution (± 0.5) was used to 
+model the error of the dial readings from the gage.  The root mean square error of the calibration result, based on 
+10 000 Monte Carlo samples, was used as the standard uncertainty for the calibration error. 
+ 
+Combined Uncertainty (u):  The two standard uncertainties (uR and uC) can be combined by quadrature addition to 
+obtain  the  overall  standard  uncertainty (combined  uncertainty).    To  determine  the  overall  uncertainty  for  a  given 
+specimen, the standard uncertainty for the specimen in Table 1 and the calibration error estimated for the FN level of 
+the specimen in Figure 2 are combined using Equation 1.  
+ 
+
+u
+
+=
+
+u
+
+2
+R
+
++
+
+2
+u
+c
+
+(1) 
+ 
+Pooled  Uncertainty (up):    The  lowest  repeatability  estimate  is  expected  for  measurements  performed  by  the  same 
+operator using the same gage.  This within-specimen uncertainty is a good indicator of material homogeneity.  These 
+values are deemed particularly characteristic of the specimen when the uncertainties for the four conditions (two gages 
+and two operators) show similar variation. 
+ 
+
+ 
+
+                                                           
+
+(1) Certain  commercial  instruments  and  materials  are  identified  to  adequately  specify  the  experimental  procedure.    Such 
+al  Institute  of  Standards  and  Technology,  nor  does
+identification does not imply a recommendation or endorsement by the National Institute of Standards and Technology, nor does 
+it imply that the instruments or materials are the best available for the purpose. 
+RM 8480 
+
+Page 2 of 4 
+
+ 
+The mean and standard uncertainties for  measurements  made at a single location (Position 5, reported in Table 1) 
+include uncertainty due to the differences between the gages and operators.  These values are the best indicator of how 
+closely a user measuring the standard might expect to match the NIST measurement at a given location.   
+ 
+The pooled estimate of the variation in the specimen, up reported in Table 1, was calculated using Equation 2, 
+ 
+
+u
+
+p
+
+=
+
+(
+
+2
+u
+1
+
++
+
+u
+
+2
+2
+
++
+
+u
+
+2
+3
+
++
+
+u
+
+4/)
+
+2
+4
+
+ 
+
+(2) 
+
+ 
+ 
+where u1 to u4 are the standard uncertainties calculated for the five measurements at each of the four operator-gage 
+combinations.    This  statistic  best  characterizes  the  overall  variation  in  the  FN  due  to  local  variations  in  the 
+microstructure of each specimen.  
+ 
+The grand mean and standard uncertainty for the 20 measurements made on each specimen reported in Table 1 provide 
+uncertainty 
+NIST’s best overall estimate of the FN, and variation in FN that includes all contributions of measurement uncertainty 
+and specimen homogeneity. 
+ 
+DLING,  STORAGE,  AND  USE 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling  and  Storage:    Do  not  expose  the  RM  to  magnetic  fields,  temperatures  outside  the  range  of  –40 °C  to 
++40 °C,  or  corrosive  atmospheres  or  solvents.    Avoid  mechanical  damage  or  material  removal (e.g.,  grinding  or 
+polishing) of the measurement face of the RM.  Store the RM in the case provided when not in use. 
+ 
+Use:  To calibrate an instrument in the range covered by RM 8480, measure the ferrite number at the center of the 
+measurement face (Position 5, see Figure 1) of each specimen supplied.  The measurement face is opposite the face 
+on which the specimen identification number is scribed.  Consult the instrument user’s manual and current normative 
+standards for procedural specifics and data analysis [1,2].  For the purposes of many users, the Position 5 mean FN 
+value (Table 1) will be the value used to calibrate or verify their instrument. 
+ 
+Specimens may be wiped clean before measurement using a soft cloth to free the surface of dust.  A mild detergent 
+solution or solvent such as isopropyl alcohol may also be used to clean the surface of any contaminants. 
+ 
+
+ 
+REFERENCES 
+
+ 
+[1]  ANSI/AWS 4.2-97, Standard Procedures for Calibrating Magnetic Instruments to Measure the Delta Ferrite 
+Content of Austenitic and Duplex Austenitic-Ferrite Stainless Steel Weld Metal, American Welding Society, 
+Miami, Fl. 
+ISO 8249:1995, Determination of Ferrite Number in Austenite Weld Metal Deposited by Covered Cr-Ni Steel 
+Electrodes, ISO, Geneva, Switzerland (1995). 
+
+[2] 
+
+[3]  Merinov, P.;  Preparation  of  Centrifugally  Cast  Ferrite  Standards  of  the  Russian  Delegation  IIW 
+
+[4] 
+
+Doc. II-1223-93 (II-C-933-93). 
+Sugaya, Y.;  Aihara, T.;  IIW  SC-II-C  6th  Round  Robin on Ferrite  Secondary Standards,  (August  1993)  IIW 
+Doc. II-1228-93 (II-C-935-93). 
+
+ 
+ 
+ 
+ 
+ 
+
+  
+Report Revision History:  07 November 2018 (Editorial changes); 06 March 2000 (Editorial changes); 23 March 1999 (Original report date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+This  can  be
+accomplished  by  contacting  the  SRM  Program  at:    telephone (301)  975-2200,  fax (301)  948-3730,  e-mail 
+srminfo@nist.gov, or via the Internet https://www.nist.gov/srm. 
+ 
+ 
+
+iossession  is  current. 
+
+RM 8480 
+
+Page 3 of 4 
+
+Table 1: Reference and Information Values for RM 8480, Serial Number L-Sample. 
+
+  
+
+Information Values 
+(FN) 
+
+2 
+
+16-2260
+
+  
+
+  
+
+Specimen 
+ID 
+
+Relative 
+FN 
+Level 
+
+Grand Mean and 
+Standard 
+Uncertainty, Uc 
+
+Pooled Mean and 
+Standard 
+Uncertainty, up 
+
+     
+  
+    
+      
+  
+  
+
+7-1116
+
+18-134
+
+ --
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+4 
+
+8 
+
+7 
+
+3 
+
+6 
+
+5 
+
+--
+
+--
+
+--
+
+  
+
+  
+
+  
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+17-193
+
+19-643
+
+25-573 
+
+15-1396
+
+27-2111
+
+S A M P L E
+
+a::  0.20 
+>,'.; 
+C 
+�  0.15 
+Q) 
+(.) 
+C 
+::) 
+
+"E  0.10
+co 
+"O 
+C co 
+cf)  0.05 
+
+  
+
+o.o�----�----�----�
+30 
+
+10 
+
+20 
+
+0 
+
+FN  Level 
+
+ 
+
+  
+
+  
+
+  
+
+�-----------------------------·----� 
+Figure 2: Calibration e1rnr (SR) for the secondary standards. 
+
+RM 8480 
+
+Page 4 of4 
+
+  
+
+

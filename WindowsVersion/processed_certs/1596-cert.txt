@@ -1,0 +1,609 @@
+﻿‘ 
+
+er 
+U,  S.  Departmerdvof  Commerce 
+Malcolme-Baldrige 
+‘Secretary’ 
+Lee  wey 
+National  Bureawof Standards 
+\Ambier, 
+
+Emest 
+
+Director 
+
+National  Bureau  of  Standards 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  1596 
+Dinitropyrene  Isomers  and  1-Nitropyrene  in  Methylene  Chloride 
+
+This  Standard  Reference  Material  (SRM)  consists  of  five  vials,  each  containing  approximately  13  mL  of  a  methylene 
+chloride  solution  of  four  nitrated  polycyclic  aromatic  hydrocarbons  (N-PAH):  1-nitropyrene,  1,3-dinitropyrene,  1,6- 
+dinitropyrene,  and  1,8-dinitropyrene.  SRM  1596  is  intended  primarily  for  use  in  calibrating  chromatographic  in- 
+strumentation  used  for  the  determination  of  N-PAH. 
+
+Certified  Concentrations  of  Nitro-PAH: 
+Certified  concentrations  of  the  four  N-PAH  in  SRM  1596  are  given  in  Table  1.  The  concentration  values  are  certified 
+in  g/g  units  but  are  also  reported  in  pg/mL  for  user  convenience.  The  certified  values  in  Table  1  are  derived  from 
+the  concordant  results  obtained  from  high-performance  liquid  chromatography  (HPLC)  and  gas  chromatography/mass 
+spectrometry  (GC/MS).  The  N-PAH  used  in  the  preparation  and  certification  of  this  SRM  were  obtained  from  Mid- 
+west  Research  Institute,  Kansas  City,  MO.  Compound  purities  were  determined  at  Midwest  Research  Institute.  Each 
+compound  was  at  least  99  percent  pure  and,  therefore,  no  correction  was  made  for  purity. 
+NOTICE  AND  WARNINGS  TO  USERS 
+
+, 
+
+Expiration  of  Certification:  This  certification  is  valid,  within  the  limits  certified,  for  one  year  from  the  date  of  ship- 
+ment  from  NBS. 
+NBS. 
+
+In  the  event  that  the  certification  should  become  invalid  before  then,  purchasers  will  be  notified  by 
+
+Storage:  Sealed  ampoules,  as  received,  must  be  stored  in  the  dark  at  temperatures  between  -25  and  0  °C, 
+Use:  Prior  to  use,  samples  for  analysis  should  be  brought  to  room  temperature  and  equilibrated  for  one  hour.  Cer- 
+tified  values  are  not  applicable  for  ampoules  stored  after  opening,  even  if  resealed.  Aliquots  should  be  withdrawn 
+from  the  ampoules  immediately  after  opening  and  processed  without  delay  for  the  certified  values  in  Table  1  to  be 
+valid  within  the  stated  uncertainty.  However,  if  this  is  impossible  or  impractical,  we  recommend  that  after  aliquots  are 
+removed  from  the  ampoules,  the  solution  should  be  transferred  to  amber  containers  and  sealed  with  Teflon-lined 
+septa. 
+
+CAUTION:  The  toxicity  or  carcinogenicity/mutagenicity  of  the  N-PAH  in  this  SRM  has  not  been  defined  precisely; 
+however,  this  material  should  be  treated  as  a  potential  health  hazard. 
+
+Preparation  and  analytical  determinations  for  this  standard  were  performed  in  the  Organic  Analytical  Research 
+Division,  Center  for  Analytical  Chemistry,  by  L.  C.  Sander  and  L.  R.  Hilpert. 
+
+Consultation  on  the  statistical  design  of  the  experimental  work  was  provided  by  R.  C.  Paule  of  the  National  Measure- 
+ment  Laboratory. 
+
+The  coordination  of  the  technical  measurements  leading  to  certification  were  performed  under  the  direction  of  S.  A. 
+Wise  and  W.  E.  May. 
+
+July  17,  1987 
+Gaithersburg,  MD  20899 
+
+(over)
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  Alvarez. 
+
+Preparation  and  Analysis 
+The  solution  of  four  N-PAH  in  methylene  chloride  was  prepared  and  ampouled  in  the  NBS  Toxic  Chemicals  Han- 
+dling  Facility.  SRM  1596  was  prepared  from  a  mixture  of  three  dinitropyrene  isomers;  1-nitropyrene  was  added  as  an 
+individual  component.  An  electrobalance  was  used  for  the  determination  of  the  mass  of  dinitropyrene  isomer  mixture 
+and  i-nitropyrene. 
+Each  of  the  solids  was  weighed  into  gold  foil  weighing  boats,  and  transferred  into  a  4000-mL 
+volumetric  flask  previously  filled  with  argon  and  methylene  chloride  was  added  and  the  solution  weighed.  Aliquots 
+(1.3  mL)  of  dinitropyrene  solution  were  placed  in  2-mL  amber  ampoules.  The  ampoules  were  filled  with  argon  just 
+prior  to  flame  sealing. 
+
+A  stratified  random  sampling  scheme  was  used  to  obtain  a  representative  cross  section  of  the  ampouled  solution  for 
+analyses.  A  total  of  eighteen  ampoules  were  analyzed  by  HPLC  and  GC/MS.  Sample  homogeneity  was  determined 
+based  on  the  HPLC  measurements.  No  evidence  of  sample  heterogeneity  was  observed. 
+
+HPLC  Analysis 
+In  total,  ten  ampoules  were  analyzed  in  duplicate  by  HPLC.  Propylbenzene  was  used  as  an  internal  standard  for  the 
+determinations.  Aliquots  (500  LL)  of  the  N-PAH  SRM  solution  were  mixed  with  500  »L  of  a  methylene  chloride 
+solution  containing  propylbenzene.  Aliquots  (20  »L)  of  the  internal  standard  fortified  N-PAH  SRM  solution  were 
+chromatographed  using  a  monomeric  Cig  (25  cm  x  4.6  mm,  5  ym  particle  size)  column  with  ultraviolet  detection  at 
+235  nm.  The  separation  was  accomplished  using  isocratic  elution  (75:25  methanol:water)  at  a  flow  rate  of  20  yL/min, 
+at  ambient  temperature.  Analyte  concentrations  were  determined  from  peak  areas  of  the  analyte  and  internal  stand- 
+ard,  based  on  response  factors  determined  from  analyses  of  a  gravimetrically  prepared  solution  of  the  analytes. 
+A 
+chromatogram  demonstrating  the  separation  of  the  compounds  in  this  SRM  is  shown  in  Figure  1. 
+
+GC/MS  Analysis 
+GC/MS  measurements  were  made  using  selected  ion  monitoring  detection  (SIM)  under  methane  negative  ion  chemi- 
+cal  ionization  (NICI)  conditions.  Deuterated  dinitropyrenes  were  used  as  internal  standards  for  quantitation.  One  (1) 
+mL  aliquots  of  the  N-PAH  SRM  solution  were  mixed  with  1.0  mL  of  a  solution  containing  1-nitropyrene-do,  1,3- 
+dinitropyrene-dg,  1,6-dinitropyrene-dg,  and  1,8-dinitropyrene-dg.  Aliquots  (2.0  L)  of  the  internal  standard  fortified 
+SRM<  solutions  were  injected  onto  a  30  m  x  0.25  mm  id.  fused  silica  capillary  column  coated  with  a  0.25  ym  film  of  a 
+non-polar  methyl  silicone  bonded  liquid  phase.  The  molecular  ions  for  the  analytes  and  deuterated  internal  standards 
+were  monitored  with  a  dwell  time  of  200  ms  for  each  ion.  Figure  2  shows  a  representative  GC/MS  SIM  analysis  of  the 
+N-PAH  SRM < 
+Concentrations  of  the  analytes  were  determined  from  the  analyte  peak  areas,  the  internal 
+standard  peak  areas,  and  response  factors  determined  from  analyses  of  gravimetrically  prepared  solutions  of  the 
+analytes  and  internal  standards. 
+
+solution. 
+
+Table  1 
+Certified  Values  for  SRM  _1596* 
+
+Compound 
+
+(ug/e)  _ 
+
+(u  g/mL)? 
+
+1-nitropyrene 
+1,3-dinitropyrene 
+1,6-dinitropyrene 
+1,8-dinitropyrene 
+
+4.38  +  0.08° 
+2.10  +  0.03 
+4.82  +  0.17 
+7.90  +  0.15 
+
+5.81  +  0,11 
+2.79  +  0.04 
+6.39  +  0,23 
+10.48  +  0.20 
+
+a  The  certified  values  and  associated  uncertainties  were  derived  from  the  weighted  combination  of  HPLC  and  GC/MS  data  as  described  by  Paule 
+and  Mandel  in  "Consensus  Values  and  Weighting  Factors,"  Journal  of  Research  of  the  National  Bureau  of  Standards,  Vol  87,  No.  5,  Sept-Oct 
+(1982),  pp  377-385. 
+
+b  These  values  are  provided  for  user  convenience  and  were  obtained  by  applying  a  density  conversion  to  the  certified  concentrations  in  pg/g.  The 
+uncertainties  apply  only  at  20  °C  (density  1.326  g/mL).  A  concentration  change  of  less  than  1%  will  occur  for  a  5  °C  temperature  change. 
+
+¢  The  listed  uncertainties  are 
+ces. 
+
+two  standard  deviations  of  the  certified  values  and  include  both  within-  and  between-  analytical  method  differen- 
+
+2.
+
+SNSHAdOHKLINIG-—-E ‘T 
+
+ 
+ 
+ 
+ 
+
+ANSHACOULIN-F 
+
+ 
+ 
+
+ 
+ 
+
+SNSYAdOHLINIG-8  ‘F 
+
+ 
+ 
+
+ 
+ 
+
+SNSYAdOULINIG-—S ‘FT 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+|
+ 
+
+B
+e
+ 
+
+|
+ 
+
+9
+¢
+ 
+
+|
+ 
+
+b
+e
+ 
+
+|
+ 
+
+2
+2
+ 
+
+|
+ 
+
+O
+0
+2
+ 
+
+|
+ 
+
+B
+t
+ 
+
+|
+ 
+
+Q
+F
+ 
+
+|
+ 
+
+v
+y
+ 
+
+|
+ 
+
+c
+b
+ 
+
+i
+ 
+
+O
+F
+ 
+
+|
+ 
+
+8
+ 
+
+|
+ 
+
+9
+ 
+
+|
+ 
+
+v
+ 
+
+|
+ 
+
+c
+ 
+
+|
+ 
+
+0
+ 
+
+S
+A
+L
+N
+N
+I
+W
+ 
+
+O
+1
+d
+H
+ 
+
+4
+4
+ 
+
+9
+6
+9
+1
+ 
+
+W
+A
+S
+ 
+
+U
+F
+ 
+
+s
+p
+u
+n
+o
+d
+w
+o
+d
+ 
+
+H
+Y
+q
+-
+N
+ 
+
+j
+o
+ 
+
+v
+o
+T
+j
+e
+r
+e
+d
+e
+s
+ 
+
+B
+S
+u
+r
+M
+o
+Y
+s
+ 
+
+w
+e
+a
+Z
+o
+j
+E
+M
+O
+I
+Y
+D
+ 
+
+"
+[
+T
+ 
+
+v
+a
+n
+s
+t
+y
+ 
+
+ 
+ 
+ 
+ 
+
+I-HITROPYRENE 
+
+| | 
+
+se, 
+
+1 
+
+ 
+a
+e
+P
+
+ 
+y
+u
+P
+
+ 
+s
+o
+
+ 
+h
+m
+
+292 
+
+  
+
+  
+
+| | 
+
+    
+
+1-HITROPYRENE-d& 
+
+e  en, ee) 
+
+pe  tewtatnatrattigh,  | 
+
+Lf  emg,  ge 
+
+ate,  FO 
+
+| 
+| 
+
+ao 
+
+| | 
+| 
+
+  
+
+emcee 
+
+. 
+
+, 
+
+I 
+16 
+
+t 
+if 
+
+i 
+is 
+
+] 
+i? 
+
+1  S-DINITROPYREHE 
+
+| 
+
+i  S-DIMNITROPYREHE 
+
+1  2-DIMITROPYRENE 
+
+! 
+
+{ 
+I 
+I 
+|| 
+i 
+i 
+‘hd 
+
+| 
+
+[ 
+
+| 
+
+i 
+i 
+
+| 
+
+  
+
+| 
+| 
+
+I 
+| 
+
+| 
+
+| 
+
+] 
+
+|| 
+
+oom 
+
+|  |. 
+
+3  | 
+
+| 
+
+\ 
+
+  
+
+  
+
+t 
+
+1 
+
+| 
+
+T 
+
+t 
+
+  
+
+] 
+
+t 
+
+| 
+
+<= 
+
+— 
+
+t  6@-DIHITROPYRENE-de 
+
+1  S-TINITROPYREME-de 
+
+ 
+l
+P
+
+300 
+
+L  S-DINITROPYRENE-de 
+
+bees 
+
+—_ 
+
+}  __ 
+|  |  |  et  . 
+     
+
+ee 
+
+  
+
+_l 
+a4 
+
+] 
+af 
+
+wl. 
+28 
+
+1 
+er 
+
+T 
+ee 
+
+T 
+2 
+
+wl 
+al 
+
+whe 
+ee 
+
+a 
+
+wl 
+ae: 
+
+Figure  2. 
+
+Representative  GC/MS  SIM  analysis  of  N-PAH  SRM  solution
+
+

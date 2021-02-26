@@ -1,0 +1,538 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2780 
+
+ 
+
+ 
+
+Hard Rock Mine Waste 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation of methods and for the calibration of 
+apparatuses used to determine heavy metals and other elements in hard rock mine waste and materials of a similar 
+matrix.    SRM 2780  is  composed  of  material  collected  from  a  waste  pile  of  an  abandoned  mine  site  near 
+Silverton, CO.    A  unit  of  SRM 2780  consists  of  approximately  50 g  of  material  of  which  90 %  passes  a  150 µm 
+(No. 100) sieve. 
+ 
+Certified  Mass  Fraction  Values:    Certified  mass  fraction  values  for  12 elements  are  listed  in  Table 1.    A  NIST 
+certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected 
+sources  of  bias  have  been  investigated  or  taken  into  account.    All  values  are  reported  as  mass  fractions [1],  on  a 
+dry-mass  basis  (see  “Instructions  for  Drying”),  and  are  based  on  measurements  using  a  sample  mass  of  at  least 
+250 mg. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for seven elements are provided in Table 2.  A 
+NIST  reference  value  is  a  noncertified  value  that  is  the  best  estimate  of  the  true  value  based  on  available  data; 
+however, the value does not meet the NIST criteria for certification and is provided with associated uncertainties that 
+may reflect only measurement reproducibility, may not include all sources of uncertainty, or may reflect a lack of 
+sufficient statistical agreement among multiple analytical methods.  Mass fraction values are on a dry-mass basis. 
+ 
+Information Mass Fraction Values:  Information mass fraction values for 28 elements are provided in Table 3.  An 
+information value is a value that may be of use to the SRM user, but insufficient information is available to assess 
+adequately the uncertainty associated with the value. 
+ 
+Expiration of Certification:  The certification of SRM 2780 is valid, within the measurement uncertainty specified, 
+until  31 December 2014,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of the technical measurements leading to the certification of this SRM were 
+performed by G.C. Turk of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  C.M. Beck II,  W.R. Kelly,  S.E. Long,  J.L. Mann, 
+A.F. Marlow, J.R. Sieber, R.D. Vocke, Jr., and L.L. Yu of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation was provided by S.D. Leigh and D.D. Leber of the NIST Statistical Engineering Division. 
+ 
+Mine waste sample collection, preparation of the SRM, and contributing chemical analyses were performed by the 
+U.S. Geological  Survey (USGS)  under  the  direction  of  S.A. Wilson.    Details  are  described [3]  in  USGS  
+Open-File  Report 99-370  and  is  available  by  contacting  the  USGS  Earth  Science  Information  Center:    telephone 
+(303) 202-4210; or e-mail infoservices@usgs.gov. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  11 October 2012 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM 2780 
+
+Page 1 of 4 
+
+Partial  financial  support  for  the  development  of  this  SRM  was  provided  by  the  U.S.  Environmental  Protection 
+Agency (EPA)  under  the  direction  of  project  manager  B.A. Schumacher  of  the  EPA  National  Exposure  Research 
+Laboratory, Characterization Research Division, Las Vegas, NV. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+To  relate  analytical  determinations  to  the  certified  values  on  this  certificate,  a  minimum  sample  mass  of  250 mg 
+should be used.  Sampling and sample preparation procedures should be designed to avoid material segregation on 
+the basis of particle size.  It is recommended to mix the contents of the bottle prior to sampling by turning the bottle 
+end over end for two minutes.  The sample should be dried accordingly (see “Instructions for Drying”).  If particle 
+size reduction is performed, it is the user’s responsibility to prevent contamination or loss of material.  This SRM 
+must be stored in an air-conditioned or similar cool and dry environment away from light and fumes. 
+ 
+Instructions  for  Drying:    Analyses  should  be  performed  on  samples  as  received;  separate  samples  should  be 
+weighed  before  and  after  drying  to  obtain  a  correction  factor  for  moisture.    Samples  may  be  dried  in  an  oven  at 
+107 ºC under clean, dry inert gas, or in a desiccator over fresh anhydrous Mg(ClO4)2, or by other equivalent method 
+which reaches a constant dry weight. 
+ 
+
+Table 1.  Certified Mass Fractions (Dry-Mass Basis) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Mass Fraction 
+(%) 
+ 
+
+Element 
+
+ 
+
+Aluminum 
+Calcium 
+Iron 
+Lead 
+Magnesium 
+Potassium 
+Sodium 
+Sulfur 
+Zinc 
+
+8.87 
+0.195 
+2.784 
+0.577 
+0.533 
+3.38 
+0.221 
+1.263 
+0.257 
+
+0.33 
+0.020 
+0.080 
+0.041 
+0.020 
+0.26 
+0.018 
+0.042 
+0.016 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Element 
+
+  Mass Fraction 
+
+ 
+
+(mg/kg) 
+
+Arsenic 
+Cadmium 
+Mercury 
+
+48.8 
+12.10 
+0.710 
+
+3.3 
+0.24 
+0.042 
+
+k 
+
+2.3 
+2.6 
+2.4 
+2.4 
+2.8 
+2.8 
+2.8 
+2.6 
+2.6 
+
+k 
+
+2.0 
+2.8 
+2.6 
+
+ 
+The certified values for mercury and sulfur are the means of results obtained by NIST using isotope dilution mass 
+spectrometry.  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of 
+one standard deviation, the combined standard uncertainty calculated according to the ISO Guide [1].  The coverage 
+factor,  k,  is  determined  from  the  Student’s  t-distribution  for  the  appropriate  degrees  of  freedom  to  yield  95 % 
+confidence.    The  certified  values  for  the  remaining  elements  are  derived  from  the  results  of  at  least  one  analysis 
+performed at NIST and independent results from one or more methods provided by the USGS using the approach for 
+combining  results  for  multiple  methods [2].    Multiple  method  results  from  USGS  were  first  combined  to  give  a 
+single  value  and  uncertainty  before  being  combined  with  the  NIST  results.    The  certified  value  is  an  unweighted 
+mean of the results from NIST and USGS.  The uncertainty listed with each value is an expanded uncertainty about 
+the mean, U = kuc, with a coverage factor, k, determined from the Student’s t-distribution for the appropriate degrees 
+of  freedom  to  yield  95 %  confidence.    Each  uc  is  calculated  by  combining  a  between-method  variance [2]  with  a 
+pooled, within-method variance following the ISO Guide [1].  Analytical methods are listed in Table 4. 
+
+SRM 2780 
+
+Page 2 of 4 
+
+ 
+The reference values are based on the results of a single NIST method and one or more USGS methods.  Reference 
+values  were  derived  from  multiple  results  in  the  same  manner  as  was  done  for  the  certified  values.    Analytical 
+methods are listed in Table 4. 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Table 2.  Reference Mass Fractions (Dry-Mass Basis) 
+
+ 
+Element  
+ 
+ 
+ 
+Titanium 
+ 
+
+  Element  
+
+Barium   
+Copper   
+Manganese 
+Phosphorus 
+Strontium 
+Vanadium 
+
+ 
+ 
+
+Mass Fraction 
+(%) 
+
+0.699    0.019 
+
+Mass Fraction 
+(mg/kg) 
+
+993 
+215.5 
+462 
+427 
+217 
+268 
+
+7.8 
+
+  71 
+ 
+  21 
+  40 
+  18 
+  13 
+
+k 
+
+2.8 
+
+k 
+
+2.1 
+2.4 
+2.6 
+2.3 
+2.2 
+2.4 
+
+Table 3.  Information Mass Fractions (Dry-Mass Basis) 
+ 
+
+ 
+ 
+
+Element 
+ 
+
+Silicon 
+
+Mass Fraction 
+
+(%) 
+
+31 
+
+Element 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Element 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Antimony 
+Cerium 
+Cesium 
+Chromium 
+Cobalt 
+Gallium 
+Gold 
+Hafnium 
+Holmium 
+Lanthanum 
+Lithium 
+Molybdenum 
+Neodymium 
+Nickel 
+ 
+
+160 
+64 
+13 
+44 
+2.2 
+
+26 
+
+ 
+0.18   
+4.4 
+0.84   
+
+ 
+
+ 
+
+38 
+18 
+11 
+28 
+12 
+
+Niobium 
+Rubidium 
+Scandium 
+Selenium 
+Silver 
+Tellurium 
+Terbium 
+Thallium 
+Thorium 
+Thulium 
+Tungsten 
+Uranium 
+Zirconium 
+
+18 
+175 
+23 
+5 
+27 
+5 
+0.58 
+5 
+12 
+
+0.4 
+
+24 
+4 
+176 
+
+An information value is a value that may be of use to the SRM user, but insufficient information is available to 
+assess adequately the uncertainty associated with the value. 
+
+SRM 2780 
+
+Page 3 of 4 
+
+ 
+
+Table 4.  Methods Used in Elemental Determinations 
+ 
+
+Method 
+ 
+Cold Vapor Isotope Dilution Inductively  
+Coupled Plasma Mass Spectrometry at NIST 
+ 
+Isotope Dilution Thermal Ionization Mass Spectrometry at NIST 
+ 
+Standard Additions Inductively Coupled Plasma 
+Mass Spectrometry at NIST 
+ 
+Wavelength Dispersive X-ray Fluorescence (WDXRF) 
+
+ 
+
+ 
+
+ 
+Spectrometry (WDXRF) at NIST 
+ 
+Spectrometry (WDXRF) at USGS 
+ 
+Inductively Coupled Plasma Atomic Emission (ICP-AES) 
+
+ 
+
+ 
+
+ 
+
+ 
+Spectrometry (ICP-AES) at USGS 
+ 
+Instrumental Neutron Activation Analysis at USGS 
+ 
+Hydride Generation Atomic Absorption Spectrometry at USGS 
+ 
+ 
+
+ 
+
+ 
+
+REFERENCES 
+
+Elements Determined 
+
+Hg 
+
+S 
+
+As, Cd, Cu, Pb, Zn 
+
+Al, As, Ba, Ca, Fe, K, Mg, 
+Mn 
+
+Na, P, Pb, Sr, Ti, V, Zn, Zr 
+
+Al, Ca, Fe, K, Mg, Ti 
+
+Al, Ba, Ca, Cd, Cu, Fe, K, 
+Mg 
+
+Mn, Na, P, Pb, Sr, V, Zn 
+
+As, Ba, Cd, Fe, Na, Zn 
+
+As 
+
+ 
+[1]  JCGM 100:2008; Evaluation of Measurement Data – Guide to the Expression of Uncertainty in Measurement; 
+(ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2012);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Oct 2012). 
+
+[2]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.-K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105; pp. 571–579 (2000). 
+
+[3]  Wilson, S.A.; Briggs, P.H.; Brown, Z.A.; Taggart, J.E.; Knight, R.; Collection, Preparation and Testing of NIST 
+Hard  Rock  Mine  Waste  Reference  Material  SRM 2780;  SGS  Open-File  Report  99-370,  USGS,  Denver, CO 
+(1999). 
+
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  11 October 2012 (Extension of certification period; editorial changes); 31 January 2003 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+fax 
+
+ 
+
+SRM 2780 
+
+Page 4 of 4 
+
+

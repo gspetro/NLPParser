@@ -1,0 +1,480 @@
+﻿National  Institute  of  Standards  &  Terkuology 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  915a 
+
+Calcium  Carbonate 
+
+(Clinical  Standard) 
+
+It  is  intended  primarily  for  use 
+This  Standard  Reference  Material  (SRM)  is  certified  as  a  chemical  of  known  purity. 
+in  the  calibration  and  standardization  of  procedures  for  calcium  determinations  employed  in  clinical  analysis  and  for 
+routine  critical  evaluation  of  the  daily  working  standards  used  in  these  procedures.  It  may  be  used  to  prepare  calcium 
+standard  solutions  for  either  atomic  absorption  or  titrimetric  methods  of  analysis.  The  SRM  consists  of  highly  purified 
+calcium  carbonate  in  a  20-g  unit. 
+
+‘See  Table  2,  Summary  of  Uncertainties;  and  Table  3,  Components  of  Uncertainty 
+
+Certified  Purity:  99.965  +  0.015°  Wt  % 
+
+The  certified  value  is  calculated  from  the  results  of  independent  coulometric  assays  as  described  below. 
+The 
+uncertainty  interval  represents  the  expanded  uncertainty,  U,  calculated  according  to  the  ISO  Guide  [1]  as  twice  the 
+
+”  combined  standard  uncertainty  and  gives  the  95%  level  of  confidence  for  the  certified  value. 
+
+Coulometric  Assay:  The  assay  value  for  this  material  was  obtained  by  automated  coulometric  back-titration  [2],  to 
+a  strong  acid  endpoint  (pH  7),  of  weighed  CaCO,  samples  after  addition  of  excess  coulometrically  standardized  HCl 
+and  elimination  of  the  product  CO,.  The  certified  value  represents  the  result  of  six  such  titrations  of  samples  from 
+three  randomly  selected  bottles  from  the  entire  lot  of  SRM  915a. 
+
+Expiration  of  Certification:  This  certification  will  be  valid  for  five  years  from  the  date  of  shipment  from  NIST. 
+Periodic  reanalysis  of  representative  samples  from  this  SRM  lot  will  be  performed,  and  if  significant  changes  are 
+observed  within  the  five-year  period,  the  purchaser  will  be  notified  by  NIST.  Please  return  the  attached  registration 
+card  to  facilitate  notification. 
+
+Coulometric  analyses  were  performed  in  the  NIST  Analytical  Chemistry  Division  by  K.W.  Pratt. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  J.C.  Colbert. 
+
+Gaithersburg,  MD  20899 
+January  13,  1995 
+
+Thomas  E.  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+(over) 
+
+  
+
+ 
+
+The  original  trace  element  analyses  on  this  lot  of  material  (included  in  the  Supplemental  Information  section)  were 
+performed  in  the  NIST  Analytical  Chemistry  Division  (formerly  the  Inorganic  Analytical  Research  Division  )  by 
+T.C.  Rains,  T.A.  Rush,  V.C.  Stewart,  and  D.W.  Vomhof  (all  retired). 
+
+NOTICE  AND  WARNINGS  TO  USERS 
+
+This  Standard  Reference  Material  is  intended  for  "in  vitro"  diagnostic  use  only. 
+
+Stability  and  Storage:  This  SRM  should  be  stored  in  its  original  bottle  at  room  temperature.  It  must  be  tightly  re- 
+capped  after  use  and  protected  from  moisture  and  light. 
+
+Homogeneity:  This  SRM  was  homogeneous  within  the  uncertainty  limits  for  the  280-mg  sample  size  used  for  the 
+coulometric  assays.  Samples  less  than  250  mg  are  not  recommended  in  order  to  avoid  possible  inhomogeneities  with 
+smaller  sample  sizes. 
+
+INSTRUCTIONS  FOR  USE 
+
+Standard  Stock  Solutions  of  Calcium  for  Reference  Method  for  Atomic  Absorption  Spectrophotometry  [3]: 
+Using  class  A  volumetric  flasks,  prepare  three  stock  solutions  using  the  quantities  given  in  Table  1.  Add  the  specified 
+initial  volume  of  water  before  adding  the  specified  volume  of  concentrated  HCl.  After  all  the  SRM  915a  is  dissolved, 
+add  the  specified  amounts  NaCl  and  KCl,  dilute  with  water  up  to  the  neck,  and  invert  until  the  salts  are  totally 
+The  pipettings 
+dissolved.  Then  dilute  each  solution  to  the  calibrated  volume  and  mix  by  inverting  the  flask  30  times. 
+and  dilutions  of  these  standard  stock  solutions  follow  the  same  instructions  as  given  in  reference  [3]. 
+
+Table  1. 
+
+Specifications  for  Stock  Solutions 
+
+  
+
+Final 
+Concentration 
+(mmol/L) 
+
+Final 
+Volume 
+(L) 
+
+Mass  SRM 
+915a  (mg) 
+
+Initial 
+Volume 
+Water 
+(mL) 
+
+Volume 
+37% 
+(12  mol/L) 
+HCl 
+
+  
+
+Ca 
+
+Na 
+
+K 
+
+Mass  NaCl 
+(g) 
+
+Mass  KCl 
+(mg) 
+
+2.000 
+
+2.00  |  140  |  5.0 
+
+  
+
+  
+
+    
+  
+    
+  
+
+2.50  |  140  |  5.0 
+
+3.00  |  140  |  5.0 
+
+300.4 
+
+400.5 
+
+250.3 
+
+1.000 
+
+16.36 
+
+1.000 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+8.18 
+
+8.18 
+
+746 
+
+373 
+
+373 
+
+  
+
+18 
+
+2 
+
+9 
+
+9 
+
+1 
+
+1 
+
+Drying  Instructions:  To  achieve  the  certified  value,  this  material  should  be  dried  at  200-210  °C  for  4h. 
+
+Stock  Solution  of  Calcium  for  Titrimetric  Procedure:  Place  0.2503  ¢  of  dried  SRM  915a  into  a  1-L  volumetric 
+flask.  Add  approximately  9  mL  of  deionized  water  and  1  mL  concentrated  (12  mol/L;  37%)  HCl.  Make  sure 
+that  all  the  calcium  carbonate  is  in  solution  before  diluting  with  water  up  to  the  neck.  When  at  ambient 
+temperature,  dilute  to  the  calibrated  volume  and  mix  by  inverting  the  flask  30  times. 
+glass  bottle. 
+
+This  solution  contains  10.0  mg  Ca’*  per  100  mL  or  5.00  meq/L. 
+
+Store  in  a  borosilicate 
+
+Stability  of  Prepared  Solutions:  Solutions  prepared  from  SRM  915a,  Calcium  Carbonate,  are  stable  indefinitely 
+when  stored  in  a  glass-stoppered  bottle,  excepting  concentration  changes  due  to  evaporation  during  sampling.  All 
+such  solutions  should  be  clear  and  display  no  turbidity. 
+
+ 
+
+Source  of  Material:  The  calcium  carbonate  used  for  this  SRM  was  obtained  from  the  J.T.  Baker  Chemical  Co., 
+Phillipsburg,  NJ. 
+
+The  material  was  examined  for  compliance  with  the  American  Chemical  Society  [4]  specification  for  reagent 
+grade  calcium  carbonate.  The  material  was  found  to  meet  or  exceed  the  minimum  requirements  in  every  respect. 
+Examination  by  thermal  gravimetric  analysis  indicated  a  minute  loss  of  weight  below  175  °C  (volatile  matter). 
+The  composition  was  stable  above  175  °C  to  a  temperature  of  625  °C,  above  which  material  decomposition 
+(evolution  of  CO,)  began  to  occur. 
+
+SUPPLEMENTAL  INFORMATION 
+
+A  semi-quantitative  survey  for  trace  contaminants  by  emission  spectrometry  indicated  the  presence  of  less  than 
+0.001  wt  %  of  copper,  iron,  magnesium,  manganese,  and  silicon  in  the  material. 
+magnesium  was  evaluated  at  1.0,  sodium  at  0.4,  and  strontium  at  2.1  ug/g;  potassium  was  less  than  0.4,  lithium 
+less  than  0.05,  and  barium  much  less  than  10  g/g.  Neutron  activation  analysis  indicated  copper  at  0.9, 
+manganese  at  0.6,  and  sodium  at  0.5  ng/g.  Copper  was  determined  at  1  ug/g  by  spectrophotometry. 
+
+By  atomic  absorption, 
+
+Table  2.  Summary  of  Uncertainties  for  SRM  915a 
+
+SRM _  915 
+
+Combined  Type  A’,  (see  Table  3) 
+
+Combined  Type  B°,  (see  Table  3) 
+
+Combined  Standard 
+Uncertainty,  u, 
+
+Coverage  Factor 
+
+Expanded  Uncertainty,U 
+
+CaCO,,..% 
+
+0.0042 
+
+0.0062 
+
+0.0075 
+
+2.0 
+
+0.015 
+
+Overall  effective  degrees  of  freedom  =  91.6.  The  combined  standard  uncertainty  represents  the  root  sum  of 
+squares  of  the  components  of  uncertainty.  The  coverage  factor  is  based  on  the  Student's  t  distribution  for  >  30 
+degrees  of  freedom  and  a  two-sided  coverage  probability  of  95%. 
+
+*  Type  A  uncertanties  are  evaluated  by  statistical  methods  [1]. 
+>  Type  B  uncertanties  are  evaluated  by  other  means  [1]. 
+
+ 
+
+Table  3.  Components  of  Uncertainty  for  CaCO,  in  SRM  915a 
+
+Type  A 
+
+  
+
+Source 
+
+units 
+
+U, 
+
+units 
+
+Degrees  of 
+Freedom 
+
+  
+
+-- 
+
+0.0033 
+
+% 
+
+0.0033  % 
+
+5 
+
+C; 
+
+1 
+
+CaCO,  Assay: 
+standard  error  of 
+the  mean 
+
+0.241 
+
+HCl 
+standardization: 
+standard  error  of 
+the  mean 
+
+    
+  
+  
+    
+    
+
+Combined  Type  A  Uncertainty 
+
+%o*  Bac! 
+pMOl yc 
+
+eMOlye/ Bye 
+
+0.0042 % 
+
+0.0027  % 
+
+0.0111 
+
+  
+
+  
+
+5 
+
+  
+
+Table  3.  Components  of  Uncertainty,  Continued 
+
+Type  B 
+
+  
+
+Source 
+
+C 
+
+units 
+
+U, 
+
+units 
+
+cu 
+
+  
+
+-- 
+
+0.006 
+
+% 
+
+0.006% 
+
+Incomplete  elimination  | 
+of  CO, 
+
+1 
+
+Cathodic  side- 
+reactions 
+
+  
+
+104 
+
+%/ppm 
+
+0.5 
+
+ppm 
+
+5x  10°% 
+
+1 
+
+- 
+
+% 
+
+8.1  x  10° 
+
+HC]  weighing 
+
+6  x  10° 
+% 
+
+  
+
+  
+
+  
+
+Pt  electrode  nonideal 
+behavior 
+
+  
+  
+    
+    
+      
+
+Constant  current 
+supplies 
+
+Combined  Type  B  Uncertainty 
+
+CaCO,  weighing 
+
+9.6x  104%  |  » 
+
+9.7x  104%  |  © 
+
+7.2x10°%  |  » 
+
+3.3  x  10% 
+
+6  x  104% 
+
+0.0062% 
+
+  
+
+%/ppm 
+
+  
+
+%/mg 
+
+%/  pg 
+
+0.12 
+
+ppm 
+
+2.9 
+
+10* 
+
+7.2 
+
+mg 
+
+beg 
+
+vo 
+
+Degrees 
+of 
+Freedom 
+
+oo 
+
+vo 
+
+ 
+
+REFERENCES 
+
+"Guide  to  the  Expression  of  Uncertainty  in  Measurement,"  ISBN  92-67-10188-9,  Ist  Ed.  ISO,  Geneva, 
+Switzerland,  (1993). 
+
+Pratt,  K.W.,  Anal.  Chim.  Acta,  289,  135-142  (1994). 
+
+Cali,  J.P.,  Bowers,  Jr.,  G.N.,  and  Young,  D.S.,  Clin.  Chem.  19,  1208-1213  (1973). 
+
+Reagent  Chemicals,  8th  Ed.  American  Chemical  Society,  Washington,  DC,  (1993). 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+ 
+
+

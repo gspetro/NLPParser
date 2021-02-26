@@ -1,0 +1,516 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 3261 
+
+ 
+
+ 
+Bitter Orange Dietary Supplement Suite 
+
+ 
+This  Standard  Reference  Material  (SRM)  consists  of  two  packets  each  of  three  bitter  orange-related  SRMs:  
+SRM 3258 Bitter Orange (Fruit), SRM 3259 Bitter Orange Extract, and SRM 3260 Bitter Orange-Containing Solid 
+Oral  Dosage  Form.    These  SRMs  are  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination  of  citrus  alkaloids  in  bitter  orange-containing  matrices.    These  SRMs  can  also  be  used  for  quality 
+assurance when assigning values to in-house control materials.  The materials in the suite of bitter orange dietary 
+supplement SRMs have been developed to cover a range of natural matrices and analyte levels.  See the Certificate 
+of Analysis for each SRM for additional details; certificates are available at http://www.nist.gov/srm.  
+ 
+The  development  of  SRM  3261  was  a  collaboration  among  the  National  Institute  of  Standards  and  Technology 
+(NIST);  the  National  Institutes  of  Health  (NIH),  Office  of  Dietary  Supplements  (ODS);  and  the  Food  and  Drug 
+Administration (FDA), Center for Drug Evaluation and Research (CDER). 
+ 
+Certified Concentration Values:  A NIST certified value is a value for which NIST has the highest confidence in 
+its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  The 
+certified concentration values of citrus alkaloids and caffeine are provided in Table 1 in bold typeface.  Values were 
+derived from the combination of results provided by NIST and collaborating laboratories.  The certified values in 
+this  material  are  the  equally  weighted  means  of  the  individual  sets  of  NIST  results  and  the  means  of  the 
+measurements  made  by  collaborating  laboratories  where  available;  the  associated  uncertainties  are  expanded 
+uncertainties at the 95 % level of confidence [2,3].  Values are reported on a dry-mass basis in mass fraction units [4].  
+ 
+Reference Concentration Values:  A NIST reference value is a noncertified value that is the best estimate of the 
+true value based on available data; however, the value does not meet the NIST criteria for certification [1] and is 
+provided  with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all 
+sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  
+Reference concentration values for citrus alkaloids are provided in Table 1 in normal typeface. 
+ 
+Information Concentration Values:  A NIST information value is a value that may be of interest to the SRM user, 
+but insufficient information is available to assess the uncertainty associated with the value therefore no uncertainty 
+is provided.  Information concentration values for selected citrus alkaloids and toxic elements are provided in Tables 
+1 and 2, respectively. 
+ 
+Expiration of Value Assignment:  The value assignment of this SRM is valid until 30 September 2014, within the 
+measurement uncertainties specified, provided the SRM is handled and stored in accordance with the instructions 
+given in this certificate.  Value assignment is nullified if the SRM is damaged, contaminated, or modified. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by L.C. Sander, 
+K.E. Sharpless, and S.A. Wise of the NIST Analytical Chemistry Division. 
+ 
+Support  for  the  development  of  SRM  3261  was  provided  in  part  by  NIH  ODS  and  FDA  CDER.    Technical 
+consultation from these agencies was provided by J.M. Betz (NIH ODS) and A. NguyenPho (FDA CDER). 
+ 
+Acquisition and preparation of the material was coordinated by A. NguyenPho of FDA CDER and K.E. Sharpless 
+of the NIST Analytical Chemistry Division.   
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  03 April 2008 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Page 1 of 6 
+
+ SRM 3261 
+
+Analytical  measurements  at  NIST  were  performed  by  M.  Bedner,  K.E.  Murphy,  B.C.  Nelson,  B.J.  Porter, 
+K. Putzbach,  M.M.  Schantz,  J.B.  Thomas,  and  L.J.  Wood  of  the  NIST  Analytical  Chemistry  Division.  
+Analytical measurements at the FDA National Center for Toxicological Research (NCTR; Jefferson, AR) were 
+made by P.H. Siitonen and R.L. Evans; analytical measurements at ChromaDex (Clearwater, FL) were made by 
+M.C. Roman.   
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+The support aspects involved with the certification and issuance of this SRM were coordinated through the NIST 
+Measurement Services Division. 
+ 
+Maintenance of SRM Value Assignment:  NIST will monitor this SRM over the period of its value assignment.  If 
+substantive technical changes occur that affect the value assignment before the expiration of this certificate, NIST 
+will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+Storage:  The material should be stored at controlled room temperature (20 °C to 25 °C), in an unopened packet, until 
+required for use.   
+ 
+Warning:  For laboratory use only.  Not for human consumption.   
+ 
+INSTRUCTIONS FOR USE 
+ 
+Prior to removal of a test portion for analysis, the contents of a packet of material should be mixed thoroughly.  For 
+certified  values  to  be  valid,  test  portions  of  the  following  masses  should  be  used:    between  0.05  g  and  0.5  g  for 
+citrus alkaloid analysis and between 0.06 g and 0.2 g for caffeine analysis.  Toxic elements should be measured in 
+test portions greater than or equal to 0.5 g of SRMs 3258 and 3260 and greater than or equal to 0.3 g of SRM 3259.  
+Test  portions  should  be  analyzed  as  received  and  results  converted  to  a  dry-mass  basis  by  determining  moisture 
+content  (using  one  of  the  methods  described  below)  on  a  separate  test  portion.    The  stability  of  alkaloids  and 
+caffeine in previously opened packets has not been investigated. 
+ 
+PREPARATION AND ANALYSIS1 
+ 
+Material Acquisition and Preparation:  The materials for production of SRMs 3258 and 3259 were obtained from 
+Sinochem  Ningbo  Ltd.  (Ningbo,  China)  through  Modern  Nutrition  and  Biotech  (Appleton,  WI).    While  still  in 
+China, immature bitter orange fruits were ground to pass through a 250 μm (60 mesh) sieve.  Approximately 35 kg 
+of the powder and 12 kg bitter orange extract were shipped to NIST and were packaged as received.  SRM 3260 
+was  prepared  from  several  different  commercially  available  products  (both  tablets  and  capsules)  that  were 
+purchased  in  the  marketplace.    The  tablets  and  the  contents  of  capsules  were  ground  using  a  Teflon  disc  mill  at 
+room temperature, and the powdered material was then blended and sieved to 180 μm (80 mesh).   
+ 
+The  three  materials  were  transferred  to  High-Purity  Solutions  (Charleston,  SC)  where  they  were  individually 
+blended, aliquotted, and heat-sealed inside nitrogen-flushed 4 mil polyethylene bags, which were then sealed inside 
+nitrogen-flushed aluminized plastic bags along with two packets of silica gel each.  Following packaging, the SRMs 
+were irradiated (Neutron Products, Inc.; Dickerson, MD) to an absorbed dose of 7.4 kGy to 9.0 kGy.   
+ 
+Determination of Citrus Alkaloids:  Value assignment of the concentrations of the citrus alkaloids in SRM 3261 
+was based on the combination of measurements from four different analytical methods at NIST and two sets of data 
+provided  by  collaborating  laboratories.    NIST  provided  alkaloid  data  by  using  a  combination  of  two  extraction 
+techniques  (sonication,  pressurized-fluid  extraction)  and  four  liquid  chromatography  (LC)  methods  with  different 
+detection  (i.e.,  ultraviolet  absorbance  [UV],  fluorescence  [FL],  mass  spectrometry  [MS],  and  tandem  mass 
+spectrometry [MS/MS]).  NCTR and ChromaDex generated data by using LC/UV [5,6]. 
+
+                                                           
+
+1Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  specify  adequately  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 3261 
+
+Page 2 of 6 
+
+ 
+NIST Analyses for Citrus Alkaloids:  Citrus alkaloids were measured at NIST by using sonication extraction with 
+LC/UV  and  LC/FL  [7]  for  analysis  of  all  three  materials;  sonication  followed  by  LC/MS  [8]  for  analysis  of 
+SRM 3258;  pressurized-fluid  extraction  with  LC/MS  [8]  for  analysis  of  SRMs  3259  and  3260;  and  sonication 
+extraction with LC/MS/MS [9] for the analysis of all three materials.  Independently prepared calibrants were used 
+for each of the methods.  Calibrants were prepared gravimetrically, at levels intended to approximate the levels of 
+the alkaloids in the SRM.  A single internal standard solution was used for the calibrants and samples.   
+ 
+Sample Preparation − Sonication Method 1:  Two 0.50 g (for LC/UV and LC/FL) test portions from each of six 
+packets of the three SRMs were individually combined with an internal standard solution containing terbutaline and 
+dilute  aqueous  hydrochloric  acid  (0.37  %  mass  fraction),  mixed,  and  placed  in  an  ultrasonicating  bath  for  60 
+minutes.  The mixture was centrifuged, the supernatant was removed, and the residue was re-extracted into dilute 
+hydrochloric acid using the same procedure.  Supernatants were combined, and samples were analyzed by LC/UV 
+and LC/FL, with the two detectors connected in series.  Two 0.25 g test portions from each of six packets of SRM 
+3258 were prepared in the same manner and analyzed by using LC/MS.  
+ 
+Sample Preparation − Pressurized-Fluid Extraction (PFE):  Two 0.05 g test portions from each of six packets of 
+SRMs  3259  and  3260  were  individually  combined  with  an  internal  standard  solution  containing  terbutaline  and 
+dilute aqueous hydrochloric acid (0.37 % mass fraction), mixed, and extracted by PFE using two extraction cycles. 
+Samples were diluted with water and analyzed by using LC/MS. 
+ 
+Sample Preparation − Sonication Method 2:  Two 50 mg test portions from each of six packets of the three SRMs 
+were  individually  combined  with  an  internal  standard  solution  containing  terbutaline  and  dilute  aqueous 
+hydrochloric acid (1 % mass fraction), mixed, and placed in an ultrasonicating bath for 60 minutes.  The mixture 
+was centrifuged, the supernatant was removed, and the residue was re-extracted into dilute hydrochloric acid using 
+the same procedure.  Supernatants were combined, and samples were analyzed by using LC/MS/MS. 
+ 
+LC/UV and LC/FL:  LC/UV and LC/FL were performed with the absorbance and fluorescence detectors connected 
+in series.  Analytes were separated on a C18 column with a mobile phase of 72 % 10 mmol/L sodium dodecyl sulfate 
+(pH  2.5)  and  28  %  acetonitrile  (volume  fractions).      Absorbance  was  monitored  at  220  nm.    An  excitation 
+wavelength of 273 nm and an emission wavelength of 304 nm were used for fluorescence detection.  
+ 
+LC/MS:    LC/MS  was  performed  using  a  pentafluorophenylpropyl  column  and  an  isocratic  mobile  phase  of  90  % 
+acetonitrile and 10 % 100 mmol/L ammonium acetate in water (volume fractions).  Positive ion electrospray mass 
+spectrometry was used for detection of the alkaloids.  The separation was monitored in the selected ion mode at m/z 
+226  (terbutaline), m/z  136  (octopamine),  m/z  168  (synephrine),  m/z  138  (tyramine),  m/z 166 (hordenine), and m/z 
+152 (N-methyltyramine).   
+ 
+LC/MS/MS:  LC/MS/MS was performed using a pentafluorophenylpropyl column and an isocratic mobile phase of 
+10  %  10  mmol/L  ammonium  acetate  in  water  and  90  %  10  mmol/L  ammonium  acetate  in  methanol  (volume 
+fractions).  Multiple reaction monitoring was performed at the following transitions (m/z):  138 to 103 (tyramine), 
+152 to 91 (N-methyltyramine) 154 to 91 (octopamine), 166 to 91 (hordenine), 168 to 135 (synephrine), and 226 to 
+125 (terbutaline).  
+ 
+Determination of Caffeine:  Value assignment of the concentrations of caffeine in SRM 3260 was based on the 
+combination  of  measurements  from  sonication  extraction  followed  by  two  different  analytical  methods  at  NIST:  
+LC/UV and LC/MS. 
+ 
+NIST Analyses for Caffeine:  Caffeine was measured at NIST by using sonication extraction with LC/UV [10] and 
+sonication  extraction  with  LC/MS.    Independently  prepared  calibrants  were  used  for  each  of  the  methods.  
+Calibrants  were  prepared  gravimetrically,  at  levels  intended  to  approximate  the  levels  of  caffeine  in  the  SRM.   A 
+single internal standard solution was used for the calibrants and samples.   
+ 
+Sample  Preparation  −  Sonication  Method  3:    Two  0.12  g  to  0.20  g  test  portions  from  each  of  six  packets  of 
+SRM 3260  were  individually  combined  with  an  internal  standard  solution  containing  β-hydroxyethyltheophylline 
+(internal standard) in methanol and placed in an ultrasonicating bath for 30 minutes.  The mixture was centrifuged, 
+and the supernatant was removed, filtered, and analyzed by LC/UV. 
+ 
+Sample  Preparation  −  Sonication  Method  4:    Two  0.06  g  to  0.08  g  test  portions  from  each  of  six  packets  of 
+SRM 3260  were  individually  combined  with  an  internal  standard  solution  containing  trimethyl−13C3  caffeine 
+SRM 3261 
+Page 3 of 6 
+
+(internal standard) in methanol and placed in an ultrasonicating bath for 60 minutes.  The mixture was centrifuge-
+filtered, and the supernatant was removed, filtered, and analyzed by LC/MS. 
+ 
+LC/UV:    LC/UV  was  performed  using  a  C18  column  with  a  mobile  phase  of  10  %  acetonitrile  and  90  %  water 
+containing 0.5 % acetic acid (volume fractions).  Absorbance was monitored at 274 nm.   
+  
+LC/MS:  LC/MS was performed using a C18 column and an isocratic mobile phase of 29 % methanol, 69 % water, 
+and  2  %  acetic  acid  (volume  fractions).    Electrospray  ionization  mass  spectrometry  was  used  for  detection  of 
+caffeine.  The separation was monitored in the selected ion mode at m/z 198 for the labeled caffeine and m/z 195 for 
+caffeine.   
+ 
+NIST  Analyses  for  Toxic  Elements:    SRMs  3258,  3259,  and  3260  were  screened  for  toxic  elements  (arsenic, 
+cadmium,  and  lead)  by  using  inductively  coupled  plasma  mass  spectrometry  (ICP-MS)  following  microwave 
+digestion  using  nitric  and  hydrofluoric  acids.    Arsenic  mass  75;  cadmium  masses  111,  112,  and  114;  indium 
+(internal standard) mass 115; and lead masses 206, 207, and 208 were monitored.   
+ 
+NIST  Analyses  for  Pesticides:    SRMs  3258,  3259,  and  3260  were  screened  for  pesticide  residues  by  using  gas 
+chromatography  (GC)/MS  following  Soxhlet  extraction  into  methylene  chloride;  a  2  g  sample  did  not  contain 
+quantifiable  concentrations  of  hexachlorocyclohexanes  (HCHs),  chlordanes,  nonachlors,  dieldrin,  mirex, 
+heptachlors, DDT, or metabolites of DDT. 
+ 
+Determination of Moisture:  Moisture content of SRM 3261 was determined at NIST (see “Instructions for Use”) 
+by (1) freeze-drying to constant mass over 8 days; (2) drying over magnesium perchlorate in a desiccator at room 
+temperature for 35 days (SRMs 3258 and 3260) or 28 days (SRM 3259); and (3) drying for 2 h in a forced-air oven 
+at 80 °C.  Unweighted results obtained using all three techniques were averaged to determine a conversion factor of 
+(0.9621 ± 0.0140) gram dry mass per gram as-received mass for SRM 3258, (0.9848 ± 0.0111) gram dry mass per 
+gram as-received mass for SRM 3259, and (0.9693 ± 0.0052) gram dry mass per gram as-received mass for SRM 
+3260, which were used to convert data from an as-received to a dry-mass basis the uncertainty shown on this value 
+is an expanded uncertainty.  An uncertainty component for the conversion factor (0.34 % for SRM 3258, 0.26 % for 
+SRM  3259,  and  0.12  %  for  SRM  3260)  obtained  from  the  moisture  measurements   is  incorporated  in  the 
+uncertainties of the certified and reference values, reported on a dry-mass basis, that are provided in this certificate. 
+ 
+Homogeneity Assessment:  The homogeneity of alkaloids was assessed at NIST by using the methods described 
+above.  An analysis of variance did not show inhomogeneity for citrus alkaloids in the 0.05 g and 0.5 g test portions 
+of  SRMs  3258,  3259,  and  3260  analyzed,  nor  did  it  show  inhomogeneity  for  caffeine  in  the  0.06  g  to  2.0  g  test 
+portions of SRM 3260 analyzed.    
+ 
+Value Assignment:  The equally weighted means from appropriate sets of data were used to calculate the assigned 
+values.   
+ 
+
+SRM 3261 
+
+Page 4 of 6 
+
+Table 1.  Certified (Bold), Reference (Normal Typeface), and Information (Normal Typeface, No Uncertainties 
+Provided) Concentration Values for Alkaloids in SRM 3261 Reported on a Dry-Mass Basis (a) 
+
+   
+
+ 
+
+SRM 3258 
+Mass Fraction (mg/g) 
+
+SRM 3259   
+
+ 
+Mass Fraction (mg/g) 
+
+ 
+
+ 
+
+SRM 3260 
+Mass Fraction (mg/g) 
+
+Synephrine(b,c,d,e,f,g) 
+Octopamine(c,d,e) 
+Tyramine(c,d,e) 
+Hordenine(e) 
+N-methyltyramine 
+Total Citrus Alkaloids(c,d,e)  9.41 
+ 
+Caffeine(b,d) 
+
+ 
+
+ 
+
+9.10 
+±  0.15 
+0.124  ±  0.016 
+ 
+0.031 
+0.012 
+ 
+0.178  ± 
+
+ 
+ 
+ 0.012(c,d,e) 
+
+±  0.17 
+
+ 
+
+ 
+
+71.9 
+
+± 
+0.809  ± 
+0.800  ± 
+0.018 
+5.23 
+
+77.5 
+
+ 
+± 
+± 
+
+ 
+
+ 
+
+2.3 
+ 0.051 
+ 0.067 
+
+ 0.66(b,c,d,e,f) 
+1.3 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 0.022 
+ 0.022 
+
+18.19  ±  0.49 
+0.161  ± 
+0.187  ± 
+0.0049 
+0.75 
+19.57  ±  0.18 
+
+±  0.16 (c,d,e) 
+
+64.3 
+
+±  1.2 
+
+(a) Each certified concentration value, expressed as a mass fraction on a dry-mass basis, is an equally weighted mean of results from 
+analytical  methods  carried  out  at  NIST  and  at  collaborating  laboratories.    The  uncertainty  in  the  certified  value,  calculated 
+according to the method described in the ISO and NIST Guides [2,3], is expressed as an expanded uncertainty, U.  The expanded 
+uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one standard deviation, the combined effect 
+of between-laboratory, within-laboratory, and drying components of uncertainty.  The coverage factor (k) is determined from the 
+Student's t-distribution corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence for 
+each analyte. 
+
+  Each reference concentration value, expressed as a mass fraction on a dry-mass basis, is an equally weighted mean of the results 
+from NIST and collaborating laboratories.  The uncertainty in the reference value, calculated according to the method described 
+in  the  ISO  and  NIST  Guides  [2,3],  is  expressed  as  an  expanded  uncertainty,  U.    The  expanded  uncertainty  is  calculated  as 
+U = kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one  standard  deviation,  the  combined  effect  of  between-laboratory, 
+within-laboratory, and drying components of uncertainty.  The coverage factor (k) is determined from the Student's t-distribution 
+corresponding to the appropriate associated degrees of freedom and approximately 95 % confidence for each analyte. 
+
+Table 2.  Information Concentration Values for Toxic Elements in SRM 3261 Reported on a Dry-Mass Basis (a) 
+
+SRM 3258 
+Mass Fraction (ng/g) 
+
+SRM 3259   
+
+ 
+Mass Fraction (ng/g) 
+
+ 
+
+ 
+
+SRM 3260 
+Mass Fraction (ng/g) 
+
+ 
+ 
+
+160 
+10 
+1500 
+
+ 
+ 
+ 
+
+350 
+  14 
+290 
+
+140 
+16 
+240 
+
+ 
+ 
+ 
+
+(a)  Each information concentration value, expressed as a mass fraction, is the mean of two results provided by ICP-MS. 
+
+ 
+
+ 
+
+(b) NIST LC/UV 
+(c) NIST LC/FL 
+(d) NIST LC/MS 
+(e) NIST LC/MS/MS 
+(f)  FDA NCTR LC/UV 
+(g) ChromaDex LC/UV 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Arsenic 
+Cadmium 
+Lead 
+ 
+
+SRM 3261 
+
+Page 5 of 6 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May,  W.;  Parris,  R.;  Beck,  C.;  Fassett,  J.;  Greenberg,  R.;  Guenther,  F.;  Kramer,  G.;  Wise,  S.;  Gills,  T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S. Government 
+Printing Office: Gaithersburg, MD (2000). 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297, 
+U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+[2] 
+
+[3]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results From Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105; pp. 571-579 (2000). 
+
+[4]  Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811, U.S. 
+
+Government Printing Office, Washington, DC (1995);  available at http://www.physics.nist.gov/Pubs. 
+
+[5]  Evans,  R.L.;  Siitonen,  P.H.;  Determination  of  Caffeine  and  Sympathomimetic  Alkaloids  in  Weight  Loss 
+Supplements by High-Performance Liquid Chromatography; J. Chromatogr. Sci., Vol. 46, pp. 61-67 (2008). 
+[6]  Roman, M.C., Betz, J.M., Hildreth, J.; Determination of Synephrine in Bitter Orange Raw Materials, Extracts, 
+and  Dietary  Supplements  by  Liquid  Chromatography  with  Ultraviolet  Detection:    Single  Laboratory 
+Validation; J. AOAC Int. Vol. 90, pp. 68−81 (2007). 
+
+[7]  Putzbach,  K.,  Rimmer,  C.A.,  Sharpless,  K.E.;  Sander,  L.C.;  Determination  of  Bitter  Orange  Alkaloids  in 
+Dietary Supplements Standard Reference Materials by Liquid Chromatography with Ultraviolet Absorbance 
+and Fluorescence Detection; J. Chromatogr. A, Vol. 1156, pp. 304−311 (2007). 
+
+[8]  Putzbach, K.; Rimmer, C.A.; Sharpless, K.E., Wise, S.A., and Sander, L.C.; Development and Evaluation of a 
+Liquid  Chromatography  Electrospray  Ionization  Mass  Spectrometry  Method  for  Determination  of  Bitter 
+Orange  Alkaloids  in  Dietary  Supplement  Standard  Reference  Materials;  Anal.  Bioanal.  Chem.,  Vol.  389, 
+pp. 197−205 (2007). 
+
+[9]  Nelson,  B.C.;  Putzbach,  K.;  Sharpless,  K.E.;  Sander,  L.C.;  Mass  Spectrometric  Determination  of  the 
+Predominant  Adrenergic  Alkaloids  in  Bitter  Orange  (Citrus  aurantium)  J.  Agric.  Food  Chem.,  Vol.  55, 
+pp. 9769-9775 (2007). 
+
+[10]  Thomas,  J.B.;  Yen,  J.H.;  Schantz,  M.M.;  Porter,  B.J.;  Sharpless,  K.E.;  Determination  of  Caffeine, 
+Theobromine,  and  Theophylline  in  Standard  Reference  Material  2384,  Baking  Chocolate,  Using  Reversed-
+Phase Liquid Chromatography; J. Agric. Food Chem, Vol. 52, pp. 3259-3263 (2004). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+SRM 3261 
+
+Page 6 of 6 
+
+

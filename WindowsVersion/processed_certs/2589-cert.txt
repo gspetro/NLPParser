@@ -1,0 +1,252 @@
+﻿ 
+
+oor 
+Ne  g- 
+
+Srares  oe
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2589 
+
+ 
+Powdered Paint 
+(Nominal 10 % Lead) 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation of methods and for the calibration of 
+apparatus used to determine lead in paint.  SRM 2589 is composed of paint collected from the interior surfaces of 
+housing.    A  unit  of  SRM  2589  consists  of  35  g  of  powdered  paint  material,  99+  %  of  which  passes  a  100 μm 
+(No. 145)  sieve.    The  certified  mass  fraction  of  lead,  given  below,  is  based  on  measurements  by  isotope  dilution 
+thermal  ionization  mass  spectrometry  (ID-TIMS) with  a minimum  sample  size  of  100  mg.    The  certified value  is 
+reported on a dry basis (see “Instructions for Drying”). 
+ 
+
+ 
+ 
+ 
+The uncertainty in the certified value is calculated as 
+ 
+
+Certified Mass Fraction 
+
+Lead Content:  9.99 %  ±  0.16 % 
+
+U = kuc 
+
+ 
+where uc is the combined standard uncertainty calculated according to the ISO Guide [1] and k is a coverage factor.  
+The value of uc is intended to represent at the level of one standard deviation, the combined effect of uncertainty 
+components  associated  with  material  inhomogeneity  and  ID-TIMS  measurement  uncertainty.    In  the  absence  of 
+Type B uncertainties (which are negligible here in comparison with Type A), the expanded uncertainty (U) given is 
+for a 95 % confidence interval.  The coverage factor, k = 2.09, is the Student's t-value for a 95 % confidence interval 
+with 19 degrees of freedom. 
+ 
+Expiration of Certification:  The certification of SRM 2589 is valid, within the measurement uncertainty specified, 
+until 31 December 2020, provided the SRM is handled in accordance with instructions given in this certificate (see 
+“Instructions for Use”).  This certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If  substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  of  this  SRM  were 
+performed by J.R. DeVoe, P.A. Pella, and R.L. Watters, Jr. of the NIST Analytical Chemistry Division.   
+ 
+Partial  financial  support  for  the  development  of  this  SRM  was  provided  by  the  U.S.  Environmental  Protection 
+Agency (EPA) under the direction of project managers S.L. Harper and M.E. Beard of the EPA Office of Research 
+and Development, National Exposure Research Laboratory, Research Triangle Park, NC. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  08 June 2009 
+See Certificate Revision History on last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 2589 
+
+Page 1 of 3 
+
+Statistical consultation was provided by E.S. Lagergren of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+To relate analytical determinations to the certified value on this Certificate of Analysis, a minimum sample mass of 
+100 mg  should  be  used  and  the  sample  should  be  dried  according  to  the  “Instructions  for  Drying”.    Sample 
+preparation procedures should also be designed to effect complete dissolution in order to relate the determined value 
+to  the  certified  value.    This  SRM  must  be  stored  in  an  air  conditioned  environment  or  similar  cool  and  dry 
+environment away from sunlight and fumes. 
+ 
+Instructions for Drying:  Samples of this SRM should be dried in an .oven at 105 °C for 2 h.  At NIST, loss on 
+drying  according  to  this  procedure  was  less  than  1  %  relative  by  mass.    However,  under  different  conditions  of 
+humidity, the mass loss could vary.  In order for users to directly relate their analyses to the certified value, loss on 
+drying corrections should be measured and applied at the time of the analysis.  
+ 
+COLLECTION, PREPARATION, AND ANALYSIS 
+ 
+Collection:    The  paint  material  for  this  SRM  was  collected  primarily  in  Athens,  Ohio  from  various  interior  wall 
+surfaces of old housing which, for the most part, were painted prior to 1945.  The material was collected under the 
+direction of the Research Triangle Institute and the U.S. Environmental Protection Agency.  Collection of paint by 
+dry  scraping  and  its  initial  evaluation  for  use  as  SRM  2589  were  performed  by  J.D.  Neefus,  E.E. Williams,  and 
+D.B. Binstock,  of  the  Research  Triangle  Institute,  Research  Triangle  Park,  NC,  under  the  leadership  of 
+W.F. Gutknecht. 
+ 
+Preparation:  First the largest pieces of debris and foreign material were removed by hand.  Next, the material was 
+coarsely chipped in a large-capacity blender fitted with a stainless steel blade.  The material was then further ground 
+in small batches in a ball mill.  Each batch was sieved and the fraction that did not pass a 100 μm (#145) sieve was 
+returned for further grinding with a fresh charge of coarse paint material.  All material of a size less than 100 μm 
+was combined and blended as a single batch before being bottled in 35 g units. 
+ 
+Analysis:    Certification  analysis  by  ID-TIMS  was  performed  by  K.E.  Murphy  and  R.D.  Vocke  of  the  NIST 
+Analytical Chemistry Division.  The X-ray fluorescence homogeneity analysis was performed by A.F. Marlow and 
+P.A. Pella and the inductively coupled plasma-optical emission spectrometric (ICP-OES) analysis were performed 
+by  L.J.  Wood  of  the  NIST  Analytical  Chemistry  Division  and  R.  Saraswati,  Guest  Scientist  from  the  Defense 
+Metallurgical Research Laboratory, India. 
+ 
+The ICP-OES analysis data given in Table 1 provide information on the concentrations of major constituents other 
+than  lead  in  the  material.    These  values  listed  are  not  certified,  but  are  given  for  information  only  to  provide 
+additional information on the matrix. 
+ 
+Environmental  Lead  Proficiency  Analytical  Testing  Program  Results:    This  material  was  included  as  an 
+unknown  in  the  Environmental  Lead  Proficiency  Analytical  Testing  Program  (ELPAT)  administered  by  the 
+American  Industrial  Hygiene  Association  (AIHA).    Conventional  dissolution  methods  employed  by  participating 
+laboratories  include  hotplate,  microwave,  and  other  techniques  such  as  sealed  bomb  dissolutions  and  leaching 
+techniques.    Instrumental  determinations  were  performed  using  inductively  coupled  plasma-mass  spectrometry 
+(ICP-MS),  inductively  coupled  plasma-optical  emission  spectrometry  (ICP-OES),  flame  atomic  absorption 
+spectrometry  (FAAS),  graphite  furnace  atomic  absorption  spectrometry  (GFAAS),  and  X-ray  fluorescence 
+spectrometry (XRF).  Information from this study is provided to indicate the state of the practice for lead in paint 
+measurements  using  such  methods.   A  summary  of  the  round  robin  lead  results  obtained  from  ELPAT  Reference 
+Laboratories for SRM 2589 is presented in Table 2.  The SRM 2589 is identified as round robin 002, paint #4 in the 
+ELPAT report. 
+ 
+ 
+
+SRM 2589 
+
+Page 2 of 3 
+
+SUPPLEMENTAL INFORMATION 
+
+ 
+Table 1.  Information Values for Major Constituents of SRM 2589 
+
+ 
+
+Element 
+ 
+ 
+
+Al 
+Ca 
+Fe 
+Mg 
+Ti 
+Zn 
+
+Mass Fraction 
+(%) 
+ 
+ 
+
+1 
+12 
+
+0.2 
+1 
+9 
+2 
+
+ 
+ 
+
+(b) 
+
+ 
+ 
+ 
+
+Table 2.  Environmental Lead Proficiency Analytical Testing (ELPAT) Program 
+Summary Statistics of Reference Laboratories for Round Robin 002(a) 
+ 
+
+Sample 
+
+Paint 4 
+
+n 
+
+31 
+
+Mean 
+
+Minimum  Maximum 
+
+S(b) 
+
+9.55 % 
+
+7.57 % 
+
+10.8 % 
+
+0.91 
+
+ 
+ 
+(a)  These  results  are  provided  to  demonstrate  user  experience  with  this  material.    They  were  not  used  in  calculating  the  certified  value  of 
+
+ 
+
+SRM 2589. 
+s is one standard deviation.  
+
+REFERENCE 
+
+ 
+[1]  ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.,  International 
+Organization for Standardization: Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines 
+for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. 
+Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/. 
+
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  08 June 2009 (This revision reflects editorial updates): 10 March 2009 (This revision reports an 
+extension in the certification period); 10 December 1996 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate  in  their  possession is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+ 
+
+SRM 2589 
+
+Page 3 of 3 
+
+

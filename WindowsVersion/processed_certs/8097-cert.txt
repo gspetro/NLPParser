@@ -1,0 +1,257 @@
+﻿National Institute of Standards & Technology
+
+
+
+Report of Investigation
+
+
+
+Reference Material® 8097
+
+
+
+MEMS 5in1 Test Chip
+
+
+
+Lot 95, Serial Number: Sample
+
+
+
+This Reference Material (RM) is a microelectromechanical system (MEMS) 5in1 test chip [1,2] that was fabricated using a polysilicon multi-user surface micromachining MEMS process with a backside etch.  RM 8097 is intended to allow customers to compare their in-house measurements with NIST measurements for five standard test methods, thereby, validating their use of the documentary standard test methods.  A unit of RM 8097 consists of a MEMS test chip atop a piezoelectric transducer (PZT) in a hybrid package, a thumb drive containing additional user information, data analysis sheets that contain the values from NIST measurements, this Report of Investigation (ROI), and the five standard test methods.
+
+
+
+Dimensional and Material Reference Values:  The five standard test methods pertain to Young’s modulus [3], residual strain [4], strain gradient [5], step height [6], and in-plane length [7] measurements as documented in the Semiconductor Equipment and Materials International (SEMI) standard test method MS4, the American Society for Testing and Materials (ASTM) International standard test method E 2245, ASTM standard test method E 2246, SEMI standard test method MS2, and ASTM standard test method E 2244, respectively.  SEMI standard test method MS4 also contains calculations for residual stress and stress gradient and SEMI standard test method MS2 can be used to obtain the thickness measurement of the first or second polysilicon layer [1,2] by using the optomechanical technique [8].
+
+
+
+The dimensional and material reference values for eight parameters of RM 8097 are reported in Table 1.  Effective values are reported if there are deviations from the ideal geometry and/or composition of the applicable test structure(s) [1,2].  The uncertainty in each reference value is calculated as the expanded uncertainty, where k = 2 is the coverage factor for a 95 % confidence interval [9].  Reference values are noncertified values that are the best estimates of the true values; however, the values do not meet NIST criteria for certification and are provided with associated uncertainties that may reflect only measurement precision, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [10].
+
+
+
+Expiration of Value Assignment:  RM 8097 Lot 95 is valid, within the measurement uncertainty specified, for two years after the order date listed on the NIST Standard Reference Material Invoice that arrived with the material, provided the RM is handled and stored in accordance with instructions given in this Report of Investigation (see “Instructions for Storage, Handling, and Use”).  This report is nullified if the RM is damaged, contaminated, or otherwise modified.  To ensure this material is not used beyond its expiration date, keep the SRM Invoice with this report.
+
+
+
+Maintenance of RM:  NIST will monitor this RM over the period of its value assignment.  If substantive changes occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Technical work leading to the report for RM 8097 was performed by J.M. Cassard formerly of NIST.  Technical support was provided by the Test Structures Subgroup within the MEMS Measurement Science and Services Project.  J. Geist of the NIST Semiconductor and Dimensional Metrology Division led this project.
+
+
+
+Statistical consultation for this RM was provided by S.D. Leigh of the NIST Statistical Engineering Division.
+
+
+
+	David G. Seiler, Chief
+
+			Semiconductor and Dimensional Metrology Division
+
+
+
+		Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+		Report Issue Date:  17 September 2014	Office of Reference Materials
+
+	Report Revision History on Last Page
+
+
+Support aspects involved with the issuance of this RM were coordinated through the NIST Office of Reference Materials.
+
+			Table 1.  Dimensional and Material Reference Values for RM 8097(a)
+
+Measurement(b)
+
+
+
+	1.	Effective Young’s modulus, E
+
+						Sample
+
+	2.	Effective residual strain, r
+
+						Sample
+
+	3.	Strain gradient, sg
+
+						Sample
+
+	4.	Step height,(c) step1AB
+
+						Sample
+
+	5.	In-plane length,  L (at 5×)
+
+						Sample
+
+	6.	Effective residual stress, r
+
+						Sample
+
+	7.	Effective stress gradient, g
+
+					Sample
+
+	8.	Thickness, α
+
+						Sample
+
+(a) The measurands are the eight parameters listed in Table 1.  The reference values as determined by the methods indicated in this report are metrologically traceable to the SI units of pressure or length as indicated in the table.
+
+(b) Except where noted, these measurements are for the second polysilicon layer.
+
+(c) This is a step from poly1 to poly2 if it is negative and a step from poly2 to poly1 if it is positive with the reference region at least 10 µm from each transitional edge.  Other physical step height standards are available with lower uncertainty values and those should be used to calibrate instruments.
+
+
+
+TEST CHIP DESIGN
+
+
+
+The MEMS 5-in-1 test chip for RM 8097 was fabricated at MEMSCAP using a polysilicon multi-user surfacemicromachining MEMS process with a backside etch.()  Additional information on MEMSCAP is available at http://www.memscap.com.  The design for this chip is depicted below in Figure 1.  As can be seen in this figure, the fabrication process designation is specified in the upper right hand corner.  Participants can obtain the design file (in GDSII format) and other related information for the MEMS 5in1 at the MEMS Calculator website (Standard Reference Database 166) accessible via the NIST Data Gateway (http://srdata.nist.gov/gateway/) with the keyword “MEMS Calculator.”
+
+
+
+
+
+
+Figure 1.  The MEMS 5in1 test chip design for RM 8097 Lot 95.  Measurements for the five standard test methods are taken in the applicable group of test structures.  This test chip is designed to be used as a reference material only; the Standard Reference Material (SRM) number specified on the chip is not applicable.
+
+For the MEMS 5-in-1 chip design shown in Figure 1, one mechanical layer is used as the suspended portion of the applicable test structures.  The values reported on this ROI apply to only the poly1 or poly2 layer, as specified in a note at the bottom of Table 1, with the step height measurement taken from the top of the poly1 layer to the top of the poly2 layer, or vice versa.
+
+
+
+As seen in Figure 1, the test chip contains six groups of test structures:  Young’s modulus, residual strain, strain gradient, step height, in-plane length, and Certification Plus.  Group 1 contains the test structures (namely, cantilevers and fixedfixed beams) for Young’s modulus measurements.  Group 2 contains fixed-fixed beams for residual strain measurements.  Group 3 contains cantilevers for strain gradient measurements.  Group 4 contains step height test structures for a step from poly1 to poly2 or vice versa.  Group 5 contains beams from which to take inplane length measurements.  The Certification Plus section contains cantilevers from which to obtain thickness measurements.  In addition, this section contains additional test structures (for example, linewidth test structures and fatigue test structures) that can be used to obtain additional geometrical and material properties.  A 2.5 mm ruler is also provided in this section.
+
+
+
+Notice to users:  The customer may have concerns about the overall appearance of RM 8097, for example if there are broken or missing beams.  Only pre-selected test structures were used to obtain the reference values in this report.  These test structures can be found from the supplied data analysis sheets and these are the test structures the customer should use to compare their measurements with NIST measurements.  Therefore, the customer’s attention should be drawn to these individual test structures as opposed to the overall appearance of the RM.
+
+
+
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE
+
+
+
+Storage and Handling:  The semiconductor test chip is subject to surface contamination and oxidation during storage and handling.  The RM should be handled by the metal package, without contacting the semiconductor test chip.  The lid provided with the RM should be replaced and secured to the package when not in use.  This hybrid package (without the accompanying plastic clip) should be stored in a dustfree, inert atmosphere (such as nitrogen gas or argon gas) or under an oilfree vacuum at a temperature of 20.5 C  1.1 C.  Improper storage conditions can result in an increase in the absolute value of the residual strain [2] due to contaminants (such as plasticizers) that would nullify this report.  Incidental exposure to air for transport to or use in an analysis system should not produce significant contamination until such exposure exceeds hundreds of hours.  The customer should avoid exposing the units to large temperature variations, temperature cycling, large humidity variations, or mechanical shock.  Particulate contamination of the semiconductor surface may be removed with a lowvelocity dry nitrogen flow.  Too high or turbulent flow can break the cantilevers so it is recommended that the contamination be removed only if it is on one of the test structures that was used to obtain the measurements for this report.
+
+
+
+
+
+
+
+Figure 2.  The packaged MEMS 5in1.
+
+
+
+
+Measurement Conditions and Procedures:  The RM is intended to be used in a laboratory environment.  To take measurements on the MEMS 5-in-1 for comparison with the NIST measurements, carefully remove the lid.  Once the lid is removed, the residual strain [4], strain gradient [5], step height [6] (and thickness [2,6,8]), and inplane length [7] measurements can be taken based on the appropriate standard test method.
+
+
+
+Each MEMS 5in1 test chip is secured to the top of a piezoelectric transducer (PZT) then packaged, as shown in Figure 2.  The PZT included in the package has the following properties [11]:
+
+The operating voltage range is from 20 V to +100 V.
+
+The operating temperature range is 40 ºC to 150 ºC.
+
+The dimensions of the PZT are approximately 5 mm by 5 mm and 2 mm in height.
+
+It is provided with a red and a black wire.
+
+It can achieve a 2.2 m ( 20 %) displacement at 100 Vpp (peak-to-peak voltage) from DC to 100 kHz when not secured to any surfaces.
+
+It has an electrical capacitance of 250 nF ( 20 %) at 1 Vpp and 1 kHz.
+
+It has a resonance frequency (that is not a function of Vpp) of 600 kHz when not secured to any surfaces.  With unilateral clamping, as is the case here, this resonance frequency, fres, is divided by two.  For a chip with mass, mchip, of 0.07 g atop a PZT with mass, mPZT, of 0.4 g, the resonance frequency with the chip, fres', is estimated to be 277 kHz using the following equation:
+
+
+
+			.	(1)
+
+
+
+The operating frequency should be kept to approximately 30 % of this reduced resonance frequency, fres', therefore the operating frequency should not exceed 83 kHz.  Exceeding this operating frequency for an extended period of time could create dynamic forces and heating issues that could damage the PZT.
+
+
+
+For a given system configuration, the PZT should be tested, for example, to ensure that an appropriate amplifier is being used [11].
+
+
+
+For Young’s modulus measurements, to operate the PZT, the red wire should be driven with a voltage that is positive relative to the black wire.  To ensure that you have successfully connected to the PZT, when activated at 10 V and 7000 Hz, the resulting PZT vibration is barely audible [3].
+
+
+
+Data Validation:  The data analysis sheets [on the MEMS Calculator website accessible via the NIST Data Gateway (http://srdata.nist.gov/gateway/) with the keyword “MEMS Calculator”] for the measurements taken at NIST for Young’s modulus (including residual stress and stress gradient calculations), residual strain, strain gradient, step height, in-plane length, and thickness are provided with the RM.  The data analysis sheets have four basic functions:  (1) to locate the specific test structures measured so the customer can take measurements on the same test structures, (2) to provide the raw data used in the analysis, (3) to analyze the data, and (4) to verify the data.  Any pertinent unreconciled issues [as given by “wait” statement(s) at the bottom of the data analysis sheet] should be resolved.
+
+
+
+Expanded Uncertainty:  To obtain the expanded uncertainty for each reference value, a stability expanded uncertainty component (for storage and transportation instabilities) has been added in quadrature to the expanded uncertainty obtained in the applicable data analysis sheets.  These stability expanded uncertainties are 33 GPa for Young’s modulus, 12.6 × 106 for residual strain, 9.4 m1 for strain gradient, 3.2 MPa for residual stress, and 1.32 TPa/m for stress gradient.  The stability expanded uncertainty component is assumed to be zero micrometers for the dimensional parameters (step height, inplane length, and thickness).
+
+
+
+Homogeneity Assessment:  A homogeneity expanded uncertainty component is not included in the expanded uncertainty calculation because only one test structure is being analyzed for the user to validate their use of the applicable documentary standard test method.  Adding this additional uncertainty component would make the uncertainty bars larger than necessary.  For information purposes only, the homogeneity expanded uncertainties are 8 GPa for Young’s modulus, 18.6 × 106 for residual strain, 5.5 m1 for strain gradient, 0.121 µm for step height, 1.5 µm for in-plane length, 2.7 MPa for residual stress, 0.69 TPa/m for stress gradient, and 0.10 µm for thickness.  These homogeneity expanded uncertainties were calculated to be twice the standard deviation of twelve measurements where each measurement is taken from a different chip.
+
+
+
+
+Acceptance Criterion:  The customer is responsible for determining an appropriate criterion for acceptance, such as given below:
+
+
+
+			,	(2)
+
+where DM is the absolute value of the difference between the customer’s measured value, M(customer), and the measured value on this ROI, M, and where UM(customer) is the customer’s expanded uncertainty value and UM is the expanded uncertainty on this report.  If there are no pertinent unreconciled issues in the applicable data analysis sheet (as specified above) and the customer’s result satisfies their criterion for acceptance [2], then the customer is considered to be correctly applying the applicable documentary standard test method.  The customer must be aware that when using the standard test methods with their own test structures, the geometry and composition of the test structures must be known because these methods assume an ideal geometry and composition, implying that an “effective” value is obtained if the geometry and/or composition of the test structure deviates from the ideal such that it effects the results.
+
+
+
+Parametric Usage:  A nominal poly1 or poly2 thickness is used in the Young’s modulus and residual strain data sheets to calculate those parameters for the given layer.  The data analysis sheet results for the poly1 or poly2 residual strain and strain gradient measurements are used to calculate residual stress and stress gradient, respectively, for the given layer.
+
+
+
+Heterogeneity Limits:  The heterogeneity limits, used to demonstrate fitness for purpose, are the average value for the twelve measurements  40 GPa for Young’s modulus,  38.7 × 106 for residual strain,  17.2 m1 for strain gradient,  0.204 µm for step height,  4.9 µm for inplane length,  4.8 MPa for residual stress,  2.03 TPa/m for stress gradient, and  0.42 µm for thickness.
+
+
+
+REFERENCES
+
+
+
+[1]	Cassard, J.M.; Geist, J.; Gaitan, M.; Seiler, D.G.; The MEMS 5-in-1 Reference Materials (RM 8096 and 8097); 2012 IEEE International Conference on Microelectronic Test Structures (ICMTS 2012); San Diego, CA, pp. 211–216 (2012).
+
+[2]	Cassard, J.M.; Geist, J.; Vorburger, T.V.; Read, D.T.; Gaitan, M.; Seiler, D.G.; User’s Guide for RM 8096 and 8097:  The MEMS 5-in-1, 2013 Edition; NIST Special Publication 260177, National Institute of Standards and Technology (2013); available at http://dx.doi.org/10.6028/NIST.SP.260-177 (accessed Sep 2014).
+
+[3]	SEMI MS4-0212; Test Method for Young’s Modulus Measurements of Thin, Reflecting Films Based on the Frequency of Beams in Resonance; (2012); available at http://www.semi.org (accessed Sep 2014).
+
+[4]	ASTM E08; E 2245 Standard Test Method for Residual Strain Measurements of Thin, Reflecting Films Using an Optical Interferometer; Annu. Book of ASTM Stand., ASTM E 2245-11 (2011).
+
+[5]	ASTM E08; E 2246 Standard Test Method for Strain Gradient Measurements of Thin, Reflecting Films Using an Optical Interferometer; Annu. Book of ASTM Stand., ASTM E 2246-11 (2012).
+
+[6]	SEMI MS2-0212; Test Method for Step Height Measurements of Thin Films; (2012); available at http://www.semi.org (accessed Sep 2014).
+
+[7]	ASTM E08; E 2244 Standard Test Method for In-Plane Length Measurements of Thin, Reflecting Films Using an Optical Interferometer; Annu. Book of ASTM Stand., ASTM E 2244-11 (2011).
+
+[8]	Marshall, J.C.; New Optomechanical Technique for Measuring Layer Thickness in MEMS Processes; J. Microelectromech. Syst., Vol. 10, No. 1, pp. 153–157 (2001).
+
+[9]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; (GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Sep 2014); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); http://www.nist.gov/pml/pubs/index.cfm (accessed Sep 2014).
+
+	[10]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136 (2000); available at http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Sep 2014).
+
+[11]	PI CAT128E; Piezoelectric Actuators: Components, Technologies, Operation; Physik Instrumente (PI) GmbH & Co; available at http://www.piezo.ws/pdf/Piezo.pdf (accessed Sep 2014).
+
+Report Revision History:  17 September 2014 (Updated expiration date; editorial changes); 01 March 2013 (Original report date).
+
+Users of this RM should ensure that the Report of Investigation in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+
+
+5
+
+
+
+		RM 8097		Page 4 of 5

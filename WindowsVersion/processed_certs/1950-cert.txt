@@ -1,0 +1,2040 @@
+﻿National Institute of Standards & Technology 
+Certificate of Analysis 
+Standard Reference Material 1950 
+
+ 
+
+ 
+
+ 
+Metabolites in Frozen Human Plasma 
+Frozen 
+
+, with the exception of 
+
+  fraction, mass concentration, and amount
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining metabolites 
+such as fatty acids, electrolytes, vitamins, hormones, and amino acids i n human plasma and similar materials.  This 
+SRM can also be used for comparison of measurement technologies used in metabol
+omic studies and for quality 
+assurance when assigning values to in-house reference materials.  This SRM is intended to represent “normal” human 
+plasma.  A unit of SRM 1950 consists of five vials, each containing approximately 1.0 mL of plasma. 
+ 
+The  development of SRM  1950 was a collaboration between the National Institute of Standards and 
+Technology (NIST) and the National Institutes of Health  (NIH) National Institute of Diabetes and Digestive and 
+Kidney Diseases (NIDDK).  Analyses for value assignme nt were performed by NIST and the Centers for Disease 
+Control and Prevention  (CDC), Atlanta,  GA.  All certified and reference values
+vitamin D-binding protein, are based on the agreement between the results from NIST methods and from  the CDC, 
+where available.   The reference value for  vitamin D-binding protein is based on the agreement between the results 
+from a NIST method and University of Washington method.   The associated uncertainties are expressed at the 95  % 
+level of confidence  [1–3].  Values are reported in mass
+-of-substance 
+concentration units as appropriate [4]. 
+ 
+Certified Values:  The certified values of cholesterol and total glycerides, selected fatty acids, amino acids, vitamins 
+and carotenoids, clinical  markers and   hormones, and electrolytes in SRM  1950 are provided in Tables  1, 2,  4,  6, 
+9, and 10, respectively.  A NIST certified value is a value for which NI ST has the highest confidence in its accuracy 
+in that all known or suspected sources of bias have been investigated or taken into account [5]. 
+ 
+Reference Values:   Reference values are provided for fatty acids in Table  3, amino acids in Table  5, vitamins and 
+carotenoids in Table  7, trace elements, selenium species, bilirubin, total pr otein,  and  vitamin D-binding protein  in 
+Table 11, and perfluorinated compounds in Table 12.  A NIST reference value is a noncertified value that  is the best 
+estimate of the true value based on available data; however, the value does not meet the NIST criteria for certification 
+and is provided with associated uncertainties that may reflect only measurem ent reproducibility, may not include all 
+sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [5]. 
+ 
+Information Values:     Information  concentration  values are provided for selected vita mers  in Table  8.  A NIST 
+information value is a value that may be of interest to the SRM user, but insufficient information is available to assess 
+the uncertainty associated with the value.  Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1950 is valid, within the measurement uncertainty specified, 
+until 30 September 2023, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes occur that affect the certification before the exp
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Partial funding in support of the development of SRM  1950 Metabolites in  Frozen Human Plasma was provided by 
+NIH NIDDK (coordinated by A. Castle) and NIH Office of Dietary Supplements (coordinated by C. Sempos). 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 June 2020 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+iration of this certificate, NIST will notify the 
+
+Frozen
+
+SRM 1950 
+
+Page 1 of 15 
+
+ 
+ 
+
+in 
+
+ Powers, Z.
+
+ Momin, N.
+
+ Pfeiffer, C.D.
+
+ Paladugula, E.C.
+
+ Pendergrast, C.M.
+
+ Wood of the NIST 
+
+Office of Reference 
+
+were  coordinated  by  K.E. 
+
+ification of this SRM were 
+
+Overall  direction and coordination of the technical measurements leading to the cert
+performed by K.W. Phinney of the NIST Biomolecular Measurement Division and S.A.  Wise of the NIST Chemical 
+Sciences Division. 
+ 
+ical  Sciences 
+Acquisition and preparation of the SRM were coordinated by K.E.  Sharpless formerly of the NIST  Chemical Sciences 
+Division. 
+ 
+Analytical measurements at NIST were performed by M. Bedner, J. Camara, S.J. Christopher, B.E. Lang, K.E. Murphy, 
+Chemical Sciences   Division. 
+J.L. Reiner, C.A.  Rimmer, J.B.  Thomas, T.W.  Vetter, and L.J.
+L.E. Kilpatrick,  B.C. Nelson,  and  M.S. Lowenthal  of NIST;  G. Ballihaut,  B.S. Benford,  W.C. Davis, N.G.  Dodder, 
+G.J.L. Eppe,  S.E. Long,  E.A. McGaw,  J.L. Prendergast,  M.M. Schantz,  L.T. Sniegoski,  S.S.-C. Tai,  and  M.J. Welch 
+formerly of NIST. 
+ 
+Analytical measurements at the CDC were provided by M. Chaudhary-Webb, H. Chen, B.M.H. Haynes, D.J. LaVoie, 
+L.F. McCoy, S.S.
+ Fazili-Qari, 
+D. Rabinowitz, M.E. Rybak, R.L. Schleicher, M. Xu, and M. Zhang. 
+ 
+Analytical measurements at the University of Washington were provided by C.M. Henderson and A.N. Hoofnagle. 
+ 
+Statistical analysis was provided by W.F. Guthrie, C.R. Hagwood, S.D. Leigh, J.H. Yen, and N.-F. Zhang of the NIST 
+Statistical Engineering Division. 
+ 
+Support aspects involved  in  the issuance of this SRM were coordinated through the NIST 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1950 IS INTENDED FO R RESEARCH USE.  THIS IS A HUMAN SOURCE MATERIAL.  HANDLE  THE 
+PRODUCT AS A BIOHAZARDOUS MATERIAL CAPABLE OF TRANSMITTING INFECTIOUS DISEASE.  The 
+supplier has reported that each donor unit of plasma used in the preparati on of this product was tested by Foo d and 
+Drug Administration licensed tests and found to be negative for human immunodeficiency virus (HIV), HIV-1 antigen, 
+hepatitis B surface antigen, and hepatitis  C.  However, no known test method can offer complete assurance that 
+hepatitis B virus, hepat itis C virus, HIV, or other infectious agents are absent from th is material.  Accordingly, this 
+human blood -based product should be handled at the Biosafety Level
+POTENTIALLY INFECTIOUS HUMAN SERUM OR BLOOD SPECIMEN in the CDC/NIH Manual [6]. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at  –60 °C or lower in the original unopened vials.  The  certified values do not 
+apply to contents of previously opened vials as the stabilities of the analytes have not been investigated. 
+ 
+Use:  SRM 1950 is provided as frozen plasma that should be allowed to thaw at room temperature for at least 30 min 
+under subdued light prior to use.  After the material is thawed, it should be used immediately.  The contents of the vial 
+should be gently mixed prior to removal of a test portion for analysis.  Precautions should be taken to avoid exposure 
+to strong UV light and direct sunlight. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  SRM 1950 is designed to represent “normal” human plasma.  Plasma was obtained from 
+100 individuals who had undergone an overnight fast prior to blood draw by Biorec
+lamation (Hicksville,  NY).  
+Lithium heparin was used as the anticoagulant.  A rapid glucose oxidase test was used to exclude individuals who did 
+not adhere to the fasting requirement.  Plasma from an equal  number of men and women in a narrow adult age range 
+ected the distribution i n the U.S. population, i.e., 
+(40 to 50 years) was used.  Racial distribution of the donors refl
+approximately 77  % white, 12  % African American or black, 2  % American Indian or Alaskan Native, 4  % Asian, 
+5 % “other,” with approximately 15 % of the total taken from individuals of Hispanic origin.  Plasma was not obtained 
+from individuals (1)  who were extreme exercisers (e.g., marathon runners), (2)  with body-mass indices outside the 
+95th percentile, or (3) who adhered to extreme dietary regimens.  Individuals should not have taken medication for at 
+least 72 h prior to blood draw and were free from overt conditions (e.g., diabetes), diseases, and disorders.   
+ 
+This SRM was developed after an appropriate human subjects research determination by NIST. 
+  
+
+ 2 or higher as recommended for any 
+
+certified  values
+
+ 
+
+(1) Certain commercial equipment, instruments, or materials are identified in t
+
+his certificate adequately to specify the 
+
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1950 
+
+Page 2 of 15 
+
+-order reference measurement procedure by the 
+
+, deionization, reaction w ith 
+N-methyl-N-trimethylsilyltrifluoroacetamide.  
+
+Homogeneity Assessment:  The homogeneity of all measurands for which certified and reference values are provided 
+was assessed at NIST using the methods and test portion sizes described  below; analysis of variance did not show 
+statistically significant heterogeneity.   The reported analytes have been treated as though they are homogeneously 
+distributed in the material ; the homogeneity of the other analytes  present in the material and not reported by NIST 
+and/or CDC was not assessed. 
+ 
+)  provide  assigned  values.  The
+Value Assignment:   Means of data sets from individual methods were combined to provide assigned  values.  The 
+measured plasma density is 1.020
+ 20 g/mL; this uncertainty was 
+ 86 g/mL with a standard deviation of 0.000
+incorporated in values that are reported relative to units of volume. 
+ 
+Analytical Approach for Determination of Cholesterol, Fatty Acids, and Total Glycerides:  The cholesterol mass 
+fraction was determined using the NIST isotope dilution  (ID) gas chromatography  (GC) mass spectrometry  (MS) 
+(ID-GC-MS) definitive method  [7,8].  This method is an  approved higher-order reference measurement procedure 
+according to the Joint Committee  for Traceability in Laboratory Medicine  (JCTLM) [9].  This procedure employs 
+hydrolysis of cholesterol esters using potassium hydroxide (KOH) in ethanol, followed by extraction with hexane, and 
+derivatization of cholesterol using  bis(trimethylsilyl)acetamide. Cholesterol-25,26,27-13C3 was used as the internal 
+standard.  Certified values are listed in Table 1. 
+ 
+Value assignment of the mass concentration of total gly cerides (as triolein) was based upon the NIST ID -GC-MS 
+definitive method  [10].  This method is recognized as a higher
+JCTLM.  The method involves hydrolysis of triglycerides with ethanolic KOH
+butylboronic acid in pyridine, and derivatization with 
+Tripalmitin-1,2,3-13C3 was used as the internal standard.  Certified values for total glycerides are listed in Table 1. 
+ 
+Determination of Fatty Acids (NIST):  Mass fractions of fatty acids in SRM 1950 were determined using two different 
+extraction procedures and two analytical methods (see Table  2 for certified values and Table  3 for reference values).  
+An internal standard solution  containing ste aric-d35  acid and myristic -d27  acid was  used.  One set of samples was 
+saponified in methanolic KOH and esterified using sulfuric acid in methanol .  A second set was treated with sodium 
+methoxide in methanol followed by boron trifluoride  [11].  Both sets of  samples were analyzed by GC with flame 
+ionization detection  (FID) and GC -MS.   GC-FID was performed using a 0.25
+ mm × 100 m biscyanopropyl 
+polysiloxane fused silica capillary column.  GC -MS was performed using a 0.25  mm × 60 m fused silica capillary 
+column containing a 50 % cyanopropyl + 50 % phenylpolysiloxane (mole fraction) phase. 
+ 
+Determination of Fatty Acids (CDC ):   Total fatty acid s were determined using ID -GC-MS based on Langerstedt’s 
+method [12] (see Table 2 for certified values and Table 3 for reference values).  This procedure employs hydrolysis of 
+fatty acids from cholesteryl esters, triglycerides, and phospholipids usi
+acetonitrile:hydrochloric acid and methanol:sodium hydroxide in the presence of heat.  Total fatty acids were extracted 
+in hexane, concentrated, derivatized using 
+.  
+Twenty-four fatty acids were quantified using 10  isotopically labeled internal standards.  Fragmentation of fatty 
+acid-PFB esters by negative  chemical ionization resulted in a reproducible loss of the  PFB moiety giving a stable 
+carboxylate anion on a capillary column (30 m × 0.25 mm × 0.25 µm) with helium as the carrier gas. 
+ 
+Analytical Approach for Determination of Amino Acids:
+chromatography (LC) tandem MS  (ID-LC-MS/MS), GC coupled to time -of-flight (TOF) MS  (GC-TOF-MS), with 
+two different types of derivatization, and two-dimensional GC×GC-TOF-MS, as described in reference 13.  Certified 
+values are listed in Table 4, and reference values are listed in Table 5.  Cysteine thiols have been shown to oxidize in 
+plasma forming cystine dimers or to form other disulfide bonds such as thos e of glutathione  [14–16].  No specific 
+reducing agents were added to prevent thiol reactions in this study; however, the experimental approach was optimized 
+to minimize potential thiol reactions by keeping plasma  samples at or below 4  °C at all times during LC analyses or 
+until the derivatization step was reached during GC-MS analyses. 
+ 
+For the LC-MS/MS, GC-MS, and GC×GC-TOF-MS methods, amino acids were enriched from plasma using standard 
+methanol precipitation and spiked with isotopically labeled amino acid analogs
+.    For LC -MS/MS, analytes were 
+separated on a mixed mode (ion
+monitoring (MRM) was performed in a triple quadrupole mass spectrometer for two distinct fragmentation transitions 
+from each ion.  For GC-TOF-MS and GC×GC-TOF-MS, the methanol layer was evaporated to dryness and derivatized 
+with N-(t-butyldimethylsilyl)-N-methyltrifluoroacetamide (MTBSTFA).  The derivatized sample was injected into the 
+GC and separated on two columns in series:  a 5 % diphenyl/95 % dimethyl polysiloxane (mole fraction) column and 
+a 50  % diphenyl/50  % dimethyl polysiloxane  (mole fraction)  column.  GC×GC -TOF-MS was a two -dimensional 
+separation with cryotrapping between the two columns and a modulation period  of 3 s.  GC -TOF-MS analysis was 
+performed in one dimension without cryotrapping. 
+ 
+
+-exclusion and reversed -phase) analytical column, and multiple reaction 
+
+pentafluorobenzyl bromide  (PFB), and reconstituted in hexane
+
+   Amino acids we re quantified using ID liquid 
+
+ng sequential addition of 
+
+SRM 1950 
+
+Page 3 of 15 
+
+ D Metabolites:
+
+For the second GC-TOF-MS method, plasma was spiked with isotopically labeled amino acid analogs.  Derivatization 
+was performed in the plasma matrix with propyl chloroformate (PCF)/propanol.  Derivatized products were extracted 
+using chloroform for injection into the GC and separated on two 5
+ % diphenyl/95 % dimethyl polysiloxane (mole 
+fraction) columns in series, in one dimension without cryotrapping between the columns. 
+ 
+Analytical Approach for Determination of Fat-Soluble Vitamins and Carotenoids:  Value assignment of the mass 
+fractions of the vitamins and carotenoids in SRM 1950 was based on the combination of results provided from several 
+different analytical methods at NIST and CDC.  NIST provided measurements by using a combination of different LC 
+methods with different detection modes as described below.  Certified values are listed in Table 6 and reference values 
+are listed in Table 7. 
+ 
+Determination of Vitamins A and E and Carotenoids (NIST):  Retinol and carotenoids were measured at NIST by using 
+(1) a polymeric C 18  column [17] with UV/visible 
+combinations of two LC  methods with absorbance detection:  
+absorbance detection [18,19] and (2) a C18 column with different selectivity and absorbance detec tion of retinol and 
+carotenoids and fluorescence detection of tocopherols [19,20].  Proteins in the plasma were precipitated with ethanol 
+containing an internal standard.  Analytes were extracted into hexan e, which was evaporated.   The reconstituted 
+extracts were then analyzed by LC with absorbance and/or fluorescence detection. 
+ 
+Determination of Vitamins A and E and Carotenoids (CDC):  Fat-soluble micronutrients were measured at CDC using 
+reversed-phase LC with photodiode array detection [21].  Plasma was mixed with an ethanol solution containing two 
+internal standards, retinyl butyrate and β-apo-8′-carotenal.  Micronutrients were extracted from the aqueous phase into 
+hexane and dried under vacuum.  The extract was redissolved in ethanol and acetonit rile and filtered to  remove any 
+oad C 18 column 
+insoluble material.  An aliquot of the filtrate was injected onto a high carbon l
+(150 mm × 4.6 mm × 3 µm particle size) and eluted with a gradient consisting of ethanol and acetonitrile.  Absorbance 
+was monitored at 300 nm for vitamin E, 325 nm for vitamin A, and 450 nm for carotenoids. 
+ 
+Analytical Approach for Determination of Vitamin
+25-hydroxyvitamin D2, [25(OH)D2],  and 25 -hydroxyvitamin D3, [25(OH)D3],  were measured at NIST using 
+ID-LC-MS and ID -LC-MS/MS [22], each with two different types of chromatographic separations.   The certified 
+values for 25(OH)D3 are listed in Table 6 and reference values for 25(OH)D2 are listed in Table 7. 
+ 
+Determination of 25(OH)D 3  and 25(OH)D 2  by ID -LC-MS:   Plasma and an internal standard solution containing 
+2H6-25(OH)D3 and 2H3-25(OH)D2 were combined in glass tubes, proteins were precipitated, and the metabolites were 
+extracted into hexane twice.  The hexane phases were combined and evaporated t o dryness at 40 °C under nitrogen.  
+The residues were reconstituted and were further clarified using centrifuge filters.  Extracts were analyzed by LC-MS 
+using:  (1) a deactivated C18 stationary phase and (2) a cyanopropyl stationary phase.  Atmospheric pressure chemical 
+ionization (APCI) MS detection with positive polarity was used for b
+[M – H2O + H]+ ions were monitored for all specie s and were used for quantitation.  The ions monitored included 
+m/z 383 for 25(OH)D3, m/z 395 for 25(OH)D2, m/z 389 for 2H6-25(OH)D3 and m/z 398 for 2H3-25(OH)D2. 
+ 
+Determination of 25(OH)D 3 and 25(OH)D2 by ID-LC-MS/MS:   Two grams to 2.5  g of plasma were combined with 
+water (to avoid protein precipitation when samples were spiked with internal st
+andard  solutions), and an internal 
+standard solution containing  2H3-25(OH)D3 and 2H3-25(OH)D2.  After equilibration at room temperature for 1  h, the 
+pH of each sample was adjusted to pH  9.8 ± 0.2 with carbonate buffer.  Analytes were extracted from the plasma 
+matrix with a mixture of hexane and ethyl acetate.  The combined extracts were dried under nitrogen at 45 °C, and the 
+residues were reconstituted with methanol for LC-MS/MS analysis.  APCI in the positive-ion mode and MRM mode 
+2H3-25(OH)D3, 
+were used.  The transitions at 
+m/z 413 → m/z 395 for 25(OH)D2, and m/z 416 → m/z 398 for 2H3-25(OH)D2 were monitored. 
+ 
+measured  by
+Analytical Approach for Determination of Water -Soluble Vitamins:   Water-soluble vitamins were  measured by 
+NIST and CDC using combinations of LC methods with fluorescence o
+r tandem mass spectrometric detection as 
+described below.  Certified values are listed in Tab le 6, reference values are listed in Table  7, and information values 
+are listed in Table 8. 
+ 
+Determination of Folic Acid and 5 -Methyltetrahydrofolate (NIST) :   Folic acid and 5 -methyltetrahydrofolate were 
+measured in SRM  1950 using a 
+13C5-5-methyltetrahydrofolate as internal standar ds [23].  A gradient LC  method with a water/methanol/formic acid 
+mobile phase and a pentafluorophenyl column were used for the positive  ion mode LC-MS/MS determination.  For 
+folic acid, the transitions at  m/z 442 → m/z 295 (unlabeled) and  m/z 447 → m/z 295 (labeled) were monitored; for 
+5-methyltetrahydrofolate, the transitions at  m/z 460 → m/z 313 (unlabeled) and  m/z 465 → m/z 313 (labeled) were 
+monitored. 
+ 
+
+m/z 401 → m/z 383 for 25(OH)D 3,  m/z 404 → m/z 386 for 
+
+JCTLM-approved ID -LC-MS/MS method using 
+
+oth chromatographic methods.  The 
+
+The  vitamin D metabolites, 
+
+13C5-folic acid and 
+
+  
+
+SRM 1950 
+
+Page 4 of 15 
+
+C-MS/MS.  The transitions at 
+
+Determination of 5-Methyltetrahydrofolate and Folic Acid (CDC):  The folate vitamers 5-methyltetrahydrofolate and 
+folic acid were measured by ID -LC-MS/MS using  13C5-5-methyltetrahydrofolate and  13C5-folic acid as internal 
+standards [24,25].  This is a JCTLM -approved method.  Folate species were isolated from plasma by solid
+-phase 
+extraction (SPE) with phenyl cartridges.  The folate vitamers were separated on a C8 column under isocratic conditions 
+with an organic mobile phase containing acetic acid.  The transitions monitored for 5-methyltetrahydrofolate and folic 
+acid were the same as those listed above for the NIST determination. 
+ 
+Folate was also measured by a microbiological assay using a 96-well plate microtiter method [26,27].  Diluted serum 
+was added to an assay medium inoculated with Lactobacillus casei (NCIB 10463) and containing all of the nutrients 
+except folic acid necessary for growth of L. casei.  The microtiter plate was incubated for 42 h at 37 °C.  Because the 
+growth of L. casei is proportional to the amount of total folate present in t he serum sample, the folate concentration 
+was quantified by measuring the turbidity of the inoculated assay medium at
+ 590 nm in a micro plate reader.  The 
+assay was calibrated with 5-methyltetrahydrofolate. 
+ 
+Determination of Vitamin  B6 (NIST):   Vitamin B6 was determined as pyridoxal  5'-phosphate by ID -LC-MS/MS.  A 
+labeled i nternal standard   (pyridoxal-[2H3]-5'-phosphate) was added to the plasma and allowed to equilibrate for 
+30 min.  Plasma proteins  were precipitated by the addition of aqueous trichloroacetic acid followed by inc ubation at 
+room temperature.  After centrifugation, supernatants were analyzed by L
+m/z 248 → m/z 150 (unlabeled) and m/z 251 → m/z 153 (labeled) were monitored. 
+ 
+Determination of Vitamin  B6  (CDC):   The vitamin B 6  vitamers pyridoxal   5'-phosphate and 4 -pyridoxic acid were 
+determined by LC with chlorite post-column derivatization and fluorescence detection after protein precipitation with 
+metaphosphoric acid and sample filtration  [28,29].   The B6 vitamers were separated under isocratic conditions on a 
+C18 column with a mobile phase comprised of aqueous phosphate buffer (with 0.2 % acetonitrile) and methanol.  The 
+initial mobile phase was  comprised of 100 % aqueous buffer, and a linear gradient from 0  % to 30 % methanol was 
+employed after elution of the B6 vitamers to facilitate column cleanup between injections. 
+ 
+Analytical Approach for Determination of Glucose:   Value assignment of the gl ucose mass fraction (see Table  9) 
+was based on a modification of the NIST reference method for glucose, which involves ID-GC-MS and conversion of 
+-order reference 
+glucose into a dibutylboronate acetate derivative
+measurement procedure according to the JCTLM [9].  For certification of SRM 1950 this procedure was modified in 
+that the serum was not passed through an ion-exchange resin prior to concentration, freeze-drying, and derivatization. 
+ 
+Analytical Approach for  Determination of Creatinine:
+   Creatinine  was determined using an ID -LC-MS 
+method [32] that is similar to a method developed at the Laboratory of the Government Chemist [33] and is approved 
+by the JCTLM as a higher-order reference measurement procedure (see Table 9). 
+ 
+Analytical Approach for Determination of Urea and Uric Acid:  Urea was determined using a modification of the 
+ID-GC-MS method described in reference  34, approved by JCTLM, in which the plasma was spiked with urea -18O, 
+passed through a n  SPE cartridge, concentrated, then derivatized to 6
+determined using a modification of the ID -GC-MS method described in reference  35, approved by the JCTLM, in 
+which plasma samples were spiked with uric acid-15N2, mixed with 0.001 mol/L ammonium hydroxide, passed through 
+a strong anion exchange resin, eluted from the column with 1  mol/L acetic acid, freeze -dried, and derivatized with 
+MTBSTFA.  Certified values are provided in Table 9. 
+ 
+Analytical Approach for Determination of Homocysteine:    Homocysteine was determined using an ID -GC-MS 
+method similar to a method developed at the University of Co lorado Health Sciences Center  [36,37].  Plasma was 
+spiked with homocystine-d8, hydrolyzed with dithiothreitol in sodium hydroxide solution to break disulfide bonds and 
+release homocysteine and homocysteine
+derivatized, and analyzed by GC -MS with selective ion monitoring at  m/z 420 and m/z 424 with confirmation made 
+by monitoring  m/z 318 and  m/z 322 [38].  This method is approved by the JCTLM as a higher
+-order reference 
+measurement procedure.  Certified values are provided in Table 9. 
+ 
+Analytical Approach for Determination of Hormones:   The value assignments for  the cortisol, progesterone, and 
+testosterone mass fractions were based upon the LC-MS/MS analytical approaches described below and the certified 
+values are provided in Table 9. 
+ 
+Determination of Cortisol:  Value assignment of the cortisol mass fraction  was based on the NIST reference method 
+-d3, acidifying the sample, 
+(JCTLM-approved) for cortisol  [39], which involves spiking the plasma with cortisol
+putting the sample through a n  SPE C 18 cartridge, liquid -liquid extraction, and an alysis by LC -MS/MS using a 
+  m/z 363 → m/z 327 and 
+C18 column and monitoring two transitions each for the unlabeled forms:
+m/z 363 → m/z 121  and labeled forms:  m/z 366 → m/z 330 and m/z 366 → m/z 121. 
+
+-d4, which were isolated on an anion exchange resin, concentrated, 
+
+ [30,31].  This method is an approved higher
+
+-methyluracil overnight.  Uric acid was 
+
+ 
+
+SRM 1950 
+
+Page 5 of 15 
+
+and 
+
+for  the unlabeled form, 
+
+18 column and  monitoring  the transitions 
+
+The reference mass fraction for selenium is based upon 
+
+ 
+Determination of Progesterone:  Value assignment of the progesterone mass fraction was based on the NIST reference 
+method (JCTLM-approved), for progesterone  [40,41], which involves spiking the plasma with progesterone -13C2, a 
+liquid-liquid extraction, and analysis using LC -MS/MS with a C 18 column and  monitoring  the transitions  for  the 
+unlabeled form, m/z 315 → m/z 97 and the labeled form, m/z 317 → m/z 99. 
+ 
+Determination of Testosterone:  Value assignment of the testosterone mass fraction was based on  the NIST reference 
+method (JCTLM-approved) for testosterone [42], which involves spiking the plasma with testosterone -d3, SPE, and 
+analysis using LC -MS/MS with a C
+m/z 289 → m/z 97, and the labeled form, m/z 292 → m/z 97. 
+ 
+Analytical Approach for Determination of Elements :  Calcium, copper, magnesium, potassium, selenium, 
+sodium  were determined  using a single method  [43].  The certified mass fractions for calcium, magnesium, and 
+potassium are based on measurements using 
+isotope dilution   collision cell technology  (CCT) inductively coupled 
+plasma mass spectrometry, (ID-CCT-ICP-MS) [44–46], which  is a method approved by the  JCTLM.   The certified 
+mass fraction for sodium is based on measurements using NIST’s gravime
+tric definitive method  [46,47], a 
+JCTLM-approved method, without ion exchange.  
+measurements using ID -ICP-MS.  The reference mass fraction for copper  is based on measurements using ICP -MS 
+with standard additions.  Certified values are listed in Table 10 and reference values are listed in Table 11. 
+ 
+Analytical Approach for Determination of Selenium Species:   The selenium species selenoprotein P, glutathione 
+peroxidase, and seleno -albumin were determined by ID -ICP-MS.  Separation of selenoproteins was performed by 
+affinity chromatography on heparin-sepharose and blue-sepharose stationary phases that had been packed into PEEK 
+columns (4 mm × 50 mm).  Proteins were eluted with 1.5 mol/L ammonium acetate.  Quantitation was based upon ID 
+with 77Se.  Reference values are listed in Table 11. 
+ 
+Analytical Approach for Determination of T otal Protein:    Total protein mass concentration (Table
+ 11) was 
+determined using a biuret method  [48].  Spectrophotometric measurements were calibrated using SRM  927d Bovine 
+Serum Albumin (7 % Solution). 
+ 
+Analytical Approach for Determination of Bilirubin:  The mass concentration of bilirubin was determined using a 
+spectrophotometric reference method developed by Doumas [49] and is provided in Table 11. 
+ 
+Analytical Approach for Determination of Vitamin D -Binding Protein: Vitamin D-binding protein (VDBP) was 
+measured by NIST and the University of Washington
+Reference values listed in Table 11 are the mean of the mean measurements made at NIST and UW.   
+ 
+Determination of VDBP by NIST:  Seven vials of SRM 1950 were randomly selected and analyzed by ID-LC-MS/MS 
+in triplicate on different days.  Samples were prepared gravimetrically using trifluoroethanol to denature the proteins 
+as previously described [50].  Following tryptic digestion for 19 hours, peptides containing one Leucine residue with 
+13C6 and 15N were added to each sample.  The two transitions w ith the greatest intensity for peptides TSALSAK and  
+VLEPTLK were monitored during ID-LC-MS/MS.  The total protein concentration was calculated as the mean of the 
+two peptides.  Concentrations were calculated in units milligrams per liter using the mean of the range of molecular 
+masses of the common isoforms with or without glycosylation (51 200 g/mol and 51 900 g/mol). 
+ 
+Determination of VDBP by UW:   Seven vials of SRM  1950 were randomly selected and sent to UW for analysis by 
+ID-LC-MS/MS.  The digestion procedure used at UW was similar to the one used at  NIST [51].  However, peptides 
+ELPEHTVK and VLEPTLK were used during LC-ID-MS/MS.  Also, the labeled peptide standards were added to the 
+samples at the beginning of the sample processing and the total digestion time was 30 minutes. 
+ 
+Analytical Approach for Determination of Perfluorinated Compounds (PFCs):  Perfluorinated compounds were 
+determined by LC-MS/MS in the negative -ion mode with  13C-labeled PFCs as internal standards.  Reference values 
+are provided in Table 12.  In the first method, samples were spiked with the internal  standards and mixed with 50  % 
+formic acid i n water (volume fractions).  The PFCs were isolated by SPE with wea
+k anion exchange cartridges.  
+Chromatographic separation was achieved on either a C8 or a pentafluorophenyl column with gradient elution, and the 
+mobile phases were comprised of methanol and 20 mmol/L ammonium acetate.  In the second method, samples were 
+spiked with the internal standards and plasma proteins were precipitated with acetonitrile.  After centrifugation and a 
+solvent exchange to methanol, PFCs were isolated from the supernatants  by SPE with graphitized carbon cartridges.  
+Chromatographic separation was achieved on either a C8 or a pentafluorophenyl column with gradient elution, and the 
+mobile phases were comprised of methanol and 20 mmol/L ammonium acetate. 
+ 
+ 
+
+ (UW) with the LC -MS/MS methods as described below. 
+
+ 
+
+ 
+
+SRM 1950 
+
+Page 6 of 15 
+
+Certified Values for Cholesterol and Total Glycerides:    Each certified value is the mean of NIST measurements 
+using higher-order reference methods.  The measurand is the certified value for cholesterol and total glycerides listed 
+in Table  1.   The uncertainty provided  with each value is an expanded uncertainty about the mean to cover the 
+-method uncertainty and Type  B 
+measurand with approximately 95  % confidence; it expresses both the within
+components related to the analysis, consistent with the ISO/JCGM Guide [1].  The expanded uncertainty is calculated 
+as  U = kuc, where  uc  is intended to represent, at the level of one standard deviation, the effect
+s of the combined 
+components of uncertainty, and  k  is a coverage factor corresponding to approximately 95  % confidence for  each 
+analyte.  For the certified values shown below,  k = 2.   Metrological  traceability is   to the derived SI unit for mass 
+concentration (expressed as milligrams per deciliter) and amount-of-substance concentration (expressed as millimoles 
+per liter). 
+ 
+
+Table 1.  Certified Values for Cholesterol and Total Glycerides 
+
+Mass Concentration 
+(mg/dL) 
+
+Amount-of-Substance Concentration 
+(mmol/L) 
+
+Cholesterol 
+Total Glycerides (as triolein) 
+
+  151.4  ± 
+  99.0  ± 
+
+3.3 
+2.1 
+
+ 
+ 
+
+3.917  ± 
+± 
+1.12 
+
+0.085 
+0.02 
+
+ 
+ 
+Certified Values for Fatty Acids:  Certified values for fatty acids are weighted means of the results from analyses at 
+NIST using GC-MS and GC-FID and from CDC using GC -MS [50,51] when available.  The value for linoleic acid 
+(C18:2 n-6) was based upon the NIST GC-FID and CDC GC-MS results.  The uncertainty provided with each value 
+is an expanded uncertainty about the mean  [52,53], with coverage factor  k = 2 (approximately 95  % confidence), 
+calculated by combining a pooled within-method variance with a between-method variance following the ISO/JCGM 
+Guides [1,2,54].  The measurand is the  certified value for each fatty acid listed  in Table 2.  Metrological traceability 
+is to the derived SI unit for mass faction (expressed as micrograms per gram) and amount-of-substance concentration 
+(expressed as micromoles per liter). 
+ 
+
+Table 2.  Certified Values for Fatty Acids 
+
+Chemical Name (Common Name) 
+
+Mass Fraction 
+(µg/g) 
+
+Amount-of-Substance 
+Concentration 
+(µmol/L) 
+ 
+9.47  ±  0.57 
+
+Dodecanoic Acid (Lauric Acid) 
+Hexadecanoic Acid (Palmitic Acid) 
+(Z)-9-Hexadecenoic Acid (Palmitoleic Acid) 
+Octadecanoic Acid (Stearic Acid) 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (α-Linolenic Acid) 
+(Z)-9-Octadecenoic Acid (Oleic Acid) 
+(Z,Z)-9,12-Octadecadienoic Acid (Linoleic Acid) 
+Docosanoic Acid (Behenic Acid) 
+
+0.11 
+
+  1.86  ± 
+ 594 
+  53.5  ± 
+ 179 
+  14.9  ± 
+ 447 
+ 780 
+  15.9  ± 
+
+±  19 
+
+6.4 
+
+1.0 
+
+±  12 
+
+±  43 
+±  39 
+
+ 
+  2364 
+  215 
+  644 
+ 
+
+  1614 
+  2838 
+ 
+
+±  77 
+±  26 
+±  41 
+
+± 154 
+± 143 
+
+54.6  ±  3.6 
+
+1.5 
+
+47.8  ±  4.6 
+
+ 
+
+ 
+
+ 
+
+Lipid 
+Name 
+
+C12:0 
+C16:0 
+C16:1 n-7 
+C18:0 
+C18:3 n-3 
+C18:1 n-9 
+C18:2 n-6 
+C22:0 
+ 
+ 
+ 
+
+ 
+
+SRM 1950 
+
+Page 7 of 15 
+
+Reference  Values  for Fatty Acids:    Reference values for  fatty acids are provided below.  The methods and 
+uncertainties used in the calculations of the values are delineated in the 
+footnotes.   The measurand is the reference 
+value for each fatty acid listed in Table 3 as determined by the indicated methods.  Values are metrologically traceable 
+to the measurement procedures as indicated in the footnotes. 
+ 
+
+ 
+
+Lipid Name 
+
+Chemical Name (Common Name) 
+
+Table 3.  Reference Values for Fatty Acids 
+
+Tetradecanoic Acid (Myristic Acid)(a,b) 
+(Z)-9-Tetradecenoic Acid (Myristoleic Acid)(c,d) 
+Pentadecanoic Acid(b,e) 
+Heptadecanoic Acid (Margaric Acid)(d,e) 
+(Z,Z,Z)-6,9,12-Octadecatrienoic Acid (γ-Linolenic Acid)(a,b) 
+(Z)-11-Octadecenoic Acid (Vaccenic Acid)(c,d) 
+Eicosanoic Acid (Arachidic Acid)(c,d) 
+(Z)-11-Eicosenoic Acid (Gondolic Acid)(c,d) 
+(Z,Z)-1,14-Eicosadienoic Acid(c,d) 
+(Z,Z,Z)-8,11,14-Eicosatrienoic Acid (Dihomo-γ-Linolenic Acid)(c,d) 
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic Acid (Arachidonic Acid)(a,b) 
+(Z,Z,Z,Z,Z) -5,8,11,14,17-Eicosapentaenoic Acid (EPA)(c,d) 
+(Z)-13-Docosenoic Acid (Erucic Acid)(c,d) 
+(Z,Z,Z,Z)-7,10,13,16-Docosatetraenoic Acid(c,d) 
+(Z,Z,Z,Z,Z)-7,10,13,16,19-Docosapentaenoic Acid (DPA)(c,d) 
+(Z,Z,Z,Z,Z)-4,7,10,13,16-Docosapentaenoic Acid(c,d) 
+(Z,Z,Z,Z,Z,Z)-4,7,10,13,16,19-Docosahexaenoic Acid (DHA)(a,b) 
+Tetracosanoic Acid (Lignoceric Acid)(c,d) 
+(Z)-15-Tetracosenoic Acid (Nervonic Acid)(c,d) 
+
+C14:0 
+C14:1 
+C15:0 
+C17:0 
+C18:3 n-6 
+C18:1 n-7 
+C20:0 
+C20:1 
+C20:2 
+C20:3 n-6 
+C20:4 n-6 
+C20:5 n-3 
+C22:1 
+C22:4 n-6 
+C22:5 n-3 
+C22:5 n-6 
+C22:6 n-3 
+C24:0 
+C24:1 
+ 
+(a) Values  are weighted means of the results from analyses at NIST using GC
+
+GC-MS [52,53]. 
+
+Mass Fraction 
+(µg/g) 
+
+Amount-of-Substance 
+Concentration 
+(µmol/L) 
+ 
+
+  17.9  ±  3.8 
+  1.57  ±  0.03 
+  1.08  ±  0.01 
+  4.7  ±  0.2 
+  10.9  ±  2.3 
+  37.7  ±  0.9 
+  5.5  ±  0.2 
+  3.5  ±  0.1 
+  5.7  ±  0.2 
+  41.8  ±  1.1 
+ 293 
+  11.4  ±  0.1 
+  1.1  ±  0.4 
+  8.3  ±  0.2 
+  12.5  ±  0.2 
+  6.3  ±  0.1 
+  37.9  ±  6.8 
+  16.8  ±  0.9 
+  25.6  ±  1.2 
+
+±  54 
+
+  80.1  ±  17.0 
+7.1  ± 
+0.1 
+ 
+0.04 
+ 
+4.56  ± 
+0.7 
+  17.6  ± 
+8.5 
+  39.9  ± 
+3 
+± 
+  136 
+0.5 
+  18.0  ± 
+0.5 
+ 
+11.5  ± 
+0.6 
+  18.8  ± 
+4 
+± 
+  139 
+  984 
+±  180 
+  38.6  ± 
+ 
+3.4  ± 
+  25.5  ± 
+  38.5  ± 
+  19.5  ± 
+  118 
+  46.6  ± 
+  71.3  ± 
+
+0.5 
+1.3 
+0.6 
+0.7 
+0.4 
+
+2.6 
+3.2 
+
+±  21 
+
+-MS  and  GC 
+-MS and GC -FID and from CDC using 
+
+(b) The expanded uncertainty about the mean is calculated by combining a pooled within-method variance with a between-method 
+
+-method  variance  with  a  between 
+
+variance and a coverage factor k = 2 (approximately 95 % confidence) following the ISO/JCGM Guides [1,2,52–54]. 
+
+—54
+
+(c) Values are from analyses at the CDC using GC-MS. 
+(d) The expanded uncertainty U is calculated as U = kuc, where uc is one standard deviation of the analyte mean and k is determined 
+from the Student’s t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte.  
+For the reference values shown above, k = 2. 
+(e) Values which are from NIST GC-FID analyses. 
+ 
+ 
+
+ 
+
+SRM 1950 
+
+Page 8 of 15 
+
+Certified Values for Amino Acids:  Each certified value is the mean from the combination of the mean results from 
+LC-MS/MS, GC-TOF-MS (MTBSTFA), and GC -TOF-MS (PCF), where available.   The measurand is the  certified 
+value for each  amino acid listed in Table 4.   The uncertainty provided with  each value is an expanded uncertainty 
+about the mean to cover the measurand with approximately 95 % confidence; it expresses both the observed difference 
+between the results from the methods and their respective  uncertainties, in addition to Type B components related to 
+purity of the standards used,
+  consistent with the ISO /JCGM  Guide and its Supplement  1 [1–3].    The expanded 
+uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one standard deviation, the effects 
+of the combined components of uncertainty, and 
+ % 
+confidence for each analyte.  For the certified values shown  below, k = 2.  Metrological traceability is to the derived 
+SI unit for mass faction (expressed as milligrams per kilogram) and amount-of-substance concentration (expressed as 
+micromoles per liter). 
+ 
+
+k  is a coverage factor corresponding to approximately 95
+
+Table 4.  Certified Values for Amino Acids 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Alanine 
+Glycine 
+Histidine 
+Isoleucine 
+Leucine 
+Lysine 
+Methionine 
+Proline 
+Serine 
+Threonine 
+Tyrosine 
+Valine 
+
+Mass Fraction 
+(mg/kg) 
+
+± 
+26.2 
+18.0 
+± 
+11.04  ± 
+7.13  ± 
+12.90  ± 
+20.0 
+± 
+3.26  ± 
+± 
+19.9 
+9.87  ± 
+13.94  ± 
+10.17  ± 
+± 
+20.9 
+
+2.2 
+1.2 
+0.55 
+0.42 
+0.82 
+1.9 
+0.26 
+1.1 
+0.44 
+0.70 
+0.53 
+1.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Amount-of-substance 
+Concentration 
+(µmol/L) 
+ 
+±  26 
+±  16 
+
+±  14 
+
+3.6 
+3.4 
+6.3 
+
+300 
+245 
+72.6  ± 
+55.5  ± 
+100.4  ± 
+140 
+22.3  ± 
+± 
+177 
+95.9  ± 
+119.5  ± 
+57.3  ± 
+
+1.8 
+9 
+4.3 
+6.1 
+3.0 
+182.2  ±  10.4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference  Values  for Amino Acids :   The reference values for arginine, cysteine,  and  cystine are based on the 
+LC-MS/MS method means.  The results for phenylalanine are based on three methods.  The uncertainty provided with 
+each value was calculated as described  for the certified values , provided in Table  4.  Type B components  included 
+were  related to the analysis, consistent with the ISO /JCGM  Guide and its Supplement  1 [1–3].   For the reference 
+values shown below, k = 2.  The measurand is the reference value for each amino acid listed in Table 5 as determined 
+by the indicated methods.  Values are metrologically traceable to the measurement procedures as indicated above. 
+ 
+
+Table 5.  Reference Values for Amino Acids 
+
+ 
+
+Arginine 
+Cysteine 
+Cystine 
+Phenylalanine 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+  13.89  ±  0.40 
+5.26  ±  0.81 
+ 
+1.83  ±  0.08 
+ 
+8.2  ±  1.1 
+ 
+
+Amount-of-substance 
+Concentration 
+(µmol/L) 
+ 
+81.4 
+± 
+44.3  ± 
+7.8  ± 
+± 
+51 
+
+2.3 
+6.9 
+0.4 
+7 
+
+ 
+ 
+ 
+ 
+
+SRM 1950 
+
+Page 9 of 15 
+
+Certified Values for Selected Vitamins and Carotenoids:  The certified values for carotenoids, retinol, tocopherol, 
+5-methyltetrahydrofolate,  and  pyridoxal  5'-phosphate  are the mean s  of the method means from measurements 
+performed by NIST and CDC.  The certified value for 25 -hydroxyvitamin D3 is the mean of th e NIST LC -MS and 
+NIST LC-MS/MS method means.  The measurand is the certified value for each selected vitamin and carotenoid listed 
+in Table  6.   The uncertainty provided with each value is an expanded uncertainty about the
+measurand with approximately 95 % confidence; it expresses both the observed difference between the result s from 
+the methods and their respective uncertainties,
+  in addition to Type  B components, consistent with the ISO /JCGM 
+Guide and its Supplement 1 [1–3].  For carotenoids, the Type B components included sample preparation and purity 
+of the standards; for vitamins, the Type B components included were related to the analysis.  The expanded uncertainty 
+is calculated as  U = kuc, where  uc is intended to represent, at the level of one standard deviation, the effe cts of the 
+combined components of uncertainty, and k is a coverage factor corresponding to approximately 95 % confidence for 
+each analyte.  For the certified values shown below, k = 2.  Metrological traceability is to the derived SI unit for mass 
+faction (expressed as milligrams per kilogram   or  nanograms per gram ) and  mass  concentration (expressed as 
+micrograms per milliliter or nanograms per milliliter). 
+ 
+
+ mean to cover the 
+
+Table 6.  Certified Values for Selected Vitamins and Carotenoids 
+
+ 
+
+ 
+
+Retinol 
+α-Tocopherol 
+γ- + β-Tocopherol 
+Lutein 
+Zeaxanthin 
+β-Cryptoxanthin 
+Total α-Carotene 
+Total β-Carotene 
+ 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Mass Concentration 
+¥)
+(µg/mL) 
+
+0.396  ± 
+± 
+8.01 
+1.67 
+± 
+0.067  ± 
+0.021  ± 
+0.038  ± 
+0.025  ± 
+0.077  ± 
+
+0.034 
+0.22 
+0.16 
+0.022 
+0.005 
+0.003 
+0.005 
+0.004 
+
+0.404  ± 
+± 
+8.18 
+1.71 
+± 
+0.069  ± 
+0.022  ± 
+0.039  ± 
+0.026  ± 
+0.079  ± 
+
+0.035 
+0.22 
+0.17 
+0.023 
+0.005 
+0.003 
+0.005 
+0.004 
+
+Mass Fraction 
+(ng/g) 
+
+Mass Concentration 
+(ng/mL) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+25-Hydroxyvitamin D3 
+5-Methyltetrahydrofolate 
+Pyridoxal 5'-phosphate 
+
+24.27 
+12.11 
+8.02 
+
+± 
+± 
+± 
+
+0.75 
+0.31 
+0.45 
+
+24.78  ± 
+12.36  ± 
+8.19  ± 
+
+0.77 
+0.32 
+0.46 
+
+ 
+ 
+Reference  Values  for Vitamins   and Carotenoids :   The uncertainty provided with each value  was cal culated as 
+described in Table 6 by using Type B components related to  analysis [1–3].   Reference values for carotenoids are 
+based upon the mean of measurements performed by CDC.  The reference value for 25-hydroxyvitamin D2 is the mean 
+of the NIST LC-MS and NIST LC-MS/MS method means.  The reference value for folic acid is the mean of the NIST 
+and CDC method means.  The measurand is the reference value for each v itamin and carotenoid listed in Table  7 as 
+determined by the indicated methods.  Values are metrologically traceable to the measurement procedures as indicated 
+above. 
+ 
+
+ 
+
+Trans-Lycopene 
+Total Lycopene 
+Trans-β-Carotene 
+Cis-β-Carotene 
+ 
+ 
+
+Table 7.  Reference Values for Vitamins and Carotenoids 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Mass Concentration 
+(µg/mL) 
+
+Coverage Factor, k 
+
+±  0.01 
+  0.14 
+±  0.02 
+  0.32 
+  0.071  ±  0.005 
+  0.0040  ±  0.0003 
+ 
+
+0.14 
+0.33 
+0.072  ± 
+0.0041  ± 
+
+± 
+ 0.01 
+±  0.02 
+ 0.005 
+ 0.0003 
+
+Mass Fraction 
+(ng/g) 
+
+Mass Concentration 
+(ng/mL) 
+
+Coverage Factor, k 
+
+25-Hydroxyvitamin D2 
+Folic acid 
+
+  0.51 
+  1.48 
+
+±  0.17 
+±  0.44 
+
+0.52 
+1.51 
+
+± 
+± 
+
+ 0.17 
+ 0.45 
+
+2.36 
+2.35 
+2.38 
+2.39 
+ 
+
+2 
+2 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+SRM 1950 
+
+ 
+
+Page 10 of 15 
+
+Information Values for Additional Vitamers:  Information values are the means of results provided by CDC.  These 
+values are provided without uncertainties because insufficient information is available to assess them. 
+ 
+
+y  CDC.  These
+
+Table 8.  Information Values for Additional Vitamers 
+ 
+
+ 
+
+Total folate(a) 
+4-Pyridoxic acid 
+
+Amount-of-substance 
+Concentration 
+(nmol/L) 
+30.6 
+28.7 
+
+ 
+ 
+
+ 
+(a) Microbiological analysis. 
+ 
+ 
+Certified Values for Selected Clinical Markers, Electrolytes, and Hormones:  Each certified value is the mean of 
+NIST measurements using higher -order reference methods.   The measurand is the certified value for each selected 
+clinical marker listed in Table 9 and each electrolyte listed in Table 10.  The uncertainty provided with each value is 
+an expanded uncertainty about the mean to cover the measurand with approximately 9 5 % confidence; it expresses 
+both the within -method uncertainty and Type  B components related to the analysis, consistent with the I SO/JCGM 
+Guide [1].  The expanded uncertainty is calculated as  U = kuc, where uc is intended to represent, at the level of one 
+standard deviation, the effects of the combined components of uncertainty, and  k is a coverage factor corresponding 
+to approximately 95  % confidence  for each analyte.  For the certified values shown below,  k = 2 unless otherwise 
+noted.  Metrological traceability is to the derived SI unit for mass fraction (expressed as nanograms per gram); and/or 
+mass concentration (expressed as milligrams per decilite r, milligrams per liter ; and/or nanograms per milliliter ) and 
+amount-of-substance concentration (expressed as millimoles per liter or micromoles per liter). 
+ 
+
+Table 9.  Certified Values for Clinical Markers and Hormones 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Creatinine 
+Glucose 
+Urea 
+Uric Acid 
+ 
+ 
+
+Homocysteine 
+ 
+ 
+
+Cortisol 
+Progesterone 
+Testosterone 
+ 
+
+ 
+
+Calcium 
+Magnesium 
+Potassium 
+Sodium 
+
+Mass Concentration 
+(mg/dL) 
+
+0.6789  ± 
+82.16 
+± 
+± 
+23.45 
+4.274  ± 
+
+0.0108 
+1.00 
+0.49 
+0.089 
+
+Mass Concentration 
+(mg/L) 
+
+1.150  ± 
+
+0.026 
+
+Amount-of-substance 
+Concentration 
+(mmol/L) 
+ 
+0.0600  ±  0.0009 
+4.560  ±  0.056 
+±  0.08 
+3.90 
+0.254  ±  0.005 
+
+Amount-of-substance 
+Concentration 
+(µmol/L) 
+ 
+
+8.50 
+
+±  0.20 
+
+Mass Fraction 
+(ng/g) 
+
+Mass Concentration 
+(ng/mL) 
+
+82.2 
+± 
+1.452  ± 
+2.169  ± 
+
+1.7 
+0.037 
+0.046 
+
+±  1.7 
+
+83.9 
+1.482  ±  0.038 
+2.214  ±  0.047 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Table 10.  Certified Values for Electrolytes 
+
+Amount-of-substance 
+Concentration 
+(mmol/L) 
+
+ 
+ 
+ 
+  141.76 
+
+1.936  ± 
+0.696  ± 
+3.665  ± 
+± 
+
+0.024 
+0.004 
+0.025 
+0.31 
+
+ 
+
+Coverage Factor, k 
+
+2.19 
+1.98 
+2.064 
+1.972 
+
+SRM 1950 
+
+Page 11 of 15 
+
+od, except for 
+
+Reference  Values  for Trace Elements ,  Selenium Species ,  Total  Protein,  Bilirubin, and Vitamin  D-Binding 
+Protein:   Each reference value is the mean of NIST measurements using a single meth
+Vitamin D-Binding Protein, which is the mean of means of measurements from NIST and UW.  The measurand is the 
+reference value for each trace element, selenium species, total protein, bilirubin, and vitamin D-binding protein listed 
+in Table  11 as determined by the indicated methods.   The uncertainty prov ided with each value is an expanded 
+uncertainty about the mean to cover the measurand with approximately 95
+ % confidence; it expresses both the 
+within-method uncertainty and Type B components related to the analysis, consistent with the ISO/JCGM Guide [1].  
+The uncertainty for vitamin D-binding protein also incorporates the observed difference between the results from the 
+methods [1–3].  The expanded uncertainty is calculated as  U = kuc, where uc is intended to represent, at the level of 
+one standard deviation, the effects of the combined components of uncertainty,
+corresponding to approximately 95  % confidence for each analyte.
+measurement procedures as indicated above. 
+ 
+Table 11.  Reference Values for Trace Elements, Selenium Species, Total Protein, Bilirubin, and Vitamin D-Binding 
+Protein 
+ 
+
+     Values are metrologically traceable to t he 
+
+ and  k  is a coverage factor 
+
+ 
+
+Copper 
+Selenium 
+ 
+ 
+
+Selenoprotein P 
+Glutathione Peroxidase 
+Seleno-Albumin 
+ 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+1.008  ± 
+0.1055  ± 
+
+0.008 
+0.0038 
+
+Mass Fraction 
+(µg/kg) 
+
+50.2 
+23.6 
+28.2 
+
+4.3 
+1.3 
+2.6 
+
+Mass Concentration 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Coverage Factor, k 
+
+2.09 
+2.2 
+ 
+Coverage Factor, k 
+
+2.6 
+2.5 
+2.6 
+ 
+Coverage Factor, k 
+
+± 
+± 
+± 
+
+± 
+± 
+± 
+
+Total Protein (g/L) 
+Bilirubin (mg/dL) 
+Vitamin D-Binding Protein (mg/L) 
+
+59.1 
+0.344 
+
+ 
+ 
+  175 
+
+1.7 
+0.023 
+18 
+
+2 
+2.11 
+2.0 
+
+-MS/MS with two different sample preparation schemes and different 
+
+ 
+ 
+Reference  Values  for Perfluorinated Compounds  (PFCs):   Reference values  are weighted means of the results 
+from analyses at NIST using LC
+chromatographic separations [52,53].  The concentrations reflect the total of both branched and linear form s of the 
+analytes.  The uncertainty provided with each value is an expanded uncertainty abo ut the mean [54], with coverage 
+factor  k = 2 (approximately 95  % confidence),  calculated by combining a pooled within -method variance with a 
+between-method variance following the ISO/JCGM Guides [1,2,54].  The measurand is the reference value for each 
+ the 
+PFC  listed in Table  12  as determined by the indicated methods.  Values are metrologically traceable to
+measurement procedures as indicated above. 
+ 
+ 
+
+Table 12.  Reference Values for PFCs 
+ 
+
+ 
+
+Mass Fraction 
+(ng/g) 
+
+Mass Concentration 
+(ng/mL) 
+
+Perfluorooctanoic Acid (PFOA) 
+Perfluorononanoic Acid (PFNA) 
+Perfluorodecanoic Acid (PFDA) 
+Perfluoroundecanoic Acid (PFUnA) 
+Perfluorohexansulfonate (PFHxS) 
+Perfluorooctanesulfonic Acid (PFOS) 
+
+± 
+3.21 
+ 
+0.705  ± 
+ 
+0.315  ± 
+ 
+0.182  ± 
+ 
+± 
+3.19 
+ 
+± 
+  10.43 
+
+0.06 
+0.028 
+0.006 
+0.003 
+0.08 
+0.12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.27  ±  0.06 
+0.720  ±  0.028 
+0.322  ±  0.007 
+0.186  ±  0.003 
+3.25  ±  0.08 
+10.64  ±  0.13 
+
+ 
+ 
+
+SRM 1950 
+
+ 
+
+Page 12 of 15 
+
+REFERENCES 
+
+ 
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology  (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2020); see also 
+Taylor, B.N.; Kuyatt,  C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297;  U.S. Government Printing Office: Washington,  DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jun 2020). 
+JCGM 101:2008;  Evaluation of  Measurement  Data  —  Supplement 1 to the ”  Guide to the Expression of 
+Uncertainty in Measurement” — Propagation of Distributions Using a Monte Carlo Method ; Joint Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jun 2020). 
+[3]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[4]  Thompson, A.;  Taylor, B.N.;  Guide for the Use of the International System of Units
+
+ (SI);  NIST Special 
+
+[2] 
+
+Publication 811; U.S. Government Printing Office: Washington,
+https://www.nist.gov/pml/special-publication-811 (accessed Jun 2020). 
+
+ DC (2008); available at 
+
+[5]  May, W.; Parris,
+
+ R.; Beck,
+
+ C.; Fassett,
+
+ T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used a t NIST for Value -Assignment 
+of Reference Materials for Chemical Measurements
+;  NIST Special Publication 260 -136; U.S. Government 
+Printing Office: Washington, DC (2000); available at https://www.nist.gov/system/files/documents/srm/SP260-
+136.PDF (accessed Jun 2020). 
+
+ R.; Guenther,  F.; Kramer,  G.; Wise,  S.; Gills,
+
+ J.; Greenberg,
+
+[6]  CDC/NIH:  Biosafety in Microbiological and Biomedical Laboratories
+
+n 
+No. (CDC) 21-1112; Chosewood, L.C.; Wilson, D.E.; Eds.; US Government Printing Office: Washington, DC 
+(2009);  available at 
+https://www.cdc.gov/labs/pdf/CDC-BiosafetyMicrobiologicalBiomedicalLaboratories-
+2009-P.PDF (accessed Jun 2020).   
+
+, 5th ed.; HHS publicatio
+
+[7]  Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White V.E.; Determination of Serum Cholesterol by a 
+ric Definitive Method ; Anal. Chem.,  Vol. 61, 
+
+Modification of the Isotope Dilution Mass Spectromet
+pp. 1718−1723 (1989). 
+
+[8]  Cohen, A.; Hertz,
+
+ H.S.; Mandel,
+
+ M.J.; 
+ R.C.; Schaffer,
+White, V.E.; Total Serum Cholesterol by Isotope Dilution/Mass Spectrometry: A Candidate Definitive Method; 
+Clin. Chem., Vol. 26, pp. 854−860 (1980). 
+Joint Committee 
+(accessed Jun 2020). 
+
+.  https://www.bipm.fr/en/committees/jc/jctlm/ 
+
+for  Traceability in Laboratory Medicine
+
+ R.; Sniegoski,
+
+ T.; Welch,
+
+ L.T.; Sun,
+
+ J.; Paule,
+
+[9] 
+
+[10]  Ellerbe, P.; Sniegoski, L.T.; Welch, M.J.; Isotope Dilution Mass Spectrometry as a Candidate Definitive Method 
+for Determining Total Glycerides and Triglycerides in Serum; Clin. Chem., Vol. 41, pp. 397−404 (1995). 
+[11]  Bondia, E.M.; Castellote, A.I.; Lopez, M.C.; Rivero, M.; Determination of  Plasma Fatty Acid Composition in 
+
+Neonates by Gas Chromatography; J. Chromatogr. B, Vol. 658, pp. 369−374 (1994). 
+
+[12]  Lagerstedt, S.A.;  Hinrichs, D.R.;  Batt, S.M.;  Magera, M.J.;  Rinaldo, P.;  McConnell, J.P.;  Quantitative 
+Determination of Plasma C8−C26 Total Fatty Acids for the Biochemical Diagnosis of Nutritional and Metabolic 
+Disorders; Mol. Genet. Metab., Vol. 73, pp. 38−45 (2001). 
+
+[13]  Lowenthal, M.; Phinney, K.W.; McGaw, E.A.; Comparison of Orthogonal Mass Spectrometry Platforms for the 
+Determination of Amino Acid Concentrations in Human Plasma – Certifying NIST Standard Reference Material 
+1950; J. Chromatogr. A, Vol. 1217, pp. 5822−5831 (2010). 
+
+[14]  Andersson, A.; Lindgren,  A.; Hultberg,  B.;  Effect of Thiol Oxidation a nd Thiol Export from Erythrocytes on 
+
+Determination of Redox Status of Homocysteine and Other Thiols in Plasma from Healthy Subjects and Patients 
+with Cerebral Infarction; Clin. Chem., Vol. 41, pp. 361−366 (1995). 
+
+[15]  Richie, J.P.; Abraham, P.; Leutzinger, Y.; Long-Term Stability of Blood Glutathione and Cysteine in Humans;  
+
+Clin. Chem., Vol. 42, pp. 1100−1105 (1996). 
+
+[16]  Bald, E.; Chwatko, G.; Glowacki, R.; Kusmierek, K.; Analysis of Plasma Thiols by High -Performance Liquid 
+
+Chromatography with Ultraviolet Detection; J. Chromatogr. A, Vol. 1032, pp. 109−115 (2004). 
+
+[17]  Sander, L.C.; Wise,  S.A.;  Evaluation of Shape Selectivity in Liquid Chromatography
+
+; LC -GC;  Vol. 8, 
+
+pp. 378−390 (1990). 
+
+[18]  MacCrehan, W.A.; Schönberger, E.; Determination of trans -Retinol, α-Tocopherol, and β-Carotene in Serum 
+ 33, 
+
+ion; Clin. Chem., Vol.
+
+by Liquid Chromatography with Absorbance and Electrochemical Detect
+pp. 1585−1592 (1987). 
+
+[19]  Brown Thomas, J.; Kline, M.C.; Schiller, S.B.; Ellerbe, P.M.; Sniegoski, L.T.; Duewer, D.L.; Sharpless, K.E.; 
+
+Certification of Fat -Soluble Vitamins ,  Carotenoids,  and Cholesterol in Human Serum:  Standard Reference 
+Material 968b; Fresenius J. Anal. Chem., Vol. 356, pp. 1−9 (1996). 
+
+[20]  Epler, K.S.; Ziegler, R.G.; Craft, N.E.; Liquid Chromatographic Method for the Determination of Carotenoids, 
+Retinoids, and Tocopherols in Human Serum and in Food ; J. Chromatogr. Biomed. App., Vol.  619, pp. 37−48 
+(1993). 
+
+SRM 1950 
+
+Page 13 of 15 
+
+[21]  E. Chew;  National Eye Institute, Age
+Exhibit 14−4;  p 97  (2012); available 
+(accessed Jun 2020).  
+
+-Related Disease Study 2, Manual of Procedures, 
+Version 9.0, 
+  at  https://secure.emmes.com/study/areds2/resources/areds2_mop.pdf 
+
+[22]  Tai, S.S.-C.; Bedner, M.; Phinney, K.W.; Development of a Candidate Reference Measurement Procedure for 
+the Determination of 25-Hydroxyvitamin D3 and 25-Hydroxyvitamin D2 in Human Serum Using Isotope-Dilution 
+Liquid Chromatography–Tandem Mass Spectrometry; Anal. Chem., Vol. 82, pp. 1942–1948 (2010). 
+
+[23]  Nelson, B.C.; Satterfield,  M.B.; Sniegoski,  L.T.; Welch,  M.J.;  Simultaneous Quantification of Homocysteine 
+; Anal. 
+
+and Folate in   Human Serum or Plasma Using Liquid Chromatography/Tandem Mass Spectrometry
+Chem., Vol. 77, pp. 3586−3593 (2005). 
+
+[24]  Fazili, Z.; Pfeiffer, C.M.; Measurement of Folates in Serum and Conventionally Prepared Whole Blood Lysates: 
+Application of an Automated 96-Well Plate Isotope-Dilution Tandem Mass Spectrometry Method; Clin. Chem., 
+Vol. 50, pp. 2378−2381 (2004). 
+
+[25]  Pfeiffer, C.M.; Fazili,  Z.; McCoy,  L.; Zhang, M.; Gunter, E.W.; Determination of Folate Vitamers in Human 
+Serum by Stable -Isotope-Dilution Tandem Mass Spectrometry and Comparison with Radioassay and 
+Microbiologic Assay; Clin. Chem., Vol. 50, pp. 423−432 (2004). 
+
+[26]  Molloy, A.M.; Scott, J.M.; Microbiological Assay for Serum, Plasma, and Red Cell Folate using Cryopreserved, 
+
+Microtiter Plate Method; Methods Enzymol., Vol. 281, pp. 43−53 (1997). 
+
+[27]  O’Broin, S.; Kelleher, B.; Microbiological Assay on Microtitre Plates of Folate in Serum and Red Cells; J. Clin. 
+
+Pathol., Vol. 45, pp. 344−347 (1992). 
+
+[28]  Rybak, M.E.; Pfeiffer,  C.M.;  Clinical Analysis of Vitamin  B6: Determination of Pyridoxal 5' -Phosphate and 
+4-Pyridoxic Acid in Human Serum by Reversed-Phase High-Performance Liquid Chromatography with Chlorite 
+Postcolumn Derivatization; Anal. Biochem., Vol. 333, pp. 336−344 (2004). 
+
+‘ol. 
+
+[29]  Rybak, M.E.; Pfeiffer,  C.M.;  A Simplified Protein Precipitation and Filtration Procedu
+
+Serum Vitamin B 6  by High -Performance Liquid Chromatography ; Anal. Biochem., Vol.
+(2009). 
+
+re for Determining 
+ 388, pp.  175−177 
+
+[30]  White V,E.; Welch,  M.J.; Sun,  T.; Sniego ski, L.T.; Schaffer,  R.; Hertz,  H.S.; Cohen,  A.;  The Accurate 
+-  Two Methods ;  Biomed. Mass 
+
+Determination of Serum Glucose by Isotope Dilution Mass Spectrometry 
+Spectrom., Vol. 9, pp. 395−405 (1982). 
+
+[31]  Prendergast, J.L.; Sniegoski,
+
+ L.T.; Welch,
+
+ M.J.; Phin ney, K.W.;  Modifications to the NIST Reference 
+
+Measurement Procedure  (RMP) for the Determination of Serum Glucose by Isotope Dilution Gas
+Chromatography/Mass Spectrometry; Anal. Bioanal. Chem., Vol. 397, pp. 1779−1785 (2010). 
+
+ 
+
+[32]  Dodder, N.G.; Tai, S.S.C.; Sniegoski, L.T.; Zhang, N.-F.; Welch, M.J.; Certification of Creatinine in a Human 
+
+Serum Reference Material by GC-MS and LC-MS; Clin. Chem., Vol. 53, pp. 1694−1699 (2007). 
+
+[33]  Stokes, P.; O’Connor,  G.;  Development of a Liquid Chromatography
+
+-Mass S pectrometry Method for the 
+
+High-Accuracy Determination of Creatinine in Serum; J. Chromatogr. B, Vol. 794, pp. 125–136 (2003). 
+[34]  Welch, M.J.; Cohen, A.; Hertz, H.S.; Ruegg, F.C.; Schaffer, R.; Sniegoski, L.T.; White, V.E.; Determination of 
+Serum Urea by Isotope Dilution Mass Spectrometry As a Candidate Definitive  Method; Anal. Chem., Vol. 56, 
+pp. 713−719 (1984). 
+
+[35]  Ellerbe, P.; Cohen, A.; Welch, M.J.; White, V.E.; Determination of Serum Uric Acid by Isotope Dilution Mass 
+
+Spectrometry as a New Candidate Definitive Method; Anal. Chem., Vol. 62, pp. 2173−2177 (1990). 
+
+[36]  Stabler, S.P.; Lindenbaum, J.; Savage, D.G.; Allen, R.H.; Elevation of Serum Cystathionine Levels in Patients 
+
+with Cobalamin and Folate Deficiency, Blood, Vol. 81, pp. 3404−3413 (1993). 
+
+[37]  Stabler, S.P.; Marcell, P.D.; Podell, E.R.; Allen, R.H.; Quantitation of Total Homocysteine, Total Cysteine, and 
+-Mass Spectrometry,   Anal. 
+
+Methionine in Normal Serum and Urine Using Capillary Gas Chromatography
+Biochem., Vol. 162, pp. 185−196 (1987). 
+
+[38]  Satterfield, M.B.; Sniegoski, L.T.; Welch, M.J.; Nelson, B.C.; Pfeiffer, C.M.; Comparison of Isotope Dilution 
+;  Anal.  Chem., 
+Mass Spectrometry Methods for the Determination of Total Homocysteine in Plasma and Serum; Anal. Chem., 
+Vol. 75, pp. 4631−4638 (2003). 
+
+[39]  Tai, S.S-C.; Welch, M.J.; Development and Evaluation of a Candidate Reference Method for the Determination 
+of Total Cortisol in Human Serum using Isotope Dilution Liquid Chromatography/Mass 
+Spectrometry and 
+Isotope Dilution Liquid Chromatography/Tandem Mass Spectrometry;  Anal. Chem., Vol. 76, pp. 1008−1014 
+(2004). 
+
+[40]  Tai, S.S-C.; Xu,  B.; Welch,  M.J.;  Development and Evaluation of a Candidate Reference Measurement 
+Serum using Isotope Dilution Liquid 
+
+Procedure for the Determination of Progesterone in Human 
+Chromatography/Tandem Mass Spectrometry; Anal. Chem., Vol. 78, pp. 6628−6633 (2006). 
+
+ V.I.; Stöckl,
+
+[41]  Thienpont, L.M.; De Brabandere,
+
+ Leenheer, A.P.;  Use of Cyclodextrins for 
+Prepurification of Progesterone  and Testosterone from Human Serum Prior to Determination with Isotope 
+Dilution Gas Chromatography/Mass Spectrometry; Anal. Chem., Vol. 66, pp. 4116−4119 (1994). 
+[42]  Tai, S.S-C.; Xu,  B.; Welch,  M.J.;  Phinney, K.W.;  Development and Evaluation of a Candidate
+
+  Reference 
+Measurement Procedure for the Determination of Testosterone in Human Serum using Isotope Dilution Liquid 
+Chromatography/Tandem Mass Spectrometry; Anal. Bioanal. Chem., Vol. 388, pp. 1087−1094 (2007). 
+
+ D.; and De
+
+with  Isotope
+
+SRM 1950 
+
+Page 14 of 15 
+
+[43]  Long, S.E.; Murphy, K.E.; Compilation of NIST Higher-Order Methods for the Determination of Electrolytes in 
+Clinical Materials;  NIST Special Publication 260 -162; U.S. Government Printing Office: Washington,
+ DC 
+(2006). 
+
+[44]  Murphy, K.E.; Long, S.E.; Rearick, M.S.; Ertas, O.S.; The Accurate Determination of Potassium and Calcium 
+; J. Anal. Atom. Spectrom., 
+
+Using Isotope Dilution Inductively Coupled “Cold” Plasma Mass Spectrometry
+Vol. 17, pp. 469−477 (2002). 
+
+[45]  Bowers, G.N.; Fassett,  J.D.; White,  V.E.;  Isotope Dilution Mas s Spectrometry and the National Reference 
+
+System; Clin. Chem., Vol. 65, pp. 475R−479R (1993).  
+ M.J.; Ellerbe,
+
+[46]  Phinney, C.S.; Murphy,
+
+ K.E.; Welch,
+
+ S.B.; 
+Sniegoski, L.T.; Rearick, M.S.; Vetter, T.W.; Vocke, R.D.; Definitive Method Certification of Clinical Analytes 
+in Lyophilized Human Serum: NIST Standard Reference Material
+Vol. 361, pp. 71−80 (1998). 
+
+ (SRM) 909b; Fresenius J. Anal. Chem., 
+
+ K.W.; Schiller,
+
+ P.M.; Long,
+
+ S.E.; Pratt,
+
+[47]  Moody, J.R.; Vetter, T.W.; Development of the Ion  Exchange-Gravimetric Method for Sodium in Serum as a 
+
+Definitive Method; J. Res. Nat. Inst. Stand. Technol., Vol. 101, pp. 155−164 (1996). 
+
+[48]  Doumas, B.T.; Bayse, D.D.; Biggs, H.G.; Gadsden, R.H.; Klein, B.; Lubran, M.M.; Peters, T. Jr., Rodkey, F.L.; 
+Steward, C.C.; White, J.M.; Standards for Total Serum Protein Assays  – A Collaborative Study ; Clin. Chem., 
+Vol. 21, pp. 1159−1166 (1975). 
+
+ite, 
+
+[49]  Doumas, B.T; Kwok -Cheung, P.P.; Perry,  B.W.; Jendrzejczak,  B.; McComb,  R.B.; Schaffer,  R.; Hause,  L.L.; 
+Candidate Reference Method for Determination of Total Bilirubin in Serum: Development and Validation; Clin. 
+Chem., Vol. 31, pp. 1779−1789 (1985). 
+
+[50]  Kilpatrick, L.E.; Phinney , K.W.;  Quantification of Total Vitamin -D-Binding Protein and the Glycosylated 
+
+Isoforms by Liquid Chromatography-Isotope Dilution Mass Spectrometry, J. Proteome Res., Vol. 16, pp. 4185–
+4195 (2017). 
+
+[51]  Henderson, C.M.; Lutsey , P.L.; Misialek , J.R.; Laha , T.J.; Selvin , E.; Eckfeldt
+
+, J.H.; Hoofnagle , A.N.; 
+Measurement by a Novel LC-MS/MS Methodology Reveals Similar Serum Concentrations of Vitamin D-Binding 
+Protein in Blacks and Whites, Clin. Chem., Vol. 62, pp. 179–187 (2016). 
+
+[52]  DerSimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177−188 (1986). 
+[53]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323−331 (2009). 
+[54]  Horn, S.D.; Horn, R.A.; Duncan, D.B.; Estimating Heteroscedastic Variance s in Linear Models ; J. Am. Stat.  
+
+Assoc., Vol. 70, pp. 380−385 (1975). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+Certificate Revision History:    19 June 2020 (Reference value for zinc removed from Table 11; editorial changes); 
+23 September 2019 
+(Reference value for vitamin D-binding protein added to Table 11; editorial changes); 21 April 2016 (Removed reference values for glutamic 
+acid, ornithine, retinyl palmitate, and retinyl stearate; change of expiration date; editorial changes); 26
+ January 2016 (Editorial changes); 
+07 November 2012 (Corrected conversion from μg/g to μmol/L for several fatty acids in Tables  2 and 3; editorial changes); 31  August 2011 
+(Update of homocysteine units); 14 July 2011 (Original certificate date). 
+
+    
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their 
+accomplished by contacting the SRM Program:  telephone (301)
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+current. 
+possession is  current.  This can be 
+ 975-2200; fax (301)
+
+This  can  be
+ 948-3730; 
+
+SRM 1950 
+
+Page 15 of 15 
+
+

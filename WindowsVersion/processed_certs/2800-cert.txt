@@ -1,0 +1,1239 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material 2800
+
+
+
+Microscope Magnification Standard
+
+
+
+Lot No.:  1996A
+
+			Serial No.:  SAMPLE
+
+
+
+This Standard Reference Material (SRM) is intended primarily for use in calibrating the magnification or scale of microscopes used to make dimensional measurements.  These microscopes include optical and scanning electron microscopes, imaging in either transmission or reflection modes, and scanning probe microscopes.
+
+
+
+SRM 2800 consists of a pattern of parallel lines whose nominal distances from the centerline range from  1 m to  5 mm (see Figure 1).  Certified values are given for the center-to-center distance of each line from the centerline; the linewidths are not certified.  The pattern is printed in chrome on a fused-quartz substrate with nominal dimensions of 25 mm  75 mm  2.3 mm (1 in  3 in  0.09 in) using photomask production techniques.  Note:  This SRM is slightly thicker than a standard microscope slide.
+
+
+
+Certification Technique:  All measurements for certification were made in visible light with the NIST scanning ultraviolet microscope (UV Microscope), which is an optical transmission photometric microscope with a scanning stage and displacement-measuring interferometer.  All measurements were made within 15 m of the vertical center of each line feature (at the fiducial line), and the certification applies only to that portion of the feature.  The certified line position values, corrected to a substrate temperature of 20 C, are given along with their calibration uncertainties in Table 2, with the component analysis of the uncertainties given in Table 1.  The position of the center of each line relative to the centerline is determined from the optical image profile (image intensity as a function of position across the line array).  The performance of the system is assessed at the beginning and end of each day by measuring features on a control sample.  These control measurements include the center-to-center spacing of line pairs that have been independently calibrated on the NIST Linescale Interferometer.
+
+
+
+The UV Microscope was developed from the optical equipment first used in the certification of the NIST photomask linewidth SRMs, developed and initially constructed by D. Nyyssonen, and subsequently redesigned, automated, and programmed by J.E. Potzick, L. Howard, and J.M. Pedulla of the NIST Precision Engineering Division.  The algorithm for locating the position of the line center on the image profile was programmed by J. Jun of the NIST Precision Engineering Division.  Measurements for this SRM were performed by J.M. Pedulla and T.B. Renegar of the NIST Precision Engineering Division.  This work was performed under the technical supervision of J.E. Potzick of the NIST Precision Engineering Division.
+
+
+
+Expiration of Certification:  The certification of SRM 2800 is valid indefinitely, within the measurement uncertainty specified, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see Instructions for Use).  Periodic recertification is not required; however, this certification will be nullified if the SRM is damaged, contaminated, or modified.
+
+
+
+The statistical analysis was performed by J.E. Potzick, and statistical support was provided by N-F. Zhang and Hk. Liu of the NIST Statistical Engineering Division.
+
+
+
+The support aspects involved in the preparation, certification, and issuance of this SRM were coordinated through the NIST Standard Reference Materials Group by J.M. Adams.
+
+
+
+		Dennis A. Swyt, Chief
+
+		Precision Engineering Division
+
+	
+
+	Gaithersburg, MD 20899	John Rumble, Jr., Chief
+
+	Certificate Issue Date:  9 August 2002	Measurement Services Division
+
+	
+
+
+
+
+
+		Figure 1.  Progressively exploded view of SRM 2800.  The certified horizontal line position of the center of each line relative to the center of the centerline, labeled “0”, is listed in Table 2; the nominal positions are printed at the top of each major line.
+
+The purpose of the gaps in the center of the larger lines is to render visible the position of an ocular filar against the otherwise black field in a transmission optical microscope at high magnification, in which case the ends of the lines may be beyond the field of view.  NOTE:  The serial number does not appear on the SRM unit itself, only on its storage box and calibration certificate.
+
+		Figure 1.  Progressively exploded view of SRM 2800.  The certified horizontal line position of the center of each line relative to the center of the centerline, labeled “0”, is listed in Table 2; the nominal positions are printed at the top of each major line.
+
+The purpose of the gaps in the center of the larger lines is to render visible the position of an ocular filar against the otherwise black field in a transmission optical microscope at high magnification, in which case the ends of the lines may be beyond the field of view.  NOTE:  The serial number does not appear on the SRM unit itself, only on its storage box and calibration certificate.
+
+INSTRUCTIONS FOR CARE AND CLEANING 
+
+
+
+
+
+Care must be exercised when handling this SRM. Avoid touching the surface, especially with fingers or with the microscope objective lens while setting up or focusing.  The surface may be cleaned by rinsing with distilled water with an added wetting agent, or with a clean organic solvent provided no residue is left.  The materials used are fused quartz and antireflecting (oxidized) chromium.
+
+
+
+Calibration Uncertainty: The calibration uncertainty components and their values, or estimated maxima, are listed in Table 1.  
+
+
+
+
+
+	Table 1.  SRM 2800 Calibration Error and Standard Uncertainty Components, Lot 1996A
+
+			
+
+			Error Description
+
+	Error
+
+	Standard
+
+	Uncertainty
+
+	Coefficient
+
+	Parameter
+
+	Uncertainty
+
+	Calib Standard Uncertainty, 1
+
+	Length-independent Terms
+
+	UV measurement repeatability
+
+	Random
+
+	 (UnCorrDev)
+
+	1
+
+	Specimen specific
+
+	< 3.5 nm
+
+	Tool-induced shift (TIS)
+
+	Uncorrected TIS
+
+	0.2 TIS
+
+	1
+
+	TIS < 35 nm
+
+	< 7 nm
+
+	Length-dependent Terms
+
+	Traceability to the meter
+
+	
+
+	
+
+	1
+
+	daily specific
+
+	 Nom x 7.7 x 107 < 3.8 nm
+
+	Specimen cosine alignment
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 12 x 108 < 0.6 nm
+
+	Substrate temperature variation
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 3 x 108 < 0.15 nm
+
+	Substrate temperature error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 5 x 109 < 0.025 nm
+
+	Air temperature error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 1 x 107 < 0. 5 nm
+
+	Air pressure error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 2.7 x 108 < 0.135 nm
+
+	Air humidity variation
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 2 x 108 < 0.05 nm
+
+	Other terms
+
+	Interferometer resolution
+
+	Error randomized (converted to noise) by oversampling with dither.  Appears in repeatability.
+
+	0
+
+	Photometer resolution
+
+	Error randomized (converted to noise) by oversampling with dither.  Appears in repeatability.
+
+	0
+
+	Laser wavelength uncertainty
+
+	Removed by using calibrated Control sample.
+
+	0
+
+	Laser polarization mixing
+
+	Error randomized by repeat measurements at different places along laser scale.
+
+	0
+
+	Abbé error
+
+	Error removed or randomized by comparison with Control sample.  Appears in repeatability.
+
+	0
+
+	Fudge factor
+
+	Unanticipated errors.
+
+	Nom x  106 < 5.0 nm
+
+	2  RSS < 20.13 nm
+
+	NOTE:  The ’s here refer to differences between Product measurements and the same day’s average Control measurements.
+
+	
+
+	
+
+	The components contributing to the calibration uncertainty.  Estimates are given for the terms that vary by serial number.  The actual uncertainties for each line for the specific serial number for this Certificate are listed in Table 2.  The Length-dependent terms are to be multiplied by the Nominal value (Nom), and the maximum is listed after the “<” sign.  See Reference 2 for a discussion of measurement resolution and measurement uncertainty.  Some of the other terms used here:
+
+	
+
+	Err = error	β = slope of regression curve for (LSI – UV) vs Nom
+
+	var = variance	CTE = coefficient of thermal expansion
+
+	Unc = uncertainty	na = index of refraction of air (Reference 1)
+
+	TIS = tool-induced shift	Qz = quartz
+
+	UV = UV Microscope measurements	T, P, RH = temperature, pressure, relative humidity
+
+	Table 1.  SRM 2800 Calibration Error and Standard Uncertainty Components, Lot 1996A
+
+			
+
+			Error Description
+
+	Error
+
+	Standard
+
+	Uncertainty
+
+	Coefficient
+
+	Parameter
+
+	Uncertainty
+
+	Calib Standard Uncertainty, 1
+
+	Length-independent Terms
+
+	UV measurement repeatability
+
+	Random
+
+	 (UnCorrDev)
+
+	1
+
+	Specimen specific
+
+	< 3.5 nm
+
+	Tool-induced shift (TIS)
+
+	Uncorrected TIS
+
+	0.2 TIS
+
+	1
+
+	TIS < 35 nm
+
+	< 7 nm
+
+	Length-dependent Terms
+
+	Traceability to the meter
+
+	
+
+	
+
+	1
+
+	daily specific
+
+	 Nom x 7.7 x 107 < 3.8 nm
+
+	Specimen cosine alignment
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 12 x 108 < 0.6 nm
+
+	Substrate temperature variation
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 3 x 108 < 0.15 nm
+
+	Substrate temperature error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 5 x 109 < 0.025 nm
+
+	Air temperature error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 1 x 107 < 0. 5 nm
+
+	Air pressure error
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 2.7 x 108 < 0.135 nm
+
+	Air humidity variation
+
+	
+
+	
+
+	
+
+	
+
+	Nom x 2 x 108 < 0.05 nm
+
+	Other terms
+
+	Interferometer resolution
+
+	Error randomized (converted to noise) by oversampling with dither.  Appears in repeatability.
+
+	0
+
+	Photometer resolution
+
+	Error randomized (converted to noise) by oversampling with dither.  Appears in repeatability.
+
+	0
+
+	Laser wavelength uncertainty
+
+	Removed by using calibrated Control sample.
+
+	0
+
+	Laser polarization mixing
+
+	Error randomized by repeat measurements at different places along laser scale.
+
+	0
+
+	Abbé error
+
+	Error removed or randomized by comparison with Control sample.  Appears in repeatability.
+
+	0
+
+	Fudge factor
+
+	Unanticipated errors.
+
+	Nom x  106 < 5.0 nm
+
+	2  RSS < 20.13 nm
+
+	NOTE:  The ’s here refer to differences between Product measurements and the same day’s average Control measurements.
+
+	
+
+	
+
+	The components contributing to the calibration uncertainty.  Estimates are given for the terms that vary by serial number.  The actual uncertainties for each line for the specific serial number for this Certificate are listed in Table 2.  The Length-dependent terms are to be multiplied by the Nominal value (Nom), and the maximum is listed after the “<” sign.  See Reference 2 for a discussion of measurement resolution and measurement uncertainty.  Some of the other terms used here:
+
+	
+
+	Err = error	β = slope of regression curve for (LSI – UV) vs Nom
+
+	var = variance	CTE = coefficient of thermal expansion
+
+	Unc = uncertainty	na = index of refraction of air (Reference 1)
+
+	TIS = tool-induced shift	Qz = quartz
+
+	UV = UV Microscope measurements	T, P, RH = temperature, pressure, relative humidity
+
+
+
+
+
+
+
+
+
+
+
+The average expanded uncertainty for all units, and its components, are shown graphically in Figure 2 as a function of nominal line position, and a histogram of the observed expanded uncertainty for all lines on all units is shown in Figure 3.
+
+
+
+
+
+
+
+
+
+Figure 2.  Average observed calibration uncertainty, and its contributing components, for all units in this lot, not showing the unit-to-unit variation.
+
+
+
+
+
+
+
+Figure 3.  Histogram of the expanded calibration uncertainties for all of the lines in Lot 1996A.
+
+
+
+Figure 3.  Histogram of the expanded calibration uncertainties for all of the lines in Lot 1996A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deviations of the lines from their nominal positions:  The observed deviations from the nominal values, averaged over all lines in this lot, are shown in Figure 4.  The certified line position is its nominal value minus its deviation from nominal.  If the serial number for a particular SRM 2800 is not known, then there is a 95 % probability that any given line is located between the outer dashed lines at its nominal position as indicated in the figure, which represent the peak observed deviations increased by the peak observed calibration uncertainty at that nominal value.
+
+
+
+Figure 4. Aggregate data for Lot 1996A showing mean deviation from nominal at each nominal position (center curve), and the maximum and minimum deviations observed (light solid curves).  The outer dashed curves represent a 95 % confidence envelope for all of the lines.
+
+
+It can be stated that all lines are within + 70 nm and  40 nm of their nominal positions at the 95 % confidence level.  The histogram of this distribution is shown in Figure 5.  It is not centered on zero because of a manufacturing scale factor error of ≈ 0.2 ppm, plus smaller scale nonlinearities.
+
+
+
+
+
+Figure 5. Histogram of the observed deviations from nominal of all lines on all serial numbers.
+
+
+
+
+
+Figure 7.  Histogram of the daily substrate temperature difference between calibrations and control measurements. The mean difference is 0.005 °C, and the standard deviation is 0.06 °C.
+
+Figure 7.  Histogram of the daily substrate temperature difference between calibrations and control measurements. The mean difference is 0.005 °C, and the standard deviation is 0.06 °C.Control Chart:  The major lines on the control sample have been measured on the NIST Linescale Interferometer, whose results are traceable to the definition of the meter.  The control sample was measured at the beginning and end of each day of calibration, and the differences between the UV Microscope measurements (UV) and the Linescale Interferometer measurements (LSI) on the control sample were determined.
+
+
+
+
+
+Figure 6.  The control chart of (LSI – UV) regression slope  (adjusted for substrate temperature variations) for each day of calibration of Lot 1996A.  The dashed line is the linear regression of  over the time period covered, and the horizontal solid lines represent ± 2 standard deviations.  The error bars represent the expanded measurement uncertainty of each daily (LSI – UV) regression slope.
+
+Figure 6.  The control chart of (LSI – UV) regression slope  (adjusted for substrate temperature variations) for each day of calibration of Lot 1996A.  The dashed line is the linear regression of  over the time period covered, and the horizontal solid lines represent ± 2 standard deviations.  The error bars represent the expanded measurement uncertainty of each daily (LSI – UV) regression slope.The linear regression slope  of this difference (LSI – UV), with respect to nominal line position, represents the difference in scale factor between the Linescale Interferometer and the UV Microscope.  This regression slope, measured twice daily, is taken as the control variable and plotted in Figure 6.  Because the Linescale Interferometer measurements were made at a constant temperature, the UV Microscope measurements were compensated for the daily substrate temperature variation and the thermal coefficient expansion (0.5  10-6/ °C) of the quartz substrate when calculating the regression slope.
+
+
+
+The difference in substrate temperature between a calibration measurement and the same day’s control measurements contributes an error listed as “Substrate temperature variation” in Table 1.  The mean value of this difference was 0.005 °C, and its standard deviation was 0.06 °C.  The distribution is shown in Figure 7.
+
+
+
+Calibration Traceability:  Traceability to the meter was established through the Linescale Interferometer by adjusting each day’s UV Microscope data so that the regression slope for (LSIAdjusted UV) was zero for that day’s control measurements (Figure 8), assuring that the UV Microscope scale factor was equal to the traceable Linescale Interferometer scale factor.  The uncertainty of the slope is the “Traceability” component in Table 1
+
+
+
+Figure 8.  A plot of (LSI-Adjusted UV) for a typical day’s control measurements.  The dashed lines show the mean slope ± the slope’s uncertainty (1) arising from the Linescale Interferometer combined measurement uncertainty, UV Microscope repeatability, and regression residuals.
+
+Figure 8.  A plot of (LSI-Adjusted UV) for a typical day’s control measurements.  The dashed lines show the mean slope ± the slope’s uncertainty (1) arising from the Linescale Interferometer combined measurement uncertainty, UV Microscope repeatability, and regression residuals.
+
+
+
+
+
+
+Tool-induced Shift (TIS):  This error is one-half the difference between a line-to-line measurement with the  artifact in its normal and reversed (rotated 180 degrees) positions.  The uncorrected part of the TIS error was judged to be 20 % of the tool-induced shift.  The measurement results reported here are the averages of the forward and reverse values, a procedure that removes the remainder of the TIS error.
+
+When SRM 2800 is viewed in the UV Microscope under calibration conditions, the worst case tool-induced shift is about 35 nm.  Users of this SRM should image the SRM in both the normal and reversed positions and use the average result for critical applications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCES
+
+
+
+	[1]	Estler, T.; High-accuracy Displacement Interferometry in Air; Applied Optics; Vol. 24, No. 6 (1985). 
+
+	[2]	Potzick, J.; Measurement Uncertainty and Noise in Nanometrology; Proceedings of the International Symposium on Laser Metrology for Precision Measurement and Inspection in Industry, Armando Albertazzi, Ed., pp. 5-12 to 5-18, Florianopolis, Brazil (1999).
+
+[3]	Guide to the Expression of Uncertainty in Measurement; ISBN 92-67-10188-9, 1st Ed., ISO, Geneva, Switzerland (1993); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office, Washington, DC (1994); available at http://physics.nist.gov/Pubs/.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the Internet http://www.nist.gov/srm.
+
+
+
+
+
+
+
+Table 2.  The Certified Line Position and Its
+
+Calibration Uncertainty For Each Nominal Position
+
+
+
+Serial Number ____
+
+Calibrated _____
+
+Nominal
+
+(m)
+
+	Certified
+
+	(m)
+
+	Deviation
+(nm)
+
+			Uncertainty
+
+			(nm)
+
+	-5000
+
+	SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-4000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-3000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-2000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-1000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-900
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-800
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-700
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-600
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-500
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-400
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-300
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-200
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-100
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-90
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-80
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-70
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-60
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-50
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-40
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-30
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-20
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-10
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-5
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-4
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-3
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-2
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	-1
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	0
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	1
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	2
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	3
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	4
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	5
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	10
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	20
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	30
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	40
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	50
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	60
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	70
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	80
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	90
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	100
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	200
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	300
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	400
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	500
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	600
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	700
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	800
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	900
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	1000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	2000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	3000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	4000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+	5000
+
+SAMPLE
+
+SAMPLE
+
+SAMPLE
+
+
+
+
+Calibration Data for SRM 2800
+
+Serial Number _____, 
+
+Calibrated _______
+
+		
+
+All of the “certified” values in Table 2 are the certified distance measurements of each nominal line on Serial Number ____ from the center line and are the means of ____ or more repeated pitch measurements.  The measurement uncertainty for each line (in nm) is listed in the last column, expressed as an expanded uncertainty U = kuc.  The combined uncertainty uc is determined from experimental standard deviations, taking into account all known measurement error components, random and systematic, and the coverage factor k = 2.  Because the measurements of the line positions are assumed to be normally distributed, the true line position is asserted to lie in the interval defined by the certified position ± U with a level of confidence of approximately 95 % [3].  All of the lines on this serial number are within +MAX nm and MIN nm of their nominal positions, at the 95 % confidence level.  The values from the third and fourth columns of Table 2 are illustrated in Figure 9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 9.  Graphical representation of the deviation (nm) listed in Table 2, column 3, of the certified line positions from their nominal values (µm) and the expanded calibration uncertainties (vertical bar errors).
+
+
+
+
+
+			SRM 2800	Page 1 of 7
+
+			SRM 2800	Page 6 of 7
+
+			SRM 2800	Page 7 of 7

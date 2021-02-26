@@ -1,0 +1,806 @@
+﻿ 
+
+ 
+e
+o
+* 
+
+xX € 
+
+2 
+
+< 
+s 
+Stares  of  © 
+
+ 
+
+National  Institute  of  Standards  &  Cerhnologu 
+ 
+
+Certificate
+
+Standard Reference Material® 2035a 
+
+ 
+Ultraviolet-Visible-Near-Infrared Wavelength/Wavenumber Transmission Standard 
+
+ 
+This Standard Reference Material (SRM) is a certified transfer standard intended for the verification and calibration 
+of  the  wavenumber/wavelength  scale  of  ultraviolet-visible (UV-Vis)  and  near  infrared (NIR)  spectrometers 
+operating in transmission mode.  A unit of SRM 2035a consists of an optical filter, 25 mm in diameter and 1.5 mm 
+thick, that should be handled in its original optical mount and stored in the wooden container provided. 
+ 
+SRM 2035a  is  a  glass  filter  consisting  of  mole  fractions  of  3.00 %  holmium  oxide (Ho2O3),  1.30 %  samarium 
+oxide (Sm2O3),  0.68 %  ytterbium  oxide (Yb2O3),  and  0.47 %  neodymium  oxide (Nd2O3)  in  a  matrix  containing 
+lanthanum oxide (La2O3), boron oxide (B2O3), silicon dioxide (SiO2), and zirconium dioxide (ZrO2). 
+ 
+Certification:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that 
+all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account.    In  this  certificate,  spectral 
+features are referred to as bands if their location is determined by the center-of-gravity (COG) or centroid algorithm, 
+whereas  those  determined  by  a  five  point  cubic  polynomial  fit  are  referred  to  as  peak  locations.    SRM 2035a  is 
+certified  for  the  10 %  band  fraction  centroid  of  seven  bands  spanning  the  spectral  region  from  10 300 cm–1 to 
+5 100 cm–1 at  8 cm–1  resolution  (vacuum  wavenumber).    The  same  seven  bands  are  certified  for  the  10 %  band 
+fraction centroid location in the spectral region from 971 nm to 1960 nm at 1 nm and 3 nm spectral bandwidths (air 
+wavelength).    The  certified  absorption  band  locations  for  these  seven  bands  are  given  in  Table 1  for  vacuum 
+wavenumber and Table 2 for air  wavelength.  SRM 2035a is certified  for thirteen additional peak locations in  the 
+spectral  region  from  334 nm  to  805 nm  at  1 nm  and  3 nm  spectral  bandwidths.    The  certified  transmittance  peak 
+locations for these thirteen peaks are given in Table 3 for air wavelength. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2035a  is  valid,  within  the  measurement  uncertainties 
+specified, until 01 January 2022, provided the SRM is handled and stored in accordance with the instructions given 
+in this certificate (see  “Instructions  for Handling, Storage,  and Use”).  The certification  is nullified if the SRM  is 
+damaged, contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical changes occur that affect the certification before the  expiration of this certificate, NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of the technical measurements leading to the certification of this SRM were 
+provided by S.J. Choquette of the NIST Biosystems and Biomaterials Division. 
+ 
+The  production  and  certification  of  SRM 2035a  was  conducted  by  S.J. Choquette  and  A.A. Urbas  of  the  NIST 
+Biosystems and Biomaterials Division.  Additional measurements were supplied by  L. Hanssen and C. Cooksey of 
+the NIST Sensor Science Division. 
+ 
+Statistical consultation was provided by S.D. Leigh and H.-K. Liu of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+
+Anne Plant, Chief 
+Biosystems and Biomaterials Division 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  06 March 2014 
+Certificate Revision History on Last Page 
+
+SRM 2035a 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+Page 1 of 7 
+
+from 
+
+  Acquire 
+
+the  certified  values. 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling and  Storage:  To maintain the integrity of SRM 2035a, the filter should only be  handled in its optical 
+mount.  While not in use, the SRM should be stored in the original wooden container provided or one with similar or 
+better mechanical protection. 
+ 
+Use:  Carefully insert SRM 2035a into the sample beam of the spectrometer being tested.  Measurements under a 
+dry  (air  or  nitrogen)  purge  are  highly  recommended  for  NIR  measurements.    If  a  dry  purge  is  not  available,  the 
+the 
+locations  of  band 1  and  band 3  may  differ  significantly 
+absorbance/transmittance spectrum, referenced to air at a nominal temperature between 20 ºC and 26 ºC.  Compare 
+measured  band  or  peak  locations  to  its  certified  value  listed  in  the  appropriate  table  (Tables 1,  2  and  3).    Band 
+locations in Table 1 (NIR) are vacuum wavenumber values at constant 8 cm–1 resolution.  Investigations have shown 
+that  these  band  locations  remain  within  the  stated  uncertainties  for  resolutions  higher  than  8 cm–1  (e.g.,  4 cm–1, 
+2 cm–1, etc.); however, they are not certified for use with resolutions lower than 8 cm–1.  Band locations in Table 2 
+(NIR) are air wavelength values at spectral bandwidths of 1 nm and 3 nm.  Peak locations in Table 3 (UV-Vis) are 
+air  wavelength  values  at  spectral  bandwidths  of  1 nm  and  3 nm.    Comparison  should  be  made  to  the  spectral 
+bandwidth more representative of the spectrometer being used.  Taking into account the certification uncertainty of 
+each band of SRM 2035a, any statistically significant differences between the measured and certified band locations 
+may  be  used  to  recalibrate  the  spectrometer  wavenumber/wavelength  scale.    For  air  wavelength  measurements,  a 
+data  point spacing  equal to or less than 0.5 nm  is recommended.  For vacuum  wavenumber measurements, a data 
+spacing equal to or less than 1.0 cm–1 is recommended. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Preparation:  The SRM glass composition was melted at Schott Glass, Duryea, PA.  The finished SRM filters were 
+supplied to NIST by Avian Technologies, Sunapee, NH. 
+ 
+Measurement  Conditions:    Certification  measurements  for  NIR  vacuum  wavenumber  band  locations  were 
+performed on Bruker Vertex-70, Bruker IFS-66, Bruker IFS-66v, and Bomem DA3 FT spectrometers.  The Bruker 
+Vertex-70,  Bruker  IFS-66,  and  Bruker  IFS-66v  FT  spectrometers  were  calibrated  in  vacuum  wavenumber  units 
+using an acetylene gas cell or ambient water vapor bands.  The Bomem DA3 FT spectrometer was calibrated using 
+ambient water vapor and carbon dioxide bands.  Certification measurements for NIR air wavelength band locations 
+were performed on PerkinElmer Lambda 900, PerkinElmer Lambda 1050, Cary 6000i dispersive spectrometers, and 
+a Bruker Vertex-70 FT spectrometer.  The air wavelength axis of the PerkinElmer Lambda 900 was calibrated using 
+emission lines of Kr, Ar, and Ne atomic emission pen lamps in first and second grating order.  The air wavelength 
+axis of the PerkinElmer Lambda 1050 was calibrated per the instrument instructions using the emission lines of the 
+internal  D2 source  in  the  second  grating  order.    The  air  wavelength  axis  of  the  Cary 6000i  was  calibrated  using 
+emission  lines  of  Hg  and  Ar  from  an  internal  atomic  emission  calibration  lamp.    The  Bruker  Vertex-70  FT  was 
+calibrated in air wavelength by applying the appropriate correction for the refractive index of air [1] to the calibrated 
+vacuum wavenumber axis.  Certification measurements for UV-Vis air wavelength were performed on PerkinElmer 
+Lambda 900  and  Cary 6000i  commercial  dispersive  spectrometers,  the  NIST  Materials  Measurement  Laboratory 
+High  Accuracy  Spectrophotometer (HASII),  and  an  additional  in-house  constructed  spectrometer  system.    The  air 
+wavelength  axes  of  all  spectrometers  were  calibrated  using  lines  from  atomic  emission  calibration  lamps.    The 
+PerkinElmer  Lambda 900  and  HASII  were  calibrated  using  Hg  and  Kr  emission  lines.    The  Cary 6000i  was 
+calibrated using Hg and Ar emission lines.  The in-house constructed spectrometer was calibrated using Hg, Ar and 
+Kr emission lines. 
+ 
+Wavenumber and Wavelength Band/Peak Location Methodology:  The method used to determine the certified 
+NIR  wavenumber (υ)  and  wavelength (λ)  band  locations  of  SRM 2035a  is  the  center-of-gravity (COG)  technique 
+[2–5].    If  another  technique  is  used,  a  comparison  with  the  certified  values  will  not  be  valid.    In  this  certificate, 
+positions determined with the centroid algorithm are referred to as  band locations.  Values listed in Tables 1 and 2 
+are band locations.  For SRM 2035a COG calculations, 10 % fractions of the bands were used for both wavenumber 
+and  wavelength  data.    Further  information  on  the  use  of  this  algorithm  with  other  NIST  SRMs  can  be  found  in 
+References [6–8].  The method used to determine the certified UV-Vis wavelength (λ) peak locations of SRM 2035a 
+was a cubic polynomial fit to five points spanning the  transmittance  peak  minimum.  Values listed in Table 3 are 
+peak locations. 
+ 
+
+                                                           
+
+(1)Certain  commercial  instruments,  materials,  or  processes  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards  and  Technology,  nor  does  it  imply  that  the  instruments,  materials,  or  processes  identified  are  necessarily  the  best 
+available for the purpose. 
+SRM 2035a 
+
+Page 2 of 7 
+
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [9].  The certified vacuum 
+wavenumber locations for the seven absorption bands spanning the range from 10 300 cm−1 to 5 100 cm−1 are listed 
+ 
+in  Table 1.    These  values  were  obtained  at  8 cm−1
+constant  wavenumber  resolution  and  are  certified  for  operation 
+between 20 °C and 26 °C.  The certified values represent the consensus mean band locations from measurements on 
+four  Fourier-transform (FT)  spectrometer  systems.    The  NIR  absorbance  spectrum  of  SRM 2035a  in  vacuum 
+wavenumber is shown in Figure 1.  Atmospheric water vapor is a significant source of variation for band 3, and this 
+band should be used with caution when calibrating commercial spectrometers with SRM 2035a. 
+ 
+The  certified  values  for  the  NIR  air  wavelength  band  locations  for  the  seven  absorption  bands  from  971 nm  to 
+1960 nm for 1 nm and 3 nm spectral slit width (SSW) resolutions are listed in Table 2 and are certified for operation 
+between  20 °C  and  26 °C.    The  certified  values  of  the  air  wavelength  band  locations  represent  the  mean  band 
+locations  from  three  scanning  dispersive  spectrometer  systems  and  one  FT  spectrometer  system.    The  NIR 
+absorbance spectrum of SRM 2035a in air wavelength is illustrated in Figure 2. 
+ 
+The certified values for the UV-Vis air wavelength peak locations for the thirteen peaks from 334 nm to 805 nm for 
+1 nm  and  3 nm  spectral  slit  width (SSW)  resolutions  are  listed  in  Table 3  and  are  certified  for  operation  between 
+20 °C and 26 °C.  The certified values of the air wavelength peak locations represent the mean band locations from 
+four  scanning  dispersive  spectrometer  systems.    The  UV-Vis  transmittance  spectrum  of  SRM 2035a  in  air 
+wavelength is illustrated in Figure 3. 
+ 
+Certification Uncertainty:  The expanded uncertainties (U95 %) for the wavenumber and wavelength band and peak 
+locations  given  in  Tables 1,  2  and  3  are  determined  from  the  appropriate  combination  of  instrument-specific 
+standard uncertainties to define the interval within which the unknown value of the band/peak can be asserted to lie 
+with a level of confidence of approximately 95 % [10–13].  Components of the uncertainty for the wavenumber and 
+wavelength  band and peak locations include:    within-instrument variation,  between-instrument bias, calibration of 
+the  NIST  FT  and  scanning  dispersive  spectrometer  systems,  location  shifts  due  to  temperature,  water  vapor 
+interference, and short-term precision variance (i.e., estimated standard deviations).  For the NIR wavenumber and 
+wavelength band locations, the Type A uncertainty components were determined independently for each band and 
+the  combined,  band  specific  uncertainties  were  expanded  by  a  coverage  factor  (k = 3.184)  based  on  the  Student’s 
+t-distribution and number of spectrometers contributing to the certification.  For the UV-Vis peak locations, a pooled 
+uncertainty  across  all  peaks  was  estimated  for  the  Type A  component  and  the  combined  overall  uncertainty  was 
+expanded by a coverage factor (k = 2). 
+ 
+
+ 
+
+SRM 2035a 
+
+Page 3 of 7 
+
+Table 1.  Certified Values for NIR Band Locations(a) and Uncertainties(b) for Vacuum Wavenumber  
+at 8 cm–1 Resolution. 
+
+Band 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Band Location 
+(cm–1) 
+
+5138.91   
+
+6805.70   
+
+7314.06   
+
+8179.61   
+
+8682.42   
+
+9294.56   
+
+10245.59   
+
+0.35 
+
+0.81 
+
+0.33 
+
+0.73 
+
+0.14 
+
+0.30 
+
+0.16 
+
+(a) Band locations determined using a centroid method with a band fraction of 0.1; see Figure 1 for band identification. 
+(b) The  listed  uncertainties  represent  the  expanded  uncertainty (U95 %)  calculation  (k = 3.184)  in  accordance  with  reference 10.  
+The  certified  values  represent  the  consensus  mean  band  locations  from  measurements  on  four  Fourier  transform (FT) 
+spectrometer  systems  and  the  measurand  is  the  band  location  at  8 cm–1  resolution.    The  certified  values  are  metrologically 
+traceable to the SI unit of reciprocal meters (m–1), expressed as reciprocal centimeters (cm–1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.6 
+
+0.5; 
+
+0.4 
+
+0.3 
+
+0.2 
+
+0.1   
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+  
+
+0 
+1 
+11000 
+
+1 
+10000 
+
+  
+
+9000 
+
+8000 
+
+7000 
+
+6000 
+
+5000 
+
+4000
+
+Wavenumber  (cm”) 
+
+ 
+
+Figure 1.  NIR Absorbance Spectrum of SRM 2035a in Vacuum Wavenumber with Band Locations Indicated. 
+
+ 
+
+  
+
+Page 4 of 7 
+
+SRM 2035a 
+
+Table 2.  Certified Values for NIR Band Locations(a) and Uncertainties(b) for Air Wavelength. 
+
+Band 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+1 nm SSW 
+Band Location 
+(nm) 
+
+1945.7   
+
+1469.1   
+
+1366.8   
+
+1222.2   
+
+1151.5   
+
+1075.6   
+
+975.8   
+
+0.4 
+
+0.2 
+
+0.1 
+
+0.2 
+
+0.1 
+
+0.1 
+
+0.1 
+
+3 nm SSW 
+Band Location 
+(nm) 
+
+1945.7    0.4 
+
+1469.0    0.2 
+
+1366.8    0.1 
+
+1222.2    0.2 
+
+1151.4    0.1 
+
+1075.6    0.1 
+
+975.9 
+
+  0.1 
+
+(a) Band locations determined using a centroid method with a band fraction of 0.1; see Figure 2 for band identification. 
+(b) The  listed  uncertainties  represent  the  expanded  uncertainty (U95 %)  calculation  (k = 3.184)  in  accordance  with  reference 10.  
+The  certified  values  represent  the  mean  band  locations  from  three  scanning  dispersive  spectrometer  systems  and  one 
+FT spectrometer  system  and  the  measurand  is  the  band  location  at  1 nm  and  3 nm  SSW.    The  certified  values  are 
+metrologically traceable to the SI unit of meters, expressed as nanometers. 
+
+ 
+ 
+ 
+ 
+ 
+
+0.6 
+
+0.5 
+
+0.4 
+
+0.3 
+
+0.2 
+
+0.1   
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+  
+
+  
+
+1000 
+
+1250 
+
+1500 
+
+1750 
+
+2000 
+
+2250 
+
+2500
+
+Wavelength  (nm) 
+
+ 
+
+ 
+
+Figure 2.  NIR Absorbance Spectrum of SRM 2035a in Air Wavelength with Band Locations Indicated. 
+
+SRM 2035a 
+
+  
+
+Page 5 of 7 
+
+Table 3.  Certified Values for UV-Vis Peak Locations(a) and Uncertainties(b) for Air Wavelength. 
+
+1 nm SSW 
+Peak Location 
+(nm) 
+
+3 nm SSW 
+Peak Location 
+(nm) 
+
+804.1   
+
+747.7   
+
+642.5   
+
+583.4   
+
+537.9   
+
+485.4   
+
+418.0   
+
+402.4   
+
+386.1   
+
+374.5   
+
+361.3   
+
+345.6   
+
+334.3   
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+Peak 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+804.2   
+
+747.7   
+
+642.5   
+
+583.4   
+
+537.7   
+
+485.6   
+
+417.9   
+
+402.6   
+
+386.2   
+
+374.7   
+
+360.8   
+
+345.3   
+
+334.6   
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+0.1 
+
+ 
+
+(a) Peak locations determined using a five-point cubic polynomial fit; see Figure 3 for band identification. 
+(b) The listed uncertainties represent the expanded uncertainty (U95 %) calculation (k = 2) in accordance with reference 10.  For the 
+Type A  component,  a  pooled  uncertainty  was  estimated  across  all  peaks.    The  certified  values  represent  the  mean  band 
+locations from four scanning dispersive spectrometer systems and the measurand is the band location at 1 nm and 3 nm SSW.  
+The certified values are metrologically traceable to the SI unit of meters, expressed as nanometers. 
+
+90 
+
+ 
+T
+
+80 
+
+ 
+T
+
+ 
+T
+
+ 
+T
+
+T
+
+ 
+T
+
+   
+
+40 
+
+30 
+
+20 
+
+10 
+
+ 
+)
+%
+(
+
+ 
+e
+c
+n
+a
+t
+t
+i
+m
+s
+n
+a
+r
+T
+
+16 
+
+19 
+
+20 
+
+  
+
+  
+
+11 
+
+  
+
+350 
+
+400 
+
+450 
+
+500 
+
+550 
+
+600 
+
+650 
+
+700 
+
+750 
+
+800
+
+Wavelength  (nm) 
+
+ 
+
+Figure 3.  UV-Vis Absorbance Spectrum of SRM 2035a in Air Wavelength with Peak Locations Indicated. 
+
+SRM 2035a 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1]  Ciddor, P.E.; Refractive Index of Air: New Equations for the Visible and Near Infrared; Appl. Opt., Vol. 35(9), 
+
+pp. 1566–1573 (1996). 
+
+[2]  ASTM E 1421-99;  Standard  Practice  for  Describing  and  Measuring  Performance  of  Fourier  Transform 
+Mid-Infrared (FT-MIR)  Spectrometers,  Level  Zero  and  Level  One  Tests;  Annu.  Book  ASTM  Stand., 
+Vol 03.06, (2009). 
+
+[3]  Cameron, D.G.;  Kauppinen, J.K.;  Moffatt, D.J.;  Mantsch, H.H.;  Precision  in  Condensed  Phase  Vibrational 
+
+Spectroscopy; Appl. Spectrosc, Vol. 36(3), pp. 245–250 (1982). 
+
+[4]  Zhu, C.J.; Hanssen, L.M.; Absorption Line Evaluation Methods for Wavelength Standards; In Proceedings of 
+
+the SPIE 3425, Vol. 3425, pp. 111–118 (1998). 
+
+[5]  Zhu, C.J.; Hanssen, L.M.; Studies of a Polystyrene Wavenumber Standard for Infrared Spectrophotometry; In 
+Proceedings of the 11th International Conference on Fourier Transform Spectroscopy, Vol. 430, pp. 491–494 
+(1998). 
+
+[6]  Choquette, S.J.; Duewer, D.L.; Hanssen, L.M.; Early, E.A.;  Standard  Reference  Material 2036 Near-infrared 
+
+Reflection Wavelength Standard; Appl. Spectrosc, Vol. 59(4), pp. 496–504 (2005). 
+
+[7]  Choquette, S.J.;  Travis, J.C.;  Duewer, D.L.;  SRM 2035:  A  Rare  Earth  Oxide  Glass  for  the  Wavelength 
+Calibration  of  Near  Infrared  Dispersive  and  Fourier  Transform  Spectrometers;  In  Proceedings  of  the  SPIE 
+Conference  on  Optical  Diagnostic  Methods  for  Inorganic  Transmissive  Materials,  Vol. 3425,  pp. 94–102 
+(1998). 
+
+[8]  Duewer, D.L.;  Choquette, S.J.;  O'Neal, L.;  Filliben, J.J.;  Rare-earth  Glass  Reference  Materials 
+
+for 
+Near-infrared  Spectrometry:  Sources  of  x-axis  Location  Variability;  Anal.  Chimica  Acta,  Vol. 490(1-2), 
+pp. 85–98 (2003). 
+
+[9]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed March 2014). 
+
+[10]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in  Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed March 2014); see also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed March 2014). 
+
+[11]  Dersimonian, R.;  Laird, N.;  Meta-analysis  in  clinical  trials;  Controlled  Clin.  Trials,  Vol. 7,  pp. 177–188 
+
+[12]  Horn, S.D.;  Horn, R.A.;  Duncan, D.B;  Estimating  Heteroscedastic  Variances  in  Linear-models;  J.  Am.  Stat. 
+
+Assoc., Vol. 70(350), pp. 380–385 (1975). 
+
+[13]  Rukhin, A.L.;  Weighted  Means  Statistics  in  Interlaboratory  Studies;  Metrologia,  Vol. 46(3),  pp. 323–331 
+
+(1986). 
+
+(2009). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    06 March 2014  (Added  certified  values  for  UV-Vis  peak  locations  and  uncertainties;  editorial  changes); 
+04 May 2012 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail srminfo@nist.gov;  or  via  the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2035a 
+
+Page 7 of 7 
+
+

@@ -1,0 +1,671 @@
+﻿NUST
+
+Date of Issue: 
+26 July 2019 
+ 
+
+ 
+Standard Reference Material 1565 
+Mycotoxins in Corn 
+CERTIFICATE OF ANALYSIS 
+
+ 
+
+Purpose:  This Standard Reference Material (SRM) is intended for validation of methods for determining mycotoxins 
+in corn and similar materials. 
+ 
+Description:  A unit of SRM 1565 consists of one bottle each of two materials: low level or blank corn and incurred 
+corn with native levels of mycotoxins.  Each bottle contains approximately 60 g of ground corn. 
+ 
+Certified Value:  A certified value is provided in Table 1.  A NIST certified value is a value for which NIST has the 
+highest  confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  fully  investigated  or 
+accounted for by NIST. 
+ 
+A certified mass fraction value for ochratoxin A in SRM 1565, reported on an as-received basis, is provided in Table 1.  
+This  value  was  assigned  based  upon  measurements  made  at  NIST  and  the  United  States  Food  and  Drug 
+Administration (FDA) using established methods [1–3] and includes data from collaborating laboratories participating 
+in a NIST-conducted interlaboratory study [4].  This value is traceable to the SI measurement unit for chemical mass 
+fraction, expressed as nanograms per gram. 
+ 
+
+Table 1.  Certified Mass Fraction Value for Ochratoxin A in SRM 1565 Mycotoxins in Corn (Incurred)(a) 
+
+ 
+
+Measurand 
+
+Mass Fraction 
+(ng/g) 
+
+Ochratoxin A 
+
+ 
+
+9.4  ±  1.2 
+
+(a)  Certified values are expressed as x ± U95(x), where x is the value and U95(x) is the expanded uncertainty of the value.  The 
+true value of the measurand lies within the interval x ± U95(x) with 95 % confidence.  A certified value can be regarded as a 
+normally distributed random variable with mean x and standard deviation U95%(x)/2 [5]. 
+
+ 
+ 
+ 
+Expiration of Certification:  The certification of SRM 1565 is valid, within the measurement uncertainty specified, 
+until  01 August 2024,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division  
+ 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+SRM 1565 
+
+Page 1 of 6 
+
+ 
+
+ 
+ 
+
+Non-Certified Values:  Non-certified values are listed in Tables 2 and 3 for additional mycotoxins in SRM 1565.  
+These non-certified values are the best current estimates based on available data but they do not meet the NIST criteria 
+for certification.  The associated uncertainties may not include all sources of bias and variability.  These values were 
+derived  from  results  reported  by  NIST  and/or  FDA  using  established  methods  [1–3]  and  include  data  from 
+collaborating laboratories participating in a NIST-conducted interlaboratory study [4].  These values are traceable to 
+the measurement processes and standards used by NIST, FDA, and the study participants. 
+ 
+
+a)
+Table 2.  Non-Certified Mass Fraction Values for Mycotoxins in SRM 1565 (Blank)(a) 
+
+Measurand 
+
+Deoxynivalenol(b,c,d) 
+
+4C,d) 
+
+Fumonisin B1
+
+(c,d) 
+
+Mass Fraction 
+(ng/g) 
+g) 
+
+ 
+
+ 
+
+142 
+
+±  36 
+
+10.4  ±  3.9 
+
+(a)  Assigned values are expressed as x ± U95(x), where x is the value and U95(x) is the expanded uncertainty of the value.  The 
+best estimated value of the measurand lies within the interval x ± U95(x) with 95 % confidence.  The assigned value can be 
+regarded as a normally distributed random variable with mean x and standard deviation U95%(x)/2 [5]. 
+
+X 
+
+x 
+
+(b)  NIST ID-LC-MS/MS 
+(c)  FDA ID-LC-MS/MS 
+(d)  Collaborating laboratories reporting methods as described in Appendix B. 
+ 
+ 
+
+Table 3.  Non-Certified Mass Fraction Values for Mycotoxins in SRM 1565 (Incurred)(a) 
+
+Mass Fraction 
+(ng/g) 
+g) 
+
+7.5  ± 
+
+1.7 
+
+1.43  ± 
+
+0.34 
+
+0.98  ± 
+
+0.19 
+
+0.87  ± 
+
+0.24 
+
+10.2  ± 
+
+2.9 
+
+467 
+
+805 
+
+217 
+
+±  67 
+
+±  190 
+
+±  30 
+
+99.3  ± 
+
+8.4 
+
+1150 
+
+±  169 
+
+38.2  ± 
+
+6.0 
+
+18.4  ± 
+
+4.2 
+
+61 
+
+±  36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Measurand 
+
+Aflatoxin B1
+
+(b,c,d) 
+1) 
+
+Aflatoxin B2
+
+(b,c,d) 
+1) 
+
+Aflatoxin G1
+
+(b,c,d) 
+1) 
+
+Aflatoxin G2
+
+(b,d) 
+
+Total Aflatoxins(b,d) 
+1) 
+
+Deoxynivalenol(b,c,d) 
+1) 
+
+Fumonisin B1
+
+(c,d) 
+
+Fumonisin B2
+
+(c,d) 
+
+Fumonisin B3
+
+(c,d) 
+
+Total Fumonisins(c,d) 
+1) 
+
+HT-2 Toxin(c,d) 
+1) 
+
+T-2 Toxin(c,d) 
+1) 
+
+Zearalenone(b,c,d) 
+1) 
+
+ 
+
+(a)  Assigned values are expressed as x ± U95(x), where x is the value and U95(x) is the expanded uncertainty of the value.  The 
+best estimated value of the measurand lies within the interval x ± U95(x) with 95 % confidence.  The assigned value can be 
+regarded as a normally distributed random variable with mean x and standard deviation U95%(x)/2 [5]. 
+
+(b)  NIST ID-LC-MS/MS 
+(c)  FDA ID-LC-MS/MS 
+(d)  Collaborating laboratories reporting methods as described in Appendix B. 
+
+SRM 1565 
+
+ 
+
+Page 2 of 6 
+
+ 
+
+SUPPLEMENTAL INFORMATION 
+
+  
+
+)
+
+%
+
+(
+ 
+y
+t
+i
+s
+n
+e
+D
+ 
+e
+m
+u
+l
+o
+V
+
+8
+
+6
+
+4
+
+2
+
+0
+
+    
+  
+
+NN 
+
+1
+
+10
+
+100
+
+1000
+
+n) 
+Size Class (μm)
+
+ 
+ 
+ 
+Figure 1.  The mean particle sizes of the blank and incurred 
+corns  were  evaluated  using  a  Malvern  Mastersizer  3000 
+(Westborough, MA).  Corn samples (approximately 0.5 g) 
+were  dispersed  in  ethanol  and  all  measurements  were 
+background  corrected.    The  average  particle  size  for 
+SRM 1565  (Blank)  (solid  line)  was  determined  to  be 
+588 µm with a standard deviation of 17 µm (n = 10).  For 
+SRM 1565  (Incurred)  (dashed  line),  the  average  particle 
+size was determined to be 676 µm with a standard deviation 
+of 92 µm (n = 10). 
+ 
+ 
+ 
+ 
+
+ts  of 
+
+bottles 
+
+ 
+ 
+Storage  and  Handling:    The  original  unopened  bottles  of  SRM 1565  should  be  stored  at  room  temperature 
+room  temperature
+(20 °C ± 5 °C).  An open bottle can be reused until the material reaches its expiration date, provided that the open 
+bottle is resealed and stored at room temperature (20 °C ± 5 °C). 
+ 
+Use:    Before  use,  the  contents  of  the  unopened  bottle  should  be  mixed  thoroughly  by  inverting  and/or  rolling.  
+Homogeneity of the material has not been evaluated for sample sizes smaller than those used by NIST or FDA methods 
+described below.  Therefore, the certified and non-certified values may not be valid for test portions smaller than those 
+described  in  the  subsequent  sections:    1 g  for  determination  of  fumonisin B1,  fumonisin B2,  fumonisin B3, 
+deoxynivalenol,  zearalenone,  T-2 toxin,  and  HT-2 toxin,  and  5 g  for  determination  of  aflatoxin B1,  aflatoxin B2, 
+aflatoxin G1, aflatoxin G2, total aflatoxins, and ochratoxin A.  Results obtained should include their own estimates of 
+uncertainty and can be compared to the certified values using procedures described in reference 6. 
+ 
+Safety:  SRM 1565 is intended for research use; not for human consumption. 
+ 
+Source and Preparation:  The SRM is a blend of ground corns.  Approximately 70 kg of blank whole kernels of 
+corn were collected from various markets in Maryland.  Approximately 14 kg of homogenized ground contaminated 
+corn were collected from FDA Office of Regulatory Science, Center for Food Science and Nutrition (CFSAN), US 
+Department of Agriculture Federal Grain Inspection Service (USDA FGIS, Kansas City, MO), and from Trilogy Labs 
+(Washington, MO).  All materials were transferred directly from the FDA/CFSAN (College Park, MD) to the NIST 
+Cryogenic Reference Material Production Facility (CRMPF, Charleston, SC).  Whole kernels were cryohomogenized 
+twice in a Palla STC Vibrating Cryomill (KHD Humboldt Wedag, Cologne, Germany) maintained at –180 °C for the 
+duration of the process [7].  The contaminated corn (14 kg) was mixed with 28 kg of homogenized blank corn using 
+a  rotating  blender  then  packaged  in  60  g  aliquots  into  amber  bottles.    The  particle  size  distributions  of  the  final 
+packaged units of SRM 1565 were evaluated and are described in Figure 1.  The remaining blank corn was mixed and 
+packaged in 60 g aliquots into amber bottles.  The final packaged units of SRM 1565 were irradiated to an absorbed 
+dose of 11.9 kGy to 18.7 kGy by Neutron Products (Dickerson, MD). 
+ 
+Analytical Approach for Determination of Mycotoxins:  Value assignment of the mass fractions of mycotoxins in 
+SRM 1565  was  based  on  the  combination  of  measurements  made  by  NIST  using  isotope  dilution  liquid 
+chromatography  with  tandem  mass  spectrometry (ID-LC-MS/MS),  by  FDA  using  ID-LC-MS/MS,  and  by 
+collaborating  laboratories,  where  available.    Methods  reported  by  collaborating  laboratories  are  described  in 
+Appendix B. 
+ 
+NIST  Analyses  for  Aflatoxin  B1,  Aflatoxin  B2,  Aflatoxin  G1,  Aflatoxin  G2,  Total  Aflatoxins,  Deoxynivalenol, 
+Ochratoxin A, and Zearalenone Using ID-LC-MS/MS [1]:  Mass fractions of aflatoxin B1, aflatoxin B2, aflatoxin G1, 
+aflatoxin G2, total aflatoxins, and ochratoxin A were measured by ID-LC-MS/MS in duplicate 5.0 g test portions taken 
+from  each  of  10 bottles  of  SRM 1565  using  the  internal  standards  listed  in  reference  2.    Mass  fractions  of 
+deoxynivalenol and zearalenone were measured by ID-LC-MS/MS in duplicate 1.0 g test portions taken from each of 
+10 bottles of SRM 1565 using the internal standards listed in reference 2.  Each sample was hydrated with a volume 
+of water and mycotoxins were extracted into 50:50 (volume fraction) water:acetonitrile using a large capacity mixer.  
+Samples  were  centrifuged  and  filtered,  and  an  aliquot  of  the  supernatant  was  analyzed  by  positive-ion  mode 
+ID-LC-MS/MS.  A gradient method with an ammonium formate buffer/methanol mobile phase and a C18 column 
+
+SRM 1565 
+
+ 
+
+Page 3 of 6 
+
+ 
+
+were used for ID-LC-MS/MS determination of the mycotoxins.  Calibrants were prepared gravimetrically, at levels 
+intended to approximate the levels of the mycotoxins in the SRM following extraction.  The same internal standard 
+solutions  containing  stable  isotope  labeled  mycotoxins  were  used  for  spiking  the  calibrants  and  samples.    The 
+calibration  solutions  used  for  value  assignment  of  aflatoxin  B1,  aflatoxin  B2,  aflatoxin  G1,  aflatoxin  G2, 
+deoxynivalenol,  and  zearalenone  were  prepared  using  Certified  Reference  Materials  (CRMs)  from  the  European 
+Commission Joint Research Centre (EC-JRC, Geel, Belgium).  The calibration solutions used for value assignment of 
+ochratoxin A were prepared using a CRM from the National Research Council Canada (NRCC, Ottawa, ON).  The 
+analyte and internal standard transitions monitored for ID-LC-MS/MS are listed in reference 3. 
+ 
+FDA  Analyses  for  Aflatoxin  B1,  Aflatoxin  B2,  Aflatoxin  G1,  Deoxynivalenol,  Fumonisin  B1,  Fumonisin  B2, 
+Fumonisin B3, Total Fumonisins, T-2 Toxin, HT-2 Toxin, and Zearalenone Using ID-LC-MS/MS [2]:  Mass fractions 
+of aflatoxin B1, aflatoxin B2, and aflatoxin G1 were measured by ID-LC-MS/MS in duplicate 5.0 g test portions taken 
+from  each  of  10 bottles  of  SRM 1565  using  the  internal  standards  listed  in  reference  2.    Mass  fractions  of 
+deoxynivalenol, fumonisin B1, fumonisin B2, fumonisin B3, total fumonisins, T-2 toxin, HT-2 toxin, and zearalenone 
+were measured by ID-LC-MS/MS in duplicate 1.0 g test portions taken from each of 10 bottles of SRM 1565 using 
+the internal standards listed in reference 2.  Each sample was extracted into 50:50 (volume fraction) water:acetonitrile 
+using a large capacity mixer.  Samples were centrifuged and filtered, and an aliquot of the supernatant was analyzed 
+by positive-ion mode ID-LC-MS/MS.  A gradient method with an ammonium formate buffer/methanol mobile phase 
+and a C18 column were used for ID-LC-MS/MS determination of the mycotoxins.  The analyte and internal standard 
+transitions monitored for ID-LC-MS/MS are listed in reference 3. 
+ 
+Collaborating Laboratories’ Analyses:  Collaborating laboratories were asked to use their usual methods to make 
+measurements  on  three  test  portions  taken  from  one  bottle  each  of  SRM 1565  Mycotoxins  in  Corn (Blank)  and 
+SRM 1565  Mycotoxins  in  Corn (Incurred).    Methods  reported  by  collaborating  laboratories  are  described  in 
+Appendix B. 
+ 
+Homogeneity Assessment:  The homogeneity of mycotoxins in the SRM was assessed at NIST and FDA using the 
+methods  and  test  portion  sizes  described  in  this  certificate  (see  “Instructions  for  Storage  and  Use”).    Analysis  of 
+variance at a 5 % significance did not show statistically significant heterogeneity. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips 
+of the NIST Chemical Sciences Division.  Analytical measurements at NIST were performed by T.M. López Seal and 
+J.M. Ness of the NIST Chemical Sciences Division.  Analytical measurements at FDA were performed by K. Zhang 
+of the FDA/CFSAN.  Analysts at many collaborating laboratories (Appendix A) analyzed SRM 1565 as part of an 
+exercise  of  the  NIST  Health  Assessment  Measurements  Quality  Assurance  Program  (HAMQAP).    Preparation, 
+blending, and packaging of the SRM was conducted by A.J. Moors, J.M. Ness, J. Trevillian, and D.L. Ellisor of the 
+NIST Chemical Sciences Division.  Statistical analysis was provided by H.K. Liu of the NIST Statistical Engineering 
+Division.    Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of 
+Reference Materials. 
+ 
+ 
+
+ 
+
+SRM 1565 
+
+ 
+
+Page 4 of 6 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Phillips, M.M.;  López  Seal, T.M.;  Ness, J.M.;  Zhang, K.;  Development  and  Characterization  of  a  Multi-
+Mycotoxin  Reference  Material;  J.  AOAC  Int.  (2019)  available  at  https://doi.org/10.5740/jaoacint.19-0109 
+(accessed July 2019). 
+
+[2]  Zhang, K.;  Schaab, M.R.;  Southwood, G.;  Tor, E.R.;  Aston, L.S.;  Song, W.;  Eitzer, B.;  Majumdar, S.; 
+Lapainis, T.;  Mai, H.;  Tran, K.;  El-Demerdash, A.;  Vega, V.;  Cai, Y.;  Wong, J.W.;  Krynitsky, A.J.; 
+Begley, T.H.; A Collaborative Study: Determination of Mycotoxins in Corn, Peanut Butter, and Wheat Flour 
+Using  Stable  Isotope  Dilution  Assay  (SIDA)  and  Liquid  Chromatography−Tandem  Mass  Spectrometry 
+(LC-MS/MS); J. Agric. Food Chem., Vol. 65, pp. 7138–7152 (2017). 
+
+[3]  Zhang, K.; Wong, J.W.; Krynitsky, A.J.; Trucksess, M.W.; Determining mycotoxins in baby foods and animal 
+feeds using stable isotope dilution and liquid chromatography tandem mass spectrometry; J. Agric. Food Chem., 
+Vol. 62, pp. 8935−8943 (2014). 
+
+[4]  Barber, C.A.;  Benner,  Jr., B.A.;  Thomas, J.B.;  Burdette, C.Q.;  Camara, J.;  Long, S.E.;  Murray, J.A.; 
+Phillips, M.M.;  Place, B.J.;  Rimmer, C.A.;  Wood, L.J.;  Yu, L.L.;  Chinthalapati, S.K.R.;  Tai, S.S.-C.;  NIST 
+Health  Assessment  Measurements  Quality  Assurance  Program:  Exercise  1  Final  Report,  NIST  Interagency 
+Report  8237,  National  Institute  of  Standards  and  Technology,  Gaithersburg, MD  (2019);  available  at 
+https://doi.org/10.6028/NIST.IR.8237 (accessed July 2019). 
+JCGM 101:2008; Evaluation of Measurement Data — Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement-Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures (BIPM),  Sèvres, France  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed July 2019). 
+
+[5] 
+
+[6]  Sharpless, K.E.; Lippa, K.A.; Duewer, D.L.; Rukhin, A.L. The ABCs of Using Standard Reference Materials in 
+the Analysis of Foods and Dietary Supplements: A Practical Guide; NIST Special Publication 260-181; National 
+Institute 
+at 
+https://doi.org/10.6028/NIST.SP.260-181 (accessed July 2019). 
+
+Gaithersburg, MD 
+
+Technology, 
+
+Standards 
+
+available 
+
+(2014); 
+
+and 
+
+of 
+
+[7]  Moors, A.J.; Pugh, R.S.; Evans, J.R.; Ness, J.M.; Ellisor, D.L.; Bachman, M.J.; Standard Operation Procedures 
+‘ion  Procedures 
+(SOPs) for the Palla VM-KT Vibrating Cryomill: Production of Fresh Frozen Standard Reference and Control 
+Materials (SRMs/CMs) at the NIST Reference Material Production Facility; NIST Special Publication 1196; 
+at 
+of  Standards 
+National 
+https://doi.org/10.6028/NIST.SP.1196 (accessed July 2019). 
+
+and  Technology,  Gaithersburg, MD 
+
+available 
+
+Institute 
+
+(2016); 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certain  commercial  equipment,  instruments,  or  materials  may  be  identified  in  this  Certificate  of  Analysis  to 
+to
+adequately specify the experimental procedure.  Such identification does not imply recommendation or endorsement 
+by the National Institute of Standards and Technology, nor does it imply that the materials or equipment identified 
+are necessarily the best available for the purpose. 
+ 
+NIST  will  monitor  this  SRM  until  its  certification  expires.    If  substantive  technical  changes  occur  that  affect  the 
+certified values before this certificate expires, NIST will notify the purchaser.  Registration (see attached sheet or 
+register online) will facilitate notification. 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  Contact the Office of 
+Reference Materials 100 Bureau Drive, Stop 2300, Gaithersburg, Maryland 20899-2300; telephone (301) 975-2200; 
+fax (301) 948-3730; e-mail srminfo@nist.gov; or the Internet at https://www.nist.gov/srm. 
+ 
+
+may  be 
+
+ 
+
+SRM 1565 
+
+ 
+
+Page 5 of 6 
+
+APPENDIX A 
+
+ 
+Collaborating Laboratories Contributing Data to Value Assignment of SRM 1565: 
+ 
+Academy of State Administration of Grain, China (Beijing, China) 
+Canadian Food Inspection Agency (Ottawa, ON, Canada) 
+Center for Analytical Chemistry, Department IFA-Tulln, BOKU Vienna (Tulln, Austria) 
+Dyad Labs (Salt Lake City, UT) 
+First Source Laboratory Solutions LLP (Hyderabad, TELANGANA, India) 
+HVL, LLC (Pittsburgh, PA) 
+International  Food  Safety  Training  Laboratory,  Joint  Institute  for  Food  Safety  and  Applied  Nutrition  (JIFSAN) 
+
+(College Park, MD) 
+
+ISURA (Burnaby, BC, Canada) 
+Laboratorio de Referencia de Alimentos y Aguas, Instituto Conmemorativo Gorgas (Panamá) 
+LACQSA/Lanagro-MG (Belo Horizonte, Minas Gerais, Brazil) 
+National  Institute  for  Quality  Control  in  Health,  Oswaldo  Cruz  Foundation  (INCQS,  FIOCRUZ)  (Rio  de  Janeiro, 
+
+National Institute of Industrial Technology (INTI), Toxicology and Nutrition Laboratory (San Martín, Buenos Aires, 
+
+Brazil) 
+
+Argentina) 
+
+National Metrology Institute of South Africa, Organic Analysis Section (Pretoria, South Africa) 
+National Referral Laboratory, ICAR-National Research Centre for Grapes (Pune, Maharashtra, India) 
+Natural Remedies (Bangalore, Karnataka, India) 
+Nature's Way (Green Bay, WI) 
+OMIC USA Inc. (Portland, OR) 
+SGS Canada Inc (Burnaby, BC, Canada) 
+Silliker JR Laboratories ULC (Burnaby, BC, Canada) 
+Taiwan Food and Drug Administration (Nangang, Taipei, Taiwan, Province of China) 
+Technological Laboratory of Uruguay (Montevideo, Uruguay) 
+US  Food  and  Drug  Administration,  Office  of  Regulatory  Affairs,  Southeast  Food  and  Feed  Laboratory  (SFFL) 
+
+US  Food  and  Drug  Administration,  Center  for  Food  Safety  and  Applied  Nutrition,  Office  of  Regulatory  Science 
+
+US  Department  of  Agriculture,  Federal  Grain  Inspection  Service,  Technology  and  Science  Division  (Kansas 
+
+(Atlanta, GA) 
+
+(College Park, MD) 
+
+City, MO) 
+
+Weck Laboratories, Inc. (City of Industry, CA) 
+ 
+ 
+
+ 
+Methods Reported by Collaborating Laboratories 
+ 
+
+Analyte(s) 
+
+Method 
+
+APPENDIX B 
+
+Aflatoxins 
+
+LC-MS/MS; LC-fluorescence; Enzyme-linked immunosorbent assay (ELISA) 
+
+Fumonisins 
+
+LC-MS/MS; LC-fluorescence 
+
+Deoxynivalenol 
+
+LC-MS/MS; LC-absorbance; Gas chromatography with electron capture detection (GC-ECD) 
+
+Zearalenone 
+
+LC-MS/MS; LC-fluorescence 
+
+Ochratoxin A 
+
+LC-MS/MS; LC-fluorescence 
+
+HT-2 Toxin 
+
+LC-MS/MS 
+
+T-2 Toxin 
+
+LC-MS/MS; LC-absorbance 
+
+ 
+
+ 
+ 
+
+SRM 1565 
+
+ 
+
+Page 6 of 6 
+
+

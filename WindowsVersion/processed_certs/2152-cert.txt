@@ -1,0 +1,103 @@
+﻿bot 
+U.  S.  Departmentof  Commerce 
+alcoln#  Baldrige 
+peceplary 
+  
+
+National  Bureaw 
+of  Standards 
+Ernest  ‘Ambler.  Director 
+eet  ee 
+ae 
+
+  
+
+ant  of  Standards 
+
+Wertificate 
+
+Standard  Reference  Material  2152 
+
+Urea 
+
+Combustion  Calorimetric  Standard 
+
+This  Standard  Reference  Material  (SRM)  consists  of  twenty-five  grams  of  commercially  prepared  high-purity  urea. 
+SRM  2152  is  intended  for  use  in  checking  the  suitability  of  apparatus,  analytical  procedures,  and  calculations  involved  in 
+oxygen-bomb  calorimetry  of  substances  containing  more  than  15  weight-percent  nitrogen. 
+The  certified  value  for  the  quantity  of  heat  evolved  by  combustion  of  a  sample  of  this  material  in  an  oxygen-bomb 
+calorimeter  is: 
+
+10.536  +  0.003  MJ/kg. 
+
+The  uncertainty  of  the  certified  value  is  two  standard  deviations  of  the  mean. 
+
+The  certified  value  is  for  the  following  reaction  at  25  °C. 
+
+CH,4ON2(c)  +  1.5  O2(g)  —» 
+
+COr(g)  +  No(g)  +  2  H2O(liq). 
+
+Bomb  Conditions: 
+(1)  The  SRM  must  be  crushed  to  a  powder  and  dried  for  24  hours  at  85°C:  It  may  be  stored  at  room  temperature  ina 
+
+closed  container.  The  dried  material  must  be  pressed  into  a  pellet  before  placing  in  the  bomb. 
+
+(2)  The  mass  of  sample,  in  grams,  is  equal  to  7  times  the  volume  of  the  bomb  in  liters. 
+(3)  The  mass  of  benzoic  acid,  used  as  an  auxiliary  for  ignition,  is  2.0  percent  of  the  mass  of  sample. 
+(4)  The  mass  of  water  in  grams,  initially  placed  in  the  bomb,  is  equal  to  30  times  the  volume  of  the  bomb  in  liters. 
+(5)  The  pelletized  material  is  burned  in  a  bomb  of  constant  volume  filled  with  pure  oxygen  at  a  pressure  of  30 
+
+atmospheres  measured  at  25  °C. 
+
+Recommended  Procedures: 
+
+(1)  The  ignition  energy  must  be  determined  in  a  separate  experiment. 
+(2)  The  quantity  of  nitric  acid  produced  in  the  combustion  is  determined  by  titration  of  the  bomb  solution  with  standard 
+alkali.  The  energy  of  decomposition  of  nitric  acid  into  nitrogen  (gas)  and  water  (liquid)  was  taken  as  59kJ/mol.  The 
+energy  contributed  by  combustion  of  benzoic  acid  was  taken  as  26.434  MJ/kg. 
+
+(3)  The  energy  evolved  by  the  actual  bomb  process,  AUs,  must  be  corrected  to  that  for  the  ideal  process,  AUé,  by  the 
+method  of  Prosen  [1],Hubbard,  Scott,  and  Waddington  [2],  or  M2nsson  and  Hubbard  [3].  For  further  information 
+regarding  procedures  in  the  calibration  of  combustion  bomb  calorimeters,  the  discussions  by  Coops,  Jessup,  and 
+Van  Nes  [4]  and  Mosselman  and  Churney  [5]  should  be  consulted. 
+
+The  measurements  were  performed  and  analyzed  in  the  Thermochemical  Measurements  and  Standards  Section  by 
+W.H.  Johnson,  under  the  technical  direction  of  G.T.  Armstrong. 
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  L.J.  Kieffer  and  T.W.  Mears. 
+
+January  14,  1985 
+Gaithersburg,  MD  20899 
+
+  
+  
+
+{over}
+
+  
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+References 
+
+[1]  Prosen,  E.J.,  Chapter  5,  Experimental  Thermochemistry,  F.D.  Rossini,  Editor,  (Interscience  Publishers,  Inc.,  New 
+
+York,  1956). 
+
+[2]  Hubbard,  W.N.,  Scott,  D.W.,  and  Waddington,  G.,  J.  Phys.  Chem.  38,  152  (1954). 
+
+.  [3]  Mansson,  M.,  and  Hubbard,  W.N.,  Chapter  5,  Combustion  Calorimetry,  S.  Sunner  and  M.  Mansson,  Editors, 
+
+(Pergamon  Press,  New  York,  1979}. 
+
+[4]  Coops,  J.,  Jessup,  R.S.,  and  Van  Nes,  K.,  Chapter  3,  Experimental  Thermochemistry,  F.D.  Rossini,  Editor, 
+
+(Interscience  Publishers,  Inc.,  New  York,  1956). 
+
+[5]  Mosselman,  C.,  and  Churney,  K.L.,  Chapter  3,  Combustion  Calorimetry,  S.  Sunner  and  M.  Mansson,  Editors, 
+
+(Pergamon  Press,  New  York,  1979).
+
+

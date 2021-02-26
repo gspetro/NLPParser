@@ -1,0 +1,551 @@
+﻿Ot  Con, 
+
+s  x 
+
+é 
+Snares 
+
+ 
+
+ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+ 
+Standard Reference Material 2377 
+ 
+Fatty Acid Methyl Esters in 2,2,4-Trimethylpentane 
+ 
+
+is  a  solution  of  26 fatty  acid  methyl  esters (FAMEs) 
+
+in 
+This  Standard  Reference  Material (SRM) 
+2,2,4-trimethylpentane.  This SRM is intended primarily for use in the calibration of chromatographic instrumentation 
+used  for  the  determination  of  FAMEs.    A  unit  of  SRM 2377  consists  of  five  2-mL  ampoules,  each  containing 
+approximately 1.2 mL of solution. 
+ 
+Certified Mass Fractions of Constituents:  The certified mass fraction values and estimated uncertainties for the 
+26 FAMEs are given in Table 1 along with the Chemical Abstract Service (CAS) Registry Numbers.  The certified 
+mass fraction values are based on masses used in the gravimetric preparation of this solution and from the analytical 
+results determined by using gas chromatography.  A NIST certified value is a value for which NIST has the highest 
+confidence  in  its  accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into 
+account [1].  The measurand is the total mass fraction for each fatty acid methyl esters.  Metrological traceability is to 
+the SI derived unit for mass faction (expressed as milligrams per gram). 
+ 
+Expiration of Certification:  The certification of SRM 2377 is valid, within the measurement uncertainty specified, 
+until 30 June 2023, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Handling,  Storage,  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified.  
+ 
+fication.  If  substantive 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+sre  performed  by
+Overall  direction  and  coordination  of  technical  measurements  leading  to  certification  were  performed  by 
+M.M. Schantz and L.C. Sander of the NIST Chemical Sciences Division. 
+ 
+Preparation and analytical measurements of the SRM were performed by M.M. Schantz. 
+ 
+Statistical consultation was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  10 February 2017 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+SRM 2377 
+
+Page 1 of 4 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material should be handled with care.  Use proper disposal methods. 
+ 
+Storage:  The material should be stored under refrigeration (0 °C to 4 °C), in an unopened ampoule, until required for 
+use.   
+ 
+Use:  Prior to removal of a test portion for analysis, the contents of an ampoule should be allowed to warm to room 
+temperature and mixed thoroughly.  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately 
+after opening the ampoules and should be processed without delay for the certified values in Table 1 to be valid within 
+the  stated  uncertainties.    Because  of  the  volatility  of  2,2,4-trimethylpentane,  certified  values  are  not  applicable  to 
+material stored in ampoules that have been opened for more than 5 minutes, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+The  compounds  used  in  the  preparation  of  this  SRM  were  obtained  from  commercial  sources.    The  solution  was 
+prepared at NIST by weighing and combining the individual compounds and 2,2,4-trimethylpentane.  The weighed 
+components  were  added  to  the  2,2,4-trimethylpentane  and  mixed  overnight.    The  total  mass  of  this  solution  was 
+measured,  and  the  mass  fractions  were  calculated.    These  gravimetric  concentrations  were  adjusted  for  the  purity 
+estimation  of  each  component,  which  was  determined  by  using  capillary  gas  chromatography  with  two  stationary 
+phases  of  different  polarities.    The  bulk  solution  was  chilled  slightly,  and  1.2 mL  aliquots  were  dispensed  into 
+2-milliliter glass ampoules, which were flushed with argon then flame-sealed. 
+ 
+Aliquots  from  nine  ampoules,  selected  using  a  random  stratified  sampling  scheme,  were  analyzed  in  duplicate  by 
+using  capillary  gas  chromatography  with  flame  ionization  detection (GC-FID)  on  a  relatively  polar  nonbonded, 
+biscyanopropyl polysiloxane phase (SP 2560, 100 m × 0.25 mm id, 0.25 µm film thickness, Supleco, Bellefonte, PA).  
+The internal standard solution added to each sample for quantification purposes contained methyl tridecanoate, methyl 
+heneicosanoate, and methyl octacosanoate.  Calibration solutions consisting of weighed amounts of the 26 FAMEs 
+and  the  internal  standard  compounds  in  2,2,4-trimethylpentane  were  chromatographically  analyzed  to  determine 
+analyte response factors. 
+
+                                                           
+
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2377 
+
+Page 2 of 4 
+
+ass  Fraction
+Table 1. Certified Mass Fraction Values of FAMEs 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+929-77-1 
+
+112-39-0 
+
+112-61-8 
+
+124-10-7 
+
+110-42-9 
+
+111-82-0 
+
+111-11-5 
+
+2442-49-1 
+
+1120-28-1 
+
+1120-25-8 
+
+56219-06-8 
+
+3.66  ±  0.21 
+
+7.11  ±  0.13 
+
+7.38  ±  0.32 
+
+4.28  ±  0.10 
+
+7.68  ±  0.12 
+
+7.93  ±  0.11 
+
+7.499  ±  0.058 
+
+1.894  ±  0.033 
+
+7.286  ±  0.054 
+
+1.807  ±  0.081 
+
+5.031  ±  0.039 
+
+CAS Registry No.(a) 
+
+(Oleic Acid Methyl Ester) 
+
+(Capric Acid Methyl Ester) 
+
+(Behenic Acid Methyl Ester) 
+
+(Palmitic Acid Methyl Ester) 
+
+(Myristic Acid Methyl Ester) 
+
+(Caprylic Acid Methyl Ester) 
+
+Mass Fraction 
+(mg/g)(b)
+
+(Palmitoleic Acid Methyl Ester)   
+
+ 
+ 
+(Myristoleic Acid Methyl Ester)   
+
+FAME 
+Octanoic Acid Methyl Ester  
+ 
+Decanoic Acid Methyl Ester 
+ 
+Dodecanoic Acid Methyl Ester 
+ 
+(Lauric Acid Methyl Ester) 
+Tetradecanoic Acid Methyl Ester 
+ 
+Hexadecanoic Acid Methyl Ester 
+ 
+Octadecanoic Acid Methyl Ester 
+ 
+(Stearic Acid Methyl Ester) 
+Eicosanoic Acid Methyl Ester 
+ 
+(Arachidic Methyl Ester) 
+Docosanoic Acid Methyl Ester 
+ 
+Tetracosanoic Acid Methyl Ester 
+ 
+(Lignoceric acid methyl ester) 
+9-Tetradecenoic Acid Methyl Ester 
+ 
+9-Hexadecenoic Acid Methyl Ester 
+ 
+9-Octadecenoic Acid Methyl Ester 
+ 
+9-trans-Octadecenoic Acid Methyl Ester 
+(Elaidic Acid Methyl Ester) 
+ 
+11-Octadecenoic Acid Methyl Ester 
+ 
+(Vaccenic Acid Methyl Ester) 
+11-trans-Octadecenoic Acid Methyl Ester 
+(trans-Vaccenic Acid Methyl Ester) 
+ 
+9,12-Octadecadienoic Acid Methyl Ester 
+ 
+(Linoleic Acid Methyl Ester) 
+9-trans,12-trans-Octadecadienoic Acid Methyl Ester 
+(Linoelaidic Acid Methyl Ester)   
+ 
+9,12,15-Octadecatrienoic Acid Methyl Ester 
+(alpha-Linolenic Acid Methyl Ester) 
+ 
+6,9,12-Octadecatrienoic Acid Methyl Ester 
+(gamma-Linolenic Acid Methyl Ester) 
+ 
+11-Eicosenoic Acid Methyl Ester 
+ 
+5,8,11,14-Eicosatetraenoic Acid Methyl Ester 
+(Arachidonic Acid Methyl Ester)  
+ 
+5,8,11,14,17-Eicosapentaenoic Acid Methyl Ester 
+ 
+7,10,13,16,19-Docosapentaenoic Acid Methyl Ester 
+ 
+4,7,10,13,16,19-Docosahexaenoic Acid Methyl Ester 
+ 
+(DHA Methyl Ester) 
+13-Docosenoic Acid Methyl Ester 
+ 
+(Erucic Acid Methyl Ester) 
+15-Tetracosenoic Acid Methyl Ester 
+ 
+(Nervonic Acid Methyl Ester) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)  Chemical Abstracts, Fourteenth Collective Index.  Index Guide, American Chemical Society, Columbus, Ohio 2001.   
+(b)  The reference value is a weighted mean of the mass fractions determined by gravimetric and chromatographic measurements [2], corrected for 
+purity.  The uncertainty listed with each value is an expanded uncertainty about the mean [3,4], with coverage factor 2 (approximately 95 % 
+confidence), calculated by combining a between-method variance incorporating inter-method variance following the ISO/JCGM Guide [5]. 
+
+  2566-89-4 
+ 
+  2734-47-6 
+
+ 
+ 
+  2566-97-4 
+
+(Gondolic Acid Methyl Ester) 
+
+(DPA Methyl Ester) 
+
+(EPA Methyl Ester) 
+
+1.426  ±  0.030 
+
+1.919  ±  0.081 
+
+2.368  ±  0.047 
+
+1.74  ±  0.011 
+
+2.046  ±  0.015 
+
+1.796  ±  0.052 
+
+1.511  ±  0.063 
+
+1.526  ±  0.068 
+
+1.621  ±  0.082 
+
+2.204  ±  0.083 
+
+7.33  ±  0.14 
+
+2.31  ±  0.14 
+
+4.26  ±  0.26 
+
+7.01  ±  0.31 
+
+2.02  ±  0.18 
+
+  108698-02-8 
+
+  16326-32-2 
+
+  6198-58-9 
+
+  2733-88-2 
+
+  2566-90-7 
+
+  2390-09-2 
+
+  1120-34-9 
+
+1937-63-9 
+
+1937-62-8 
+
+112-63-0 
+
+301-00-8 
+
+112-62-9 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 2377 
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2017). 
+
+[2]  Dersimonian, R.; Laird N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[3]  Horn, R.A.;  Horn,  S.A.;  Duncan, D.B.;  Estimating  Heteroscedastic  Variance  in  Linear  Models;  J.Am.Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+[4]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[5]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2017);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Feb 2017). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  10 February 2017 (Editorial changes); 14 July 2016 (Change of expiration date; editorial changes); 06 October 2010 
+(Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 2377 
+
+Page 4 of 4 
+
+

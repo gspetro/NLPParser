@@ -1,0 +1,76 @@
+﻿U.S.  Depart  Commerce 
+MalcolneBaldrige 
+
+     [Standards 
+
+  
+Director 
+
+. 
+
+  
+
+National  Bureau  of  Standards 
+
+Cortificate 
+
+Standard  Reference  Material  2220 
+
+Temperature  and  Enthalpy  of  Fusion  § 
+
+-—  Tin 
+
+This  Standard  Reference  Material  (SRM)  consists  of  high  purity  (99.9995  percent)  tin  foil.  SRM  2220  is  intended  for 
+use  in  calibrating  differential  scanning  calorimeters,  differential  thermal  analyzers,  and  similar  instruments. 
+
+The  temperature  and  enthalpy  of  fusion  for  SRM  2220  were  measured  by  differential  scanning  calorimetry.  The  experi- 
+mental  procedure  followed  the  American  Society  for  Testing  and  Materials  (ASTM)  recommended  practices  [1,  2]. 
+The  documentation  for  these  procedures  is  given  in  NBS  Special  Publication  260-99. 
+
+Certified  Values: 
+
+*Heating  rate  of  2.5  K/min 
+
+Melting  Temperature* 
+
+Enthalpy  of  Fusion 
+
+505.08  +  0.39  K 
+
+56.57  £0.10  J/g 
+
+The  certified  values  are  averages  of  measurements  on  twenty  one  specimens  taken  from  nine  different  samples  of  the 
+material.  The  listed  uncertainties  are  three  times  the  estimated  standard  error  of the  certified  values.  These  uncertainties 
+include  contributions  to  variability  from  instrumental  factors,  operating  procedures,  and  effects  of  remounting  the 
+specimens. 
+
+  
+
+Material  Specification:  SRM  2220  is  made  from  tin  foil  (2.5  cm  wide  x  609.6  cm  long  x  0.127  mm  thick).  The  SRM 
+consists  of  a  25.5  mm  square  of  the  tin  foil  from  which  specimens  can  be  cut  easily.  The  SRM  unit  supplied  will  provide 
+approximately  sixty-four  8  mg  test  specimens. 
+
+The  measurements  were  performed  by  S.A.  Sullivan  and  J.E.  Callanan  under  the  technical  direction  of  J.E.  Callanan, 
+both  of  the  NBS  Chemical  Engineering  Sciences  Division. 
+
+Consultation  on  the  statistical  design  of  the  experimental  work  and  statistical  analysis  of  the  data  was  provided  by 
+D.F.  Vecchia  of  the  NBS  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  L.J.  Kieffer. 
+
+References: 
+
+analyzers  E967. 
+
+1.  ASTM  Standard  Practice  for  temperature  calibration  of  differential  scanning  calorimeters  and  differential  thermal 
+
+2.  ASTM  Standard  Practice  for  heat  flow  calibration  of  differential  scanning  calorimeters  E968. 
+
+Gaithersburg,  MD  20899 
+November  15,  1985 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials
+
+

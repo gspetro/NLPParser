@@ -1,0 +1,1848 @@
+﻿ National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2391b 
+
+ 
+
+ 
+PCR-Based DNA Profiling Standard 
+ 
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  standardization  of  forensic  and 
+paternity  quality  assurance  procedures  for  polymerase  chain  reaction  (PCR)-based  genetic  testing  and  for 
+instructional law enforcement or non-clinical research purposes.  SRM 2391b can also be used for quality assurance 
+when assigning values to in-house control materials.  It is not intended for any human or animal clinical diagnostic 
+use.    Note  that  SRM 2391b  is  slightly  modified  from  SRM  2391  in  that  there  is  more  emphasis  on  short  tandem 
+repeats (STRs), and certification of D1S80 has been dropped [1,2], reflecting the growing interest and utility of STRs  
+[3–16].    Additional  information  on  each  STR  locus  can  be  found  at  a  NIST-sponsored  database  on  the  internet: 
+http://www.cstl.nist.gov/biotech/strbase [14]. 
+ 
+This SRM is composed of well-characterized human deoxyribonucleic acid (DNA) in two forms:  genomic DNA 
+(components 1 through 10) and DNA to be extracted from cells that are spotted onto filter paper (components 11  
+and 12).  A unit of SRM 2391b is composed of twelve frozen components packaged in one box.  See the section in 
+this certificate entitled “Description of Components” and Table 1 for a complete listing of the components. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or taken into account [17].  The SRM is certified 
+for genetic loci of forensic interest that were commercially available at the time of the certificate update.  Genetic 
+types for these loci can be found in Tables 2 and 3.  The tables are organized as follows:  Table 2 lists the genetic 
+types for the U.S. Federal Bureau of Investigation’s (FBI’s) CODIS (COmbined DNA Index System) core STR loci 
+and Table 3 lists additional STR loci of interest.  Table 4 lists the genetic types for 26 non-CODIS (NC) miniSTR 
+loci.  Certification of these NC miniSTR loci alleles is based on sequencing results in combination with genotyping 
+results.    Those  allele  calls,  listed  in  Table 4  as  bold  font,  are  certified  values  based  on  the  presence  of  allele 
+sequence  information  for  all  alleles  of  the  SRM  components  that  is  concordant  with  the  genotypes  obtained.  
+Complete  sequencing 
+the  SRM  components,  are  available  at 
+http://www.cstl.nist.gov/biotech/strbase/srm2391b.htm. 
+ 
+Reference  Values:    A  NIST  Reference  Value  is  a  best  estimate  of  the  true  value  provided  by  NIST  where  all 
+known or suspected sources of bias have not been fully investigated by NIST [17].  Table 4 also lists the genetic 
+types for 26 non-CODIS (NC) miniSTR loci in normal font that are considered reference values.  Reference values 
+have been assigned when there is sequence information for only a few alleles of a particular locus.  The alleles that 
+do not have sequence information for the components of this SRM are considered reference values in terms of the 
+repeat count based on base pair (bp) size differences of an unsequenced allele compared to a sequenced allele for 
+that locus.  While these are reference values there is confidence in their allele assignments. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM  2391b  is  valid,  within  the  measurement  uncertainties 
+specified,  until  31  December  2013,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions 
+given  in  this  certification  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+The overall direction and coordination of the technical activities leading to certification were under the leadership of 
+M.C. Kline of the NIST Biochemical Science Division. 
+
+repeat  motifs 
+
+listed  as 
+
+results, 
+
+for 
+
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  03 September 2008 
+See Certificate Revision History on Last Page 
+
+ SRM 2391b 
+
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 8 
+
+ 
+Analytical determinations and technical measurements leading to the certification of this SRM were performed by 
+staff of the NIST Biochemical Science Division:  M.C. Kline and J.W. Redman prepared the samples; M.C. Kline 
+initially  evaluated  the  components  using  selected  PCR  amplification  kits  to  determine  the  certified  genotypes; 
+A.E. Decker and M.C. Kline evaluated the stability of the components in selected quantitative PCR (qPCR) assays; 
+C.R. Hill performed a concordance evaluation of the components by comparing the initial genotypes with recently 
+obtained genotypes using short tandem repeat (STR) PCR amplification kits; and C.R. Hill performed sequencing 
+and genotyping of 26 miniSTR loci to determine certified and reference values. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+The preparation of this SRM was supported in part by the National Institute of Justice, U.S. Department of Justice. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+NOTICE AND WARNINGS TO USER 
+
+Storage:  Store frozen at a temperature of –20 ºC.  DO NOT use a self-defrosting freezer because periodic cycling 
+of temperatures may cause shortened shelf life of this SRM.  Let the material warm up to lab ambient temperature 
+for at least 2 hours before use.  Studies indicate that thawed material stored at 4 °C for several weeks resulted in an 
+increased recovery of genomic DNA that had been adsorbed to the walls of the storage tubes.  For more stability 
+information, see http://www.cstl.nist.gov/biotech/strbase/srm2391b.htm.  
+ 
+Warning:  SRM 2391b IS A HUMAN SOURCE MATERIAL.  SINCE THERE IS NO CONSENSUS ON THE 
+INFECTIOUS  STATUS  OF  EXTRACTED  DNA,  HANDLE  PRODUCT  AS  BIOSAFETY  LEVEL 1 
+MATERIALS  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE  [18].    SRM 2391b  components  and 
+derived solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+INSTRUCTIONS FOR USE 
+
+After opening the vials, sample aliquots for analysis should be withdrawn immediately and processed without delay 
+for the certified values to be applicable. 
+ 
+SOURCE AND ANALYSIS1 
+
+Source of Material:  Genomic DNA components 1 through 8 were obtained from Roche Molecular Systems, Inc. 
+(Alameda, CA).    Cell  Lines  GM09947A  and  GM09948  were  obtained  from  Marligen  Biosciences,  Inc. 
+(Ijamsville, MD). 
+ 
+Interlaboratory Analysis:  The STR values for this SRM represent the pooled results from analyses performed at 
+NIST;  Pennsylvania  State  Police  DNA  Laboratory  (Greensburg,  PA);  Oregon  State  Police  Forensic  Laboratory 
+(Portland, OR); Promega Corp. (Madison, WI); and Applied Biosystems (Foster City, CA).  A detailed list of the 
+amplification kits used at NIST to obtain the STR values and other genetic loci types are shown in Table 5. 
+
+                                                           
+1  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2391b 
+
+Page 2 of 8 
+
+ 
+Description  of  Components:    Twelve  components  are  included  in  each  unit.    Components 1  through 10  each 
+contain 20 µL of genomic DNA.  The DNA concentration ([DNA]) ranges are provided in Table 1 for information 
+purposes  indicating  the  range  found  at  initial  thawing  through  one-month  storage  at  4 ºC.    Component A  of 
+SRM 2372 Human DNA Quantitation Standard was used to calibrate the qPCR runs establishing the [DNA] ranges. 
+ 
+
+Table 1.  Description of Components in SRM 2391b 
+ 
+ 
+DNA Concentration Range(a) 
+(ng/µL) 
+ 
+
+ 
+ 
+
+Description 
+
+No. of cells 
+(on 7 mm Scleicher & Schull 903 
+Filter Paper Circle) 
+
+Component 
+ 
+ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+
+Genomic DNA 1  
+Genomic DNA 2  
+Genomic DNA 3  
+Genomic DNA 4  
+Genomic DNA 5  
+Genomic DNA 6  
+Genomic DNA 7  
+Genomic DNA 8 
+Genomic GM09947A  
+Genomic GM09948  
+Cell GM09947A 
+Cell GM09948 
+
+0.08 – 0.61  
+0.17 – 0.89 
+0.17 – 0.41 
+0.21 – 0.49 
+0.34 – 0.70 
+0.24 – 0.72 
+0.16 – 0.56 
+0.42 – 0.87 
+0.31 – 0.88 
+0.33 – 0.87 
+
+2 × 105 cells 
+2 × 105 cells 
+
+ 
+(a) DNA concentrations given are nominal values and are not intended for use as concentration standards. 
+ 
+ 
+Typing results are shown in Tables 2 through 4.  All results are identical to those of SRM 2391a with the following 
+quantitative exceptions: 
+
+The relative intensities of the three alleles of GM09948 cell line at the HUMCSF1PO locus (CSF1PO) are not the 
+same.  While this cell line was determined to be karyologically stable by Fregeau et al. [3], these authors did not 
+study  the  CSF1PO  locus.    The  observed  CSF1PO  locus  differences  may  be  due  to  differences  in  cell  generation 
+passage numbers of the two materials.  While less noticeable, these CSF1PO allele intensity differences have been 
+present in the earlier SRM 2391 releases (see Figure 1 below). 
+ 
+ 
+ 
+
+SRM 2391b 
+
+Page 3 of 8 
+
+ 
+ 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10 
+
+11 
+
+12 
+
+  
+
+Component 
+Number 
+1 
+
+Description 
+
+CSF1PO 
+
+D3S1358  D5S818  D7S820  D8S1179  D13S317  D16S539  D18S51 
+
+D21S11 
+
+FGA 
+
+TH01 
+
+TPOX 
+
+vWA 
+
+  
+17,17 
+
+Genomic 1 
+
+29,33.2 
+
+  9,10 
+
+14,14 
+
+12,14 
+
+11,13 
+
+21,22 
+
+13,13 
+
+14,17 
+
+12,12 
+
+12,12 
+
+8,11 
+
+6,7 
+
+ 
+
+Table 2.  Certified Values for the FBI’s CODIS 13 STR Loci. 
+ 
+
+Genomic 2 
+
+11,12 
+
+15,16 
+
+12,12 
+
+  9,10 
+
+11,16 
+
+8,11 
+
+12,12 
+
+10,14 
+
+29,30 
+
+20,22 
+
+8,9.3 
+
+8,10 
+
+14,16 
+
+Genomic 3 
+
+11,12 
+
+15,15 
+
+11,11 
+
+  12,13 
+
+14,16 
+
+11,12 
+
+11,12 
+
+16,20 
+
+28,31.2 
+
+23,25 
+
+9.3,9.3
+
+8,11 
+
+18,19 
+
+Genomic 4 
+
+11,12 
+
+15,17 
+
+11,11 
+
+  8,10 
+
+14,14 
+
+12,12 
+
+18,18 
+
+28,30 
+
+18,22 
+
+7,9 
+
+8,9 
+
+17,17 
+
+Genomic 5 
+
+10,12 
+
+15,18 
+
+11,12 
+
+  8,10 
+
+15,16 
+
+11,12 
+
+14,16 
+
+28,30 
+
+23,26 
+
+7,7 
+
+10,11 
+
+16,20 
+
+Genomic 6 
+
+10,13 
+
+14,17 
+
+12,12 
+
+  8,11 
+
+10,16 
+
+12,13 
+
+12,13 
+
+18,18 
+
+28,29 
+
+21,26 
+
+9,9.3 
+
+8,8 
+
+16,18 
+
+Genomic 7 
+
+10,11 
+
+14,15 
+
+11,12 
+
+  9,9 
+
+13,15 
+
+11,12 
+
+10,10 
+
+13,16 
+
+28,31.2 
+
+23,24 
+
+6,7 
+
+8,11 
+
+16,16 
+
+Genomic 8 
+
+10,12 
+
+15,18 
+
+12,13 
+
+9,10 
+
+12,14 
+
+9,13 
+
+9,11 
+
+15,18 
+
+30,31 
+
+24,28 
+
+7,8 
+
+8,12 
+
+15,17 
+
+10,12 
+
+14,15 
+
+11,11 
+
+  10,11 
+
+13,13 
+
+11,11 
+
+11,12 
+
+15,19 
+
+30,30 
+
+23,24 
+
+8,9.3 
+
+8,8 
+
+17,18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10,11,12 
+
+15,17 
+
+11,13 
+
+  11,11 
+
+12,13 
+
+11,11 
+
+11,11 
+
+15,18 
+
+29,30 
+
+24,26 
+
+6,9.3 
+
+8,9 
+
+17,17 
+
+  10,12 
+
+14,15 
+
+11,11 
+
+  10,11 
+
+13,13 
+
+11,11 
+
+11,12 
+
+15,19 
+
+30,30 
+
+23,24 
+
+8,9.3 
+
+8,8 
+
+17,18 
+
+Genomic 
+GM09947A 
+
+Genomic 
+GM09948 
+
+GM09947A
+Cells 
+
+GM09948 
+Cells 
+
+ 10,11, or 
+ 10,11,12(a) 
+
+  
+
+(a) The relative intensity of the 12 allele is less than 10 % of the dominant 10 allele.  See accompanying Figure 1 below. 
+
+15,17 
+
+11,13 
+
+  11,11 
+
+12,13 
+
+11,11 
+
+11,11 
+
+15,18 
+
+29,30 
+
+24,26 
+
+6,9.3 
+
+8,9 
+
+17,17 
+
+9,10 
+
+9,11 
+
+) 
+
+an 
+cm  ee  ee 
+
+2391 
+
+2391la 
+
+2391b
+
+Figure 1.  Relative intensities of the three CSF1PO alleles of GM09948 cell line in different lots of 2391. 
+
+SRM 2391b 
+
+Page 4 of 8 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Table 3.  Certified Values for Additional STR Loci Available in Manufactured Kit Form. 
+ 
+  
+Component 
+Number 
+
+  
+
+Amelogeni
+n 
+
+D2S1338  D19S433 
+
+F13B  FES/FPS 
+
+F13A0
+1 
+
+Penta  
+E 
+
+Penta 
+D 
+
+Description 
+
+SE33 
+
+LPL 
+
+Genomic 1 
+
+X,Y 
+
+6,7 
+
+10,10 
+
+12,12 
+
+10,11 
+
+10,15 
+
+7,12 
+
+17,23 
+
+13,16.2 
+
+20,30.2 
+
+Genomic 2 
+
+X,X 
+
+7,7 
+
+8,10 
+
+10,11 
+
+10,11 
+
+9,11 
+
+7,12 
+
+17,26 
+
+14,16 
+
+23.2,28.2 
+
+Genomic 3 
+
+X,Y 
+
+3.2,4 
+
+9,10 
+
+11,12 
+
+11,12 
+
+11,12 
+
+13,14 
+
+20,24 
+
+12,14 
+
+14.2,26.2 
+
+Genomic 4 
+
+X,X 
+
+5,6 
+
+6,9 
+
+10,13 
+
+10,12 
+
+8,9 
+
+5,12 
+
+17,23 
+
+11,13 
+
+22,28.2 
+
+Genomic 5 
+
+X,X 
+
+5,7 
+
+8,9 
+
+11,13 
+
+10,12 
+
+10,13 
+
+7,13 
+
+17,19 
+
+12.2,14 
+
+14,30.2 
+
+Genomic 6 
+
+X,X 
+
+3.2,5 
+
+9,10 
+
+11,11 
+
+10,12 
+
+9,12 
+
+12,14 
+
+25,25 
+
+12,14 
+
+20,21 
+
+Genomic 7 
+
+X,Y 
+
+5,8 
+
+6,8 
+
+11,11(a) 
+
+11,12 
+
+3.2,11 
+
+12,16 
+
+17,22 
+
+13,15.2 
+
+13.2,20 
+
+Genomic 8 
+
+X,X 
+
+3.2,5 
+
+6,8 
+
+10,11 
+
+9,11 
+
+8,9 
+
+5,10 
+
+22,22 
+
+12.2,15 
+
+16,27.2 
+
+X,X 
+
+6,16 
+
+8,10 
+
+10,12 
+
+11,12 
+
+12,12 
+
+12,13 
+
+19,23 
+
+14,15 
+
+19,29.2 
+
+6,6 
+
+8,8 
+
+11,11 
+
+10,12 
+
+8,12 
+
+11,11 
+
+23,23 
+
+13,14 
+
+23.2,26.2 
+
+6,16 
+
+8,10 
+
+10,12 
+
+11,12 
+
+12,12 
+
+12,13 
+
+19,23 
+
+14,15 
+
+19,29.2 
+
+Genomic 
+GM09947
+A 
+Genomic 
+GM09948 
+GM09947
+A Cells 
+GM09948 
+Cells 
+
+X,Y 
+
+X,X 
+
+X,Y 
+
+  
+
+6,6 
+
+8,8 
+
+11,11 
+
+10,12 
+
+8,12 
+
+11,11 
+
+23,23 
+
+13,14 
+
+23.2,26.2 
+
+(a) Genomic 7 has a variant allele at the FES/FPS locus.  Many analysis systems type this as an 11 homozygote; however, this sample displays an 11 
+  and a variant allele, 10.3, when separated in a Genetic Analyzer 3130xl Capillary Electrophoresis unit used at NIST as shown in Figure 2 below.  
+  Preliminary  sequence  information  of  this  variant  allele  indicates  two  sequence  changes:  one  on  either  side  of  the  repeat  region  resulting  in  an 
+  electrophoretic mobility shift. 
+ 
+ 
+ 
+ 
+
+  
+
+FESFPS 
+
+250   
+2410 
+
+220 
+
+230 
+
+300 
+
+400 
+
+300 
+
+100 
+
+ 
+    
+
+ 
+
+Figure 2.  Genetic Analyzer 3130 xl Capillary Electrophoresis of FES/FPS locus, Genomic 7 sample. 
+ 
+
+SRM 2391b  
+
+Page 5 of 8 
+
+ 
+
+  
+
+ 
+
+Locus 
+
+D1GATA113 
+D1S1627 
+D1S1677  
+D2S441  
+D2S1776 
+D3S3053 
+D3S4529 
+D4S2364  
+D4S2408 
+D5S2500 
+D6S474 
+D6S1017 
+D8S1115 
+D9S1122 
+D9S2157 
+
+D10S1248  
+D10S1435 
+D11S4463 
+D12ATA63 
+
+D14S1434  
+D17S974 
+D17S1301 
+D18S853 
+D20S482 
+D20S1082 
+D22S1045  
+
+11,11 
+10,14 
+12,13 
+11,14 
+11,12 
+9,12 
+14,15 
+9,9 
+10,10 
+17,18 
+15,17 
+10,10 
+16,16 
+11,12 
+8,13 
+
+14,16 
+13,13 
+14,14 
+14,17 
+
+13,14 
+9,11 
+11,11 
+11,14 
+14,14 
+11,15 
+14,15 
+
+Table 4.  Certified Values and Reference Values for Additional Genetic Loci Alleles Not Commercially Available in Kit Format(a). 
+Genomic 
+6 
+
+Genomic 10 
+- 9948 
+
+Genomic 9 
+- 9947A 
+
+Genomic 
+5 
+
+Genomic 
+4 
+
+Genomic 
+2 
+
+Genomic 
+7 
+
+Genomic 
+3 
+
+Genomic 
+8 
+
+Genomic 
+1 
+
+Cells  11 
+- 9947A 
+
+Cells12 - 
+- 9948 
+
+12,13 
+13,14 
+14,16 
+11,14 
+11,11 
+10,11 
+13,16 
+9,10 
+9,9 
+17,24 
+14,17 
+10,12 
+16,16 
+12,13 
+9,11 
+
+13,15 
+11,14 
+13,14 
+13,17 
+
+11,13 
+9,10 
+11,12 
+11,11 
+14,16 
+14,15 
+11,16 
+
+11,11 
+13,14 
+14,17 
+10,14 
+8,10 
+9,11 
+14,16 
+9,10 
+8,9 
+17,18 
+14,15 
+10,12 
+16,17 
+12,12 
+11,13 
+
+13,16 
+13,14 
+14,15 
+12,15 
+
+14,15 
+9,9 
+11,12 
+11,11 
+15,15 
+11,11 
+15,16 
+
+13,13 
+11,12 
+14,15 
+12,14 
+11,12 
+11,11 
+15,16 
+9,9 
+9,10 
+17,18 
+14,16 
+7,10 
+9,17 
+12,12 
+11,11 
+
+12,12 
+12,12 
+11,12 
+16,18 
+
+10,11 
+7,9 
+12,13 
+11,13 
+14,15 
+14,15 
+17,18 
+
+11,12 
+14,15 
+13,14 
+11,14 
+12,13 
+11,11 
+13,15 
+9,10 
+10,11 
+14,15 
+15,18 
+8,9 
+9,15 
+11,13 
+7,14 
+
+14,15 
+11,12 
+14,16 
+13,15 
+
+13,14 
+11,12 
+11,11 
+10,15 
+14,15 
+11,14 
+11,14 
+
+11,12 
+11,13 
+13,14 
+10,11 
+11,12 
+9,9 
+15,17 
+8,9 
+9,9 
+14,18 
+14,17 
+10,10 
+9,16 
+11,12 
+11,13 
+
+14,15 
+12,12 
+16,17 
+14,18 
+
+13,14 
+9,9 
+11,11 
+11,14 
+14,14 
+11,15 
+11,15 
+
+10,12 
+11,14 
+12,13 
+11,14 
+11,12 
+11,11 
+14,16 
+9,9 
+8,11 
+14,20 
+15,17 
+7,12 
+9,18 
+11,12 
+12,15 
+
+13,14 
+12,12 
+14,15 
+16,17 
+
+10,14 
+11,11 
+11,12 
+14,14 
+14,14 
+14,15 
+11,15 
+
+10,12 
+13,14 
+14,16 
+11,11.3 
+11,12 
+9,9 
+14,14 
+9,9 
+11,11 
+14,18 
+17,17 
+10,12 
+15,16 
+13,13 
+11,11 
+
+11,15 
+11,13 
+14,17 
+14,15 
+
+13,13 
+8,9 
+12,12 
+12,13 
+15,16 
+11,15 
+16,17 
+
+11,12 
+13,14 
+13,14 
+10,14 
+10,10 
+9,11 
+13,13 
+9,10 
+9,10 
+14,23 
+14,18 
+9,10 
+9,18 
+12,13 
+7,13 
+
+13,15 
+10,11 
+12,13 
+13,13 
+
+11,13 
+7,10 
+12,12 
+11,14 
+14,15 
+11,14 
+11,14 
+
+7,12 
+11,13 
+13,14 
+11,12 
+10,12 
+9,12 
+12,12 
+9,10 
+10,10 
+14,17 
+17,17 
+8,8 
+15,17 
+12,15 
+7,11 
+
+12,15 
+12,13 
+12,14 
+13,18 
+
+13,14 
+10,11 
+11,12 
+11,11 
+13,14 
+11,15 
+16,18 
+
+11,12 
+13,14 
+13,14 
+10,14 
+10,10 
+9,11 
+13,13 
+9,10 
+9,10 
+14,23 
+14,18 
+9,10 
+9,18 
+12,13 
+7,13 
+
+13,15 
+10,11 
+12,13 
+13,13 
+
+11,13 
+7,10 
+12,12 
+11,14 
+14,15 
+11,14 
+11,14 
+
+7,12 
+11,13 
+13,14 
+11,12 
+10,12 
+9,12 
+12,12 
+9,10 
+10,10 
+14,17 
+17,17 
+8,8 
+15,17 
+12,15 
+7,11 
+
+12,15 
+12,13 
+12,14 
+13,18 
+
+13,14 
+10,11 
+11,12 
+11,11 
+13,14 
+11,15 
+16,18 
+
+(a) All allele calls listed in bold print are certified values.  All allele calls that are in normal print are reference values. 
+ 
+
+SRM 2391b  
+
+ 
+
+Page 6 of 8 
+
+Table 5.  Commercially Available Amplification “Kits” Used at NIST to Genotype STR Loci. 
+ 
+
+Applied Biosystems 
+
+Promega 
+
+Genetic 
+Locus 
+
+Identifile
+r 
+
+Profiler 
+Plus 
+
+COfiler 
+
+MiniFiler 
+
+SGM 
+Plus 
+
+Power 
+Plex 16 
+
+Power 
+Plex ES 
+
+FFFL 
+
+Power 
+Plex 16 
+BIO 
+
+× 
+
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+  
+  
+  
+× 
+  
+  
+  
+  
+× 
+× 
+× 
+
+× 
+
+  
+  
+  
+× 
+× 
+× 
+× 
+  
+× 
+  
+× 
+  
+  
+  
+× 
+  
+  
+  
+  
+  
+  
+× 
+
+× 
+
+× 
+  
+× 
+  
+× 
+  
+  
+× 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+× 
+× 
+  
+
+× 
+
+  
+× 
+× 
+  
+  
+× 
+  
+× 
+× 
+× 
+× 
+  
+  
+  
+× 
+  
+  
+  
+  
+× 
+  
+× 
+
+× 
+
+× 
+× 
+  
+  
+× 
+  
+× 
+× 
+× 
+  
+× 
+  
+  
+  
+× 
+  
+  
+  
+  
+  
+  
+  
+
+× 
+
+× 
+  
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+  
+× 
+  
+  
+  
+× 
+  
+× 
+× 
+  
+× 
+× 
+× 
+
+× 
+
+  
+  
+× 
+  
+  
+× 
+  
+  
+× 
+  
+× 
+  
+  
+  
+× 
+  
+  
+  
+× 
+× 
+  
+× 
+
+× 
+
+× 
+  
+× 
+× 
+× 
+× 
+× 
+× 
+× 
+  
+× 
+  
+  
+  
+× 
+  
+× 
+× 
+  
+× 
+× 
+× 
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+× 
+× 
+× 
+  
+× 
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+
+Amelogeni
+n 
+CSF1PO 
+D2S1338 
+D3S1358 
+D5S818 
+D7S820 
+D8S1179 
+D13S317 
+D16S539 
+D18S51 
+D19S433 
+D21S11 
+F13A01 
+F13B 
+FES/FPS 
+FGA 
+LPL 
+PENTA D 
+PENTA E 
+SE33 
+TH01 
+TPOX 
+vWA 
+
+ 
+
+ 
+
+SRM 2391b  
+
+Page 7 of 8 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  Nakamura, Y.; Carlson, M.; Krapcho, V.; White, R.; Isolation and Mapping of a Polymorphic DNA Sequence 
+
+(pMCT118) on Chromosome 1p (D1S80); Nucleic Acids Res., Vol. 16, p. 9364 (1988). 
+
+[2]  Kasai, K.; Nakamura, Y.; White, R.; Amplification of a Variable Number of Tandem Repeats (VNTR) Locus 
+(pMCT118)  by  the  Polymerase  Chain  Reaction  (PCR)  and  its  Application  to  Forensic  Science;  J.  Forensic 
+Sci., Vol. 35, pp. 1196–1200 (1990). 
+
+[3]  Fregeau,  C.J.;  Fourney,  R.M.;  DNA  Typing  With  Fluorescently  Tagged  Short  Tandem  Repeats:  A  Sensitive 
+
+and Accurate Approach to Human Identification; BioTechniques, Vol. 15, pp. 100–119 (1993). 
+
+[4]  Budowle, B.; Moretti, T.R.; Niezgoda, S.J.; Brown, B.L.; CODIS and PCR-Based Short Tandem Repeat Loci: 
+Law Enforcement Tools; Proceedings of the Second European Symposium on Human Identification, Promega 
+Corporation, Madison, WI (1998); available at http://www.promega.com/geneticidproc/eusymp2proc/17.pdf. 
+
+[5]  Budowle,  B.;  Moretti,  T.R.;  Baumstark,  A.L.;  Defenbaugh,  D.A.;  Keys,  K.M.;  Population  Data  on  the 
+Thirteen  CODIS  Core  Short  Tandem  Repeat  Loci  in  African  Americans,  U.S.  Caucasians,  Hispanics, 
+Bahamians, Jamaicans, and Trinidadians; J. Forensic Sci., Vol. 44, pp. 1277–1286 (1999). 
+
+[6]  Budowle, B.; Smith, J.; Moretti, T.; DiZinno, J.A.; DNA Typing Protocols: Molecular Biology and Forensic 
+
+[7]  Butler,  J.M.;  Forensic  DNA  Typing:  Biology,  Technology,  and  Genetics  of  STR  Markers,  2nd  ed.;  Elsevier 
+
+Analysis; BioTechniques Books: Eaton, MA (2000). 
+
+Academic Press: Berlington, MA (2005).  
+
+[8]  Edwards, A.; Civitello, A.; Hammond, H.A.; Caskey, C.T.; DNA Typing and Genetic Mapping With Trimeric 
+
+and Tetrameric Tandem Repeats; Am. J. Hum. Genet., Vol. 49, pp. 746–756 (1991). 
+
+[9]  Gill,  P.;  Evett,  I.;  Population  Genetics  of  Short  Tandem  Repeat  (STR)  Loci;  Genetica.  Vol. 96;  pp. 69–87 
+
+(1995). 
+
+[10]  Gill, P.; Urquhart, A.; Millican, E.S.; Oldroyd, N.J.; Watson, S.; Sparkes, R.; Kimpton, C.P.; A New Method of 
+STR Interpretation Using Inferential Logic – Development of a Criminal Intelligence Database; Int. J. Legal 
+Med., Vol. 109, Issue 1, pp. 14–22 (1996). 
+
+[11]  Gill,  P.;  Koumi,  P.;  Allen,  H.;  Sizing  Short  Tandem  Repeat  Alleles  in  Capillary  Array  Gel  Electrophoresis 
+
+Instruments; Electrophoresis, Vol. 22, pp. 2670–2678 (2001). 
+
+[12]  Kimpton,  C.P.;  Gill,  P.;  Walton,  A.;  Urquhart,  A.;  Millican,  E.S.;  Adams,  M.;  Automated  DNA  Profiling 
+Employing Multiplex Amplification of Short Tandem Repeat Loci; PCR Meth. Appl., Vol. 3, pp. 13–22 (1993). 
+[13]  Lazaruk, K.; Walsh, P.S.; Oaks, F.; Gilbert, D.; Rosenblum, B.B.; Menchen, S.; Scheibler, D.; Wenz, H.M.; 
+Holt, C.; Wallin, J.; Genotyping of Forensic Short Tandem Repeat (STR) Systems Based on Sizing Precision in 
+a Capillary Electrophoresis Instrument; Electrophoresis, Vol. 19, pp. 86–93 (1998). 
+
+[14]  Ruitberg, C.M.; Reeder, D.J.; Butler, J.M.; STRBase: A Short Tandem Repeat DNA Database for the Human 
+
+Identity Testing Community; Nucleic Acids Res., Vol. 29, pp. 320–322 (2001). 
+
+[15]  Fregeau, C.J.; Aubin, R.A.; Elliott, J.C.; Gill, S.S.; Fourney, R.M.; Characterization of Human Lymphoid Cell 
+Lines GM9947 and GM9948 as Intra- and Interlaboratory Reference Standards for DNA Typing; Genomics, 
+Vol. 28, pp. 184–197 (1995). 
+
+[16]  Hill,  C.R.,  Kline,  M.C.,  Coble,  M.D.,  Butler,  J.M.,  Characterization  of  26  MiniSTR  Loci  for  Improved 
+
+Analysis of Degraded DNA Samples, J. Forensic Sci., Vol. 53, No. 1, pp. 73–80 (2008) 
+
+[17]  May, W.E.;  Gills, T.E.;  Parris, R.;  Beck, II, C.M.;  Fassett, J.D.;  Gettings, R.J.;  Greenberg, R.R.; 
+Guenther, F.R.; Kramer, G.; MacDonald, B.S.; Wise, S.A.; Definitions of Terms and Modes Used at NIST for 
+Value-Assignment  of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136 
+(2000); available at http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm. 
+[18]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+Centers for Disease Control and Prevention and National Institutes of Health; US Government Printing Office: 
+Washington, D.C. (2007); available at http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf. 
+
+ 
+Certificate  Revision  History:    03  September  2008  (Extension  of  certificate  period  and  editorial  revisions);  06  December  2002  (Original 
+certificate issue date).  
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+
+SRM 2391b  
+
+Page 8 of 8 
+
+

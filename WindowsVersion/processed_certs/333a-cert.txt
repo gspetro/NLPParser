@@ -1,0 +1,314 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 333a
+
+
+
+	Molybdenum Sulfide Concentrate
+
+
+
+This Standard Reference Material (SRM) is a molybdenum sulfide (MoS2) concentrate from a commercial mining and refining process.  SRM 333a is intended for use in the evaluation of chemical and instrumental methods of analysis.  A unit of SRM 333a consists of one pouch containing approximately 50 g of powder.
+
+
+
+Certified Mass Fraction Values:  Certified values are reported in Table 1.  For all elements, values are reported as mass fractions [1] on an as-received basis.  Value assignment categories are based on the definition of terms and modes used at NIST for chemical reference materials [2].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, in that all known or suspected sources of bias have been investigated or taken into account.  A certified value is the present best estimate of the true value based on the results of analyses performed at NIST and collaborating laboratories using instrumental and classical test methods.  The measurands are the total mass fractions of the constituents listed in Table 1.  The certified values are metrologically traceable to the SI unit of mass, expressed as percent.
+
+
+
+Reference Mass Fraction Values:  Reference values are reported in Table 2 as mass fractions [1] on an as-received basis.  Reference values are non-certified values that are the best estimates of the true values; however, the values do not meet the NIST criteria for certification and are provided with associated uncertainties that may not include all sources of uncertainty [2].  The measurands are the mass fractions in Table 2 as measured by NIST and the collaborating laboratories by the indicated methods in Table 4.  The reference values are metrologically traceable to the SI unit of mass, expressed as a percent.
+
+
+
+Information Values:  Information values for constituents are reported in Table 3.  An information value is considered to be a value that will be of interest to the SRM user, but insufficient information is available to assess the uncertainty associated with the value.  Information values cannot be used to establish metrological traceability.
+
+
+
+Expiration of Certification:  The certification of SRM 333a is valid, within the measurement uncertainties specified, until 01 July 2020, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this material over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Coordination of the technical measurements for certification of this SRM was performed by J.R. Sieber of the NIST Chemical Sciences Division.
+
+
+
+Measurements for homogeneity testing and value assignment of this SRM were performed by J.R. Sieber and A.F. Marlow of the NIST Chemical Sciences Division.
+
+
+
+Statistical consultation for this SRM was provided by S.D. Leigh of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved with the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+		Carlos A. Gonzalez, Chief
+
+			Chemical Sciences Division
+
+	
+
+		Gaithersburg, MD 20899	Steven J. Choquette, Director
+
+	Certificate Issue Date:  16 February 2018	Office of Reference Materials
+
+Certificate Revision History on Last Page
+
+
+INSTRUCTIONS FOR USE
+
+
+
+	The pouch of powder should be kept sealed, as delivered, until it is needed for the first time.  It is recommended that the pouch be opened by cutting straight across at the heat-sealed end.  When not in use, the material should be stored in its original pouch placed inside a tightly sealed container.  It is recommended that the open end be folded once or twice and clipped shut.  The user is cautioned to use care when deciding whether to transfer the contents of a pouch to a new container as this may contaminate the SRM.  The material is certified on an as-received basis.  No preparation is needed prior to analysis.  The minimum tested mass for a single determination was 0.9 g.
+
+	
+
+	PREPARATION AND ANALYSIS()
+
+	
+
+	All material was dried at 105 ºC to a constant mass, then de-oiled with repeated washes of acetone to achieve a constant mass.  At Highland Valley Copper, all material was screen-classified to pass a 53 μm (270 mesh) sieve with all oversize material removed.  Dry, volatiles-free material was blended and sealed in foil-covered plastic pouches to maintain future integrity of the materials.  Measurements for homogeneity testing of SRM 333a were performed at NIST using X-ray fluorescence spectrometry.  Determinations for value assignments were provided by NIST and by the collaborating laboratories listed in Appendix A.
+
+	
+
+		Table 1.  Certified Mass Fraction Values for SRM 333a
+
+		
+
+		Constituent
+
+		Mass Fraction
+(%)
+
+		Copper (Cu)(a)
+
+					0.0600		0.0036
+
+		Molybdenum (Mo)(b)
+
+					54.86		0.13
+
+	(a)	The copper value is the median of a set of results obtained by the collaborating laboratories using the test methods listed in Table 4.  The uncertainty of the value is expressed as an expanded uncertainty, U, and is calculated according to the method described in the ISO/JCGM Guide [3].  The expanded uncertainty is calculated as U = kuc, where uc is calculated, at the level of one standard deviation, by combining a between-method variance, estimated from the median absolute deviation of the laboratory results from the median, with the pooled standard deviation of the laboratory means.  The median absolute deviation was expanded by a factor of 1.483 in recognition of the fact that it underestimates the true standard uncertainty of a data set.  The coverage factor, k = 2, was chosen to approximate a 95 % confidence level [4].
+
+	(b)	The molybdenum value is the weighted mean of a set of results obtained using the test methods listed in Table 4 [5].  The uncertainty of the value is expressed as an expanded uncertainty, U, and is calculated according to the method described in the ISO/JCGM Guide [3].  The expanded uncertainty is calculated as U = kuc, where uc is calculated, at the level of one standard deviation, by combining a between-method variance and a pooled, within-method variance.  The coverage factor, k = 2, was chosen to approximate a 95 % confidence level [4].
+
+	
+
+	
+
+		Table 2.  Reference Mass Fraction Values for SRM 333a
+
+		
+
+			Constituent
+
+			Mass Fraction
+(%)
+
+			Iron (Fe)(a)
+
+				1.022		0.047
+
+			Lead (Pb)(a)
+
+				0.0111		0.0027
+
+			Rhenium (Re)(b)
+
+				0.035		0.018
+
+			Acid-Insoluble Residue(b)
+
+				3.767		0.058
+
+	(a)	Each assigned value is the median of a set of results obtained by the collaborating laboratories using the test methods listed in Table 4.  The uncertainty of the value is expressed as an expanded uncertainty, U, and is calculated according to the method described in the ISO/JCGM Guide [3].  The expanded uncertainty is calculated as U = kuc, where uc is calculated, at the level of one standard deviation, by combining a between-method variance, estimated from the median absolute deviation of the laboratory mean results from the median, with the pooled standard deviations of the laboratory means.  The median absolute deviation was expanded by a factor of 1.483 in recognition of the fact that it underestimates the true standard uncertainty of a data set.  The coverage factor, k = 2, was chosen to approximate a 95 % confidence level [4].
+
+	(b)	Each assigned value is the unweighted mean of a set of results obtained using the test methods listed in Table 4.  The uncertainty of the value is expressed as an expanded uncertainty, U, and is calculated according to the method described in the ISO/JCGM Guide [3].  The expanded uncertainty is calculated as U = kuc, where uc is calculated, at the level of one standard deviation, by combining a between-method variance and a pooled, within-method variance.  The coverage factor, k = 2, was chosen to approximate a 95 % confidence level [4].
+
+	
+
+Information Values:  Sulfur was determined using combustion with infrared detection.  The remaining information values were determined by laboratories using either flame atomic absorption spectrometry (AA) or inductively coupled plasma optical emission spectrometry (ICP-OES).  
+
+	
+
+		Table 3.  Information Mass Fraction Values for SRM 333a
+
+	
+
+Constituent
+
+Mass Fraction
+(%)
+
+Antimony (Sb)
+
+	0.001
+
+Arsenic (As)
+
+	0.015
+
+Bismuth (Bi)
+
+	0.003
+
+Calcium (Ca)
+
+	0.12
+
+Chromium (Cr)
+
+	0.005
+
+Potassium (K)
+
+	0.06
+
+Magnesium (Mg)
+
+	0.02
+
+Manganese (Mn)
+
+	0.002
+
+Silver (Ag)
+
+	0.0013
+
+Sodium (Na)
+
+	0.01
+
+Sulfur (S)
+
+	37.7
+
+Vanadium (V)
+
+	0.0014
+
+Zinc (Zn)
+
+	0.002
+
+
+
+
+
+Table 4.  Test Methods for Certified and Reference Values
+
+
+
+Method
+
+Constituent
+
+Gravimetry by the PbMoO4
+
+Mo
+
+Gravimetry by the -benzoin oxime
+
+Mo
+
+Titrimetry by the KMnO4 method after reduction to Mo+2
+
+Mo
+
+X-ray fluorescence spectrometry (XRF)
+
+Fe, Cu, Mo, Re, Pb
+
+Inductively coupled plasma optical emission spectrometry (ICP-OES)
+
+Fe, Cu, Re, Pb
+
+HCl
+
+Acid-insoluble residue
+
+
+
+
+
+REFERENCES
+
+
+
+	[1]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; U.S. Government Printing Office: Washington, DC (2008); available at https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Feb 2018).
+
+	[2]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136 U.S. Government Printing Office: Washington, DC (2000); available at https://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2018).
+
+	[3]	JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; (GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Feb 2018); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at https://www.nist.gov/pml/pubs/index.cfm (accessed Feb 2018).
+
+	[4]	Hahn, G.J.; Meeker, W.Q.; Statistical Intervals:  A Guide for Practitioners; John Wiley & Sons, Inc., New York (1991).
+
+	[5]	Vangel, M.G.; Rukhin, A.L.; Maximum Likelihood Analysis for Heteroscedastic One-Way Random Effects ANOVA in Interlaboratory Studies; Biometrics, Vol. 55, No. 1, pp. 129–136 (1999).
+
+	
+
+Certificate Revision History:  16 February 2018 (Updated unit size; editorial changes); 11 September 2014 (Extended certification period; editorial changes); 17 February 2010 (Original certificate date).
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm.
+
+
+APPENDIX A
+
+
+
+Collaborating Laboratories
+
+
+
+Analytical determinations for value assignments of the SRM 333a were performed by the following laboratories:
+
+
+
+Highland Valley Copper, Logan Lake, British Columbia, Canada; D. Lincoln, P. Martin, D. Enders, T. Havers, D. Howard, K. Heaton, N. Woods, J. Mihalech, D. Arbuckle, D. Leavitt, M. Desjardine, D. Comte.
+
+Roca Mines, Inc., Trout Lake, British Columbia, Canada; R. Fraser, K. Alexander
+
+Alfred H. Knight International Ltd., St. Helens, United Kingdom; N. Hampson, N. Golborne, P. Ritson, G. Smith, T. Sutcliffe, S. Williams
+
+Alex Stewart Assayers, Ltd., Liverpool, United Kingdom; D. Court
+
+Andrew S. McCreath and Son, Inc., Harrisburg, PA; L. Longacre, P. Schubert, M. Souder, N. Eppley, R. Eakin, J. Davies
+
+Endako Mines, Fraser Lake, British Columbia, Canada; B. Minor, K. Campo, J. Lynch 
+
+Ersa Global Mex, S.A. de C.V., Torreón, Coahuila, Mexico; A. Iniestra Ramírez, S. Rodríguez Salas, G. Morales Martínez, F. Hernández Martínez
+
+Freeport McMoRan Process Tech. Center, Safford, AZ; O. Baca
+
+Langeloth Metallurgical, Co., Langeloth, PA; F. Liberato, D. Porchiran
+
+Montana Resources, LLP, Butte, MT; V. Gilman, J. Gress, R. Ball, B. McGee
+
+Robinson Nevada Mining Company, Ruth, NV; C. Whipple, W. Barragan, J. Margues, P. Robinson, T. Young, D. McGhee, R. Lemos
+
+
+
+Seventeen additional laboratories provided data for value assignment but declined to be identified.
+
+
+
+
+
+
+
+
+
+		SRM 333a 		Page 1 of 4

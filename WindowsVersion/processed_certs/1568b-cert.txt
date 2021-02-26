@@ -1,0 +1,635 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 1568b 
+
+ 
+
+ 
+Rice Flour 
+
+w
+
+elements 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining elements in 
+rice flour and similar materials.  This SRM can also be used for quality assurance when assigning values to in-house 
+reference materials.  This SRM is rice flour prepared from a single lot of river rice by a commercial manufacturer.  A 
+unit of SRM 1568b consists of a single bottle containing approximately 50 g of material sealed inside an aluminized 
+pouch. 
+ 
+Certified  Mass  Fraction  Values:    The  certified  mass  fraction  values  of  selected  elements  in  SRM 1568b  are 
+provided  in  Tables 1  and  2.    A  NIST  certified  value  is  a  value  for  which  NIST  has  the  highest  confidence  in  its 
+ 
+w
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses 
+w
+for  value  assignment  were  performed  by NIST and the National Metrology Institute of Japan (NMIJ).  Values are 
+reported on a dry-mass basis in mass fraction units [2]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values are provided for additional elements (Table 3).  
+A  NIST  reference  value  is  a  noncertified  value  that  is  the  best  estimate  of the true value based on available data; 
+however, the value does not meet the NIST criteria for certification [1] and is provided with associated uncertainties 
+that may reflect only measurement reproducibility, may not include all sources of uncertainty, or may reflect a lack 
+of  sufficient  statistical  agreement  among  multiple  analytical  methods.    The  reference  mass  fraction  values  were 
+derived from results reported by NIST.  Values are reported on a dry-mass basis in mass fraction units [2]. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 1568b  is  valid,  within  the  measurement  uncertainty 
+specified, until 20 June 2023, provided the SRM is handled and stored in accordance with the instructions given in 
+this  certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  was  performed  by  W.C. Davis, 
+S.E. Long, and L.J. Wood of the NIST Chemical Sciences Division.  
+ 
+Analytical measurements at NIST were performed by B.M. Adair, S. Christopher, W.C. Davis, S.E. Long, A.F. Marlow, 
+A.J. Moors, K.E. Murphy, R. Oflaz, J.R. Sieber, L.J. Wood, T.W. Vetter, and L.L. Yu of the NIST Chemical Sciences 
+Division.  Analyses for value assignment were also performed by T. Narukawa of the National Metrology Institute 
+of  Japan (NMIJ).    Original  analyses  were  performed  by  E.S. Beary,  T.A. Butler,  M.S. Epstein,  J.D. Fassett, 
+R.R. Greenberg,  L.B. Jassie,  W.R. Kelly,  H.M. Kingston,  J.R. Moody,  P.J. Paulsen,  T.C. Rains,  T.A. Rush, 
+S.F. Heller-Zeisler, R.L. Watters, Jr., and L.J. Wood.  
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials.  
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  23 October 2013 
+Certificate Revision History on Last Page 
+SRM 1568b 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division  
+ 
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+as  performed  by 
+
+Page 1 of 6 
+
+  
+
+2  bottle 
+
+converting 
+
+thoroughly. 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1568b IS INTENDED FOR LABORATORY USE ONLY, NOT FOR HUMAN CONSUMPTION.   
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:    The  SRM  should  be  stored  at  controlled  room  temperature  (20 °C to 25 °C)  in  the  original  unopened 
+bottle.  For elemental analyses, the bottle can be re-capped, stored at controlled room temperature (20 °C to 25 °C), 
+and test portions removed and analyzed until the material reaches its expiration date. 
+ 
+‘ttle  for  one  minute
+Use:  Before use, the contents of the bottle should be mixed thoroughly.  Allow the contents to settle for one minute 
+prior to opening to minimize the loss of fine particles.  To relate analytical determinations to the certified values in 
+this  Certificate  of  Analysis,  the  sample  test  portion  indicated  in  the  description  of  each  group  of  analytes  below 
+should be used.  Results obtained in analyses should include their own estimates of uncertainty and can be compared 
+to the certified values using procedures described in reference [3].  
+ 
+INSTRUCTIONS FOR DRYING 
+ 
+Residual moisture content should be determined on a separate sample for converting analytical results to a dry mass 
+basis.  The recommended drying methods are (1) freeze drying at 25 °C for 24 h; (2) oven drying at 90 °C for 2 h; or 
+(3) desiccator drying over magnesium perchlorate for 28 days.  The observed moisture content ranges from 6.1 % to 
+6.4 % (mass fraction).  
+  
+SOURCE, PREPARATION, AND ANALYSIS(1)  
+ 
+Source and Preparation:  Material existing from production of SRM 1568a was used to produce SRM 1568b.  
+SRM 1568b is rice flour produced from 100 % long grain river rice grown in Arkansas.  The original rice flour was 
+ground to pass through a 425 μm (40 mesh) sieve, blended, and bottled at NIST.  The reprocessed material was dried 
+for  24 h  at  101 °C  and  then  double  blended  using  a  ceramic-lined  cone  blender for 30 min.  Using a Teflon-lined 
+hopper  and  trough,  50 g  quantities  of  material  were  placed  in  4 oz  amber  bottles.    The  bottles  were  capped  and 
+individually sealed in aluminized bags.  Prior to bottling, the rice flour was irradiated with 2.5 megarads of 60Co by 
+Neutron Products, Inc. (Dickerson, MD). 
+ 
+Analytical  Approach  for  Determination  of  Elements:    Assigned  mass  fraction  values  for  the  elements  in 
+SRM 1568b  were  based  on  the  combination  of  measurements  from  two  different  analytical  methods  at  NIST  and 
+NMIJ, where available.  Where certified values from SRM 1568a were considered scientifically valid, the combined 
+estimator  is  the  mean  of  two  methods,  one  from  the  new  data  and  the  other  from  the  certified  value  from 
+inductively  coupled  plasma  optical  emission 
+SRM 1568a. 
+spectrometry (ICP-OES),  inductively  coupled  plasma  mass  spectrometry (ICP-MS),  isotope  dilution  inductively 
+coupled  plasma  mass  spectrometry (ID-ICP-MS), 
+liquid 
+chromatography  triple  quadrupole  mass  spectrometry (LC/MS/MS),  ion  exchange  chromatography  inductively 
+coupled  plasma  mass  spectrometry (IC/ICP-MS),  sector  field  inductively  coupled  plasma  mass  spectrometry 
+(SF-ICP-MS), and wavelength dispersive X-ray fluorescence spectrometry (WDXRF).   
+ 
+NIST  Analyses  for  Al,  As,  Cu,  Mn,  Mo,  Rb,  Se,  and  Na  Using  ICP-OES,  SF-ICP-MS,  and/or  ICP-MS:  
+Aluminum, arsenic, copper, manganese, molybdenum, rubidium, selenium, and sodium were measured by ICP-OES, 
+SF-ICP-MS or ICP-MS using duplicate 0.5 g test portions taken from each of eight bottles of SRM 1568b.  Samples 
+were digested in nitric acid using a microwave sample preparation system.  Quantification was based on the method 
+of standard additions.   
+ 
+NIST Analyses for Pb Using Isotope Dilution ICP-MS:  Lead was measured by ID-ICP-MS using duplicate 1.0 g 
+test portions taken from each of six bottles of SRM 1568b.  Samples were spiked with isotopically enriched  206Pb 
+and were digested in nitric acid using a microwave sample preparation system.  Sample digests were evaporated to 
+near dryness and a portion was reconstituted in dilute nitric acid for Pb analysis.   
+ 
+
+instrumental  neutron  activation  analysis (INAA), 
+
+  NIST  provided  measurements  by  using 
+
+with  2.5 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 1568b 
+
+Page 2 of 6 
+
+f  elements 
+
+NIST  Analyses  for  Al,  Br,  Ca,  Cl,  Fe,  Mg,  Mn,  P,  K,  Rb,  S,  and  Zn  Using  WDXRF:    Aluminum,  bromine, 
+calcium,  chlorine,  iron,  magnesium,  manganese, phosphorus, potassium, rubidium, sulfur, and zinc were measured 
+by WDXRF using duplicate or triplicate 2.5 g test portions taken from each of 24 bottles of SRM 1568b.  Briquettes 
+were prepared for each sample.  The K-L2,3 characteristic X-ray lines of all elements were used for quantification.   
+ 
+NIST Analyses for Br, Mn, K, and Na Using INAA:  Bromine, manganese, potassium, and sodium were measured 
+by INAA using duplicate 0.25 g test portions taken from each of six bottles of SRM 1568b.  Powders were pressed 
+into cylindrical pellets and irradiated in the pneumatic tube RT-2 of the NIST reactor at a reactor power of 20 MW.  
+Samples,  standards,  and  controls  were  packaged  individually  in  clean  polyethylene  bags  for  analysis  using 
+gamma-ray spectroscopy.  The count was done after several hours decay at a sample-to-detector distance of 5 cm for 
+30 min counting time.   
+ 
+NIST Analyses for As Species Using LC/MS/MS and IC/ICP-MS:  Dimethylarsinic acid (DMA), methylarsonic 
+acid (MMA),  and  As (III)  and  As (V),  reported  as  inorganic  arsenic (iAs),  were  measured  by  IC/ICP-MS  using 
+duplicate  1 g  test  portions  taken  from  each  of  eight  total  bottles  of  SRM 1568b.    DMA  was  also  analyzed  by 
+LC/MS/MS using duplicate 1 g test portions taken from each of six bottles of SRM 1568b.  Samples were prepared 
+in a methanol/water mixture using a microwave sample preparation system.  Quantification was based on the method 
+of  standard  additions.    NMIJ  reported  individual  results  for  DMA,  MMA,  As (III),  and  As (V)  using  IC/ICP-MS.  
+For analytes that were measured by NIST and NMIJ, the combination of the mean results from analyses by NIST and 
+the mean results provided by NMIJ were averaged, as appropriate. 
+ 
+Homogeneity Assessment:  The homogeneity of elements was assessed at NIST from methods and test portion sizes 
+described above.  For the elements measured by NIST, analyses of variance with 5 % significance level did not show 
+statistically significant heterogeneity with the exception of Pb.  A pattern of heterogeneity in the Pb data was evident, 
+so the uncertainty for Pb incorporates an uncertainty component for possible heterogeneity. 
+ 
+determined  to 
+Value Assignment:  The SRM 1568a material was re-examined and the original certified values were determined to 
+be scientifically valid in some cases.  Where the data were determined to be valid, new NIST values were combined 
+with values from SRM 1568a.  The combined estimator is the mean of the new NIST data and the certified value for 
+SRM 1568a.  In the case of cadmium and mercury, the data from the original SRM 1568a were considered valid and 
+the combination of the mean of results from analyses by NIST for SRM 1568a were used for certification.  Original 
+SRM 1568a  data  were  determined  using  the  following  methods:  heated  graphite  atomizer  (electrothermal)  atomic 
+absorption 
+emission 
+spectrometry (FES),  flow  injection  analysis  cold  vapor  atomic  absorption  spectrometry (FIA-CV-AAS),  hydride 
+generation  atomic  absorption  spectrometry 
+inductively  coupled  plasma  optical  emission 
+spectrometry (ICP-OES), thermal ionization mass spectrometry (TIMS), isotope dilution inductively coupled plasma 
+mass spectrometry (ID-ICP-MS), instrumental neutron activation analysis (INAA), radiochemical neutron activation 
+analysis (RNAA), and spectrophotometry (SPECTRO). 
+ 
+Certified Mass Fraction Values for Selected Elements:  Each certified mass fraction value is the mean from the 
+combination  of  the  mean  of  results  from  analyses  by  NIST  or  the  combination  of  mean  results  from  analyses  by 
+NIST and the certificate value from SRM 1568a treated as a method estimate, where appropriate.  The uncertainty 
+provided  with  each  value  is  an  expanded  uncertainty  about  the  mean  to  cover  the  measurand  with  approximately 
+95 % confidence.  The expanded uncertainty is calculated as U = kuc, where uc incorporates the observed difference 
+between the results from the methods and their respective uncertainties and an uncertainty component for moisture 
+correction, consistent with the ISO/JCGM Guide and with its Supplement 1, and k is a coverage factor corresponding 
+to approximately 95 % confidence [4–6]. 
+ 
+Metrological Traceability:  The measurand in each case is the total concentration of each analyte as described in 
+the text.  Metrological traceability is to the SI unit indicated for each analyte in Tables 1-3, respectively. 
+
+spectrometry (ETAAS), 
+
+spectrometry (FAAS), 
+
+(Hyd-AAS), 
+
+absorption 
+
+atomic 
+
+flame 
+
+flame 
+
+Tables
+
+SRM 1568b 
+
+Page 3 of 6 
+
+  
+
+ 
+
+ 
+
+ 
+Table 1.  Certified Mass Fraction Values (Dry-Mass Basis) for Selected Elements in SRM 1568b 
+
+ted  Elements
+
+ction  Values 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+0.34 
+0.014 
+0.61 
+0.0013 
+3.1 
+3.8 
+0.16 
+0.44 
+
+1.8 
+0.00036 
+0.048 
+
+118.4 
+301.1 
+
+559 
+
+19.2 
+
+2.35 
+7.42 
+
+± 
+4.21 
+± 
+0.285 
+8.31 
+± 
+0.0224  ± 
+± 
+± 
+± 
+± 
+±  10 
+± 
+0.00591  ± 
+± 
+1.451 
+±  40 
+±  11 
+± 
+± 
+± 
+±  10 
+± 
+
+6.198 
+0.365 
+6.74 
+
+1200 
+
+19.42 
+
+1530 
+1282 
+
+0.026 
+0.029 
+0.19 
+
+0.26 
+
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+2.0 
+
+Element 
+
+ 
+
+ 
+
+ 
+
+Aluminum(a,b,c) 
+Arsenic(a,d) 
+Bromine(b,e) 
+Cadmium(f,g) 
+Calcium(b,h,i) 
+Chlorine(b,e) 
+Copper(a,e,g,h) 
+Iron(b,e,h,j) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Magnesium(b,e,h,i) 
+  Manganese(b,e) 
+  Mercury(e,l) 
+  Molybdenum(a,e,k,m) 
+Phosphorus(b,i,m,n) 
+ 
+Potassium(b,e) 
+ 
+Rubidium(a,b) 
+ 
+Selenium(a,e,o) 
+ 
+Sodium(c,e,m) 
+ 
+Sulfur(b,j) 
+ 
+Zinc(b,e,h) 
+ 
+
+ 
+(a) NIST ICP-MS 
+(b) NIST WDXRF 
+(c) NIST SF ICP-MS 
+(d) NIST IC-ICP-MS 
+(e)  NIST INAA 
+(f)  NIST ETAAS 
+(g)  NIST RNAA 
+(h) NIST FAAS 
+(i)  NIST FES 
+(j)  NIST TIMS 
+(k) NIST ID-ICP-MS 
+(l)  NIST FIA-CV-AAS 
+(m) NIST ICP-OES 
+(n) NIST SPECTRO 
+(o) NIST Hyd-AAS 
+ 
+
+SRM 1568b 
+
+Page 4 of 6 
+
+Certified  Mass  Fraction  Values  for  Selected  Arsenic  Species:    Each  certified  mass  fraction  value  is  the  mean 
+from  the  combination  of  the  mean  results  from  analyses  by  NIST  and  the  mean  results  provided  by  NMIJ,  where 
+appropriate.    The  uncertainty  provided  with  each  value  is  an  expanded  uncertainty  about  the  mean  to  cover  the 
+measurand  with  approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc 
+incorporates the observed difference between the results from the methods and their respective uncertainties and an 
+uncertainty component for moisture correction, consistent with the ISO/JCGM Guide and with its Supplement 1, and 
+k is a coverage factor corresponding to approximately 95 % confidence [4–6].     
+
+ 
+Table 2.  Certified Mass Fraction Values (Dry-Mass Basis) for Selected Arsenic Species in SRM 1568b 
+
+Arsenic Species 
+
+ 
+
+Mass Fraction 
+(mg/kg, as As) 
+
+Coverage Factor, k 
+
+ 
+
+2.0 
+2.0 
+2.0 
+
+0.012 
+0.0035 
+0.010 
+
+0.180 
+± 
+0.0116  ± 
+± 
+0.092 
+
+Inorganic arsenic (iAs)(a,c,d) 
+ 
+
+ 
+Dimethyarsinic acid (DMA)(a,b,c) 
+ 
+  Monomethylarsonic acid (MMA)(a,c) 
+ 
+ 
+(a) NIST IC/ICP-MS 
+(b) NIST LC/MS/MS 
+(c) NMIJ IC/ICP-MS 
+(d) As (III) and As (V), reported as total inorganic arsenic (iAs) 
+ 
+‘an  result  of
+Reference Mass Fraction Values for Selected Elements:  Each reference mass fraction value is the mean result of 
+NIST analyses using one method.  The uncertainty provided is an expanded uncertainty about the mean to cover the 
+measurand  with  approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc 
+represents the combined uncertainty, incorporating an uncertainty component for moisture correction, consistent with 
+the ISO/JCGM Guide [4–5], and k is a coverage factor corresponding to approximately 95 % confidence [4].  The 
+uncertainty for lead incorporates an uncertainty component for possible heterogeneity. 
+ 
+ 
+
+Table 3.  Reference Mass Fraction Values (Dry-Mass Basis) for Selected Elements in SRM 1568b 
+
+Elements 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+0.0177  ± 
+± 
+0.008 
+± 
+0.005 
+
+0.0005 
+0.003 
+0.001 
+
+2.6 
+2.6 
+2.8 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Element 
+
+ 
+a) 
+Cobalt(a) 
+Lead(b) 
+Tin(c) 
+
+ 
+
+ 
+(a) NIST INAA 
+(b) NIST ID-ICP-MS 
+(c) NIST RNAA 
+ 
+ 
+ 
+
+ 
+i
+W
+
+ 
+
+SRM 1568b 
+
+Page 5 of 6 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Oct 2013). 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Oct 2013). 
+
+available 
+
+(2008); 
+
+[3]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+
+[4] 
+
+[5] 
+
+;  Chapman  &  Hall,  Lo 
+
+Int., Vol. 91, pp. 1298–1302 (2008). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Oct 2013);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Oct 2013). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement  -  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Oct 2013). 
+[6]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  23 October 2013 (Analyst added; editorial changes); 07 August 2013 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+  
+23   
+
+(301) 
+(301) 975-2200; 
+
+the  SRM  Program: 
+
+possession  is  current. 
+
+fax 
+
+- 
+
+ 
+
+>
+
+SRM 1568b 
+
+Page 6 of 6 
+
+

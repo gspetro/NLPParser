@@ -1,0 +1,723 @@
+﻿rs 
+1) 
+i  W  4 
+‘  se]  ;  National  Institute  of  Standards  &  Cechnology 
+
+~ 
+
+Certificate  of  Analusis
+
+Standard Reference Material® 1582 
+
+ 
+
+ 
+Petroleum Crude Oil 
+
+ 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected polycyclic aromatic hydrocarbons (PAHs), hopanes, and steranes in a crude oil matrix.  All of the constituents 
+for which certified and reference values are provided are naturally present in the oil.  A unit of SRM 1582 consists of five 
+ampoules, each containing approximately 1.2 mL of crude oil. 
+ 
+Certified Mass Fraction Values:  Certified values for 20 PAHs are provided in Table 1.  A NIST certified value is a 
+value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been 
+investigated or taken into account [1].  The certified values are based on the agreement of results obtained at NIST using 
+multiple analytical techniques. 
+ 
+Reference Mass Fraction Values:  Reference values are provided in Table 2 for 18 additional PAHs, in Table 3 for 
+35 groups of alkylated PAHs, and in Table 4 for 15 hopanes and steranes.  Reference values are noncertified values that 
+are the best estimate  of the true value; however, the values do not meet the NIST criteria for certification and are 
+provided with associated uncertainties that may reflect only measurement precision, may not include all sources of 
+uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods [1]. 
+ 
+Expiration of Certification:  The certification of SRM 1582 is valid, within the measurement uncertainty specified, 
+until 30 September 2020, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Handling, Storage, and Use”).  This certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of technical measurements leading to the update of the certification of SRM 1582 
+were performed by M.M. Schantz and L.C. Sander of the NIST Analytical Chemistry Division. 
+ 
+Analytical  measurements  at  NIST  to  update  SRM 1582  were  performed  by  B.A. Benner, Jr.,  J.R. Kucklick,  and 
+M.M. Schantz of the NIST Analytical Chemistry Division.  Additional results for PAHs, hopanes, and steranes were used 
+from 24 laboratories (see Appendix A) that participated in an interlaboratory study coordinated by M.M. Schantz of the 
+NIST Analytical Chemistry Division. 
+ 
+Evaluation of the data was provided by N.A. Heckert, S.D. Leigh, and A.L. Pintar of the NIST Statistical Engineering 
+Division.  
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  26 June 2012 
+Certificate Revision History on Page 7 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 1582 
+
+ 
+
+Page 1 of 8 
+
+INSTRUCATIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material is naturally occurring crude oil and may contain constituents of unknown toxicities; therefore, 
+caution and care should be exercised during its handling and use.  Consult the Material Safety Data Sheet (MSDS), 
+enclosed with the SRM shipment, for details.   
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures between 10 °C and 30 °C. 
+ 
+Use:  Samples for analysis should be withdrawn immediately after opening ampoules and should be processed without 
+delay for the certified values in Table 1 to be valid within the stated uncertainties.  Certified values are not applicable to 
+material stored in ampoules that have been opened, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample  Collection  and  Preparation:    The  petroleum  crude  oil  for  this  SRM  came  from  the  U.S.  Environmental 
+Protection Agency’s repository at the Oak Ridge National Laboratory, Oak Ridge, TN.  The oil was homogenized by 
+stirring for 18 h in a 6 L glass flask before transferring into 5 mL amber glass ampoules which had been flushed with 
+argon. 
+ 
+PAHs, Hopanes, and Steranes:  The general approach used for the value assignment of the PAHs, hopanes, and 
+steranes  in  SRM 1582  consisted  of  combining  results  from  analyses  using  various  combinations  of  different 
+cleanup/isolation procedures and chromatographic separation and detection techniques [2]. 
+ 
+Three sets of gas chromatography/mass spectrometry (GC/MS) results, designated as GC/MS (I) through GC/MS (III), were 
+obtained  at  NIST.    For  GC/MS (I)  analyses,  duplicate  test  portions  of  400 mg  from  three  ampoules  of  SRM 1582  were 
+transferred to individual vials, spiked with a known amount of an internal standard solution (see below), and diluted with hexane. 
+A portion of the diluted oil (0.5 mL) was fractionated using an aminopropyl solid-phase extraction (SPE) column to isolate the 
+fraction of interest.  Following a concentration step, the processed extract was then fractionated using liquid chromatography on a 
+semi-preparative scale aminopropyl silane column.  Three fractions were collected:  (1) aliphatics, hopanes, and steranes; 
+(2) naphthalene through the dimethylphenanthrenes and anthracenes; and (3) the remainder of the PAHs through molecular 
+mass 302 Da.  Each fraction was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column with a 50 % 
+(mole fraction) phenyl methylpolysiloxane phase (0.25 μm film thickness; DB-17MS, Agilent Technologies, Wilmington, DE).  
+Fractions 2 and 3 were also analyzed using a 0.25 mm i.d. × 15 m fused silica capillary column with a 50 % (mole fraction) 
+liquid crystal polysiloxane phase (0.15 μm film thickness; LC-50, J&K Scientific, Milton, Ontario, Canada).  The results from 
+the DB-17MS column are denoted as GC/MS Ia and those from the LC-50 column as GC/MS Ib. 
+ 
+For the GC/MS (II) determination of the PAHs, one test portion (90 mg to 100 mg) from each of six ampoules was transferred to 
+a vial, spiked with a known amount of internal standard solution (see below), and diluted with 2 % dichloromethane in hexane 
+(volume fractions).  A portion of the diluted oil (0.1 mL) was fractionated using an aminopropyl solid-phase extraction (SPE) 
+column to isolate the fraction of interest.  Following a concentration step, the isolated fraction was analyzed by GC/MS using a 
+0.25 mm i.d. × 60 m fused silica capillary column with a 50 % phenyl methylpolysiloxane phase (0.25 μm film thickness; ZB-50 
+column, Phenomenex, Torrance, CA). 
+ 
+For the GC/MS (III) determination of the PAHs, hopanes, and steranes, one test portion (1 mL, exact mass known) from each of 
+three ampoules was transferred to a bottle and diluted with 25 mL of hexane (exact mass known) prior to adding the internal 
+standards (see below).  The extracts were fractionated into two fractions using a silica/alumina column with the majority of the 
+aliphatics, hopanes, and steranes in fraction 1 and the majority of the PAHs in fraction 2.  The analytes of interest were quantified 
+using GC/MS on a 0.25 mm i.d. × 60 m fused silica capillary column with a 50 % (mole fraction) phenyl methylpolysiloxane 
+phase (0.25 μm film thickness; Rxi-17sil MS, Restek, Bellefonte, PA). 
+ 
+For the methods described above, selected perdeuterated PAHs and perdeuterated aliphatics were added to the crude oil as 
+described above for use as internal standards for quantification purposes.   
+ 
+In  addition  to  the  analyses  performed  at  NIST,  SRM 1582  was  used  in  an  interlaboratory  comparison  exercise  in 
+2011 [3].    Results  from  24 laboratories  that  participated  in  this  exercise  were  used  as  the  fourth  data  set  in  the 
+                     
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 1582 
+
+ 
+
+Page 2 of 8 
+
+determination of the values for PAHs, hopanes, and steranes in SRM 1582.  Note that not all laboratories returned data 
+for each analyte.  The laboratories participating in this exercise used the analytical procedures routinely used in their 
+laboratories to measure the analytes of interest.  For the alkylated PAHs, the majority of the laboratories (>90 %) used the 
+parent PAH for determination of the response factor for the corresponding alkylated group. 
+ 
+Homogeneity Assessment for PAHs:  The homogeneity of SRM 1582 was assessed during the original certification study.  No 
+differences among ampoules were observed for the PAHs at the 100 mg sample size.  
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for Selected PAHs in SRM 1582 
+
+ 
+ 
+ 
+
+Naphthalene(a,b,c,d) 
+1-Methylnaphthalene(a,b,d) 
+2-Methylnaphthalene(a,b,d) 
+Phenanthrene(a,b,c,d,g) 
+1-Methylphenanthrene(a,b,c,g) 
+2-Methylphenanthrene(a,b,c,g) 
+3-Methylphenanthrene(a,b,c,g) 
+9-Methylphenanthrene(a,b,c,g) 
+Fluoranthene(a,b,c,d,g) 
+Pyrene(a,b,c,d,g) 
+Benz[a]anthracene(a,b,c,g) 
+Chrysene/Triphenylene(a,b,d,h) 
+Benzo[b]fluoranthene(a,b,c,g) 
+Benzo[e]pyrene(a,b,c,d,g) 
+Benzo[a]pyrene(a,b,c,d,g) 
+Perylene(a,b,c,d,g) 
+Benzo[ghi]perylene(a,b,c,g) 
+Dibenz[a,h]anthracene(b,c,g) 
+Picene(b,c) 
+
+k 
+
+ 
+1.97 
+
+1.97 
+
+1.96 
+1.97 
+
+1.98 
+
+Mass Fraction 
+mg/kg 
+
+  13(e) 
+153 
+  15(f) 
+348 
+  56(e) 
+547 
+  15(f) 
+99 
+  8.3(e) 
+80.1 
+  5.2(e) 
+125.0 
+  11(e) 
+104 
+  5.0(f) 
+110.1 
+  0.78(f) 
+3.62 
+  1.4(e) 
+11.9 
+  0.45(e) 
+3.63 
+  1.4(e) 
+18.2 
+  0.30(e) 
+2.66 
+  0.57(f) 
+3.98 
+  0.15(e) 
+1.07 
+  1.7(e) 
+30.0 
+  0.20(e) 
+1.75 
+0.594    0.021(e) 
+0.842    0.038(e) 
+
+ 
+(a)  GC/MS Ia using LC fractionation followed by analysis on a DB-17MS column. 
+(b) GC/MS II using SPE clean-up followed by analysis on a ZB-50 column. 
+(c) GC/MS III using silica/alumina fractionation followed by analysis on an Rxi-17sil MS column. 
+(d) Data from the interlaboratory study [3]. 
+(e) The certified value is a weighted mean of average mass fractions, with one average each from two to five analytical methods [4,5].  The 
+standard uncertainty is the estimated standard deviation of the sampling distribution of the weighted mean [5,6].  The expanded uncertainty is 
+twice the standard uncertainty, which is consistent with the ISO Guide [7,8]. 
+
+(f)  The certified value is a weighted mean of average mass fractions, with one average each from two to five analytical methods [4,5].  
+The expanded uncertainty is the half width of a symmetric 95 % parametric bootstrap confidence interval [9], and is consistent with 
+the ISO Guide [7,8].  The effective coverage factor k is given above. 
+(g) GC/MS Ib using LC fractionation followed by analysis on an LC-50 column. 
+(h) Chrysene and triphenylene co-elute under the GC conditions used for these measurements. 
+ 
+
+SRM 1582 
+
+ 
+
+Page 3 of 8 
+
+Table 2.  Reference Mass Fraction Values for Selected PAHs in SRM 1582 
+
+Mass Fraction  
+mg/kg  
+
+27.9 
+23.9 
+
+  1.5(e) 
+  7.5(e) 
+  88(e) 
+  40(g) 
+  11(e) 
+  15(e) 
+
+477 
+250 
+37 
+46 
+2.50    0.16(e) 
+  1.6(e) 
+10.2 
+  29(e) 
+
+115 
+
+4.18    0.22(g) 
+0.59    0.12(g) 
+  3.2(e) 
+10.4 
+  1.6(e) 
+15.6 
+6.82    0.17(e) 
+0.75(e) 
+  8.24     
+0.042(e) 
+  0.610    
+0.85    0.20(g) 
+0.288    0.037(g) 
+
+Biphenyl(a,b,c,d) 
+Acenaphthene(a,b,c,d) 
+1,6-Dimethylnaphthalene(a,b) 
+1,6,7-Trimethylnaphthalene(f) 
+Fluorene(a,b,c,d) 
+Dibenzothiophene(a,b,c,d) 
+Anthracene(a,g) 
+2-Methylanthracene(b,c) 
+1,7-Dimethylphenanthrene(a,b,c,f) 
+1-Methylfluoranthene(f) 
+3-Methylfluoranthene(f) 
+1-Methylpyrene(a,b,c,f) 
+4-Methylpyrene(a,b,c,f) 
+Triphenylene(c,f) 
+6-Methylchrysene(a,b,c,f) 
+Benzo[j]fluoranthene(a,f) 
+Dibenz[a,c]anthracene(b) 
+Benzo[b]chrysene(c) 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+(a) GC/MS Ia using LC fractionation followed by analysis on a DB-17MS column. 
+(b) GC/MS II using SPE clean-up followed by analysis on a ZB-50 column. 
+(c) GC/MS III using silica/alumina fractionation followed by analysis on an Rxi-17sil MS column. 
+(d) Data from the interlaboratory study [3]. 
+(e)  The  reference  value  is  a  swighted  mean  of  the  average  mass  fractions,  with  one  average  each  from  two  to  four  analytical 
+methods [4,5].    The  standard  uncertainty  is  the  estimated  standard  deviation  of  the  sampling  distribution  of  the  weighted 
+means [5,6].  The expanded uncertainty is twice the standard uncertainty, which is consistent with the ISO Guide [7,8]. 
+
+(f)  GC/MS Ib using LC fractionation followed by analysis on a LC-50 column. 
+(g)  The reference mass fraction value is the mean of results using one analytical technique.  The expanded uncertainty, U, is calculated as 
+U = kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is  determined  from  the 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95 % confidence level for each analyte.  Degrees of 
+freedom:  15 for 2,6,7-trimethylnaphthalene  and  2 for 1-methylfluoranthene,  3-methylfluoranthene,  dibenz[a,c]anthracene,  and 
+benzo[b]chrysene. 
+
+SRM 1582 
+
+ 
+
+Page 4 of 8 
+
+ 
+ 
+ 
+
+Table 3.  Reference Values for Selected Alkylated PAH Groups in SRM 1582 
+
+Mass Fraction(a) 
+mg/kg  
+
+Degrees of Freedom 
+
+C1-decalins 
+C2-decalins 
+C3-decalins 
+C4-decalins 
+C1-naphthalenes 
+C2-naphthalenes 
+C3-naphthalenes 
+C4-naphthalenes 
+C1-benzothiophenes 
+C2-benzothiophenes 
+C3 benzothiophenes 
+C4-benzothiophenes 
+C1-fluorenes 
+C2-fluorenes 
+C3-fluorenes 
+C1-phenanthrenes/anthracenes 
+C2-phenanthrenes/anthracenes 
+C3-phenanthrenes/anthracenes 
+C4-phenanthrenes/anthracenes 
+C1-dibenzothiophenes 
+C2-dibenzothiophenes 
+C3-dibenzothiophenes 
+C4-dibenzothiophenes 
+C1-fluoranthenes/pyrenes 
+C2-fluoranthenes/pyrenes 
+C3-fluoranthenes/pyrenes 
+C4-fluoranthenes/pyrenes 
+C1-naphthobenzothiophenes 
+C2-naphthobenzothiophenes 
+C3-naphthobenzothiophenes 
+C4-naphthobenzothiophenes 
+C1-benzanthraces/chrysenes/triphenylenes 
+C2-benzanthraces/chrysenes/triphenylenes 
+C3-benzanthraces/chrysenes/triphenylenes 
+C4-benzanthraces/chrysenes/triphenylenes 
+
+860    300 
+1530    610 
+1460    600 
+860    330 
+90 
+620   
+1100    170 
+1100    200 
+770    150 
+6 
+30 
+30 
+20 
+20 
+40 
+20 
+50 
+50 
+50 
+40 
+16 
+30 
+20 
+20 
+7 
+10 
+20 
+30 
+17 
+18 
+18 
+26 
+5 
+15 
+16 
+18 
+
+48   
+91   
+160   
+140   
+120   
+230   
+230   
+350   
+470   
+430   
+230   
+120   
+190   
+170   
+100   
+52   
+96   
+120   
+110   
+62   
+84   
+79   
+52   
+54   
+100   
+92   
+78   
+
+ 6 
+ 5 
+ 5 
+ 5 
+20 
+21 
+20 
+20 
+ 6 
+ 6 
+ 5 
+ 5 
+19 
+19 
+20 
+22 
+21 
+20 
+17 
+21 
+21 
+19 
+16 
+19 
+16 
+18 
+10 
+ 7 
+ 7 
+ 6 
+ 6 
+17 
+18 
+17 
+14 
+
+ 
+(a)  The  reference  mass  fraction value  is the mean of results  from the interlaboratory study [3].  The expanded uncertainty, U, is 
+calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and a 95 % confidence level for each analyte.   
+
+SRM 1582 
+
+ 
+
+Page 5 of 8 
+
+Table 4.  Reference Values for Selected Hopanes and Steranes in SRM 1582 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+17α(H)-22,29,30-Trisnorhopane(a,b,c) 
+17α(H), 21β(H)-30-Norhopane(a,b,c) 
+18α(H)-22,29,30-Trisnorhopane(c) 
+17α(H), 21β(H)-30-Hopane(a,b,c) 
+17α(H), 21β(H)-22R-Homohopane(a,b,c) 
+17α(H), 21β(H)-22S-Homohopane(a,b,c) 
+13β(H),17α(H)-Diacholestane 20S(c) 
+5α(H), 14α(H),17α(H)-Cholestane 20S(c) 
+5α(H), 14α(H),17α(H)-Cholestane 20R(a,b,c) 
+5α(H), 14α(H),17α(H)-24-Ethylcholestane 20S(c) 
+5α(H), 14α(H),17α(H)-24-Ethylcholestane 20R(a,b,c) 
+5α(H), 14 β (H),17β(H)-Cholestane 20S(c) 
+5α(H), 14 β (H),17β(H)-Cholestane 20R(a,b,c) 
+5α(H), 14 β (H),17β(H)-24-Ethylcholestane 20S(c) 
+5α(H), 14 β (H),17β(H)-24-Ethylcholestane 20R(c) 
+
+ 
+ 
+ 
+ 
+ 
+(a) GC/MS Ia using LC fractionation followed by analysis on a DB-17MS column. 
+(b) GC/MS III using silica/alumina fractionation followed by analysis on an Rxi-17sil MS column. 
+(c) Data from the interlaboratory study [3]. 
+(d)  The reference mass fraction value is a weighted mean of the mass fractions from three analytical methods [4].  The uncertainty 
+listed with each value is an expanded uncertainty about the mean [4,5], with coverage factor, k = 2, calculated by combining 
+within-method variances with a between-method variance [6] following the ISO Guide [7,8]. 
+
+(e)  The reference mass fraction value is the mean of results using one analytical technique.  The expanded uncertainty, U, is calculated as 
+U = kuc,  where  uc  is  one  standard  deviation  of  the  analyte  mean,  and  the  coverage  factor,  k,  is  determined  from  the 
+Student’s t-distribution corresponding to eight degrees of freedom and a 95 % confidence level for each analyte.   
+
+Mass Fraction  
+mg/kg 
+
+  15(d) 
+
+48.0    4.9(d) 
+142 
+20.1    3.4(e) 
+283 
+85 
+100 
+96 
+233 
+270 
+223 
+116 
+174 
+173 
+115 
+116 
+
+  47(d) 
+  18(d) 
+  34(d) 
+  23(e) 
+  50(e) 
+ 150(d) 
+  63(e) 
+  47(d) 
+  38(e) 
+  20(d) 
+  28(e) 
+  47(e) 
+
+SRM 1582 
+
+ 
+
+Page 6 of 8 
+
+ 
+
+ 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G..; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing Office: 
+Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed June 2012). 
+
+[2]  Wise, S.A.; Poster, D.L.; Kucklick, J.R.; Keller, J.M.; VanderPol, S.S.; Sander, L.C.; Schantz, M.M.; Standard 
+Reference  Materials  (SRMs)  for  Determination  of  Organic  Contaminants  in  Environmental  Samples;  Anal. 
+Bioanal. Chem., Vol. 386, pp. 1153-1190 (2006). 
+
+[3]  Schantz, M.M.; Kucklick, J.R.; NIST Interlaboratory Analytical Comparison Study to Support Deepwatem Horizon 
+Natural  Resource  Damage  Assessment:  Description  and  Results  for  Crude  Oil  QA10OIL01;  NISTIR 7793 
+National Institute of Standards and Technology, U.S. Department of Commerce: Gaithersburg, MD (2011). 
+
+[4]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177-188 (1986). 
+[5]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323-331 (2009). 
+[6]  Horn, R.A.; Horn, S.A.; Duncan, D.B.; Estimating Heteroscedastic Variance in Linear Models; J. Am. Stat. 
+
+[7] 
+
+[8] 
+
+Assoc., Vol. 70, pp. 380-385 (1975). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  June 2012);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed June 2012). 
+JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the Guide to Expression of Uncertainty in 
+Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology (BIPM, IEC, IFCC, ILAC, ISO, IUPAC, IUPAP and OIML), International Bureau of Weights and 
+Measures 
+at 
+available 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed June 2012). 
+
+(BIPM), 
+
+(2008); 
+
+Sèvres, 
+
+France 
+
+[9]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  26 June 2012 (Updated certified mass fraction values for six PAHs, and added new certified and reference values for 
+additional PAHs, alkylated PAHs, hopanes, and steranes; added expiration date; editorial changes); 23 January 1984 (Original certificate date).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 1582 
+
+ 
+
+Page 7 of 8 
+
+APPENDIX A 
+
+ 
+The analysts and laboratories listed below participated in the interlaboratory comparison exercise for the determination of 
+PAHs, hopanes, and steranes in SRM 1582 [3]. 
+ 
+E. Porta, Alpha Analytical, Inc., Mansfield, MA, USA 
+D. Birkholz and S. Stilson, ALS Environmental Division, Edmonton, AB, Canada 
+K. Krahforst, Battelle Analytical & Environmental Chemistry Laboratory, Duxbury, MA, USA 
+J. Wiegel and K. Fedele, Columbia Analytical Services, Jacksonville, FL, USA 
+M. Perry, Columbia Analytical Services, Rochester, NY, USA 
+G. Salata and J. Gish, Columbia Analytical Services, Kelso, WA, USA 
+P. Gardinali, Florida International University, North Miami, FL, USA 
+K. Aldous and S. Shaver, New York State Department of Health, Albany, NY, USA 
+E. Wirth, NOAA/NCCOS/NOS, Charleston, SC, USA 
+M. Carls and M. Larsen, NOAA/NMFS/Alaska Fisheries Science Center, Juneau, AK, USA 
+J. Bolton, C. Sloan, G. Yitalo, NOAA/NMFS/NW Fisheries Science Center, Seattle, WA, USA 
+C. Nowlan, Pace Analytical Services, Inc., Minneapolis, MN, USA 
+K. Rickabaugh, A. Levine, S. Schlager, RJ Lee Group, Inc., Monroeville, PA, USA 
+Y. Yohannes, RJ Lee Group, Inc., Pasco, WA, USA 
+J. Ramirez, TDI/B&B Laboratories, Inc., College Station, TX, USA 
+C. Newton and E. Schellinger, TestAmerica Laboratories, Mobile, AL, USA 
+K. Buechler and S. Rogers, TestAmerica Laboratories, West Sacramento, CA, USA 
+M. Healy, T. Preston, G. Rynker, G. Swaney, TestAmerica Laboratories, University Park, IL, USA 
+L. Matko and S. Bacha, TestAmerica Laboratories, Pittsburgh, PA, USA 
+T. Yoder and B. Wagner, TestAmerica Laboratories, Knoxville, TN, USA 
+B. Stearns, TestAmerica Laboratories, South Burlington, VT, USA 
+K. Kreps and C. McKean, TestAmerica Laboratories, Tacoma, WA, USA 
+J. Sericano and T. Wade, Texas A&M University, College Station, TX, USA 
+T. Cain and M. Wichman, University of Iowa, Iowa City, IO, USA 
+ 
+ 
+
+SRM 1582 
+
+ 
+
+Page 8 of 8 
+
+

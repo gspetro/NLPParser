@@ -1,0 +1,270 @@
+﻿Naltonal  institute  of  Standards  &  Cerbnology 
+
+Certificate  of  Analysts 
+
+Standard  Reference  Material  2201 
+
+Sodium  Chloride 
+
+(Standard  for  Ion-Selective  Electrodes) 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  calibration  of  ion-selective 
+electrodes  for  sodium  and  chloride  ions. 
+It  conforms  to  the  American  Chemical  Society  specifications  for 
+analytical  reagent-grade  material,  but  should  not  be  considered  entirely  free  from  impurities  such  as  occluded 
+water  and  traces  of  bromide  and  heavy  metals.  Coulometric  analysis  of  this  material  indicates  99.9%  purity, 
+and  upon  drying  at  450  °C  for  24  h,  99.99%  of  the  calculated  chloride  was  found.  SRM  2201  is  provided  in 
+a  unit  of  125  g. 
+
+This  material  is  certified  for  the  activity  coefficients  at  25  °C  of  the  sodium  and  chloride  ions  at  various 
+concentrations  and  the  related  values,  pNa  and  pCl.  These  values  are  given  in  the  table  on  the  reverse  page. 
+The  accuracies  of  the  pNa  and  pCi  values  are  estimated  to  be  +  0.01.  The  mean  activity  coefficient  may  be 
+represented  by  the  equation: 
+
+log  y 
+
++ 
+
+=  —————_——— 
+
++  BI  +  Cl*  +  DI 
+
+2. 
+
+3 
+
+-| 
+
+Z,  Z_|  AI”? 
++  Br 
+1 
+
+where I 
+is  the  ionic  strength  at  25  °C,  Z,  the  charge  on  the  cation,  Z__  the  charge  on  the  anion,  and  A  and 
+B  the  Debye-Huckel  constants.  Both  Z,  and  Z__are  1  in  the  case  of  sodium  chloride.  The  numerical  values 
+of  the  constants  are  25  °C  are: 
+
+A= 
+B= 
+B= 
+C= 
+D  = 
+
+0.5108 
+1.4495 
+2.0442  x  10 
+ 5.7927x  10° 
+(-)2.8860  x  104 
+
+These  constants  are  valid  to  6.144  molal  (saturation). 
+(bromide,  potassium,  etc.)  were  each  less  than  100  mg/kg. 
+
+The  amounts  of  interfering  ions  in  this  material 
+
+Expiration  of  Certification:  This  certification  is  valid  for  five  years  from  date  of  shipment  from  NIST. 
+
+This  Certificate  of Analysis  has  undergone  editorial  revision  to  reflect program  and  organizational  changes  at  NIST 
+and  at  the  Department  of  Commerce.  No  attempt  was  made  to  reevaluate  the  certificate  values  or  any  technical 
+data  presented  on  this  certificate. 
+
+The  overall  direction  and  coordination  of  the  technical  measurements  leading  to  certification  were  performed 
+under  the  chairmanship  of  R.A.  Durst. 
+
+Gaithersburg,  MD  20899 
+May  24,  1993 
+(Revision  of  certificate  dated  3-30-84) 
+
+(over)
+
+Thomas  E.  Gills,  Acting  Chief 
+Standard  Reference  Materials  Program 
+
+  
+
+The  technical  and  support  aspects  involved  in  the  original  certification  and  issuance  of  this  SRM  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  T.W.  Mears.  Revision  of  this  certificate 
+was  coordinated  thorough  the  Standard  Reference  Materials  Program  by  J.C.  Colbert. 
+
+Certified  values  of  activity,  activity  coefficients  (y)  pNa  and  pC1  at  25  °C 
+
+Molality 
+(m) 
+
+Molarity 
+(M) 
+
+Concentration* 
+
+g/L 
+
+Na* 
+
+cr 
+
+0.001 
+0.01 
+0.1 
+0.2 
+0.3 
+0.5 
+1.0 
+1.5 
+2.0 
+
+0.000997 
+0.00997 
+0.0995 
+0.1987 
+0.2975 
+0.4941 
+0.9789 
+1.4543 
+1.9200 
+
+0.0229 
+0.2292 
+2.287 
+4.568 
+6.839 
+11.359 
+22.505 
+33.434 
+44.140 
+
+0.0353 
+0.3535 
+3.528 
+7,045 
+10.547 
+17.517 
+34.705 
+51.559 
+68.070 
+
+Mean 
+Molal 
+yt 
+
+0.965 
+0.093 
+0.779 
+0.734 
+0.709 
+0.681 
+0.657 
+0.657 
+0.668 
+
+Activity 
+Nat* 
+
+0.000965 
+0.00903 
+0.0784 
+0.149 
+0.216 
+0.350 
+0.696 
+1.077 
+1.504 
+
+y+ 
+
+0.965 
+0.903 
+0.784 
+0.743 
+0.721 
+0.701 
+0.696 
+0.718 
+0.752 
+
+Activity 
+cr 
+
+0.000965 
+0.00902 
+0.0774 
+0.145 
+0.209 
+0.331 
+0.620 
+0.904 
+1.187 
+
+y- 
+
+pNa 
+
+pci 
+
+0.965 
+0.902 
+0.774 
+0.726 
+0.697 
+0.662 
+0.620 
+0.602 
+0.593 
+
+3.015 
+2.044 
+1.106 
+0.828 
+0.665 
+0.455 
+0.157 
+vonn 
+“+ 
+
+3.015 
+2.045 
+1.112 
+0.838 
+0.680 
+0.480 
+0.208 
+0.046 
+-— 
+
+*To  convert  to  parts  per  million  (mg/L)  multiply  by  10°. 
+
+The  mean  activity  coefficient  at  temperatures  from  15  to  45  °C  and  for  any  concentration  up  to  0.1  molal  may 
+be  calculated  by  using  the  equation  on  the  face  of  the  certificate  and  these  temperature-dependence 
+expressions  for  its  constants,  A,  B,  and  8.  (Constants  C  and  D  are  unimportant  at  0.1  molal  and  below.) 
+
+A  =  0.5108  +  8.4705  x  10%  (t-25)  +  3.5498  x  10%  (t-25)* 
+B  =  1.4495  (1.0  +  4.7218  x  10“  (t-25)) 
+B  =  0.020442  +  6.21  x  107  (t-25)  -  2.00  x  10°  (t-25) 
+
+The  values  for  pNa  and  pCl  may  be  calculated  from  log  y+  using  the  procedure  described  in  Reference  [1]. 
+
+Preparation  of  Standard  Solutions 
+
+To  prepare  a  1.0  molal  solution,  transfer  57.198  g  of  sodium  chloride  (weight  in  air)  to  a  1-L  volumetric  flask. 
+Dissolve  and  fill  to  the  mark  with  distilled  water  at  25  °C.  The  distilled  water  should  have  a  conductivity  no 
+greater  than  2  x  10°  siemens/cm.  The  sodium  chloride  should  be  dried  for  2  h  at  110  °C  before  use.  Similarly, 
+a  0.1  molal  solution  may  be  prepared  by  the  transfer  of  5.815  g  of  sodium  chloride  (weight  in  air)  to  a  1-L 
+volumetric  flask,  dissolving,  and  diluting  to  mark  with  distilled  water  at  25  °C.  Appropriate  dilution  of  either 
+standard  solution  should  be  used  to  obtain  standards  in  the  concentration  range  of  interest  to  the  user. 
+
+Electrode  Calibration 
+
+is  recommended  that  reference  standards  be  used  at  a  concentration  similar  to  that  of  the  sample  to 
+It 
+Use  of  a  bracketing  technique  will  minimize  errors  due  to  non- 
+minimize  liquid  junction  potential  errors. 
+Nernstian  response  of  the  electrodes.  The  use  of  two  standard  solutions  that  bracket  the  concentration  of  the 
+sample  solution  increases  the  reliability  of  the  measurement.  Thus,  if  standard  solutions  of  concentrations 
+slightly  higher  and  lower  than  the  sample  solution  are  used  to  calibrate  the  pH/millivolt  meter,  the  errors  due 
+to  liquid  junction  potential  will  be  small. 
+
+[1] 
+
+Bates,  R.,  Staples,  B.R.,  Anal.  Chem  42,  867,  (1970).
+
+REFERENCES 
+
+

@@ -1,0 +1,3885 @@
+﻿APPENDIX
+
+Table A1.  Grid Serial Number:  3xxxxx
+
+APPENDIX
+
+
+
+Grid Serial Number:  3xxxxx
+
+
+
+APPENDIX
+
+Table A2.  Grid Serial Number:  3xxxxx
+
+
+
+
+
+National Institute of Standards & Technology
+
+
+
+Certificate
+
+
+
+Standard Reference Material® 5001
+
+	
+
+	TwoDimensional Grid Photomask Standard
+
+
+
+Serial No.:  SAMPLE
+
+
+
+This Standard Reference Material (SRM) is intended primarily for calibrating high accuracy twodimensional (XY) Photomask/Reticle registration metrology tools such as the IPRO, the IPRO II and the Leica 2020 as well as older tools such as the Nikon XY_5i.  In particular, this calibration artifact can also be used in metrology tools capable of holding any artifact with these dimensions in need of a calibrated measurement field.  Examples of additional tools are defect inspection and classification tools, optical tools used in manufacture of flat panel displays or scanning electron microscopy tools used in photomask and wafer inspection.  
+
+
+
+SRM 5001 consists of a grid of 27  27 unit cells with a nominal 5 mm pitch between cells.  Each cell consists of a frame, a solid box and a microarray as shown in Figure 1.  This grid pattern is printed on fusedquartz substrate with nominal dimensions of 15.2 cm  15.2 cm   0.64 cm or 6.0 in  6.0 in  0.25 in using Photomask production techniques [1,2].  
+
+
+
+The positions of the centers of the frames are reported in the appendix for every other row and column. 
+
+
+
+Expiration of Certification:  The certification of SRM 5001 is valid, within the measurement uncertainty specified, until 28 December 2027, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Care and Cleaning”). This certification will be nullified if the SRM is damaged, contaminated, or modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+Care and Cleaning:  Care must be taken when handling this SRM.  Avoid touching the surface, especially with fingers or with the microscope objective lens while setting up and focusing.  The surface may be cleaned by rinsing with distilled water with an added wetting agent, or with a clean organic solvent provided no residue is left.  The materials are fused quartz and antireflecting (oxidized) chromium. 
+
+
+
+Overall direction and coordination of this work was managed by R.M. Silver and T.D. Doiron of the NIST Engineering Physics Division. 
+
+
+
+Measurements made on the NIST Linescale Interferometer were made by W.B. Penzes and J.S. Beers of the NIST Engineering Physics Division. 
+
+
+
+Statistical analysis was performed by L.P. Howard and T.D. Doiron of the NIST Engineering Physics Division with statistical help from NF. Zhang and W.F. Guthrie of the NIST Statistical Engineering Division.
+
+
+
+	Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials. 
+
+
+
+
+
+		David Gundlach, Chief
+
+		Engineering Physics Division
+
+	
+
+				Gaithersburg, MD  20899	Steven J. Choquette, Director
+
+			Certificate Issue Date:  18 June 2018	Office of Reference Materials
+
+Certificate Revision History on Page 6
+
+			History of SRM 5001()
+
+
+
+As semiconductor features become smaller and the chips and wafers become larger, the accurate placement of features on the chip becomes more and more challenging.  Photolithographic leveltolevel and withindie feature registration is a critical manufacturing parameter directly affected by the accuracy in which photomask feature placement is manufactured and measured.  The current industry registration metrology of photomasks is based on very accurate and repeatable 2D measuring machines.  These instruments, which cost millions of dollars, can now be calibrated with this traceable artifact and an appropriate calibration procedure. 
+
+ 
+
+NIST has coled a SEMI task force on 2D measurements techniques and artifacts.  This group, which includes representatives of leading measurement equipment manufacturers and users such as IBM, Intel, VLSI, Leica, and Nikon, agreed on a standardized pattern of reference marks on a 160mm grid plate.  The patterns and reference marks used for the design of this SRM are based directly on these industry consensus designs.  
+
+ 
+
+Certification Technique:  These SRMs were measured on a Nikon XY_5i measuring instrument using a basic ABBA measurement comparison method.  ‘A’ represents the master plate with known values and ‘B’ represents the test plate. Measurements are taken in a relatively short time frame in a drifteliminating design.  Using this method, the environmental effects are negligible and the Nikon scale errors will be common to both plates and therefore cancel out.  The Nikon is simply used as a comparator and the differences between the master plate and test plate are the only concern.  The known values of the master plate come from the measurements performed on the IPRO.  The IPRO can measure twodimensional artifacts and has excellent repeatability, whose reported 3σ is approximately 5 nm.  The SRMs were measured in two orthogonal orientations in order to evaluate scale errors and nonorthogonality errors.  Additional measurements of several plates have been made on NIST’s traceable onedimensional Linescale Interferometer (LSI) to verify a subset of the IPRO measurements.  
+
+ 
+
+The data analysis procedure involved calculating the scale factor between the NIST LSI and the IPRO, which showed the two instruments were not statistically different and therefore required no scaling of the IPRO data. Subsequently, the measurements were corrected for nonorthogonality errors by applying the ALBE3 algorithm [3].  Finally, various statistical analysis techniques were used to calculate the magnitude of other uncertainty components including: uncertainty due to error map residuals, uncertainty due to line geometry effects, sample printing variations, and the repeatability of the Nikon XY_5i. 
+
+ 
+
+From this analysis, we developed an uncertainty budget and a final certification procedure for this SRM.  This uncertainty budget is based on the superb repeatability of the industrial tools with traceability resulting from the Linescale Interferometer.  Effectively, the industry tool used in the NIST calibration procedure is calibrated through a statistically and metrologically appropriate sampling strategy. 
+
+
+
+Metrological Traceability:  The certified values are metrologically traceable to the SI unit of length via stabilized lasers using frequencies listed in the BIPM Mise en Pratique for length.
+
+ 
+
+Calibration Uncertainty:  The calibration uncertainty components and their values are listed in Table 1. 
+
+
+
+Table 1.  SRM 5001 Calibration Uncertainty Components
+
+
+
+
+
+Error Description
+
+Type
+
+Length Dependent
+
+Value
+
+Repeatability of IPRO
+
+B
+
+No
+
+1.7 nm
+
+Uncertainty of the LSI
+
+B
+
+Yes
+
+3 nm + 0.07 × 106 × L(a)
+
+Error Map Residuals
+
+A
+
+No
+
+5 nm
+
+Thermal Expansion
+
+B
+
+Yes
+
+Negligible
+
+Elastic Deformation
+
+B
+
+No
+
+Sampled in Scale Uncertainty
+
+Line Geometry Effects
+
+A
+
+No
+
+6 nm
+
+Nikon Repeatability
+
+B
+
+No
+
+3 nm
+
+	(a)	L is the distance between any two frame centers.
+
+
+
+
+
+ 
+
+ 
+
+	Figure 1.  2D Grid has 27 × 27 unit cells with a 5000 µm pitch.  Each unit cell contains a single frame, a solid box, and a 13 × 13 microarray of frames.  Nominal feature dimensions: Frame: 2 µm lines, 18 µm edge to edge (square); Box: 18 µm edge to edge (square); Microarray:  1 µm lines, 5 µm edge to edge (square), 8 µm pitch (center to center)
+
+
+Repeatability of IPRO:  IPRO repeatability is reported by Leica to be represented by a 3σ of approximately 5 nm.  This error source is also sampled when the Error Map Residuals contribution (line item 3 in Table 1 is calculated); but it is difficult to separate the repeatability from the residual error map uncertainties. In order to properly account for this error source, it is essentially counted twice (line items 1 and 4 in Table 1). 
+
+
+
+Uncertainty of the NIST Linescale Interferometer (LSI):  A complete description of the NIST Linescale interferometer as well as an evaluation of the measurement uncertainties is available [4]. 
+
+ 
+
+Scale:  The major error not sampled and corrected in the IPRO error mapping procedure is scale.  For each plate we have compared the 2D measurements with two orthogonal lines on the plate measured with the NIST Linescale Interferometer.  Typical comparisons of the two measurement orientations are shown in Figure 2. 
+
+ 
+
+  
+
+
+
+Figure 2.  Comparison of scale factors calculated from measurements in two orthogonal orientations. The IPRO results were measured using its two axes while the NIST LSI results were measured by rotating the Photomask. In general, the two scales are indistinguishable given the uncertainties of the NIST LSI and the IPRO. 
+
+
+
+Error Map Residuals:  The reproducibility and error map residuals are sampled by measuring the plate in two orientations.  The differences in these two measurements contain variability due to the short term repeatability of the machine and sensor system, daytoday variations in the environment, and the residual error not compensated in the error map.  The data were analyzed by comparing the distances between each two grid points in the two orientations.  Since there are 196 points on each grid, there are 196 × 195 ÷ 2 or 19 110 different distances in the analysis.  The graphs below show both a fuzz plot of all the differences for one sample (Figure 3a) and the standard deviations of the differences for each distinct nominal distance on the plates for all the samples (Figure 3b). 
+
+
+
+  
+
+
+
+Figure 3a.  Fuzz plot showing the differences between distances measured at two orthogonal orientations. For example, each nearest neighbor distance is calculated for each orientation and the difference taken. These are the set of points shown on the graph at a nominal distance of 10 mm. 
+
+ 
+
+  
+
+ 
+
+Figure 3b.  The standard deviation of the difference between distances at the two orthogonal orientations is calculated for each nominal distance.  This gives an estimate of the reproducibility and error map residuals. 
+
+
+
+These graphs show no length dependence.  A worstcase value is used as the standard uncertainty due to residual mapping errors: 
+
+
+
+uerror map residuals  =  5 nm
+
+
+
+Thermal Expansion:  The effect of thermal expansion is corrected when we measure the grid on the line scale interferometer.  Since the linescale interferometer thermometer system has an uncertainty of less than 1 mK and the coefficient of thermal expansion of fused silica is estimated to be 0.5 (m/m)/°C, the uncertainty from the plate temperature is negligible. 
+
+
+
+Elastic Deformation:  The glass plate bends, and with the grid marks on the top surface (away from the neutral plane) any bending will change the distance between the grid marks.  The plate is supported by three points at the edge of the plate in the 2D machine.  The data are then corrected by the software to give the positions of the points for the undeformed plate.  For the linescale measurements, the plate is supported at three points that produced negligible bending along the measurement line.  Any error in the correction in the 2D data would be sampled adequately in the scale comparison, so there is not a separate estimate of the uncertainty of this effect. 
+
+ 
+
+Line Geometry Effects:  The lines are, of course, not perfect.  Measurements made using the inside edges of the lines and the outside edges of the lines showed systematic changes in the data.  In fact, the systematic changes in the grid mark positions caused by changing the edges of the lines were larger than those seen when the same edges were used but the plate rotated 90°.  Experiments were performed where the center of the target (frame) was determined using the outside edges of the frame and then remeasured using the inside edges of the frame.  This shows the uncertainty in the frame position caused by variations in the frame line widths. 
+
+ 
+
+When the same edges were used and the data compared, the grid positions were very repeatable, with a standard deviation of slightly above 2 nm.  When the positions found from the outside edges and inside edges were compared, the standard deviation rose to about 5.5 nm.  This difference is caused by the variation in line width of the frames.  The difference between these standard deviations, about 6 nm, is taken as the standard uncertainty in point positions from line width variations. 
+
+ 
+
+PlatetoPlate Variation:   Since all plates were measured on the Nikon XY_5i using the ABBA comparison method, any platetoplate variations have been measured and sampled within the repeatability of the instrument.
+
+
+
+Combined Uncertainty:  We have combined (RSS) the standard uncertainties from Table 1 for each nominal distance on the artifact.  This results in a 3rd order relationship. As a conservative approximation of the uncertainty, a linear fit has been applied between the extreme lengths of zero and 183.85 mm.  
+
+ 
+
+For the linear relationship: 
+
+
+
+uc  =  3.5  ×  108  ×  L  +  8.7 nm
+
+
+
+The expanded uncertainty (k = 2) for the linear relationship: 
+
+
+
+Expanded Uncertainty  =  7.0  ×  108  ×    +  17.4 nm
+
+
+
+Calibration Traceability:  Traceability to the meter was established through the Linescale Interferometer by measuring both axes of several of the samples, thus verifying the IPRO measurements.
+
+ 
+
+
+
+
+
+REFERENCES 
+
+ 
+
+	[1] 	Silver, R.M.; Doiron, T.D.; Penzes, W.B.; Fox, S.; Kornegay, E.; Rathjen, S.; Takac, M.; Owen, D.; TwoDimensional Calibration Artifact and Measurement Methodology; Proc. SPIE, 3677, pp. 123–138 (1999). 
+
+[2] 	Evans, C.; Hocken, R.J.; Estler, T.; SelfCalibration:  Reversal, Redundancy, Error Separation, and Absolute Testing; Annals of CIRP, Vol. 45, Issue 2 (1996). 
+
+[3] 	Hocken, R.J.; Borchardt, B.R.; On Characterizing Measuring Machine Geometry; NBSIR 791752, Natl. Bur. Stand. (U.S.) (1979). 
+
+[4] 	Beers, J.S.; Penzes, W.B.; The NIST Length Scale Interferometer; J. Res. Natl. Inst. Stand. Technol., Vol. 104, p. 225 (1999). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certificate Revision History:  18 June 2018 (Change of expiration date; editorial changes); 30 May 2008 (Added expiration date); 01 November 2007 (Original certificate date).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9483730; email srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm.
+
+
+
+
+
+
+
+
+
+Row
+
+Column
+
+X
+(µm)
+
+Y
+(µm)
+
+1
+
+A
+
+	--.--
+
+	--.--
+
+1
+
+C
+
+	--.--
+
+	--.--
+
+1
+
+E
+
+	--.--
+
+	--.--
+
+1
+
+G
+
+	--.--
+
+	--.--
+
+1
+
+I
+
+	--.--
+
+	--.--
+
+1
+
+K
+
+	--.--
+
+	--.--
+
+1
+
+M
+
+	--.--
+
+	--.--
+
+1
+
+O
+
+	--.--
+
+	--.--
+
+1
+
+Q
+
+	--.--
+
+	--.--
+
+1
+
+S
+
+	--.--
+
+	--.--
+
+1
+
+U
+
+	--.--
+
+	--.--
+
+1
+
+W
+
+	--.--
+
+	--.--
+
+1
+
+Y
+
+	--.--
+
+	--.--
+
+1
+
+AA
+
+	--.--
+
+	--.--
+
+3
+
+A
+
+	--.--
+
+	--.--
+
+3
+
+C
+
+	--.--
+
+	--.--
+
+3
+
+E
+
+	--.--
+
+	--.--
+
+3
+
+G
+
+	--.--
+
+	--.--
+
+3
+
+I
+
+	--.--
+
+	--.--
+
+3
+
+K
+
+	--.--
+
+	--.--
+
+3
+
+M
+
+	--.--
+
+	--.--
+
+3
+
+O
+
+	--.--
+
+	--.--
+
+3
+
+Q
+
+	--.--
+
+	--.--
+
+3
+
+S
+
+	--.--
+
+	--.--
+
+3
+
+U
+
+	--.--
+
+	--.--
+
+3
+
+W
+
+	--.--
+
+	--.--
+
+3
+
+Y
+
+	--.--
+
+	--.--
+
+3
+
+AA
+
+	--.--
+
+	--.--
+
+5
+
+A
+
+	--.--
+
+	--.--
+
+5
+
+C
+
+	--.--
+
+	--.--
+
+5
+
+E
+
+	--.--
+
+	--.--
+
+5
+
+G
+
+	--.--
+
+	--.--
+
+5
+
+I
+
+	--.--
+
+	--.--
+
+5
+
+K
+
+	--.--
+
+	--.--
+
+5
+
+M
+
+	--.--
+
+	--.--
+
+5
+
+O
+
+	--.--
+
+	--.--
+
+5
+
+Q
+
+	--.--
+
+	--.--
+
+5
+
+S
+
+	--.--
+
+	--.--
+
+5
+
+U
+
+	--.--
+
+	--.--
+
+5
+
+W
+
+	--.--
+
+	--.--
+
+5
+
+Y
+
+	--.--
+
+	--.--
+
+5
+
+AA
+
+	--.--
+
+	--.--
+
+7
+
+A
+
+	--.--
+
+	--.--
+
+7
+
+C
+
+	--.--
+
+	--.--
+
+7
+
+E
+
+	--.--
+
+	--.--
+
+7
+
+G
+
+	--.--
+
+	--.--
+
+7
+
+I
+
+	--.--
+
+	--.--
+
+7
+
+K
+
+	--.--
+
+	--.--
+
+7
+
+M
+
+	--.--
+
+	--.--
+
+7
+
+O
+
+	--.--
+
+	--.--
+
+7
+
+Q
+
+	--.--
+
+	--.--
+
+7
+
+S
+
+	--.--
+
+	--.--
+
+7
+
+U
+
+	--.--
+
+	--.--
+
+7
+
+W
+
+	--.--
+
+	--.--
+
+7
+
+Y
+
+	--.--
+
+	--.--
+
+7
+
+AA
+
+	--.--
+
+	--.--
+
+Note:  Measurements are in units of micrometers (1006m)
+
+
+
+
+Row
+
+Column
+
+X
+(µm)
+
+Y
+(µm)
+
+9
+
+A
+
+	--.--
+
+	--.--
+
+9
+
+C
+
+	--.--
+
+	--.--
+
+9
+
+E
+
+	--.--
+
+	--.--
+
+9
+
+G
+
+	--.--
+
+	--.--
+
+9
+
+I
+
+	--.--
+
+	--.--
+
+9
+
+K
+
+	--.--
+
+	--.--
+
+9
+
+M
+
+	--.--
+
+	--.--
+
+9
+
+O
+
+	--.--
+
+	--.--
+
+9
+
+Q
+
+	--.--
+
+	--.--
+
+9
+
+S
+
+	--.--
+
+	--.--
+
+9
+
+U
+
+	--.--
+
+	--.--
+
+9
+
+W
+
+	--.--
+
+	--.--
+
+9
+
+Y
+
+	--.--
+
+	--.--
+
+9
+
+AA
+
+	--.--
+
+	--.--
+
+11
+
+A
+
+	--.--
+
+	--.--
+
+11
+
+C
+
+	--.--
+
+	--.--
+
+11
+
+E
+
+	--.--
+
+	--.--
+
+11
+
+G
+
+	--.--
+
+	--.--
+
+11
+
+I
+
+	--.--
+
+	--.--
+
+11
+
+K
+
+	--.--
+
+	--.--
+
+11
+
+M
+
+	--.--
+
+	--.--
+
+11
+
+O
+
+	--.--
+
+	--.--
+
+11
+
+Q
+
+	--.--
+
+	--.--
+
+11
+
+S
+
+	--.--
+
+	--.--
+
+11
+
+U
+
+	--.--
+
+	--.--
+
+11
+
+W
+
+	--.--
+
+	--.--
+
+11
+
+Y
+
+	--.--
+
+	--.--
+
+11
+
+AA
+
+	--.--
+
+	--.--
+
+13
+
+A
+
+	--.--
+
+	--.--
+
+13
+
+C
+
+	--.--
+
+	--.--
+
+13
+
+E
+
+	--.--
+
+	--.--
+
+13
+
+G
+
+	--.--
+
+	--.--
+
+13
+
+I
+
+	--.--
+
+	--.--
+
+13
+
+K
+
+	--.--
+
+	--.--
+
+13
+
+M
+
+	--.--
+
+	--.--
+
+13
+
+O
+
+	--.--
+
+	--.--
+
+13
+
+Q
+
+	--.--
+
+	--.--
+
+13
+
+S
+
+	--.--
+
+	--.--
+
+13
+
+U
+
+	--.--
+
+	--.--
+
+13
+
+W
+
+	--.--
+
+	--.--
+
+13
+
+Y
+
+	--.--
+
+	--.--
+
+13
+
+AA
+
+	--.--
+
+	--.--
+
+15
+
+A
+
+	--.--
+
+	--.--
+
+15
+
+C
+
+	--.--
+
+	--.--
+
+15
+
+E
+
+	--.--
+
+	--.--
+
+15
+
+G
+
+	--.--
+
+	--.--
+
+15
+
+I
+
+	--.--
+
+	--.--
+
+15
+
+K
+
+	--.--
+
+	--.--
+
+15
+
+M
+
+	--.--
+
+	--.--
+
+15
+
+O
+
+	--.--
+
+	--.--
+
+15
+
+Q
+
+	--.--
+
+	--.--
+
+15
+
+S
+
+	--.--
+
+	--.--
+
+15
+
+U
+
+	--.--
+
+	--.--
+
+15
+
+W
+
+	--.--
+
+	--.--
+
+15
+
+Y
+
+	--.--
+
+	--.--
+
+15
+
+AA
+
+	--.--
+
+	--.--
+
+Note:  Measurements are in units of micrometers (1006m)
+
+
+
+Row
+
+Column
+
+X
+(µm)
+
+Y
+(µm)
+
+17
+
+A
+
+	--.--
+
+	--.--
+
+17
+
+C
+
+	--.--
+
+	--.--
+
+17
+
+E
+
+	--.--
+
+	--.--
+
+17
+
+G
+
+	--.--
+
+	--.--
+
+17
+
+I
+
+	--.--
+
+	--.--
+
+17
+
+K
+
+	--.--
+
+	--.--
+
+17
+
+M
+
+	--.--
+
+	--.--
+
+17
+
+O
+
+	--.--
+
+	--.--
+
+17
+
+Q
+
+	--.--
+
+	--.--
+
+17
+
+S
+
+	--.--
+
+	--.--
+
+17
+
+U
+
+	--.--
+
+	--.--
+
+17
+
+W
+
+	--.--
+
+	--.--
+
+17
+
+Y
+
+	--.--
+
+	--.--
+
+17
+
+AA
+
+	--.--
+
+	--.--
+
+19
+
+A
+
+	--.--
+
+	--.--
+
+19
+
+C
+
+	--.--
+
+	--.--
+
+19
+
+E
+
+	--.--
+
+	--.--
+
+19
+
+G
+
+	--.--
+
+	--.--
+
+19
+
+I
+
+	--.--
+
+	--.--
+
+19
+
+K
+
+	--.--
+
+	--.--
+
+19
+
+M
+
+	--.--
+
+	--.--
+
+19
+
+O
+
+	--.--
+
+	--.--
+
+19
+
+Q
+
+	--.--
+
+	--.--
+
+19
+
+S
+
+	--.--
+
+	--.--
+
+19
+
+U
+
+	--.--
+
+	--.--
+
+19
+
+W
+
+	--.--
+
+	--.--
+
+19
+
+Y
+
+	--.--
+
+	--.--
+
+19
+
+AA
+
+	--.--
+
+	--.--
+
+21
+
+A
+
+	--.--
+
+	--.--
+
+21
+
+C
+
+	--.--
+
+	--.--
+
+21
+
+E
+
+	--.--
+
+	--.--
+
+21
+
+G
+
+	--.--
+
+	--.--
+
+21
+
+I
+
+	--.--
+
+	--.--
+
+21
+
+K
+
+	--.--
+
+	--.--
+
+21
+
+M
+
+	--.--
+
+	--.--
+
+21
+
+O
+
+	--.--
+
+	--.--
+
+21
+
+Q
+
+	--.--
+
+	--.--
+
+21
+
+S
+
+	--.--
+
+	--.--
+
+21
+
+U
+
+	--.--
+
+	--.--
+
+21
+
+W
+
+	--.--
+
+	--.--
+
+21
+
+Y
+
+	--.--
+
+	--.--
+
+21
+
+AA
+
+	--.--
+
+	--.--
+
+23
+
+A
+
+	--.--
+
+	--.--
+
+23
+
+C
+
+	--.--
+
+	--.--
+
+23
+
+E
+
+	--.--
+
+	--.--
+
+23
+
+G
+
+	--.--
+
+	--.--
+
+23
+
+I
+
+	--.--
+
+	--.--
+
+23
+
+K
+
+	--.--
+
+	--.--
+
+23
+
+M
+
+	--.--
+
+	--.--
+
+23
+
+O
+
+	--.--
+
+	--.--
+
+23
+
+Q
+
+	--.--
+
+	--.--
+
+23
+
+S
+
+	--.--
+
+	--.--
+
+23
+
+U
+
+	--.--
+
+	--.--
+
+23
+
+W
+
+	--.--
+
+	--.--
+
+23
+
+Y
+
+	--.--
+
+	--.--
+
+23
+
+AA
+
+	--.--
+
+	--.--
+
+Note:  Measurements are in units of micrometers (1006m)
+
+
+
+Row
+
+Column
+
+X
+(µm)
+
+Y
+(µm)
+
+25
+
+A
+
+	--.--
+
+	--.--
+
+25
+
+C
+
+	--.--
+
+	--.--
+
+25
+
+E
+
+	--.--
+
+	--.--
+
+25
+
+G
+
+	--.--
+
+	--.--
+
+25
+
+I
+
+	--.--
+
+	--.--
+
+25
+
+K
+
+	--.--
+
+	--.--
+
+25
+
+M
+
+	--.--
+
+	--.--
+
+25
+
+O
+
+	--.--
+
+	--.--
+
+25
+
+Q
+
+	--.--
+
+	--.--
+
+25
+
+S
+
+	--.--
+
+	--.--
+
+25
+
+U
+
+	--.--
+
+	--.--
+
+25
+
+W
+
+	--.--
+
+	--.--
+
+25
+
+Y
+
+	--.--
+
+	--.--
+
+25
+
+AA
+
+	--.--
+
+	--.--
+
+27
+
+A
+
+	--.--
+
+	--.--
+
+27
+
+C
+
+	--.--
+
+	--.--
+
+27
+
+E
+
+	--.--
+
+	--.--
+
+27
+
+G
+
+	--.--
+
+	--.--
+
+27
+
+I
+
+	--.--
+
+	--.--
+
+27
+
+K
+
+	--.--
+
+	--.--
+
+27
+
+M
+
+	--.--
+
+	--.--
+
+27
+
+O
+
+	--.--
+
+	--.--
+
+27
+
+Q
+
+	--.--
+
+	--.--
+
+27
+
+S
+
+	--.--
+
+	--.--
+
+27
+
+U
+
+	--.--
+
+	--.--
+
+27
+
+W
+
+	--.--
+
+	--.--
+
+27
+
+Y
+
+	--.--
+
+	--.--
+
+27
+
+AA
+
+	--.--
+
+	--.--
+
+
+
+Note:  Measurements are in units of micrometers (1006m)
+
+
+
+
+
+
+
+	Frame Center Differences from Nominal (nm)
+
+
+
+	Col A
+
+	Col C
+
+	Col E
+
+	Col G
+
+	Col I
+
+	Col K
+
+	Col M
+
+	Col O
+
+	Col Q
+
+	Col S
+
+	Col U
+
+	Col W
+
+	Col Y
+
+	Col AA
+
+Row 1
+
+X
+
+	x
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+Row 3
+
+X
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 5
+
+X
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+Row 7
+
+X
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 9
+
+X
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 11
+
+X
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+Row 13
+
+X
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 15
+
+X
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 17
+
+X
+
+	xx
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+Row 19
+
+X
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 21
+
+X
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 23
+
+X
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 25
+
+X
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	x
+
+	x
+
+	xx
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+Row 27
+
+X
+
+	x
+
+	xx
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	xx
+
+	xx
+
+	x
+
+	x
+
+
+
+Y
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+	x
+
+
+
+Frame Center Nominal Locations (um)
+
+
+
+	Col A
+
+	Col C
+
+	Col E
+
+	Col G
+
+	Col I
+
+	Col K
+
+	Col M
+
+	Col O
+
+	Col Q
+
+	Col S
+
+	Col U
+
+	Col W
+
+	Col Y
+
+	Col AA
+
+Row 1
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+Row 3
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+Row 5
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+Row 7
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+Row 9
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+Row 11
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+Row 13
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+Row 15
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+	5000
+
+Row 17
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+	15000
+
+Row 19
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+	25000
+
+Row 21
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+	35000
+
+Row 23
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+	45000
+
+Row 25
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+	55000
+
+Row 27
+
+X
+
+	65000
+
+	55000
+
+	45000
+
+	35000
+
+	25000
+
+	15000
+
+	5000
+
+	5000
+
+	15000
+
+	25000
+
+	35000
+
+	45000
+
+	55000
+
+	65000
+
+
+
+Y
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+	65000
+
+
+
+		SRM 5001 		Page 6 of 12
+
+		SRM 5001		Page 1 of 12
+
+Note:  Measurements are in units of micrometers (1006m)
+
+
+
+			SRM 5001 	Page 12 of 12

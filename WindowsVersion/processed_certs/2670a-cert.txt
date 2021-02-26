@@ -1,0 +1,408 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+	Standard Reference Material® 2670a
+
+
+
+Toxic Elements in FreezeDried Urine
+
+
+
+This Standard Reference Material (SRM) is primarily intended for use in evaluating the accuracy of clinical methods used to determine the mass concentration of toxic metals and other elements in human urine or similar matrices.  It can also be used to validate working or secondary reference materials.  A unit of SRM 2670a consists of four bottles of freezedried urine, two bottles of each at the low and high levels.  
+
+
+
+Before use, the urine in each bottle must be reconstituted with 20.00 mL of highpurity deionized water (see “Instructions for Handling, Storage, and Use”).  The certified, reference, and information mass concentration values apply only to properly reconstituted urine at room temperature 20 C to 25 C, (see “Instructions for Handling, Storage, and Use”).
+
+
+
+Certified Mass Concentration Values:  Certified mass concentration values for 10 elements in the low level and 14 elements in the high level of SRM 2670a are listed in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  All values are reported in units of mass concentration [2] (see “Instructions for Handling, Storage, and Use”) and are based on measurements using the entire lyophilized sample mass.
+
+
+
+Reference Mass Concentration Values:  Reference mass concentration values for seven elements at the low level and eight elements at the high level are given in Table 2 and Table 3.  Reference values are noncertified values that are the best estimate of the true value; however, the values do not meet the NIST criteria for certification and are provided with associated uncertainties that may not include all sources of uncertainty [1].
+
+
+
+Information Mass Concentration Values:  Information mass concentration values for eleven elements are provided in Table 4.  A NIST information value is a value that will be of interest and use to the SRM user, but insufficient information is available to assess the uncertainty associated with the value [1].  Information values cannot be used to establish metrological traceability.
+
+
+
+Expiration of Certification:  The certification of SRM 2670a is valid, within the measurement uncertainty specified, until 31 December 2019, provided the SRM is handled and stored in accordance with instructions given in this certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification.
+
+
+
+The Centers for Disease Control and Prevention (CDC) provided partial financial support for the development of this SRM under the direction of project officers E.W. Gunter, D.C. Paschal, and R.L. Jones of the National Center for Environmental Health, Division of Laboratory Sciences, CDC (Atlanta, GA).
+
+
+
+Overall direction and coordination of the analyses were performed by R.D. Vocke, Jr. and G.C. Turk of the NIST Chemical Sciences Division.
+
+
+
+Statistical analysis was provided by C. Hagwood of the NIST Statistical Engineering Division.
+
+
+
+	
+
+	
+
+		Carlos A. Gonzalez, Chief
+
+			Chemical Sciences Division
+
+		
+
+		Gaithersburg, MD 20899	Robert L. Watters, Jr., Director
+
+		Certificate Issue Date:  31 December 2015	Office of Reference Materials
+
+Certificate Revision History on Page 4
+
+
+	Analytical measurements were performed by C.M. Beck II, T.A. Butler, Ö. Ertaş, W.R. Kelly, S.E. Long, E.A. Mackey, J.L. Mann, K.E. Murphy, M.S. Rearick, R.D. Vocke, Jr., L.J. Wood, and L.L. Yu of the NIST Chemical Sciences Division.  R.L. Jones and G. Shakirova at the CDC and D.E. Nixon at the Mayo Clinic (Rochester, MN) performed additional analyses.  
+
+
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials.
+
+
+
+		NOTICE AND WARNINGS TO USERS
+
+		
+
+		WARNING:  SRM 2670a IS INTENDED FOR RESEARCH USE.  THIS IS A HUMAN SOURCE MATERIAL AND SHOULD BE TREATED AS A BIOHAZARDOUS SUBSTANCE CAPABLE OF TRANSMITTING INFECTIOUS DISEASE.  THE RECONSTITUTED URINE SHOULD BE HANDLED WITH PRECAUTIONS SUITABLE FOR FRESH URINE.
+
+
+
+	Instructions for HANDLING, STORAGE, AND Use
+
+	
+
+	The urine comprising SRM 2670a is lyophilized (freezedried) material and should be stored in a refrigerator at a temperature between 2 C and 8 C until required for use.  It should not be frozen, exposed to sunlight or ultraviolet radiation.  
+
+	
+
+	For the certified mass concentrations to be valid, this SRM must be reconstituted as follows.  Remove the bottle from the refrigerator and allow it to equilibrate at room temperature before reconstitution.  Carefully remove the metal seal.  Take extra care in removing the rubber stopper, as some of the lyophilized urine may adhere to it.  Using a Type I, Class A calibrated volumetric transfer pipette or other dispenser of known accuracy, add 20.00 mL of CAP/NCCLS Type I water [3] or equivalent to each bottle.  After replacing the stopper, the bottle should be allowed to stand at room temperature with occasional swirling for 30 minutes to ensure complete dissolution.  DO NOT SHAKE.  Vigorous shaking causes foaming, which may lead to an inhomogeneous distribution of the analytes within the bottle. Allow 2 h to complete the reconstitution.  After reconstitution, the contents should be used immediately or stored between 2 C and 8 C until required for use, preferably within 12 h.  Some of the elements, most notably mercury, are volatile and are progressively lost after reconstitution.  Freezing of the reconstituted material is not recommended.   
+
+
+
+Preparation and Analysis:  SRM 2670a was prepared from 80 L of urine collected by CDC from presumably healthy adult volunteers.  After pooling, homogenization, and centrifugation, the trace elements were measured.  The lowlevel urine was prepared from approximately 40 L of this pool.  The highlevel urine was prepared by spiking the other half of the urine with selected elements.  Due to the centrifugation, which improved sample homogeneity, neither level represents a fresh urine pool from a normal human population.  The bottling and lyophilization operations were carried out by BioRad Laboratories (Hercules, CA).  Value assignment of the concentrations of elements in SRM 2670a was based on the combination of results provided using methods listed in Appendix A.
+
+
+
+Certified Mass Concentration Values:  The certified mass concentration values for cadmium, iodine, lead, mercury, thallium, thorium, and uranium are the means of results obtained by NIST using isotope dilutioninductively coupled plasma mass spectrometry (IDICPMS).  The expanded uncertainties are calculated as prediction intervals where U = kuc.  The uncertainty component uc is intended to represent, at the level of one standard deviation, the combined standard uncertainty calculated according to the ISO/JCGM Guide [4].  The coverage factor, k, is determined from the Student’s tdistribution for the appropriate degrees of freedom to yield 95 % confidence.  The certified mass concentration values and uncertainties for the remaining elements are derived from the results of at least one analysis performed at NIST and independent results from one or more methods performed by the CDC and/or the Mayo Clinic, using the approach described by Levenson etal. [5] for combining results from multiple methods.  Multiple sets of results from the laboratories outside NIST were first combined to give a single value and uncertainty before being combined with the NIST results.  The certified value is an unweighted mean of the results from NIST and these laboratories.  The uncertainty listed with each value is an expanded uncertainty about the mean, U = kuc, with a coverage factor k determined from the Student’s tdistribution for the appropriate degrees of freedom to yield 95 % confidence.  Each uc is calculated by combining a betweenmethod variance [5] with a pooled, withinmethod variance [4].  Analytical methods are listed in Appendix A.  The measurand is the mass concentration value for each element reported in Table 1.  Metrological traceability is to the SI derived unit for mass concentration (expressed as micrograms per liter).
+
+
+
+Density measurements made on the reconstituted material with a micropycnometer gave mean and expanded uncertainty (k = 2.31, 95 % confidence) of 1.0024 g/mL  0.0003 g/mL for both levels of SRM 2670a.
+
+
+
+
+Table 1.  Certified Mass Concentration Values
+
+
+
+					Low Level	Coverage Factor, k	High Level 	Coverage Factor, k
+
+			(µg/L) 	(µg/L)
+
+
+
+										Antimony	0.971		0.033	2.45	0.824		0.070	2.57
+
+										Cadmium	0.059 1		0.003 4	2.36	5.16		0.11	2.01
+
+										Cesium	1.075		0.031	2.57	1.085		0.052	2.31
+
+										Cobalt	0.166		0.040	2.09	51.2		3.2	2.23
+
+										Iodine(a)	88.2		1.1	2.00	88.2		1.1	2.00
+
+										Lead	0.49		0.16	2.57	249.9		4.3	2.23
+
+										Mercury	0.066 3		0.005 8	2.57	95.1		0.98	2.00
+
+							Manganese	-------	99		12	2.78
+
+							Molybdenum	-------	114.1		4.8	2.01
+
+							Platinum	-------	51.5		6.6	2.00
+
+							Selenium	-------	229.5		8.3	2.57
+
+										Thallium	0.016 2		0.004 5	3.18	5.417		0.064	2.36
+
+										Thorium	0.005 3		0.001 4	2.57	0.016 06		0.000 77	2.45
+
+										Uranium	0.102 0		0.002 3	2.57	4.997		0.071	4.30
+
+
+
+	(a)	Iodine mass concentrations, as measured, are for iodide.
+
+
+
+
+
+Reference Mass Concentration Values:  The reference mass concentration values are based either on the results of a single NIST method or on the results of a single NIST method and one or more outside laboratories methods.  Reference values and uncertainties were derived from multiple results in the same manner as was done for the certified values and uncertainties.  Zinc, an important analyte in urine, was not certified in SRM 2670a due to possible contamination from the stopper used in the packaging.  Analytical methods are listed in Appendix A.  The measurand is the mass concentration value for each element reported in Table 2 based on the method or methods indicated.  Metrological traceability is to the SI derived unit for mass concentration (expressed as milligrams per liter or micrograms per liter).
+
+
+
+
+
+Table 2.  Reference Mass Concentration Values
+
+
+
+			Low Level	High Level
+
+			(mg/L) 	(mg/L)
+
+
+
+								Calcium	29		2	30		2
+
+									Magnesium	21.0		0.2	21.2		0.2
+
+								Potassium	410		10	415		10
+
+								Sodium	856		15	942		20
+
+
+
+
+
+
+
+Table 3.  Reference Mass Concentration Values
+
+
+
+			Low Level	High Level
+
+			(µg/L) 	(µg/L)
+
+
+
+						Arsenic	-------	220		10
+
+						Copper	-------	110		4
+
+								Manganese	2.6		0.7		-------
+
+								Selenium	8		3		-------
+
+						Tin	-------	89		7
+
+								Zinc	130		30	410		30
+
+
+
+
+Table 4.  Information Mass Concentration Values
+
+
+
+			Low Level	High Level 	
+
+			(µg/L) 	(µg/L)
+
+
+
+
+
+				Aluminum	4	100
+
+				Arsenic	3	-----
+
+				Barium	2	2
+
+				Beryllium	-----	5
+
+				Chromium	2	20
+
+				Copper	5	-----
+
+				Molybdenum	17	-----
+
+				Nickel	2	100
+
+				Tin	<1	-----
+
+				Tungsten	<1	<1
+
+				Vanadium	<1	30
+
+
+
+
+
+					REFERENCES
+
+	
+
+	[1]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office: Washington, DC (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Dec 2015).
+
+	[2]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; U.S. Government Printing Office: Washington, DC (2008); available at http://ts.nist.gov/WeightsAndMeasures/Metric/mpo_pubs.cfm (accessed Dec 2015). 
+
+	[3]	National Committee for Clinical Laboratory Standards (NCCLS); Preparation and Testing of Reagent Water in the Clinical Laboratory; Approved Guideline, Publication C3A3, 3rd ed.; NCCLS: Wayne, Pennsylvania (1997).
+
+[4]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Dec 2015); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Dec 2015). 
+
+	[5]	Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Certificate Revision History:  31 December 2015 (Editorial changes); 01 August 2011 (Change of cadmium and lead certified values in High Level; extension of certification period; editorial changes); 11 August 2003 (Original certificate date).
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+
+Appendix A.  Methods Used in Analyte Determinations
+
+						
+
+Method
+
+Analytes Determined
+
+
+
+
+
+						Cold Vapor Isotope Dilution Inductively Coupled Plasma Mass Spectrometry(a) 
+
+								Hg
+
+						
+
+						
+
+						Isotope Dilution Inductively Coupled Plasma Mass Spectrometry(a)
+
+						Cd, I, Pb, Th, Tl, U
+
+						
+
+						
+
+						Inductively Coupled Plasma Mass Spectrometry(a)
+
+						Mn, Al, V
+
+						
+
+						
+
+						Inductively Coupled Plasma Mass Spectrometry(b)
+
+						As, Co, Cu, Mn, Mo, Pb, Pt, Se, Sn
+
+						
+
+						
+
+						Instrumental Neutron Activation Analysis(a)
+
+						Co, Cs, Sb, Se, Zn
+
+						
+
+						
+
+						Inductively Coupled Plasma Atomic Emission Spectrometry(a)
+
+						Ca, K, Mg
+
+						
+
+						
+
+						Flame Emission Spectrometry(a)
+
+								Na
+
+						
+
+								
+
+						Inductively Coupled Plasma Mass Spectrometry(c)
+
+						Be, Ba, Cd, Co, Cs, Mo, Pb, Pt, Sb, Tl, U, W 
+
+						
+
+						
+
+						Inductively Coupled Plasma Mass Spectrometry(d)
+
+						Al, As, Cd, Co, Cr, Cu, Hg, I, Mn, Mo, Ni, 
+Pb, Pt, Sb, Se, Sn, Tl, V, Zn
+
+						
+
+						
+
+Electrothermal Vaporization Atomic Absorption Spectrometry(d)
+
+						Al, Cr, Mn
+
+	
+
+	(a)	Analyses performed at NIST
+
+	(b)	High Level only analyses performed at NIST
+
+	(c)	Analyses performed at CDC (Atlanta, GA)
+
+	(d)	Analyses performed at Mayo Clinic (Rochester MN)
+
+			SRM 2670a	Page 5 of 5

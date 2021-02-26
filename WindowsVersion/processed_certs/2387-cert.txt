@@ -1,0 +1,787 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2387 
+ 
+Peanut Butter 
+
+ 
+determining 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  methods  for  determining 
+proximates, fatty acids, calories, vitamins, elements, amino acids, and aflatoxins in peanut butter and similar matrices.  
+This SRM can also be used for quality assurance when assigning values to in-house reference materials.  The SRM is 
+a creamy peanut butter prepared by a manufacturer of peanut butter products.  A unit of SRM 2387 consists of three 
+jars of peanut butter containing 170 g each. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for fat, elements, and tocopherols in SRM 2387 are 
+provided in Tables 1 through 3.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy  in  that  all  known  or  suspected  sources  of  bias  have  been  taken  into  account [1].   Analyses  for  value 
+this  material 
+assignment were performed by NIST and collaborating laboratories.  Certified mass fraction values in this material 
+were calculated as the  mean  of the  mean values from NIST  methods and the  mean of the  measurements  made by 
+collaborating laboratories, where appropriate.  The associated uncertainties are expressed at an approximately 95 % 
+level of confidence [2-4].  Values are reported on an as-received (not dry-mass) basis in mass fraction units [5]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for proximates, fatty acids, amino acids, calories, 
+total dietary fiber, vitamins, and aflatoxins are provided in Tables 4 through 8.  A NIST reference value is a noncertified 
+value that is the best estimate of the true value based on available data; however, the value does not meet the NIST 
+criteria  for  certification [1]  and  is  provided  with  an  associated  uncertainty  that  may  reflect  only  measurement 
+reproducibility,  may  not include all sources of uncertainty,  or may reflect a lack of sufficient statistical agreement 
+among multiple analytical methods.  Reference mass fraction values were derived from results reported by NIST and 
+collaborating laboratories.  Values are reported on an as-received (not dry-mass) basis in mass fraction units [5]. 
+ 
+Expiration of Certification:  The certification of SRM 2387 is valid, within the measurement uncertainty specified, 
+until 31 December 2029, provided the SRM is handled and stored in accordance with the instructions given in this 
+fication  is  nullified  if  the  SRM  is  damaged, 
+certificate  (see  “Instructions  for  Storage  and  Use”).    This  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips, 
+K.E. Sharpless, and L.J. Wood of the NIST Chemical Sciences Division and H.B. Chin, I-P. Ho, and D.W. Howell of 
+the National Food Processors Association (NFPA, Dublin, CA, and Washington, DC). 
+ 
+Analytical measurements at NIST were performed by C.Q. Burdette, C.S. Phinney, B.J. Porter, K.E. Sharpless, and 
+L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  15 January 2020 
+Certificate Revision History on Last Page
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+|  Sciences  Division
+
+Page 1 of 8 
+
+  
+
+SRM 2387 
+
+STORAGE  AND 
+
+tter  should  be  frozen  at  — 
+
+Analyses  for  value  assignment  were  also  performed  by  the  following  laboratories  participating  in  a  NFPA  Food 
+Industry  Analytical  Chemists  Subcommittee (FIACS)  interlaboratory  comparison  exercise:  Beech-Nut  Nutrition 
+Corporation (Canajoharie, NY);  Campbell  Soup  Company  (Camden, NJ);  Covance, Inc. (Madison, WI);  General 
+Mills, Inc. (Minneapolis, MN); Hormel Foods Corporation (Austin, MN); Kraft Foods (Glenview, IL); Krueger Food 
+Laboratories, Inc. (Cambridge, MA); Nabisco, Inc. (East Hanover, NJ); Nestlé USA (Dublin, OH); Novartis Nutrition 
+Corporation (St. Louis Park, MN); Ralston Purina Company (St. Louis, MO); U.S. Department of Agriculture, Food 
+Composition  Laboratory (Beltsville, MD);  and  Woodson-Tenent  Laboratories (Memphis, TN). 
+  Additional 
+laboratories  providing  measurements  for  value  assignment  of  aflatoxins  included:  U.S.  Food  and  Drug 
+Administration (Atlanta, GA);  Neogen  Corporation (Lansing, MI);  U.S.  Department  of  Agriculture,  Agricultural 
+Marketing Service (Blakely, GA); and Trilogy Analytical Laboratory (Washington, MO). 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE TO USERS 
+ 
+SRM 2387 IS INTENDED FOR LABORATORY USE ONLY, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  Until required for use, the peanut butter should be frozen at –20 °C.  
+ 
+Use:    Prior  to  removal  of  a  test  portion  for  analysis,  a  jar  of  peanut  butter  should  be  thawed  under  refrigeration 
+overnight.  The contents of the jar should be  mixed thoroughly prior to removal of a test portion.  The following 
+masses used for NIST analyses should be used as the minimum sample size to ensure valid results:  5 g to 7 g for 
+tocopherols; 1 g for fat and fatty acids; 0.5 g for elements. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source  and  Preparation:    SRM 2387  is  creamy  peanut  butter  containing  roasted  peanuts,  sugar,  partially 
+hydrogenated vegetable oils (48 % rapeseed, 40 % cottonseed, and 12 % soybean oil), and salt, and was prepared for 
+NIST  as  part  of  a  larger  production  run.    Raw,  shelled  Florunner  (primarily)  peanuts  were  received  from  several 
+suppliers and were roasted.  The skins were removed from the roasted peanuts, and discolored peanuts were discarded.  
+The roasted peanuts were then ground, and the remaining ingredients were added.  After mixing, the peanut butter 
+was further ground to a fine particle size, air was removed, and the peanut butter was cooled and packed in colorless 
+polyethyl tetraethylene (PETE) jars with white screw caps and foil liners. 
+ 
+es  of  peanut 
+NIST Analyses for Fat:  The mass fraction of gravimetric fat was measured from one set of three samples of peanut 
+butter.  One-gram portions of peanut butter were mixed with diatomaceous earth.  The mixture was then briefly chilled 
+at 4 °C to improve handling.  The fat was then extracted from the mixture by pressurized fluid extraction (PFE) using 
+hexane:acetone (4:1 volume fraction).  Extracts were evaporated under nitrogen and dried at 100 °C to constant mass. 
+ 
+NIST Analyses for Ca, Cu, Fe, K, Mg, Mn, Na, P, and Zn:  Mass fractions of calcium, copper, iron, magnesium, 
+manganese, phosphorus, potassium, sodium, and zinc were measured by inductively coupled plasma optical emission 
+spectrometry (ICP-OES) in eight jars of peanut butter.  Two 0.5 g portions were taken from each jar and digested in a 
+nitric, perchloric, and hydrofluoric acid mixture.  Because of the high fat content, the samples were predigested on a 
+hot  plate  before  digestion  in  a  microwave  oven.    Digests  were  transferred  to  plastic  bottles  and  diluted  with  the 
+appropriate volume of 1.5 % (volume fraction) nitric acid.  To correct for matrix effects caused by differences between 
+samples and calibrants, the method of standard additions was used; spikes were added to one aliquot prepared from 
+each 0.5 g test portion.  Four measurements using ICP-OES were made and averaged for each sample and each spiked 
+solution.  Results were corrected for spike recoveries.  Quantitation was based on the method of standard additions 
+using SRM 3100 series single element standard solutions. 
+ 
+with  flame 
+NIST Analyses for Fatty Acids:  Mass fractions of fatty acids were measured by gas chromatography with flame 
+ionization detection (GC-FID) in two sets of six samples of peanut butter prepared on two different days.  The fat was 
+extracted from approximately 1 g samples of peanut butter by PFE using a mixture of hexane:acetone (4:1 volume 
+fraction).  Methyl nonadecanoate (C19:0 fatty acid methyl ester [FAME]) was used as an internal standard.  A two-
+step process employing methanolic sodium hydroxide and boron trifluoride was used to convert fatty acids to their 
+
+                                                 
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+ndards 
+se.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 2387 
+
+Page 2 of 8 
+
+methyl esters.  FAMEs were extracted into hexane and samples were analyzed by GC-FID.  Calibrants were prepared 
+gravimetrically from SRM 2377 Fatty Acid Methyl Esters in 2,2,4 Trimethylpentane at levels intended to approximate 
+the levels of the fatty acids in the SRM following extraction.  A single internal standard solution was used for the 
+calibrants and samples.  Calculations were based on average response factors for the calibrants. 
+ 
+NIST Analyses  for  δ-Tocopherol  and  γ-  (plus β-)  Tocopherol:    Mass  fractions  of  δ-tocopherol  and  γ-  (plus  β-) 
+tocopherol were measured using liquid chromatography with absorbance (LC-Abs) and fluorescence (FL) detection 
+in  test  portions  taken  from  six  jars  of  peanut  butter  over  a  seven-day  period.    The  peanut  butter  may  contain 
+β-tocopherol, but the chromatographic system described below is incapable of resolving β- and γ-tocopherol.  Samples 
+of approximately 5 g to 7 g were homogenized and saponified using potassium hydroxide.  Analytes were extracted 
+into a mixture of diethyl ether and hexane, which was subsequently evaporated, and the analytes were redissolved in 
+a  mixture  of  ethanol  and  ethyl  acetate.    Samples  were  analyzed  by  LC  using  a  C18  column  using  a  gradient  of 
+acetonitrile,  methanol,  and  ethyl  acetate [6]  and  with  absorbance  monitored  at  450 nm  for  measurement  of 
+trans-β-apo-10'-carotenal oxime (the internal standard) and fluorescence excitation at 295 nm and  monitored at an 
+emission wavelength of 335 nm for quantitation of the tocopherols.  Calibrants of δ- and γ-tocopherol were prepared 
+gravimetrically, at levels intended to approximate the levels of the vitamins in the SRM following extraction, and the 
+concentrations were assigned spectrophotmetrically.  A single internal standard solution was used for the calibrants 
+and samples. 
+ 
+NIST Analyses for α-Tocopherol:  Mass fractions of α-tocopherol were measured using LC-FL in test portions taken 
+from six jars of peanut butter on a single day.  Samples of approximately 5 g were homogenized and saponified using 
+potassium hydroxide.  Analytes were extracted into a mixture of ethyl acetate and hexane using rotary mixing and 
+sonication, and the supernatants  from five sequential  extractions  were combined.  The solvent  from the combined 
+supernatant was subsequently evaporated, and the analytes were redissolved in a mixture of ethanol and ethyl acetate.  
+Samples  were  analyzed  by  LC  using  a  C18  column  using  an  isocratic  flow  of  99:1  methanol:water  and  with 
+fluorescence  excitation  at  295 nm  and  monitored  at  an  emission  wavelength  of  330 nm  for  quantitation  of 
+α-tocopherol,  using  tocol  as  an  internal  standard.    Calibrants  were  prepared  gravimetrically,  at  levels  intended  to 
+approximate  the  levels  of  the  vitamins  in  the  SRM  following  extraction,  and  the  concentrations  were  assigned 
+spectrophotmetrically.  A single internal standard solution was used for the calibrants and samples. 
+ 
+Analyses by Collaborating Laboratories:  Data from additional sources were used for value assignment, including 
+an  interlaboratory  comparison  exercise  organized  by  the  NFPA  FIACS  and  four  laboratories  participating  in  an 
+exercise in which only aflatoxins were measured.  The NFPA FIACS laboratories were asked to use AOAC methods 
+or their equivalent, to make single measurements from each of two jars, and to report the analytical method that was 
+used.  The laboratories measuring aflatoxins were asked to use their usual methods to make single measurements in 
+each of three jars. 
+ 
+Homogeneity Assessment:  The homogeneity of elements, fatty acids, and tocopherols was assessed at NIST using 
+the methods described above.  A small but statistically significant heterogeneity was found for some analytes, and an 
+inhomogeneity component of approximately 5.6 % has been incorporated in the uncertainty for α-tocopherol and an 
+inhomogeneity component of approximately 1 % has been incorporated in the uncertainty for all other analytes. 
+ 
+Value Assignment:  The collaborating laboratories reported values for two to twelve analyses for a given analyte.  
+The mean of each laboratory’s results was then determined.  For calculation of assigned values for analytes that were 
+measured only by the collaborating laboratories, the mean of laboratory means was determined.  For analytes that 
+at
+were  also  measured  by  NIST,  this  mean  of  the  individual  collaborating  laboratory  means  and  the  means  of  the 
+individual sets of NIST data were averaged. 
+ 
+ 
+
+ 
+
+SRM 2387 
+
+Page 3 of 8 
+
+Certified Mass Fraction Value for Fat:  The certified mass fraction value is the combined mean from the mean of 
+results from analyses by NIST and the mean of results provided by collaborating laboratories.  The value is expressed 
+as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  The true 
+value  of  the  analyte  lies  within  the  interval  x ± U95%(x)  with  95 %  confidence.   To  propagate  this  uncertainty,  the 
+certified  value  should  be  treated  as  a  normally  distributed  random  variable  with  mean  x  and  standard  deviation 
+U95%(x)/2 [2-3].  The measurand is the total mass fraction of extractable fat in peanut butter as listed in Table 1 on an 
+as-received  basis.    Metrological  traceability  is  to  the  measurement  processes  and  standards  used  by  NIST  and 
+collaborating laboratories. 
+ 
+
+87 
+Table 1.  Certified Mass Fraction Value for Total Extractable Fat in SRM 2387 
+ 
+
+ 
+
+Fat (extractable) 
+
+Mass Fraction 
+(g/100 g) 
+
+ 
+
+51.6  ±  1.4 
+
+ 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from the 
+mean of results from analyses by NIST and the mean of results provided by collaborating laboratories.  Values are 
+expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+The true value of the analyte lies within the interval x ± U95%(x) with 95 % confidence.  To propagate this uncertainty, 
+the certified value should be treated as a normally distributed random variable with mean x and standard deviation 
+U95%(x)/2 [2-3].  The measurands are the total mass fractions of elements in peanut butter as listed in Table 2 on an 
+as-received basis.  Metrological traceability is to the SI measurement unit for chemical mass fraction, expressed as 
+milligrams per kilogram. 
+ 
+
+o
+a
+
+Table 2.  Certified Mass Fraction Values for Elements in SRM 2387 
+ 
+
+ 
+
+Calcium (Ca) 
+Copper (Cu) 
+Iron (Fe) 
+Magnesium (Mg) 
+Manganese (Mn) 
+Phosphorus (P) 
+Potassium (K) 
+Sodium (Na) 
+Zinc (Zn) 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+411 
+
+1680 
+
+18 
+± 
+0.15 
+4.93  ± 
+0.8 
+16.4  ± 
+70 
+± 
+0.6 
+16.0  ± 
+± 
+92 
+±  200 
+±  140 
+
+3378 
+6070 
+4890 
+
+26.3  ± 
+
+1.1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+SRM 2387 
+
+Page 4 of 8 
+
+Certified Mass Fraction Values for Tocopherols:  Each certified mass fraction value is the combined mean from 
+the mean of results from analyses by NIST and the mean of results provided by collaborating laboratories.  Values are 
+expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+The  true  value  of  the  analyte  lies  within  the  interval  x ± U95%(x)  with  95 %  confidence  [2-3].    To  propagate  this 
+uncertainty, the certified value should be treated as a normally distributed random variable with mean x and standard 
+deviation U95%(x)/2 [2-3].  The measurands are the total mass fractions of tocopherols in peanut butter as listed in 
+Table 3,  on  an  as-received  basis,  as  determined  by  the  method  indicated.    Metrological  traceability  is  to  the  SI 
+measurement unit for chemical mass fraction, expressed as milligrams per kilogram, through the molar absorptivities 
+of the compounds. 
+ 
+
+Table 3.  Certified Mass Fraction Values for Tocopherols in SRM 2387 
+ 
+
+Tocopherol 
+
+ 
+
+δ-Tocopherol 
+γ- + β-Tocopherol 
+
+Mass Fraction 
+(mg/kg) 
+
+ 
+ 
+
+10  ±  3 
+100  ±  19 
+
+ 
+ 
+Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids:  Each reference mass fraction value is the 
+combined mean from the mean of results from analyses by NIST and the mean of results provided by collaborating 
+laboratories,  as  available.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the  estimated  value  and  U95%(x)  is  the 
+expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval x ± U95%(x) with 
+about a 95 % confidence [2-3].  For fatty acids values containing NIST data, the uncertainty incorporates a component 
+for possible inhomogeneity based on the standard deviation.  The measurands are the total mass fractions of fatty acids 
+in peanut butter as listed in Table 4, on an as-received basis, as determined by the method indicated.  Metrological 
+traceability is to the measurement processes and standards used by NIST and collaborating laboratories. 
+ 
+
+87
+Table 4.  Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids in SRM 2387 
+ 
+
+ 
+
+Tetradecanoic Acid (C14:0)(a,b) 
+(Z)-9-Hexadecenoic Acid (C16:1 n-7)(a,b) 
+Heptadecanoic Acid (C17:0)(a) 
+(Z)-9-Heptadecenoic Acid (C17:1 n-8) (a) 
+Octadecanoic Acid (C18:0)(a,b) 
+(Z)-9-Octadecenoic Acid (C18:1 n-9)(a,b) 
+(Z)-11-Octadecenoic Acid (C18:1 n-7)(a,b) 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n-6)(a,b) 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3 n-3)(a,b) 
+Eicosanoic Acid (C20:0)(a,b) 
+(Z)-11-Eicosenoic Acid (C20:1 n-9)(a,b) 
+Eicosadienoic Acid (C20:2)(a) 
+(Z,Z,Z,Z)-5,8,11,14-Eicosatetraenoic Acid (C20:4 n-6)(a) 
+Docosanoic Acid (C22:0)(a,b) 
+(Z)-13-Docosenoic Acid (C22:1 n-9)(a) 
+Total Fat (as the sum of fatty acids as triglycerides)(a,b) 
+Monounsaturated Fatty Acids(a,b) 
+Polyunsaturated Fatty Acids(a,b) 
+
+(a) Collaborating laboratories 
+(b) NIST GC-FID 
+ 
+ 
+
+ 
+
+Common Name 
+
+Myristic Acid 
+Palmitoleic Acid 
+Margaric Acid 
+Margoleic Acid 
+Stearic Acid 
+Oleic Acid 
+Vaccenic Acid 
+Linoleic Acid 
+α-Linolenic Acid 
+Arachidic Acid 
+Gondoic Acid 
+ 
+Arachidonic Acid 
+Behenic Acid 
+Erucic Acid 
+ 
+ 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+0.255  ±  0.016 
+
+0.024  ±  0.002 
+ 
+0.044  ±  0.010 
+ 
+0.048  ±  0.001 
+ 
+0.033  ±  0.006 
+ 
+ 
+2.13  ±  0.08 
+  23.38  ±  0.90 
+ 
+  13.15  ±  0.41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  49.8 
+  24.4 
+  13.2 
+
+0.030  ±  0.001 
+0.710  ±  0.029 
+0.643  ±  0.031 
+0.016  ±  0.007 
+0.024  ±  0.015 
+1.81  ±  0.08 
+0.054  ±  0.012 
+
+±  1.9 
+±  0.9 
+±  0.4 
+
+SRM 2387 
+
+Page 5 of 8 
+
+Reference Mass Fraction Value for α-Tocopherol:  The reference mass fraction value is the combined mean from 
+the mean of results from analyses by NIST and the mean of results provided by a collaborating laboratory.  Values are 
+expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The 
+method-specific value of the  analyte lies  within the interval x ± U95%(x)  with about a 95 % confidence [2-3].  The 
+uncertainty also incorporates an additional uncertainty component for possible inhomogeneity.  The measurand is the 
+mass  fraction  of  α-tocopherol  in  peanut  butter  as  listed  in  Table 5,  on  an  as-received  basis,  as  determined  by  the 
+methods  indicated.    Metrological  traceability  is  to  the  measurement  processes  and  standards  used  by  NIST  and 
+collaborating laboratories. 
+ 
+
+Table 5.  Reference Mass Fraction Value for α-Tocopherol in SRM 2387 
+ 
+
+Ie 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+α-Tocopherol 
+
+ 
+
+73.7 
+
+± 
+
+8.4 
+
+ 
+ 
+Reference Mass Fraction Values for Proximates and Calories:  Each reference mass fraction value is the mean of 
+results provided by collaborating laboratories.  Values are expressed as x ± U95%(x), where x is the estimated value 
+and U95%(x) is the expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval 
+x ± U95%(x) with about a 95 % confidence [2].  For proximates and fiber, the measurands are the mass fractions of 
+proximates and fiber in peanut butter listed in Table 6, on an as-received basis, as determined by the methods indicated.  
+For  calories,  the  measurand  is  the  caloric  content  in  peanut  butter  listed  in  Table 6,  on  an  as-received  basis,  as 
+determined by the methods indicated.  Metrological traceability is to the measurement processes and standards used 
+by collaborating laboratories. 
+ 
+
+7
+Table 6.  Reference Mass Fraction Values for Proximates and Calories in SRM 2387 
+
+mates  and  Calories  in  SRM 
+
+ 
+
+ 
+ 
+
+ 
+
+Solids 
+Ash 
+Protein(a) 
+Carbohydrates 
+Total Dietary Fiber 
+ 
+ 
+
+Calories(b) 
+
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+99.2  ±  2.1 
+
+3.10  ±  0.10 
+
+22.2  ±  0.5 
+25.0  ±  1.8 
+
+5.57  ±  0.42 
+
+Energy 
+(kcal per 100 g) 
+
+629 
+
+±  15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+(a) A factor of 5.46 was used to convert nitrogen results to protein. 
+(b) The reference value for calories is the mean of mean caloric calculations from the interlaboratory comparison exercise.  If the mean 
+proximate  values  above  are  used  for  calculation,  with  caloric  equivalents  of  9,  4,  and  4  for  fat  (as  the  sum  of  fatty  acids  as 
+triglycerides), protein, and carbohydrate, respectively, the mean caloric content is 637 kcal per 100 grams. 
+
+SRM 2387 
+
+Page 6 of 8 
+
+Reference  Mass  Fraction  Values  for  Amino  Acids:    Each  reference  mass  fraction  value  is  the  mean  of  results 
+provided by collaborating laboratories.  Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) 
+is the expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval x ± U95%(x) 
+with about a 95 % confidence [2].  The measurands are the mass fractions of amino acids in peanut butter as listed in 
+Table 7, on an as-received basis, as determined by the collaborating laboratories.  Metrological traceability is to the 
+measurement processes and standards used by collaborating laboratories. 
+ 
+
+Table 7.  Reference Mass Fraction Values for Amino Acids in SRM 2387 
+
+ 
+
+Alanine 
+Arginine 
+Aspartic Acid 
+Cystine 
+Glutamic Acid 
+Glycine 
+Histidine 
+Isoleucine 
+Leucine 
+Lysine 
+Methionine 
+Phenylalanine 
+Proline 
+Serine 
+Threonine 
+Tryptophan 
+Tyrosine 
+Valine 
+
+ 
+
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+0.93 
+2.65 
+2.83 
+0.27 
+4.69 
+1.41 
+0.55 
+0.77 
+1.56 
+0.78 
+0.21 
+1.21 
+0.96 
+1.16 
+0.54 
+0.21 
+0.81 
+0.94 
+
+±  0.10 
+±  0.31 
+±  0.19 
+±  0.01 
+±  0.26 
+±  0.12 
+±  0.06 
+±  0.07 
+±  0.09 
+±  0.08 
+±  0.04 
+±  0.08 
+±  0.08 
+±  0.09 
+±  0.08 
+±  0.06 
+±  0.14 
+±  0.09 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+Reference Mass Fraction Values for Aflatoxins:  Each reference mass fraction value is the mean of results provided 
+by collaborating laboratories.  Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the 
+expanded uncertainty of the value.  The method-specific value of the analyte lies within the interval x ± U95%(x) with 
+about a 95 % confidence [2].  The measurands are the mass fractions of aflatoxins in peanut butter as listed in Table 8, 
+on  an  as-received  basis,  as  determined  by  the  collaborating  laboratories.    Metrological  traceability  is  to  the 
+measurement processes and standards used by collaborating laboratories. 
+ 
+
+Table 8.  Reference Mass Fraction Values for Aflatoxins in SRM 2387 
+
+ 
+
+Aflatoxin B1 
+Aflatoxin B2 
+Total Aflatoxins(a) 
+
+Mass Fraction 
+(ng/g) 
+
+4.2  ±  0.9 
+0.7  ±  0.3 
+5.0  ±  0.5 
+
+(a) The reference value for total aflatoxins is the mean of the laboratory means of the sum of aflatoxins B1 and B2. 
+ 
+ 
+
+ 
+
+SRM 2387 
+
+Page 7 of 8 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC (2000); available at https://www.nist.gov/system/files/documents/srm/SP260-136.PDF 
+(accessed Jan 2020). 
+
+[2]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2020);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:    Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jan 2020). 
+
+[3]  Levenson, M.L.;  Banks, D.L.;  Eberhardt, K.R.;  Gill, L.M.; Guthrie, W.F.;  Liu, H. K.; Vangel, M.G..; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. Natl. 
+Inst. Stand. Technol., Vol. 105, pp. 571−579 (2000). 
+
+[4]  JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement”  -  Propagation  of  Distributions  using  a  Monte  Carlo  Method;  JCGM (2008); 
+available at https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2020). 
+[5]  Thompson, A;  Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC (2008); 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Jan 2020). 
+
+available 
+
+[6]  Epler, K.S.; Ziegler, R.G.; Craft, N.E.; Liquid Chromatographic Method for the Determination of Carotenoids, 
+Retinoids,  and  Tocopherols  in  Human  Serum and  in  Food;  J.  Chromatogr.  (Biomed.  Applications),  Vol. 619, 
+pp. 37−48 (1993). 
+
+[7]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, UK (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  15 January 2020 (Change of expiration date; removal of certified values for palmitic acid, lignoceric acid, and 
+total  saturated  fatty  acids  based  on  observed  instability;  removal  of  reference  value  for  acrylamide  based  on  observed  instability;  removal  of 
+reference values for thiamine, riboflavin, niacinamide, niacin, total vitamin B3, pantothenic acid, pyridoxamine, pyridoxal, pyridoxine, and total 
+vitamin B6 based on NIST's decision to no longer support these measurement capabilities in this matrix; certified values for fatty acids and total 
+fats as the sum of fatty acids downgraded to reference values to properly reflect traceability and moved from Table 1 to Table 4; editorial changes); 
+21 July 2015 (Addition of water-soluble vitamin values; removal of certified value for α-tocopherol; addition of reference value for α-tocopherol; 
+editorial changes); 23 September 2014 (Extension of certificate period; editorial changes); 30 September 2009 (Extension of certificate period); 
+12 January 2007  (editorial  changes);  29 September 2004  (Addition  of a reference  value  for  acrylamide); 14 March 2003  (Original  certificate 
+date). 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+   
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+palmitic 
+
+fax 
+
+ 
+
+SRM 2387 
+
+Page 8 of 8 
+
+

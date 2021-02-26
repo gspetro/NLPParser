@@ -1,0 +1,1620 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+Reference Material 8281 
+ 
+Single-Wall Carbon Nanotubes 
+-Resolved  Populations) 
+(Dispersed, Three Length-Resolved Populations) 
+
+ 
+
+ 
+This  Reference  Material (RM)  is  intended  to  provide  a  common  set  of  single-wall  carbon  nanotube (SWCNT) 
+dispersions of varying aspect ratios and purity for measurement comparisons.  A unit of RM 8281 consists of four 
+ampoules,  three  of  the  ampoules  contain  a  single  dispersion  of  average  length  SWCNTs  and  are  labeled  Long, 
+Medium, and Short according to the population present in surfactant solution and the fourth ampoule labeled Blank 
+which contains only surfactant solution.  The surfactant is sodium deoxycholate and is present at a concentration of 
+approximately 10 g/L in each of the four ampoules.  Each ampoule contains approximately 2.5 mL of solution.  The 
+surfactant solution is  subjected to the same processing as the  nanotube dispersions and  is included as a blank;  no 
+reference values are provided for this sample. 
+ 
+Reference  Values:    Reference  values  are  provided  in  Table 1,  for  the  ultraviolet-visible (UV-Vis)  absorbance  at 
+specific wavelengths, and in Table 2 and 3 for the Raman G/D and G′/G ratios measured at 514.5 nm excitation for 
+each nanotube population, respectively.  Reference values are noncertified values that are the best estimate of the true 
+value; however, the values do not meet the NIST criteria for certification [1]. 
+  
+Additional User Information:  Spectra, images, and micrographs are provided in Figure 1 through 6.  This additional 
+information is considered to be of interest to the RM user. 
+ 
+Expiration  of  Value  Assignment:    RM 8281  is  valid,  within  the  measurement  uncertainty  specified,  until 
+31 January 2023,  provided  the  RM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  report 
+(see “Instructions for Use”).  This report is nullified if the RM is damaged, contaminated, or otherwise modified. 
+ 
+issignment.  If  substantive  changes 
+Maintenance of RM:  NIST will monitor this RM over the period of its value assignment.  If substantive changes 
+occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration 
+(see attached sheet) will facilitate notification. 
+ 
+Science  and 
+:s  was  performed  by 
+Overall direction and coordination of the analyses was performed by J.A. Fagan of the NIST Materials Science and 
+Engineering Division. 
+ 
+Technical measurements were conducted by J.A. Fagan and M. Zheng of the NIST Materials Science and Engineering 
+Division, A.R. Hight Walker of the NIST Engineering Physics Division, R. Geiss formerly of NIST and E. Mansfield 
+of the NIST Applied Chemicals and Materials Division. 
+ 
+Statistical consultation for this RM was provided by S.D. Leigh and D.V. Samarov of the NIST Statistical Engineering 
+Division. 
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Office of Reference Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  03 November 2017 
+Certificate Revision History on Last Page 
+
+Eric K. Lin, Chief 
+Materials Science and Engineering Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+om 
+the
+
+NIST 
+
+ 
+
+Page 1 of 11 
+
+  
+
+RM 8281 
+
+NOTICE AND WARNING TO USERS 
+ 
+This  material  should  be  handled  as  recommended  by  the  National  Institute  for  Occupational  Safety  and 
+Health (NIOSH).    According  to  NIOSH,  currently  there  are  no  studies  reported  in  the  literature  of  adverse  health 
+effects in workers producing or using carbon nanotubes or carbon nanofibers.  The concern about worker exposure to 
+these materials arises from results of animal studies.  Several studies in rodents have shown an equal or greater potency 
+of carbon nanotubes compared to other inhaled particles known to be hazardous to exposed workers in causing adverse 
+lung effects including pulmonary inflammation and fibrosis [2].  Currently, the adverse effects of skin penetration or 
+ingestion of nanoparticles have not been fully studied.  For further information, refer to the Safety Data Sheet (SDS). 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Individual ampoules of the SWCNT dispersion can be opened by holding the ampoule and applying pressure to the 
+head of the ampoules above the score line.  Opened ampoules should no longer be considered sterile, and the contents 
+should be transferred to a clean, sealable, container for use subsequent to immediate withdrawal.  Opened samples 
+can be stored under refrigeration to slow bacterial growth; however, freezing conditions should be avoided.   
+ 
+The  dispersant,  sodium  deoxycholate,  is  not  compatible  for  direct  use  in  many  biological  studies.    The  surfactant 
+solution containing the nanotubes can be exchanged using filtration or dialysis using membranes rated for between 
+10 kDa MW and 100 kDa MW if needed for other measurements; a sufficient amount of dispersant must be present 
+with the nanotubes at all times to maintain dispersion.  However, the reference values are not valid after any exchange 
+of dispersant or additional processing. 
+ 
+Stability:  This material is considered stable when stored at room temperature and protected from exposure to strong 
+ultraviolet radiation.  However, its stability has not been rigorously assessed. 
+ 
+PREPARATION 
+ 
+ifter 
+The nanotube length populations were produced through a centrifugation-based length separation method [3].  After 
+the separation, multiple length fractions were combined to form the three populations that comprise the RM.  The 
+dispersing medium was exchanged with fresh surfactant solution for each the three nanotube populations.  The samples 
+and Blank were dispensed into pre-cleaned glass ampules under an argon gas.  The ampules were then irradiated to 
+sterilize the contents.  Additional details on sample preparation, methods, and sterilization process are provided in 
+references 3 and 4. 
+ 
+REFERENCE VALUES 
+ 
+Reference values are assigned for the homogeneity of the finalized ampoule sets based on multiple measurements.  
+Reference values are given for two ratios of peak features measurable using Raman scattering, and for the ratio of the 
+optical absorbance measured at two different wavelengths in the ultraviolet and visible ranges of light.  The uncertainty 
+in the reference values, calculated according to the method described in the ISO/JCGM Guide [5], is expressed as an 
+expanded uncertainty, U.  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent the 
+standard  deviation.    The  coverage  factor (k)  is  determined  from  the  Student's  t-distribution  corresponding  to  the 
+appropriate associated degrees of freedom and approximately 95 % confidence for SWCNT sample. 
+ 
+UV-Vis Absorbance Spectroscopy:  The ratio of the absorbance values at two wavelengths, 571 nm and 785 nm, were 
+using  a  one
+measured  using  an  UV-Vis-near  infrared (UV-Vis-NIR)  spectrophotometer  in  transmission  mode  using  a  one 
+millimeter quartz cuvette.  The addition of an integrating sphere detector was not used to complete these measurements 
+and is not required for use with this material.  The absorbance of the surfactant solution and cuvette were measured 
+using the Blank and subtracted from the SWCNT dispersion absorbance before the ratio was calculated. 
+ 
+
+ 
+
+RM 8281 
+
+ 
+
+Page 2 of 11 
+
+Raman Scattering Ratio:  The Raman scattering measurements were done using a 514.5 nm Ar+ laser with a spot size 
+tio  of  two  distinct  Raman  scattering  features  of 
+roughly 100 μm in diameter.  At this excitation  wavelength, the ratio of two distinct Raman scattering features of 
+graphitic  carbon,  the  G-band  (located  at  approximately  1587 cm–1)  and  the  D-band  (located  at  approximately 
+1320 cm-1), is considered indicative of the fraction of defects in the graphitic carbon content, including nanotubes.  
+The ratio of the G-band and an additional peak feature, the G′-band (located at approximately 2625 cm–1), is indicative 
+of the SWCNT carbon purity [3]. 
+ 
+The homogeneity of RM 8281 was assessed by using both the G/D ratio and G′/G ratio.  Completely homogenous 
+nanotube containing material is expected to exhibit a consistent G/D ratio and G′/G ratio value for the Raman features 
+at a given excitation wavelength.  An inhomogeneous sample will exhibit varying ratios of nanotube to graphitic and 
+amorphous carbon.  Multiple subsamples were tested to assess homogeneity.  Heterogeneity occurs over a length scale 
+smaller than the measured volume of 100 μm3.  Tabulated values for the G/D ratio and G′/G ratio metrics appear in 
+Tables 2 and 3, respectively. 
+ 
+ 
+
+Table 1.  Reference UV-Vis Absorbance Ratios(a) Values 
+
+a)
+
+Population Length 
+
+A(571 nm)/A(785 nm) 
+
+Coverage Factor, k 
+
+Long 
+
+Medium 
+
+Short 
+
+3.047  ±  0.022 
+
+2.140  ±  0.002 
+
+1.535  ±  0.003 
+
+2.78 
+
+2.18 
+
+3.18 
+
+(a) Ratio is calculated after the subtraction of the absorbance of the Blank sample at the same measurement conditions. 
+ 
+ 
+
+Table 2. Reference G/D Raman Ratio Values at 514.5 nm 
+
+Population Length 
+
+G/D Ratio 
+
+Coverage Factor, k 
+
+Long 
+
+Medium 
+
+Short 
+
+164.2 
+
+±  20.8 
+
+104.2 
+
+±  9.0 
+
+55.7 
+
+±  5.9 
+
+Table 3. Reference G′/G Raman Ratio Values at 514.5 nm 
+
+Population Length 
+
+G′/G Ratio 
+
+Coverage Factor, k 
+
+Long 
+
+Medium 
+
+Short 
+
+ 
+
+1.100  ±  0.064 
+
+0.975  ±  0.024 
+
+0.820  ±  0.031 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.07 
+
+2.09 
+
+2.07 
+
+3.18 
+
+2.09 
+
+2.07 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RM 8281 
+
+ 
+
+Page 3 of 11 
+
+ADDITIONAL USER INFORMATION 
+ 
+UV-Vis-NIR Absorbance Spectroscopy:  The wavelength dependent UV-Vis-NIR absorbance spectra are provided in 
+Figure 1.  The absorbance spectrum  was recorded in transmission  mode through a 1 mm pathlength cuvette.    The 
+addition of an integrating sphere detector was not used to complete these measurements and is not required for use 
+with this material.  The absorbance spectrum of the Blank sample was measured independently and subtracted from 
+the raw spectra recorded of the nanotube dispersions during data analysis.   
+ 
+The absorbance spectra of each SWCNT population displays multiple peak features identifiable to individual nanotube 
+species.  These species are often identified by their chiral vector indices (n,m), which describes the orientation of the 
+tubular graphic structure.  Readily observed species include the semiconducting (6,5), (7,5), (7,6), (8,3), (8,4), and 
+(9,1) species; the metallic (6,6) and (7,4) nanotubes are also clearly observed.  Other nanotube species may be present 
+in the samples but are not readily identified from the absorbance measurement due to their low concentration levels, 
+or due to overlapping absorbance features. 
+ 
+
+19231  2:08  _  185 
+
+0.87 
+
+077 
+
+0.69 
+
+192 
+
+3i1_ 
+
+2:08  _  185 
+
+0.87 
+
+077 
+
+0.69 
+
+    
+
+Energy  (eV) 
+103 
+
+1.24 
+
+Energy  (eV) 
+1,03 
+
+1.24 
+
+08  4 
+
+0.6  4 
+
+0.4  4 
+
+24 
+0.2 
+
+1.24 
+
+104 
+
+0.8  4 
+
+0.6  4 
+0.4 
+4 
+0.2  4 
+
+0.0 
+
+ 
+)
+m
+m
+/
+A
+(
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+)
+m
+m
+/
+A
+(
+
+ 
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+
+ 
+
+A 
+
+C  | 
+
+as 
+& 
+E081 
+
+= 
+@  28  4 
+Oo 
+Cc 
+@044 
+a 2 
+B 
+B  02 
+¢ 
+
+as 
+Evel 
+& 
+< 
+@  08  4 
+re 
+G04  4 
+a 
+7 
+D024 
+2 
+¢ 
+
+      
+      
+
+024 
+
+0.0 
+
++ 
+400 
+
+T 
+600 
+
+r 
+800 
+
+- 
+1000 
+
+1 
+1200 
+
+r 
+1400 
+
+: 
+1600 
+
+T 
+1800 
+
+200 
+
+0.0 
+
+200 
+
++ 
+400 
+
+T 
+600 
+
+r 
+800 
+
+- 
+1000 
+
+1 
+1200 
+
+T 
+1400 
+
+: 
+1600 
+
+7 
+1800 
+
+Wavelength  (nm) 
+
+Wavelength  (nm) 
+
+140231206  155 
+
+087 
+
+077 
+
+0.69 
+
+19 
+
+2_—3i1_ 
+
+2.08  _  185 
+
+0.87 
+
+077 
+
+0.69 
+
+    
+
+Energy  (eV) 
+103 
+
+1.24 
+
+Energy  (eV) 
+103 
+
+1.24 
+
+  
+  
+      
+  
+
+0.0 
+
++ 
+400 
+
+T 
+600 
+
+T 
+800 
+
+- 
+1000 
+
+1 
+1200 
+
+r 
+1400 
+
+: 
+1600 
+
+T 
+1800 
+
+200 
+
++ 
+400 
+
+T 
+600 
+
+r 
+800 
+
+- 
+1000 
+
+1 
+1200 
+
+r 
+1400 
+
+: 
+1600 
+
+T 
+1800 
+
+200 
+
+Wavelength  (nm) 
+
+Wavelength  (nm) 
+
+Figure 1.  UV-Vis-NIR absorbance spectra for each population of RM 8281 in 10 g/L sodium deoxycholate 
+solution  measured  through  a  1 mm  quartz  cuvette.    The  panels  are:  A (Long  population);  B (Medium 
+population); C (Short population); and D (Blank reference surfactant solution).  The Blank spectra (panel D) 
+is shown as measured and was subtracted from each of the spectra for the SWCNT populations displayed in 
+this  figure.    Dominant  peak  features  in  each  of  the  SWCNT  populations  are  due  to  the  semiconducting 
+nanotubes (6,5)  (343 nm,  568 nm,  982 nm).    The  large  absorbance  features  at  wavelengths  greater  than 
+ontent  in  the  sample.
+900 nm in Blank spectrum (D) are due to the water content in the sample. 
+
+B 
+
+D 
+
+ 
+
+ 
+
+RM 8281 
+
+ 
+
+Page 4 of 11 
+
+Raman Spectroscopy:  Raman scattering data spectra for each length population with 514.5 nm excitation are presented 
+in Figure 2.  Additional Raman scattering spectra for excitation at 632.8 nm are given in reference 3. 
+ 
+
+  
+
+20 
+
+15 
+
+10 
+
+20 
+
+15 
+
+10 
+
+16 
+
+14 
+
+12 
+
+10 
+
+ 
+)
+s
+t
+i
+n
+U
+
+ 
+.
+b
+r
+A
+(
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+ 
+)
+s
+t
+i
+n
+U
+
+ 
+.
+b
+r
+A
+(
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+ 
+)
+s
+t
+i
+n
+U
+
+ 
+.
+b
+r
+A
+(
+
+ 
+y
+t
+i
+s
+n
+e
+t
+n
+I
+
+    
+  
+
+500 
+
+1000 
+
+1500 
+
+2500 
+1 
+Raman  Shift  (cm™) 
+
+2000 
+. 
+
+3000 
+
+350C 
+
+  
+
+  
+    
+
+500 
+
+1500 
+
+2500 
+1000 
+1 
+Raman  Shift  (cm) 
+
+2000 
+. 
+
+3000 
+
+350C 
+
+  
+
+      
+
+500 
+
+1000 
+
+1500 
+
+2500 
+1 
+Raman  Shift  (cm™)
+
+2000 
+. 
+
+3000 
+
+350C 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2.    Raman  scattering  spectra  for  RM 8281  length  populations  with  excitation  at  514.5 nm.    Peak 
+features  corresponding  to  different  SWCNT  Raman  features,  including  several  RBM  modes,  D-band, 
+G-band, M and iTOLA, and G′ (2D)-bands, are visible in the SWCNT samples.  The panels are: A (Long 
+population); B (Medium population); and C (Short population).  The D-band (≈1320 cm–1) increases in size 
+relative to the G-band (≈1587 cm–1) comparing from the Long to the Short population spectra.  The relative 
+size of the G′-band (≈2625 cm–1) to the G-band changes monotonically across the three samples as well. 
+
+RM 8281 
+
+ 
+
+Page 5 of 11 
+
+Near  Infrared  Fluorescence:    Excitation – emission  contour  plot  intensities  and  a  single-wavelength  excitation 
+line - emission line plot were measured for each of the nanotube populations and shown in Figure 3.  Prior to analysis, 
+samples were diluted to an absorbance of 0.12 cm−1 at 775 nm with the sodium deoxycholate solution from the Blank 
+sample.    The  reported  spectra  are  corrected  for  the  emission  train  wavelength-dependent  sensitivity  and  the 
+wavelength-dependent excitation power, but not for the inner-filter effects of absorbance or Rayleigh scattering for 
+the  solution  in  the  cuvette.    Observation  of  specific  peak  features  is  an  indication  that  specific  semiconducting 
+nanotubes are present in the sample, although the direct correlation between intensity and concentration is not fully 
+established.  The technique is not sensitive to metallic nanotubes or heavily chemically functionalized nanotubes. 
+ 
+In  Figure 3,  the  emission  intensity  has  been  corrected  for  the  excitation  intensity  and  emission  side 
+wavelength-dependent sensitivity.  Dominant peak features are emission from the (6,5), (7,5), and (8,3) chiralities.  
+The  (6,4),  (7,6),  (8,4),  (9,1),  (9,2),  (9,4),  (10,2)  and  (8,6)  are  also  present  in  sufficient  quantity  to  be  detected, 
+particularly  in  the  Long  population.    Other  chiralities  are  likely  present,  but  in  quantities  too  small  to  display 
+fluorescence on this intensity scale (the intensity is normalized by the maximum of the (6,5) emission peak divided 
+by 10).  As a reference, empirical excitation – emission peak locations for different SWCNT structures as assigned in 
+reference 6 are noted by white dots.  The NIR fluorescence measurement technique is only sensitive to semiconducting 
+nanotube chiralities. 
+ 
+
+  
+
+  
+
+  
+
+Long 
+
+—-—-—-  Medium 
+    
+  
+ao  Short 
+
+    
+
+: 
+
+900 
+
++ 
+1000 
+
++ 
+1100 
+
+1200 
+
+1300 
+
+140C 
+
+Emission  Wavelength  (nm) 
+
+ 
+
+ 
+o
+
+ 
+°
+
+2.0  4 
+
+~254 
+2 
+S 
+D> 
+2 
+<1.5  + 
+= 
+2 
+L 
+Cc 
+—  0.5  4 
+
+1.0  4 
+
+0.0  + 
+
+  
+
+ 
+)
+m
+n
+(
+
+ 
+h
+t
+g
+n
+e
+l
+e
+v
+a
+W
+
+ 
+n
+o
+i
+t
+a
+t
+i
+c
+x
+E
+
+ 
+~
+
+ 
+a
+
+ 
+o
+
+ 
+~
+
+ 
+o
+S
+
+ 
+o
+
+650 
+
+600 
+
+550 
+
+500 
+
+450 
+
+900 
+
+1000 
+
+1100 
+
+1200 
+
+1300 
+
+Emission  Wavelength  (nm)
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+Page 6 of 11 
+
+RM 8281 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+900 
+
+1000 
+
+1100 
+
+1200 
+
+1300 
+
+Emission  Wavelength  (nm) 
+
+  
+
+ 
+)
+m
+n
+(
+
+ 
+h
+t
+g
+n
+e
+l
+e
+v
+a
+W
+
+ 
+n
+o
+i
+t
+a
+t
+i
+c
+x
+E
+
+ 
+~
+
+ 
+a
+
+ 
+S
+3
+
+ 
+=
+
+ 
+o
+S
+
+ 
+S
+
+650 
+
+600 
+
+550 
+
+500 
+
+450 
+
+ 
+)
+m
+n
+(
+
+ 
+h
+t
+g
+n
+e
+l
+e
+v
+a
+W
+
+ 
+n
+o
+i
+t
+a
+t
+i
+c
+x
+E
+
+ 
+~
+
+ 
+a
+
+ 
+3
+
+ 
+~
+
+ 
+S
+
+ 
+s
+S
+
+ 
+2
+
+ 
+a
+
+ 
+3
+
+ 
+a
+
+ 
+a
+
+ 
+a
+
+ 
+3
+
+ 
+a
+
+ 
+3
+
+ 
+3
+
+ 
+-
+
+ 
+a
+
+ 
+S
+o
+
+ 
+
+ 
+
+ 
+ 
+
+Figure 3.    Information  NIR  fluorescence  spectra  for  RM 8281  samples  in  10 g/L  sodium  deoxycholate 
+solution.  The panels are:  the fluorescence spectra of each sample under 570 nm excitation for A and the 
+excitation – emission wavelength contour plot of the emission intensity for B (Long population), C (Medium 
+population), and D (Short population). 
+
+1300 
+
+900 
+
+1200 
+
+1000 
+
+1100 
+
+Emission  Wavelength  (nm)
+
+  
+
+  
+
+ 
+
+RM 8281 
+
+Page 7 of 11 
+
+Atomic Force Microscopy (AFM):  Images of the contour lengths of RM 8281 populations were acquired using AFM 
+and are shown in Figure 4.  Prior to measurement, aliquots of each of the SWCNT length populations were washed 
+with  fresh  10 g/L  sodium  deoxycholate  solution  using  an  ultrafiltration  membrane  (30 000 Da  molecular  weight 
+cutoff) in a stirred ultrafiltration cell to achieve a volumetric dilution of the irradiated surfactant solution of greater 
+than 100 fold. 
+ 
+This step was necessary, because an artifact of the irradiation used for sterilization of the SWCNT populations is the 
+formation of small particles in the surfactant solution that prevent the deposition of the SWCNTs on a surface for 
+AFM measurement.  In this surfactant exchange, the small particles pass through the membrane and are removed, but 
+the nanotubes of all lengths are too large to pass through the pores and are retained for measurement.  Figure 4 contains 
+images of each of the populations. 
+ 
+ 
+
+    
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+ 
+Figure 4. 
+  Representative  AFM  images  of  SWCNTs  deposited  onto  an  3-(Ethoxydimethylsilyl) 
+propylamine (APDMES) functionalized silicon wafer from each of the SWCNT samples.  The panels are: 
+A (Long  population);  B (Medium  population);  and  C (Short  population).    The  horizontal  field  of  view  is 
+4 µm, and the scale bar is 1 µm in each image. 
+
+RM 8281 
+
+ 
+
+Page 8 of 11 
+
+In  Figure 5,  histograms  of  the  measured  nanotube  lengths  are  shown  for  each  of  the  RM 8281  SWCNT  length 
+populations.  The length average and mode of the distribution increase from the Short to Long sample and decrease 
+from Long to Short. 
+ 
+ 
+ 
+ 
+
+  
+
+ 
+)
+s
+s
+e
+l
+t
+i
+n
+u
+(
+
+ 
+s
+t
+n
+u
+o
+C
+
+ 
+N
+n
+
+ 
+a
+
+ 
+N
+n
+
+ 
+o
+S
+
+10 
+
+5 
+
+0 
+
+ 
+>
+
+  
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+Length  (nm) 
+
+Long  Fraction,  N  =  603  tubes,  <L>  =  309  nm 
+
+ 
+
+  
+
+  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+B  |  5° 
+
+”n 
+“0 
+a 
+= 
+£  40 
+= 
+” 
+_ 
+
+20 
+
+5 
+° 
+oO 
+
+  
+
+0 
+
+0 
+
+  
+
+c 
+
+ 
+
+ 
+
+0 
+
+200 
+
+400 
+
+1000 
+
+1200 
+
+1400 
+
+200 
+
+400 
+
+1000 
+
+1200 
+
+1400 
+
+800 
+
+600 
+Length  (nm) 
+
+800 
+
+600 
+Length  (nm) 
+
+Medium  Fraction,  N  =  717  tubes,  <L>  =  260  nm 
+
+Short  Fraction,  N  =  630  tubes,  <L>  =  176  nm 
+
+Figure 5.    Histograms  of  SWCNT  lengths  measured  from  the  AFM  images  of  each  SWCNT  population 
+deposited on an APDMES functionalized silicon wafers.  The panels are: A (Long population); B (Medium 
+population); and C (Short population). 
+
+RM 8281 
+
+ 
+
+Page 9 of 11 
+
+ 
+a
+
+ 
+o
+
+ 
+a
+
+ 
+o
+
+ 
+b
+
+ 
+o
+
+ 
+o
+w
+
+ 
+o
+
+ 
+N
+n
+
+ 
+o
+O
+o
+
+ 
+=
+
+ 
+o
+
+ 
+)
+s
+s
+e
+l
+t
+i
+n
+u
+(
+
+ 
+s
+t
+n
+u
+o
+C
+
+  
+
+ 
+ 
+ 
+ 
+ 
+
+Transmission  Electron  Microscopy (TEM):    Figure 6  contains  images  of  the  TEM  micrograph  of  SWCNTs  from 
+aliquots  of  RM 8281  deposited  onto  a  TEM  grid.    Sample  aliquots  were  prepared  by  diluting  each  of  the  three 
+RM 8281  sample  ampoules  with  ultrapure  water,  a  1:10 dilution.    From  each  dilution,  approximately  15 µL  was 
+deposited onto a copper grid and allowed to dry.  A single-tilt sample holder was used for TEM observation.  Images 
+were taken on a TEM operated at 200 kV under low-dose operating conditions.  Low dose means that the electron 
+flux onto the samples was restricted with a small condenser aperture (typically 40 µm in diameter) and defocusing the 
+illumination to the minimum that would allow an image to be captured with a 2 s exposure.  All images were captured 
+with a one megapixel CCD camera located below the viewing chamber.  The SWCNT samples comprise primarily, 
+on  a  dry-mass  basis,  the  dispersing  surfactant.    Nanotubes  are  visible  in  each  of  the  images  mixed  with  the  dried 
+surfactant. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Figure 6.  Micrographs of SWCNTs from aliquots of RM 8281 deposited onto a TEM grid.  The SWCNT 
+sample  panels  are:    A (Long  population);  B (Medium  population);  and  C (Short  population).    Bundled 
+nanotubes are visible along with the surfactant in each image.  On an individual basis, the nanotubes visible 
+in the image are approximately 0.7 nm in diameter, consistent  with the spectroscopic results.  Significant 
+quantities of surfactant are visible in the images due to the large quantity of surfactant in the liquid dispersions 
+on a dry-mass basis. 
+
+RM 8281 
+
+ 
+
+Page 10 of 11 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136 (2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed Nov 2017). 
+
+[2]  NIOSH;  Approaches  to  Safe  Nanotechnology:  Managing  the  Health  and  Safety  Concerns  Associated  with 
+Engineered Nanomaterials; NIOSH Publication 2009-128; available http://www.cdc.gov/niosh/docs/2009-125/ 
+(accessed Nov 2017); see also Occupational Exposure to Carbon Nanotubes and Nanofibers; NIOSH Docket 
+Number:  NIOSH 161-A;  available  at  http://www.cdc.gov/niosh/docket/review/docket161A/default.html 
+(accessed Nov 2017). 
+
+[3]  Fagan, J.A.;  Becker, M.L.;  Chun, J.;  Hobbie, E.K.;  Length  Fractionation  of  Carbon  Nanotubes  Using 
+
+Centrifugation; Adv. Mater., Vol. 20, pp. 1609–1613 (2008). 
+
+[4]  Fagan, J.A.; Lin, N.J.; Zeisler, R.; Hight Walker, A.R.; Effects of Gamma Irradiation for Sterilization on Aqueous 
+
+Dispersions of Length Sorted Carbon Nanotubes; Nano Res., Vol. 4, pp. 393–404 (2011). 
+
+[5]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Nov 2017);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Nov 2017). 
+
+[6]  Weisman, R.B.;  Bachilo, S.M.;  Dependence  of  Optical  Transition  Energies  on  Structure  for  Single-Walled 
+Carbon  Nanotubes  in  Aqueous  Suspension:  An  Empirical  Kataura  Plot;  Nano  Lett.,  Vol. 3,  pp. 1235–1238 
+(2003). 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  03 November 2017 (Change of expiration date; editorial changes); 19 July 2013 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+301) 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+port  of  Investigation  in  their  possession  is  current. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+tp://www.nist
+
+ft 
+fax 
+
+ 
+
+  
+
+RM 8281 
+
+ 
+
+Page 11 of 11 
+
+

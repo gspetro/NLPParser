@@ -1,0 +1,1395 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3254 
+ 
+Green Tea (Camellia sinensis) Leaves 
+
+5. 
+
+SRM 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of catechins, xanthines and elements in the leaves of green tea (Camellia sinensis) and similar matrices.  
+This  SRM  has 
+SRM 3254 can also be used for quality assurance when assigning values to in-house control materials.  This SRM has 
+also  been  characterized  for  its  DNA  sequence.    A  unit  of  SRM 3254  consists  of  five  packets,  each  containing 
+approximately 3 g of leaf powder. 
+ 
+The  development  of  SRM 3254  was  a  collaboration  among 
+the  National  Institute  of  Standards  and 
+Technology (NIST), the National Institutes of Health Office of Dietary Supplements (NIH-ODS), and the Food and 
+Drug Administration Center for Drug Evaluation and Research (FDA CDER).  The addition of genetic information 
+was  accomplished  through  collaboration  among  NIST,  NIH-ODS,  the  U.S.  Department  of  Agriculture (USDA) 
+Agricultural Research Service (ARS), AuthenTechnologies (Richmond, CA), and American Herbal Pharmacopoeia 
+(Scotts Valley, CA). 
+ 
+Taxonomic  Identification:    The  taxonomic  identity  is  Camellia sinensis,  established  through  identification  by  a 
+trained botanist using an herbarium specimen from original material and from associated DNA sequence analysis from 
+botanically  authenticated  Camellia sinensis.    The  associated  DNA  sequences  are  available  in  companion 
+FASTA-formatted  files [1].    The  uncertainty  associated  with  each  nucleotide  in  the  sequence,  and  in  turn  the 
+uncertainty  associated  with  the  DNA  sequence  as  an  identifier  of  species,  is  expressed  in  an  ordinal  scale  that 
+represents the confidence estimates of the assigned value (Tables 1 and 2) [2].  These DNA sequences are used as a 
+source of identity data for Camellia sinensis.   
+ 
+Certified Mass Fraction Values:  Certified mass fraction values of catechins, xanthines, and elements in SRM 3254, 
+reported on a dry-mass basis, are provided in Tables 3 and 4.  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken 
+into account [3].  Analyses for value assignment were performed by NIST and collaborating laboratories.  Certified 
+values of catechins and xanthines are the equally weighted means of the individual sets of results; certified values for 
+elements were calculated as the mean of the mean values from NIST methods and the median of the means of results 
+provided  by  collaborating  laboratories,  where  appropriate.    The  associated  uncertainties  are  expressed  at  an 
+approximately 95 % level of confidence [4-6].   
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for catechin, gallocatechin, gallic acid, theanine, 
+and additional elements in SRM 3254, reported on a dry-mass basis, are provided in Tables 5 and 6.  A NIST reference 
+value is a noncertified value that is the best estimate of the true value based on available data; however, the values do 
+not meet the NIST criteria for certification [1] and are provided with associated uncertainties that may reflect only 
+measurement reproducibility, may not include all sources of uncertainty, or may reflect a lack of sufficient statistical 
+agreement among multiple analytical methods.  The reference mass fraction values were derived from results reported 
+by NIST or collaborating laboratories. 
+ 
+Expiration of Certification:  The certification of SRM 3254 is valid, within the measurement uncertainty specified, 
+until  30 June 2027,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  07 February 2018 
+Certificate Revision History on Page 8 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SRM
+
+Page 1 of 12 
+
+  
+
+SRM 3254 
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by C.A. Rimmer, 
+L.J. Wood, L.C. Sander, and S.A. Wise of the NIST Chemical Sciences Division; K.E. Sharpless of the NIST Special 
+Programs Office; and W. Koshute and B. St. Amant of the Grocery Manufacturers Association (GMA, Washington, DC). 
+ 
+Support  for  the  development  of  SRM 3254  was  provided  in  part  by  NIH-ODS  and  FDA CDER.    Technical 
+consultation was provided by J.M. Betz (NIH-ODS) and A. NguyenPho (FDA CDER).  Acquisition of the material 
+was coordinated by A. NguyenPho of FDA CDER and K.E. Sharpless of the NIST Special Programs Office.  
+ 
+Analytical measurements were performed by M. Bedner, J.L. Molloy, K.E. Murphy, B.J. Porter, M.C. Tims, and 
+L.J. Wood of the NIST Chemical Sciences Division; M. Payne at Hershey Foods Corporation (Hershey, PA); and 
+M. Roman at Tampa Bay Analytical Research, Inc. (Largo, FL). 
+ 
+Coordination of the distribution of materials and reporting of measurement results for an interlaboratory comparison 
+exercise were performed by M.M. Phillips and L.J. Wood of the NIST Chemical Sciences Division and by W. Koshute 
+and B. St. Amant of the GMA. Analysts at the following laboratories performed measurements that contributed to the 
+value  assignment  of  elements  in  SRM 3254  as  part  of  a  GMA  Food  Industry  Analytical  Chemists  Share 
+Group (FIACSG)  interlaboratory  comparison  exercise:  Campbell  Soup  Company  (Camden, NJ);  ConAgra 
+Foods (Omaha, NE); Covance Inc. (Battle Creek, MI); Covance Inc. (Madison, WI); Covance (Asia) Pte. Ltd. (The 
+Synergy,  Singapore);  Covance  Inc.  (Harrogate  North  Yorkshire, UK);  Del  Monte  Foods  (Walnut  Creek, CA); 
+Eurofins Central Analytical Laboratories (Metairie, LA); Eurofins Frontier Global Sciences (Bothell, WA); Eurofins 
+Scientific  (Des  Moines, IA);  Eurofins  WEJ  Contaminants  GmbH  (Hamburg,  Germany);  Land  O’  Lakes  (Arden 
+Hills, MN); and NSF International (Ann Arbor, MI).   
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE TO USERS: SRM 3254 IS INTENDED FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+aE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C), in the original packet, until needed.  
+For elemental analyses, the packet can be re-sealed and test portions removed and analyzed until the material reaches 
+its expiration date.  The stability of catechins, xanthines, and theanine in opened packets has not been investigated.  
+ 
+Use:  Before use, the contents of a packet of material should be mixed thoroughly.  To relate analytical determinations 
+to the certified values in this Certificate of Analysis, the test portion mass indicated in the description of the NIST 
+analyses for each group of analytes below should be used (see “Source, Preparation, and Analysis”).  Test portions 
+should be analyzed as received and results converted to a dry-mass basis by determining moisture content (described 
+below)  on  a  separate  test  portion.    The  moisture  conversion  factor  can  be  used  for  the  sample(s)  when  using  an 
+unopened packet for the first time. If using a previously opened and resealed packet, moisture must be determined 
+using one of the recommended techniques (see “Determination of Moisture”).  Analytical results should include their 
+own estimates of uncertainty and can be compared to the certified and reference values using procedures described in 
+reference 7. 
+ 
+Determination of Moisture:  Moisture content of SRM 3254 was determined at NIST by (1) freeze-drying to constant 
+mass over 7 days; (2) drying over magnesium perchlorate in a desiccator at room temperature for 28 d; and (3) drying 
+for  2 h  in  a  forced-air  oven  at  80 °C.    Unweighted  results  obtained  using  all  three  techniques  were  averaged  to 
+determine a conversion factor of (0.9481 ± 0.0029) gram dry-mass per gram as-received mass,  which  was used to 
+convert data from an as-received to a dry-mass basis; the uncertainty shown on this value is an expanded uncertainty 
+(k = 2) to represent a 95 % level of confidence.  An uncertainty component for the conversion factor (0.14 %) obtained 
+from the moisture measurements is incorporated in the uncertainties of the certified and reference values, reported on 
+a dry-mass basis, that are provided in this certificate. 
+ 
+
+ould  be  mix
+
+SRM 3254 
+
+Page 2 of 12 
+
+SOURCE, PREPARATION AND ANALYSIS(1) 
+ 
+Source and Preparation:  The material for production of SRM 3254 was received as nominally 250 µm (60 mesh) 
+particles and was further ground and sieved at NIST to 180 µm (80 mesh).  The sieved material was transferred to 
+High-Purity Standards (Charleston, SC) where it was blended, aliquoted, and heat-sealed inside nitrogen-flushed 4 mil 
+polyethylene bags, which were then sealed inside nitrogen-flushed aluminized plastic bags along with two packets of 
+silica  gel  each.    Following  packaging,  SRM 3254  was  irradiated  (Neutron Products, Inc.,  Dickerson, MD)  to  an 
+absorbed dose of 7.9 kGy to 9.5 kGy. 
+ 
+Analytical Approach for Determination of Catechins, Gallic Acid, Xanthines, and Theanine:  Value assignment 
+of  the  mass  fractions  of  the  catechins,  gallic  acid,  and  xanthines  in  SRM 3254  was  based  on  the  combination  of 
+measurements provided by NIST using liquid chromatography (LC) with ultraviolet absorbance detection (UV) and 
+LC  with  mass  spectrometry (MS),  and  by  data  provided  by  collaborating  laboratories  using  LC  with  fluorescence 
+detection (LC/FL) and LC/UV.  NIST provided theanine measurements using LC/MS. 
+ 
+NIST Analyses for Catechins, Gallic Acid, and Xanthines using LC/UV: The mass fractions of catechins, gallic acid, 
+caffeine and theobromine were measured by LC/UV in 100 mg to 400 mg test portions taken from each of six packets 
+of  SRM 3254.    Test  portions  were  combined  with  diatomaceous  earth  (Hydromatrix, Isco, Lincoln, NE), 
+7-(β-Hydroxypropyl) theophylline (proxyphylline) as an internal standard, ethylenediaminetetracetic acid (EDTA), 
+carbohydrases, and cellulase in polypropylene tubes.  The samples were placed in a heated ultrasonicating bath for 
+6 h.    A  proteinase  was  then  added  and  the  samples  were  incubated  and  centrifuged.    Filtrates  were  extracted  into 
+acetone and water (20 % and 80 % volume fractions, respectively) using pressurized-fluid extraction.  Samples were 
+analyzed by using LC/UV with a C18 column and absorbance detection at 210 nm.  A typical separation is provided 
+in Figure C1 (Appendix C).  Calibrants were prepared gravimetrically, and a single internal standard solution was used 
+for the calibrants and samples.  A series of three calibrants containing varying analyte levels was used. 
+ 
+were  measured  by  LC/UV 
+NIST Analyses for Catechins using LC/UV and LC/MS:  The mass fractions of catechins were measured by LC/UV 
+and LC/MS in duplicate 90 mg test portions taken from each of six packets of SRM 3254.  Test portions were combined 
+with proxyphylline (internal standard) and extracted by ultrasonic agitation for 90 min.  The extraction process was 
+repeated using fresh solvent, and supernatants were combined.  Supernatants were syringe-filtered prior to analysis by 
+using LC/UV and LC/MS.  A C18 column was used with an absorbance detection at 280 nm and a mass spectrometer 
+with electrospray ionization source (ESI) connected in series.  Selected ion monitoring was used for quantitation at 
+m/z 171  for  gallic  acid (GA),  m/z 239  for  proxyphylline  (internal  standard),  m/z 291  for  catechin (C)  and 
+epicatechin (EC), m/z 307 for gallocatechin (GC) and epigallocatechin (EGC), m/z 443 for epicatechin gallate (ECG), 
+and m/z 459 for gallocatechin gallate (GCG) and epigallocatechin gallate (EGCG).  A typical separation is provided 
+in Figure C1 (Appendix C).  Calibrants were prepared gravimetrically, and a single internal standard solution was used 
+for the calibrants and samples.  A series of four calibrants were prepared at levels approximating the values expected 
+in the SRM. 
+ 
+NIST Analyses for Xanthines using LC/MS:  The mass fractions of caffeine, theophylline, theobromine, and theanine 
+1€ 
+were measured by LC/MS in duplicate 0.07 g to 0.1 g test portions taken from each of six packets of SRM 3254.  Test 
+portions were combined with internal standard solutions containing trimethyl-13C3-caffeine and 13C15N2-theophylline, 
+methanol, and  water or  2H6-theobromine and  2H5-L-theanine,  methanol, and phosphate  buffer in  water.  Materials 
+Is 
+were  extracted  using  ultrasonic  agitation  for  2 h.    Samples  were  syringe-filtered  prior  to  LC/MS  analysis.    A 
+C18 column and ESI in positive polarity were used, and ions at m/z 198 for labeled caffeine, m/z 195 for caffeine, 
+m/z 184 for labeled theophylline, m/z 181 for theophylline, m/z 187 for labeled theobromine, m/z 181 for theobromine, 
+m/z 180 for labeled theanine, and m/z 175 for theanine were monitored.  Calibrants were prepared gravimetrically, at 
+at
+levels intended to approximate the levels of the xanthines in the SRM.  A single internal standard solution was used 
+for the calibrants and samples.  
+ 
+Analyses for Elements:  For analytes that were measured by NIST, duplicate 0.5 g test portions from a single packet 
+of SRM 3255 were analyzed using inductively coupled plasma mass spectrometry (ICP-MS).  Samples were digested 
+in a microwave sample preparation system using HNO3 and HF.  The GMA FIACC laboratories prepared samples 
+using  a  microwave  sample  preparation  system  with  analyses  by  either  ICP-MS  or  atomic  absorption 
+spectroscopy (AAS).  
+ 
+
+                                                 
+
+(1)  Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institutes  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 3254 
+
+Page 3 of 12 
+
+Collaborating Laboratories’ Analyses:  Hershey Foods analyzed 250 mg test portions from each of six packets for 
+catechin, epicatechin, caffeine, and theobromine using sonication, and analyzed extracts by using LC/FL (catechins) 
+or LC/UV at 280 nm (xanthines).  Tampa Bay Analytical Research analyzed 150 mg test portions in triplicate from 
+each of five packets for catechins and caffeine using sonication.  Extracts were analyzed by using LC/UV.  The GMA 
+FIACC laboratories were asked to use their usual methods to make single measurements of elements on test portions 
+taken  from  each  of  two  packets  of  SRM 3254.    Because  of  variability  among  data  provided  by  laboratories 
+participating in an interlaboratory comparison exercise, the median of laboratory means was used, with the uncertainty 
+estimated using the median absolute deviation (MADe) [8]. 
+ 
+ASSIGNMENT OF IDENTITY 
+ 
+Molecular Approach for Species Identity:  Sanger sequencing was used on two independent chloroplast gene regions, 
+psbA-trnH  intergenic  region [9,10],  and  the  nuclear  ribosomal  gene  internal  transcribed  spacer (ITS)  sequence  for 
+authentication of SRM 3254.  Complete sequencing of the strands of DNA for the two gene regions was performed 
+on triplicate samples, the sequence reads were independently hand-curated, and the confidence values were estimated 
+as described below.  DNA sequences are available in companion FASTA-formatted files [1].  To certify the species 
+identity,  validation  studies  were  performed  based  on  the  “Probability  of  Identification (POI)”  model  using  an 
+Inclusivity  and  Exclusivity  Panel [11].    Multiple  samples  of  authenticated  herbarium  vouchers,  botanical  identity 
+reference materials, and published literature were used to comprise the panels from the target and most closely related 
+species (see Appendix A for more information on the reference samples).  These samples were analyzed a minimum 
+of ten times to ensure consistency in methods from replicate to replicate.  Maximum Likelihood (ML) phylogenetic 
+analyses  were  performed  using  the  phylogenetic  estimation  using  ML (PhyML)  algorithm,  with  a  General  Time 
+Reversible (GTR)  substitution  model,  a  fixed  transition-transversion  ratio,  and  1,000 bootstrap  replicates.    ML 
+phylogenies, and the DNA aligned matrices, which can be found in Appendix B, were used to determine the species 
+identity of SRM 3254 and to estimate the confidence (as described below).  The confidence level for the psbA-trnH 
+intergenic region was “Ambiguous” (3). 
+ 
+The taxonomic identification is Camellia sinensis and the associated chloroplast DNA sequences from the psbA-trnH 
+intergenic  spacer  and  from  the  nuclear  ribosomal  gene  internal  transcribed  spacer  (ITS) sequence  are  available  in 
+companion FASTA-formatted files [1].  The confidence associated with each nucleotide in the sequence, and in turn 
+the confidence associated  with the DNA sequence as an identifier of species, is expressed in an ordinal scale that 
+represents the strength of the belief in the assigned value (Table 1) [2].  In the absence of a fully developed metrology 
+for identity, these DNA sequences are used as a source of identity data for Camellia sinensis.  Chloroplast and nuclear 
+ribosomal DNA sequences from botanically authenticated Camellia sinensis samples are used to establish inclusivity; 
+chloroplast and nuclear ribosomal DNA sequences from close relatives are used to establish exclusivity. 
+ 
+Nucleotide  Identity:    A  set  of  heuristic,  experience-based,  rules  (see  Table 2)  were  used  to  establish  confidence 
+estimates for the nucleotides comprising the DNA sequences obtained from SRM 3254, and their use in identifying 
+the  species  (see  Table  1).    The  DNA  sequences  with  curated  confidence  estimates  are  available  in  companion 
+FASTA-formatted  files [1].   The  DNA  aligned  matrix  used  to determine  the  species  identity  and  their  confidence 
+estimates are provided in Appendix B.  The confidence associated with each nucleotide in the sequence in the FASTA 
+files provided [1], and in turn the confidence associated with the DNA sequence as an identifier of species, is expressed 
+in an ordinal scale that represents the strength of the belief in the  assigned value (Table 2) [2].  Characteristics of 
+sequence  data  and  phylogenetic  data  used  for  species  identity  associated  with  the  levels  of  the  ordinal  scale  are 
+described  in  Tables 1  and 2.    The  confidence  estimates  for  the  psbA-trnH  and  ITS  sequences  are  available  in 
+companion FASTA-formatted files [1]. 
+ 
+
+ 
+
+SRM 3254 
+
+Page 4 of 12 
+
+Table 1.  Definitions of Heuristic Rules for Confidence Estimates of Species Identity 
+ 
+
+Confidence Level 
+
+Species Identity 
+
+  
+
+Most Confident (0) 
+
+Have very well-supported and well-resolved phylogeny and/or multiple 
+diagnostic nucleotides differentiating species from closest relatives; have data 
+from multiple samples of both an inclusivity and exclusivity panel; data from 
+multiple independent gene regions agree. 
+
+  
+
+Very Confident (1) 
+
+Have reasonably well-supported and well-resolved phylogeny and/or a few 
+diagnostic nucleotides differentiating species from close relatives; have data 
+from multiple samples of both an inclusivity and exclusivity panel; data from 
+one gene, or data from multiple independent gene regions agree. 
+
+Confident (2) 
+
+  
+
+    
+    
+
+Have a poorly supported and poorly resolved phylogeny and/or no diagnostic 
+nucleotides differentiating species from close relatives; have data from a few or 
+multiple samples of both an inclusivity and exclusivity panel; data from one 
+gene, or data from multiple independent gene regions generally disagree. 
+
+Have reasonably well-supported and well-resolved phylogeny and/or one or a 
+few diagnostic nucleotides differentiating species from close relatives; have 
+data from a few samples of both an inclusivity and exclusivity panel; data from 
+one gene, or data from multiple independent gene regions generally agree. 
+
+Ambiguous (3) 
+
+  
+
+ 
+Table 2.  Definitions of Heuristic Rules for Confidence Estimates of DNA Nucleotide Identity 
+  
+
+ 
+
+Confidence Level 
+
+Nucleotide Identity 
+
+Most Confident (0) 
+
+  
+Have good answers (fully reliable, unambiguous base calls) on both strands; all 
+data from both strands agree. 
+
+  
+
+Very Confident (1) 
+
+Have good answer on one strand; poor answer (less than fully reliable, 
+potentially ambiguous base call) on the second/alternate strand; base calls from 
+both strands typically agree, and there is biochemical context that explains the 
+anomalous sequence data. 
+
+Confident (2) 
+
+  
+
+    
+    
+
+Have good answer on one strand; anomalous sequence data that may give rise 
+to a conflicting base call on the alternate strand; judgment required to resolve 
+anomaly. 
+
+No clear mutually supporting results; unambiguous base calls disagree; or no 
+unambiguous base calls on either strand; data from the two opposing strands 
+could not be authoritatively reconciled. 
+
+Ambiguous (3) 
+
+  
+
+ 
+catechins,  xanth 
+Homogeneity Assessment:  The homogeneity of catechins, xanthines, and theanine was assessed at NIST by using 
+stically  significant 
+the  LC/UV  and  LC/MS  methods  described  above.    Analysis  of  variance  did  not  show  statistically  significant 
+heterogeneity  at  an  approximately  95 %  level  of  confidence.    Other  analytes  have  been  treated  as  though  they  are 
+homogeneously distributed in the material although the homogeneity of only the catechins, xanthines, and theanine 
+was assessed. 
+ 
+equally  weighted
+Value Assignment:  For calculation of assigned values for catechins, xanthines, and theanine, the equally weighted 
+mean of results provided by NIST, and the individual means of collaborating laboratories’ data, where available, were 
+used to calculate assigned values.  In cases where data were provided using two detectors in series, the average was 
+treated as a single method mean when it was combined with other data.  The GMA FIACC laboratories reported the 
+individual  results  for  each  of  their  analyses  for  a  given  analyte.    The  mean  of  each  laboratory’s  results  was  then 
+determined.  For calculation of assigned values for analytes that were measured only by the collaborating laboratories, 
+the  median of  the laboratory  means  was  used.   For analytes that  were also  measured by NIST, the  median of the 
+individual  collaborating  laboratory  means  and  the  mean  of  the  individual  sets  of  NIST  data  were  averaged,  as 
+appropriate. 
+ 
+ 
+
+ 
+
+SRM 3254 
+
+Page 5 of 12 
+
+1 
+Certified Mass Fraction Values for Catechins and Xanthines:  Each certified mass fraction value is the combined 
+Values  are 
+mean from each set of analyses by NIST and the mean of results provided by collaborating laboratories.  Values are 
+expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+To  propagate 
+The true value of the analyte is believed to lie within the interval x ± U95%(x) with 95 % confidence.  To propagate 
+this uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation 
+U95%(x)/2 [4–6].    The  measurand  is  the  total  mass  fraction  for  each  analyte  listed  in  Table 3  on  a  dry-mass  basis.  
+Metrological traceability is to the SI derived unit for mass fraction (expressed as milligrams per gram). 
+  
+
+4 
+Table 3.  Certified Mass Fraction Values for Catechins and Xanthines in SRM 3254 
+ 
+
+iss  Fraction 
+
+ 
+
+(–)-epicatechin (a,b,c,d) 
+(–)-epicatechin gallate (a,b,d) 
+(–)-epigallocatechin (a,b,d) 
+(–)-epigallocatechin gallate (a,b,d) 
+(–)-gallocatechin gallate (a,b,d) 
+Caffeine (a,b,c,d) 
+Theobromine (a,b,c) 
+
+9.0 
+12.7 
+25.2 
+52.0 
+
+Mass Fraction 
+(mg/g) 
+± 
+± 
+± 
+± 
+± 
+± 
+0.463  ± 
+
+1.6 
+1.2 
+4.5 
+2.2 
+0.21 
+1.8 
+0.052 
+
+0.99 
+
+23.5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) NIST LC/UV 
+(b) NIST LC/MS 
+(c) Collaborating Laboratories LC/FL   
+(d) Collaborating Laboratories LC/UV 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from each 
+set of analyses by NIST using ICP-MS and the median of the mean of results provided by collaborating laboratories.  
+Values are expressed as x ± U95%(x),  where x is the certified value and U95%(x) is the expanded uncertainty of  the 
+certified value.  The true value of the analyte is believed to lie within the interval x ± U95%(x) with 95 % confidence.  
+To propagate this uncertainty, treat the certified value as a normally distributed random variable  with  mean x and 
+standard deviation U95%(x)/2 [4–6].  The measurand is the total mass fraction for each element listed in Table 4 on a 
+dry-mass  basis.    Metrological  traceability  is  to  the  SI  derived  unit  for  mass  fraction  (expressed  as  milligrams per 
+kilogram). 
+
+4 
+Table 4.  Certified Mass Fraction Values for Elements in SRM 3254 
+ 
+
+Elements 
+
+ 
+
+Arsenic (As) 
+Cadmium (Cd) 
+Mercury (Hg) 
+Lead (Pb) 
+
+Mass Fraction 
+(mg/kg) 
+
+0.150  ± 
+0.037  ± 
+0.014  ± 
+± 
+1.73 
+
+0.011 
+0.002 
+0.001 
+0.19 
+
+ 
+ 
+Reference Mass Fraction Values for Catechins, Gallic Acid, and Theanine:  Each reference mass fraction value 
+is  the  combined  mean  from  the  means  of  results  from  each  set  of  analyses  by  NIST.    Values  are  expressed  as 
+x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific 
+true value of the analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence [4-6].  The 
+measurand is the mass fraction for each analyte listed in Table 5, on a dry-mass basis, as determined by the methods 
+indicated.  Metrological traceability is to mass fraction (expressed as milligrams per gram), as realized by the methods 
+used. 
+
+ 
+4
+Table 5.  Reference Mass Fraction Values for Additional Catechins, Gallic Acid, and L-Theanine in SRM 3254 
+ 
+
+[ass  Fraction 
+
+ 
+
+(+)-catechin(a,b) 
+(–)-gallocatechin(b) 
+gallic acid(b) 
+L-theanine(b) 
+
+ 
+
+Mass Fraction 
+(mg/g) 
+
+± 
+1.01 
+± 
+2.4 
+1.12 
+± 
+2.130  ± 
+
+0.41 
+1.1 
+0.61 
+0.054 
+
+(a) NIST LC/UV 
+(b) NIST LC/MS 
+
+SRM 3254 
+
+Page 6 of 12 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Reference Mass Fraction Values for Elements:  Each reference mass fraction value is the median of the mean results 
+provided by collaborating laboratories using ICP-MS or AAS.  Values are expressed as x ± U95%(x), where x is the 
+estimated value and U95%(x) is the expanded uncertainty of the value.  The method-specific true value of the analyte 
+is believed to lie  within the interval x ± U95%(x)  with about a 95 % confidence [4–6].  The  measurand is the  mass 
+fraction for each element listed in Table 6, on a dry-mass basis, as determined by the method indicated.  Metrological 
+traceability is to mass fraction (expressed as milligrams per kilogram) as realized by the method used. 
+ 
+
+Table 6.  Reference Mass Fraction Values for Elements in SRM 3254  
+ 
+
+ 
+
+Aluminum (Al) 
+Copper (Cu) 
+Iron (Fe) 
+Manganese (Mn) 
+Zinc (Zn) 
+
+Mass Fraction 
+(mg/kg) 
+± 
+11.34  ± 
+± 
+± 
+± 
+
+59 
+0.46 
+17 
+36 
+1.2 
+
+273 
+943 
+24.7 
+
+  1089 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+[1]   Certified data can be downloaded at https://www-s.nist.gov/srmors/view_detail.cfm?srm=3254.  
+ 
+
+— The certified confidence estimates for every base of psbA-trnH intergenic region sequence data file is:  
+
+psbA 
+
+REFERENCES 
+
+SRM3254 pbsA-trnH Nucleotide Confidence_v1.TXT.  
+
+ 
+
+— The certified sequence data file for ITS sequence is:  
+ 
+— The certified confidence estimates for every base of ITS sequence data file is:  
+
+SRM3254 ITS Sequence_v1.FASTA. 
+
+ITS 
+SRM3254 ITS Nucleotide Confidence_v1.TXT. 
+
+[4] 
+
+[2] 
+
+SRM 2374;  DNA  Sequence  Library  for  External  RNA  Controls;  National  Institute  of  Standards  and 
+Technology; U.S. Department of Commerce: Gaithersburg, MD (20 March 2013); available at  
+https://www-s.nist.gov/srmors/view_detail.cfm?srm=2374 (accessed Jan 2018). 
+
+ 
+[3]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington,  DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed Jan 2018). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan  2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Jan 2018). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM  (2008);  available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2018). 
+Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall: London, UK (1993). 
+Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+Int., Vol. 91, pp. 1298–1302 (2008). 
+
+[6] 
+[7] 
+
+[5] 
+
+(1981).
+[8]  Huber, P.J; Robust Statistics; John Wiley:  New York (1981). 
+[9] 
+
+Sang, T.; Crawford, D.J.; Stuessy, T.F.; Chloroplast DNA Phylogeny, Reticulate Evolution, and Biogeography 
+of Paeonia (Paeoniaceae); Am. J. Bot., Vol. 84, pp. 1120–1136 (1997).  
+
+[10]   Tate, J.A.; Simpson, B.B.; Paraphyly of Tarasa (Malvaceae) and Diverse Origins of the Polyploid Species; 
+
+Syst. Bot., Vol. 28, pp. 723–737 (2003).  
+
+[11]   Taberlet, P.;  Gielly, L.;  Pautou, G.;  Bouvet, J.;  Universal  Primers  for  Amplification  of  Three  Non-coding 
+
+Regions of Chloroplast DNA, Plant Mol. Bio., Vol. 17, pp. 1105–1109 (1991).  
+
+[12]   Labudde, R.; Harnly, J.M.; Probability of identification (POI): A Statistical Model for the Validation of 
+
+Qualitative Botanical Identification Methods; Official Methods of Analysis of AOAC International., Vol. 95, 
+pp. 273–285 (2012). 
+
+[13]  Nicolalde-Morejon, F.; Vergara-Silva, F.; Gonzalez-Astorga, J.; Stevenson, D.W.; Vovides, A.P.; Sosa, V.; A 
+Character-based  Approach  in  the  Mexican  Cycads  Supports  Diverse  Multigene  Combinations  for  DNA 
+Barcoding; Cladistics, Vol. 27, pp. 150–164 (2011).  
+
+SRM 3254 
+
+Page 7 of 12 
+
+[14]   Hill, K.D.; Chase, M.W.; Stevenson., D.W.; Hillis, H.G.; Schutzman, B.; The Damilies and Genera of Cycads: 
+A Molecular Phylogenetic Analysis of Cycadophyta Based on Nuclear and Plastid DNA Sequences; Int. J. Plant 
+Sci., Vol. 164, pp. 933–948 (2003).  
+
+[15]   Stech, M.; Quandt, D.; Frey, W.; Molecular Circumscription of the Hornworts (Anthocerotophyta) Based on 
+
+the Chloroplast DNA trnL-trnF Region; J. Plant Res., Vol. 116, pp. 389–398 (2003). 
+
+st  DNA  trnL 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate  Revision  History:    07 February 2018  (Added  certified  and  reference  elemental  mass  fraction  values,  added  DNA  taxonomic 
+identity, change of expiration date, editorial changes); 12 January 2016 (Editorial changes); 04 September 2015 (Change of expiration date; 
+editorial changes); 15 November 2010 (Original certificate date) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730;  
+accomplished  by 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm 
+ 
+
+the  SRM  Program: 
+
+is  current.
+fax 
+
+(301) 975-2200; 
+
+contacting 
+
+SRM 3254 
+
+Page 8 of 12 
+
+Appendix A 
+ 
+54 
+Reference Samples and Sequences Used in the Specificity Validation Study for SRM 3254 
+ 
+Camellia  sinensis 
+Table A1. Inclusivity Panel for Camellia sinensis 
+ 
+Voucher Information or 
+GenBank Accession #  
+1340867, Japan 
+316309, China 
+unknown 
+M237139, Japan 
+1376032, Sri Lanka 
+312722, Indonesia 
+M087161, Japan 
+82.0215.235, China 
+
+Camellia 
+sinensis 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Sample 
+Source(a) 
+UC 
+UC 
+UCBG 
+UC 
+UC 
+UC 
+UC 
+UCBG 
+
++, + 
++, – 
++, + 
++, + 
++, + 
++, + 
++, + 
+?, + 
+
+  
+
+ITS(b), psbA-trnH(c)
+
+ 
+
+9 
+
+10 
+11 
+12 
+
+UCBG 
+
+UCBG 
+UCBG 
+UC 
+
+82.0215.235, China 
+
+50.0958.245, China 
+82.0215.235, China 
+354679, China 
+
+?, + 
+
+?, + 
+?, + 
+?, + 
+
+(a) UC = University Herbarium, University of California, Berkeley; UCBG = University of California Botanical Garden. 
+(b) Internal Transcribed Spacer Sequence is included when a plus sign (+) is present or unknown when a (?) is present. 
+(c) Intergenic spacer sequence is included when a plus sign (+) is present or not included when a minus (–) is present.  
+ 
+ 
+
+Camellia  sinensis
+Table A2. Exclusivity Panel for Camellia sinensis 
+
+Sample Source(a) 
+or Reference 
+
+Voucher Information or 
+GenBank Accession # 
+
+ITS(b), psbA-trnH (c) 
+
+ 
+
+Species 
+
+Camellia sinensis forma 
+
+macrophylla 
+
+Camellia sinensis var. 
+takasagomontana 
+Camellia sinensis var. 
+
+assamica 
+
+Camellia fraterna 
+Camellia grijsii 
+Camellia irrawadensis 
+Camellia japonica var. 
+
+macrocarpa 
+Camellia oleifera 
+Camellia yunnanensis 
+
+UC 
+
+UC 
+
+UC 
+
+UCBG 
+UCBG 
+UCBG 
+
+UCBG 
+
+UCBG 
+UCBG 
+
+1777598 
+
+M307894 
+
+466362 
+
+82.0211 
+81.0743.235 
+75.0680.222B 
+
+72.0639.220B 
+
+82.0184 
+80.0055.237 
+
++, + 
+
++, + 
+
+?, + 
+
+?, + 
+?, + 
+?, + 
+
+?, + 
+
+?, + 
+?, + 
+
+(a) UC = University Herbarium, University of California, Berkeley; UCBG = University of California Botanical Garden. 
+(b) Internal Transcribed Spacer Sequence is included when a plus sign (+) is present or unknown when a (?) is present. 
+(c) Intergenic spacer sequence is included when a plus sign (+) is present. 
+ 
+ 
+
+ 
+
+SRM 3254 
+
+Page 9 of 12 
+
+Appendix B 
+psbA-trnH DNA Aligned Matrix for Camellia sinensis and Relatives 
+ 
+ 
+
+lia  sinensis 
+
+m 
+
+ 
+
+ 
+
+ 
+
+Mis  2OEA 
+
+mais  P2OEA 
+
+amis  OAFLA 
+
+ 
+     
+
+TA  ATAMTETTTA  RARAAMTARDAADAMAROAARRTAAMOAARAAT 
+TAAAD  TRAD  ORDA ATETAATATTAATATA 
+
+TAMOATA  RADAR  ODRARACOATTPMMAMMAAAT  TA  T 
+PPP  PPTAATTAARRDAOAARRARADAOATTAGTAD 
+
+TTATTAT  TATA  TAR  AARAATAAST TA  TTATTAAT TTA  “T——TTTTTTTTITTTTACATATCC    
+
+SRM 3254 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+Camellia sinensis 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+C. sinensis assamica   
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+C. sinensis macrophylla 
+C. sinensis takasagomontana  TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+ 
+Camellia oleifera 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+Camellia yunnanensis   
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+Camellia irrawadensis   
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+ 
+Camellia japonica 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+ 
+Camellia fraterna 
+Camellia grijsii 
+TGGATAAGACTTTGGTCTTAGTGTATACTCGTTTTTAAAAGTAAAGGAGCAATAACCAAT 
+ 
+ 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+SRM 3254 
+ 
+Camellia sinensis 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+ 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+C. sinensis assamica   
+C. sinensis macrophylla 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+C. sinensis takasagomontana  TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT---TTTTTTTTTTTACATATTC 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACTTTTTTTTTTTTTTTACATATCC 
+Camellia oleifera 
+ 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+Camellia yunnanensis   
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT-TTTTTTTTTTTTTACATATCC 
+Camellia irrawadensis   
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT---TTTTTTTTTTTACATATCC 
+ 
+Camellia japonica 
+TTCTTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT--TTTTTTTTTTTTACATATCC 
+ 
+Camellia fraterna 
+     
+TTATTGTTCTATCAGGAAGGCGTTATTGTTCCTTTACT-TTTTTTTTTTTTTACATATCT 
+ 
+Camellia grijsii 
+ 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+SRM 3254 
+ 
+Camellia sinensis 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+ 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+C. sinensis assamica   
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+C. sinensis macrophylla 
+C. sinensis takasagomontana  TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+Camellia oleifera 
+ 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+Camellia yunnanensis   
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+Camellia irrawadensis   
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTT-------TTAT 
+ 
+Camellia japonica 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGTATTTTTATGGGTTAT 
+ 
+Camellia fraterna 
+Camellia grijsii 
+TTTTTTCGTTACAAGAAAAAGATTCGTATGGGTAAAAAGAAAAGGATTTTTATGGGTTAT 
+ 
+ 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+SRM 3254 
+ 
+Camellia sinensis 
+ 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+C. sinensis assamica   
+C. sinensis macrophylla 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+C. sinensis takasagomontana  GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+Camellia oleifera 
+ 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+Camellia yunnanensis   
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACT 
+Camellia irrawadensis   
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+ 
+Camellia japonica 
+GGGTTGGTTCATCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+ 
+Camellia fraterna 
+Camellia grijsii 
+GGGTTGGTTCGTCATTGAGTATCGTCTTTTTGTTATGTATTAATTTAGAATTTATATACC 
+ 
+ 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+SRM 3254 
+ 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATMAAATTTTGAATTTTTGCTTACT 
+Camellia sinensis 
+ 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+C. sinensis assamica   
+C. sinensis macrophylla 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+C. sinensis takasagomontana  TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+Camellia oleifera 
+ 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+Camellia yunnanensis   
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+Camellia irrawadensis   
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+ 
+Camellia japonica 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+ 
+Camellia fraterna 
+Camellia grijsii 
+TTTGTGAAATTGTTATTTTCCATTTAAAATAAAAGATAAAATTTTGAATTTTTGCTTACT 
+ 
+ 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+SRM 3254 
+ 
+Camellia sinensis 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+ 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+C. sinensis assamica   
+C. sinensis macrophylla 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+C. sinensis takasagomontana  ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAATCATGAATCATGAATGGTTGAATTT 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+Camellia oleifera 
+ 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+Camellia yunnanensis   
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+Camellia irrawadensis   
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TTATGAATGGTTGAATTT 
+ 
+Camellia japonica 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+ 
+Camellia fraterna 
+Camellia grijsii 
+ATTTGTATCTCAAAAATAAGAGAAGAAAGAAATAA-------TCATGAATGGTTGAATTT 
+ 
+ 
+ 
+
+TCATGAATGGTTIGAATTT   
+
+TTTATAADARATTATTATETTAAARATTTAAAADATAAARAAOATAAAATTTTAAATETETAMATTA MAM 
+
+AAD  TAAT  TAD  TART  TAD  ATA  TAGATAT  TE  TTTATTA  TATA  TTA  ATT  TAGOAATTTATATAOM 
+
+ATPTATA  TATOAADARDRADAADATARGOACAACAAROAARTAR 
+
+Rar  QO A 
+
+mis  ®OLBA 
+
+mas  OAFA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SRM 3254 
+
+Page 10 of 12 
+
+ 
+
+amis  SOE A 
+
+TAATTATTTATTTTATAAT TT
+
+SRM 3254 
+TAATTCTTTATTTTATAATTT 
+ 
+Camellia sinensis 
+ 
+TAATTCTTTATTTTATAATTT 
+TAATTCTTTATTTTATAATTT 
+C. sinensis assamica   
+C. sinensis macrophylla 
+TAATTCTTTATTTTATAATTT 
+C. sinensis takasagomontana  TAATTCTTTATTTTATAATTT 
+TAATTCTTTATTTTAGAATTT 
+ 
+Camellia oleifera 
+TAATTCTTTATTTTATAATTT 
+Camellia yunnanensis   
+TAATTCTTTATTTTATAATTT 
+Camellia irrawadensis   
+TAATTCTTTATTTTATAATTT 
+ 
+Camellia japonica 
+TAATTCTTTATTTTATAATTT 
+ 
+Camellia fraterna 
+TAATTCTTTATTTTATAATTT 
+ 
+Camellia grijsii 
+ 
+
+ 
+ 
+ 
+ 
+Figure B1. psbA-trnH DNA Aligned Matrix for Camellia sinensis and Relatives. The results from the chloroplast region 
+demonstrates that this region does distinguish this species from its relatives and does authenticate Camellia sinensis. The 
+individual bases are represented as A = Adenine, T = Thymine, G = Guanine, C= Cystosine, and U = Uracil. Polymorphic 
+bases are represented by standard IUPAC codes with R = A/G, W = A/T, M = A/c, Y = C/T, S = G/C, K = G/T, and N = 
+missing data. The confidence estimate for the species identification of SRM 3254 as Camellia sinensis is Ambiguous (3). 
+ 
+ 
+
+ 
+
+SRM 3254 
+
+Page 11 of 12 
+
+C
+G
+
+A
+G
+
+B
+T
+
+10
+
+ 
+ 
+
+C
+E
+
+G
+C
+G
+
+30
+
+ 
+Appendix C 
+ 
+
+C
+G
+E
+
+f
+a
+C
+
+S
+
+I
+
+C
+
+20
+
+Time (min)
+
+G
+C
+G
+E
+
+ 
+ 
+
+ 
+ 
+
+G
+C
+G
+E
+
+ 
+ 
+
+C
+E
+
+G
+C
+G
+
+S
+
+I
+
+ 
+ 
+
+C
+G
+E
+
+C
+
+20
+
+G
+C
+E
+
+G
+C
+E
+
+A
+G
+
+C
+G
+
+10
+
+ 
+
+30
+
+40
+
+50
+
+60
+
+Time (min)
+
+ 
+
+ 
+Figure C1.  Chromatograms showing separation of catechins, gallic acid, and caffeine using Catechin Method 1 (top) 
+and  Catechin Method 2 (bottom).    For  Catechin Method 1,  an  Ace  C18  ultra  inert  column  (250 mm × 4.6 mm, 
+5 µm particle size; MAC-MOD Analytical, Chadds Ford, PA) was held at 23 °C.  The separation was performed using 
+a gradient consisting of water, acetonitrile, and methanol, each containing phosphoric acid.  The solvent composition 
+reached  full  elution  strength  at  35 min.    Absorbance  detection  was  at  210 nm.    For  Catechin Method 2,  a 
+Zorbax Eclipse XDB-C18 column (250 mm × 4.6 mm, 5 µm particle size; Agilent Technologies, Palo Alto, CA) was 
+used.  The separation was performed using a gradient of water and acetonitrile, both containing 0.1 % formic acid 
+(volume fraction).  Absorbance detection  was at 280 nm; data were also generated using MS  with ESI in positive 
+polarity  in  series  with  the  absorbance  detector  (chromatograms  not  shown).    Abbreviations:    caffeine (Caf), 
+catechin (C), epicatechin (EC), epicatechin gallate (ECG), epigallocatechin (EGC), epigallocatechin gallate (EGCG), 
+gallic  acid (GA),  gallocatechin (GC),  gallocatechin  gallate (GCG),  proxyphylline  (internal  standard;  IS),  and 
+theobromine (TB). 
+
+ 
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+ 
+
+0
+
+0
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+ 
+ 
+ 
+ 
+
+SRM 3254 
+
+Page 12 of 12 
+
+

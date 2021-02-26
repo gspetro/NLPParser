@@ -1,0 +1,258 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1196a 
+ 
+Standard Cigarette for Ignition Resistance Testing 
+
+ 
+This Standard Reference Material (SRM) is intended for use by laboratories to test the cigarette ignition resistance of 
+soft furnishings and their components, and thermal insulation for resistance to cigarette ignition in accordance with 
+16 CFR 1632 [1], California Technical Bulletin 117-2013 [2], and 16 CFR 1209 [3].  A unit of SRM 1196a consists 
+of two cartons of cigarettes containing 10 packs of 20 cigarettes each.   
+ 
+Certified Ignition Strength Value:  A NIST certified value is a value for which NIST has the highest confidence in 
+its accuracy and that all known or suspected sources of bias have been investigated or taken into account [4].  The 
+certified value for the NIST ignition strength is given in Table 1.   
+ 
+A Bayesian statistical analysis [5] was used to establish the ignition strength value and its expanded uncertainty, U, 
+from  full  length  burn  tests  of  cigarettes  from  20  cartons  conducted  by  seven  operators  at  NIST.      The  expanded 
+uncertainty  given  in  Table 1  is  reported  at  the  95 %  probability  level.    Although  the  expanded  uncertainty  of  the 
+certified value was not computed using the methods outlined in the ISO/JCGM Guide [6], the results of the Bayesian 
+analysis can be interpreted in essentially the same way as results from the ISO approach.  The expanded uncertainty 
+can be expressed as U = kuc, where uc = 1 % is the combined standard uncertainty, and the coverage factor, k = 2, is 
+based on a normal distribution.   
+ 
+
+ 
+
+Measurand 
+
+Table l.  Certified Values 
+
+Test Method 
+
+NIST Ignition strength  
+(on 6.35 mm brass plate  
+plus 2 layers of filter paper) 
+
+  ASTM E2187 modified per 
+
+NIST TN 1627(a) [7,8] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Certified Value and  
+Expanded Uncertainty 
+
+95.6 % ± 2.0 % 
+
+SRM 
+
+Storage 
+
+arettes 
+f  Conventional  Cigarettes,  June 
+
+(a)  Standard  Test  Method  for  Measuring  the  Ignition  Strength  of  Cigarettes,  as  modified  in  NIST  Technical  Note 1627, 
+Modification  of  ASTM E 2187  for  Measuring  the  Ignition  Propensity  of  Conventional  Cigarettes,  June 2009.    Metrological 
+traceability of this result is to the method used (ASTM E2187). 
+ 
+Expiration of Certification:  The certification of SRM 1196a is valid, within the measurement uncertainty specified, 
+ce  with  the  instructions  given  in  this 
+until 01 February 2025, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Warning and Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+ength  of
+Maintenance of SRM Certification:  NIST assesses that the fitness for purpose interval for the ignition strength of 
+SRM 1196a  is  85 %  to  100 %  and  will  conduct  stability  testing  every  5 years  to  ensure  the  ignition  strength  of 
+SRM 1196a has remained within this interval.  In the event that the results of the NIST stability tests indicate ignition 
+strength may be outside the fitness for purpose interval before the expiration of this certificate, NIST will notify the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to certification was performed by R.D. Davis of the NIST Fire 
+Research Division.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  18 February 2020 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Nelson P. Bryner, Chief 
+Fire Research Division 
+
+Page 1 of 3 
+
+  
+
+SRM 1196a 
+
+Ignition strength measurements at NIST were made by I. Kim of the NIST Fire Research Division. 
+ 
+Statistical consultation on experiment design and analysis of the certification data were performed by S.P. Lund of the 
+NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+THESE CIGARETTES ARE FOR RESEARCH USE ONLY.  THERE ARE SUBSTANTIAL HEALTH HAZARDS 
+ASSOCIATED WITH EXPOSURE TO BOTH PRIMARY AND SECOND-HAND SMOKE FROM CIGARETTES.  
+THESE  CIGARETTES  ARE  NOT  FOR  HUMAN  CONSUMPTION  AND  ARE  NOT  TO  BE  OFFERED  FOR 
+SALE, SOLD, OR DISTRIBUTED TO CONSUMERS.  
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE   
+ 
+Handling:  In general, cigarette test specimens are to be protected from physical or environmental damage while in 
+handling and storage.  It is important that the specimens not be crushed or deformed in any manner.  Careful handling 
+is  needed  to  ensure  that  the  specimens  are  not  contaminated  while  in  storage  and  that  they  are  protected  from 
+degradation by insects.   
+ 
+Storage:  This SRM should be stored in a freezer at approximately –20 °C (–4 °F). 
+ 
+Use:    The  cigarettes  are  intended  for  use  in  testing  prescribed  in  Federal  regulations  (16 CFR 1632 [1], 
+16 CFR 1209 [2]) and in California Technical Bulletin 117-2013 [3].  Additional Standards for which the cigarettes 
+are  intended,  but  are  not  limited  to,  are  NFPA 260 [9]  and  NFPA 261 [10],  and  ASTM E1352 [11]  and 
+ASTM E1353 [12].  These methods describe the procedures for proper handling of the cigarettes and conduct of the 
+testing. 
+ 
+Material Selection and Packaging(1): This material was made for the use of the U.S. government and acquired under 
+Federal and State tax-exempt status.  Any manufacturing number on the SRM unit are related to the manufacturing 
+run of this product and do not affect in any way the values determined for SRM 1196a.  Regulations, 16 CFR 1632 [1], 
+16 CFR 1209 [3] and Technical Bulletin 117-2013 [2], standard test methods, NFPA 260 [9] and NFPA 261 [10], and 
+ASTM 1352 [11] and ASTM 1353 [12], specify using NIST’s SRM 1196 as the standard cigarette ignition source.   
+The  ignition  strength  of  the  replacement  for  SRM 1196,  SRM 1196a,  is  believed  to  be  within  5%  of  that  from 
+SRM 1196  with  95 %  probability,  and,  therefore  it  is  expected  these  regulations  and  test  methods  will  adopt 
+SRM 1196a as the specified standard ignition source.  
+ 
+ 
+ 
+
+ 
+
+  
+
+ 
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose.  
+SRM 1196a 
+
+Page 2 of 3 
+
+REFERENCES 
+ 
+[1]  CPSC 16 CFR 1632; Standard for the Flammability of Mattresses and Mattress Pads, Consumer Product Safety 
+Commission  Part  1632;  Office  of  the  Federal  Register  (2014),  available  at  https://www.cpsc.gov/s3fs-
+public/pdfs/blk_media_testmatt.pdf (accessed Feb 2020). 
+
+[2]  Technical Bulletin 117-2013; Requirements, Test Procedure and Apparatus for Testing the Smolder Resistance 
+of  Materials  Used  in  Upholstered  Furniture,  State  of  California,  Department  of  Consumer  Affairs  (2013), 
+available at https://www.bearhfti.ca.gov/laws/tb117_2013.pdf (accessed Feb 2020). 
+
+[3]  CPSC 16 CFR 1209: Interim Safety Standard for Cellulose Insulation, Consumer Product Safety Commission 
+Part 1209, Office of the Federal Register (2019), available at https://www.govinfo.gov/content/pkg/CFR-2019-
+title16-vol2/xml/CFR-2019-title16-vol2-part1209.xml (accessed Feb 2020). 
+
+[4]  May, W.;  Parris, R.;  Beck  II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/system/files/documents/srm/SP260-136.PDF (accessed Feb 2020).  Note:  For purposes of 
+consistency with the previous product, SRM 1196, this product is identified as a Standard Reference Material.  
+NIST  recognizes  that  given  the  new  definitions  of  a  certified  reference  material  to  include  a  statement  of 
+metrological traceability to a higher order reference system (e.g. SI).  This material meets the NIST definition 
+of a reference material which states that a reference material is sufficiently homogeneous and stable with respect 
+to one or more specified properties, which has been established to be fit for its intended use in a measurement 
+process.  The significant difference between a certified and a reference value is that NIST does not believe that 
+all or suspected sources of bias have been investigated or taken into account and this is correct for this product, 
+SRM 1196a.  As SRM 1196 is cited in all applicable codes, NIST will identify this product as an SRM though 
+this product is designated solely as a reference material.  
+
+[5]  Gelman, A.; Carlin, J.B.; Stern, H.S.; Rubin, D.B.; Bayesian Data Analysis; Chapman and Hall, London, (1995). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+[6] 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2020);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note  1297;  U.S. Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Feb 2020). 
+
+[7]  ASTM E2187-2016; Standard Test Method for Measuring the Ignition Strength of Cigarettes; Annual Book of 
+
+ASTM Standards, Vol. 04.07. 
+
+[8]  Gann, R.G.;  Hnetkovsky, E.;  Modification  of  ASTM  E2187  for  Measuring  the  Ignition  Propensity  of 
+Conventional  Cigarettes;  NIST  Technical  Note  1627;  U.S.  Government  Printing  Office:  Washington,  DC 
+(2009); available at https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=902075 (accessed Feb 2020). 
+[9]  NFPA 260:  Standard  Methods  of  Tests  and  Classification  System  for  Cigarette  Ignition  Resistance  of 
+
+Components of Upholstered Furniture; National Fire Protection Association (2019). 
+
+[10]  NFPA 261: Standard Method of Test for Determining Resistance of Mock-Up Upholstered Furniture Material 
+
+Assemblies to Ignition by Smoldering Cigarettes, National Fire Protection Association (2018).  
+
+[11]  ASTM E1352-16: Standard Test Method for Cigarette Ignition Resistance of Mock-Up Upholstered Furniture 
+
+Assemblies, Annual Book of ASTM Standards, Vol. 04.07 (2016). 
+
+[12]  ASTM E1353-16:  Standard  Test  Methods  for  Cigarette  Ignition  Resistance  of  Components  of  Upholstered 
+
+Furniture, Annual Book of ASTM Standards, Vol. 04.07 (2016). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 1196a 
+
+Page 3 of 3 
+
+

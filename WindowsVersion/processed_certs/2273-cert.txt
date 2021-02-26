@@ -1,0 +1,324 @@
+﻿National Institute of Standards & Technology
+
+
+
+Certificate of Analysis
+
+
+
+Standard Reference Material® 2273
+
+
+
+Chlorinated Pesticides (DDTs) and Metabolites in Isooctane
+
+
+
+							This Standard Reference Material (SRM) is a solution of seven DDT and DDTrelated compounds in 2,2,4trimethylpentane (isooctane) intended primarily for use in the calibration of chromatographic instrumentation.  A unit of SRM 2273 consists of five 2 mL ampoules, each containing approximately 1.2 mL of solution.
+
+
+
+Certified Mass Fractions of Constituent Pesticides:  The certified mass fraction values for six of the seven pesticides are given in Table 1.  These values are based on the quantities used in the gravimetric preparation of this solution and from the analytical results obtained by using gas chromatography (GC) and are reported in mass fraction units [1].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken into account [2].
+
+
+
+Supplemental Information:  A summary of the gravimetric and GC measurements for SRM 2273 is provided in Table 2.  This information is NOT to be used as a substitute for NIST certified values.  Alternative name(s), Chemical Abstracts Service (CAS) Nomenclature, and CAS Registry Numbers of the components are listed in Table 3.
+
+
+
+Expiration of Certification:  The certification of SRM 2273 is valid, within the measurement uncertainty specified, until 31 January 2020, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see “Instructions for Handing, Storage, and Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive technical changes occur that affect the certification before the expiration of this certificate, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+Coordination of the technical measurements leading to the certification of this SRM was under the direction of S.A. Wise and M.M. Schantz of the NIST Analytical Chemistry Division.
+
+
+
+							Consultation on the statistical design of the experimental work and evaluation of the data were provided by S.B. Schiller and S.D. Leigh of the NIST Statistical Engineering Division.
+
+
+
+Partial support for the preparation and certification of this SRM was provided by the former Center for Coastal Monitoring and Assessment of the National Oceanic and Atmospheric Administration, National Ocean Service, Silver Spring, MD.
+
+
+
+							Analytical measurements of the SRM were performed by M.M. Schantz, L.C. Sander, and L.K. Walton of the NIST Analytical Chemistry Division.
+
+							
+
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Measurement Services Division.
+
+
+
+
+
+	Stephen A. Wise, Chief
+
+			Analytical Chemistry Division
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+								Certificate Issue Date:  14 February 2012	Measurement Services Division
+
+								Certificate Revision History on Last Page
+
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE
+
+
+
+Handling:  This material contains chlorinated pesticide compounds, many of which have been reported to have toxic, mutagenic, and/or carcinogenic properties, and should be handled with care.  Use proper disposal methods.
+
+
+
+Storage:  Sealed ampoules, as received, should be stored in the dark at a temperature lower than 30 °C.
+
+
+
+Opening of Ampoule:  Open ampoules carefully to prevent contamination and injury.  The ampoules are prescored and should NOT be opened using a file.  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules and should be processed without delay for the certified values in Table 1 to be valid within the stated uncertainties.  Because of the volatility of 2,2,4trimethylpentane, certified values are not applicable to material stored in ampoules that have been open for more than 5 minutes, even if they are resealed.
+
+
+
+	PREPARATION AND ANALYSIS
+
+
+
+SRM Preparation:  Pesticides used in the preparation of this SRM were obtained from Ultra Scientific, North Kingston, RI, and the former EPA Pesticides and Industrial Chemicals Repository, Research Triangle Park, NC.  The pesticide solution was prepared at NIST by weighing and mixing the individual pesticides and 2,2,4trimethylpentane.  The weighed components were added to the 2,2,4trimethylpentane and mixed until completely dissolved and homogenized.  The total mass of this solution was measured and the mass fractions of the components calculated (see Table 2).  These gravimetric mass fractions were adjusted for the purity estimates of each component that was determined by using capillary GC with flame ionization detection (FID), differential scanning calorimetry, and the purity assay information from the component suppliers.  This bulk solution was then chilled to approximately –5 °C, and 1.2 mL aliquots were dispensed into 2 mL amber glass ampoules that were then flame sealed.
+
+
+
+SRM Analysis:  Aliquots from nine ampoules selected using a stratified random sampling scheme were analyzed in duplicate by using capillary GC with electron capture detection (ECD) employing an immobilized non-polar stationary phase column.  The two internal standards added to each sample for quantification purposes were: PCB 103 (2,2',4,5',6pentachlorobiphenyl) and 4,4'DDTd8.  Calibration solutions consisting of weighed amounts of the pesticides (adjusted for the purity estimation) and internal standard compounds in 2,2,4trimethylpentane were chromatographically analyzed to determine analyte response factors.  The analytical values determined for the compounds are given in Table 2.
+
+
+
+During stability testing in November 2011, the 4,4′-DDD content was found to be lower than originally certified.  Therefore, the certified mass fraction of 4,4′-DDD has been removed from the certificate, and because of the observed instability, a new value is not provided.
+
+
+
+																																						Table 1.  Certified Mass Fractions of Chlorinated Pesticides in SRM 2273
+
+		
+
+				Compound	Mass Fraction	Mass Concentration
+
+					(mg/kg)(a)	(µg/mL)(b)
+
+		
+
+													2,4'-DDT	2.896		0.095	1.998		0.066
+
+													4,4'-DDT	2.862		0.058	1.974		0.040
+
+													2,4'-DDE	2.907		0.076	2.006		0.052
+
+													4,4'-DDE	2.912		0.078	2.009		0.054
+
+													2,4'-DDD	2.818		0.061	1.944		0.042
+
+												DDMU	2.899		0.084	2.000		0.058
+
+
+
+	(a)	The certified value is the unweighted average of the concentrations determined by gravimetric and chromatographic measurements.  The expanded uncertainty, at the 95 % level of confidence, is calculated as U = kuc, where uc is a combined standard uncertainty calculated according to the ISO Guide [3,4] and k = 2 is the coverage factor.  The value of uc includes both a correction for estimated purity and an allowance for differences between the concentration determined by gravimetric preparation and chromatographic measurements.
+
+	(b)	The certified values, in mass concentration units, were obtained by multiplying the certified mass fraction values by the measured density of the SRM solution at 22 °C (0.6899 g/mL).  These values are for use over the temperature range of 20 °C to 25 °C, and an allowance for the change in density over this temperature range is included in the uncertainties.
+
+
+
+
+Table 2.  Supplemental Information for Chlorinated Pesticides and Metabolites in SRM 2273(a)
+
+
+
+		Mass Fraction
+
+				Compound	Gravimetric(b)	GC/ECD(c)
+
+			(mg/kg)	(mg/kg)
+
+
+
+							2,4'-DDT	2.858	2.933	( 0.025)
+
+							4,4'-DDT	2.861	2.863	( 0.020)
+
+							2,4'-DDE	2.890	2.925	( 0.027)
+
+							4,4'-DDE	2.892	2.933	( 0.021)
+
+							2,4'-DDD	2.813	2.824	( 0.027)
+
+								DDMU	2.885	2.913	( 0.035)
+
+							
+
+	(a)	Results presented for use only as background information.
+
+	(b)	Calculated mass fraction based on the mass of the pesticide added to the total mass of the solution corrected for the chemical purity.
+
+	(c)	Measured mass fractions determined by using GC/ECD corrected for the purity of the components.  The listed uncertainties in parentheses represent one standard deviation of a single measurement for these results and recognize only the withinmethod variability.
+
+
+
+Table 3.  Compound Name, CAS Nomenclature, and CAS Registry Number
+
+
+
+		Compound
+
+				(Alternative Name)	CAS Nomenclature(a)	CAS Registry Number(a)
+
+				
+
+					2,4'-DDT	1-chloro-2-(2,2,2-trichloro-1-	789-02-6
+
+				(o,p'-DDT)	[4-chlorophenyl]ethyl)benzene
+
+				
+
+				4,4'-DDT	1,1'-(2,2,2-trichloroethylidene)bis	50-29-3
+
+				(p,p'-DDT)	(4-chloro)benzene
+
+				
+
+				2,4'-DDE	1-chloro-2-(2,2-dichloro-1-	3424-82-6
+
+				(o,p'-DDE)	[4-chlorophenyl]ethenyl)benzene
+
+				
+
+				4,4'-DDE	1,1'-(dichloroethenylidene)bis	72-55-9
+
+				(p,p'-DDE)	(4-chloro)benzene
+
+				
+
+				2,4'-DDD	1-chloro-2-(2,2-dichloro-1-	53-19-0
+
+				(o,p'-DDD)	[4-chlorophenyl]ethyl)benzene
+
+				(o,p'-TDE)
+
+				
+
+				4,4'-DDD	1,1'-(2,2-dichloroethylidene)bis	72-54-8
+
+				(p,p'-DDD)	(4-chloro)benzene
+
+				(p,p'-TDE)
+
+				
+
+				DDMU	1,1'-(chloroethenylidene)bis	1022-22-6
+
+				(p,p'-DDD olefin)	(4-chloro)benzene
+
+				(p,p'-TDE olefin)
+
+	
+
+	(a)	Chemical Abstracts, Thirteenth Collective Index, Index Guide, American Chemical Society, Columbus, OH, 1996.
+
+
+
+
+REFERENCES
+
+
+
+		[1]	Thompson A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; National Institute of Standards and Technology, U.S. Government Printing Office: Washington, DC (2008); available at http://www.nist.gov/pml/div684/fcdc/upload/sp811.pdf (accessed Jan 2012).
+
+	[2]	May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136 (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Jan 2012).
+
+	[3]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Jan 2012); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office:  Washington, DC (1994); available at http://www.nist.gov/pml/pubs/index.cfm (accessed Jan 2012).
+
+							[4]	JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty in Measurement; Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in Metrology (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2012).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+				Certificate Revision History:  14 February 2012 (Removal of certified value for 4,4'-DDD; editorial changes); 06 November 2009 (Extension of the certification period; editorial changes); 02 July 2001 (Original certificate date).
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished by contacting the SRM Program:  telephone (301) 9752200; fax (301) 9264751; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+			SRM 2273	Page 4 of 4

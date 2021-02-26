@@ -1,0 +1,381 @@
+﻿National Institute of Standards & Technology
+
+	
+
+	Report of Investigation
+
+	
+
+Reference Material 8491
+
+
+
+Sugarcane Bagasse Whole Biomass Feedstock
+
+
+
+A Joint Material of the 
+
+International Energy Agency (IEA) Biomass Annex, National Renewable Energy Laboratory (NREL), and NIST
+
+
+
+This Reference Material (RM) is intended primarily for use in evaluating analytical methods for the determination of summative composition of lignocellulosic material.  The RM can also be used for quality assurance when assigning values to in-house control materials.  The whole herbaceous biomass material is derived from sugarcane bagasse (Saccharum spp.).  A unit of the RM consists of five singleuse Mylar bags of whole biomass, each containing approximately 10 g of material.
+
+
+
+Reference Mass Fraction Values:  The reference values for water extractives, ethanol extractives, sucrose, glucan, xylan, arabinan, galactan, mannan, total lignin, acidinsoluble residue, acidsoluble lignin, nitrogen (for calculation of protein), acetyl, extractivesfree ash, and whole ash are listed in Table 1 and are reported as mass fractions on a drymass basis [1].  These reference values are derived from results reported in an interlaboratory comparison exercise organized by the National Renewable Energy Laboratory (NREL, Golden, CO) and NIST.  The participating laboratories used their established analytical protocols.  A NIST reference value is a noncertified value that is the best estimate of the true value based on available data; however, the value does not meet the NIST criteria for certification and is provided with associated uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, and/or may reflect a lack of sufficient statistical agreement among multiple analytical methods [2].
+
+		
+
+Expiration of Reference Values:  RM 8491 is valid, within the measurement uncertainty specified, until 01 June 2020, provided the RM is handled and stored in accordance with the instructions given in this Report of Investigation (see “Instructions for Storage and Use”).  This report is nullified if the RM is damaged, contaminated, or otherwise modified.
+
+
+
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification.
+
+
+
+Overall direction and coordination of the technical measurements leading to the original value assignments of this RM were performed by F.A. Agblevor, Virginia Polytechnic Institute and State University, Blacksburg, VA (formerly of NREL) [3–5].  Direction and coordination of the technical measurements leading to the recharacterization of this RM were performed by D.W. Templeton of the NREL National Bioenergy Center and K.E. Sharpless of the NIST Analytical Chemistry Division.
+
+
+
+Statistical consultation and analysis were performed by S.B. Schiller and J.H. Yen of the NIST Statistical Engineering Division.
+
+
+
+Support aspects involved in the issuance of this RM were coordinated through the NIST Measurement Services Division.
+
+
+
+
+
+		Stephen A. Wise, Chief
+
+		Analytical Chemistry Division
+
+		
+
+	Gaithersburg, MD 20899	Robert L. Watters, Jr., Chief
+
+	Report Issue Date:  28 February 2011	Measurement Services Division
+
+Report Revision History on Last Page
+
+
+Collaborating investigators and laboratories were:  Y.Y. Lee, L. Kang, Auburn University, Auburn, AL; L.R. Madsen II, C. Verret, Audubon Sugar Institute – Louisiana State University Agricultural Center, St. Gabriel, LA; J. Saddler, R. Chandra, P. Chung, University of British Columbia, Vancouver, BC, Canada; C. Wyman, T. Zhang, J. DeMartini, M. Ebrik, University of California – Riverside, Riverside, CA; F. Matt, J. Zhu, J. Ahn, S.R. Kim, Analytical Chemistry and Microscopy Lab, Forest Products Laboratory, Madison, WI; G. Gresham, M. Cortez, J. Eaton, S. Morgan, M. Weston, Idaho National Laboratory, Idaho Falls, ID; M. Quinn, E. Boyd, J. Fletcher, Microbac Laboratories – Hauser Division, Boulder, CO; I. Ibarra, P. Lopez, K. Shaffer, Monsanto, Ankeny, IA;  D.W. Templeton, R. Ness, E. Fisk, NREL, Golden, CO; M. Penner, J. Goby, T. Junyusen, Oregon State University, Corvallis, OR; B. Dien, P. O’Bryan, U.S. Department of Agriculture, Agricultural Research Service, Peoria, IL.
+
+
+
+INSTRUCTIONS FOR STORAGE AND USE
+
+
+
+The material should be stored at controlled room temperature (20 °C to 25 °C), in an unopened packet, until needed.  Prior to removal of a test portion for analysis, the contents of a packet of material should be mixed thoroughly.  For reference values to be valid, test portions for extraction equal to or greater than 1 g and test portions for hydrolysis equal to or greater than 300 mg should be used.  Test portions should be analyzed as received and results converted to a drymass basis by determining moisture content on a separate test portion.  Moisture content should be determined by drying in a forcedair oven at 105 C.  The value assignments do not apply to contents of previously opened and stored packets as the stability of measurands in opened packets has not been investigated.
+
+
+
+PREPARATION AND ANALYSIS()
+
+
+
+Material Acquisition and Preparation:  In 1991, as part of the International Energy Agency (IEA) Voluntary Standards Activity Group’s work, four biomass samples were selected for use as test materials for a worldwide interlaboratory comparison of the Uppsala Method for biomass analysis [6].  The material for production of RM 8491 was supplied by K.K. Wu, Hawaii Sugar Planters Association (HSPA), Aiea Heights Drive, HI.  The fresh bagasse was derived from sugarcane clone H657052 (Saccharum spp. hybrid).  The sugarcane crop was planted at the Kunia substation of HSPA on the Island of Oahu, HI and was dripirrigated to maturity (24 months).  The sugarcane field was then burned, and the sugarcane stalks were harvested by bulldozing the field.  The stalks were collected and trucked to a crushing mill where they were washed, crushed, and the juice extracted.  A sample of bagasse (40 % moisture) was collected from the sugar mill and air-dried at room temperature for 10 days.  About 90 kg of the air-dried sugarcane bagasse was then shipped without any further processing to NIST.  The material was visually inspected for mold (no mold was visible) at NIST and then stored in the general warehouse at room temperature for nine months prior to milling.  The moisture content of the dried bagasse as received was 6 % (mass fraction).
+
+
+
+Prior to milling, the material was again visually inspected for mold (no mold was visible) and shredded plastic, an artifact of the irrigation system and the method harvesting.  The shredded plastic was removed by hand before the bagasse was Wiley-milled to pass a 2 mm mesh screen.  During the milling operation, the cutting blades were continuously water-cooled to prevent overheating of the material.  The milled samples were then sieved and the fraction of material between 190 μm and 850 μm (74 and 20 mesh) was collected.  The bulk material was irradiated with 60Co to an absorbed dose of 25 kGy to 46 kGy (Neutron Products, Inc., Dickerson, MD).  The irradiated samples were then packaged in 10 g quantities in Mylar bags. 
+
+
+
+Homogeneity Assessment:  About 27 kg of the fraction of material between 190 μm and 850 μm (74 and 20 mesh) was thoroughly homogenized in a large cone blender for 45 min.  Seven samples of the homogenized material were sent to NREL where they were tested for uniformity by pyrolysis mass spectrometry.  Aliquots (3 × 30 mg) were drawn from each of the seven samples and pyrolyzed at 600 °C.  The pyrolyzates were analyzed using a molecular beam mass spectrometer [7].  Multivariate analysis techniques [8] were used to analyze the pyrolysis mass spectral data, and the relative variation in concentration of carbohydrate and lignin pyrolysis products was estimated for the seven samples.  No significant differences were detected in the concentrations of the cell wall components of the seven samples.  The material was therefore determined to be adequately uniform for polymeric constituent analysis. 
+
+
+
+Analytical Approach for Determination of Composition:  Value assignment of the concentrations of the summative composition of lignocellulosic material was based on the analytical methods and parameters provided in Table 2.  Laboratories used their established analytical methods, analyzed single test portions from each of three packets of material and a twostage H2SO4 hydrolysis method similar to that described by NREL [9].
+
+
+
+Value Assignment:  The medians of the laboratories’ means were used to calculate assigned values.  Values of zero that were reported were included in these calculations.  The expanded uncertainty, U, is calculated as kuc, where uc incorporates the observed difference between the individual laboratory results, consistent with the ISO Guide [10] and its Supplement [11], and k is a coverage factor corresponding to approximately 95 % confidence for each analyte.
+
+
+
+
+
+Table 1.  Reference Mass Fraction Values(a) for Constituents in RM 8491
+
+
+
+Mass Fraction
+
+(%)
+
+Expanded Uncertainty
+
+(%)
+
+Coverage Factor, k
+
+Water Extractives
+
+	4.1
+
+	1.0
+
+	2.20
+
+95 % Ethanol Extractives (after water extraction)
+
+	1.79
+
+	0.21
+
+	2.20
+
+Sucrose
+
+	0.10
+
+	0.03
+
+	2.20
+
+Whole Ash
+
+	3.84
+
+			0.26
+
+			2.18
+
+ExtractivesFree Ash
+
+	3.45
+
+	0.16
+
+	2.26
+
+Glucan
+
+	40.5
+
+	1.4
+
+	2.18
+
+Xylan
+
+	22.04
+
+	0.94
+
+	2.18
+
+Arabinan
+
+	1.49
+
+	0.33
+
+	2.18
+
+Galactan(b)
+
+	0.28
+
+	0.33
+
+	2.20
+
+Mannan(b,c)
+
+	0.00
+
+	0.45
+
+	2.00
+
+Structural Sugars
+
+	65.56
+
+	0.96
+
+	2.18
+
+Total Lignin(d)
+
+	24.4
+
+	1.3
+
+	2.18
+
+AcidInsoluble Residue
+
+	20.9
+
+	1.7
+
+	2.20
+
+AcidSoluble Lignin
+
+	2.4
+
+	1.6
+
+	2.20
+
+Acetyl
+
+	3.19
+
+	0.81
+
+	2.23
+
+Nitrogen
+
+	0.21
+
+	0.10
+
+	2.31
+
+Total Component Closure(e)
+
+	102.4
+
+	1.8
+
+	2.26
+
+			
+
+			
+
+									(a)	Each value is the median of the mean results provided by the collaborating laboratories and is reported on a drymass basis.
+
+									(b)	The expanded uncertainty provided is symmetrical, but the lower bound for the mass fraction is zero.
+
+									(c)	The value is the median of results provided by the collaborating laboratories, most of which reported values of 0.00 %.  The expanded uncertainty for this constituent was calculated as described above and in reference 12.
+
+									(d)	The value for total lignin is the median of individual values for total lignin reported by the collaborating laboratories and not the mathematical summation of the median values for acidinsoluble residue and acidsoluble lignin. 
+
+									(e)	Theoretically the total component closure is bounded by 0 % and 100 %.  This is calculated as the sum of individual components that can each be over- or underestimated.
+
+
+
+
+
+
+
+
+
+Table 2.  Analytical Methods and Parameters Used for Characterization of RM 8491(a)
+
+Extraction method:
+
+Soxhlet (6), automated solvent extraction (4), Soxtec (1), not reported (1)
+
+Extract concentration method:
+
+Rotovap (1), Turbovap (3), hotplate or oven (2), Soxtec (1), drying in crucible (1), not reported (4)
+
+Acidsoluble lignin(b):
+
+Absorptivity of 25 L g–1cm–1 (4), absorptivity of 15 L g–1cm–1 (1), absorptivity not  reported (4), no wavelength or absorptivity reported (3)
+
+Detection of free sugars in water extract:
+
+Liquid chromatography (8), immobilized enzyme assay (3), not reported (1)
+
+Sugar separation column type:
+
+Lead ion (7), amino (3), anion exchange (2), not reported (1)
+
+Sugar detection:
+
+Refractive index (10), pulsed amperometric (2) evaporative light scattering detection (1)
+
+Nitrogen:
+
+Combustion (4), electron affinity (1), Kjeldahl (1), not reported (3)
+
+Acetic acid separation column type:
+
+Hydrogen ion (6), anion exchange (1), not reported (4)
+
+								
+
+								(a)	The value in parentheses represents the number of labs reporting their use of each method or column.
+
+								(b)	All labs reporting information used a wavelength of 240 nm.
+
+
+
+
+REFERENCES
+
+
+
+	[1]	Thompson, A.; Taylor, B.N.; Guide for the Use of the International System of Units (SI); NIST Special Publication 811; U.S. Government Printing Office: Washington, DC (2008); available at http://www.nist.gov/pml/pubs/index.cfm/ (accessed Feb 2011).
+
+	[2]	May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G..; Wise, S.; Gills, T.; Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for ValueAssignment of Reference Materials for Chemical Measurements; NIST Special Publication 260136; U.S. Government Printing Office: Gaithersburg, MD (2000); available at http://www.nist.gov/srm/publications.cfm (accessed Feb 2011).
+
+	[3]	Agblevor, F.; Chum, H.L.; Johnson, D.K.; Compositional Analysis of NIST Biomass Standards from the IEA Feedstock Round Robin; In: Energy from Biomass and Wastes XVI, Klass, D.L., Ed.; Institute of Gas Technology: Orlando, FL; pp. 395–421 (1992).
+
+	[4]	Milne, T.A.; Chum, H.L.; Agblevor, F.; Johnson, D.K.; Standardized Analytical Methods; Biomass Bioenergy, Vol. 2, pp. 341–366 (1992).
+
+	[5]	Chum, H.L.; Johnson, D.K.; Agblevor, F.A.; Evans, R.J.; Hames, B.R.; Milne, T.A.; Overend, R.P.; Status of the IEA Voluntary Standards Activity Round Robins on Whole Wood and Lignins; In: International Conference on Advances in Thermochemical Biomass Conversion, Bridgwater, A.V., Ed.;  Blackie Academic and Professional: Interlaken, Switzerland, p. 1701–1716 (1992).
+
+	[6]	Theander, O.; Chemical Analysis of Lignocellulosic Materials; Anim. Feed Sci. Technol., Vol. 32, pp. 35–44 (1991).
+
+	[7]	Evans, R.J.; Milne, T.A.; Molecular Characterization of the Pyrolysis of Biomass. 1) Fundamentals; Energy and Fuels, Vol. 1  No. 2, pp. 123–137 (1987).
+
+			[8]	Agblevor, F.A.; Evans, R.J.; Johnson, K.D.; Molecular Beam Mass Spectrometric Analysis of Lignocellulosic Materials I:  Herbaceous Biomass; J. Anal. Appl. Pyrol., Vol. 30, pp. 125–144 (1994).
+
+	[9]	Sluiter, J.B.; Ruiz, R.O.; Scarlata, C.J.; Sluiter, A.D.; Templeton, D.W.; Compositional Analysis of lignocellulosic Feedstocks. 1. Review and Description of Methods; J. Agric. Food Chem., Vol. 58 No. 16, pp. 9043–9053 (2010).
+
+			[10]	JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement (ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Feb 2011); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Feb 2011).
+
+	[11]	JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the Guide to the Expression of Uncertainty in Measurement – Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in Metrology (JCGM) (2008); available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2011).
+
+	[12]	Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report Revision History:  28 February 2011 (This revision includes value updates based on recharacterization and an extension of the expiration date); 06 November 2001 (original report date).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users of this RM should ensure that the Report of Investigation in their possession is current.  This can be accomplished by contacting the SRM Program: telephone (301) 9752200; fax (301) 9264751; email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm.
+
+		RM 8491 		Page 4 of 4

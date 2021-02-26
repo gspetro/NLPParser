@@ -1,0 +1,1018 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3235 
+ 
+Soy Milk 
+
+validation  of 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for validation of methods for determining vitamins, 
+vitamins, 
+elements, proximates, fatty acids, and amino acids in soy milk and similar materials.  This SRM can also be used for 
+quality  assurance  when  assigning  values  to  in-house  reference  materials.    The  SRM  is  a  soy  milk  prepared  by  a 
+commercial manufacturer.  A unit of SRM 3235 consists of 10 ampoules, each containing approximately 10 mL of 
+material. 
+ 
+The  development  of  SRM 3235  was  a  collaboration  between  the  National  Institute  of  Standards  and  Technology 
+(NIST) and the National Institutes of Health Office of Dietary Supplements (NIH-ODS). 
+ 
+Certified  Mass  Fraction  Values:    The  certified  mass  fraction  values  for  elements  and  vitamins  in  SRM 3235, 
+reported on an as-received basis, are provided in Tables 1 and 2.  A NIST certified value is a value for which NIST 
+has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or 
+taken  into  account [1].    Analyses  for  value  assignment  were  performed  by  NIST  and  collaborating  laboratories.  
+Certified values were calculated as the mean of the mean values from NIST methods and the median or mean of the 
+means of results provided by collaborating laboratories, where appropriate.  The associated uncertainties are expressed 
+at an approximately 95 % level of confidence [2–4]. 
+ 
+Reference  Mass  Fraction  Values:  Reference  mass  fraction  values  for  iron,  additional  vitamins,  proximates  and 
+calories,  fatty  acids,  and  amino  acids  in  SRM 3235,  reported  on  an  as-received  basis,  are  provided  in  Tables 3 
+through 7.  A NIST reference value is a noncertified value that is the best estimate of the true value based on available 
+data;  however,  the  value  does  not  meet  the  NIST  criteria  for  certification [1]  and  is  provided  with  associated 
+uncertainties that may reflect only measurement reproducibility, may not include all sources of uncertainty, or may 
+reflect a lack of sufficient statistical agreement among multiple analytical methods.  The reference mass fraction values 
+were derived from results reported by NIST and/or collaborating laboratories. 
+ 
+Expiration of Certification:  The certification of SRM 3235 is valid, within the measurement uncertainty specified, 
+until  01 October 2026, provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Support for the development of SRM 3235 was provided in part by NIH-ODS.  Technical consultation was provided by 
+J.M. Betz of NIH-ODS.  
+ 
+Overall direction and coordination of the technical measurements leading to the certification of this SRM were performed 
+by M.M. Phillips and L.J. Wood of the NIST Chemical Sciences Division and K.E. Sharpless of the NIST Special Programs 
+Office. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  J.F. Browning,  C.Q. Burdette,  K.D. Chieh,  B.E. Lang, 
+M.M. Phillips, B.J. Porter, C.A. Rimmer, J.B. Thomas, and L.J. Wood of the NIST Chemical Sciences Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  21 February 2017 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+SF.
+
+Page 1 of 8 
+
+  
+
+SRM 3235 
+
+ampoules 
+
+the  same  results  are  not 
+
+Analyses  for  value  assignment  were  also  performed  by  the  following  laboratories  participating  in  a  GMA  Food 
+Industry  Analytical  Chemists  Share  Group (FIACSG)  interlaboratory  comparison  exercise:    Chelab  Silliker, 
+(Resana, Italy); Conagra Foods (Omaha, NE); Covance Laboratories, Inc. (Battle Creek, MI); Covance Laboratories, 
+Inc. (Harrogate, North Yorkshire, United Kingdom); Covance Laboratories, Inc. (Madison, WI); Del Monte Foods 
+(Walnut Creek, CA); Eurofins Nutrition Analysis Center (Des Moines, IA); General Mills, Inc. (Golden Valley, MN); 
+Hormel  Foods  Corporation  (Austin, MN);  Krueger  Food  Laboratories  (Billerica,  MA);  Land  O’Lakes  (Arden 
+Hills, MN); Nestlé Brasil (São Paulo, Brazil); Nestlé Centroamerica (Antigua, Guatemala); Nestlé Malaysia (Petaling 
+Jaya, Malaysia);  Nestlé  Nederland  BV  (Nunspeet, Netherlands);  Nestlé  Quality  Assurance  Center  (Dublin, OH); 
+Schwan  Food  Company  (Salina, KS);  Silliker  Ibérica  (Barcelona, Spain);  Silliker  Illinois  Analytical  Laboratory 
+(Crete, IL);  The  Coca  Cola  Company,  Asia  Pacific  Technical  Center  (Shanghai, China);  The  J.M. Smucker  Co. 
+(Orrville, OH); The National Food Laboratory (Livermore, CA). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 3235 IS INTENDED FOR RESEARCH USE, NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+5 
+Storage:    The  original  unopened  ampoules  of  SRM 3235  should  be  stored  under  refrigeration  (4 °C).    Once  the 
+only 
+ampoule is opened, the long-term stability of all analytes in SRM 3235 is unknown.  Therefore, the certification only 
+days 
+applies to the initial use and the same results are not guaranteed if the remaining liquid is used longer than two days 
+after opening. 
+ 
+Use:  Prior to removal of a test portion for analysis, the contents of an ampoule of material should be mixed thoroughly.  
+For certified values to be valid, a 4 g to 5 g test portion should be used for analysis.  Results obtained in analyses 
+should  include  their  own  estimates  of  uncertainty  and  can  be  compared  to  the  certified  values  using  procedures 
+described in reference 5. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source  and  Preparation:    The  SRM  is  a  soy  milk  prepared  by  a  commercial  manufacturer.    The  product  was 
+as 
+packaged into single-use, 10-mL glass ampoules, each containing 10 mL of liquid. 
+ 
+Analytical Approach for Determination of Elements:  Value assignment of the mass fractions of the elements in 
+SRM 3235  was based on the  combination of results  from  NIST and collaborating laboratories,  where appropriate.  
+NIST provided measurements by using inductively coupled plasma optical emission spectrometry (ICP-OES). 
+ 
+NIST Analyses for Ca, Cu, Fe, K, Mg, Mn, Na, P, and Zn Using ICP-OES:  Mass fractions of calcium, copper, iron, 
+magnesium, manganese, phosphorus, potassium, sodium, and zinc were measured by ICP-OES.  Duplicate 5 g test 
+portions were taken from each of 10 ampoules of SRM 3235 and were digested in a microwave sample preparation 
+system using nitric acid.  Quantitation was based on the method of standard additions using SRM 3100 series single 
+element standard solutions. 
+ 
+Analytical Approach for Determination of Vitamins:  Value assignment of the mass fractions of the vitamins in 
+SRM 3235  was based on the  combination of results  from  NIST and collaborating laboratories,  where appropriate.  
+NIST  provided  measurements  by  using  isotope  dilution (ID)  with  liquid  chromatography (LC)  and  tandem  mass 
+spectrometry (MS/MS) or LC with absorbance or fluorescence detection. 
+ 
+riboflavin,
+NIST Analyses for Riboflavin, Pantothenic Acid, and Pyridoxine Using ID-LC-MS/MS:  Mass fractions of riboflavin, 
+pantothenic acid, and pyridoxine were measured by ID-LC-MS/MS in duplicate 4.5 g test portions taken from each 
+of ten ampoules of SRM 3235.  The analytes and internal standards were extracted into ammonium acetate at pH 2.6 
+for analysis by positive ion mode ID-LC-MS/MS.  A gradient method with an ammonium formate buffer/methanol 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 3235 
+
+Page 2 of 8 
+
+mobile phase and a C18 column were used for ID-LC-MS/MS determination of the vitamins.  Calibrants were prepared 
+gravimetrically at levels intended to approximate the levels of the vitamins in the SRM following extraction.  The 
+purity  of  neat  calibrant  materials  was  determined  at  NIST  using  LC-absorbance,  Karl  Fischer  titration, 
+thermogravimetric analysis, and differential scanning calorimetry.  A single internal standard solution was used for 
+the calibrants and samples.  The analyte and internal standard transitions monitored for ID-LC-MS/MS are listed in 
+Table 8. 
+ 
+measured 
+NIST Analyses for Vitamin D2 Using ID-LC-MS/MS:  The mass fraction of vitamin D2 (ergocalciferol) was measured 
+in duplicate 5 g test portions taken from each of ten ampoules of SRM 3235.  Vitamin D3-13C5 was added as an internal 
+standard.  Prior to extraction, the samples of SRM 3235 were sonicated with 1 % ethylenediamine tetraacetic acid 
+(mass fraction) for 1 h.  Dipotassium oxalate solution (35 %, mass fraction) was added to each sample, and the analyte 
+and internal standard were extracted into 5:7 tert-butylmethylether:petroleum ether (volume fraction) by rotational 
+agitation for 1 h.  The samples were centrifuged, the supernatants were decanted, and an additional aliquot of 5:7 tert-
+butylmethylether:petroleum ether (volume fraction) was added.  Samples were extracted further by a combination of 
+sonication and rotary mixing, then centrifuged, and the supernatants combined with those from the previous extraction.  
+Two additional cycles of sonication and rotary mixing were conducted, for a total of four extractions.  The pooled 
+organic layers were dried using magnesium sulfate, and following centrifugation evaporated to dryness under nitrogen.  
+The  analytes  were  derivatized  with  4-phenyl-1,2,4-triazoline-3,5-dione  (PTAD)  and  reconstituted  in  ethanol 
+containing butylated hydroxytoluene (BHT) for analysis by positive-ion mode LC-MS/MS.  A gradient method with 
+a  water/methanol  mobile  phase  and  a  pentafluorophenyl  column  were  used  for  LC-MS/MS  determination.  
+Vitamin D2+PTAD  and  vitamin  D3-13C5+PTAD  were  measured  at 
+transitions  m/z 572  m/z 298  and 
+m/z 565  m/z 298,  respectively.    Calibrants  were  prepared  gravimetrically  at  levels  intended  to  approximate  the 
+levels of the vitamins in the  SRM  following extraction.  The purity of the  neat  vitamin  D2 calibrant  material  was 
+determined at NIST using spectrophotometry at 265 nm (molar extinction coefficient of 19,400 L mol-1cm-1).  A single 
+internal standard solution was used for the calibrants and samples. 
+ 
+NIST Analyses for Tocopherols Using Liquid Chromatography with Fluorescence Detection:  Mass fractions of δ-
+tocopherol and γ-tocopherol were measured in duplicate 3 g to 5 g test portions taken from each of ten ampoules of 
+SRM 3235.  Ethanolic tocol was added as an internal standard.  Prior to extraction, the sample was suspended in water 
+and dipotassium oxalate solution (35 %, mass fraction) was added.  The analytes and internal standard were extracted 
+from the sample into 10:5:7 ethanol:tert-butylmethylether:petroleum ether (volume fraction) by rotational agitation 
+for 15 min.  The samples were centrifuged, the supernatants were decanted, and an additional aliquot of ethanol:tert-
+butylmethylether:petroleum ether  was added.  Samples  were extracted further by 15 min of mixing/rotation.  Two 
+additional cycles of sonication were conducted, for a total of four extractions.  The pooled organic layers were washed 
+twice with water, evaporated to dryness under nitrogen, and resuspended in a mixture of ethanol and ethyl acetate for 
+analysis by LC-fluorescence.  An isocratic method with a water/methanol mobile phase and a C30 column were used 
+for  LC-fluorescence  determination.    The  separation  was  monitored  using  a  fluorescence  detector  at  an  excitation 
+wavelength of 295 nm and an emission wavelength of 330 nm.  Calibrants were prepared gravimetrically at levels 
+intended to approximate the levels of the tocopherols in the SRM following extraction.  The purity of the δ-tocopherol 
+calibrant material was determined at NIST using spectrophotometry at 297 nm (molar extinction coefficient of 3,762 L 
+mol-1cm-1)  in  combination  with  LC-absorbance  at  297  nm.    The  purity  of  the  γ-tocopherol  calibrant  material  was 
+determined  at  NIST  using  spectrophotometry  at  298  nm  (molar  extinction  coefficient  of  3,808  L  mol-1cm-1)  in 
+combination  with  LC-absorbance  at  297  nm.    A  single  internal  standard  solution  was  used  for  the  calibrants  and 
+samples. 
+ 
+of
+NIST  Analyses  for  Tocopherols  Using  Liquid  Chromatography  with  Absorbance  Detection:    Mass  fractions  of 
+δ-tocopherol  and  γ-tocopherol  were  measured  in  duplicate  5 g  test  portions  taken  from  each  of  six ampoules  of 
+SRM 3235.  Ethanolic tocol was added as an internal standard.  The analytes and internal standard were extracted 
+from  the  sample  into  hexane  by  sonication  for  1 h  followed  by  overnight  rotational  agitation.    The  samples  were 
+centrifuged, the supernatants were decanted, and an additional aliquot of hexane was added.  Samples were extracted 
+further by 2 h of sonication.  One additional cycle of sonication was conducted, for a total of three extractions.  The 
+pooled  organic  layers  were  evaporated  to  dryness  under  nitrogen  and  resuspended  in  ethanol  containing  BHT  for 
+analysis by LC-absorbance.  An isocratic method with a water/methanol mobile phase and a C30 column were used 
+for LC-absorbance determination.  The separation was monitored using an absorbance detector at 298 nm.  Calibrants 
+were prepared gravimetrically at levels intended to approximate the levels of the tocopherols in the SRM following 
+extraction.  The purity of the calibrant materials was determined at NIST using LC-absorbance at 297 nm.  A single 
+internal standard solution was used for the calibrants and samples. 
+ 
+Collaborating Laboratories’ Analyses:  The GMA FIACSG laboratories were asked to use their usual methods to 
+make single measurements of fatty acids, proximates, calories, elements, vitamins, and amino acids on test portions 
+taken  from  each  of  two  ampoules  of  SRM 3235.    Because  of  variability  among  data  provided  by  laboratories 
+
+SRM 3235 
+
+Page 3 of 8 
+
+participating  in  this  interlaboratory  comparison  exercise,  the  median  of  laboratory  means  was  used,  with  the 
+uncertainty estimated using the median absolute deviation (MAD) [6]. 
+ 
+Homogeneity Assessment:  The homogeneity of elements and vitamins in the SRM was assessed at NIST using the 
+methods and test portion sizes described above.  Analysis of the variance showed statistically significant heterogeneity 
+for iron, riboflavin, ergocalciferol, γ-tocopherol, and δ-tocopherol, and the uncertainties for these values incorporate 
+an additional component for possible heterogeneity.  Homogeneity of constituents measured solely by collaborating 
+laboratories (e.g., proximates, amino acids) was not assessed, although the data were treated as though these analytes 
+were homogeneously distributed. 
+ 
+Value Assignment:  For calculation of assigned values for analytes that were measured only by NIST, the mean of 
+the mean values from NIST results was used.  The collaborating laboratories reported the individual results for each 
+of their analyses for a given analyte.  The mean of each laboratory’s results was then determined.  For calculation of 
+assigned values for analytes that were measured only by the GMA FIACSG laboratories, the median of the laboratory 
+means was used.  For analytes that were also measured by NIST, the mean of the individual sets of NIST data were 
+averaged with the median of the individual GMA FIACSG laboratory means, as appropriate. 
+ 
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from the 
+mean of results from analyses by NIST and the median of the means of results provided by collaborating laboratories.  
+The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with 
+approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc  incorporates  the 
+observed difference between the results from the methods and their respective uncertainties consistent with the JCGM 
+Guide and with its Supplement 1, and k is a coverage factor corresponding to approximately 95 % confidence [2–4].  
+The measurand is the total  mass fraction for each element  listed in Table 1.  Metrological traceability is to the SI 
+derived unit for mass fraction (expressed as milligrams per kilogram) on an as-received basis. 
+ 
+
+Table 1.  Certified Mass Fraction Values for Elements in SRM 3235 
+
+ 
+
+ 
+
+Calcium (Ca)(a,b) 
+Copper (Cu)(a,c) 
+Magnesium (Mg)(a,b) 
+Manganese (Mn)(a,c) 
+Phosphorus (P)(a,c) 
+Potassium (K)(a,b) 
+Sodium (Na)(a,b) 
+Zinc (Zn)(a,b) 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+  1219 
+ 
+  170.4 
+ 
+  392 
+  1357 
+  488.2 
+ 
+
+± 
+0.976  ± 
+± 
+1.907  ± 
+± 
+± 
+± 
+2.58  ± 
+
+38 
+0.022 
+4.9 
+0.094 
+28 
+20 
+7.0 
+0.19 
+
+2.00 
+2.00 
+2.00 
+2.00 
+2.00 
+2.00 
+2.00 
+2.00 
+
+(a) NIST ICP-OES 
+(b) Collaborating laboratories.  Reported methods included atomic absorption spectroscopy (AAS) and ICP-OES. 
+(c) Collaborating laboratories.  Reported methods included AAS, ICP-OES, and ICP-MS. 
+ 
+ 
+ 
+
+ 
+
+SRM 3235 
+
+Page 4 of 8 
+
+Certified Mass Fraction Values for Vitamins:  Each certified mass fraction value is the combined mean from the 
+mean of results from analyses by NIST and the median of the means of results provided by collaborating laboratories.  
+The uncertainty provided with each value is an expanded uncertainty about the mean to cover the measurand with 
+approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc  incorporates  the 
+observed difference between the results from the methods and their respective uncertainties consistent with the JCGM 
+Guide and with its Supplement 1, and k is a coverage factor corresponding to approximately 95 % confidence [2–4].  
+The  uncertainties  for  riboflavin,  ergocalciferol,  γ-tocopherol,  and  δ-tocopherol  also  incorporate  an  additional 
+uncertainty component for possible inhomogeneity.  The measurand is the total mass fraction for each vitamin listed 
+in Table 2.  Metrological traceability is to the SI derived unit for mass fraction (expressed as milligrams per kilogram) 
+on an as-received basis. 
+ 
+
+Table 2.  Certified Mass Fraction Values for Vitamins in SRM 3235 
+
+ 
+
+ 
+
+Riboflavin (Vitamin B2)(a,b,c) 
+Pantothenic Acid (Vitamin B5)(a,d) 
+Ergocalciferol (Vitamin D2)(a,e) 
+γ-Tocopherol (Vitamin E)(f,g,h) 
+δ-Tocopherol (Vitamin E)(f,g,h) 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.0120  ± 
+
+0.0024 
+
+2.23 
+
+0.92 
+
+7.5 
+
+6.1 
+
+± 
+
+± 
+
+± 
+
+± 
+
+0.40 
+
+0.16 
+
+1.6 
+
+1.1 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+2.00 
+
+(a) NIST ID-LC-MS/MS 
+(b) This value represents the free (unbound) form of the vitamin. 
+(c) Collaborating laboratories.  Reported methods included microbiological assay, autoanalyzer, LC-fluorescence, and LC-MS or 
+obi 
+
+,  and  LC
+
+LC-MS/MS. 
+
+ 
+i
+W
+
+ 
+i
+W
+
+(d) Collaborating laboratories.  Reported methods included microbiological assay and LC-MS or LC-MS/MS. 
+(e) Collaborating laboratories.  Reported methods included LC-absorbance and LC-MS or LC-MS/MS. 
+(f) NIST LC-absorbance 
+(g) NIST LC-fluorescence 
+(h) Collaborating laboratories.  Reported methods included LC-absorbance and LC-fluorescence. 
+ 
+ 
+Reference Mass Fraction Value for Iron:  The reference mass fraction value is the mean of the mean of results from 
+ICP-OES analyses by NIST and the median of the means of results provided by collaborating laboratories.  Methods 
+reported  by  collaborating  laboratories  included  AAS,  ICP-OES,  and  ICP-MS.    The  uncertainty  provided  is  an 
+expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  The expanded 
+uncertainty is calculated as U = kuc, where uc represents the combined uncertainty consistent with the JCGM Guide 
+and with its Supplement 1, and k is a coverage factor corresponding to approximately 95 % confidence [2–4].  The 
+uncertainty  for  iron  also  incorporates  an  additional  uncertainty  component  for  possible  inhomogeneity.    The 
+measurand is the mass fraction for iron as determined by the methods indicated.  Metrological traceability is to the SI 
+derived unit for mass fraction (expressed as milligrams per kilogram) on an as-received basis. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Elements in SRM 3235 
+
+ 
+
+ 
+ 
+
+ 
+
+Iron (Fe) 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+ 
+
+5.2 
+
+± 
+
+1.2 
+
+ 
+
+2.00 
+
+SRM 3235 
+
+Page 5 of 8 
+
+Reference  Mass  Fraction  Values  for  Vitamins:    Each  reference  mass  fraction  value  is  the  mean  from  the 
+combination  of  the  mean  results  from  NIST  and  the  median  of  the  means  of  results  provided  by  collaborating 
+laboratories, where appropriate.  The uncertainty provided is an expanded uncertainty about the mean to cover the 
+measurand  with  approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc 
+represents the combined uncertainty consistent with the JCGM Guide and with its Supplement 1, and k is a coverage 
+factor corresponding to approximately 95 % confidence [2–4].  The measurand is the mass fraction for each vitamin 
+listed in Table 4 as determined by the method indicated.  Metrological traceability is to the SI derived unit for mass 
+fraction (expressed as milligrams per kilogram) on an as-received basis. 
+ 
+
+Table 4.  Reference Mass Fraction Values for Vitamins in SRM 3235 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+Pyridoxine (Vitamin B6)(a,b) 
+Cyanocobalamin (Vitamin B12)(c) 
+Retinol (Vitamin A)(d) 
+Phylloquinone (Vitamin K)(e) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.02573  ±  0.00061 
+
+0.0147  ±  0.0011 
+
+0.662 
+
+±  0.079 
+
+0.0370  ±  0.0035 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.11 
+
+2.36 
+
+2.10 
+
+4.30 
+
+(a) NIST ID-LC-MS/MS 
+(b) This value represents the free (unbound) form of the vitamin. 
+(c) Collaborating laboratories.  Reported methods included microbiological assay and LC-absorbance. 
+(d) Collaborating laboratories.  Reported methods included LC-absorbance following saponification and/or extraction. 
+(e) Collaborating laboratories.  Reported methods included LC. 
+ 
+ 
+Reference Values for Proximates and Calories:  Each reference value is the median of the means of results provided 
+by  collaborating  laboratories.    The  uncertainty  provided  is  an  expanded  uncertainty  about  the  mean  to  cover  the 
+measurand  with  approximately  95 %  confidence.    The  expanded  uncertainty  is  calculated  as  U = kuc,  where  uc 
+represents the combined uncertainty consistent with the JCGM Guide and with its Supplement 1, and k is a coverage 
+factor corresponding to approximately 95 % confidence [2,3].  For proximates, the measurands are the mass fractions 
+of proximates listed in Table 5 as determined by the methods indicated.  Metrological traceability is to the SI derived 
+unit for mass fraction (expressed as grams per 100 grams) on an as-received basis for proximates.  For calories, the 
+measurand is the caloric content listed in Table 5 as determined by the method indicated.  Metrological traceability is 
+to the SI derived unit for energy (expressed as kilocalories per 100 grams) on an as-received basis for calories. 
+ 
+
+Table 5.  Reference Values for Proximates and Calories in SRM 3235 
+
+lories  in  SRM 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Solids(a) 
+Ash(b) 
+Protein(c) 
+Carbohydrates(d) 
+Fat (as the sum of fatty acids as triglycerides) 
+Total Sugars(e) 
+ 
+ 
+
+Mass Fraction 
+(g/100 g) 
+
+8.30  ±  0.05 
+0.66  ±  0.04 
+2.57  ±  0.06 
+3.20  ±  0.37 
+1.70  ±  0.05 
+2.19  ±  0.15 
+
+Energy 
+(kcal per 100 g) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Coverage Factor, k 
+
+2.13 
+2.13 
+2.11 
+2.16 
+2.16 
+2.36 
+
+Coverage Factor, k 
+
+Calories(f) 
+
+39 
+
+±  1 
+
+2.18 
+
+(a) Solids were determined by collaborating laboratories using drying in a forced-air oven and drying in a vacuum oven. 
+vacuum  oven. 
+(b) Ash was determined by collaborating laboratories using weight loss after ignition in a muffle furnace. 
+(c) Nitrogen was determined by collaborating laboratories using Kjeldahl and combustion (LECO).  A factor of 5.71 was used to 
+actor  of  5.71  was  used  to
+
+convert nitrogen results to protein. 
+
+(d) Carbohydrates were determined by collaborating laboratories by difference (solids less the sum of protein, fat, and ash). 
+(e) Total sugars were determined by collaborating laboratories using LC  with refractive index detection, LC with amperometric 
+
+detection, or LC with evaporative light scattering detection. 
+
+(f)  Calories were determined by collaborating laboratories as the median of lab means using caloric calculations, the sum of caloric 
+equivalents of 9, 4, and 4 for fat (as the sum of fatty acids as triglycerides), protein, and carbohydrate, respectively.  If the mean 
+proximate values above are used for calculation, the mean caloric content is 38 kcal per 100 grams. 
+
+SRM 3235 
+
+Page 6 of 8 
+
+Reference Mass Fraction Values for Fatty Acids as Free Fatty Acids:  Each reference mass fraction value is the 
+median  of  the  means  of  results  provided  by  collaborating  laboratories  using  GC-FID  following  hydrolysis  and 
+derivatization.  The uncertainty provided  with each value is an expanded uncertainty about the  mean to cover the 
+measurand with approximately 95 % confidence.  The expanded uncertainty is calculated as U = kuc, where uc is the 
+combined  uncertainty,  consistent  with  the  JCGM  Guide  and  with  its  Supplement 1,  and  k  is  a  coverage  factor 
+corresponding to approximately 95 % confidence [2,3].  The measurand is the mass fraction for each fatty acid listed 
+in Table 6 as determined by the methods indicated.  Metrological traceability is to the SI derived unit for mass fraction 
+(expressed as grams per 100 grams) on an as-received basis. 
+ 
+
+Table 6.  Reference Mass Fraction Values for Fatty Acids (as Free Fatty Acids) in SRM 3235 
+
+ 
+
+ 
+
+Common Name 
+
+Mass Fraction 
+(g/100 g) 
+
+Coverage 
+Factor, k 
+
+Palmitic Acid 
+Oleic Acid 
+ 
+Linoleic Acid 
+ 
+
+Hexadecanoic Acid (C16:0) 
+(Z)-9-Octadecenoic Acid (C18:1 n9) 
+Total cis-C18:1 
+(Z,Z)-9,12-Octadecadienoic Acid (C18:2 n6) 
+Total cis-C18:2 
+(Z,Z,Z)-9,12,15-Octadecatrienoic Acid (C18:3 n3)  α-Linolenic Acid 
+Saturated Fat 
+cis-Monounsaturated Fat 
+cis-Polyunsaturated Fat 
+Total ω-3 Fatty Acids 
+Total ω-6 Fatty Acids 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.1800  ±  0.0059 
+0.336  ±  0.020 
+0.355  ±  0.022 
+0.876  ±  0.034 
+0.880  ±  0.024 
+0.1430  ±  0.0030 
+0.266  ±  0.014 
+0.350  ±  0.010 
+1.010  ±  0.028 
+0.1400  ±  0.0045 
+0.870  ±  0.023 
+
+2.20 
+2.23 
+2.26 
+2.45 
+2.20 
+2.20 
+2.14 
+2.14 
+2.14 
+2.18 
+2.18 
+
+ 
+ 
+Reference Mass Fraction Values for Amino Acids:  Each reference mass fraction value is the median of the means 
+of results provided by collaborating laboratories using hydrolysis followed by derivatization and LC.  The uncertainty 
+provided is an expanded uncertainty about the mean to cover the measurand with approximately 95 % confidence.  
+The expanded uncertainty is calculated as U = kuc, where uc represents the combined uncertainty consistent with the 
+JCGM  Guide  and  with  its  Supplement 1,  and  k  is  a  coverage  factor  corresponding  to  approximately  95 % 
+confidence [2,3].  The measurand is the mass fraction of each amino acid listed in Table 7 as determined by the method 
+indicated.  Metrological traceability is to the SI derived unit for mass fraction (expressed as grams per 100 grams) on 
+an as-received basis. 
+ 
+
+Table 7.  Reference Mass Fraction Values for Amino Acids in SRM 3235 
+
+ 
+
+ 
+
+Coverage Factor, k 
+
+Alanine 
+Arginine 
+Aspartic Acid 
+Glutamic Acid 
+Glycine 
+Histidine 
+Isoleucine 
+Leucine 
+Lysine 
+Methionine 
+Phenylalanine 
+Proline 
+Serine 
+Threonine 
+Tryptophan 
+Tyrosine 
+
+Mass Fraction 
+(g/100 g) 
+
+0.122  ±  0.003 
+0.22  ±  0.02 
+0.33  ±  0.01 
+0.53  ±  0.02 
+0.117  ±  0.007 
+0.070  ±  0.007 
+0.13  ±  0.02 
+0.217  ±  0.005 
+0.18  ±  0.02 
+0.037  ±  0.004 
+0.142  ±  0.007 
+0.141  ±  0.008 
+0.150  ±  0.004 
+0.109  ±  0.006 
+0.040  ±  0.002 
+0.109  ±  0.005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+2.36 
+2.45 
+2.36 
+2.36 
+2.36 
+2.36 
+2.57 
+2.36 
+
+SRM 3235 
+
+Page 7 of 8 
+
+Table 8.  LC-MS/MS Transitions Monitored for Vitamins 
+
+Compound 
+
+Precursor Ion 
+(m/z) 
+
+→ Product Ion 
+(m/z) 
+
+Internal Standard (IS) 
+
+IS Precursor Ion 
+(m/z) 
+
+→ IS Product Ion 
+(m/z) 
+
+Riboflavin 
+ 
+ 
+ 
+Pantothenic Acid 
+ 
+ 
+ 
+Pyridoxine 
+ 
+ 
+ 
+
+  377 
+ 
+ 
+ 
+  220 
+ 
+ 
+ 
+  170 
+ 
+ 
+ 
+
+ 
+43 
+  172 
+  198 
+  243 
+41 
+ 
+43 
+ 
+72 
+ 
+90 
+ 
+77 
+ 
+ 
+80 
+  134 
+  152 
+
+13C4,15N2-Riboflavin 
+ 
+ 
+ 
+13C3,15N-Pantothenic 
+Acid 
+ 
+ 
+13C4-Pyridoxine 
+ 
+
+ 
+
+ 
+
+383 
+ 
+ 
+ 
+224 
+ 
+ 
+ 
+174 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+43 
+175 
+202 
+249 
+41 
+43 
+76 
+94 
+81 
+83 
+138 
+156 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+REFERENCES 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/upload/SP260-136.PDF (accessed Feb 2017). 
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2017);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Feb 2017). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures (BIPM),  Sèvres, France  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2017). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Sharpless, K.E.; Duewer, D.L.; Standard Reference Materials for Analysis of Dietary Supplements; J. AOAC 
+
+&  Hall,  London, 
+
+[3] 
+
+Int., Vol. 91, pp. 1298–1302 (2008). 
+
+[6]  Huber, P.; Robust Statistics, John Wiley, Hoboken, NJ (1981). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+email srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+ttp://www.nist.gov/srm
+
+(301) 975-2200; 
+
+telephone 
+
+fax 
+
+ 
+
+SRM 3235 
+
+Page 8 of 8 
+
+

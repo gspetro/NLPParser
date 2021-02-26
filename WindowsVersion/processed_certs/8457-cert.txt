@@ -1,0 +1,364 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8457 
+
+Ultra High Molecular Weight Polyethylene 
+
+ 
+
+ 
+
+0.5 cm Cubes 
+
+ 
+This  Reference  Material (RM)  is  an  orthopedic  grade  ultra  high  molecular  weight  polyethylene (UHMWPE)  that 
+consists  of  0.5 cm  cubes,  machined  from  the  central  portion  of  the  7.62 cm (3.0  inch)  rod  of  RM 8456.    The 
+0.5 cm cubes  are  intended  for  use  as  controls  for  evaluations  of  cross-linking  wrought  by  exposure  to  ionizing 
+radiation, in particular, to improve wear characteristics.  Cubes of this size are useful for determination of cross-link 
+density  by  swelling  measurements.    Similar  cubes,  also  fabricated  from  RM 8456  bar  stock,  were  used  in  an 
+interlaboratory comparison of cross-link density measured by a new ASTM method. 
+ 
+This  Reference  Material (RM),  fabricated  from  the  cylindrical  bar  stock  of  NIST  RM 8456,  is  intended  for 
+evaluations of cross-linking induced by radiation exposure, such as used to improve wear characteristics.  Each unit 
+of  RM 8457  consists  of  10 cubes  of  ultra  high  molecular  weight  polyethylene (UHMWPE)  of  nominal  dimension 
+0.5 cm.  The cubes are sized for measurement of cross-link density by swelling.  The material as supplied has not 
+been irradiated, however. 
+ 
+Reference Values:  Reference values and uncertainties for dimensions of cubes and surface roughness are shown in 
+Table 1.  Reference values are noncertified values that are the best estimate of the true value; however, the values 
+DO NOT meet the NIST criteria for certification and are provided with associated uncertainties that may not include 
+all sources of uncertainty. 
+ 
+Information Values:  Information values for degree of swelling in xylene at 130 ˚C obtained in a round robin test 
+on  gamma-irradiated  cubes  are  given  in  Table 2.    Values  and  uncertainties  for  mechanical  properties  of  the  bar 
+stock, RM 8456, from which RM 8457 was machined are shown in Table 3.  The reported mechanical properties are 
+Young’s modulus, yield strength, ultimate strength, and elongation.  The composition trace elements and material 
+properties of the bar stock from which the cubes were machined are given in Table 4.  The values in Table 4 are 
+based on manufacturer-supplied information on the composition and are considered to be information values.  These 
+are noncertified values with no reported uncertainties as there is insufficient information to assess uncertainties.  The 
+information  values  are  given  to  provide  additional  characterization  of  the  material  and  should  not  be  used  for 
+calibration or quality control. 
+ 
+Expiration  of  Value  Assignment:    RM 8457  is  valid,  within  the  measurement  uncertainty  specified,  until 
+01 January 2017,  provided  the  RM  is  handled  and  stored  in  accordance  with  instructions  given  in  this  Report  of 
+Investigation  (see  “Instructions  for  Handling,  Storage,  and  Use”).    This  report  is  nullified  if  the  RM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+occur  that  affect  the  value  assignment  before  the  expiration  of  this  report,  NIST  will  notify  the  purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+The  overall  direction  and  coordination  of  this  reference  material  were  under  J.A. Tesk  and  B.M. Fanconi  of  the 
+Polymers Division.  This RM was fabricated by the NIST Manufacturing Engineering Laboratory. 
+
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  18 June 2012 
+See Report Revision History on Last Page 
+ 
+RM 8457 
+
+ 
+Eric K. Lin, Chief 
+Polymers Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+ 
+
+ 
+
+Page 1 of 4 
+
+Statistical consultation was provided by W.F. Guthrie of the NIST Statistical Engineering Division. 
+ 
+The information regarding the source of the material and the information value reported in Table 4 were provided by 
+R.K. Wilhelm of Poly Hi Solidur, Inc., Fort Wayne, IN. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  RM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE1 
+ 
+Source of Material:  RM 8457 cubes were fabricated from one of the cylindrical bars from which test specimens 
+were  prepared  for  mechanical  measurements  on  RM 8456 [1].    Only  the  central  5.62 cm (2.21  in)  of  the  bar’s 
+diameter  was  used  to  fabricate  the  cubes  because  mechanical  properties  outside  this  area  were  found  to  differ 
+statistically [1].  The source material for RM 8456 was Premium Grade UHMWPE bars (Production Code PG9981) 
+provided by Poly Hi Solidur, Inc., MediTECH Division Fort Wayne, IN (This material was produced from Virgin 
+UHMWPE Raw Material (Lot No. 332945), TICONA GUR 1050). 
+ 
+Storage:  Until required for use, RM 8457 should be stored at room temperature in its original container and not 
+exposed to intense, direct light, or ultraviolet radiation. 
+ 
+Use:  The  reference  properties,  cube  dimensions  and  surface  roughness,  represent  mean  values  and  expanded 
+uncertainties. 
+ 
+Methods of Analysis Used in Value Assignment 
+   
+The cubes of RM 8457 were fabricated from one of the cylindrical bars from which test specimens were prepared 
+for mechanical measurements on RM 8456 [1].  Only the central 5.62 cm (2.21 in) of the bar’s diameter was used to 
+fabricate the cubes because mechanical properties outside this area were found to differ statistically [1].  Preliminary 
+measurements  had  shown  that  the  swelling  of  gamma-irradiated  cubes  is  not  truly  isotropic,  hence,  to  reduce 
+measurement uncertainties it was necessary to maintain consistency in measuring swelling along the same direction 
+for all cubes.  The anisotropic behavior derives from molecular orientation imparted by the extrusion process used to 
+produce the bar stock of RM 8456.  Cubes were machined with four of the faces aligned along the axial direction; 
+the machining produced linear striations in the axial direction on those four cube faces.  Circular swirls appeared on 
+the two faces of the cube that were perpendicular to the axial direction.  These distinguishing surface features are 
+evident under low magnification optical microscopy. 
+ 
+Cube Dimensions 
+ 
+The  NIST  Manufacturing  Engineering  Laboratory  fabricated  the  cubes.  After  machining,  the  cubes  were  stored 
+together in a plastic bag.  Each cube was examined under an optical microscope for imperfections that resulted from 
+the  machining.    Those  that  possessed  burrs  were  discarded  as  well  as  those  whose  edges  were  not  beveled.    The 
+three  edge  dimensions  were  measured  with  a  micrometer  on  40 cubes  randomly  selected  from  the  remainder.  
+Owing  to  the  different  machining  processes  used  for  faces,  normal  and  perpendicular  to  the  bar  direction,  the 
+dimensions in the axial direction were separated from those perpendicular.  The mean and expanded uncertainty of 
+the  dimension  in  the  extrusion  direction  were  (0.4919  0.005) cm  and  (0.5017  0.006) cm  in  the  dimension 
+perpendicular to the extrusion direction. 
+
+                                                 
+
+1Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental  procedure.  Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose.  
+RM 8457 
+
+Page 2 of 4 
+
+ 
+
+Surface Roughness 
+ 
+Measurements of the surface roughness of the cubes were made with a Federal Products Surfanalyzer 5000TM, using 
+a probe having a range of  50 μm.  The root mean square surface roughness (Rq ) of the faces normal to the bar 
+direction  was  found  to  be  no  more  than  5.5 μm   0.6 μm (0.6  μm  represents  the  95 %  confidence  interval  for 
+4 cubes, chosen at random, from which the measurements were made).  The standard deviation of the measurements 
+is 0.3 μm. 
+ 
+
+Table 1.  Reference Values for Cube Dimensions and Surface Roughness 
+
+Cube Dimension 
+
+Dimension (cm)  Surface Roughness (μm) 
+
+Faces normal to bar direction 
+
+0.4919  0.005 
+
+5.5  0.6 
+
+Faces perpendicular to bar direction  0.5017  0.006 
+
+ 
+
+ 
+
+ 
+
+Table 2.  Information Values for Cross-linking Caused by Gamma Irradiation [2] based on 
+
+Round Robin Test Results 
+ 
+Summary  of  Mean  ( SR,  Absolute  Interlaboratory  Uncertainty)  Swell  Ratio (q),  Cross-link  Density (υd  ),  and 
+Molecular Weight Between Cross-links (Mc) for the Four Sample Sets 
+ 
+
+Swell Ratio 
+(q) 
+
+3.37  0.26 
+
+Cross-link Density (υd) 
+[mol/dm3] 
+0.133  0.017 
+
+Molecular Mass (Weight) Between Cross-
+links (Mc) [g/mol] 
+7 650      1 010 
+
+3.12  0.24 
+
+0.151  0.021 
+
+3.12  0.24 
+
+0.152  0.020 
+
+110.1 
+
+2.97  0.31 
+
+0.170  0.032 
+
+6 720   
+
+920 
+
+6 700    
+
+890 
+
+6 150     1 190 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dose (kGy) 
+
+54.2 
+
+71.5 
+
+89.2 
+
+ 
+ 
+Table  2  is  based  on  a  round  robin  study  conducted  in  2001  involving  four  sets  of  ultra  high  molecular  weight 
+polyethylene test samples tested by six laboratories [2].  For all sets of samples, all the specimens were prepared at 
+the same time by the same laboratory.  Each laboratory tested three specimens from each set of samples.  Samples 
+from  NIST  Reference  UHMWPE,  RM 8456,  were  machined  into  5 mm  cubes,  packaged  in  nitrogen,  and  sample 
+sets were irradiated with one of four gamma irradiation doses (54.2, 71.5, 89.2, and 110.1) kGy.  The data indicate 
+that  for  the  range  of  irradiation  doses  currently  used  to  produce  highly  cross-linked  UHMWPE  for  orthopedic 
+applications, the swell ratio measurement is associated with interlaboratory expanded relative uncertainty of 8 % to 
+11 %. 
+ 
+
+Table 3.  Information Values for Mechanical Properties of RM 8456 [1] 
+ 
+
+Property 
+
+Young’s Modulus  
+Yield Strength 
+Ultimate Tensile Strength 
+Elongation 
+
+   Mean  
+  1 258 
+
+23.56 
+45.8 
+460 
+
+U 
+22 
+0.33 
+3.0 
+20 
+
+Units 
+
+U (a)   
+44 
+MPa 
+0.66   MPa 
+6.0  MPa 
+40 
+
+% (Percent) 
+
+(a)  The expanded uncertainty is computed as U = 2u to approximate a 95 % confidence interval [3]. 
+
+ 
+
+ 
+ 
+Table 4.  Information Value for Total Trace Element Concentration 
+
+Total trace element concentration 
+
+46 mg/kg 
+
+ 
+
+ 
+
+RM 8457 
+
+ 
+
+Page 3 of 4 
+
+ 
+ 
+REFERENCES 
+ 
+[1]  Eichmiller, F.C.;  Tesk, J.A.;  Croarkin, C.M.;  Mechanical  Properties  of  Ultra  High  Molecular  Weight 
+Polyethylene  NIST  Reference  Material  RM 8456;  Transactions  of  the  Society  for  Biomaterials;  p. 472, 
+27th Annual Meeting, St Paul, MN (April 2001). 
+
+[2]  Spiegelberg, S.;  Kurtz, S.;  Muratoglu, O.;  Greer, K.;  Costa, L.;  Wallace, S.;  Cooper, C.;  Interlaboratory 
+Reproducibility  of  Swell  Ratio  Measurements  for  Cross-linked  Polyethylene;  48th  Annual  Meeting  of  the 
+Orthopedic Research Society; Dallas, TX (2002). 
+
+[3]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO GUM 1995 with Minor Corrections); Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed June 2012); see also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed June 2012). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report  Revision  History:    18 June 2012  (Extension  of  the  expiration  of  value  assignment  date;  editorial  changes)  30  May  2008  (Update  of 
+expiration date and editorial changes); 15 July 2003 (Original report date). 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:  Telephone  (301)  975-2200  Fax  (301)  948-3730,  e-mail 
+srminfo@nist.gov, or via the Internet at http://www.nist.gov/srm. 
+ 
+
+RM 8457 
+
+ 
+
+Page 4 of 4 
+
+

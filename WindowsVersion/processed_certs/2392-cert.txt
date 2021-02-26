@@ -1,0 +1,639 @@
+﻿ National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2392 
+ 
+Mitochondrial DNA Sequencing (Human) 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  to  provide  quality  control  when  performing  the  polymerase 
+chain  reaction (PCR)  and  sequencing  of  human  mitochondrial  DNA (mtDNA)  for  forensic identifications, medical 
+diagnosis, or mutation detection.  This SRM can also be used for quality assurance when assigning values to in-house 
+control materials. 
+ 
+This SRM is composed of well-characterized extracted human deoxyribonucleic acid (DNA) from cell culture lines 
+known  as  CHR  and  GM09947A  as  well  as  cloned  DNA  from  the  HV1  region  of  CHR.    A  unit  of  SRM 2392  is 
+composed of three frozen components packaged in one box.  See the section in this certificate entitled Description of 
+Components for a complete listing. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that all known or suspected sources of bias have been investigated or accounted for by NIST.  This SRM is certified 
+for  the  sequences  of  the  entire  human  mtDNA (16 569  base  pairs)  from  two  lymphoblastoid  cell  culture  lines 
+(CHR and  GM09947A)  plus  the  cloned  HV1  region  of  CHR  containing  a  C-stretch.    Table 1  contains  sequence 
+differences from the Revised Cambridge Reference Sequence (rCRS) for the CHR component [1].  Table 2 contains 
+the sequence differences from the rCRS for component GM09947A.  Table 3 contains the sequence differences from 
+the rCRS for the cloned HV1 region of component CHR. 
+ 
+Note:    Information  in  the  updated  certificate  has  been  tabulated  as  differences  from  the  Revised  Cambridge 
+Reference  Sequence [1].    The  original  SRM 2392  certificate  listed  differences  from  the  original  Cambridge 
+Reference Sequence [2].  Nomenclature is in agreement with current forensic guidelines [3,4]. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2392  is  valid,  within  the  measurement  uncertainties 
+specified, until 31 July 2023, provided the SRM is handled and stored in accordance with the instructions given in 
+The  certification  is  nullified  if  the  SRM  is 
+this  certificate  (see  “Instructions  for  Storage,  Handling,  and  Use”).    The  certification  is  nullified  if  the  SRM  is 
+damaged, contaminated or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  technical  activities  leading  to  the  recertification  were  under  the 
+chairmanship of P.M. Vallone of the NIST Biomolecular Measurement Division. 
+ 
+Overall direction and coordination of the technical measurements leading to the original certification were performed 
+by B.C. Levin and D.J. Reeder, formerly of NIST.  The analytical determination and technical measurements for the 
+certification  of  this  SRM  were  performed  by  B.C. Levin,  H. Cheng,  L.A. Tully,  M.P. Jones  and  D.J. Reeder, 
+formerly of the NIST DNA Technologies Group, Biotechnology Division.  Additional sequencing experiments for 
+the  recertification  of  this  SRM  were  performed  by  P.M. Vallone,  S. Maragh  and  M.C. Kline  of  the  NIST 
+Biomolecular  Measurement  Division  along  with  assistance  from  the  Armed  Forces  DNA  Identification 
+Laboratory (Rockville, MD). 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  10 August 2018 
+Certificate Revision History on Last Page 
+
+Michael J. Tarlov, Chief 
+Biomolecular Measurement Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ing,  and  Use”). 
+
+Bio
+
+Page 1 of 5 
+
+  
+
+SRM 2392  
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+USE 
+INSTRUCTIONS FOR STORAGE, HANDLING, AND USE 
+
+OT 
+
+Storage:  Store frozen at a temperature of –20 ºC.  DO NOT use a self-defrosting freezer because periodic cycling 
+of temperatures may cause shortened shelf life of this SRM. 
+ 
+Warning:    SRM 2392  IS  A  HUMAN  SOURCE  MATERIAL.    SINCE  THERE  IS  NO  CONSENSUS  ON  THE 
+INFECTIOUS  STATUS  OF  EXTRACTED  DNA,  HANDLE  THE  SRM 2392  COMPONENTS  AS  BIOSAFETY 
+LEVEL 1  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE [5].    SRM 2392  components 
+and derived solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+Instructions  for  Use:    It  is  recommended  that  once thawed, each SRM component should be used in its entirety.  
+Repeated  freezing  and  thawing  is  NOT  recommended  as  this  might  shorten  the  shelf  life  of  the  SRM.    If  it  is 
+necessary to perform repeated analyses, thaw the SRM and divide the tube contents into aliquots that will be kept 
+frozen  until  use.    Thawing  can  be  conducted  at  refrigerator  temperatures,  room  temperature,  or  at  37 °C.    Once 
+thawed, the sample should be processed without delay. 
+
+ 
+SOURCE AND ANALYSIS(1) 
+
+Source  of  Material:    CHR DNA,  both  extracted  and  cloned,  was  prepared  in the NIST Applied Genetics Group, 
+Biomolecular  Measurement  Division. 
+  DNA  for  GM09947A  was  prepared  by  Life  Technologies,  Inc., 
+Gaithersburg, MD. 
+ 
+NIST  Analysis:    Components  were  sequenced  using  a  modified  strategy  based  on  the  work  of  Levin  et  al. [6].  
+Fluorescently-labeled  sequencing  fragments  were  separated  on  an  Applied  Biosystems 3130  Genetic  Analyzer 
+capillary electrophoresis platform. 
+ 
+Description  of  Components:    Three  components  are  included  in  each  unit;  all  components  must  be  stored  at 
+−20 °C. 
+
+unit; 
+
+nts: 
+
+concentration  of 
+#1 Extracted  DNA  from  cell  culture  line  CHR  (tube  contains  60 µL  of  DNA  at  a  concentration  of 
+approximately 1 ng/µL). 
+
+#2 Extracted  DNA  from  cell  culture  line  GM09947A  (tube  contains  60 µL  of  DNA  at  a  concentration  of 
+approximately 1 ng/µL). 
+
+#3 Cloned  DNA  from  the  CHR  HV1  region  containing  the  C-stretch  (tube  contains  10 µL  of  DNA  at  a 
+concentration of approximately 100 ng/µL). 
+
+ 
+Note:    DNA  concentrations  given  are  nominal  values;  the  components  of  this  SRM  are  not  intended  for  use  as 
+are  not  intended  for  use  as
+concentration standards. 
+
+es 
+
+                                                           
+(1)Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+ 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+SRM 2392  
+
+Page 2 of 5 
+
+ 
+Table 1.  Certified Human mtDNA Sequence Differences from the Revised Cambridge Reference Sequence for  
+SRM 2932 Component CHR. 
+
+Revised
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Site 
+64 
+73 
+195 
+204 
+207 
+263 
+309.1 
+315.1 
+709 
+750 
+1438 
+1719 
+2706 
+3107 
+4769 
+4929 
+5186 
+6221 
+6371 
+6791 
+7028 
+8503 
+8860 
+11719 
+11878 
+12612 
+12705 
+13708 
+13966 
+14470 
+14766 
+15326 
+16183 
+16189 
+16193.1 
+16223 
+16278 
+16519 
+
+  
+
+rCRS 
+C 
+A 
+T 
+T 
+G 
+A 
+ 
+ 
+G 
+A 
+A 
+G 
+A 
+C 
+A 
+C 
+A 
+T 
+C 
+A 
+C 
+T 
+A 
+G 
+T 
+A 
+C 
+C 
+A 
+T 
+C 
+A 
+A 
+T 
+ 
+C 
+C 
+T 
+
+  
+
+CHR 
+Y = CT 
+G 
+C 
+C 
+A 
+G 
+C 
+C 
+A 
+G 
+G 
+A 
+G 
+ 
+G 
+T 
+G 
+C 
+T 
+G 
+T 
+C 
+G 
+A 
+C 
+G 
+T 
+A 
+G 
+C 
+T 
+G 
+C 
+C 
+C 
+T 
+T 
+C 
+
+  
+
+Comment 
+C/T heteroplasmy 
+ 
+ 
+ 
+ 
+ 
+insertion 
+insertion 
+ 
+ 
+ 
+ 
+ 
+deletion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+insertion 
+ 
+ 
+ 
+
+SRM 2392  
+
+Page 3 of 5 
+
+Table 2.  Certified Human mtDNA Sequence Differences from the Revised Cambridge Reference Sequence for  
+SRM 2392 Component GM09947A 
+
+rCRS  GM09947A  Comments 
+
+Site 
+93 
+195 
+214 
+263 
+309.1 
+309.2 
+315.1 
+750 
+1438 
+3107 
+4135 
+4769 
+7645 
+7861 
+8448 
+8860 
+9315 
+13572 
+13759 
+15326 
+16311 
+16519 
+
+Site 
+16183 
+16189 
+16193.1 
+16223 
+16278 
+16519 
+
+A 
+T 
+A 
+A 
+ 
+ 
+ 
+A 
+A 
+C 
+T 
+A 
+T 
+T 
+T 
+A 
+T 
+T 
+G 
+A 
+T 
+T 
+
+A 
+T 
+ 
+C 
+C 
+T 
+
+G 
+C 
+G 
+G 
+C 
+C 
+C 
+G 
+G 
+ 
+C 
+G 
+C 
+C 
+C 
+G 
+C 
+C 
+A 
+G 
+C 
+C 
+
+C 
+C 
+C 
+T 
+T 
+C 
+
+ 
+
+ 
+ 
+ 
+ 
+insertion 
+insertion 
+insertion 
+ 
+ 
+deletion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+insertion 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+Table 3.  Certified Human mtDNA Sequence Differences from the Revised Cambridge Reference Sequence for  
+SRM 2392 Component CHR Clone 
+
+rCRS  CHR clone  Comments 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2392  
+
+Page 4 of 5 
+
+ 
+
+ 
+
+REFERENCES 
+
+[1]  Andrews, R.M.;  Kubacka, I.;  Chinnery, P.F.;  Lightowlers, R.N.;  Turnbull, D.M.;  Howell, N.;  Reanalysis 
+and Revision of the Cambridge Reference Sequence for Human Mitochondrial DNA; Nat. Genet., Vol. 23, 
+p. 147 (1999). 
+
+[2]  Anderson, S.;  Bankier, A.T.;  Barrell, B.G.;  deBrujin, M.H.L.;  Coulson, A.R.;  Drouin, J.;  Eperon, I.C.; 
+Nierlich, D.P.; Roe, B.A.; Sanger, F.; Schreier, P.H.; Smith, A.J.H.; Staden, R.; Young, I.G.; Sequence and 
+Organization of the Human Mitochondrial Genome; Nature, Vol. 290, pp. 457–465 (1981). 
+
+[3]  Wilson, M.R.;  Allard, M.W.;  Monson, K.;  Miller, K.W.;  Budowle, B.;  Recommendations  for  Consistent 
+Treatment  of  Length  Variants  in  the  Human  Mitochondrial  DNA  Control  Region;  Forensic  Sci  Int., 
+Vol. 129, pp. 35–42 (2002). 
+
+[4]  Wilson, M.R.;  Allard, M.W.;  Monson, K.L;  Miller, K.W.P.;  Budowle. B.;  Further  Discussion  of  the 
+Consistent  Treatment  of  Length  Variants  in  the  Human  Mitochondrial  DNA  Control  Region;  Forensic 
+Science Communications, Vol. 4, Number 4 (2002);  
+https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct2002/wilson.htm 
+(accessed Aug 2018). 
+
+[5]  CDC/NIH;  Biosafety  in  Microbiological  and  Biomedical  Laboratories,  5th  edition;  Richardson, J.; 
+Barkley, W.E.; Richmond,  J.Y.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, 
+Public  Health  Service,  Centers  for  Disease  Control (CDC)  and  Prevention  and  National  Institutes  of 
+Health (NIH);  US   Government  Printing  Office:  Washington,  DC, 
+at 
+https://www.cdc.gov/biosafety/publications/bmbl5/ (accessed Aug 2018). 
+
+available 
+
+(2007); 
+
+[6]  Levin, B.C.; Cheng, H.; Reeder, D.J.; Human Mitochondrial DNA Standard Reference Material for Quality 
+Control  in  Forensic  Identification,  Medical  Diagnosis,  and  Mutation  Detection;  Genomics,  Vol. 55, 
+pp. 135–146 (1999). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  10 August 2018 (Change of certification period; editorial changes); 15 May 2013 (Extension of the certification 
+period;  editorial  changes);  12 January 2009 (Revised  to  adopt  the  Revised  Cambridge  Reference  Sequence  (rCRS),  include  differences  from 
+rCRS found for site 4929, include heteroplasmy site 64, and report an extension of the expiration date); 17 June 2003 (This revision reports an 
+extension in the expiration date and replacement of reverse primer 51); 29 December 1999 (Original certificate date).  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[his  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+€ 
+
+» 
+
+ 
+
+SRM 2392  
+
+Page 5 of 5 
+
+

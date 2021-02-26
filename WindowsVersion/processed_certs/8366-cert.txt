@@ -1,0 +1,788 @@
+﻿ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Report of Investigation 
+
+ 
+Reference Material 8366 
+ 
+EGFR and MET Gene Copy Number Standards for Cancer Measurements 
+
+ 
+ 
+Reference Material (RM) 8366 is intended to harmonize the measurements of ratios of the human epidermal growth 
+factor gene (EGFR) and human MET proto-oncogene, receptor tyrosine kinase gene (MET) to unamplified reference 
+genes.  EGFR gene amplification and the associated increased protein expression have been reported and implicated 
+in the pathogenesis of many human malignancies.  The amplification (increased copies) of the EGFR gene and protein 
+overexpression  in  several  types  of  cancer  are  used  as  a  biomarker  for  determining  the  therapeutic  treatment  and 
+predicting  clinical  outcome  in  response  to  anti-EGFR  targeted  therapy [1].    MET  gene  amplification  resulting  in 
+increased protein expression and constitutive activation of the MET receptor has been described in lung cancer, gastric 
+carcinoma and hepatocellular carcinoma.  Various clinical trials were conducted to evaluate the safety and efficacy of 
+selective MET inhibitors in cancer patients.  However, the accurate and reliable assessment of MET levels is still a 
+challenge [2].  RM 8366 consists of genomic DNA extracted from six human cancer cell lines with different amounts 
+of amplification of the EGFR and MET genes.  The six purified genomic DNAs are in a buffer consisting of 10 mmol/L 
+2-Amino-2-(hydroxymethyl)  propane-1,3-diol (Tris)  and  0.1 mmol/L  ethylenediaminetetraacetic  acid  disodium 
+salt (EDTA) pH 8.0 (TE-4).  The six components are genomic DNA materials derived from human cell lines A-431, 
+BT-20,  C32,  Daoy,  Hs  746T,  and  SNU-5,  and  labeled  A,  B,  C,  D,  E,  and  F,  respectively.    The  approximate 
+concentration of components A, B, C, D, E, and F determined by absorbance measurements at 260 nm are 21.6 µg/mL, 
+21.7 µg/mL, 21.5 µg/mL, 22.9 µg/mL, 23.1 µg/mL, and 21.0 µg/mL, respectively.  It is important to consider that the 
+levels of EGFR and MET amplification in the individual components when preparing the dilutions to ensure that the 
+EGFR and MET copy number is within the working range of the assay that you are using.  A unit of the RM consists 
+of one vial of each component, containing approximately 100 μL of DNA solution.  Each of these vials is labeled and 
+is sealed with a color-coded screw cap. 
+ 
+Reference Values:  Reference ratios of EGFR and MET copies per reference genes with the 95 % credible intervals 
+and 95 % prediction intervals are shown in Tables 1 and 2.  A NIST reference value is a best estimate of the true value 
+provided on a NIST certificate, certificate of analysis, or report of investigation where all known or suspected sources 
+of bias have not been fully investigated by NIST [3]. 
+ 
+Information Values:  Information values for EGFR, MET, and Reference Genes Copies per microliter are shown in 
+Table 3.    An  information  value  is  considered  to  be  a  value  that  will  be  of  interest  and  use  to  the  RM  user,  but 
+insufficient information is available to assess the uncertainty associated with the value or only a limited number of 
+analyses were performed [3].  Information values cannot be used to establish metrological traceability.   
+ 
+Expiration  of  Value  Assignment:    The  reference  and  informational  values  of  RM 8366  are  valid  within  the 
+measurement uncertainty specified, until 31 December 2022, provided the RM is handled and stored in accordance 
+with  the  instructions  given  in  this  report  (see  “Instructions  for  Handling,  Storage,  and  Use”).    This  material  and 
+associated information are nullified if the RM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of RM:  NIST will monitor this RM over the period of its validity.  If substantive technical changes 
+occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  Registration 
+(see attached sheet or register online) will facilitate notification. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  14 March 2018 
+ 
+
+Sheng Lin-Gibson, Acting Chief 
+Biosystems and Biomaterials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 6 
+
+ RM 8366 
+
+“eport
+
+Overall direction and coordination of the technical measurements leading to the report of RM 8366 were provided 
+by K.D. Cole and H.-J. He of the NIST Biosystems and Biomaterials Division.   
+ 
+Sample preparation, analytical measurements, and analyses were done by H.-J. He; K.D. Cole; J. Almeida of the NIST 
+Biosystems and Biomaterials Division.  Additional measurements were supplied by M. Cleveland and C.R. Steffen of 
+the Applied Genetics Group in the Biomolecular Measurements Division.  
+ 
+Statistical consultation was provided by Steven Lund of the NIST Statistical Engineering Division. 
+ 
+Support aspects involved in the issuance of this RM was coordinated through the NIST Office of Reference Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+RM 8366 IS A HUMAN-SOURCE MATERIAL.  SINCE THERE IS NO CONSENSUS ON THE INFECTIOUS 
+STATUS  OF  EXTRACTED  DNA,  HANDLE  THE  RM 8366  COMPONENTS  AS  BIOSAFETY  LEVEL 1 
+MATERIALS CAPABLE OF TRANSMITTING INFECTIOUS DISEASE [4].  RM 8366 components and derived 
+solutions should be disposed of in accordance with local, state, and federal regulations. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  All vials of RM 8366 should be stored in the dark between 2 °C to 8 °C.  DO NOT FREEZE. 
+ 
+Use:   Component  vials should be  mixed briefly and centrifuged (without opening the vial cap) prior to removing 
+sample  aliquots  for  analysis.    For  the  reference  and  informational  values  to  be  applicable,  materials  should  be 
+withdrawn  immediately after  opening  the  vials and processed  without delay.   Dilutions  of these  materials  may be 
+made as appropriate, but the dilutions should be used immediately and not stored.  Reference and informational values 
+do not apply to any material remaining in recapped vials.  There is no minimum sample size requirement, the amount 
+required by any given assay will be dictated by the nature of the assay.  DO NOT EXPOSE ANY DNA SOLUTION 
+TO DIRECT SUNLIGHT.  This reference material is suitable only for measurement techniques that utilize purified 
+DNA. 
+ 
+For use with digital PCR polymerase chain reaction (dPCR) Assays:  The provided reference ratios could be used 
+for EGFR and MET ddPCR assay validation, optimization, and process evaluation, and measurements harmonization. 
+Use  the  informational  value  of  EGFR  and  MET  and  reference  genes  copies  per  microliter  and  the  approximate 
+concentration values when designing dilutions. 
+ 
+Reference Values:  Tables 1 and 2 have reference values for the ratios of the EGFR and MET gene copies to the 
+average copies of the indicated reference genes, the approximate 95 % credible intervals, and the approximate 95 % 
+prediction intervals.  The measurand is the ratio of EGFR or MET copies to the average copy number of the listed 
+reference genes.  Metrological traceability is to the natural unit ratio one [5]. 
+ 
+The gene abundance ratio, 
+
+, is defined as: 
+
+dl  vials  of  RM 
+
+Ratio, 
+
+to  the 
+
+las 
+
+one 
+
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑠𝑠
+
+ 
+Target 
+
+=
+= 
+
+𝑇𝑇𝑅𝑅𝑇𝑇𝑇𝑇𝑇𝑇𝑅𝑅𝑠𝑠
+
+. 
+
+Ratio, 
+
+. 
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑠𝑠
+
+Sf, 
+[2  y05,  Ref, 
+
+, 
+
+𝑠𝑠
+
+�
+
+𝐺𝐺𝑠𝑠
+
+𝐺𝐺𝑠𝑠
+𝑠𝑠=1
+
+, and 
+
+𝑅𝑅𝑇𝑇𝑓𝑓𝑠𝑠𝑠𝑠
+
+𝑅𝑅𝑇𝑇𝑓𝑓𝑠𝑠𝑠𝑠
+
+ in sample 
+
+ denotes the measured abundance of reference gene 
+
+1
+𝐺𝐺𝑠𝑠 ∑
+ denotes one of the six components included in RM 8366, 
+
+ 
+where 
+ denotes the number of reference genes considered 
+for component s, g denotes one of the reference genes, Targets denotes the measured abundance of EGFR or MET 
+𝑠𝑠
+gene in sample 
+ 
+The values in Tables 1 and 2 were calculated by fitting a statistical model to the measurements made on the RM 8366 
+materials using a digital PCR method.  The Bayesian paradigm with vague priors was used for statistical inference [6]. 
+The posterior credible interval is an interval calculated in a manner consistent with the ISO/JCGM Guide [7].  The 
+nominal coverage for the interval is 95 % and can be interpreted in the following manner.  The NIST analysts believe 
+that the ratio of gene copy number for either EGFR or MET and the average among the selected set of reference genes 
+(as listed in the "Reference Genes Used for Analysis" column of Table 1 and Table 2) for a single bottle sampled from 
+among those prepared for this RM lies within the respective provided interval with approximately 95 % probability.  
+The  prediction  interval  provides  the  approximate  range  of  values  NIST  would  reasonably  expect  upon  the  next 
+independent, triplicate measurement of the EGFR or MET copy number ratios to the average among the selected set 
+of reference genes (as listed in the "Reference Genes Used for Analysis" column of Table 1 and Table 2) for each of 
+the six components, based upon the measurement performance of NIST analysts and instruments.  The value would 
+be expected to fall within the interval approximately 95 % of the time. 
+
+.   
+
+𝑇𝑇
+
+𝑠𝑠
+
+RM 8366 
+
+Page 2 of 6 
+
+A 
+B 
+C 
+D 
+E 
+F 
+
+A 
+B 
+C 
+D 
+E 
+F 
+
+Component  Cell Line  Color 
+Code 
+
+EGFR 
+
+EGFR 
+Ratio 
+
+ 
+S 
+Table 1.  Reference Values of the Ratios of EGFR Copies to Reference Gene Copies 
+ 
+ 
+ 
+Credible 
+Interval 
+95 % 
+6.2 – 6.7 
+5.2 – 5.7 
+0.8– 0.8 
+2.1 – 2.3 
+1.3 – 1.4 
+1.8– 1.9 
+ 
+e  Gene  Copies
+Table 2.  Reference Values of the Ratios of MET Copies to the Reference Gene Copies 
+ 
+
+Prediction 
+Interval 
+95 % 
+6.0– 6.8 
+5.1 – 5.9 
+0.7 – 0.8 
+2.0 – 2.3 
+1.2 – 1.4 
+1.7– 2.0 
+
+A-431 
+BT-20 
+C32 
+Daoy 
+Hs 746T 
+SNU-5 
+
+white 
+clear 
+yellow 
+blue 
+red 
+green 
+
+6.4 
+5.5 
+0.8 
+2.2 
+1.3 
+1.8 
+
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, PMM1 
+RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+
+Reference Genes Used for 
+Analysis 
+
+ 
+PREPARATION AND ANALYSIS (1) 
+Component  Cell Line  Color 
+Code 
+
+MET 
+Ratio 
+
+0.9 
+1.1 
+2.9 
+2.2 
+16.7 
+7.7 
+
+Credible 
+Interval 
+95 % 
+0.9– 0.9 
+1.1 – 1.2 
+2.8– 3.0 
+2.1 – 2.3 
+16.0 – 17.4 
+7.4– 8.1 
+
+Prediction 
+Interval 
+95 % 
+0.8– 1.0 
+1.0 – 1.2 
+2.7 – 3.1 
+2.1 – 2.4 
+15.6 – 17.8 
+7.2– 8.2 
+
+Reference Genes Used for 
+Analysis 
+
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, PMM1 
+RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+
+A-431 
+BT-20 
+C32 
+Daoy 
+Hs 746T 
+SNU-5 
+
+white 
+clear 
+yellow 
+blue 
+red 
+green 
+
+ 
+Homogeneity and Stability Studies:  Each of the components of RM 8366 was distributed into 550 tubes that were 
+then  stored  at  4 °C  in  the  dark.    Homogeneity  studies  were  accomplished  by  selecting  10 vials  of  each  of  the 
+components that were distributed throughout the order of dispensing.  These vials were analyzed by a dPCR method. 
+Analysis of the data did not indicate any detectable changes in the values of any of the 6 components that varied with 
+dispensing order (given the uncertainty of the measurements).  Stability testing was conducted on the samples that 
+were stored at 4 °C in the dark for different periods of time.  The EGFR and MET copy number, and the ratio of EGFR 
+and MET gene to the reference gene RPS27A and EIF5B were  measured by dPCR and the data did not show any 
+significant changes in any of the 6 components (given the uncertainty of the measurements) for periods of time up to 
+408 days, the last storage time analyzed. 
+ 
+Sample Preparation:  NIST RM 8366 consists of genomic DNA samples prepared from six human cancer cell lines. 
+After the initial extraction using the Zymo Quick-gDNA™ midiPrep kit (Zymo Research Corporation, Irvine, CA); 
+the samples were pre-treated with bovine pancreatic ribonuclease A before re-extraction [8].  All purified genomic 
+DNA samples were dissolved or eluted in TE-4 buffer (10 mmol/L Tris, 0.1 mmol/L EDTA, pH 8.0) and stored at 4 ºC. 
+The  DNA  samples  from  the  cell  lines  were  genotyped  using  STR  analysis  and  the  results  agree  with  the  values 
+provided by the cell line repository. 
+ 
+dPCR Assays:  The qPCR assays for EGFR and MET and reference genes were developed according to the Minimum 
+Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) guidelines [9].  The primers and 
+probes for the EGFR and MET and reference genes for the qPCR assays are listed in Table 4.  The efficiency and 
+specificity of the assays were also determined [10].  MIQE guidelines for dPCR were followed and included sample 
+replicates,  positive  and  negative  controls,  and  proper  documentation [11].    TaqMan  probes  are  shown  in  Table 5.  
+BHQ-1™ (Black hole quencher) and FAM labeled probes were obtained from Biosearch Technologies (Novato, CA). 
+The TaqMan PCR reaction mixture consists of 1 × Droplet dPCR Supermix for probes (no dUTP) (Bio-Rad, Hercules, 
+CA), 900 nmol/L primers, and 250 nmol/L probe (final concentrations) and genomic DNA template or non-template 
+control in a total volume of 25 μL.  Approximately 20 ng of genomic DNA was applied in each reaction except for 
+EGFR detection in RM 8366 Comp A and B, and MET detection in Comp E and F, where 4 ng of genomic DNA was 
+applied.  Twenty microliters out of the 25 μL droplet dPCR reaction mixture was used for droplet generation and the 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  report  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+RM 8366 
+
+Page 3 of 6 
+
+PCR reaction.  The PCR was performed on an Applied Biosystems ProFlex™ PCR System.  The following thermal 
+cycling conditions were used:  95 °C for 10 min, followed by 40 cycles of 94 °C for 30 s and 60 °C for 1 min, then 
+98 °C for 10 min, temperature ramp rate at 2 °C/s.  After PCR, the 96-well PCR plate was loaded onto the QX200 
+droplet  digital  reader  (Bio-Rad),  which  automatically  reads  the  droplets  from  each  well  of  the  plate.    The 
+concentrations of DNA copies were calculated using Poisson sampling statistics assuming that the DNA molecules 
+are partitioning independently from each other into the individual droplets.  The results were obtained from assays 
+performed  by  two  analysts  using  a  Bio-Rad  QX200  droplet  digital  PCR  system;  the  Bio-Rad  QuantaSoft  Version 
+1.7.4.0917 used a droplet size of 0.85 nL for determination of DNA copy concentrations. 
+ 
+Informational Values:  The approximate concentration of components A, B, C, D, E, and F determined by absorbance 
+measurements  at  260 nm  are  21.6 µg/mL,  21.7 µg/mL,  21.5 µg/mL,  22.9 µg/mL,  23.1 µg/mL,  and  21.0 µg/mL, 
+respectively.  The absorbance at 260 nm of the components (six replicates) were measured and a conversion factor 
+(one  optical  density  at  260 nm  with  a  pathlength  of  1 cm  is  50 µg DNA/mL)  was  used  for  the  calculation.    The 
+approximate  values  were  used  to  determine  the  appropriate  dilution  of  the  samples  for  use  with  the  desired 
+measurement technique.  It is important to consider the level of EGFR and MET amplification in the samples and 
+appropriate dilutions may be needed to ensure that the EGFR and MET copy number are within the working range of 
+the assay.   
+ 
+Tables 3 contains the informational values for the concentrations (copies per microliters) of the EGFR and MET gene 
+and the reference genes in the components of RM 8366, determined by dPCR.  This data is from a subset of the data 
+used to calculate the reference ratios in Tables 1 and 2. The samples  were measured by dPCR using the reference 
+genes indicated in the respective tables. 
+
+by 
+
+ 
+ 
+Table 3.  Informational Values for EGFR, MET and Reference Genes Copies per Microliter by dPCR(a) 
+ 
+
+EGFR 
+
+dPCR 
+
+M 
+
+Component 
+
+EGFR 
+
+MET 
+
+Mean of Reference Genes 
+
+A 
+B 
+C 
+D 
+E 
+F 
+
+36691 
+34485 
+5279 
+15441 
+7250 
+11559 
+
+5132 
+6956 
+19618 
+15838 
+90147 
+48456 
+
+Reference Genes used for 
+Measurements 
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+EIF5B, RPS27A, DCK, PMM1 
+EIF5B, RPS27A, PMM1 
+RPS27A, DCK, PMM1 
+EIF5B, RPS27A, DCK 
+
+5717 
+6289 
+6743 
+7167 
+5402 
+6284 
+
+ 
+(a)  Mean values of N=10 samples, the average coefficient of variation for the measurements was 9.4 %. 
+ 
+ 
+
+easurements  was  9.4
+
+ 
+
+RM 8366 
+
+Page 4 of 6 
+
+Table 4.  PCR Primer Information for EGFR, MET and Reference Genes 
+ 
+
+EGFR
+
+Primer 
+Name(a) 
+
+Sequence 
+
+PCR 
+Amplicon 
+
+Gene 
+Name 
+
+EGFR-2F  ACCTTTGCAGAGAGGCTTAAT 
+
+112 bp 
+
+EGFR 
+
+EGFR-2R  CCTAGGCCCAAAGGAATGATAG 
+
+MET-2F 
+
+TGGGCATGCTCATTCTTCTT  
+
+91 bp 
+
+MET 
+
+MET-2R 
+
+CATCATACTTCTTACGTACAGGCA 
+
+EIF5-F 
+
+GGCCGATAAATTTTTGGAAATG 
+
+112 bp 
+
+EIF5B 
+
+EIF5-R 
+
+GGAGTATCCCCAAAGGCATCT 
+
+2PR4-F 
+
+CGGGTTTGGGTTCAGGTCTT 
+
+97 bp 
+
+RPS27A 
+
+2PR4-R 
+
+TGCTACAATGAAAACATTCAGAAGTCT 
+
+R4Q5-F 
+
+CTCAGAAAAATGGTGGGAATGTT 
+
+122 bp 
+
+DCK 
+
+R4Q5-R 
+
+GCCATTCAGAGAGGCAAGCT 
+
+22C3-F 
+
+AGGTCTGGTGGCTTCTCCAAT 
+
+78 bp 
+
+PMM1 
+
+22C3-R 
+
+CCCCTAAGAGGTCTGTTGTGTTG 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Location  
+(GRCh37/hq19) 
+ 
+
+Intron 1 
+(chr7:55177325-55177346) 
+(chr7:55177415-55177437) 
+
+Intron 2 
+(chr 7:116365077-116365097) 
+(chr 7:116365144-116365168) 
+
+Intron 1 
+(chr2:99974140-99974161) 
+(chr2:99974231-99974251) 
+
+Intron 4 
+(chr2:55462316-55462335) 
+(chr2:55462386-55462412) 
+
+Exon 3 
+(chr4:71888097-71888119) 
+(chr4:71888199-71888218) 
+
+Intron 7 
+(chr22:41973739-41973759) 
+(chr22:41973682-41973704) 
+
+ 
+(a)  F:  Forward primer 
+  R:  Reverse primer 
+ 
+
+ 
+ 
+Table 5.  TaqMan® Fluorescent Probe Sequences 
+ 
+
+Probe Name 
+
+Sequence 
+
+5’ Label 
+
+3’ Quencher 
+
+EGFR-2P  
+
+MET-2P  
+
+EIF5-P 
+
+2PR4-P 
+
+R4Q5-P 
+
+22C3-P 
+
+TGCTCTTAAAGGGATATCCTCTCCTGGT 
+
+CCTAGAGTGTGGGTTGGCCTTCCTA 
+
+TTCAGCCTTCTCTTCTCATGCAGTTGTCAG 
+
+TTTGTCTACCACTTGCAAAGCTGGCCTTT 
+
+CCTTCCAAACATATGCCTGTCTCAGTCGA 
+
+CAAATCACCTGAGGTCAAGGCCAGAACA 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+FAM 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+BHQ-1 
+
+ 
+
+ 
+
+ 
+
+RM 8366 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  Bethune, G.; Bethune, D.; Ridgway, N; Xu, Z.; Epidermal Growth Factor Receptor (EGFR) in Lung Cancer: 
+
+An Overview and Update; J Thorac Dis. Vol. 2, pp. 48-51 (2010).  
+
+[2]  Zhang,Y,;  Du,  Z.;  Zhang,  M.;  Biomarker  Development  in  MET-Targeted  Therapy;  Oncotarget.  Vol. 7, 
+
+,  M.;  Biomarker 
+
+pp. 37370-37389 (2016). 
+
+[3]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+https://www.nist.gov/srm/upload/SP260-136.PDF (accessed Mar 2018). 
+
+[4]  CDC/NIH: Biosafety in  Microbiological and Biomedical Laboratories, 5th ed.; HHS publication No. (CDC) 
+21-1112;  Chosewood, L.C.;  Wilson, D.E.;  Eds.;  US  Government  Printing  Office:  Washington,  D.C.  (2009); 
+available at http://www.cdc.gov/biosafety/publications/bmbl5/BMBL.pdf (accessed Mar 2018). 
+
+[5]  Bièvre, P.D.;  Dybkaer, R.;  Fajgelj, A.;  Hibbert, D.Y.  Metrological  Traceability  of  Measurement  Results  in 
+Chemistry:  Concepts  and  Implementation  (IUPAC  Technical  Report),  Pure  Appl.  Chem.,  Vol. 83,  No. 10, 
+pp.1873-1935 (2011) 
+
+[6]  Gelman, A.; Carlin, J.B.; Stern, H.S.; Rubin, D.B.; Bayesian Data Analysis; Chapman and Hall: London, (1995). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+[7] 
+(ISO GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available 
+at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed Mar 2018); see also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Mar 2018). 
+
+[8]  Kline, M.C.;  Duewer, D.L.;  Travis, J.C.;  Smith, M.V.;  Redman, J.W.;  Vallone, P.M.;  Decker, A.E.; 
+Butler, J.M.; Production and Certification of NIST Standard Reference Material 2372 Human DNA Quantitation 
+Standard; Anal. Bioana.l Chem. Vol. 394, pp. 1183-1192 (2009). 
+
+[9]  Bustin, S.A.;  Benes, V.;  Garson, J.A.;  Hellemans, J.;  Huggett, J.;  Kubista, M.;  Mueller, R.;  Nolan, T.; 
+Pfaff, M.W.; Shipley, G.L.; Vandesompele, J.; Wittwer, C.T.; The MIQE Guidelines: Minimum Information for 
+Publication of Quantitative Real-Time PCR Experiments; Clin. Chem., Vol. 5, pp 611-622 (2009). 
+
+[10]  D'haene, B.; Vandesompele, J.; Hellemans, J.; Accurate and Objective Copy Number Profiling Using Real-Time 
+
+Quantitative PCR. Methods, Vol. 50, pp. 262-270 (2010). 
+
+[11]  Huggett, J.F.;  Foy, C.A.;  Benes, V.;  Emslie, K.;  Garson, J.A.;  Haynes, R.;  Hellemans, J.;  Kubista, M.; 
+Mueller, R.D.;  Nolan, T.;  Pfaffl, M.W.;  Shipley, G.L.;  Vandesompele, J.;  Wittwer, C.T.;  Bustin, S.A.;  The 
+Digital MIQE Guidelines: Minimum Information for Publication of Quantitative Digital PCR Experiments; Clin. 
+Chem., Vol. 59, pp. 892-902 (2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  RM  should  ensure  that  the  Report  of  Investigation  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+Report  of  Investigation
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+RM 8366 
+
+Page 6 of 6 
+
+

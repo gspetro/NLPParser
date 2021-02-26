@@ -1,0 +1,625 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 1515 
+ 
+Apple Leaves 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination  of  major,  minor,  and  trace  elements  in  botanical  materials,  agricultural  food  products,  and  similar 
+materials.  This SRM can be used for quality assurance when assigning values to in-house control materials.  A unit 
+of SRM 1515 consists of 50 grams of dried apple leaves of the Golden Delicious and Rome varieties. 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for elements in SRM 1515, reported on a dry-mass 
+basis, are provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses for 
+value assignment were performed by NIST and collaborating laboratories.  Certified values were calculated using the 
+results from a single definitive method or the weighted means of results from two or more different analytical methods 
+combined  using  the  DerSimonian-Laird  procedure [2-4].    The  associated  uncertainties  are  expressed  at  an 
+approximately 95 % level of confidence [5-6].   
+ 
+Information Mass Fraction Values:  Information mass fraction values for several elements are provided in Table 2 
+as additional information on the composition of the material.  A NIST information value is a value that may be of 
+interest to the SRM user, but insufficient information is available to assess the uncertainty associated with the value, 
+and  therefore  no  uncertainty  is  provided [1].    Values  are  reported  on  a  dry-mass  basis  in  mass  fraction  units [7].  
+Information values cannot be used to establish metrological traceability. 
+ 
+Expiration of Certification:  The certification of SRM 1515 is valid, within the measurement uncertainty specified, 
+until  01 March 2027,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by D.A. Becker 
+of the former NIST Inorganic Analytical Research Division.  Revision of this certificate was coordinated by L.J. Wood 
+of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  I.L. Barnes,  E.S. Beary,  D.A. Becker,  D.S. Braverman, 
+C.A. Clements,  M.S. Epstein,  R.R. Greenberg,  L.B. Jassie,  H.M. Kingston,  J.R. Moody,  T.J. Murphy,  P.J. Paulsen, 
+P.A. Pella, K.W. Pratt, T.A. Rush, G. Sleater, S.F. Stone, G.C. Turk, T.W. Vetter, R.D. Vocke, L.J. Wood, and X. Zhen 
+of the NIST Chemical Sciences Division. 
+ 
+Statistical analysis was provided by W.F. Guthrie and S.B. Schiller of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  29 January 2019 
+Certificate Revision History on Last Page 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+ 
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+W.F. 
+
+ 
+
+SRM 1515 
+
+Page 1 of 7 
+
+ 
+ 
+
+15 
+
+RESEARCH 
+
+nd/or  rolling  the  bottle  before  each  use 
+
+Analyses for value assignment were also performed by D.L. Anderson (Center for Food Safety and Applied Nutrition, 
+U.S. Food and Drug Administration, College Park, MD), A.R. Byrne and B. Smodis (Jozef Stefan Institute, Ljubljana, 
+Yugoslavia), J. Kucera (Nuclear Physics Institute, Rez, Czechoslovakia), and N. Miller-Ihli, (Nutrient Composition 
+Laboratory, U.S. Department of Agriculture, Beltsville, MD). 
+ 
+ 
+NOTICE AND WARNING TO USERS:   
+ 
+SRM 1515 IS INTENDED FOR RESEARCH USE ONLY. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:    The  SRM  should  be  stored  in  the  dark  at  controlled  room  temperature  (20 °C  to  25 °C)  in  its  original 
+unopened bottle until required for use.  The SRM should not be exposed to intense sources of radiation.  The bottle can 
+be resealed and test portions removed and analyzed until the material reaches its expiration date.   
+ 
+Use:  The contents of the bottle should be thoroughly mixed by rotating and/or rolling the bottle before each use.  
+Allow the contents to settle for one minute prior to opening to minimize the loss of fine particles.  To relate analytical 
+determinations to the certified values in this certificate, the test portion mass indicated in the description of the NIST 
+analyses for each group of analytes (see “Source, Preparation, and Analysis” below) should be used.  Test portions 
+should be taken by gently tapping material needed from the SRM bottle.  Results in this certificate are reported on a 
+dry-mass  basis;  sample(s)  need  to  be  dried  using  one  of  the  recommended  techniques  (see  “Determination  of 
+Moisture”) to compare results to certified values found in this certificate.  Results obtained in analyses should include 
+their  own  estimates  of  uncertainty  and  can  be  compared  to  the  certified  values  using  procedures  described  in 
+reference 8.   
+ 
+Determination  of  Moisture:    Moisture  content  of  SRM 1515  was  determined  at  NIST  by  (1) drying  over  fresh 
+anhydrous  magnesium perchlorate in a desiccator at room temperature for 120 h (sample depth should not exceed 
+1 cm) and (2) freeze drying for 24 h at a pressure of 13.3 Pa or lower and a shelf temperature of –5 °C or lower after 
+having frozen the sample (not to exceed 1 cm in depth) at –40 °C or lower for at least 1 h.  At the end of the 24-h 
+period, samples were placed immediately in a desiccator with fresh anhydrous magnesium perchlorate.  Samples were 
+weighed after allowing a minimum of 4 h to establish temperature equilibrium.  It is preferable to analyze volatile 
+elements such as mercury from the bottle without drying, determine the moisture content on a separate sample from 
+the same bottle, and correct the analytical results to a dry-mass basis.   
+ 
+Vacuum drying at room temperature and oven drying at elevated temperatures have resulted in excessive mass losses 
+NOT 
+and therefore are NOT recommended.   
+ 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source and Preparation:  The plant material for this SRM is mid-shoot leaves, collected from equal amounts of 
+Golden Delicious and Rome varieties, picked from orchards at the Horticultural Research Farm at Rock Spring, PA, 
+and  from  orchards  adjacent  to  the  Fruit  Research  Laboratory  at  Biglerville, PA.    The  material  for  this  SRM  was 
+collected and prepared under the direction of C.B Smith, College of Agriculture, The Pennsylvania State University, 
+University Park, PA.  Fungicide and insecticide sprays were controlled to minimize heavy metal contamination.  The 
+leaves were dried and ground in a stainless-steel mill to pass a 1 mm screen.  At NIST, the ground leaves were jet milled 
+and air classified to a particle size of approximately 75 μm (200 mesh).  Prior to bottling, the material was irradiated by 
+60Co to an estimated minimum absorbed dose of 27.8 kGy for microbial control. 
+ 
+elements  in 
+Analytical  Approach  for  Determination  of  Elements:   Value  assignment  of  the  mass  fractions  of  elements  in 
+SRM 1515 was based on measurements provided by NIST and collaborating laboratories, where appropriate.  NIST 
+provided measurements by using cold-vapor atomic absorption spectrometry (CVAAS), direct current plasma optical 
+emission spectrometry (DCP-OES), flame atomic emission spectrometry (FAES); inductively coupled plasma optical 
+emission  spectrometry (ICP-OES),  isotope  dilution  inductively  coupled  plasma  mass  spectrometry (ID ICP-MS), 
+isotope dilution thermal ionization  mass  spectrometry (ID  TIMS),  instrumental  neutron  activation  analysis (INAA), 
+Kjeldahl  nitrogen  determination (KJEL),  laser-enhanced  ionization  spectrometry (LEIS),  polarography (POL),  and 
+radiochemical neutron activation analysis (RNAA).   
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+he  purpose.
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 1515 
+
+Page 2 of 7 
+
+ 
+NIST Analyses for Hg by CVAAS:  The mass fraction of mercury was determined by CVAAS from duplicate, nominal 
+2 g test portions taken from three bottles of SRM 1515.  Samples were placed in digestion flasks with 10 mL HNO3 
+and 5 mL H2SO4 and heated gently for 2 h.  Next, 5 mL of HClO4 were added to each flask, and the solutions were 
+heated to sulfuric acid fumes.  Solutions were transferred to volumetric flasks where K2Cr2O7 was added until each 
+solution turned yellow.  Solutions were diluted to 100 mL.  Quantification was based on a five-point calibration curve. 
+ 
+NIST Analyses for Fe, Na, P, and Rb by DCP-OES or FAES:  Mass fractions of iron and phosphorus were determined 
+by DCP-OES.  Mass fractions of rubidium and sodium  were determined by FAES.  For each technique, duplicate, 
+nominal  1 g  test  portions  were  taken  from  three  bottles  of  SRM 1515.    Samples  were  mixed  with  1 g  lithium 
+metaborate in a platinum crucible, placed in a muffle furnace, allowed to reach a temperature of 1000 °C, and held for 
+1 h.  When cool, the crucibles were placed in a beaker and shaken overnight in 5 % HNO3.  Solutions were diluted to 
+100 mL.  Quantification was based on the method of standard additions using the SRM 3100 series single element 
+standard solutions. 
+ 
+NIST Analyses for Al and P by ICP-OES:  Mass fractions of aluminum and phosphorus were determined by ICP-OES 
+from duplicate, nominal 1 g test portions taken from three bottles of SRM 1515.  Samples for P analyses were placed 
+in Teflon beakers and wet ashed with a HNO3/HF/HClO4 acid mixture.  Samples for Al analyses were mixed with 1 g 
+lithium metaborate in a platinum crucible, placed in a muffle furnace, allowed to reach a temperature of 1000 °C, and 
+held for 1 h.  When cool, the crucibles were placed in a beaker and shaken overnight in 5 % HNO3.  Solutions were 
+diluted to 100 mL.  Quantification for Al and P was based on the method of standard additions using the SRM 3100 
+series single element standard solutions.  
+ 
+NIST Analyses for B, Ba, Cd, Mo, Ni, and Sr by ID ICP-MS:  Mass fractions of boron, barium, molybdenum, nickel, 
+and strontium were determined by ID ICP-MS from duplicate, nominal 1.0 g test portions taken from each of three 
+bottles  of  SRM 1515.    Single  2.0 g  test  portions  were  taken  from  each  of  six  bottles  for  cadmium  measurements.  
+Samples  were  spiked  with  isotopically  enriched  135Ba,  111Cd,  97Mo,  62Ni,  and  86Sr  and  then  wet  ashed  with  a 
+HNO3/HF/HClO4 acid mixture in Teflon beakers.  For boron, samples were spiked with isotopically enriched 10B and 
+then were dissolved in quartz flasks with reflux condensers using a HNO3/H2O2 mixture.  The digests were placed on 
+either a cation or an anion exchange column to selectively remove the elements of interest.  The isotopic ratios were 
+measured by ICP-MS using standard operating conditions.  Quantification for the above analyses was based on the 
+method of spiked calibrations using precisely weighed high purity metals of known origin. 
+ 
+NIST Analyses for Ca, Pb, Mg, and K by ID TIMS:  Mass fractions of calcium, lead, magnesium, and potassium were 
+determined by ID TIMS from duplicate, nominal 1.0 g test portions taken from each of three bottles of SRM 1515.  
+Samples were spiked with isotopically enriched 42Ca, 206Pb, 41K and 26Mg and then wet ashed with a HNO3/HF/HClO4 
+acid mixture in Teflon beakers.  The digests were placed on either an anion or cation exchange column to selectively 
+remove the elements of interest.  Thermal ionization was performed using a triple filament procedure and internal 
+normalization  of  measured  ratios.    Quantification  for  the  above  analyses  was  based  on  the  method  of  spiked 
+calibrations using precisely weighed high purity metals of known origin. 
+ 
+NIST Analyses for N by KJEL:  The mass fraction of nitrogen was determined by KJEL from single, nominal 2 g test 
+portions taken from six bottles of SRM 1515.  Sample preparation was based on the AOAC method 2.057, Improved 
+Method for Nitrate-Free Samples, 14th edition. 
+ 
+NIST  Analyses  for  Mn  and  Ni  by  LEIS:    Mass  fractions  of  manganese  and  nickel  were  determined  by  LEIS  from 
+duplicate, nominal 0.5 g test portions taken  from each of three bottles of SRM 1515.  Samples  were digested in a 
+microwave  sample preparation system  with  subsequent  hot plate digestion using a  HNO3/HF/HClO4 acid  mixture.  
+Single wavelength excitation was performed at 279.83 nm for manganese and 300.25 nm for nickel.  Quantification 
+was based on the method of standard additions using SRM 3132 Manganese (Mn) Standard Solution and high purity 
+metals of known origin.  
+ 
+uminum,  barium,
+NIST Analyses for Al, Ba, Ca, Cl, Fe, K, Mg, Mn, Na, Rb, V, and Zn by INAA:  Mass fractions of aluminum, barium, 
+calcium, chlorine, iron, potassium, magnesium, manganese, rubidium, sodium, vanadium, and zinc in SRM 1515 were 
+determined by INAA from single, nominal 0.1 g test portions taken from each of 15 bottles of SRM 1515.  Samples, 
+controls, and standards were pressed into cylindrical pellets, packaged individually in clean polyethylene bags, and 
+irradiated for 60 s.  For determination of aluminum and vanadium, radioactive decay was counted for 6 min after a 
+decay of 2 min.  For determination of calcium and magnesium, radioactive decay was counted for 12 min after a decay 
+of  9 min.    For  determination  of  chlorine,  radioactive  decay  was  counted  for  30 min  after  a  decay  of  22 min.    For 
+determination of barium,  manganese, sodium, and potassium, radioactive decay  was counted for 5 h to 8 h after a 
+decay of 60 min.  For determination of iron, rubidium, and zinc, radioactive decay was counted for at least 3 d after a 
+
+calcium,  lead, 
+
+Ca, 
+
+SRM 1515 
+
+Page 3 of 7 
+
+decay of 60 d to 120 d.  Quantification was based on pure elements or compounds on compressed filter papers and 
+foil fluence monitors. 
+  
+NIST Analyses for Cd, Cu, and Mo by RNAA:  Mass fractions of cadmium, copper, and molybdenum were determined 
+by RNAA from duplicate, nominal 0.15 g test portions taken from each of three bottles of SRM 1515.  Samples were 
+placed  in  quartz  vessels  and  irradiated  for  2 h  at 19 MW.  After  several  days,  samples  were  transferred  to Teflon 
+vessels using a HNO3/HF/ HClO4 acid mixture.  Samples were heated, the acid reduced, and samples were brought up 
+to volume in 1 mol/L HNO3. Samples were passed through a column and fractions separated.  Fractions were counted 
+after  a  24 h  decay  for  Cd  and  Cu  and  after  a  48 h  decay  for  Mo.    Quantification  was  based  on  irradiated  and 
+un-irradiated standard solution carriers added to sample materials. 
+ 
+NIST  Analyses  for  Cu  and  Zn  by  POL:    Mass  fractions  of  copper  and  zinc  in  SRM 1515  were  determined  by 
+polarography from duplicate, nominal 0.7 g test portions taken from each of three bottles of SRM 1515.  Samples 
+were weighed into PFA pressure vessels with 5 g HNO3, 2 g HF, and 10 g HClO4 and heated for 12 h.  Additional HF 
+and HClO4 were added, and the vessels were heated for 30 h.  Determinations were performed by differential pulse 
+polarography using a PAR 384B electrode stand.  Copper was determined in 0.5 mol/L HNO3 using the method of 
+standard additions.  Zinc was determined in 0.25 mol/L CH3COOH + 0.25 mol/L NH4CHOO buffer, pH 4.7, using a 
+3-point calibration curve. 
+ 
+Homogeneity Assessment:  Samples from randomly selected bottles of SRM 1515 were tested for homogeneity by 
+INAA.  No evidence of statistically significant inhomogeneity was observed. 
+ 
+Value  Assignment:    Calculations  of  assigned  values  are  based  on  results  from  a  single  definitive  method  or  on 
+weighted means of multiple assessments of the mass fraction of each element made using different chemical methods 
+or  in  different  laboratories.    Weighted  means  were  calculated  using  the  DerSimonian-Laird  procedure [2],  which 
+weights the results from each method in proportion to the inverse of the square of its uncertainty.  The weights include 
+uncertainty contributions from both between- and within-method dispersion of values.  
+ 
+ 
+ 
+
+ 
+
+SRM 1515 
+
+Page 4 of 7 
+
+Certified Mass Fraction Values for Elements:  Each certified mass fraction value is the combined mean from the 
+means  of  NIST  data  and  the  results  provided  by  collaborating  laboratories,  where  appropriate.    The  uncertainty 
+provided with each value is an expanded uncertainty about the mean to cover the measurand with approximately 95 % 
+confidence.  The expanded uncertainty is calculated as U = kuc, where uc incorporates the observed difference between 
+the results from the methods and their respective uncertainties and an uncertainty component for moisture correction, 
+consistent with the JCGM Guide and with its Supplement 1, k is a coverage factor corresponding to approximately 
+95 % confidence used to control the level of confidence, and uc is intended to represent, at the level of one standard 
+deviation, the combined effect of all between- and within-method components of uncertainty [5,6].  The measurand 
+is the total mass fraction for each element, on a dry-mass basis, listed in Table 1.  Metrological traceability is to the 
+SI derived unit for mass fraction (expressed as milligrams per kilogram). 
+ 
+
+ction  Value
+Table 1.  Certified Mass Fraction Values for Elements in SRM 1515 
+
+Mass Fraction 
+(mg/kg) 
+
+Coverage Factor, k 
+
+ 
+
+Aluminum (Al)(a,b)  
+Boron (B)(c,d)  
+Barium (Ba)(b,c) 
+Cadmium (Cd)(c,e) 
+Calcium (Ca)(b,f) 
+Chlorine (Cl)(b,d) 
+Copper (Cu)(e,g) 
+Iron (Fe)(b,h) 
+Lead (Pb)(f) 
+Magnesium (Mg)(b,f) 
+Manganese (Mn)(b,i) 
+Mercury (Hg)(j,k) 
+Molybdenum (Mo)(c,e,l) 
+Nickel (Ni)(c,i) 
+Nitrogen (Total) (N)(d,m) 
+Phosphorus (P)(a,h) 
+Potassium (K)(b,f) 
+Rubidium (Rb)(b,n) 
+Sodium (Na)(b,n) 
+Strontium (Sr)(c,o) 
+Vanadium (V)(b,l) 
+Zinc (Zn)(b,g) 
+
+5.69 
+
+82.7 
+
+54.1 
+
+284.5 
+27.6 
+48.8 
+
+ 
+ 
+ 
+ 
+  15250 
+ 
+582 
+ 
+ 
+ 
+  2710 
+ 
+ 
+ 
+ 
+  22990 
+  1593 
+  16080 
+ 
+ 
+ 
+ 
+ 
+
+± 
+± 
+± 
+0.0132  ± 
+± 
+± 
+± 
+± 
+0.470  ± 
+± 
+± 
+0.0432  ± 
+0.095  ± 
+0.936  ± 
+± 
+± 
+± 
+± 
+± 
+± 
+0.254  ± 
+± 
+
+10.2 
+24.4 
+25.1 
+
+12.45 
+
+5.8 
+2.8  
+2.3 
+0.0015 
+
+100 
+15  
+
+0.13  
+2.6 
+0.024 
+
+120 
+
+1.1  
+0.0023 
+0.011 
+0.094 
+
+900 
+68 
+210 
+
+1.6 
+2.1 
+1.1 
+0.027 
+0.43 
+
+2.00 
+2.02  
+1.95 
+2.04 
+2.03 
+2.01 
+1.95 
+1.99 
+3.35 
+2.03 
+2.02 
+2.05 
+2.02 
+2.03 
+2.07 
+2.04 
+1.99 
+1.98 
+2.03 
+2.48 
+2.01 
+1.97 
+
+ 
+(a) NIST ICP-OES 
+(b) NIST INAA 
+(c) NIST ID ICP-MS 
+(d) Collaborating laboratories.  Reported methods included PGAA.  
+(e) NIST RNAA 
+(f) NIST ID TIMS 
+(g) NIST POL 
+(h) NIST DCP-OES 
+(i) NIST LEIS 
+(j) NIST CVAAS 
+(k) Collaborating laboratories.  Reported methods included RNAA and CVAAS.  
+(l) Collaborating laboratories.  Reported methods included RNAA. 
+(m) NIST KJEL 
+(n) NIST FAES 
+(o) Collaborating laboratories.  Reported methods included INAA. 
+ 
+ 
+ 
+
+ 
+
+SRM 1515 
+
+Page 5 of 7 
+
+Information Mass Fraction Values for Elements:  Each information mass fraction value is the mean result from 
+analyses provided by NIST.   No uncertainty is provided because there is insufficient information available  for its 
+assessment.  Information values cannot be used to establish metrological traceability. 
+ 
+
+Table 2.  Information Mass Fraction Values for Elements in SRM 1515 
+
+ 
+
+Nitrogen (N)(a) 
+Sulfur (S) 
+Antimony (Sb) 
+Bromine (Br) 
+Cerium (Ce) 
+Chromium (Cr) 
+Cobalt (Co) 
+Europium (Eu) 
+Gadolinium (Gd) 
+Gold (Au) 
+Iodine (I) 
+Lanthanum (La) 
+Neodymium (Nd) 
+Samarium (Sm) 
+Scandium (Sc) 
+Terbium (Tb) 
+Thorium (Th) 
+Tungsten (W) 
+Uranium (U) 
+Ytterbium (Yb) 
+
+Mass Fraction 
+(mg/kg) 
+
+23100 
+1800 
+
+0.013 
+1.8 
+3 
+0.3 
+0.09 
+0.2 
+3 
+0.001 
+0.3 
+20 
+17 
+3 
+0.03 
+0.4 
+0.03 
+0.007 
+0.006 
+0.3 
+
+(a) NIST KJEL.  Although total nitrogen is certified, nitrogen determined by the Kjeldahl procedure is not. 
+e  is  not.
+ 
+
+ 
+
+SRM 1515 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  https://www.nist.gov/srm/upload/SP260-136.PDF 
+(accessed Jan 2019). 
+
+[2]  DerSimonian, R;  Laird, N.;  Meta-Analysis  in  Clinical  Trials;  Controlled  Clin.  Trials,  Vol.  7,  pp.  177–188 
+
+in.  Trials,  Vol.  7,  pp.  177 
+
+(1986). 
+
+[6] 
+
+ [5] 
+
+[3]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp 323–331 (2009). 
+Possolo,  A.;  RandomEffects-Functions-2011-08-25a.R,  working  file  of  R  source  code  for  fitting  Gaussian 
+[4] 
+random effects models (2011). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2019);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297, U.S. Government Printing Office:  Washington, DC (1994); available at 
+https://www.nist.gov/pml/pubs/index.cfm (accessed Jan 2019). 
+JCGM 101:2008;  Evaluation  of  Measurement  Data – Supplement 1  to  the  “Guide  to  the  Expression  of 
+Uncertainty  in  Measurement”  -  Propagation of  Distributions  using  a  Monte  Carlo  Method;  JCGM (2008); 
+available 
+(accessed 
+Jan 2019). 
+Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+Publication  811;  U.S.  Government  Printing  Office:  Washington, DC 
+at 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Jan 2019). 
+Sharpless, K.E.; Lippa, K.A.; Duewer, D.L.; Rukhin, A.L.; The ABCs of Using Standard Reference Materials 
+in the Analysis of Foods and Dietary Supplements: A Practical Guide; NIST Special Publication 260-181; U.S. 
+Government  Printing  Office:  Washington,  DC  (2014);  available  at  https://www.nist.gov/srm/upload/SP260-
+181.pdf (accessed Jan 2019). 
+
+https://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+
+available 
+
+(2008); 
+
+[7] 
+
+[8] 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  29 January 2019 (Corrected Ytterbium symbol; editorial changes); 21 April 2017 (Certified values brought into 
+compliance with the NIST uncertainty policy; removed values for As and Se; updated instructions for use; editorial changes); 22 January 1993 
+ 
+(Editorial changes); 02 July 1991 (Original certificate date). 
+  
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+1) 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+5; 
+
+fax 
+ix 
+
+ent. 
+
+ 
+
+SRM 1515 
+
+Page 7 of 7 
+
+

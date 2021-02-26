@@ -1,0 +1,137 @@
+﻿National  Inattinte  of  Stantarits  &  Technology 
+
+Gertificate  of  Analysis 
+
+Standard  Reference  Material  2293 
+
+Methyl-t-butyl  Ether  in  Reference  Gasoline 
+(Normunal  2.7  Weight  Percent  Oxygen) 
+
+This  Standard  Reference  Material  SRM)  is  intended  primarily  for  use  as  a  primary  standard  for  the  calibration  of 
+instruments  used  for  the  detertunation  of  the  on7gzen  content  of  motor  fuels.  It  consists  of  a  solution  of  methyl 
+t-butyl  ether  (Chemical  Abstracts  Service  (C45)  Registry  Number  1634-044)  in  a  reference  gasoline.  Certified 
+concentrations  are  provided  for  methyyl-t-butyl  ether  and  oxygen.  A  unit  of  SRM  2293  consists  of  two  20  mL 
+ampoules  of  the  methyl-t-butyl  ether  in  reference  gasoline  solution,  each  conteimng  approximately  18  mL,  and 
+one  20  mL  ampoule  contaming  approximately  18  mL  of  the  reference  gasoline,  intended  foruse  as  a  measurement 
+blank. 
+
+Certified  Concentrations:  The  certified  concentrations  and  estimated  uncertainties  for  methyl-t-butyl  ether  and 
+oxygen  are  grven  below.  These  concentrations  are  based  on  results  obtained  from  the  gravimetric  preparation  of 
+the  solution  of  methylt-butyl  ether  in  gasoline 
+results  determined  using  gas 
+chromatography,  corrected  for  impurities. 
+
+and  from  the 
+
+analytical 
+
+Component 
+
+Methrgl-t-butyl  Ether 
+Oxygen 
+
+Vt 
+(2/100  g  Solution) 
+
+14246  +  0.20 
+2.71  40.04 
+
+Uncertainty:  The  uncertainty  of  each  vabie  in  this  document  is  the  mumerical  value  of  an  expanded  uncertainty  U= 
+ku,  with  U  determined  from  a  combined  standard  uncertainty  uw,  and  a  covemge  factor, 
+The  expanded 
+uticerteinty  defines  arenge  of values  for  the  certified  value  within  which  the  true  value  is  believed  to  lie,  at  a  level 
+of  confidence  of  95%% 
+
+[1]. 
+
+2. 
+
+k= 
+
+GGNR  IORI)  BAG  PPL  RY 
+
+Handing  and  Sorage:  Provide  locel  exhaust  or  general  dilution  ventilation  to  meet  published  exposure  limits. 
+Those  handling  gasoline  should  weer  appropriate  clothing  and  gloves  to  prevent  skin  contact  with  this  material  and 
+splash-proof  or  dust  resistant  safety  goggles  to  prevent  eye  contact.  Store  in  a  cool  dry,  and  well-vertiated  area 
+awey  from  incompatible  materials  and  prevent  contact  with  heat  sparks  or  open  flame. 
+Protect  ampoules  from 
+physical  damage.  Please  read  the MSDS  for  this  material  hefore  use. 
+
+  
+
+Anebytical  determinations  were  performed  by  5.H.  Chesler  and  T.L.  Green  of  the  NIST  Analytical  Chemistry 
+Division.  The  coortination  of  the  technical  measurements  leading  to  certification  was  under  the  direction  of  5.N. 
+Chesler  and  FR.  Guenther  of  the  NIST  Analytical  Chenustry  Division.  Data  analysis  was  provided  by  D.  Duewer 
+of  the  NIST  Analytical  Chemistry  Division  and  reviewed  by  EK.  Eberhart  of  the  NIST  Statistical  Engineering 
+Division. 
+
+The  technical  and  support  aspects  involred  in  the  preparation,  certification,  and  issuance  of  this  SRM  were 
+coordinated  through  the  Standard  Reference  Materials  Program by  TE.  Gills  and  JS.  Kane. 
+
+Gaithershurg,  MD  20899 
+February  2,  1995 
+
+Thomas  E.  Gills,  Chief 
+ntandard  Reference  Materials  Program 
+
+(over)
+
+  
+
+Expiration  of  Ceriification.  The  certified  values  are  valid,  within  the  limits  specified,  for  3  years  from  the  date  of 
+shipment  from  NIST.  In  the  event  that  the  certification  should  become  irrvalid  before  then,  purchasers  will  be 
+notified  ty  NIST.  Please  retum  the  attached  registration  card  to  facilitate  notification. 
+
+Use:  Sample  aliquots  for  analysis  should be  withdrawn  at  20  to  25°C  immediately  after  opening  the  ampoules  and 
+should be  processed  without  delay  for  the  certified  values  to  be  valid  within  the  stated  uncertainty.  Because  of  the 
+volatility  of  some  of  the  components  in  the  reference  gasoline,  certified  values  are  not  applicable  to  material 
+stored  in  ampoules  that  have  been  opened  for  more  than  5  min,  even  if  they  are  resealed. 
+
+This  SRM  was  prepared  by  G.  Lew  of  Scott  Specialty  Gases  Inc.  at 
+Preporation  and  Gravimetric  Anaipsis: 
+scott's  facilities  in  Houston,  TA. 
+All  chemucels  used  in  the  preparation  of  this  material  were  obtained  from 
+commercial  sources.  The  reference  gasoline  was  obtained  from  Phillips  Petroleum,  Bartlerville,  CK  and  was 
+identified  as  RF-A.  HPLC  Grade  mettorl-t-butal  ether  was  obtained  from  Aldrich  Chemical  Co.,  Milwaukee,  WT. 
+
+This  SRM  was  prepared by  additive  weighing  of  the  RFA  pasoline  and  methyltbutyl  ether.  After  preparation  and 
+homogenization,  the  solution was  aliquoted  mto  20  mL  glass  ampoules  which  were  subsequently  flame  sealed.  The 
+gravimetrically  determined  concentemtion  of  methyl-t-butyl  ether  in  the  SRM  solution  was  (14.904  0.02)  a/100  g 
+solution. 
+
+The  concentration  of  the  methyl-t-butyl  ether 
+
+Gas  Chromatographic  Anebsis: 
+in  the  SRM  solution  wes 
+determined by  capillary  column  ges  chromatography  using  flame  ionization  detection  (GC-FID).  Analysis  was 
+based  upon  the  ratio  of  the  elution  peak  area  of  methyl-t-butyl  ether  and  thet  of  «  gasoline  component. 
+The 
+gasoline  component  selected had  a  largesrell-resolved  peak  with  a  similar  retention  tame  to  methyltbutyl  ether. 
+Methyl-t-butyl  ether  solution  concentration  was  calculated  from  a  calibration  curve  constructed  from  peak  area 
+ratios  for  unmodified  RF-A  gasoline  blank  and  NIST  gravimetrically  prepared  standards. 
+This  concentration  of 
+methyl-t-butyl  ether  in  the  SRM  sohition  was  (14.84+0.12  2/100  ¢  solution. 
+
+The  otgeric  purity  of  the  methyl-t-outyl  ether  was  also  determinedusing  GC-FID.  Based  on  12  replicate  analyses, 
+it  was  determined  to  be  G9  96  +  0.04)%5 
+
+The  water  concentration  of  the  SRM  solution  was  determined  by  capillary  column  gas  chromeatogrphy  using 
+atomic  emission  detection  (GC-AED)  in  oxyrgen-specific  mode.  Based  on  4  replicate  analyses,  it  was  determined 
+to  be  (0.02  +  0.01)  g/100  g  SRM  solution.  The  concentration  of  oxygen  from  trace  organic  impurities  was  also 
+determined  using GC-AED.  No  significant  oygen-comtaning  impurities  other  then  water  were  found  inthis  SRM. 
+
+The  methyl-t-butyl  ether  content  inthe  SRM  solution wes  calculated  from  the  consensus  concentration  of  methyl 
+t-butyl  ether  in  the  SRM  solution,  with  corrections  for  both  weter  and  organic  purity.  The  molecular  oxrgen 
+content  in  the  SRM  wes  calculated  from  the  sum  of  the  corrected  methyl-t-butyl  ether  concentrtion  end  water 
+concentration. 
+
+REFERENCE 
+
+"Guide  to  the  Expression  of  Uncertainty  in  Measurement’,  ISBN  92-67-10188-9  Ist  Ed.  IS0,  Geneva 
+
+[1] 
+switzerland, 
+
+(1993).
+
+

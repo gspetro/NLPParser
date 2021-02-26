@@ -1,0 +1,268 @@
+﻿National  Institute  of  Standards  &  Cechnology 
+Certificate  of  Analysis 
+
+Standard  Reference  Material®  2830 
+
+Knoop  Hardness  of  Ceramics 
+
+Block  Serial  Number: 
+
+This  Standard  Reference  Material  (SRM)  is  intended  for  calibrating  hardness  testers. 
+It  is  certified  for  the  average 
+diagonal  length  and  the  average  hardness  value.  The  SRM  consists  of  a  hot-isostatically  pressed  silicon  nitride  block  with 
+five  NIST  indents,  made  at  a  load  of  19.6  N  (2  kgf)  in  the  center  of  the  polished  face. 
+Each  SRM  is  individually 
+calibrated  and  bears  a  serial  number  scribed  on  the  opposite,  unpolished  face  of  the  block. 
+
+The  SRM  is  hot-isostatically  pressed  silicon  nitride,  Norton  Advanced  Ceramics  Grade  NBD-200,  fabricated  in  the  form 
+of  a  22  mm  (7/8")  diameter  bearing  ball  which  has  been  ground  and  polished  to  provide  a  very  flat,  parallel,  high  quality 
+surface  for  Knoop  indents,  with  a  final  thickness  of  9.54  mm  +  0.01  mm.  The  hardness  is  uniform  across  the  polished 
+surface. 
+The  certified  average  diagonal  Jength  and  the  average  hardness  for  this  block  are  shown  in  Table  1. 
+
+Five  indents  were  made  in  the  center  of  each  block  by  a  dedicated  hardness  testing  machine. 
+
+Table  1:  Certified  Diagonal  Length  and  Hardness 
+
+  
+
+Average  Diagonal 
+Length,  d 
+
+Average  Diagonal  Length 
+Uncertainty” 
+
+Average  HK2 
+Hardness” 
+
+    
+  
+    
+
+0.12  GPa  (0.86  %) 
+
+(0.42  %) 
+
+0.6m 
+
+um 
+
+  
+
+  
+
+Average  HK2 
+Uncertainty 
+
+* 
+** 
+
+The  uncertainty  of  the  average  diagonal  length  for  five  indentations, 
+The  first  number  is  the  average  hardness  in  units  of  GPa,  The  second  number,  in  brackets,  is  the  average  hardness  expressed  as  a  dimensionless  number. 
+The  average  hardness  should  be  calculated  by  averaging  the  five  individual  hardness  results,  and  should  nor  be  caiculated  from  the  average  diagonal  size, 
+
+HK2  designates  hardness  at  an  applied  load  of  19.6  N  (2  kgf).  The  uncertainties  are  at  the  95  %  confidence  level.  The 
+numbers  in  parenthesis  are  two  times  the  coefficient  of  variation  expressed  as  a  percentage. 
+
+Period  of  Certification:  There  is  no  need  for  periodic  recertification  assuming  proper  storage,  handling,  care,  and  use 
+of  this  SRM. 
+However,  repolishing  the  surface,  or  other  mechanical  damage  to  the  surface  will  invalidate  the 
+certification. 
+
+This  SRM  was  prepared  and  certified  by  R.J.  Gettings,  G.D.  Quinn,  A.W.  Ruff,  and  L.K.  Ives  of  the  NIST  Ceramics 
+Division.  The  assistance  of  J.  Fu  of  the  NIST  Precision  Engineering  Division  with  the  SEM  calibration  procedures  is 
+gratefully  acknowledged. 
+
+Statistical  Analysis  of  the  data  was  performed  by  N.F.  Zhang  of  the  NIST  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  SRM  were  coordinated 
+through  the  Standard  Reference  Materials  Program  by  N.M.  Trahey  and  R.J.  Gettings. 
+
+Gaithersburg,  MD  20899 
+February  13,  1996 
+
+Thomas  E,  Gills,  Chief 
+Standard  Reference  Materials  Program 
+
+  
+
+Page  |  of  4
+
+Storage  and  Handling:  The  ceramic  block  is  very  durable  and  not  susceptible  to  corrosion,  but  the  surface  polish  should 
+be  protected  from  abuse.  Oils,  fingerprints,  or  skin  oils  should  be  removed  before  indentation.  The  SRM  unit  may  be 
+cleaned  with  ethyl  alcohol  and  soft  tissues. 
+If  necessary,  mild  rubbing  with  a  rubber  eraser  on  the  end  of  a  pencil  can 
+be  used  to  dislodge  a  tenacious  contaminant.  The  blocks  should  never  be  repolished,  as  the  size  or  raised  edges  of  the 
+NIST  indentations  would  be  altered. 
+
+Certification  Procedures:  The  indents  are  located  in  the  center  of  the  block  and  are  evenly  spaced  with  the  exception 
+of  the  first  indent  as  illustrated  in  Figure  1.  The  indents  were  made  in  accordance  with  ASTM  E  384-89,  Test  Method 
+for  Microhardness  of  Materials  [1],  and  the  ASTM  C  1326-96  Standard  Test  Method  for  Knoop  Indentation  Hardness 
+of  Advanced  Ceramics  [2]. 
+In  particular,  the  requirements  of  E  384  for  separate  verification  of  microhardness  machines 
+and  calibration  of  standardized  hardness  test  blocks,  sections  14.1  and  17  were  followed  with  the  exception  that  only  one 
+group  of  five  indentations  has  been  made.  Measurements  of  selected  blocks  have  established  that  hardness  is  uniform 
+across  the  block  face. 
+
+| 
+
+These  indents  were  examined  and  each  photographed  at  a  nominal  magnification  of  600  x  in  a  scanning  electron 
+microscope  (SEM).  Selected  indentation  tips  were  also  photographed  at  1500  x  or  3000  x. 
+Indent  sizes  were  then 
+measured  from  the  SEM  micrographs.  Precise  magnifications  were  established  for  every  block  by  using  an  SRM  484d 
+Scanning  Electron  Microscope  Magnification  Standard.  The  polished  surface  and  the  indentations  of  each  certified  block 
+were  also  inspected  by  an  optical  microscope  at  magnifications  of  100  x  and  400  x.  Additional  details  on  the  preparation 
+of  this  SRM  can  be  found  in  References  3,  4,  and  5. 
+
+The  Knoop  hardness  of  each  indentation  is  computed: 
+
+where  P  is  the  indent  load  in  N  (or  kgf),  d  is  the  diagonal  size  in  mm,  and  a 
+is  the  indenter  constant,  which  for  an  ideal 
+Knoop  indenter  with  angles  of  172°  30'  and  130°  00',  is  14.229,  The  «  for  the  NIST  indenter  used  for  this  SRM  was 
+14.240.  The  hardness  was  calculated  using  a  load  of  19.627  N  (2.0025  kgf)  which  was  the  average  load  value  during 
+the  SRM  production.  The  gravitational  constant  was  9.801  m/sec?  on  the  grounds  of  NIST. 
+
+Discussion  of  Uncertainties:  The  uncertainty  estimates  were  made  in  accordance  with  the  NIST  and  ISO  Guides  16,7]. 
+Uncertainties  were  either  evaluated  through  statistical  means,  Type  A,  or  by  other  means,  Type  B.  Overall  uncertainties 
+were  estimated  by  summing  the  variances  of  individual  sources  of  uncertainty,  with  the  exception  of  the  uncertainty  in 
+HK  wherein  the  variance  in  diagonal  length  was  weighted  by  a  factor  of  four  in  accordance  with  the  law  of  propagation 
+of  error.  Uncertainties  listed  in  Table  1  and  discussed  below  are  at  the  95  %  confidence  level  (20)  in  each  instance.  The 
+values  in  parenthesis  are  the  uncertainties  as  a  percentage  and  are  two  times  the  coefficient  of  variation.  Uncertainties 
+for  the  average  values  of  d  and  HK  were  estimated  by  dividing  the  uncertainty  for  an  individual  measurement  by  the 
+Square  root  of  five,  which  is  the  number  of  indentations  measured. 
+
+The  uncertainty  in  the  length  of  an  individual  indent  made  by  NIST  was  estimated  by a  series  of  repeatability  experiments 
+on  a  prototype  lot  of  specimens  to  be  1.5  um  (1.08  %).  The  total  uncertainty  is  the  square  root  of  the  sum  of  squares  of 
+the  systematic  uncertainty  (0.40  %)  associated  with  the  certified  SRM  484d  length  standard  and  the  random  uncertainties 
+associated  with  photographing,  interpreting,  and  measuring  (1.00  %)  the  indent  length. 
+
+The  variation  in  indentation  sizes  within  an  SRM  block  was  calculated  from  the  pooled  results  for  all  specimens  made 
+in  the  SRM  production  run  and  was  estimated  to  be  1.34  um  (0.94  %).  This  variation  is  comparable  to  the  uncertainty 
+of  the  measurement  method.  A  two  way  analysis  of  variance  of  all  SRM  production  run  results  indicated  that  there 
+probably  is  a  block-to-block  variation  in  diagonal  lengths  and  hardness,  but  that  within  a  block,  the  indentation  size  as 
+an  effect  was  not  statistically  significant. 
+In  other  words,  within  a  single  block  there  was  no  statistically  significant 
+variation  in  indent  size. 
+
+The  uncertainty  in  the  average  diagonal  length  for  the  five  indentations  was  estimated  from  the  total  population  of  indents 
+in  the  SRM  set,  and  is  0.94  %/5  =  0.42  %,  where  the  sample  size  is  five. 
+
+The  uncertainty  in  the  average  HK  is  for  a  sample  size  of  five  indentations  and  includes  the  components  of  uncertainty 
+in  the  load,  P,  (0.25  %)  which  includes  a  repeatability  uncertainty 
+(+  0.06  %)  and  a  drift  uncertainty  (+  0.24  %);  the 
+indenter  constant,  a,  (+  0.31  %);  and  the  diagonal  length,  d,  (+  0.94  %). 
+
+Page  2  of  4
+
+Instructions  for  Use:  This  SRM  is  intended  to  be  used  with  all  hardness  and  microhardness  testing  machines  whereby 
+a  Knoop  indent  can  be  made  and  then  measured  with  an  optical  microscope. 
+
+The  user  must  observe  and  measure  the  lengths  of  the  five  NIST  indentations  in  order  to  verify  that  the  test  machine  optics 
+and  the  length  measuring  apparatus  are  optimized. 
+The  NIST  indentations  are  located  in  the  center  of  the  polished 
+surface.  The  indent  long  diagonal  should  be  measured  to  within  0.0005  mm  with  an  optical  microscope.  The  apparent 
+indent  size  will  be  affected  by  the  magnification  used  since  the  objective  lens  numerical  aperture  (NA)  sets  the  resolution 
+limits.  A  total  magnification  of  400  x  or  higher  is  recommended  and  is  in  accordance  with  the  Standard  Test  Method  for 
+Knoop  Indentation  Hardness  of  Advanced  Ceramics,  which  requires  objective  lenses  with  NA's  from  0.65  to  0.90. 
+Magnifications  of  400  x  or  500  x  are  commonly  available  with  most  hardness  machines,  many  of  which  have  40  x  or 
+50  x  objectives  and  10  x  eyepieces.  Magnifications  less  than  400  x  are  not  recommended  since  the  indentation  lengths 
+will  be  underestimated  by  1  pm  to  2  pm  or  more.  Magnifications  should  be  checked  by  the  use  of  a  calibrated  stage 
+micrometer. 
+
+The  Knoop  indent  is  long  and  the  tips  slender,  which  can  make  precise  determination  of  the  tip  location  difficult.  It  is 
+critical  that  the  instructions  of  the  hardness  machine  manufacturer  and  the  appropriate  standard  test  methods  be  followed 
+scrupulously.  Proper  illumination  and  focus  of  the  tips  is  critical to  obtain  good  clarity  and  contrast.  Proper  use  of  filar 
+crosshairs  is  essential. 
+
+The  microstructure  of  the  SRM  is  uniform  and  contains  tiny  inclusions  which  appear  white  in  a  reflected-light  microscope. 
+These  are  very  helpful  to  aid  focussing  and  to  serve  as  reference  points  near  the  indent  tips  as  illustrated  in  Figure  2. 
+The  grain  size  of  the  material  is  of  the  order  of  1  um.  Occasionally  a  grain  or  grains  near  the  tip  will  dislodge  and  cause 
+the  indent  edge  to  be  slightly  irregular  as  shown  in  Figure  2.  This  is  unavoidable,  but  is  much  less  a  problem  with  this 
+SRM  than  for  many  ceramics.  In  a  few  instances,  a  tiny  crack  may  extend  from  the  tip  of  the  indent  as  shown  in  Figure 
+2,  which  may  create  some  uncertainty  as  to  where  the  tip  ends.  Should  the  detected  feature  wander  or  meander  off  the 
+axis  of  the  indent,  it  is  safe  to  assume  that  it  is 
+a  crack,  and  the  feature  should  not  be  read  as  the  indent  tip.  The  certified 
+indentation  diagonal  lengths  do  not  include  the  length  of  the  crack,  if  such  exist. 
+
+Producing  New  Indentations:  The  user  can  also  make  new  indentations  in  the  block  but  special  care  should  be  taken 
+to  ensure  that  the  loading  rates  and  load  duration  are  as  prescribed  by  the  appropriate  standard. 
+There  shall  be  no 
+vibrations  or  impact  imparted  to  the  machine  during  the  indentation  cycle.  The  surface  must  be  clean  and  should  not 
+contain  skin  oils  which  could  alter  the  friction  between  the  indenter  and  the  block  surface.  Indentations  may  be  placed 
+in  any  region  of  the  polished  surface  provided  that  they  are  not  within  1  mm  of  the  rim,  since  slight  edge  rounding 
+from  the  polishing  can  distort  the  indentation  shape  and  affect  the  size.  The  indents  should  not  be  made  too  close  to  each 
+other,  should  lateral  cracks  (which  may  form  in  some  ceramics)  cause  interference.  The  indentation  centers  should  be 
+no  closer  than  1.5  x  the  diagonal  length. 
+
+Note:  Ina  few  rare  instances,  a  block  may  contain  a  cluster  of  small  inclusions  or  a  faint  black  spot. 
+If  observed,  it  is 
+recommended  that  indentation  not  be  placed  in  such  areas,  although  they  may  be  harmless.  A  few  blocks  may  have  tiny 
+scratches,  which  should  also  be  avoided. 
+
+REFERENCES 
+
+El] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6] 
+
+{7] 
+
+ASTM  E  384-89  Standard  Test  Method  for  Microhardness  of  Materials,  ASTM  Annual  Book  of  Standards,  Vol.  3.01, 
+(1989). 
+ASTM  C  1326-96  Standard  Test  Method  for  Knoop  Indentation  Hardness  of  Advanced  Ceramics,  ASTM  Annual  Book 
+of  Standards,  Vol.  15.01,  (1996). 
+Gettings,  R.J.,  Quinn,  G.D.,  Ruff,  A.W.,  and  Ives,  L.K.,  “New  Hardness  Standard  Reference  Materials  (SRMs)  for 
+Advanced  Ceramics,"  Ceram.  Eng.  and  Sci.  Proc.,  Vol.  15,  #5,  pp.  717-826,  (1994). 
+Gettings,  R.J.,  Quinn,  G.D.,  Ruff,  A.W.,  and  Ives,  L.K..,  “Development  of  Ceramic  Hardness  Reference  Materials,”  pp. 
+617-624  in  New  Horizons  for  Materials,  Ed.  P.  Vincenzini,  Proceedings  of  the  8th  World  Ceramic  Congress,  CIMTEC, 
+Florence,  Italy,  July,  1994,  Techna,  Florence,  (1995), 
+Gettings,  R.J.,  Quinn,  G.D.,  Ruff,  A.W.,  and  Ives,  L.K.,  “Hardness  Standard  Reference  Materials  (SRMs)  for  Advanced 
+Ceramics,"  Proceedings  of  the  9th  International  Symposium  on  Hardness  Testing  in  Theory  and  Practice,"  Dusseldorf, 
+Germany,  23-24  November,  1995,  VDI,  Dusseldorf,  VDI,  Berichte  1194,  pp.  255-264,  (1995). 
+Taylor,  B.N.  and  Kuyatt,  C.,  “Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results," 
+NIST  Tech.  Note  1297,  U.S.  Government  Printing  Office,  Washington,  D.C.,  (1994). 
+Guide  to  the  Expression  of  Uncertainty  in  Measurement,  ISBN  92-67-10188-9,  Ist  Ed.  ISO,  Geneva,  Switzerland,  (1993). 
+
+Page  3  of  4
+
+Figure  i 
+
+Five  Knoop  indentations  are  located  in  the  middle  of  the  block. 
+
+Figure  2 
+
+Details  of  the  indentation  tips. 
+
+Hairline  crack  at  tip 
+
+  
+
+\ 
+
++ 
+
+cd 
+
+\  ‘ 
+
+Inclusions  in  the  microstructure 
+
+h 
+
+Dislodged  grain  on  indent  edge 
+
+  
+
+  
+
+Page  4  of 4
+
+

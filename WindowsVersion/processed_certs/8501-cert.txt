@@ -1,0 +1,410 @@
+﻿National  Institute  of  Standards  &  Technology 
+
+  
+
+for  lead,  ton,  manganese,  and  tn,  respectively 
+
+Reference  Material  8501 
+Report  of  Investigation 
+A  Catalyst  Package  for  Lubricant  Oxidation  (ASTM  Sequence  IIE  Engine  Test) 
+This  Reference  Material  (RM)  is  released  prior  to  the  corresponding  Standard  Reference  Material  to  provide  an  e 
+access  to  the  Catalyst  Package  for  IIIE  Oxidation.  RM  8501  contains: 
+(1)  an  oxidizedinitrated  fuel  fraction,  (2) 
+& 
+sitro-paraffin  model  compound,  (3)  a  metal  naphthenates  mixture,  and  (4)  distilled  water.  The  metal  naphthenate  mixture 
+has  the  following  weight  rato  of  elements:  20:2:1:1 
+RM  8501  is  used  to  simulate  the  chemical  environment  in  an  operating  automotive  engine,  specifically  under  the  ASTM 
+sequence  IIIE  engine  test  conditions.  Seven  IIE  oils  have  been  tested  using RM  8501,  Both  the  modified  thin-film  oxyge 
+uptake  test  (MTFOUT)  and  the  differential  scanning  calorimetry  (DSC)  test  were  used  to  determine  the  oxidation  induction 
+times  of  these  oils  {1} 
+The  correlation  between  the  values  for  oxidation  induction  times  by  MTFOUT  and  DSC  is  shown  in  Figure  1 
+‘Notice  and Warning to  Users: 
+Expiration  of  Report: 
+date  of  purchase  and  shipment  from  NIST. 
+Storage: 
+Use:  Each  ampoule  should be  shaken  thoroughly  before  opening.  Samples  should  be  taken  immediately  after  opening  an 
+ampoule  and  used  without  delay  in  order  to  maintain  the  integrity of  the  RM  sample,  Research  report  values  are  not  valid 
+for  ampoules  that  have  been  opened  and  resealed, 
+‘The  technical  planning,  coordination,  and  testing  leading  to  the  research  report  were  performed  by 
+S.M.  Hsu,  Ceramic  Division, 
+The  technical  and  support  aspects  involved  inthe  preparation,  data  analysis,  and  issuance  ofthis  Reference  Material  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by 
+July  22,  1991 
+Gaithersburg,  MD  20899 
+
+The  Report  of  Investigation  for  RM  8501  is  valid,  within  the  limits  certified,  for  one  year  from  the 
+
+Sealed  ampoules,  as  received,  should  be  stored  in  the  dark  ata  temperature  between  10-25°C. 
+
+William P.  Reed,  Chief 
+Standard  Reference  Materials  Program 
+
+Materials  Science  and  Engineering  Laboratory. 
+
+C.S.  Ku,  P-T.  Pei,  and 
+
+Gills, 
+
+T-E. 
+
+(over)
+
+  
+
+Preparation 
+
+The  neutralized  product was  used  as  the  fuel  fraction  together  with  niteo-paraffin, 
+
+uel  Fraction 
+The  fuel  fraction  was  produced  by  the  oxidation/aiteation  of  a  high  boiling  VE:  gasoline  fraction  (ASTM  VE  engine  test 
+ful)  [1]. 
+The  total  acid  number  of  the 
+fuel  fraction  of  RM  8501  was  determined  to  be 6.5  =  0.5  mg  KOHigm, 
+Nitro-paraffin 
+Model  Comp 
+‘The  nitro-paraffin  model  compound  is  purchased  commercially.  The  stated  purity  of  the  nitro-paralfin  is 
+pataffin 
+
+99.1%  of  L-nitro 
+
+stal  Naphthen: 
+
+  
+
+is  10.9%  by  weight. 
+
+The  mixture 
+
+is  provided  for  user  convenience  andis  the  mixture  used  at  NIST to 
+
+‘The  metal  naphthenate  mixture  in  RM  8501  is  made  from  commercially  available  metal  naphthenates,  The  total  metal 
+generate 
+‘concentration 
+  
+correlation  shown  in  Figure  1.  The  metal  naphthenates  mixture  in  this  RM  8501  is  from a  single  bath  and  each  naphthenate 
+has  been  characterized  and  filtered  through  an  0.2  1m  filter, 
+Catalysis Us 
+Each  ampoule  was  sealed  in  argon. 
+hnumiity  as  these  materials  contain  very  reactive  compounds,  Once  opened,  the  shelf  lie  is  very  limited, 
+TThe  test  conditions  for  the  correlation  shown  in  Figure  1  ate 
+MTFOUT  Test  Conditions: 
+
+Caution  should  be  exercised  not  o  expose  the  catalyst  materials  to  air,  sunlight,  and 
+
+  
+
+1.5  gm  Oil 
+2vwt. 
+%  Fuel  Catalyst 
+%  Nitro-paraffin 
+2  wt. 
+3  wt.  %  Metal  Catalyst 
+%  Water 
+2wt. 
+620  kPa  (90  psig)  Oxygen 
+160°C 
+
+DSC  Test  Conditions: 
+
+%  Fuel  Catalyst 
+2vol. 
+2  ol.  %  Nitro-paraffin 
+4  vol, 
+%  Metal  Catalyst 
+1450  kPa  (210  psig)  Oxygen  at  120  ml/minute  flow  rate 
+170°C 
+NIST  designed  and  sealed  aluminum  pan  (2) 
+mg  sample  size  for  each DSC 
+(0.6-0.7 
+Care  must  be  taken  fo  ensure  that  adequate  mixing  has  occurred  and  test  the  sample(s)  immediately  after  mixing 
+‘may  result  in  variation  of  results, 
+
+   
+
+test 
+
+  
+
+delay 
+
+  
+
+References 
+
+Pei,  PT, and Hsu,S.M.,"A  Modified  Thin-Film  Oxygea  Uptake  Test  (TFOUT)  for  the  Evaluation  of Lubricant 
+
+SAE  Paper  No,  902121,  1990, 
+
+(1)  Ku,  CS,, 
+Stability 
+2],  Zhang, Y.,  Pei, 
+Labricants  by  Differential  Scanning  Calorimetry,” 
+
+in  ASTM  Sequence  IITE  Test”. 
+P“T., 
+
+Perez,  J.M.  and  Hsu, 
+
+SM.,"A  New  Method  to  Evaluate  Deposit  Forming  Tendency  of  Liquid 
+STLE  National  Meeting,  April,  1991,  Montreal,  Canada, 
+Presented 
+
+at the 
+
+  
+
+ 
+
+a
+ 
+
+w
+n
+ 
+
+o
+O
+ 
+
+£
+v
+U
+ 
+ 
+
+S
+s
+ 
+
+3
+ 
+
+c
+ 
+
+e
+ 
+
+£
+ 
+
+g
+s
+ 
+
+S
+ 
+
+2
+ 
+
+S
+s
+ 
+
+.
+ 
+
+0
+ 
+
+0
+ 
+
+o
+y
+ 
+
+2
+0
+ 
+
+o
+T
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+|
+ 
+
+3
+0
+ 
+
+F
+i
+g
+.
+ 
+
+1
+.
+ 
+
+I
+N
+T
+E
+R
+C
+O
+R
+R
+E
+L
+A
+T
+I
+O
+N
+ 
+
+B
+E
+T
+W
+E
+E
+N
+ 
+
+M
+T
+F
+O
+U
+T
+ 
+
+A
+N
+D
+ 
+
+D
+S
+C
+
+M
+o
+d
+i
+f
+i
+e
+d
+ 
+
+T
+F
+O
+U
+T
+ 
+
+I
+n
+d
+u
+c
+t
+i
+o
+n
+ 
+
+T
+i
+m
+e
+,
+ 
+
+M
+i
+n
+u
+t
+e
+s
+.
+ 
+
+n
+e
+ 
+
+5
+0
+ 
+
+1
+0
+0
+ 
+
+1
+5
+0
+ 
+
+c
+.
+c
+.
+=
+0
+.
+9
+8
+ 
+
+7
+ 
+
+H
+E
+ 
+
+O
+i
+l
+s
+ 
+
+°
+ 
+
+r
+)
+ 
+
+|
+ 
+
+|
+ 
+
+ 
+
+

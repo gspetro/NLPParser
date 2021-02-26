@@ -1,0 +1,99 @@
+﻿U.S.  De 
+
+National 
+Ernest 
+
+      
+Se  National  Bureau  of  Standards 
+
+Bu 
+
+Standard  Reference  Material 
+
+2083 
+
+Certificate 
+
+Socketed  Ball  Bar 
+
+Set  No. 
+
+This  Standard  Reference  Material  (SRM) is  designed  for  application  in  measuring  the  performance  of  coordinate 
+measuring  machines  (CMM’s)  in  accordance  with  the  proposed  ASME  Standard  B89.1.12. 
+
+SRM  2083 is  a  socketed  ball  bar  set  comprised  of  a  set  of  three  precision  balls,  pinned  and  cemented  onto  threaded  shafts, 
+one  table-mount  magnetic  socket,  one  ram-mount  magnetic  socket,  and  five  partially-insulated  extension.  tubes  of 
+lengths  50,  100,  200,  400,  and  800  millimeters,  The  assembly  of  two  balls  and  any  of  the  thirty-three  possible  combinations 
+of  extension  tubes  provide  ball  bar  measuring  lengths  from  100  to  1650  millimeters,  in  50  millimeter  increments.  The 
+nominal  coefficient  of  thermal  expansion  of  the  steel  extension  tubes  is  11.5  x  10  °C  (+10  percent). 
+
+a  CMM  using  SRM  2083  depends  on  many  factors  (see  Reference  1).  Among  these 
+The  performance  evaluation  of 
+factors  are  the  roundness  of  the  balls  and  truth  of  rotation  of  the  balls  in  their  magnetic  sockets.  The  balls  furnished  with 
+this  SRM  have  been  measured  for  roundness  after  each  ball  was  pinned  and  cemented  to  its  shaft  and  thermally  cycled 
+for  ten  days.  The  deviation  from  roundness  for  each  ball  is  less  than  0.25  micrometers  (10  microinches)  around  three 
+diameters. 
+
+Three  roundness  traces  for  each  ball  accompany  this  Certificate,  Trace  number  |  is  an  equatorial  trace,  with  the  “south 
+pole”  of  the  ball  defined  by  the  shaft  and  the  ball  front  defined  by  the  ball  number  stamped  in  the  shaft.  Trace  number  2is 
+as  nearly  circumpolar  as  practical,  making  its  nearest  approach  to  the  “south  pole”  in  the  front  of  the  ball.  Trace 
+is  similar  to  trace  number  2,  but  it  makes  its  nearest  approach  to  the  “south  pole”  in  the  back  of  the  ball.  These 
+number 3 
+traces,  though  not  required  by  ASME  Standard  B89.1.12,  provide  a  reference  for  precise  verification  of  continued  bali 
+roundness  and,  in  situations  where  the  magnetic  sockets  are  not  utilized,  provide  the  user  with  assurance  that  the  true  ball 
+center  may  be  readily  obtainable  from  a  minimal  number  of  measurements. 
+
+Besides  the  measurements  for  bal]  roundness,  each  ball  is  subjected  to  a  functional  test  in  the  magnetic  sockets.  The 
+combination  of  ball  and  socket  is  certified  to  provide  effective  ball  rotation  about  a  point  with  measured  deviations  less 
+than  0.25  micrometers  (10  microinches)  measured  by  contacting  the  ball  with  an  indicator,  as  it  is  rotated  through its  full 
+range  of  possible  orientations. 
+
+The  detailed  method  for  use  of  the  socketed  ball  bar in  testing  the  performance  of  CMM’s is  provided in  Section  5.  Sof 
+ASME  Standard  B89.1.12.  Additional  information  on  socketed  ball  bars  has  been  published  separately  by  Bryan  2  and 
+
+-  Kunzmann. 
+
+The  design  of  NBS  SRM  2083  was  developed  by  R.J.  Hocken,  T.  Charlton,  and  W.C.  Haight,  of  the  NBS  Automated 
+Production  Technology  Division,  and  S.  Gerner,  S.  Wiser,  and  M.  Osti,  of  the  NBS  Fabrication  Technology  Division. 
+
+The  ball  roundness  was  measured  by  S.  Gerner  and  J.  Zimmerman  of  the  Automated  Production  Technology  Division, 
+using  a  roundness  measuring  instrument. 
+
+Final  functional  testing  and  quality  assurance  was  performed  by  J.  Zimmerman. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  W.  Seward. 
+
+Gaithersburg,  MD  20899 
+August  8,  1985 
+(Revision  of  Certificate 
+dated  12-19-83) 
+
+  
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(Over) 
+
+       
+
+Recertification  of  this  SRM  is  not  required  by  ASME  Standard  B89.1.12.  NBS  recommends  that  the  truth  of  rotation  of 
+the  balls  in  the  sockets  be  tested  before  each  use  and  that  the  SRM  be  recertified  if  the  deviation  measured  exceeds  one 
+half  of  the  working  tolerance  of  the  machine  under  test. 
+
+References 
+1.  Proposed  Standard  for  Performance  Evaluation  of  Coordinate  Measuring  Machines,  B89.1.12M,  The  American 
+
+Society  of  Mechanical  Engineers,  New  York,  N.Y. 
+
+2.  Bryan,  J.B.,  Precision  Engineering,  Vol.  4,  No.  2  (April  1982),  Butterworth  Scientific  Ltd.,  Guildford,  Surrey,  U.K. 
+3,  Kunzmann,  H.,  Waldele,  F.,  CIRP  Annals,  1983,  Hallwag  Ltd.,  Berne,  Switzerland. 
+
+  
+
+ 
+
+  
+
+

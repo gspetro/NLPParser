@@ -1,0 +1,299 @@
+﻿National Institute of Standards & Technology 
+
+Certificate of Analysis 
+Standard Reference Material® 2207 
+
+ 
+
+ 
+Controlled Pore Glass - BET Specific Surface Area 
+ 
+(Nominal Pore Diameter 18 nm) 
+
+ 
+This Standard Reference Material (SRM) is intended for the calibration and performance testing of instruments used 
+for the determination of the Brunauer-Emmett-Teller (BET) specific surface area (SSA) by the static volumetric gas 
+sorption  technique.    A  unit  of  SRM 2207  consists  of  one  bottle  containing  approximately  5.1 g  of  high-purity 
+granulated  controlled-pore  glass  with  a  nominal  pore  diameter  of  18 nm.    This  SRM  is  certified  for  BET  SSA 
+determined by nitrogen gas sorption at liquid nitrogen temperature (77.3 K) using commercial instrumentation.  
+ 
+Certified  Values:    Certified  values  for  the  single-point (SP)  and  multiple-point (MP)  BET  analysis  of  specific 
+surface area are listed in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [1].  Certified 
+values are based on measurements performed at NIST and validated by qualified collaborating laboratories [2].  
+ 
+
+Table 1.  Certified Values for BET Specific Surface Area(a) 
+
+Measurement Technique 
+
+Specific Surface Area Value  
+
+ 
+
+MP 
+
+SP 
+
+(m2/g) 
+
+177.8    1.3 
+
+174.2    1.3 
+
+ 
+(a) The assigned value is a weighted mean of the results from measurements of ten bottles of the material using a Gaussian, linear 
+mixed  effects  model [2].    The  uncertainty  listed  with  the  value  is  an  expanded  uncertainty  with  coverage  factor  k = 2, 
+corresponding to a 95 % confidence interval, calculated by Monte–Carlo simulation of uncertainty components using methods 
+from the ISO Guide or its Supplement [3,4].  It includes between-bottles as well as within-bottle heterogeneity components, 
+plus an additional type B evaluated component. 
+
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2207  is  valid  indefinitely,  within  the  measurement 
+uncertainty  specified,  provided  the  SRM  is  handled  in  accordance  with  instructions  given  in  this  certificate  (see 
+“Instructions for Handling, Storage, and Use”).  Accordingly, periodic  recertification  of  this  SRM  is  not  required.  
+However, the certification is nullified if the SRM is damaged, contaminated, or otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor the certified value of this SRM; if substantive technical 
+changes  occur  that  affect  the  certification,  NIST  will  notify  the  purchaser.    Registration  (see  attached  sheet)  will 
+facilitate notification.  
+ 
+Coordination of  the  technical  measurements  for  certification was  accomplished  under the  direction V.A. Hackley.  
+Certification  measurements  were  performed  at  NIST  by  V.A. Hackley  and  J.F. Kelly.    Material  selection, 
+procurement,  and  production  aspects  were  carried  out  by  W. Haller,  V.A. Hackley,  and  J.F. Kelly  of  the  NIST 
+Ceramics Division.  
+ 
+Statistical consultation for this SRM was provided by B. Toman of the NIST Statistical Engineering Division.   
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  27 April 2012 
+
+Robert. L Watters, Jr., Chief 
+Measurement Services Division 
+
+Debra L. Kaiser, Chief 
+Ceramics Division 
+
+SRM 2207 
+
+Page 1 of 3 
+
+ 
+
+ 
+
+Validation  measurements  were  provided  by  P. Klobes  from  Bundesanstalt  für  Materialforschung  und  -prüfung 
+(Berlin, Germany);  R. Ahmad  of  Quantachrome  Corporation  (Boynton  Beach, FL, USA)  and  J. Kenvin  of 
+Micromeritics Instrument Corporation (Norcross, GA, USA). 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+Heterogeneity  Assessment:    Ten  units  were  selected  using  a  stratified  random  sampling  procedure  and  used  for 
+certification and heterogeneity testing at NIST based on BET SSA measurements.  Analysis of these ten units was 
+randomized, and two samples were tested from each of the ten units. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  SRM 2207 is granular with a grain size principally larger than 130 µm, resulting in good flowability to 
+enable  ease  of  sampling  and  transfer  operations.    The  material  is  composed  principally  of  silica  (mass  fraction 
+>99 %). 
+ 
+Storage:  SRM 2207 should be stored in the original bottle with screw cap tightly sealed.  Bottles can be stored at 
+normal laboratory ambient temperature and humidity.  In order to avoid possible contamination, material removed 
+for  testing  should  not  be  returned  to  the  original  bottle  but  can  be  reused  indefinitely  if  stored  separately  under 
+similar conditions in a clean sealed bottle or measurement tube; non-compliance with the certified values indicates 
+that a reused sample should be replaced with a new sample taken from the original bottle. 
+ 
+Sampling Procedure:  Before removing a sample for testing, the bottle containing SRM 2207 (with screw cap in 
+place) should be gently and alternately rotated and inverted several times to ensure mixing.  Using a clean stainless 
+steel  spatula  or  similar  device,  remove  sufficient  material  for  analysis,  and  transfer  to  an  appropriate-size 
+pre-weighed glass sample tube; the mass to be analyzed should be between 0.4 g and 0.6 g.  A funnel can be utilized 
+to deliver powder more efficiently to the bottom of the sample tube.  Gentle tapping is applied to the funnel and/or 
+sample tube in order to ensure that the powder is delivered to the bulb area at the bottom.  If powder persists on the 
+inner surface of the tube stem (above the bulb), a pipe cleaner can be used to remove this material.  
+ 
+Gravimetric  Procedure:    Sample  mass  for  gas  sorption  analysis  should  be  measured  using  a  properly  calibrated 
+analytical balance that reads to  0.1 mg or better.  The mass of the dry empty tube plus fill rod (if used) and sealing 
+device (e.g., stopper or seal frit) should then be recorded (mass = M1).  The fill rod and sealing device should then 
+be removed and the balance tared with the empty tube to facilitate sample transfer.  After transferring an appropriate 
+mass of sample (see above), the mass of the tube + sample + fill rod + sealer should be recorded (mass = M2).  After 
+weighing  operations  are  complete,  the  instrument  manufacturer’s  instructions  or  accepted  practice  should  be 
+followed to seal and install the sample tube for outgassing (see below).  Once outgassing is complete and the sample 
+is cooled to room temperature, measure and record the mass of tube + outgassed sample + fill rod (if used) + sealing 
+device (mass = M3).  Subtract M1 from M3 to obtain the mass of the outgassed sample to  0.1 mg; use this value 
+for calculation of BET SSA.  Subtract mass M3 from  mass M2 to obtain the mass loss resulting from outgassing 
+(moisture  removal);  the  mass  loss  is  typically  of  order  4 %,  but  can  exceed  this  value  depending  on  ambient 
+humidity and storage conditions. 
+ 
+Outgassing Procedure:  The sample should be outgassed under vacuum.  Heat the sample to 110 °C at a rate not to 
+exceed  10 °C per minute.    If  automated  evacuation  control  is  available,  the  sample  tube  should  be  evacuated  at  a 
+maximum  rate  of  0.667 kPa/s  (5 Torr  per  second);  if  the  rate  exceeds  this  value  then  the  heating  ramp  should  be 
+suspended  until  the  pressure  drops  into  the  safe  range.    This  procedure  prevents  sample  powder  uptake  into  the 
+evacuation system.  Once the pressure drops below 0.667 kPa (5 Torr), unrestricted evacuation should proceed.  In 
+the  absence  of  automated  evacuation  control,  a  slower  temperature  ramp  (e.g.,  1 °C per minute)  is  recommended.  
+Hold sample temperature at first set point (110 °C) for approximately 10 minutes.  Then raise sample temperature to 
+300 °C at a rate not to exceed 10 °C per minute, and hold at the maximum set point temperature for at least 2 hours 
+and  no  more  than  6 hours.    After  completion  of  outgassing,  turn  off  heat,  backfill  with  nitrogen  gas,  and  allow 
+sample to cool to room temperature.  If helium is used for backfill instead of nitrogen, a gravimetric error of order 
+3 % to 5 % can be expected due to the density difference between helium and air; this error can be reduced by using 
+a  fill  rod  or  increasing  the  sample  volume  (i.e.,  reducing  the  dead  space),  but  it  is  preferable  to  backfill  with 
+nitrogen. 
+ 
+Analysis Procedure:  Sample analysis should be initiated as soon as possible following completion of outgassing 
+and weighing operations.  Follow the instrument manufacturer's recommendations or accepted practice to measure 
+BET SSA using nitrogen gas as the adsorptive at liquid nitrogen temperature.  The certified values were determined 
+using  a  discontinuous  manometric  technique  as  described  in  ISO 9277 [5];  use  of  other  measurement  techniques 
+
+SRM 2207 
+
+ 
+
+Page 2 of 3 
+
+may result in values that deviate beyond the certified uncertainty range.  The following parameters should be used 
+for  measurements.    For  multi-point  analysis,  choose  at  least  four  measurement  points  (preferably  more)  evenly 
+distributed  over  the  relative  pressure (p/p0)  range  from 0.05  to 0.3  (where  p  and  p0  are  the  equilibrium  and  the 
+saturation pressure of the adsorptive, respectively).  The intercept for the linear BET plot must be positive and the 
+correlation coefficient (r2) for linear regression must be at least 0.999.  For single-point analysis, use a p/p0 value 
+close  to  but  not  exceeding 0.3.    A  value  of  0.162 nm2  must  be  used  for  the  molecular  cross-sectional  area  of 
+adsorbed  nitrogen  gas.    The  purity  of  helium  gas  used  to  calibrate  measurement  volumes  (e.g.,  free  space 
+determination) should be at least 99.999 %.  The purity of the adsorptive nitrogen gas should be at least 99.99 %.  
+The liquid nitrogen level should be maintained at least 50 mm above the sample and constant to within 1 mm.  The 
+analysis procedure should include a leak test. 
+ 
+For informational purposes, a representative multipoint BET plot is shown in Figure 1. 
+ 
+
+  
+
+)
+
+P
+T
+S
+3
+
+ 
+
+m
+c
+/
+g
+(
+ 
+]
+1
+ 
+-
+ 
+p
+/
+
+0
+p
+[
+
+a
+n
+/
+1
+
+0.010
+
+0.008
+
+0.006
+
+0.004
+
+0.002
+
+0.000
+
+     
+
+isotherm data
+regression
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+0.35
+
+r2 = 0.99941
+
+p/p0
+
+ 
+ 
+REFERENCES 
+
+Figure 1.  Representative nitrogen sorption isotherm for SRM 2207 plotted in the linear form of the BET equation.  
+The specific amount of gas adsorbed (na) is reported at standard temperature and pressure (STP). 
+
+ 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136  (2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed April 2012). 
+
+[2]  Searle, S.R.;  Casella, G.;  McCulloch, C.E.;  Variance  Components;  John  Wiley  &  Sons,  Inc.:  New York 
+
+[3] 
+
+[4] 
+
+[5] 
+
+(1992). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  April 2012);  see  also 
+Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://physics.nist.gov/Pubs/ (accessed April 2012). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in Measurement; Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in 
+Metrology  (2008);  available  at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed April 2012). 
+ISO 9277:2010;  Determination  of  the  Specific  Surface  Area  of  Solids  by  Gas  Adsorption  —  BET  Method; 
+International Organization for Standardization: Geneva, Switzerland (2010). 
+
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+fax  (301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+telephone  (301) 975-2200; 
+
+the  SRM  Program  at: 
+
+ 
+
+SRM 2207 
+
+ 
+
+Page 3 of 3 
+
+

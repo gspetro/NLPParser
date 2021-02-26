@@ -1,0 +1,347 @@
+﻿National Institute of Standards and Technology 
+
+Certificate of Analysis 
+Standard Reference Material® 2520 
+
+Optical Fiber Diameter Standard 
+
+Serial No.   
+
+ 
+ 
+ 
+This Standard Reference Material (SRM) is intended for calibrating video microscopes or gray-scale systems used for 
+fiber geometry measurements.  Each SRM is individually calibrated and bears a serial number.  The SRM consists of a 
+short length of bare fiber in an aluminum housing.  The end of each specimen has been carefully cleaved so that damage 
+is minimal and the end is within approximately one-half wavelength of perpendicularity to the axis of the fiber. Also 
+supplied for convenience is a 1-2 m pigtail that may be used for exciting the core of the fiber. 
+ 
+
+Table 1.  Certified Diameters 
+
+Angle, in ° 
+
+Diameter, in μm 
+
+Uncertainty, in nm (3σ) 
+
+ 0 
+
+ 45 
+
+ 90 
+
+ 135 
+
+ mean 
+
+ 
+
+ 
+
+ 
+
+± 
+
+± 
+
+± 
+
+ 
+
+ 
+
+± 
+
+± 
+
+42 
+
+42 
+
+42 
+
+42 
+
+37 
+
+ 
+Expiration of Certification:  The certification is valid indefinitely provided that the instructions for proper care and 
+handling of the fiber have been adhered to and that the end face shows no sign of contamination, damage, or aging. 
+ 
+Housings were produced by Larsen Engineering, Boulder, CO and are based on a design provided by Photon Kinetics, 
+Beaverton, OR.  Fiber was contributed by Corning Inc., Optoelectronics Group, Corning, NY.  Specimens were 
+assembled by T. Drapela and S.E. Mechels of the NIST Optoelectronics Division. 
+ 
+The technical direction and physical measurements leading to certification were provided by M.Young with assistance 
+from S.E. Mechels, P.D. Hale, T. Drapela, and D.L. Franzen of the NIST Optoelectronics Division. 
+ 
+Assistance with statistical analysis was provided by R.M. Judish of the NIST Electromagnetic Fields Division. 
+ 
+The technical and support aspects involved in the preparation, certification, and issuance of this SRM were coordinated 
+through the Standard Reference Materials Program by N.M. Trahey and R.J. Gettings. 
+ 
+Gaithersburg, MD 20899 
+May 24, 2007 
+(Revision of certificate dated 1-25-93) 
+
+Thomas E. Gills, Chief 
+Standard Reference Materials Program 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 1 of 4 
+
+nd minor axes of the fiber.  Provided that the fiber is 
+
+Description of SRM:  The specimen in the aluminum housing is a single-mode fiber that has been chosen especially to 
+minimize noncircularity and fluctuations of diameter with length. The aluminum housing is marked so that the fiber may 
+be held at several different angular orientations.  Four diameters have been measured with a contact micrometer: these 
+values, in addition to their mean, may be useful for calibrating a gray-scale system. 
+ 
+Determination of Optical Fiber Diameter:   The diameter of the bare, cleaved end of the fiber has been measured 
+approximately l mm from the end with a contact micrometer.  Diameters have been measured at angles of 0°, 45°, 90°, 
+and 135°, where the angles are defined in the instructions be low.  These four diameters and their mean are given in 
+Table l.  The noncircularity of the fiber may be estimated as  the ratio of the largest diameter to the smallest diameter, 
+minus l.  No attempt has been made to locate the major a
+approximately elliptical in cross section, the noncircularity estimated in this way is low by 0 % to 40 %, in addition to the 
+uncertainty of measurement of the individual diameters.  This SRM is not certified for noncircularity. 
+ 
+Discussion of Uncertainties:  Uncertainties were calculated according to the procedures outlined in Ref. [1].  Measured 
+(Type A) uncertainties were assumed to be Gaussian-distributed, whereas estimated or inferred (Type B) uncertainties 
+were assumed to be described by a rectangular probability distribution function.  The uncertainties were combined by 
+adding their variances in quadrature, where the variance of a rectangular distribution is one-third the square of its half-
+width.  Table 2 is a list of all the sources of uncertainty that could be identified.  In (a), the measured standard deviations 
+are listed, whereas in (b), the half-widths of the estimated uncertainties are listed.    
+ 
+Instructions for Use:  Place the fiber housing in the set to be tested, with the magnetic stainless steel cover facing down. 
+The front is the end from which the cleaved fiber end is pushed out; the rear is the end from which the brass barrel and 
+fiber pigtail stick out.  A line is scribed at the rear of the housing.  The brass barrel has lines scribed on it at 45° intervals. 
+ There is a flat machined on the barrel.  The fiber is define d to be in the 0° position when the line scribed on this flat 
+aligns with the line on the rear of the housing.  A 0° diameter measurement is defined to be a horizontal measurement 
+when the fiber is in the 0° position.  The 0° diameter, therefore, is measured in a plane parallel to the flat on the barrel.  
+(These instructions assume that the user’s gray-scale system is horizontal and that the image on the video screen is not 
+inverted.  If these conditions are not satisfied, the user may have to modify the angles accordingly.)   
+ 
+Place the housing in the gray-scale system with the flat on th e barrel horizontal and facing upward, that is, in the 0° 
+position.  Micrometer measurements have been made at 0°, 45°, 90°, and 135°; that is, the fiber was rotated clockwise by 
+those angles, as seen from the rear.  Thus, with respect to the image on the monitor, the 0° diameter is horizontal and 90° 
+diameter is vertical.  The 45° diameter passes through the second and fourth quadrants, whereas the 135° diameter passes 
+through the first and third quadrants.  If a comparison of the NIST measurements of those four diameters with the edge 
+table is desired, the fiber should be placed into the system in the 0° position.  If the mean value of the four NIST diameter 
+measurements is to be compared with the mean diameter, the specimen may be oriented in the system at any angle.  
+ 
+When ready to perform a measurement with the SRM, take the following steps to extend the fiber end from the housing: 
+ 
+Remove the housing and the pigtailed fiber from the recess in the SRM container.  Remove the socket-head screw from 
+the side of the housing.  When in place, this screw keeps the barrel from moving forward, keeping the fiber retracted in 
+the housing.  This screw is just “finger-tight,” simply unscrew it by hand.  The barrel will now be able to move forward 
+against slight resistance from the alignment spring.  To  extend the fiber end, push the barrel forward with a steady 
+forward force.  Be careful not to apply strong side forces while pushing or pulling the barrel, since the barrel could be 
+forced out of its alignment and cause the fiber to hit the end of the housing or touch the side of the hole and break. 
+ 
+Following the instructions of the instrument manufacturer, insert the housing into the test set.  It may be safest to have the 
+fiber retracted when inserting the housing into the test set.  Make sure that nothing is within l cm (0.4 in) of the front of 
+the housing; then extend the fiber carefully.  It will stick out roughly 0.57 cm (0.22 in) when fully extended. 
+ 
+Now rotate the barrel until the fiber is oriented at 0° (or  at the desired angle), as defined above.  While handling the 
+barrel end, be careful not to bump or catch the exposed fiber pigtail.  Secure the pigtail in a safe manner. 
+
+ 
+ 
+
+Page 2 of 4 
+
+ 
+When launching light down the fiber, as with the gray-scale method, cleave the pigtailed end (opposite to the calibrated 
+end).  Cut away and strip as little fiber as possible, in order  to ensure that there will be fiber left for future cleaving. 
+Alternatively, it may be desirable to terminate the end of the pigtail with a connector. 
+ 
+Routine cleaning of the calibrated end of the fiber is not recommended.  Rather, do the work in a clean environment and 
+do not expose the fiber end more than necessary.  If, however, the end becomes contaminated, clean it with an ultrasonic 
+cleaner.  This is the only method that is recommended for cleaning the calibrated end.  Use either spectroscopic grade 
+ethanol or acetone, preferably not reagent grade.  Acetone may clean more stubborn contaminants.  In either case, make 
+sure that the fluid is fresh and clean.  Then extend the fiber from the housing and dip it into the ultrasonic cleaning liquid 
+for no more than a few seconds.  Be careful not to bump the fiber end against the walls or floor of the cleaner.  Do not 
+immerse the housing itself in the fluid. 
+ 
+For calibrating the gray-scale system, simply follow the normal procedure and measure the diameter of the calibrated 
+fiber.  Calculate the mean value given on the certificate minus the measured value.  This is the additive correction.  Add 
+the additive correction algebraically to the measured diameters to get the true diameters of the measured fibers.  This 
+procedure is most accurate for fibers that have nearly the 
+same diameter as the calibrated fiber.  Because of linear 
+distortion or other factors in the gray-scale system, the additive correction may be less accurate if it is applied to fibers 
+whose diameters differ greatly from the diameter of the calibrated fiber. 
+ 
+Storage and Handling:  To store the fiber and housing, retract the fiber into the housing and replace the socket head 
+screw into the side of the housing.  Replace the housing into the recessed shipping container and screw the plastic top 
+down.  Store the entire assembly in a clean environment or put it into an airtight plastic bag.  Do not expose the calibrated 
+end or the housing more than is necessary.  
+
+ 
+ 
+
+Page 3 of 4 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Table 2.  Tabulation of Uncertaintiesa 
+
+Source of Uncertainty 
+
+Criterion 
+
+Uncertainty, 
+in nm 
+
+(a) Measured Uncertainties 
+
+Noise 
+
+Calculated standard deviation 
+
+Correction for deformation [2] 
+
+Standard deviation of calculated slope 
+
+(b) Inferred Uncertainties 
+
+Correction for deformation [2] 
+
+Error of force equivalent to ½ g 
+
+Surface roughness 
+
+Burr on anvil 
+
+± ½  of correction 
+
+Control chart 
+
+Deformation or taper 
+
+Stress analysis & interference microscope 
+
+Cosine 0.2° 
+
+Abbe offset 
+
+Wavelength Fluorescence 
+
+Index of refraction of air 
+under average conditions  
+Variation of 
+Barometric pressure 
+Variation of 
+Ambient temperature 
+Variation of 
+Relative humidity 
+
+Combined uncertainty 
+
+EXPANDED UNCERTAINTY 
+
+1 μrad (0.2") x 2 mm offset 
+
+linewidth 
+
+Uncertainty of calculation 
+
+± 4 kPa 
+
+± 5 K 
+
+± 50 % 
+
+1σ  
+
+3σ  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+3 
+
+10 
+
+8 
+
+10 
+
+10 
+
+0.8 
+
+2 
+
+0.3 
+
+<0.1 
+
+1.25 
+
+0.5 
+
+<0.1 
+
+14 
+
+42 
+
+ 
+a Measured uncertainties are qualified as 1 standard deviation of the mean; inferred uncertainties are the estimated half-
+width of a rectangular distribution. 
+ 
+ REFERENCES 
+ 
+[1]  Guide to the Expression of Uncertainty in Measurement, ISBN 92-67-10188-9, lst Ed. ISO,  Geneva, Switzerland, 
+
+(1993). 
+
+[2]  Young, M., Mechels, S.E., and Hale, P.D., “Optical
+
+ Fiber Geometry:  Accurate Measurement of Cladding 
+
+Diameter,” J. Res. Nat. Inst. Stands. Tech., Vol. 98, No. 2, pp. 203-216, (1993). 
+
+Page 4 of 4 
+
+

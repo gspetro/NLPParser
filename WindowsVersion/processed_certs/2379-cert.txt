@@ -1,0 +1,245 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 2379 
+
+ 
+
+ 
+Drugs of Abuse in Human Hair I 
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  methods  for  determining 
+cocaine (COC), benzoylecgonine (BZE), cocaethylene (CE), amphetamine (AMP), methamphetamine (MAMP), and 
+phencyclidine (PCP) in human hair and similar materials.  This SRM can also be used for quality assurance when 
+assigning values to in-house control materials.  The SRM is a drug-free human hair material to which drugs of abuse 
+have been added.  A unit of SRM 2379 consists of one bottle containing approximately 100 mg of hair segments. 
+ 
+Certified  Mass  Fraction  Values:    The  certified  mass  fraction  values  for  the  target  compounds  in  SRM 2379  are 
+provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in 
+that  all  known  or  suspected  sources  of  bias  have  been  investigated  or  taken  into  account [1].    The  certified 
+concentration  values  for  each  level  are  based  on  the  agreement  of  results  from  gas  chromatography  –  mass 
+spectrometry (GC-MS)  and  liquid  chromatography  –  mass  spectrometry (LC-MS).    Values  are  reported  on  an  as-
+received basis in mass fraction units. 
+ 
+Expiration of Certification:  The certification of SRM 2379 is valid, within the measurement uncertainty specified, 
+until  01  January  2017,  provided  the  SRM  is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Storage and Use”).  However, the certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of the analytical measurements leading to the certification of this SRM were 
+performed by M.J. Welch and K.W. Phinney of the NIST Analytical Chemistry Division. 
+ 
+Certification  measurements  were  performed  by  J.L. Prendergast,  L.T. Sniegoski,  and  S.S-C. Tai  of  the  NIST 
+Analytical Chemistry Division.  Additional measurements were performed by M.M. Schantz of the NIST Analytical 
+Chemistry Division and B.E. Lang of the NIST Biochemical Science Division. 
+ 
+Statistical consultation was provided by N.-f. Zhang of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  24 September 2012 
+Revision History on Last Page 
+
+Robert L. Watters., Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 2379  
+
+Page 1 of 3 
+
+NOTICE AND WARNING TO USERS 
+ 
+Warning:  For laboratory use only. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored under refrigeration at temperatures between 4 C and 8 C. 
+ 
+Use:    A  quantity  of  hair  appropriate  for  a  particular  analysis  should  be  withdrawn  and  weighed  on  an  analytical 
+balance prior to extraction and analysis. 
+ 
+SOURCE, PREPARATION AND ANALYSIS1 
+ 
+Preparation:  SRM 2379 is human hair from a single individual.  The hair was manually cut into short segments 
+and  then  soaked  for  19 days  in  a  0.01 mol/L  solution  of  HCl  in  equal  volumes  of  water:dimethylsulfoxide 
+containing the target analytes.  The hair was removed from the mother liquor, rinsed several times with methanol, 
+and allowed to air dry. 
+ 
+NIST  Analyses  for  the  Target  Drugs  of  Abuse:    For  each  of  the  analytes,  measurements  from  two  independent 
+methods  based  on  GC-MS  and  LC-MS  were  used.    One  GC-MS  method  was  used  for  measurement  of  AMP  and 
+MAMP; another GC-MS method was used for the other four compounds.  For the GC-MS methods [2], hair samples 
+were spiked with deuterated analogs of each of the analytes and then extracted with 0.1 mol/L HCl at 45 ºC for 24 h. 
+The extracts were neutralized and put through commercial solid-phase extraction cartridges designed for urine drug 
+testing following the manufacturer’s directions.  After the eluants were collected and dried, COC, BZE, CE, and 
+PCP  were  dissolved  in  N,O-bis (trimethylsilyl)acetamide  and  analyzed  together.    AMP  and  MAMP  were 
+derivatized with heptafluorobutyric acid anhydride and analyzed together.  The GC-MS was equipped with a 30 m 
+low-polarity GC column, and measurements were performed using electron ionization and selected ion monitoring.  
+For  the  LC-MS  method,  all  six  compounds  were  measured  together  in  a  single  LC-MS  run.    Hair  samples  were 
+spiked  with  deuterated  analogs  of  each  of  the  analytes  and  extracted  with  0.1 mol/L  HCl  at  45 ºC  for  24 h.    The 
+extracts were neutralized and put through solid-phase extraction cartridges that were different from those used for 
+the GC-MS method.  No derivatization was necessary for the LC-MS measurements.  The LC was equipped with a 
+deactivated C18 column, and compounds were eluted using a gradient mobile phase of 0.1 % (volume fraction) acetic 
+acid  in  water  and  methanol.    The  electrospray  ionization  conditions  were  optimized  for  each  analyte.    For  both 
+GC-MS and LC-MS methods, three sets of samples were measured for all of the analytes.  Each set consisted of two 
+samples each from three bottles of SRM 2379.  Calibration standards were run before and after the samples, and a 
+standard curve was generated by a least-squares fit of all of the standards measurements for a particular set. 
+ 
+Homogeneity Assessment:  For the sample sizes used for the certification measurements (20 mg to 25 mg), there 
+was  no  evidence  of  within-bottle  inhomogeneity.    There  also  was  no  correlation  between  fill  order  and 
+concentrations measured for any of the analytes. 
+ 
+Stability Measurements:  Analyses of the target analytes were performed using the GC-MS and LC-MS approaches 
+previously described.  The certified concentration values for amphetamine and cocaine were updated based upon the 
+stability measurements. 
+
+                                                            
+
+1Certain commercial materials and equipment are identified to specify adequately the experimental procedure.  Such identification 
+does not imply recommendation or endorsement by the National Institute of Standards and Technology, nor does it imply that the materials or 
+equipment identified are the best available for the purpose. 
+
+SRM 2379  
+
+Page 2 of 3 
+
+Certified Mass Fraction Values:  The uncertainty provided with each value is an expanded uncertainty about the 
+mean  to  cover  the  measurand  with  approximately  95 %  confidence,  consistent  with  the  ISO  Guide  and  its 
+Supplement 1 [3–7].  The expanded uncertainty is calculated as U = kuc, where uc is the combined uncertainty and k 
+is a coverage factor corresponding to approximately 95 % confidence for each analyte [3].  For the certified values 
+shown below, k = 2. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for Analytes in SRM 2379 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Analyte 
+ 
+
+Mass Fraction  
+(ng/mg) 
+
+5.49 
+4.01 
+2.67 
+6.84 
+5.20 
+6.24 
+
+  0.28 
+  0.31 
+  0.24 
+  0.54 
+  0.27 
+  0.42 
+
+ 
+
+Amphetamine 
+Benzoylecgonine 
+Cocaethylene 
+Cocaine 
+Methamphetamine 
+Phencyclidine 
+
+ 
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G..;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S.  Government 
+Printing Office, Washington, DC (2000); available at 
+http://www.cstl.nist.gov/nist839/NIST_special_publications.htm (accessed Sep 2012). 
+
+[3] 
+
+[2]  Welch, M.J.;  Sniegoski, L.T.;  Allgood, C.C.;  Habram, M.;  Hair  Analysis  for  Drugs  of  Abuse:  Evaluation  of 
+Analytical  Methods,  Environmental  Issues,  and  Development  of  Reference  Materials;  J.  Anal.  Toxicol., 
+Vol. 17, pp. 389–398 (1993). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement  (ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008); 
+available at http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf 
+(accessed Sep 2012);  see  also  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the 
+Uncertainty  of  NIST  Measurement  Results;  NIST  Technical  Note  1297;  U.S.  Government  Printing  Office: 
+Washington, DC (1994); available at http://physics.nist.gov/Pubs/ (accessed Sep 2012). 
+JCGM 101:2008;  Evaluation  of  measurement  data  –  Supplement  1  to  the  Guide  to  the  Expression  of 
+Uncertainty in Measurement – Propagation of Distributions Using a Monte Carlo Method; Joint Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Sep 2012). 
+
+[4] 
+
+[5]  Rukhin, A.L.; Weighted Means Statistics in Interlaboratory Studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+Schiller, S.B.; Eberhardt, K.E.; Combining Data from Independent Chemical Analysis Methods; Spectrochim. 
+[6] 
+Acta, 46B, No. 12, pp.  1607–1613 (1991). 
+Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H-k.; Vangel, M.G.; Yen, J.H.; 
+Ahang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[7] 
+
+ 
+ 
+ 
+ 
+Certificate Revision History:  24 September 2012 (Revised certified mass fraction values for cocaine and amphetamine, editorial changes, and 
+an extension of the certification period); 08 November 2002 (Original certificate issue date).  
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+fax (301) 948-3730; 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+ 
+
+SRM 2379  
+
+Page 3 of 3 
+
+

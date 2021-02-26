@@ -1,0 +1,398 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1935a 
+
+ 
+
+ 
+Potassium Dichromate Solution 
+for Use as an Ultraviolet Absorbance Standard 
+ 
+
+ 
+
+This Standard Reference Material (SRM) is intended for use as a reference standard for verifying the accuracy 
+of the absorbance scale of absorption spectrometers that can provide an effective bandpass of 2 nm or less at 235 nm, 
+257 nm, 313 nm, and 350 nm.  Such verification is accomplished by comparing the measured apparent absorbances, 
+A(meas), to the certified apparent absorbances, A(cert), as described under the “Instructions for Use” section of this 
+certificate.  The term “apparent absorbances” is used because no corrections have been applied to the absorbance 
+data for the effects of internal multiple reflections within the cuvette.  These corrections do not exceed 0.2 %. The 
+nomenclature used in this certificate is that recommended by K.D. Mielenz [1]. 
+ 
+A  unit  of  SRM  1935a  contains  five  blank  solutions  and  five  sample  solutions,  for  a  total  of  ten  ampoules.    The 
+nominal  absorbances  referred  to  the  blank,  span  a  range  of  0.3  to  0.9  absorbance  units  over  the  four  certified 
+wavelengths  for  a  10  mm  pathlength  cuvette.  Approximately  10  mL  of  each  solution  is  flame-sealed  into  an 
+individual  glass  ampoule,  which  has  been  pre-scored  for  easy  opening.    The  blank  and  sample  solutions  are 
+packaged in separate trays. 
+ 
+Certified Values:  Table 1 gives the certified values of the apparent net absorbance of SRM 1935a for the indicated 
+wavelengths and a 10.00 mm internal pathlength.  The certified values are valid without correction over a temperature 
+range of 20 °C to 24 °C and for an instrumental spectral bandpass not to exceed 2 nm. Measurements should be made 
+immediately after opening the original ampoules, or within the same day for well sealed cuvettes. 
+ 
+
+Table 1.  Certified net apparent absorbance for SRM 1935a at 22 °C ± 2 °C and for a 10.00 mm pathlength 
+ 
+Certified Value of Apparent Absorbance at Indicated Wavelength 
+
+235 nm 
+0.7455  ±  0.0040 
+
+350 nm 
+0.6456  ±  0.0034 
+
+257 nm 
+0.8680  ±  0.0050 
+
+313 nm 
+0.2905  ±  0.0032 
+
+ 
+ 
+ 
+ 
+Expiration  of  Certification:  The  certification  of  SRM  1935a  is  valid,  within  the  measurement  uncertainties 
+specified,  until  31 December  2014,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions 
+given in this certificate.  The certified values have been assigned appropriate component uncertainties to account for 
+potential drift.  However, the certification is invalid if the SRM is damaged, contaminated, or modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification before expiration of this certificate, NIST will notify the purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+The technical measurements leading to the certification of this SRM were performed by M.V. Smith and J.C. Travis 
+with supervisory oversight by S. J. Choquette of the NIST Biochemical Science Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  05 August 2008 
+ 
+ 
+ 
+
+ 
+Laurie E. Locascio, Chief 
+Biochemical Science Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+SRM 1935a 
+
+Page 1 of 4 
+
+The statistical design was provided by H-k. Liu of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the NIST Measurement Services 
+Division. 
+ 
+Source and Preparation of Material:  Solutions of 60.20 mg/L of potassium dichromate in 0.001 N perchloric acid 
+and the perchloric acid blank were prepared, ampouled, and labeled by the Biochemical Science Division and the 
+Measurement Services Division of NIST. 
+ 
+NIST  Certification  Procedure:    The  optical  transmittance  measurements  were  made  on  the  second  generation 
+high-accuracy  reference  spectrometer  in  the  NIST  Biochemical  Science  Division.    The  spectrophotometer  was 
+constructed  and  calibrated  using  the  principles  of  the  original  instrument  [2].    An  effective  spectral  bandpass  of 
+0.8 nm  was  used  for  all  measurements.    The  wavelength  scale  of  the  reference  spectrometer  was  calibrated  to  an 
+estimated accuracy of ± 0.1 nm.  The temperature inside the spectrometer sample chamber was 22 °C ± 1 °C during 
+the  certification  measurements  and  was  recorded  to  0.1  °C  before  and  after  each  run  for  correction  of  the  data 
+to 22 °C. 
+ 
+A  run-order  stratified  random  sampling  was  employed  to  select  SRM  1935a  Potassium  Dichromate,  UV 
+Absorbance Standard blank and sample ampoules for certification measurements.  Concurrent measurements were 
+made on a like number of control solution ampoules of SRM 1935. Measurements were made in four runs on each 
+of  three  days.  In  each  run,  six  solutions  were  measured  in  six  calibrated  SRM 932 Quartz Cuvettes [3] using the 
+normal  measurement  protocol  of  the  instrument.    The  order  in  which  the  SRM  932  cuvettes  were  placed  in  the 
+sample carriage was the same for all 12 runs. One sample of each of the four solutions (SRM 1935a blank, SRM 
+1935a solution, SRM 1935 blank, and SRM 1935 solution) was run in each cuvette on each day. 
+ 
+Assignment of Uncertainties:  Standard uncertainty components, equivalent to the estimated standard deviation for a 
+normal  distribution,  were  assigned  for  repeatability,  temporal  drift,  temperature  uncertainty,  instrument  spectral 
+bandwidth, and instrument wavelength accuracy.  The repeatability component was computed as the estimated standard 
+deviation  of  the  mean  of  18  measured  net  apparent  absorbance  values.    Temporal  drift  uncertainty  was  generously 
+estimated from measurements of SRM 1935 over a seven-year period.  Temperature related uncertainty was assigned 
+on  the  basis  of  the  temperature  coefficients  given  under  “Temperature  Correction”  below,  to  accommodate  a 
+temperature range of 22 °C ± 2 °C.  The instrument spectral bandwidth and wavelength accuracy were estimated from 
+the full spectrum of SRM 1935a, shown in Figure 1, to accommodate a maximum spectral bandwidth of 2 nm and a 
+wavelength bias of up to ± 1 nm.  The standard uncertainty components were combined using the root-sum-of-squares 
+method.  An expansion factor of k = 2 was applied such that the expanded uncertainties given in Table 1 express an 
+interval within which the true value is expected to fall with a level of confidence of approximately 95 %. 
+  
+INSTRUCTIONS FOR USE 
+ 
+CAUTION:  This SRM is an acid solution contained in tip-sealed borosilicate glass ampoules with pre-scored stems. 
+Therefore,  all  appropriate  safety  precautions,  including  use  of  gloves  during  handling,  should  be  taken  to  avoid 
+accidental breakage or spillage.  Unopened ampoules should be stored under normal laboratory conditions in an upright 
+position inside the original container supplied by NIST. 
+ 
+Opening an Ampoule:  When an ampoule is to be opened, that area of the stem where the pre-scored band is located 
+should be carefully wiped with a clean, damp cloth and the body of the ampoule wrapped in absorbent material.  Then 
+holding  the  ampoule  steady  and  with  thumb  and  forefinger  grasping  the  stem,  minimal  thumb  pressure  should  be 
+applied to the stem to snap it.  Correctly done, the stem should break easily where pre-scored.  Use of a metal file to 
+break the stem is NOT recommended. 
+ 
+SRM  1935a  solutions  are  to  be  transferred  sequentially  to  a  fused-silica  cuvette  of  known  pathlength,  b,  and  the 
+apparent absorbances measured at wavelengths 235 nm, 257 nm, 313 nm, and 350 nm, using a spectral bandpass 
+less than or equal to 2 nm and a wavelength accuracy of at least 1 nm.  The temperature of the sample should be 
+determined  to  ±  1  °C.    Clean  borosilicate  pipettes  should  be  employed  to  transfer  solutions  from  the  ~10  mL 
+ampoules to the ~3 mL cuvette.  Each ampoule is intended to supply material for two rinsings of the cuvette prior to 
+transfer of the final portion for measurement.  For this purpose, the first aliquot of ~3 mL is transferred from the 
+freshly  opened  ampoule  into  an  empty  and  clean  cuvette  (a  liquid  height  of  ~3  cm  in  a  cuvette  of  1  cm2  cross 
+section)  and  is  then  removed  to  waste  for  proper  disposal  (see  the  Material  Safety  Data  Sheet  [MSDS] 
+accompanying the SRM).  A second aliquot is likewise transferred and removed to waste using the same pipette. A 
+
+SRM 1935a 
+
+Page 2 of 4 
+
+third and final ~3 mL aliquot is transferred from the ampoule with the same pipette, and the apparent absorbances 
+are measured.  Following the measurement, the cuvette is emptied to waste with the same pipette and cleaned using 
+normal laboratory procedures. The second ampoule required for each measurement (one blank and one sample) is 
+treated in like fashion, using a clean pipette to avoid cross contamination.  It is recommended that the same cuvette 
+be used in the same orientation for each of the two solutions.  Alternatively, two cuvettes that have been optically 
+matched may be employed. 
+ 
+NIST Special Publication 260-54 [4] describes the use of the closely related standard, SRM 935a, and may be consulted 
+for a detailed discussion of solution and cuvette handling issues. 
+ 
+Calculations:  The accuracy of the absorbance scale of the spectrometer being tested is ascertained by comparing 
+the measured net apparent absorbances, A(meas), for the four wavelengths to the certified values in Table 1.  The 
+net apparent absorbance is given as the measured apparent absorbance of the sample solution, As(meas), minus 
+the measured apparent absorbance of the blank solution, Ab(meas):  
+ 
+A(meas) = As(meas) – Ab(meas) 
+ 
+If the temperature of the sample chamber during the measurement was outside the temperature range of 20 °C to 24 °C, 
+then the measured data should be corrected to the temperature of certification, 22 °C, using the instructions given below 
+under “Temperature Correction”. 
+ 
+To  demonstrate  that  a  user’s  measurements  are  traceable  within  acceptable  limits  to  the  accuracy  defined  by 
+SRM 1935a,  the  user  must  first  determine  the  required  tolerances  or  acceptable  uncertainty  for  the  application  in 
+question.  Multiple measurements should be made for a given filling of each cuvette, with removal and replacement 
+of  the  cuvette  between  measurements.    The  user  should  then  compare  the  mean  net  apparent  absorbance  and  the 
+user-defined 
+uncertainty. 
+An acceptable level of agreement between a user’s measurements and the certified value is assured if any part of the 
+range  defined  by  the  NIST  certified  value  and  its  expanded  uncertainty  overlaps  any  part  of  the  user’s  tolerance 
+band defined by the measured mean and the user-defined level of acceptable uncertainty. 
+ 
+Temperature Correction:  SRM 1935a may be used as an absorbance standard at temperatures in the range 20 °C 
+to  30  °C  provided  corrections  are  made  to  the  A(meas)  values.    Over  this  range  the  net  apparent  absorbances 
+decrease  approximately  linearly  with  increasing  temperature  for  all  the  wavelengths  given  in  Table  1.    The 
+corresponding temperature coefficients, k, for these wavelengths are given in Table 2. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The value of A(meas, T) at any temperature "T" in the range 20 °C to 30 °C can be corrected to the 22 °C certification 
+temperature using the appropriate temperature coefficient and the relation: 
+
+Table 2.  Variation of A(meas) with Temperature Over the Range 20 °C to 30 °C 
+
+–0.0005 (°C)-1 
+–0.0005 (°C)-1 
+–0.0001 (°C)-1 
+–0.0004 (°C)-1 
+
+ 
+235 nm 
+257 nm 
+313 nm 
+350 nm 
+
+Temperature Coefficient, k 
+
+tolerance  with 
+
+corresponding 
+
+Wavelength 
+
+expanded 
+
+certified 
+
+value 
+
+and 
+
+the 
+
+the 
+
+ 
+ 
+ 
+ 
+
+A(meas,
+ 
+22)
+
+=
+
+A(meas,
+
+T)
+
+k
+×−
+
+(T
+
+−
+
+)22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 1935a 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J
+I
+U
+B
+G
+A
+I
+O
+S
+G
+Y
+ 
+
+I
+A
+I
+I
+I
+I
+J
+Y
+ 
+
+1.2
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 235 nm  257 nm
+
+ 313 nm
+
+ 350 nm
+
+ 
+ 
+
+ 
+
+220
+
+240
+
+260
+
+280
+
+300
+
+320
+
+340
+
+360
+
+380
+
+400
+
+Wavelength/nm
+
+Figure 1. Net absorbance spectrum of SRM 1935a. 
+
+REFERENCES 
+
+ 
+[1]  Mielenz, K.D.; Analytical Chemistry, Vol. 48, pp. 1093-1094, (1976). 
+[2]  Mavrodineanu,  R.;  An  Accurate  Spectrophotometer  for  Measuring  the  Transmittance  of  Solid  and  Liquid 
+
+Materials; J. Res. Nat. Bur. Stand. (U.S.), Vol 76A (Phys. and Chem.), No. 5, pp. 405-425, 1972. 
+
+[3]  Mavrodineanu R. and Lazar J. W.; Standard Reference Materials: Standard Quartz Cuvettes for High Accuracy 
+Spectrophotometry;  NBS  Special  Publication  260-32,  U.S.  Government  Printing  Office:  Washington  DC 
+(December, 1973). 
+
+[4]  Burke,  R.W.  and  Mavrodineanu,  R.;  Certification  and  Use  of  Acidic  Potassium  Dichromate  Solutions  as  an 
+Ultraviolet  Absorbance  Standard,  NIST  Special  Publication  260-54,  1977.    Copies  may  be  obtained  via  the 
+Internet at:  http://ts.nist.gov/MeasurementServices/ReferenceMaterials/upload/SP260-54.PDF 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet http://www.nist.gov/srm. 
+
+SRM 1935a 
+
+Page 4 of 4 
+
+

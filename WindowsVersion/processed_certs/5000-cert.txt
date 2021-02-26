@@ -1,0 +1,922 @@
+﻿National Institute of Standards & Technology 
+Certificate 
+Standard Reference Material® 5000 
+
+ 
+
+ 
+
+ 
+Overlay Wafer Standard 
+ 
+
+Lot:  Sample 
+
+ 
+
+Serial No.:  Sample 
+
+l days to adequately sample the reproducibility of the 
+
+double-etched silicon wafer cont aining calibrated overlay 
+
+ 
+This Standard Reference Material (SRM) is a 200 mm 
+targets.  SRM 5000 is intended primarily for calibrating optical microscopes used to make overlay (OL) 
+measurements.  It is also useful in calibrating other types of instruments capable of making overlay measurements, 
+such as scanning electron microscopes or atomic force microscopes, provided that they have an appropriate level  of 
+magnification and have the proper sample-holding capabilities.  
+ 
+SRM 5000 consists of a grid  of 93 rectangular dies, each die measuring 17 .6 mm in the X-direction and 16.0 mm in 
+ (Die 00-00) 
+the Y-direction.  Figure 1 shows a progressively exploded view of the SRM 5000.  The center die
+contains the calibrated Frame-in-Frame ( FF) and Bar-in-Bar (RR) targets.  Each die is divided into four quadrants: 
+QI, QII, QIII, and QIV.  QIII is further divided into 4 sub-quadrants: SQ1, SQ2, SQ3, and SQ4.  SQ3 contains the 
+relevant FF targets and SQ4 contains the relevant RR targets.  Each sub-quadrant contains rows o
+f overlay targets 
+with different dimensions and offsets.  Every two rows constitute a cell and there are 10 cells each in sub-quadrants 
+  Ten targets in all were selected to calibrate; five FF 
+3 and 4.  Figure 2 illustrates the labeling and layout of a cell.
+targets from cell #8 and five RR targets  from cell #9.  The selected OL targets  are listed in Table 1.  A copy of the 
+SP 260-165 [1], containing a detailed description of the SRM 5000 calibration process, is included with each unit for 
+further reference. 
+ 
+Each wafer was measured at least five times on severa
+measurement system.  A measurement of a given target wi thin the total measurement sequence of a wafer consisted 
+of individual auto-center and auto-focus operations, repeated three times at 0 ° and 180° orientations each, for a total 
+of six independent dynamic measurements of a target on any given day and a complete measurement total of at least 
+thirty measurements on that targ et.  The difference between the 0 ° and 180 ° measurements gives the Tool Induced 
+Shift (TIS), which was continuously monitored as an indication of a properly aligned tool.  The a
+verage of the 0 ° 
+and 180° measurements gives the TIS Corrected Mean (TCM).  The average TCM is the result that is reported as the 
+calibrated value. 
+ 
+Certification Technique:   All measurements for certification were  made on the NIST Overlay Metrology Tool 
+(OMT).  The performance of the NIST  OMT system was assessed by monitori ng the measurements of a control 
+wafer throughout the calibration of each SRM 5000 wafer.   The NIST OMT is a full-fiel d Charge-coupled Device 
+(CCD) based OL metrology optical microscope.  OL is determined by analyzing images acquired by the NI ST OMT 
+with a set of OL algorithms developed at NIST. 
+ 
+Expiration of Certification:   The certification of the SRM 5000 is va
+uncertainty specified, provided the SRM is handled and stored in accordance with the instructions given in this 
+certificate (see “Instructions for Care and Cleaning”).  Periodic recertification is not required; however, this 
+certification will be nullified if the SRM is damaged, contaminated, or modified. 
+ 
+Maintenance of SRM Certification:
+substantive technical changes occur that  affect the certification before the expi ration of this certificate, NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The overall direction and coordination of this work was managed by M. Stocker and R. Silver
+Manufacturing Engineering Laboratory.   
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  14 August 2007 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Michael T. Postek, Chief 
+Precision Engineering Division 
+
+  NIST will monitor this SRM over the period of its certification.  If 
+
+lid indefinitely, within the measurement 
+
+ of the NIST 
+
+SRM 5000 
+
+ 
+
+Page 1 of 5 
+
+ 
+
+ Jun of the NIST 
+
+ 
+The responsibility for the development of the OMT was made  by E. Kornegay, formerly of the NIST Manufacturing 
+Engineering Laboratory, and R. Attota, an independent consultant to the NIST Manufacturin
+g Engineering 
+Laboratory.  
+ 
+Algorithms for determining and reporting the overlay registration values were programmed by J.
+MEL and an independent set of OL algorithms were developed by R. Attota to confirm various aspects of our 
+uncertainty budget.   
+ 
+The statistical analysis was performed by N-F. Zhang of the NIST Statistical Engineering Division.   
+ 
+The support aspects involved in the issuance of this SRM were coordinated through the Measurement Services 
+Division. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Instructions for Care and Cleaning:   Care must be exercised when handling and storing the SRM.  The process 
+stack for this SRM wafer is double-etched silicon.  Nothing must come in contact with the surface of the wafer.  The 
+wafer must be stored in a clean stab
+cleanroom.  Any contamin ation on the wafer within the optical proximity of the calibrated targets, typically on the 
+order of 5 µm for these targets, will render the calibration void.
+    This wafer is not intended to be separated into 
+individual dies; doing so will void the calibration.   
+ 
+
+le environment, preferably inside a  wafer shell in a Class 100 or better 
+
+Calibration Traceability:  Traceability to the meter was established 
+Magnification Standard on the OMT.  The measurement of this SRM 2800 allows for the determination of the 
+effective scale calibration for the combination of the microscope and CCD.  This  scale factor is the means by which 
+pixels are converted to nanometers in the OL measurements. 
+ 
+Certified Measurements and Uncertainties:   The final measured values and th eir corresponding uncertainties are 
+listed in the table below.  All uncertainties are calcula
+Uncertainty in Measurement (GUM) [2]. 
+ 
+
+through measuring a SRM 2800 Microscope 
+
+ted according to the U.S. Gu
+
+ide to the Expression of 
+
+ 
+
+FF OL target 
+
+OL Value (nm) 
+
+Expanded Uncertainty (k=2) 
+
+ XN100 
+ XN030 
+ XP000 
+ XP030 
+ XP100 
+
+-122.44 
+-55.86 
+-29.66 
+-0.53 
+72.50 
+
+3.45 
+2.91 
+2.76 
+2.86 
+3.29 
+
+ 
+ 
+
+ 
+
+ YN050  -39.13 
+3.16 
+ YN010 
+ YP000  13.88 
+ YP010  23.44 
+ YP050  64.51 
+
+2.68 
+2.58 
+2.60 
+2.59 
+2.90 
+
+ 
+
+RR OL target 
+
+OL Value (nm) 
+
+Expanded Uncertainty (k=2) 
+
+SRM 5000 
+
+ 
+
+Page 2 of 5 
+
+5 
+
+0 
+
+-5 
+
+  
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+  
+
+QI
+QI
+
+QII
+QII
+
+RX
+RX
+
+XX
+XX
+
+SQ1
+SQ1
+
+  
+    
+  
+    
+  
+
+QIV
+QIV
+
+QIII
+QIII
+
+SQ4
+SQ4
+
+SQ2
+SQ2
+
+SQ3
+SQ3
+
+RR
+RR
+
+FF
+FF
+
+  
+
+“7-7 
+
+RR: Bar-in-Bar 
+
+  
+
+ 
+
+ 
+t
+l
+
+ 
+l
+W
+
+ 
+a
+
+  
+
+- 
+
+5 
+
+-5 0 
+
+  
+
+  
+
+  
+
+FF: Frame-in-Frame 
+
+  
+    
+   (
+
+ 
+e
+o
+
+ e
+l
+e
+
+ G
+]
+(
+
+ G
+]
+(
+
+ G
+]
+(
+
+ G
+]
+
+ 
+l
+e
+
+ 
+y
+G
+(
+
+ 
+y
+G
+(
+
+ 
+y
+G
+(
+
+ 
+y
+G
+(
+
+ 
+]
+E
+[
+
+ 
+]
+G
+(
+
+ 
+]
+E
+[
+
+ 
+]
+E
+[
+
+ 
+]
+E
+[
+
+ 
+y
+G
+(
+
+  
+
+ 
+}
+
+ 
+)
+
+ 
+)
+2
+
+ 
+a
+
+ 
+l
+
+ 
+y
+
+ 
+y
+
+ 
+y
+
+ 
+y
+
+)
+
+ 
+e
+a
+T
+
+1
+1
+#
+#
+ 
+ 
+l
+l
+l
+l
+e
+e
+C
+C
+
+ 
+.
+-
+~
+-
+~
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+#
+@
+
+0
+0
+1
+1
+#
+#
+ 
+ 
+l
+l
+l
+l
+e
+e
+C
+C
+
+1
+1
+#
+#
+ 
+ 
+l
+l
+l
+l
+e
+e
+C
+C
+
+ 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+q
+@
+
+0
+0
+1
+1
+#
+#
+ 
+ 
+l
+l
+l
+l
+e
+e
+C
+C
+
+  
+
+Cell # 8 
+
+  
+
+  
+
+  
+
+  
+
+      
+            
+      
+
+  
+
+ 
+\
+
+top view 
+
+cross section 
+
+ 
+|
+‘
+
+Cell # 9 
+
+  
+
+  
+
+  
+
+  
+
+Figure 1.  Exploded view of the center die of the SRM 5000 
+
+ 
+
+ 
+
+SRM 5000 
+
+ 
+
+Page 3 of 5 
+
+SQ3 
+
++% 
+
++¥ 
+
+cell #8 
+
+  
+
+  
+
+  
+
+  
+
+      
+    
+  
+      
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+    
+      
+  
+  
+      
+  
+
+  
+
+  
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.  Illustration of relevant labeling in Sub-quadrant 3 
+ 
+ 
+
+LW  = 1UM 
+Y = -0.175 
+
+X = 0.000 
+Y = 0.000
+
+X = 0.000 
+Y = 0.000
+
+FO = 20UM 
+FI  = 12UM 
+
+X = -0.175 
+
+X = 0.000 
+
+  
+
+X = 0.175 
+Y = 0.000
+
+Y = 0.000 
+
+    
+
+FO = 20UM 
+FI  = 12UM 
+LW  = 1UM
+
+X = 0.000 
+Y = 0.175
+
+Table 1.  FF and RR offsets that are calibrated 
+
+Quadrant Sub-quadrant
+
+Type
+FF
+FF
+FF
+FF
+FF
+
+RR
+RR
+RR
+RR
+RR
+
+Die
+00-00
+00-00
+00-00
+00-00
+00-00
+
+00-00
+00-00
+00-00
+00-00
+00-00
+
+III
+III
+III
+III
+III
+
+III
+III
+III
+III
+III
+
+3
+3
+3
+3
+3
+
+4
+4
+4
+4
+4
+
+Cell
+8
+8
+8
+8
+8
+
+9
+9
+9
+9
+9
+
+Offset
+X=+0.100µm
+X=+0.030µm
+X=+0.000µm
+X=-0.030µm
+X=-0.100µm
+
+Y=-0.050µm
+Y=-0.010µm
+Y=+0.000µm
+Y=+0.010µm
+Y=+0.050µm
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ SRM 5000 
+
+ 
+
+Page 4 of 5 
+
+ 
+
+(1997).  
+
+ 
+[1]  Stocker, M.; Silver, R.; Attota, R.;  Calibrated Overlay Wafer Standard ; NIST Special Publication 260-165, 
+
+U.S. Government Printing Office: Washington, DC (2007).  
+
+[2] ANSI/NCSL Z540-2-1997;  U.S. Guide to the Expression of Uncertainty in Measurement ; NCSLI: Boulder, CO 
+
+REFERENCES 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  tele phone (301) 975-6776; fax (301) 926-4 751; e-mail srminfo@nist.gov; or via 
+the Internet at http://www.nist.gov/srm. 
+ 
+
+SRM 5000 
+
+ 
+
+Page 5 of 5 
+
+

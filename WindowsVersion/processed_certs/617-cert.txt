@@ -1,0 +1,390 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 617 
+
+ 
+
+ 
+Trace Elements in Glass 
+
+ 
+This Standard Reference Material (SRM) is intended to facilitate development of chemical methods of analysis for 
+trace  elements  in glass.   The  nominal  mass  fractions  of 61 elements  added  to the  glass  matrix  are  in the  range of 
+0.008 mg/kg to 30 mg/kg.  A unit of SRM 617 consists of four wafers, sliced to 1 mm thickness from a hand-pulled 
+rod.  The wafers are of oval to circular cross-section with nominal diameter of 12 mm to 14 mm. 
+ 
+Certified Mass Fraction Values:  Certified values for five elements of SRM 617 are reported in Table 1 as mass 
+fractions [1].  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all 
+known or suspected sources of bias have been investigated or taken into account [2]. 
+ 
+Reference Values:  Reference values for 11 elements are reported in Table 2 as mass fractions [1].  The normalized 
+isotope  atom  ratio  for  strontium  is  also  reported.    Reference  values  are  non-certified  values  that  are  the  best 
+estimates  of  the  true  values  based  on  available  data;  however,  the  values  do  not  meet  the  NIST  criteria  for 
+certification [2]  and  are  provided  with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility, 
+may not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple 
+analytical methods. 
+ 
+Information  Values:    An  information  value  for  the  atom  fraction  of  uranium-235  is  reported  in  Table 3.    An 
+information  value  is  considered  a  value  that  will  be  of  interest  to  the  SRM  user,  but  insufficient  information  is 
+available to assess the uncertainty associated with the value [2]. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 617  is  valid  indefinitely,  within  the  measurement 
+uncertainties  specified,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  Accordingly, periodic recalibration or recertification 
+of  this  SRM  is  not  required.    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or  otherwise 
+modified. 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  material  over  the  period  of  its  certification.    If 
+substantive technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see 
+attached sheet) will facilitate notification. 
+ 
+Coordination  of  technical  measurements  for  certification  of  SRM 617  was  performed  by  W.R. Shields  of  what  is 
+now the NIST Analytical Chemistry Division.  Coordination of technical measurements for updates of values was 
+performed by W.C. Davis and J.R. Sieber of the NIST Analytical Chemistry Division. 
+ 
+Analyses for the original characterization were performed by R.W. Burke, T.E. Gills, E.J. Maienthal, L.W. Masters, 
+T.C. Rains, and B.A. Thompson of what is now the NIST Analytical Chemistry Division.  Analyses for the initial 
+update  of  values  were  performed  by  E.L. Garner,  J.W. Gramlich,  L.A. Machlan,  J.R. Moody,  L.J. Moore, 
+T.J. Murphy, P.J. Paulsen, and K.M. Sappenfield of what is now the NIST Analytical Chemistry Division.  Analyses 
+for the current update of values were performed by W.C. Davis and J.R. Sieber of the NIST Analytical Chemistry 
+Division. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  06 April 2012 
+Certificate Revision History on Last Page 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+ 
+
+SRM 617 
+
+Page 1 of 4 
+
+ 
+Analyses for the original characterization were performed by the following collaborating laboratories and analysts:  
+United  States  Geological  Survey,  Denver, CO,  C. Hedge  and  M. Tatsumoto;  Australian  National  University, 
+Canberra, ACT, Australia, W. Compston; and University of Ghent, Ghent, Belgium, F. Bellemans. 
+ 
+Statistical  consultation  for  this  SRM  was  provided  by  S.D. Leigh,  A.L. Pintar,  and  A.M. Possolo  of  the  NIST 
+Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+To relate analytical determinations to certified values, a minimum sample quantity of 250 mg is recommended (see 
+“Preparation  and  Analysis”).    Each  wafer  surface  should be  cleaned before use.    To prepare  a wafer  for  analysis, 
+wipe it clean with ethanol, then give it a mild surface cleaning (not etch) in dilute (1:10) HNO3.  The acid wash is 
+recommended to remove potential copper contamination from cutting with a copper-bonded diamond wheel.  The 
+material should be stored in its original container in a cool, dry location. 
+ 
+Preparation and Analysis:  Sixty-one trace elements were added to the glass support matrix, which has a nominal 
+composition of 72 % SiO2, 14 % Na2O, 12 % CaO, and 2 % Al2O3 (mass fractions).  A list of 45 elements that were 
+added but for which no values have been assigned is provided in Table 4.  The material was prepared in rod form 
+and  then  sliced  into  wafers.    Considerable  effort  was  invested  in  the  manufacturing  of  the  material  to  ensure 
+sufficient homogeneity to yield a ≤10 % relative repeatability of measurement when an entire wafer is used.  Spatial 
+heterogeneity  exists  within  each  wafer,  which  may  adversely  affect  repeatability  of  microanalysis  techniques.  
+Values were assigned using the analytical methods listed in Table 5. 
+ 
+Certified Value Assignment:  The certified values are as assigned in the original certificate of this material.  These 
+values have not been updated, and are qualified with the original statement of measurement uncertainty, which is 
+equal to the entire range of values measured for individual samples or to the 95 % confidence interval, whichever is 
+greater.    The  user  can  treat  such  uncertainty  assessments  as  half  widths  of  95 %  confidence  intervals  based  on 
+Gaussian, Type A evaluations using no more than five measured values each. 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for SRM 617 
+
+ 
+
+ 
+ 
+
+Constituent 
+
+Mass Fraction 
+(mg/kg) 
+
+Lead 
+Potassium 
+Strontium 
+Thorium 
+Uranium 
+
+  0.04 
+  1 
+  0.05
+
+  1.85 
+  29 
+  41.72 
+  0.0252    0.0007 
+  0.0721    0.0013 
+
+SRM 617 
+
+Page 2 of 4 
+
+Reference Value Assignment:  Each reference value is the equally weighted mean of the results from the methods 
+listed in Table 5.  The reference values are as assigned in the original certificate of this material.  These values have 
+not been updated, and are qualified with the original statement of measurement uncertainty, which is equal to the 
+entire range of values measured for individual samples or to the 95 % confidence interval, whichever is greater.  The 
+user can treat such uncertainty assessments as half widths of 95 % confidence intervals based on Gaussian, Type A 
+evaluations using no more than five measured values each. 
+ 
+
+Table 2.  Reference Values for SRM 617 
+
+Constituent 
+
+Antimony 
+Boron 
+Copper 
+Gallium 
+Gold 
+Iron 
+Lanthanum 
+Rubidium 
+Scandium 
+Thallium 
+Titanium 
+
+Mass Fraction 
+(mg/kg) 
+
+  0.078    0.007 
+  0.20 
+  0.02 
+  0.80 
+  0.09 
+  0.23 
+  0.02 
+  0.18 
+  0.01 
+ 11 
+  2 
+  0.034    0.007 
+  0.100    0.007 
+  0.026    0.012 
+  0.0082    0.0005 
+  2.5 
+
+  0.7 
+
+Ratio of Isotope Atomic Abundances 
+
+87Sr/86Sr (normalized) 
+
+  0.7080    0.0002 
+
+ 
+ 
+ 
+Table 3.  Information Value for SRM 617 
+
+Ratio of Isotope Atomic Abundances 
+
+235U/UTotal 
+
+2.792 × 10–3 
+
+Table 4.  Additional Elements Incorporated in SRM 617 for Which No Values Are Assigned 
+ 
+
+Arsenic 
+Barium 
+Beryllium 
+Bismuth 
+Cadmium 
+Cerium 
+Cesium 
+Chlorine 
+Chromium 
+
+Cobalt 
+Dysprosium 
+Erbium 
+Europium 
+Fluorine 
+Gadolinium 
+Germanium 
+Hafnium 
+Holmium 
+
+Indium 
+Lithium 
+Lutetium 
+Magnesium 
+Manganese 
+Molybdenum 
+Neodymium 
+Nickel 
+Niobium 
+
+Phosphorus 
+Praseodymium 
+Rhenium 
+Samarium 
+Selenium 
+Silver 
+Sulfur 
+Tantalum 
+Tellurium 
+
+Terbium 
+Thulium 
+Tin 
+Tungsten 
+Vanadium 
+Ytterbium 
+Yttrium 
+Zinc 
+Zirconium 
+
+ 
+Table 5.  Test Methods Used for Characterization of SRM 617 by NIST and Collaborating Laboratories 
+
+Neutron activation analysis 
+
+Nuclear track counting 
+
+Polarography 
+
+Flame emission spectrometry 
+
+Au, Eu, Ga, La, Sb 
+
+B 
+
+Fe, Ni, Ti 
+
+K, Rb 
+
+Isotope dilution mass spectrometry 
+
+Ag, Cd, Cu, Eu, K, Pb, Rb, Sr, Th, Tl, U 
+
+SRM 617 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+(2008); 
+
+Publication 811;  U.S.  Government 
+http://www.nist.gov/pml/pubs/index.cfm/ (accessed Apr 2012). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Apr 2012). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History:    06 April 2012  (Changed  information  values  for  antimony,  barium,  copper,  gallium,  gold,  iron,  lanthanum, 
+rubidium, scandium, thallium, and titanium to reference values; Changed unit size from 6 wafers to 4 wafers; Editorial changes); 27 January 1992 
+(Editorial  changes);  04 January 1982  (Editorial  changes);  08 August 1972  (Revised  values  for  strontium  and  thorium  based  on  new  analytical 
+determinations); 05 August 1970 (Original certificate date).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 617 
+
+Page 4 of 4 
+
+

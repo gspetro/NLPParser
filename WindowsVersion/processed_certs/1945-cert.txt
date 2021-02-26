@@ -1,0 +1,1034 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 1945 
+ 
+Organics in Whale Blubber 
+
+ 
+
+ 
+tended  for  use  in  evaluating  analytical 
+This Standard Reference Material (SRM) is a frozen whale blubber homogenate intended for use in evaluating analytical 
+methods  for  the  determination  of  selected  polychlorinated  biphenyl (PCB)  congeners,  chlorinated  pesticides, 
+polybrominated diphenyl ether (PBDE) congeners, and toxaphene congeners [1].  SRM 1945 has been reanalyzed, and 
+the current Certificate of Analysis has values assigned for additional PCB congeners and pesticides, as well as values 
+assigned for selected PBDE and toxaphene congeners.  A unit of SRM 1945 consists of two screw-capped glass bottles, 
+each containing approximately 15 g of frozen whale blubber homogenate. 
+ 
+Certified  Mass  Fraction  Values:    The  measured  is  the  total  mass  fraction  for  each  PCB  congeners,  chlorinated 
+pesticides,  and  PBDE  congeners  provided  in  Tables 1,  2,  and  3,  respectively.    Metrological  traceability  is  the  SI 
+derived unit for mass fraction (expressed as micrograms per kilogram on a wet basis).  A NIST certified value is a 
+value for which NIST has the highest confidence in its accuracy in that all known or suspected sources of bias have 
+been investigated or taken into account [2].  The certified values for the PCB congeners, chlorinated pesticides, and 
+PBDE congeners are based on the agreement of results obtained at NIST from two or more chemically independent 
+analytical techniques along with results from an interlaboratory comparison study. 
+ 
+Reference  Mass  Fraction  Values:    The  measured  is  the  total  mass  fraction  based  on  the  indicated  method  or 
+methods 
+for  additional  PCB  congeners,  a  chlorinated  pesticide,  additional  PBDE  congeners,  and 
+2 methoxylated-PBDEs (MeO-PBDEs)  in Table 4  and  for 3 toxaphene congeners and total toxaphene in Table 5.  
+Metrological traceability is the SI derived unit for  mass  fraction (expressed as  micrograms per kilogram on a  wet 
+basis).  Reference values are noncertified values that represent a best estimate of the true value; however, the values 
+do not meet the NIST criteria for certification [2] and are provided with associated uncertainties that may reflect only 
+measurement  precision,  may  not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of  sufficient  statistical 
+agreement among multiple analytical methods. 
+ 
+Expiration of Certification:  The certification of SRM 1945 is valid, within the measurement uncertainty specified, 
+until 31 July 2026, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified.   
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements leading to certification of SRM 1945 were performed by M.M. Schantz and 
+J.R. Kucklick of the NIST Chemical Sciences Division. 
+ 
+Analytical  measurements  at  NIST  were  performed  by  J.M. Keller,  J.R. Kucklick,  D.L. Poster,  H.M. Stapleton, 
+M.M. Schantz, and J.E. Yordy of the NIST Chemical Sciences Division.  Results were also used from 26 laboratories 
+(see Appendix A) that participated in an interlaboratory comparison exercise coordinated by NIST. 
+ 
+Evaluation of the data was provided by S.D. Leigh of the NIST Statistical Engineering Division.  
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  13 April 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+of  SRM
+
+ 
+
+Page 1 of 9 
+
+  
+
+SRM 1945 
+
+I  USE;  NOT  FOR  HUMAN  CONSUMPT 
+
+Sciences 
+Collection and preparation of the SRM were performed by B.J. Porter and S.A. Wise of the NIST Chemical Sciences 
+Iffice  of  Reference 
+Division and by M.P. Cronise, C.N. Fales, J.T. Fort, G.V. Proulx, and T.P. Shuggars of the NIST Office of Reference 
+Materials. 
+ 
+Reference 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNING TO USERS 
+ 
+WARNING:  FOR RESEARCH USE; NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 1945 is provided as a frozen tissue homogenate in glass bottles.  The tissue homogenate should not be 
+allowed to thaw prior to subsampling for analysis.  This material has been stored at NIST at –80 °C (or lower) since it 
+was prepared.  SRM 1945 should be stored at or less than –80 °C , if possible, since the validity of the certified values at 
+higher temperatures is unknown.  
+ 
+Use:  This material is a frozen tissue homogenate; after extended storage at temperatures of –25 °C or higher, or if allowed 
+to warm, it will lose its powder-like form.  For the handling of this material during sample preparation, the following 
+procedures and precautions are recommended.  If weighing relatively large quantities, remove a portion from the bottle 
+and reweigh the bottle to determine the mass of the subsample.  (Avoid heavy frost buildup on the containers by rapid 
+handling and wiping of the containers prior to weighing.)  Transfer subsamples to another container for weighing, using 
+a  pre-cooled  thick-walled  glass  container  rather  than  a  thin-walled  plastic  container  to  minimize  heat  transfer  to  the 
+sample.  If possible, use a cold work space, e.g., an insulated container with dry ice or liquid nitrogen coolant on the 
+bottom and pre-cooled implements, such as Teflon-coated spatulas, for transferring the powder. 
+ 
+Subsamples of this SRM for analysis should be withdrawn from bottles immediately after opening and used without 
+delay for the certified values listed in Tables 1, 2, and 3 to be valid within the stated uncertainties.  The bottles should be 
+tightly closed immediately after removal of the subsamples and the remaining material may be frozen for use in later 
+analyses.  The concentrations of constituents in SRM 1945 are reported on a wet-mass basis.   
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+SRM Preparation:  The whale blubber used to prepare this SRM was collected from an adult female pilot whale which 
+was stranded on Cape Cod, MA in September 1991.  The blubber tissue was placed in Teflon bags, frozen on dry ice, 
+shipped to NIST, and placed in a liquid nitrogen freezer (–150 °C).  At NIST, any remaining skin was removed using a 
+titanium knife, and the blubber was again placed in Teflon bags and immediately returned to a liquid nitrogen freezer.  
+Approximately 15 kg of whale blubber were prepared for use as the SRM.  The frozen whale blubber was pulverized in 
+batches of approximately 150 g each, using a cryogenic grinding procedure described previously [3].  The total 15 kg of 
+pulverized material was then combined and thoroughly mixed with a Teflon paddle.  Subsamples (10 g to15 g) of the 
+whale blubber homogenate were aliquoted into pre-cooled glass bottles and stored at –80 °C. 
+ 
+INTEREST 
+ANALYTICAL METHODS USED FOR THE ANALYTES OF INTEREST 
+ 
+Up  to  nine  sets  of  data  were  used  for  determination  of  the  analytes  of  interest  in  SRM 1945.    One  method  used  gas 
+chromatography with electron capture detection (GC-ECD) on dual columns described below; six methods used GC with mass 
+spectrometry (GC/MS)  on  three  columns  of  differing  polarity  described  below;  and  one  data  set  was  the  combination  of 
+consensus means from four interlaboratory comparison studies coordinated by NIST as described below.  For all of the NIST 
+methods described below (GC-ECD and GC/MS), multi-point calibration response curves for the PCB congeners, chlorinated 
+pesticides,  and  PBDE  congeners  relative  to  the  internal  standards  were  determined  by  processing  gravimetrically-diluted 
+solutions of SRM 2261 Chlorinated Pesticides in Hexane (Nominal Mass Concentration 2 μg/mL), SRM 2262  Chlorinated 
+Biphenyl Congeners in 2,2,4-Trimethylpentane (Nominal Concentration 2 μg/mL), SRM 2274 PCB Congener Solution-II in 
+Isooctane,  and  SRM 2275  Chlorinated  Pesticide  Solution-II  in  Isooctane  plus  gravimetrically  prepared  solutions  of  the 
+additional analytes of interest with the internal standards added. 
+ 
+
+JSED 
+
+ 
+
+                                                           
+
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  describe  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+itute  of  Standards
+and Technology, nor does it imply that the products identified are necessarily the best available for this purpose. 
+SRM 1945 
+
+Page 2 of 9 
+
+GC-ECD:  For the GC-ECD analyses, approximately 2 g subsamples from 24 bottles of SRM 1945 were extracted 
+using pressurized fluid extraction (PFE) with dichloromethane (DCM).  Size exclusion chromatography (SEC) with a 
+preparative-scale divinylbenzene-polystyrene column (10 µm particle size with 100 Å diameter pores) was used to 
+remove the high molecular mass compounds.  The concentrated extract was then fractionated on a semi-preparative 
+aminopropylsilane column to isolate two fractions containing:  (1) the PCBs and lower polarity pesticides and (2) the 
+more polar pesticides.  GC-ECD analyses of the two fractions were performed on two columns of different selectivities 
+for PCB separations:  0.25 mm × 60 m fused silica capillary column  with a 5 % (mole fraction) phenyl-substituted 
+methylpolysiloxane  phase  (0.25 µm  film  thickness)  (DB-5,  Agilent  Technologies,  Wilmington, DE)  and  a 
+0.25 mm × 60 m fused silica capillary column with a non-polar proprietary phase (0.25 µm film thickness) (DB-XLB, 
+Agilent Technologies).  For the GC-ECD analyses, two PCB congeners that are not significantly present in the blubber 
+extract (PCB 103 and PCB 198 [4,5]), and endosulfan I-d4, 4,4'-DDE-d8, 4,4'-DDD-d8, and 4,4'-DDT-d8 were added 
+to the blubber prior to extraction for use as internal standards for quantification purposes. 
+ 
+GC/MS (I):    For  the  GC/MS (I)  analyses,  approximately  1.5 g  subsamples  from  six  bottles  of  SRM 1945  were 
+extracted using PFE with DCM.  SEC with a preparative-scale divinylbenzene-polystyrene column (10 µm particle 
+size with 100 Å diameter pores) was used to remove the high molecular mass compounds.  The analytes of interest 
+were  then  further  isolated  using  a  silica  solid  phase  extraction (SPE)  column.    GC/MS  analyses  in  the  electron 
+impact (EI) mode were performed on a 0.25 mm × 30 m fused silica capillary column with a 5 % phenyl-substituted 
+methylpolysiloxane  phase  (0.25 µm  film  thickness)  (HP-5MS,  Agilent  Technologies).    PCB 103,  PCB 198,  and 
+carbon-13 labeled 4,4'-DDE, 4,4'-DDT, lindane, and trans-nonachlor were added to the blubber prior to extraction for 
+use as internal standards for quantification purposes. 
+ 
+GC/MS (II):    For  the  GC/MS (II)  analyses,  approximately  4 g  subsamples  from  three  bottles  of  SRM 1945  were 
+Soxhlet extracted using with 1:1 hexane:acetone (volume fraction) for approximately 20 h.  Concentrated sulfuric acid 
+was used to remove the majority of the lipid and biogenic material.  The analytes of interest were then further isolated 
+using a silica SPE column.  GC/MS analyses were performed on a 0.25 mm × 60 m fused silica capillary column with 
+a non-polar proprietary phase (0.25 µm film thickness) (DB-XLB, Agilent Technologies) using two ionization modes, 
+EI and negative chemical ionization (NCI).  PCB 103, PCB 198, and carbon-13 labeled 4,4'-DDT, lindane, PCB 28, 
+PCB 101, PCB 118, PCB 138, PCB 153, and PCB 169 were added to the blubber prior to extraction for use as internal 
+standards for quantification purposes. 
+ 
+GC/MS (IIIa and IIIb):  For the GC/MS (III) analyses, two sets of samples were run using the same method.  One 
+set included nine subsamples and the other set included six subsamples of SRM 1945 (approximately 1 g each) that 
+were  extracted  using  PFE  with  DCM.    SEC  with  a  preparative-scale  divinylbenzene-polystyrene  column  (10 µm 
+particle size with 100 Å diameter pores) was used to remove the high molecular mass compounds.  The concentrated 
+extract  was  then  fractionated  on a semi-preparative aminopropylsilane column  to isolate  two  fractions containing:  
+(1) the PCBs and lower polarity pesticides and, (2) the more polar pesticides.  GC/MS (EI) analyses were performed 
+on a 0.25 mm × 60 m fused silica capillary column with a 5 % phenyl-substituted methylpolysiloxane phase (0.25 µm 
+film  thickness)  (DB-5MS,  Agilent  Technologies).    PCB 103,  PCB 198,  4,4'-DDD-d8,  4,4'-DDT-d8,  and  carbon-13 
+labeled cis-chlordane  were added to the blubber prior to extraction for use as internal standards for quantification 
+purposes. 
+ 
+GC/MS (IV):    For  the  GC/MS (IV)  analyses,  approximately  1 g  subsamples  from  six  bottles  of  SRM 1945  were 
+extracted using PFE with DCM.  SEC with a preparative-scale divinylbenzene-polystyrene column (10 µm particle 
+size with 100 Å diameter pores) was used to remove the high molecular mass compounds.  The analytes of interest 
+were then further isolated using a silica SPE column.  GC/MS (EI) analyses were performed on a 0.25 mm × 60 m 
+fused  silica  capillary  column  with  a  50 %  phenyl-substituted  methylpolysiloxane  phase  (0.25 µm  film  thickness) 
+(DB-17MS,  Agilent  Technologies).    Carbon-13  labeled  4,4'-DDE,  4,4'-DDT,  lindane,  trans-nonachlor,  PCB 28, 
+PCB 101, PCB 105, PCB 153, and PCB 170 and 4,4'-DDD-d8 were added to the blubber prior to extraction for use as 
+internal standards for quantification purposes. 
+ 
+GC/MS (V):    For  the  GC/MS (V)  analyses,  approximately  1 g  subsamples  from  three  bottles  of  SRM 1945  were 
+extracted using PFE with DCM.  SEC with a the following series of columns (PhenoGel, Phenomenex, Torrance, CA) 
+was used to remove the high molecular mass compounds: guard column (50 mm × 7.80 mm i.d., 10 µm particle size), 
+first  column  (600 mm  ×  21.2 mm i.d.,  10 µm  particle  size    and  100 Å  diameter  pores),  and  second  column 
+(300 mm × 21.2 mm i.d., 10 µm particle size and 100 Å diameter pores).  The analytes of interest were then further 
+isolated  using  an  alumina  SPE  column.    GC/MS  analyses  in  both  the  EI  and  NICI  mode  were  performed  on    a 
+0.18 mm × 30 m fused silica capillary column with a non-polar proprietary phase (0.18 µm film thickness) (DB-XLB, 
+Agilent  Technologies).    Carbon-13  labeled  PCB 28,  PCB 52,  PCB 77,  PCB 118,  PCB 126,  PCB 153,  PCB 169, 
+PCB 180,  PCB 194,  PCB 206,  trans-chlordane,  BDE 99,  and  BDE 209  plus  endosulfan  I-d4,  4,4'-DDE-d8, 
+4,4'-DDD-d8,  and  4,4'-DDT-d8  were  added  to  the  blubber  prior  to  extraction  for  use  as  internal  standards  for 
+quantification purposes. 
+
+or  th
+
+SRM 1945 
+
+Page 3 of 9 
+
+referenc
+
+GC/MS (VI):  For the GC/MS (VI) analyses, approximately 1 g subsamples from three bottles of SRM 1945 were 
+Soxhlet extracted using with DCM for approximately 20 h.  SEC with a preparative-scale divinylbenzene-polystyrene 
+column (10 µm particle size with 100 Å diameter pores) was used to remove the high molecular mass compounds.  
+The analytes of interest were then further isolated using a silica SPE column.  GC/MS (EI) analyses were performed 
+on  a  0.25 mm°× 60 m  fused  silica  capillary  column  with  a  non-polar  proprietary  phase  (0.25 µm  film  thickness) 
+(DB-XLB,  Agilent  Technologies).    Carbon-13  labeled  4,4'-DDE,  4,4'-DDT,  lindane,  trans-nonachlor,  PCB 28, 
+PCB 101, PCB 105, PCB 153, and PCB 170 and 4,4'-DDD-d8 were added to the blubber prior to extraction for use as 
+internal standards for quantification purposes. 
+ 
+Non-ortho  PCBs:    The  reference  values  for  PCB 77,  PCB 126,  and  PCB 169  were  determined  from  a  separate 
+fraction.  The samples were extracted and processed as for GC/MS (III) above.  The first (PCB and lower polarity 
+pesticide) fraction from the semi-preparative aminopropylsilane column was further fractionated using a Cosmosil 
+PYE column (5 µm particle size, 4.6 mm i.d. × 25 cm, Phenomenex, Torrance, CA).  Three fractions were collected: 
+the first fraction contained the pesticides and multi-ortho PCBs, the second fraction contained the polychlorinated 
+naphthalenes, non-ortho PCB congeners, and some mono-ortho PCB congeners, and the third fraction removed the 
+residual  planar  compounds  from  the  column.    The  second  fraction  was  analyzed  by  GC/MS  NICI  using  a 
+0.25 mm × 60 m fused silica capillary column with a 5 % phenyl-substituted methylpolysiloxane phase (0.25 µm film 
+thickness)  (DB-5MS,  Agilent  Technologies).    Carbon-13  labeled  PCB 77,  PCB 126,  and  PCB 169  were  used  as 
+internal standards for quantification purposes. 
+ 
+PBDEs  and  MeO-PBDEs  GC/MS(VII):    For  one  set  of  the  PBDE  analyses  and  for  the  MeO-PBDE  analyses, 
+approximately one gram subsamples from five bottles of SRM 1945 were extracted using PFE with DCM.  SEC with 
+a preparative-scale divinylbenzene polystyrene column (10 µm particle size with 100 Å diameter pores) was used to 
+remove  the  high  molecular  mass  compounds.    GC/MS  analyses  in  both  the  EI  and  NICI  modes  were  performed  
+on  a  0.25 mm × 15 m  fused  silica  capillary  column  with  a  5 %  phenyl-substituted  methylpolysiloxane  phase  
+(0.25 µm  film  thickness)  (DB-5MS,  Agilent  Technologies).    Carbon-13  labeled  BDE  15,  BDE  209,  and 
+2,2,3,4,5-pentachlorodiphenyl  ether (CDE-86)  were  added  to  the  blubber  prior  to  extraction  for  use  as  internal 
+standards for quantification purposes. 
+ 
+Interlaboratory Comparison Studies (IL):  In addition to the analyses performed at NIST, SRM 1945 was used in 
+an interlaboratory comparison exercise in 1999, 2000, 2001, and 2003  as part of the NIST/NOAA Interlaboratory 
+Comparison  Exercise  Program  for  Organic  Contaminants  in  the  Marine  Mammal  Tissues [6–8].    Results  from 
+26 laboratories that participated in these exercises were used as the ninth data set in the determination of the certified 
+values for PCB congeners, chlorinated pesticides, and PBDEs in SRM 1945.  The laboratories participating in these 
+exercises  employed  the  analytical  procedures  routinely  used  in  their  laboratories  to  measure  PCB  congeners, 
+chlorinated pesticides, and PBDEs. 
+ 
+Non-volatile Extractable Mass Determination:  The percent of non-volatile extractable material (or total extractable 
+organics)  was  determined  gravimetrically  for  the  nine  data  sets  described  above  for  the  determination  of  PCBs  and 
+pesticides.  The percent non-volatile extractable material is 71.9 % ± 1.3 % (95 % confidence interval for the mean). 
+ 
+
+ 
+
+SRM 1945 
+
+Page 4 of 9 
+
+Table 1.  Certified Mass Fraction Values for Selected PCB Congeners(a) in SRM 1945 
+
+Mass 
+
+ 
+ 
+ 
+
+PCB Congener 
+
+ 
+PCB  18 
+PCB  28 
+PCB  31 
+PCB  44 
+PCB  49 
+PCB  52 
+PCB  66 
+PCB  70 
+PCB  87 
+PCB  92 
+PCB  95 
+PCB  99 
+PCB  101 
+PCB  105 
+PCB  107 
+PCB  110 
+PCB  118 
+PCB  128 
+PCB  138 
+PCB  146 
+PCB  149 
+PCB  151 
+PCB  153 
+PCB  154 
+PCB  156 
+PCB  158 
+PCB  170 
+PCB  174 
+PCB  180 
+PCB  183 
+PCB  187 
+PCB  194 
+PCB  195 
+PCB  201 
+PCB  206 
+PCB  209 
+
+(2,2',5-Trichlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,4,4'-Trichlorobiphenyl)(c,d,e,f,h,i,j,k) 
+(2,4',5-Trichlorobiphenyl)(c,d,e,h,i,j,k) 
+(2,2',3,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',4,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',5,5'-Tetrachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,3',4,4'-Tetrachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,3',4',5-Tetrachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4,5'-Pentachlorobiphenyl)(c,f,g,i,j,k) 
+(2,2',3,5,5'-Pentachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,5',6-Pentachlorobiphenyl)(c,f,g,i,j) 
+(2,2',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',4,5,5'-Pentachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,3,3',4,4'-Pentachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,3,3',4',5-Pentachlorobiphenyl)(c,f,g,i,j,k) 
+(2,3,3',4',6-Pentachlorobiphenyl)(c,f,g,i,j,k) 
+(2,3',4,4',5-Pentachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,4'-Hexachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4,4',5'-Hexachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4',5,5'-Hexachlorobiphenyl)(c,f,g,i,j,k) 
+(2,2',3,4',5',6-Hexachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4,4',5-Hexachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',4,4',5,5'-Hexachlorobiphenyl)(c,h) 
+(2,2',4,4',5,6'-Hexachlorobiphenyl)(c,f,g,i,j,k) 
+(2,3,3',4,4',5-Hexachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,3,3',4,4',6-Hexachlorobiphenyl)(c,g,i,j,k) 
+(2,2',3,3',4,4',5-Heptachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,5,6'-Heptachlorobiphenyl)(c,f,g,i,j,k) 
+(2,2',3,4,4',5,5'-Heptachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4,4',5',6-Heptachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,4,5,5',6-Heptachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,4',5,5'-Octachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,4',5,6-Octachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,5',6,6'-Octachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+(Decachlorobiphenyl)(c,d,e,f,g,h,i,j,k) 
+
+Mass Fraction 
+(μg/kg wet mass)(b) 
+0.56 
+4.35  ± 
+1.1 
+13.1 
+± 
+0.36 
+3.56  ± 
+0.5 
+± 
+12.1 
+0.1 
+± 
+18.3 
+1.3 
+± 
+40.7 
+0.5 
+± 
+22.4 
+1.1 
+± 
+11.0 
+2.6 
+± 
+20.6 
+3.9 
+± 
+23.4 
+0.5 
+± 
+33.9 
+5.2 
+± 
+58.5 
+±  12 
+78 
+28.6 
+± 
+5.04  ± 
+± 
+33.8 
+± 
+76.5 
+± 
+23.0 
+±  13 
+146 
+4.0 
+± 
+45.1 
+6.9 
+± 
+89.0 
+± 
+28.6 
+1.3 
+±  10(l) 
+228 
+
+1.2 
+0.94 
+2.3 
+2.9 
+1.1 
+
+0.22 
+0.9 
+1.0 
+2.2 
+0.1 
+
+3.97  ± 
+± 
+11.4 
+± 
+9.1 
+± 
+42.6 
+± 
+25.2 
+±  10 
+138 
+± 
+38.0 
+±  11 
+121 
+± 
+53.5 
+± 
+14.3 
+± 
+16.8 
+± 
+44.9 
+± 
+17.2 
+
+1.8 
+
+5.2 
+2.2 
+1.3 
+4.2 
+1.9 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [4] and later revised by Schulte and 
+and
+Malisch [5] to conform with IUPAC rules.  For the specific congeners mentioned in this table, the Ballschmiter-Zell numbers 
+correspond to those of Schulte and Malisch.  When two or more congeners are known to coelute under the GC analysis conditions 
+used, the PCB congener listed first is the major component and the additional congeners may be present as minor components.  
+The quantitative results are based on the response of the congener listed first. 
+
+(b) Certified values are  weighted  means of the results  for up to nine data sets [9].  The uncertainty listed with each value is an 
+expanded  uncertainty  about  the  mean,  with  coverage  factor  2  (approximately  95 %  confidence)  calculated  by  combining  a 
+between-method variance incorporating inter-method bias with a pooled within-source variance following the ISO/JCGM and 
+NIST Guides [10]. 
+
+(c) GC-ECD analysis on dual columns, DB-5 and DB-XLB following PFE using DCM. 
+(d) GC/MS(I) analysis on HP-5MS column following PFE using DCM. 
+(e) GC/MS(II) analysis on DB-XLB column following Soxhlet extraction using 1:1 hexane:acetone (volume fraction). 
+(f) GC/MS(IIIa) analysis on DB-5MS column following PFE using DCM. 
+(g) GC/MS(IIIb) analysis on DB-5MS column following PFE using DCM. 
+(h) GC/MS(IV) analysis on DB-17MS column following PFE using DCM. 
+(i)  GC/MS(V) analysis on DB-XLB column following PFE using DCM. 
+(j)  GC/MS(VI) analysis on DB-XLB column following Soxhlet extraction using DCM. 
+(k) Combination of consensus means from four interlaboratory comparison exercises. 
+(l)  Certified value is the unweighted mean of the results for three data sets.  The uncertainty listed with the value is an expanded 
+uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [11] with a pooled, 
+within-method variance following the ISO/JCGM and NIST Guides [10]. 
+
+SRM 1945 
+
+Page 5 of 9 
+
+Table 2.  Certified Mass Fraction Values for Selected Chlorinated Pesticides in SRM 1945 
+
+iss  Fraction  Values 
+
+Mass Fraction 
+(μg/kg wet mass)(a) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Certified values are  weighted  means of the results  for up to nine data sets [9].  The uncertainty listed with each value is an 
+each  value  is  an 
+expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  calculated  by  combining  a 
+between-method variance incorporating inter-method bias with a pooled within-source variance following the ISO/JCGM and 
+NIST Guides [10]. 
+
+ 
+2,4'-DDT(b,c,d,e,f,g,h,i,j) 
+4,4'-DDT(b,c,d,e,f,g,h,i,j) 
+2,4'-DDE(b,c,d,e,f,g,h,i,j) 
+4,4'-DDE(b,c,d,e,f,g,h,j) 
+2,4'-DDD(b,c,d,e,f,g,h,i,j) 
+4,4'-DDD(b,c,d,e,f,g,h,j) 
+Hexachlorobenzene(b,c,d,e,f,g,h,i,j) 
+α-hexachlorocyclohexane (HCH)(b,c,d,e,f,g,h,j) 
+γ-HCH(b,c,d,e,f,g,h,j) 
+heptachlor epoxide(b,c,d,e,f,g,i,j) 
+cis-chlordane(b,c,d,e,f,g,h,j) 
+trans-chlordane(b,c,d,e,f,g,h,j) 
+oxychlordane(b,c,d,e,f,g,h,i,j) 
+cis-nonachlor(b,c,d,e,f,g,h,i,j) 
+trans-nonachlor(b,c,d,e,f,g,h,i,j) 
+dieldrin(b,c,e,f,g,h,i,j) 
+mirex(b,c,d,e,f,g,h,i,j) 
+
+±  14 
+91 
+8 
+± 
+233 
+1.4 
+± 
+14.2 
+±  19 
+497 
+± 
+19.5 
+± 
+120 
+± 
+30.6 
+16.9 
+± 
+3.18  ± 
+± 
+10.7 
+± 
+48.1 
+± 
+11.8 
+± 
+21.2 
+± 
+45.8 
+±  16 
+198 
+± 
+50.1 
+± 
+31.0 
+
+1.2 
+5 
+1.5 
+1.4 
+0.01 
+0.09 
+1.6 
+0.5 
+1.1 
+3.3 
+
+4.1 
+3.4 
+
+(b) GC-ECD analysis on dual columns, DB-5 and DB-XLB following PFE using DCM. 
+(c) GC/MS(I) analysis on HP-5MS column following PFE using DCM. 
+tine:acetone  (volume  fraction). 
+(d) GC/MS(II) analysis on DB-XLB column following Soxhlet extraction using 1:1 hexane:acetone (volume fraction). 
+(e) GC/MS(IIIa) analysis on DB-5MS column following PFE using DCM. 
+(f) GC/MS(IIIb) analysis on DB-5MS column following PFE using DCM. 
+(g) GC/MS(IV) analysis on DB-17MS column following PFE using DCM. 
+(h) GC/MS(V) analysis on DB-XLB column following PFE using DCM. 
+(i)  GC/MS(VI) analysis on DB-XLB column following Soxhlet extraction using DCM. 
+(j)  Combination of consensus means from four interlaboratory comparison exercises. 
+ 
+
+Table 3.  Certified Mass Fraction Values for Selected PBDE Congeners(a) in SRM 1945 
+1945
+
+iss  Fraction  Values 
+
+ 
+ 
+ 
+
+ 
+(2,2',4,4'-Tetrabromodiphenyl ether)(b,c,d,e) 
+PBDE  47 
+(2,2',4,4',5-Pentabromodiphenyl ether)(b,d,e) 
+PBDE  99 
+PBDE  100  (2,2',4,4',6-Pentabromodiphenyl ether)(b,c,d,e) 
+PBDE  153  (2,2',4,4',5,5'-Hexabromodiphenyl ether)(b,c,d,e) 
+PBDE  154  (2,2',4,4',5,6'-Hexabromodiphenyl ether)(b,c,d,e) 
+
+Mass Fraction 
+(μg/kg wet mass) 
+
+± 
+39.6 
+± 
+18.9 
+10.3 
+± 
+8.34  ± 
+± 
+13.3 
+
+0.2(f) 
+2.3(g) 
+1.1(f) 
+0.55(f) 
+1.7(f) 
+
+ 
+(a) PBDE congeners are numbered according to IUPAC rules. 
+(b) GC/MS(IIIa) analysis on DB-5MS column following PFE using DCM. 
+(c) GC/MS(V) analysis on DB-XLB column following PFE using DCM. 
+(d) GC/MS(VII) analysis on DB-5MS column following PFE using DCM. 
+(e) Combination of consensus means from four interlaboratory comparison exercises. 
+(f)  Certified values are weighted means of the results for four data sets [9].  The uncertainty listed with each value is an expanded 
+uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence) calculated by combining a between-method 
+variance incorporating inter-method bias with a pooled within-source variance following the ISO/JCGM and NIST Guides [10]. 
+(g) Certified values are unweighted means of the results for three data sets.  The uncertainty listed with the value is an expanded 
+uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [11] with a pooled, 
+within-method variance following the ISO/JCGM and NIST Guides [10]. 
+ 
+
+ 
+
+SRM 1945 
+
+Page 6 of 9 
+
+Table 4.  Reference Mass Fraction Values for Selected PCB Congeners(a), Chlorinated Pesticide, and PBDE 
+Congeners(a) in SRM 1945 
+
+[ass  Fraction  Values 
+
+ 
+ 
+ 
+ 
+
+(2,3,3',4'-Tetrachlorobiphenyl)(b,c,d) 
+(2,3,3',4'-Tetrachlorobiphenyl)(b,c,d,f,g,h) 
+(3,3',4,4'-Tetrachlorobiphenyl)(j) 
+(2,2',3,3',4-Pentachlorobiphenyl)(b,c,d,g,h) 
+
+PCB  56 
+PCB  74 
+PCB  77 
+PCB  82 
+PCB  119  (2, 3',4,4',6-Pentachlorobiphenyl)(c,d,g) 
+PCB  126  (3,3',4,4',5-Pentachlorobiphenyl)(j) 
+PCB  130  (2,2',3,3',4,5'-Hexachlorobiphenyl)(c,g) 
+PCB  132  (2,2',3,3',4,6'-Hexachlorobiphenyl)(d,f,k) 
+PCB  137  (2,2',3,4,4',5-Hexachlorobiphenyl)(c,d,g) 
+PCB  157  (2,3,3',4,4',5'-Hexachlorobiphenyl)(b,c,f,g,h) 
+PCB  163  (2,3,3',4',5,6-Hexachlorobiphenyl)(c,f,g,h) 
+PCB  169  (3,3',4,4',5,5'-Hexachlorobiphenyl)(j) 
+PCB  172  (2,2',3,3',4,5,5'-Heptachlorobiphenyl)(b,c,d,g) 
+PCB  175  (2,2',3,3',4,5,6'-Heptachlorobiphenyl)(c,d,g) 
+PCB  176  (2,2',3,3',4,6,6'-Heptachlorobiphenyl)(c,d,g) 
+PCB  177  (2,2',3,3',4',5,6-Heptachlorobiphenyl)(c,d,g) 
+PCB  178  (2,2',3,3',5,5',6-Heptachlorobiphenyl)(c,d,g) 
+PCB  185  (2,2',3,4,5,5',6-Heptachlorobiphenyl)(c,d) 
+PCB  191  (2,3,3',4,4',5',6-Heptachlorobiphenyl)(c,d) 
+PCB  193  (2,3,3',4',5,5',6-Heptachlorobiphenyl)(g,h) 
+PCB  196  (2,2',3,3',4,4',5,6'-Octachlorobiphenyl)(c,d,g) 
+PCB  197  (2,2',3,3',4,4',6,6'-Octachlorobiphenyl)(c,d,g) 
+PCB  199  (2,2',3,3',4,5,5',6'-Octachlorobiphenyl)(c,d,g) 
+PCB  200  (2,2',3,3',4,5,6,6'-Octachlorobiphenyl)(c,d,g) 
+PCB  202  (2,2',3,3',5,5',6,6'-Octachlorobiphenyl)(c,d,g) 
+PCB  205  (2,3,3',4,4',5,5',6-Octachlorobiphenyl)(c,g) 
+PCB  207  (2,2',3,3',4,4',5,6,6'-Nonachlorobiphenyl)(c,d,g) 
+PCB  208  (2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl)(c,d,g) 
+Pentachlorobenzene(c,g) 
+PBDE 28 
+PBDE 155  (2,2',4,4',6,6'-Hexabromodiphenyl ether)(g,l) 
+2'-MeOPBDE 68 (2'-methoxy-2,3',4,5'-Tetrabromodiphenyl ether)(l) 
+6'-MeO-PBDE 47 (6'-methyoxy-2,2',4,4'Tetrabromodiphenyl ether)(l) 
+
+(2,4,4'-Tribromodiphenyl ether)(g,l) 
+
+Mass Fraction 
+(μg/kg wet mass) 
+1.8(e) 
+± 
+7.5 
+7.8(i) 
+21.6 
+± 
+0.061(e) 
+0.416  ± 
+1.1(i) 
+± 
+4.5 
+1.0(e) 
+3.7 
+± 
+0.048(e) 
+0.182  ± 
+0.6(e) 
+± 
+10.2 
+4.8(e) 
+± 
+21.1 
+1.4(e) 
+± 
+7.7 
+0.67(i) 
+± 
+3.27 
+8.1(i) 
+46.7 
+± 
+0.041(e) 
+0.158  ± 
+3.4(i) 
+± 
+12.4 
+0.98(e) 
+± 
+4.25 
+1.0(e) 
+± 
+6.2 
+1.2(e) 
+± 
+28.6 
+1.7(e) 
+± 
+20.7 
+0.32(e) 
+± 
+3.40 
+0.45(e) 
+± 
+1.57 
+1.5(e) 
+± 
+8.7 
+8.4(e) 
+± 
+74.5 
+0.79(e) 
+± 
+5.74 
+8.0(e) 
+± 
+84.2 
+0.32(e) 
+± 
+4.30 
+7.0(e) 
+± 
+29.0 
+0.14(e) 
+± 
+2.30 
+2.4(e) 
+± 
+14.5 
+1.7(e) 
+± 
+23.9 
+0.53(e) 
+± 
+2.09 
+0.37(e) 
+± 
+2.66 
+0.93(e) 
+± 
+4.75 
+3.3(m) 
+± 
+53.5 
+4.7(m) 
+± 
+66.5 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [4] and later revised by Schulte and 
+Malisch [5] to conform with IUPAC rules.  When two or more congeners are known to coelute under the GC analysis conditions 
+used, the PCB congener listed first is the major component and the additional congeners may be present as minor components.  
+The  quantitative  results  are  based on  the  response of  the  congener  listed  first.   PBDE  congeners are  numbered  according  to 
+IUPAC rules.  
+
+(b) GC/MS(IIIa) analysis on DB-5MS column following PFE using DCM. 
+(c) GC/MS(IIIb) analysis on DB-5MS column following PFE using DCM. 
+(d) Combination of consensus means from four interlaboratory comparison exercises. 
+(e) Reference values are unweighted means of the results for two or three data sets.  The uncertainty listed with the value is an 
+expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [11] with a 
+pooled, within-method variance following the ISO/JCGM and NIST Guides [10]. 
+(f) GC-ECD analysis on dual columns, DB-5 and DB-XLB following PFE using DCM. 
+(g) GC/MS(V) analysis on DB-XLB column following PFE using DCM. 
+(h) GC/MS(VI) analysis on DB-XLB column following Soxhlet extraction using DCM. 
+(i)  Reference  values  are  weighted  means  of  the  results  for up  to  six  data  sets [9].   The  uncertainty  listed  with  each  value  is  an 
+expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  calculated  by  combining  a 
+‘ce  variance  following  the  ISO/JCGM  and 
+between-method variance incorporating inter-method bias with a pooled within-source variance following the ISO/JCGM and 
+NIST Guides [10]. 
+
+(j) Non-ortho PCB method plus two sets of data from interlaboratory study. 
+(k) GC/MS(IV) analysis on DB-17MS column following PFE using DCM. 
+(l)  GC/MS(VII) analysis for PBDEs and MeO-PBDEs. 
+(m) The reference values are the means of results obtained by NIST using one analytical technique. The expanded uncertainty, U, is 
+calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte. 
+
+The  exy
+
+SRM 1945 
+
+Page 7 of 9 
+
+Table 5.  Reference Concentrations for Selected Toxaphene Congeners and Total Toxaphene(a) in SRM 1945 
+
+otal  Toxaphene 
+
+ 
+ 
+ 
+ 
+
+Mass Fraction 
+(μg/kg wet mass) 
+
+TOX 26(b)  (2-endo, 3-exo, 5-endo, 6-exo, 8,8,10,10-octachlorobornane) 
+TOX 50(b)  (2-endo, 3-exo, 5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane) 
+TOX 62(b)  (2,25,5,8,9,9,10,10-nonachlorobornane) 
+Total Toxaphene 
+
+41.8 
+69.7 
+37.2 
+
+1220 
+
+2.8 
+5.5 
+3.8 
+
+± 
+± 
+± 
+±  100 
+
+ 
+(a) Methods described in more detail in reference 12.  The reference values are the means of results obtained by NIST using one 
+analytical technique. The expanded uncertainty, U, is calculated as U = kuc, where uc is one standard deviation of the analyte mean, 
+and the coverage factor, k, is determined from the Student’s t-distribution corresponding to the associated degrees of freedom and 
+95 % confidence level for each analyte. 
+
+(b) The two-digit nomenclature is the “Parlar System” described in reference 13. 
+ 
+
+reference 
+
+REFERENCES 
+
+ 
+Biphenyl
+[1]  Schantz, M.; Koster, B.J.; Oakley, L.M.; Schiller, S.B.; Wise, S.A.; Certification of Polychlorinated Biphenyl 
+Congeners and Chlorinated Pesticides in a Whale Blubber Standard Reference Material; Anal. Chem., Vol. 67, 
+pp. 901–910 (1995). 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government 
+Printing  Office:    Washington, DC  (2000);  available  at:  http://www.nist.gov/srm/publications.cfm  (accessed 
+Apr 2016). 
+
+[3]  Zeisler, R.;  Langland, J.K.;  Harrison, S.H.;  Cryogenic  Homogenization  of  Biological  Tissues;  Anal.  Chem.; 
+
+Vol. 55, pp. 2431–2434 (1983). 
+
+[4]  Ballschmiter, K.;  Zell, M.;  Analysis  of  Polychlorinated  Biphenyls  (PCB)  by  Glass  Capillary  Gas 
+Chromatography - Composition of Technical Aroclor- and Clophen-PCB Mixtures; Fresenius Z. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+[5]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius Z. Anal. Chem., Vol. 314, pp. 545–551 (1983). 
+[6]  Kucklick, J.R.;  Christopher, S.J.;  Becker, P.R.;  Pugh, R.S.;  Porter, B.J.;  Schantz, M.M.;  Mackey, E.A.; 
+Wise, S.A.;  Rowles, T.K.;  Description  and  Results  of  the  2000  NIST/NOAA  Interlaboratory  Comparison 
+Exercise Program for Organic Contaminants and Trace Elements in Marine Mammal Tissues; NISTIR 6849; 
+National Institute of Standards and Technology, U.S. Department of Commerce: Gaithersburg, MD (2002). 
+[7]  Kucklick, J.R.; Pugh, R.S.; Becker, P.R.; Schantz, M.M.; Wise, S.A.; Rowles, T.K.; Description and Results of 
+the  2001  NIST/NOAA  Interlaboratory  Comparison  Exercise  Program  for  Organic  Contaminants  in  Marine 
+Mammal Tissues, NISTIR 7318; National Institute of Standards and Technology, U.S. Department of Commerce: 
+Gaithersburg, MD (2006). 
+
+[8]  Kucklick, J.R.; Pugh, R.S.; Becker, P.R.; Schantz, M.M.; Wise, S.A.; Rowles, T.K.; Description and Results of 
+the 2003 Interlaboratory Comparison Exercise Program for Organic Contaminants in Marine Mammal Tissues, 
+NISTIR 7269;  National  Institute  of  Standards  and  Technology,  U.S.  Department  of  Commerce: 
+Gaithersburg, MD (2005). 
+
+[9]  Ruhkin, A.L.; Vangel, M.G.; Estimation of a Common Mean and Weighted Means Statistics; J. Am. Stat. Assoc., 
+
+Vol. 93, pp. 303–308 (1998). 
+
+[10]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Apr 2016). 
+
+[11]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000).  
+
+[12]  Kucklick, J.R.;  Tuerk, K.J.S.;  Vander Pol, S.S.;  Schantz, M.M.;  Wise, S.A.;  Polybrominated  Diphenyl  Ether 
+Congeners and Toxaphene in Selected Marine Standard Reference Materials; Anal. Bioanal. Chem., Vol. 378, 
+pp. 1147–1151 (2004). 
+
+[13]  Hainzl, D.; Burhenne, J.R.; Barlas, H.; Parlar, H.; Spectroscopic Characterization of Environmentally Relevant 
+C10-Chloroterpenes  from  a  Photochemically  Modified  Toxaphene  Standard;  Anal.  Bioanal.  Chem.,  Vol. 351,  
+pp. 271–285 (1995). 
+
+SRM 1945 
+
+Page 8 of 9 
+
+APPENDIX A 
+
+ 
+The laboratories listed below performed measurements that contributed to the certification of SRM 1945 Organics in Whale 
+Blubber. 
+ 
+Baltic Sea Research Institute (Rostock, Germany) 
+Center for Environment, Fisheries, and Aquaculture Science (Burnam-on-Crounch, Essex, United Kingdom) 
+Department of Biology, University of Ottawa (Ottawa, Canada) 
+Ehime University, Center for Marine Environmental Studies (Ehime, Japan) 
+Environment Canada, Fisheries and Oceans Canada, Freshwater Institute (Winnipeg, Canada) 
+Environment Canada, National Water Research Insititute (Burlington, Ontario, Canada) 
+Fisheries and Oceans Canada, Institute of Ocean Sciences (Sidney, British Columbia, Canada) 
+Kumamoto University, Department of Environmental Sciences (Kumamoto, Japan) 
+Lancaster University, Department of Environmental Sciences (Bailrigg, Lancaster, United Kingdom) 
+Michigan State University, National Food Safety and Toxicology Center (East Lansing, Michigan, USA) 
+Mississippi State Chemical Lab. (Mississippi, State, Mississippi, USA) 
+National Environmental Research Institute, Department of Environmental Chemistry (Roskilde, Denmark) 
+National Oceanic and Atmospheric Administration (NOAA), CCEHBR (Charleston, South Carolina, USA) 
+NOAA, Northeast Fisheries Science Center (Sandy Hook, New Jersey, USA) 
+NOAA, Northwest Fisheries Science Center (Seattle, Washington, USA) 
+Norwegian School of Veterinary Science (Oslo, Norway) 
+Oklahoma Animal Disease and Diagnostic Laboratory, Oklahoma State University (Stillwater, Oklahoma, USA) 
+Organic Chemistry Institute, Deparment of Instrumental Analysis and Environmental Chemistry (Madrid, Spain) 
+Texas A&M University, Geochemical and Environmental Research Group (College Station, Texas, USA) 
+Toxicology Center, University of Antwerp (Antwerp, Begium) 
+University of Barcelona (Barcelona, Spain) 
+University of Connecticut, Environmental Research Institute (Storrs, Connecticut, USA) 
+University of Georgia System, Skidaway Institute of Oceanography (Savannah, Georgia, USA) 
+University of Pennsylvania, School of Veterinary Medicine (Kennett Square, Pennsylvania, USA) 
+University of Utah, Energy and Geosciences Institute (Salt Lake City, Utah, USA) 
+Wadsworth Center, New York State Department of Health (Albany, New York, USA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate Revision History:  13 April 2016 (Change of expiration date; editorial changes); 06 December 2007 (Added certified and reference 
+values  for  additional  PCB  congeners,  pesticides,  and  reference  values  for  selected  PBDE  and  toxaphene  congeners;  revised  expiration  date); 
+16 June 1994 (original report date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 948-3730; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 1945 
+
+Page 9 of 9 
+
+

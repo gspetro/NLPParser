@@ -1,0 +1,305 @@
+﻿ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+,
+I
+P
+
+ 
+.
+
+ 
+n
+a
+
+gent  OF  c 
+
+ 
+”
+8
+0
+2
+
+ 
+.
+4
+
+‘States  oF  © 
+
+National Institute of Standards & Technology 
+
+Certificate of Analysis 
+Standard Reference Material 1595 
+
+ 
+
+ 
+Tripalmitin 
+
+ 
+wr  use 
+This Standard Reference Material (SRM) is certified as a chemical of known purity.  It is intended primarily for use 
+or  the 
+in the calibration and standardization of procedures for the chemical analysis of serum for triglycerides and for the 
+critical evaluation of routine working or secondary reference materials used in these procedures.  A unit of SRM 1595 
+consists of 2 g of material. 
+ 
+Certified Value:  The certified tripalmitin content is given below with the associated uncertainty that is based on the 
+expected upper limit for bias between the high performance liquid chromatography (HPLC) and nuclear  magnetic 
+resonance (NMR) methods used in the certification.  
+ 
+
+ 
+ 
+Reference Values:  The following weight percent values are not certified and the uncertainty provided are plus or minus 
+one standard deviation of the mean.  
+ 
+
+Tripalmitin 
+
+ 
+
+ 
+
+Unknown glyceride 
+Methanol 
+Insoluble matter 
+Residue on ignition 
+
+Weight Percent 
+(%) 
+
+99.5  ± 
+
+0.2 
+
+Weight Percent 
+(%) 
+
+0.5 
+± 
+0.0057  ± 
+0.0020  ± 
+± 
+0.001 
+
+0.1 
+0.0002 
+0.0009 
+0.0005 
+
+ 
+ 
+Expiration  of  SRM  Certificate:    The  certification  of  SRM 1595  is  valid,  within  the  measurement  uncertainty 
+d  stored  in  accordance  with  instructions 
+specified, for five years from date of purchase, provided the SRM is handled and stored in accordance with instructions 
+e”).  The  certification  is  nullified  if  the  SRM  is  damaged,
+given in this certificate (see “Instructions for Storage and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical changes occur that affect the certification, NIST will notify the purchaser.  Registration (see attached sheet 
+or register online) will facilitate notification. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  was  performed  by  B. Coxon 
+formerly of the NBS Organics Analytical Research Division. 
+ 
+This Certificate of Analysis has undergone editorial revision to reflect program and organizational changes at NIST and 
+at  the  Department  of  Commerce.    No  attempt  was  made  to  reevaluate  the  certificate  values  or  any  technical  data 
+presented on this certificate. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  12 May 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos Gonzalez, Chief 
+Chemical Sciences Division 
+
+NBS 
+
+ 
+
+SRM 1595 
+
+Page 1 of 3 
+
+Analytical measurements were performed at NBS in the former Organics Analytical Research Division by A. Cohen, 
+B. Coxon, M. Luzarraga, S. Margolis, L.T. Sniegoski, and E. White V.  Microchemical analysis were performed by 
+Gaibraith Laboratories, Inc. (Knoxville, TN) and Swarzkopf Microanalytical Laboratory (Woodside, NY). 
+ 
+Statistical analysis of the data was provided by R. Paule of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+SOURCE, PREPARATION AND ANALYSIS(1) 
+ 
+The tripalmitin was obtained from Nu-Chek-Prep, Inc. (Elysian, MN). 
+ 
+The identity of the SRM was confirmed by proton and 13C NMR spectroscopy, by the observation of a molecular ion 
+at  a  mass  to  charge  ratio  of  806  in  its  electron  impact  mass  spectrum,  and  by  melting  point  68.2 °C  to  69.0 °C 
+(uncorrected). 
+ 
+The tripalmitin content of the SRM was determined by HPLC to be 99.5 % and by proton NMR spectroscopy to be 
+100.0 %.    In  each  case,  the  tripalmitin  value  was  calculated  by  subtraction  of  the  impurities  determined  by  the 
+respective methods from 100 %.  For example, the tripalmitin content determined by proton NMR spectroscopy was 
+obtained by subtraction of the methanol content (0.0057 %).  (The contents of insoluble matter and residue on ignition 
+make negligible contributions to the calculation of tripalmitin content.)  Apart from methanol, no other impurities 
+were detected by direct NMR spectroscopy of the SRM, and therefore the proton integral remaining after subtraction 
+of the methanol signal from the total integral measured by NMR was used as a measure of the tripalmitin content of 
+the SRM. 
+ 
+The  HPLC  method  resolves  positional  isomers  of  mixed  triglycerides,  O-acetyl-di-O-palmitylglycerols,  and 
+di-O-acetyl-O-palmitylglycerols,  and  was  used  to  assess  both  the  purity  and  homogeneity  of  the  SRM.    For  this 
+purpose, ten selected samples of the SRM were analyzed by HPLC and five of these samples were selected randomly 
+for duplicate determinations.  
+ 
+HPLC of the  SRM showed a strong peak for tripalmitin with retention constant (capacity factor) k’ = 11.25 and a 
+weak  impurity  peak  at  k’ = 6.33.    Retention  constant  k’ = (Elution  Volume - Void  Volume)/Void  Volume.    The 
+intensity of the impurity peak was below the detection threshold of the HPLC integrator in use, and so, for the purpose 
+of purity and homogeneity testing, the HPLC data was acquired and processed by means of an NMR data acquisition 
+system.  The proportion of impurity was calculated as the ratio of the peak areas of the impurities to the sum of the 
+peak areas of the impurities plus the tripalmitin.  The assumption was made that tripalmitin and the impurity have a 
+similar absorbance at 215 nm.  This assumption is reasonable for saturated triglycerides of similar structure.  
+ 
+The  purity  of  the  SRM  was  additional  assessed  by  thin  layer  chromatography (TLC).    Under  certain  specific 
+conditions, the SRM showed an intense spot for tripalmitin at Rt 0.30 and a very faint impurity spot at Rt 0.09.  The 
+mobility  of 
+that  of  palmitic  acid,  palmityl  alcohol,  methyl  
+to 
+palmitate,  1-O-palmitriglycerol,  2-O-palmitriglycerol,  1,2-di-O-palmitriglycerol,  1,3-di-O-palmitriglycerol, 
+1,3-di-O-acetyl-2-O-palmitylglycerol,  
+tri-O-acetylglycerol, 
+3-O-acetyl-1,2-di-O-palmitylglycerol, or 2-O-acetyl-1,3-di-O-palmitylglycerol.  
+ 
+Proton NMR spectroscopy of an impurity fraction isolated by repeated HPLC of the SRM indicated that the impurity 
+is most likely a triglyceride of similar structure.  No signals for olefinic protons were detected in the spectrum of the 
+impurity concentrate thus ruling out the possibility of an unsaturated triglyceride.  
+ 
+The integrators of the HPLC peaks for tripalmitin and the unknown glyceride indicated satisfactory homogeneity for 
+the SRM.  
+  
+The content of insoluble matter in the SRM was determined by dissolution and filtration of three, three-unit pools of 
+the SRM (~ 6 g each) in chloroform (80 mL) that had been prefiltered through a micropore filter (type FY, 0.5 µm). 
+ 
+
+2,3-di-O-acetyl-1-O-palmitylglycerol, 
+
+impurity  did  not  correspond 
+
+the 
+
+                                                           
+
+(1)   Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1595 
+
+Page 2 of 3 
+
+The  residue  on  ignition  was  determined  by  volatilization  of  three,  three-unit  pools  of  the  SRM  (~ 6 g  each)  from 
+covered,  tared  30-mL  platinum  crucibles  followed  by  two  treatments  of  the  residues  with  100 µL  of  concentrated 
+sulfuric acid and ignition of the crucibles at 800 °C ± 25 °C for 15 min. 
+ 
+Microchemical  analysis  yielded  these  percentages:  carbon,  75.96 % ± 0.42 %;  hydrogen  12.25 % ± 0.05 %.  
+Calculated percentages based on C51H98O6 are 75.87 % and 12.24 %, respectively, and the reported uncertainties are 
+plus or minus one standard deviation of the mean.  
+ 
+NOTICE AND WARNING TO USERS 
+ 
+SRM 1595 IS INTENDED FOR RESEARCH USE. 
+ 
+STORAGE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 1595 should be stored in a tightly‐closed bottle at or below room temperature (–20 °C to 23 °C is 
+recommended).    For  extended  periods  of  storage  after  opening,  the  material  should  be  kept  at  or  below  room 
+temperature in a desiccator under inert gas.  It should be allowed to warm to room temperature before opening. 
+ 
+Use:  A stock solution of tripalmitin may be prepared by a method similar to that used triolein [1].  Dissolve 0.100 g 
+of tripalmitin in chloroform contained in a 100-mLvolumetric flask and dilute to volume with chloroform.  Tightly 
+stoppered, this stock standard solution is stable for several months in the dark. 
+ 
+A working tripalmitin standard solution should be prepared daily before use by dilution one volume of stock solution 
+with nine volumes of chloroform.  A standard quantity of glycerol may be generated from the working solution by 
+saponification according to an available procedure [1]. 
+ 
+ 
+ 
+ 
+
+ume  with 
+
+REFERENCES 
+
+ 
+[1]  Wybenga, D.R.;  Inkpen, J.A.;  Clinical  Chemistry  Principles  and  Technics;  2nd  ed.;  Henry, R.J;  Cannon, D.C.; 
+
+Winkelman, J.W., Eds.; Harper & Row: Hagerstown, MD, p. 1458 (1974). 
+
+  
+  12 May 2016  (Updated  storage  conditions;  editorial  changes);  06 January 2016 (Editorial  changes); 
+ 
+date).   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificate  Revision  History: 
+06 July 1983 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+948- 
+accomplished  by  contacting 
+(301)  948-3730;  
+ 
+e-mail mailto:srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301)  975-2200; 
+
+telephone 
+
+fax 
+
+SRM 1595 
+
+Page 3 of 3 
+
+

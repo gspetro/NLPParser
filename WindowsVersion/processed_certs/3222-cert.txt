@@ -1,0 +1,420 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3222 
+ 
+Cigarette Tobacco Filler 
+
+ 
+This Standard Reference Material (SRM) is intended primarily for use in evaluating the accuracy of procedures for 
+the  determination  of  nicotine (NIC);  tobacco  specific  nitrosamines (TSNAs),  N-nitrosonornicotine (NNN)  and 
+4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK);  and  moisture  in  tobacco.    It  is  also  intended  for  use  in 
+validating  working  or  secondary  reference  materials.    SRM 3222  was  prepared  from  air-cured,  low  nicotine 
+tobacco [1].  A unit of SRM 3222 consists of 20 jars, each containing approximately 10 g of cigarette tobacco filler. 
+ 
+The  development  of  SRM 3222  was  through  collaboration  with  the  National  Institute  of  Standards  and 
+Technology (NIST) and the Food and Drug Administration Center for Tobacco Products (FDA CTP). 
+ 
+Certified  Mass  Fraction  Values:    The  certified  mass  fraction  values  for  nicotine,  NNN,  NNK,  and  volatiles  in 
+SRM 3222 are provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in 
+its accuracy in that all known or suspected sources of bias  have been investigated or taken into account [2].  The 
+certified values are based on the results of NIST measurements using isotope dilution liquid chromatography with 
+tandem  mass spectrometry (ID-LC-MS/MS)  with different sample preparation techniques, and  with  measurements 
+performed at the U.S. Centers for Disease Control and Prevention (CDC) and commercial laboratories. 
+ 
+Reference  Mass  Fraction  Values:    Reference  mass  fraction  values  for  volatiles  and  moisture  in  SRM 3222,  are 
+reported on an as-received basis in Table 2.  A NIST reference value is a noncertified value that is the best estimate 
+of the true value based on available data; however, the value does not meet the NIST criteria for certification [2] and 
+is  provided  with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all 
+sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  
+The reference mass fraction values were derived from results reported by NIST and/or commercial laboratories.  
+ 
+Expiration  of  Certification:    The  certification  of  SRM 3222  is  valid,  within  the  measurement  uncertainty 
+stored  in  accordance  with  instructions  given  in 
+specified, until 30 September 2021, provided the SRM is handled and stored in accordance with instructions given in 
+certification  is  nullified  if  the  SRM  is  damaged, 
+this  certificate  (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of SRM 3222 was performed by L.C. Sander 
+of the NIST Chemical Sciences Division.   Coordination of other aspects of  SRM development  was performed by 
+M. Walters, T. Phillips, and M. Holman of the FDA CTP.  Acquisition of the material was performed by M. Walters. 
+ 
+Measurements  were  performed  by  J.S. Pritchett,  Y.  C. Daniels,  L.C. Sander,  L. Wood,  and  B. Lang  of  the  NIST 
+Chemical Sciences Division, and by G. Lee, J. Lisko, B. Lane, L. Valentin, B. Kimbrell, P. Kuklenyik, and S. Stanfill 
+at the CDC. 
+ 
+Statistical consultation was provided by J. Yen of the NIST Statistical Engineering Division. 
+ 
+Analyses  were  also  performed  by  commercial  laboratories:    Enthalpy  Analytical, Inc.  (Richmond, VA),  Global 
+Laboratory Services, Inc. (Wilson, NC), and Microbac Laboratories, Inc. (Wilson, NC). 
+ 
+
+2s  Division. 
+
+fic 
+
+ 
+4
+
+ 
+ 
+ 
+99
+Gaithersburg, MD 20899 
+Certificate Issue Date:  23 August 2016 
+
+  
+
+SRM 3222 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 4 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials.   
+ 
+NOTICE AND WARNINGS TO USERS:  For research use. Not for human consumption. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  SRM 3222 is stored at –20 ºC at NIST, and is shipped cold.  Upon receipt, the material should be stored at 
+controlled temperature (–20 °C to 0 °C), in unopened bottles, until required for use. 
+ 
+thawed  to  room  temperature 
+Use:    Bottles  of  the  SRM  to  be  analyzed  should  be  removed  from  the  freezer  and  thawed  to  room  temperature 
+(20 °C to 25 °C).  It is recommended that the contents of the jar be ground prior to removal of subsamples.  One gram 
+or larger test portions should be analyzed as received (i.e., without drying) and results converted to a dry-mass basis 
+through a correction factor for volatiles. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+lied  by  22nd  Century  Group,  Inc., 
+Source and Preparation:  Air-cured, low nicotine tobacco was processed and supplied by 22nd Century Group, Inc., 
+(subcontracted by RTI International) using normal procedures used for the production of cigarette tobacco filler.  The 
+dried and chopped leaves (referred to as “cut rag”; 30 cuts per inch) were blended and enclosed in plastic bags that 
+were placed in cardboard cartons containing approximately 68.2 kg (150 lbs) of tobacco.  These materials were stored 
+at –20 °C prior to packaging.  Four ounce jars were filled to capacity with tobacco, without additional processing.  A 
+unit  of  SRM 3222  consists  of  a  box  containing  20 jars  of  cigarette  tobacco  filler,  with  each  jar  containing 
+approximately 10 g of the bulk material. 
+ 
+Analysis:    Value  assignment  of  levels  of  nicotine  and  TSNAs  in  SRM 3222  was  based  on  the  results  from 
+measurements carried out at NIST using ID-LC-MS/MS methods.  Different approaches were utilized in preparing 
+samples for analysis; in each case, internal standards consisting of deuterated analogs of nicotine, NNN, and NNK 
+were added prior to sample preparation. 
+ 
+One  gram  samples  of  tobacco  were  finely  ground  using  an  automated  mortar  and  pestle.    Aliquots  of  the  labeled 
+internal  standard  solutions  were  added  to  approximately  0.250 g  portions  of  the  ground  material  in  15 mL 
+polypropylene tubes.  Ten milliliters of 100 mM aqueous ammonium acetate were added to each tube, and then vortex 
+mixed for 60 minutes to perform the extraction.  After the extraction period, the samples were filtered using 0.45 μm 
+PVDF membrane syringe filters and the filtrate was transferred into autosampler vials for analysis. 
+ 
+Samples were also extracted with methanol, using a different mixing approach.  The contents of a jar were ground, 
+and one gram subsamples were processed.  After the addition of the internal standards, five milliliters of methanol 
+were added to each sample, and the slurry was processed by rotational inversion mixing at 60 rpm, for a period of 
+18 h.    After  extraction,  the  slurries  were  centrifuged  for  10 min  at  3750 rpm  (3210 g).    Unfiltered  aliquots  of  the 
+supernatant solution were placed in autosampler vials for analysis.  Samples were also extracted by the same method, 
+but using 100 mM aqueous ammonium acetate. 
+ 
+Volatile components were determined by multiple methods.  Approximately 0.5 g samples of tobacco were placed 
+into weighed glass containers to an approximate depth of two centimeters.  For determination by oven drying, the 
+samples were placed in a forced-air oven at either 80 ºC or 100 ºC for three hours, removed and allowed to cool in a 
+desiccator,  and  reweighed.    For  determination  by  desiccator  drying,  samples  were  placed  in  a  desiccator  over 
+magnesium perchlorate.  Masses were recorded at seven day intervals until a constant mass was achieved at 35 days.  
+Moisture measurements were performed with a coulometric Karl Fischer oven method [3]. 
+ 
+Homogeneity Analysis:  A stratified random sampling scheme was devised to test for homogeneity across the lot of 
+bottles.  There was no apparent trend in the data when plotted against the sequence in which the bottles were prepared. 
+ 
+
+of  levels 
+
+con
+
+ 
+
+                                                           
+
+(1) Certain commercial instruments, materials, or processes are identified in this certificate to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology,  nor  does  it  imply  that  the  instruments,  materials,  or  processes  identified  are  necessarily  the  best  available  for  the 
+purpose. 
+SRM 3222 
+
+Page 2 of 4 
+
+ 
+
+Certified Mass Fraction Values:  The uncertainty provided with each value is an expanded uncertainty about the 
+mean  to  cover  the  measurand  with  approximately  95 %  confidence  using  statistical  methods  consistent  with  the 
+ISO/JCGM Guide and with its Supplement 1 [4,5].  The expanded uncertainty is calculated as U = kuc, where uc is the 
+combined standard uncertainty and k is a coverage factor corresponding to approximately 95 % confidence for each 
+analyte [4].  The measurand is the total mass fraction for each analyte listed in Table 1.  Metrological traceability is 
+the SI derived unit of mass fraction (expressed as milligrams per gram, nanograms per gram, or grams per gram). 
+ 
+ 
+
+Table 1.  Certified Mass Fraction Values for Nicotine, TSNAs, and Volatiles in SRM 3222 
+
+Values  for  Nicotine, 
+
+ 
+
+Mass Fraction(a) 
+(as-received) 
+
+Mass Fraction(b) 
+(dry-mass basis) 
+
+Nicotine 
+
+0.117 mg/g  ± 
+
+0.018 mg/g 
+
+0.132 mg/g ± 
+
+0.021 mg/g 
+
+NNN 
+NNK 
+
+ 1440 ng/g 
+  31.3 ng/g 
+
+90 ng/g 
+
+2.5 ng/g 
+
+  1630 ng/g 
+ 
+
+35.4 ng/g 
+
+±  110 ng/g 
+± 
+
+2.8 ng/g 
+
+ 
+
+ 
+
+± 
+± 
+
+± 
+
+Volatiles(c) 
+
+0.115 g/g 
+
+0.002 g/g 
+
+ 
+
+ 
+
+k 
+
+2.00 
+
+2.00 
+2.00 
+
+2.00 
+
+ 
+(a) Values are reported on an “as-received” basis.   
+(b) Values are reported on a dry-mass basis using the certified value for volatiles as a conversion factor. 
+(c) Volatiles are reported based on data obtained for oven drying at 80 ºC for three hours and desiccator drying over magnesium 
+
+perchlorate for 35 days. 
+
+Values: 
+
+ 
+ 
+Reference Mass Fraction Values:  The uncertainty provided with each value is an expanded uncertainty about the 
+mean  to  cover  the  measurand  with  approximately  95 %  confidence  using  statistical  methods  consistent  with  the 
+ISO/JCGM Guide and with its Supplement 1 [4,5].  The expanded uncertainty is calculated as U = kuc, where uc is the 
+combined standard uncertainty and k is a coverage factor corresponding to approximately 95 % confidence for each 
+analyte [4].  The measurand is the mass fraction for each analyte listed based on the indicated method.  Metrological 
+traceability is the SI derived unit of mass fraction (expressed as a percent). 
+ 
+ 
+
+Table 2.  Reference Mass Fraction (As-Received Basis) Values for Volatiles and Moisture in SRM 3222 
+
+Values  for  Volatiles  and  Moisture
+
+Aass  Fraction  (As 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Volatiles (mass loss) 
+ 
+ 
+ 
+ 
+
+Forced-Air Oven Drying at 80 °C for 3 h 
+Forced-Air Oven Drying at 100 °C for 3 h 
+Desiccator Drying(a) 
+Hearson Tobacco Oven for 16 h 
+
+Moisture (water; Karl Fischer)(b) 
+
+Mass Fraction 
+(%) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+11.6 ±  0.1 
+12.1 ±  0.6 
+11.4 ±  0.1 
+11.9 ±  0.1 
+
+10.6 ±  0.9 
+
+k 
+
+ 
+2.05 
+2.00 
+2.05 
+2.23 
+
+2.23 
+
+ 
+(a)  Values represent mass loss upon desiccator drying over magnesium perchlorate to constant mass, achieved after 35 days. 
+(b) Values represent water determined using the Karl Fischer oven distillation method. 
+ 
+
+ 
+
+SRM 3222 
+
+ 
+
+Page 3 of 4 
+
+REFERENCES 
+ 
+[1]  Title 7  Agriculture  Part 30 – Tobacco  Stocks  and  Standards,  U.S.  Code  of  Federal  Regulations,  7 CFR 30,  
+
+pp. 168–175 (1974). 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment- of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Aug 2016). 
+
+[3]  Margolis, S.A.;  Systematic  Errors  in  Measurement  of  Moisture  by  Karl  Fischer  Methods;  Third  International 
+
+Symposium on Humidity and Moisture, Vol. 2, pp. 133–140 (1998). 
+
+Vol. 
+
+[4]  JCGM 100:2008; Evaluation of Measurement Data – Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with Minor Corrections), Joint  Committee  for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2016);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at  
+http://www.nist.gov/pml/pubs/index.cfm (accessed Aug 2016). 
+
+[5]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM  (2008);  available  at 
+ivailable  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Aug 2016).  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+This  can  be
+accomplished  by  contacting 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+assession  is  current. 
+
+fax 
+
+ 
+
+SRM 3222 
+
+ 
+
+Page 4 of 4 
+
+

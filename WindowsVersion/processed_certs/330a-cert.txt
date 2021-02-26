@@ -1,0 +1,457 @@
+﻿ 
+
+ext oF  oy 
+
+BF 
+
+Somes  or 
+
+ 
+
+National Institute of Standards & Technology 
+
+g-
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 330a 
+
+ 
+
+ 
+Copper Ore Mill Heads 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  chemical  and  instrumental 
+methods of analysis as well as evaluating the accuracy of “material balance” measurements in the copper mining and 
+metallurgical industries.  A unit of SRM 330a consists of one bottle containing approximately 90 g of powder. 
+ 
+Certified  Mass  Fraction  Values:    Certified  values,  expressed  as  mass  fractions [1]  for  seven  elements  in 
+SRM 330a are listed in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its 
+accuracy in that all known or suspected sources of bias have been investigated or taken into account [2].  Certified 
+values  are  based  on  the  weighted  means  of  analyses  performed  at  NIST  and  collaborating  laboratories [3].    The 
+uncertainty listed with each value is an expanded uncertainty based on a 95 % confidence interval and is calculated 
+according to the methods in the ISO Guide and its Supplement 1 [4,5]. 
+ 
+Reference  Mass  Fraction  Values:    Reference  values  for  fourteen  elements  are  provided  in  Table 2.    Reference 
+values  are non-certified values that  are  the  present  best  estimates  of  the  true  values.    However,  the  values do not 
+meet  the  NIST  criteria  for  certification  and  are  provided  with  associated  uncertainties  that  may  not  include  all 
+sources  of  uncertainty.    Reference  values  are  based  on  the  weighted  means  of  analyses  performed  at  NIST  and 
+collaborating  laboratories [3].  The  uncertainty  listed  with  each  value  is  an  expanded  uncertainty  based  on  a  95 % 
+confidence interval and is calculated according to the methods in the ISO Guide and its Supplement 1 [4,5]. 
+ 
+Information  Mass  Fraction  Values:    The  information  values  for  seven  elements  provided  in  Table 3  are 
+noncertified values with no reported uncertainties.  A NIST information value is considered to be a value that will be 
+of interest to the SRM user, but insufficient information is available to adequately the uncertainty associated with 
+the value [2].   
+ 
+Expiration of Certification:  The certification of SRM 330a is valid, within the measurement uncertainty specified, 
+until  31 December 2020,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate  (see  “Instructions  for  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified.  
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical  changes  occur  that affect  the  certification before  the  expiration  of  this  certificate,  NIST will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  coordination  of  the  technical  measurements  for  certification  of  this  SRM  was  under  the  direction  of 
+R.D. Vocke, Jr. of the NIST Analytical Chemistry Division. 
+ 
+Analytical measurements for certification of this SRM were performed by A.F. Marlow and J.R. Sieber of the NIST 
+Analytical  Chemistry  Division.    Additional  measurements  were  provided  by  SGS  Minerals  Services,  Lakefield, 
+Ontario, Canada and the U.S. Geological Survey (USGS), Denver, CO under the direction of S.G. Wilson. 
+ 
+Statistical consultation for this SRM was provided by R.C Hagwood of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  09 November 2010 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+SRM 330a 
+
+Page 1 of 4
+
+INSTRUCTIONS FOR USE 
+ 
+To relate analytical determinations to the assigned values in this Certificate of Analysis, a minimum test portion of 
+100 mg  is  recommended  on  the  basis  of  homogeneity  testing  performed  at  NIST  using  X-ray  fluorescence 
+spectrometry.    The  powder  does  not  require  preparation  prior  to  weighing.    The  material  should  be  stored  in  its 
+original container, tightly capped, in a cool, dry location.  Loss on drying was tested at 110 C for 2 h and found to 
+be approximately 0.87 %.  
+ 
+Material  Preparation  and  Analysis:1    The  material  for  SRM 330a  was  provided  by  C. Bucknam  of  Newmont 
+Metallurgical Services, Englewood, CO.  The material was ground, blended, and bottled at the USGS, Denver, CO 
+under the supervision of S.G. Wilson.  The material was characterized using the methods listed in Table 4.   
+ 
+ 
+
+Table 1.  Certified Mass Fractions for SRM 330a Copper Ore Mill Heads 
+
+ 
+
+Constituent 
+
+Expanded Uncertainty(b) 
+(%) 
+
+Coverage Factor(b) 
+(k) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Al 
+Ba 
+Ca 
+Cu 
+K 
+Mg 
+Na 
+
+Value(a) 
+(%) 
+ 
+7.053 
+0.156 
+0.323 
+0.845 
+5.47 
+0.868 
+0.657 
+
+0.070 
+0.011 
+0.024 
+0.065 
+0.27 
+0.074 
+0.021 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+
+ 
+(a) The  assigned  value  is  a  weighted  mean  of  the  results  from  two  sets  of  measurements  from  multiple  independent  analytical 
+
+methods using the method of DerSimonian and Laird as described by Rukhin [3]. 
+
+(b) The  uncertainty  listed  with  the  value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor k,  calculated  by 
+
+Monte-Carlo simulation of uncertainty components using methods from the ISO Guide and its Supplement 1 [4,5]. 
+
+                                                 
+
+1  Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 330a 
+
+Page 2 of 4
+
+Table 2.  Reference Mass Fractions for SRM 330a Copper Ore Mill Heads 
+
+Constituent 
+
+Expanded Uncertainty(b) 
+(%) 
+
+Coverage Factor(b) 
+(k) 
+
+0.19 
+1.3 
+
+ 
+ 
+
+2 
+2.47 
+
+Constituent 
+
+Expanded Uncertainty(b) 
+(mg/kg) 
+
+Coverage Factor(b) 
+(k) 
+
+0.027 
+0.34 
+0.069 
+4.0 
+0.18 
+0.30 
+0.28 
+0.098 
+1.5 
+0.92 
+3.4 
+2.2 
+
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+
+Value(a) 
+(%) 
+ 
+1.06 
+33.4 
+
+Value(a) 
+(mg/kg) 
+ 
+3.391 
+22.32 
+4.542 
+77.0 
+17.4 
+22.19 
+28.95 
+5.693 
+
+218.1 
+
+20.01 
+94.9 
+80.5 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Fe 
+Si 
+
+Cd 
+Ce 
+Co 
+Cr 
+Ga 
+Li 
+Ni 
+Sc  
+Sr 
+Y 
+Zn 
+Zr 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+(a) The  assigned  value  is  a  weighted  mean  of  the  results  from  two  sets  of  measurements  from  multiple  independent  analytical 
+
+methods using the method of DerSimonian and Laird as described by Rukhin [3]. 
+
+(b) The  uncertainty  listed  with  the  value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  k,  calculated  by 
+
+Monte-Carlo simulation of uncertainty components using methods from the ISO Guide and its Supplement 1 [4,5]. 
+
+Table 3.  Information Mass Fractions for SRM 330a Copper Ore Mill Heads 
+
+Constituent 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mo 
+Nb 
+P 
+Pb 
+Th 
+Ti 
+V 
+
+Value 
+(mg/kg) 
+ 
+4.5 
+5.7 
+
+326 
+27 
+7.6 
+
+1 223 
+43 
+
+ 
+
+ 
+
+SRM 330a 
+
+Page 3 of 4
+
+Table 4.  Analytical Methods Used for Characterization of SRM 330a Copper Ore Mill Heads 
+
+ 
+
+Constituent 
+ 
+Al, Ba, Ca, Cu, 
+Fe, K, Mg, Na, Ti 
+
+ 
+
+ 
+
+Si, 
+
+P 
+
+Cd, Ce, Co, Cr, Ga, Li, 
+Mo, Nb, Ni, Pb, Sc, Sr, 
+Th, Ti, V, Y, Zn, Zr 
+
+Methods 
+
+WDXRF, ICP-OES, ICP-MS 
+
+WDXRF 
+
+WDXRF, ICP-OES,  
+
+ICP-OES, ICP-MS 
+
+ 
+Key to Methods in Table 4: 
+
+WDXRF 
+ICP-OES 
+ICP-MS 
+ 
+ 
+
+Wavelength dispersive X-ray fluorescence analyses performed at NIST 
+Inductively coupled plasma optical emission spectrometry performed at the collaborating laboratories 
+Inductively coupled plasma mass spectrometry performed at the collaborating laboratories 
+
+REFERENCES 
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government  Printing  Office:  Washington,  DC 
+http://ts.nist.gov/WeightsAndMeasures/Metric/mpo_pubs.cfm (accessed Nov 2010). 
+
+available 
+
+(2008); 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication 260-136  (2000);  available  at 
+http://ts.nist.gov/MeasurementServices/ReferenceMaterials/PUBLICATIONS.cfm (accessed Nov 2010). 
+[3]  Rukhin, A.L. Weighted means statistics in interlaboratory studies; Metrologia, Vol. 46, pp. 323–331 (2009). 
+[4]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Nov 2010);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed Nov 2010). 
+
+[5]  JCGM 101:2008; Evaluation of measurement data – Supplement 1 to the “Guide to Expression of Uncertainty 
+in Measurement” – Propagation of Distributions Using a Monte Carlo Method; Joint Committee for Guides in 
+Metrology  (2008);  available at  http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf 
+(accessed Nov 2010). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 926-4751; 
+telephone 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+ 
+
+SRM 330a 
+
+Page 4 of 4
+
+

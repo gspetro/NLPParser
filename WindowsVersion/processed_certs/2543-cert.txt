@@ -1,0 +1,759 @@
+﻿ 
+
+ 
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+ 
+
+Certificate  
+Standard Reference Material 2543  
+
+ 
+
+ 
+Silicon Resistivity Standard - 1 ohm·cm Level 
+ 
+Certification Batch #2 
+
+ 
+
+Serial No.:  
+
+as de facto standards for calibration of noncontact (eddy 
+
+ 
+This Standard Reference Material (SRM ) is intended primarily for use in the determination of sheet resistance and 
+bulk resistivity using the DC four-point probe method [1 ,2].  SRM 2543 is a nominal 100 mm diameter Czochralski-
+grown, boron-doped silicon wafer with ( 100) crystallographic orientation.  The wafer has a nominal thickness of 
+0.625 mm. 
+ 
+Wafer preparation was performed utilizing a simultaneous two-sided lapping process with a nominal 12 µm 
+aluminum oxide abrasive.  This wafer unit was individually  measured.  The certified sheet resistance and resistivity 
+values at the wafer’s center are given in Table 1a and the sheet resistance is given at 60° increments on the radii of 
+5 mm and 10 mm circles in Table 1b.  The stated uncertain
+ty values for this unit are derived from a statistical 
+analysis of the entire lot of wafers produced at the 1 ohm ·cm resistivity level.  A summary of these uncertainties is 
+given in Table 2. 
+ 
+Previous silicon resistivity SRMs have also been used 
+current) instruments and/or with other material system s such as compound semiconductors.  This SRM has similar 
+ly investigated only the DC four-point method on bulk 
+utility, but it must be emphasized that NIST has rigorous
+silicon.  This SRM cannot be used as a thickness reference standard. 
+ 
+Expiration of Certification:   The certification of this SRM is deemed to be indefinite in duration, provided the 
+SRM is handled and stored in accordance with the “Care a
+certificate.  However, the certification will be nullified if 
+possible to take several thousand individual probe meas
+degradation due to probe damage is evidenced by a shif
+measurement standard deviation.  When such a change
+electronics or to a deteriorated probe, occurs, the certification is invalidated and the SRM should no longer be used. 
+ 
+The doped bulk silicon material was supplied by Recticon1 Corp., Pottstown, PA. 
+ 
+The coordination and overall direction of this SRM were
+Electronics Division.  Resistivity measurements for 
+Semiconductor Electronics Division. 
+ 
+Statistical guidance and analysis were provided by H-k. Liu of the NIST Statistical Engineering Division.   
+ 
+The support aspects involved in the issuance of this SRM  were coordinated through the NIST Standard Reference 
+Materials Program by B.S. MacDonald of the NIST Measurement Services Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  15 June 2004 
+
+nd Handling” and “Cautions to User” sections of this 
+the SRM is damaged, contaminated, or modified.  It is 
+urements before performance degradation occurs.  Any 
+t in measured resistivity and a significant increase in 
+ in measurement results, which cannot be traced to the 
+
+ 
+David G. Seiler, Chief 
+Semiconductor Electronics Division 
+
+Robert L. Watters, Jr., Acting Chief 
+Measurement Services Division 
+
+ provided by J.R. Ehrstein of the NIST Semiconductor 
+
+this SRM were performed by D.R. Ricks of the NIST 
+
+                                                           
+
+1Certain commercial equipment, instrume
+
+nts, or materials are identified in this certificate in order to specify 
+
+adequately the experimental procedure.  Such identificati on does not imply recommendation or  endorsement by the National 
+Institute of Standards and Technology, nor does it imply that th
+available for the purpose. 
+ 
+SRM 2543 
+
+e materials or equipment identified are necessarily the best 
+
+Page 1 of 6  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+Table 1a.  Certified Values and Expanded Uncertainties at Center of SRM 2543 
+
+  
+
+ 
+
+Sheet Resistancea (Center) 
+(Corrected to 23 °C) 
+
+Serial No.: 
+
+ 
+
+ 
+ 
+
+  
+
+    
+
+·cm ± 0.0027 ohm·cm 
+
+ohms ± 0.004 34 ohms 
+
+ 
+ ohm
+
+  
+
+ 
+
+Resistivity 
+(Corrected to 23 °C) 
+
+Table 1b.  Certified Values and Expanded Uncertainties on the 5 mm and 10 mm Radius 
+Measurement Circles of SRM 2543 
+  
+Sheet Resistancea  
+(Corrected to 23 °C) 
+  
+
+     
+
+Angle  
+
+   0° ± 3° 
+ 
+
+ 60° ± 3° 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 mm Radius 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+10 mm Radius 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+120° ± 3° 
+ 
+
+180° ± 3° 
+ 
+
+ 
+ohms ± 0.046 ohms 
+
+     
+
+     
+
+   
+  
+  
+
+     
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+ 
+ohms ± 0.046 ohms 
+
+240° ± 3° 
+ 
+
+300° ± 3° 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e identified in Table 2, with a more detailed explanation 
+
+ 
+a Values for sheet resistance may be converted to resistivity values by multiplying by the wafer thickness. 
+ 
+Certified Value Uncertainties:   The uncertainties for the certified values were calculated in accordance with the 
+ISO and NIST Guides [3].  The sources of uncertainty ar
+given in reference 4.  It is assumed that rectangular dist ributions underlie all Type B uncertainty determinations; for 
+a rectangular distribution, the variance is one-third of the half-width.  The combined uncertainty is obtained from the 
+square-root of the sum of the Type A and Type B vari ances.  The expanded uncertainty is obtained by multiplying 
+this combined uncertainty by a coverage factor; following NI ST guidelines, a coverage factor of two is used, and the 
+expanded uncertainty is written as a 2  σ value.  There are 25 800 degrees of freedom for the uncertainty of center 
+averages and 21 500 degrees of freedom for the uncertainty of individual measurements.   
+ 
+ by Type A evaluations:  1) electrical measurement 
+The following components of uncertainty were determined
+process precision (short term) was estimated from a pooling of the wafer center measurement variances of the 104 
+wafers in this batch with corresponding variances from pre-  and post-certification control experiments; 2) day-to-day 
+and longer term process variabilities were obtained fro
+m comparison of pre- and post-certification control 
+experiment values and from check wafer data taken during the course of the certification;  3) the effect of using a 
+single four-point probe, out of all possible probes, for 
+which utilized multiple probes; 4) dependence, upon ambient illu mination level, of the resistivity value measured for 
+this SRM was estimated from additional measurements - in  the dark, and in illumination sufficiently bright (krypton 
+bulb) to reach saturation.  The combined variance from th
+resistivity values.  An additional term for the typical va
+included in the uncertainty for resistivity values, but not 
+measurement process variance contributes only one-sixth as much to the uncertainty of the average of 6 
+measurements as it does to the uncertainty of the individual measurements.) 
+ 
+
+e above sources applies both to sheet resistance and to 
+riation of thickness values for individual wafer units is 
+in that for sheet resistance.  (Note:  The electrical 
+
+certification was estimated from the control experiments 
+
+SRM 2543 
+
+Page 2 of 6  
+
+Type B determinations were made for the following sources of uncertainty that affect both the resistivity and the 
+ resistor calibration uncertainty; 2) uncertainty in the 
+sheet resistance values:  1) digital voltmeter and standard
+measurement of wafer temperature that affects correction of 
+the measured values from ambient temperature to 23 °C.  
+An additional source evaluated by Type B determination that a ffects only the resistivity value is the uncertainty due to 
+transfer of the thickness scale from gauge blocks through the thickness tool to the wafer. 
+ 
+Other possible sources of uncertainty were considered but
+Detailed descriptions of the certification procedure, meas
+contained in reference 4. 
+ 
+ 
+
+ were estimated to be negligible based on experience. 
+urement process control, and uncertainty analysis are 
+
+Table 2.  Summary of Uncertainty for Individual Measurement Values 
+
+ 
+
+ 
+ 
+ 
+Total Type A 
+Uncertainty 
+ 
+Total Type B 
+Uncertainty 
+ 
+Combined 
+Uncertainty (1 σ) 
+ 
+Expanded 
+Uncertainty (2 σ) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sheet Resistance 
+
+0.022 29 ohms 
+
+0.006 29 ohms 
+
+0.023 16 ohms 
+
+0.046 32 ohms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resistivity 
+
+ 
+0.001 39 ohm·cm 
+
+ 
+0.000 429 ohm·cm 
+
+ 
+0.001 454 ohm·cm 
+
+ 
+
+ 0.002 908 ohm·cm 
+
+dius 5 mm (0.2 in); and six were taken at sites around a 
+
+ 
+Measurement Procedure:   Each unit was individually measured by using a single in-line probe with nominal 
+1.59 mm probe point separation and meeting the specificati
+ons of ASTM F84 [1] for bulk silicon.  The dual-
+configuration method [2,5] of four-point probe measuremen ts was used, with configuration “A” being identical to 
+that in ASTM F84.  Eighteen measurements were taken on each  wafer:  six were taken at the wafer center, separated 
+by rotations of approximately 30° (these are averaged and reported for the center as a single location); six were taken 
+at sites separated by rotations of 60° around a circle of ra
+circle of radius 10 mm (0.4 in), again with rotational se parations of 60°.  The measurements described by these two 
+circles started on the positive X-axis (negative Y-axis is  normal to the wafer flat) and proceeded counterclockwise. 
+Due to the nature of resistivity variations in silicon, the va lues certified for these circles cannot be used to predict the 
+resistivity in other regions of the wafer. 
+ 
+A DC current value was selected to give a measured specimen voltage between 9.95 mV and 10.05 mV in 
+configuration “A” for the first measurement at the wafer center.  This current setting was maintained on the current 
+supply for all subsequent measurements.  Values of current  at each of the measurement sites were determined to five 
+or more digits using a standard resistor. 
+ 
+Thickness uniformity for the region of the electrical measur ements was evaluated for each wafer by using the nine-
+site plan of ASTM Method F84, with a radius of appr
+pattern.  All points were required to have a thickness within
+acceptable for use as an SRM.  The average of all nine thickness measurements for this wafer is given in Table 3 and 
+should be used to convert from sheet resistance to resistivity for each of the electrical measurement sites. 
+ 
+
+oximately 19 mm for the locations of the corners of this 
+ 1 µm of the value at the center of the wafer to be 
+
+SRM 2543 
+
+Page 3 of 6  
+
+Table 3.  Measurement Conditions for Certification 
+
+ 
+Date of Certification Measurements: 
+ 
+Average Wafer Thickness: 
+ 
+Nominal Measurement Current: 
+ 
+Temperature of Heat Sink While Measuring at:  
+
+ 
+
+ 
+First Measurement Site: 
+
+Last Measurement Site: 
+
+ 
+
+ 
+
+Temperature Coefficient of Resistivity, CT (first site) [1]: 
+ 
+
+Relative Humidity: 
+ 
+Correction Terms Used: 
+ 
+1)  Average factor to convert the voltage-to-current (V/I) ratio  
+
+ 
+2)  Correction factor related to ratio of wafer thickness to probe  
+
+_____________________________ 
+
+____________µm ±___________µm 
+ 
+
+2.8 mA 
+
+____________________________°C 
+
+____________________________°C 
+
+__________________________%/°C 
+ 
+
+ 
+ < 50 % RH 
+
+to sheet resistance, for configuration “A” at the wafer center: 
+
+______________________________ 
+
+separation for calculating wafer sheet resistance: 
+
+______________________________ 
+
+______________________________ 
+
+ measured on this SRM to resistivity values, NIST 
+
+ 
+3)  Correction for temperature to 23 °C (first site): 
+ 
+INSTRUCTIONS FOR USE 
+ 
+Notes on SRM Use:   A four-point probe with spacing equal to or  greater than twice the wafer thickness effectively 
+averages sheet resistance from front to back surfaces of a  wafer.  For this reason, either surface of the SRM wafer 
+may be measured by the user’s four-point probe with negligible expected differences in the values measured. 
+ 
+When the user needs to convert sheet resistance values
+recommends using the thickness value given in this Certificat e to obtain best agreement with the certified resistivity 
+value.  Due to the lapped surface texture of this wafer, independent thickness measurements by the user are likely to 
+result in a slightly different value from that reported here, pa rticularly if a different type of thickness gauge is used.  
+This would result in a degraded transfer of resistivity  scale using this SRM although it would have no bearing on the 
+transfer of the sheet resistance value.   Due to its lapped surface texture,  this wafer cannot be used as a reference 
+material for wafer thickness. 
+ 
+Care and Handling:   The lapped surfaces of this SRM give it 
+as the use of gloves, finger cots, vacuum paddles, or 
+stability.  Nevertheless, reasonable care in handling, such 
+ss.  Storage in any reasonable, noncorrosive, nontoxic 
+tweezers should be excercised to maintain wafer cleanline
+environment, in conjunction with the packaging provided,
+ should prove adequate for maintaining stability of the 
+SRM.  Cleaning with the proper surfactant or with isopr opyl alcohol, together with thorough rinsing in deionized 
+water and thorough drying, has been found acceptable for re moving most surface stains.  The use of hydrofluoric 
+acid or elevated temperature treatments  is discouraged.  The SRM should not be stored or measured in an ambient 
+relative humidity above 50 %. 
+ 
+Cautions to User:   NIST strongly recommends that this SRM not be used alone for calibration or for testing the 
+linearity or other performance characteristic of sheet resist ance/resistivity measuring equipment.  For any of these 
+applications, use one or more of the other wafers in the SRM series 2541 through 2547 in addition to this SRM. 
+ 
+NIST recommends that the user generate secondary standa rds based on this SRM rather than employ it for routine 
+use [6].  This is particularly important for users of f our-point probe instruments which may gradually damage silicon 
+wafers with repeated probing.  
+
+a general robustness and improved measurement 
+
+SRM 2543 
+
+Page 4 of 6  
+
+ges 36-38, and Appendix 7, sections 3 and 4 [4] for a 
+
+Because of a  photosensitivity of the boron-doped Czochralski wafers used for this SRM, the user is strongly 
+encouraged to read NIST Special Publication 260-131, pa
+general discussion of the photosensitivity, its impact, and the  evaluation of its magnitude for the wafers used for this 
+SRM. 
+ 
+sistance measurement instruments or for evaluating the 
+This SRM may not be appropriate for calibrating sheet re
+sheet resistance/resistivity of materials other than silicon due  to differences of material and instrument parameters 
+relative to single crystal silicon wafers and to DC conduc
+tion measurements.  Among the material parameters are 
+conduction and carrier scattering mechanisms, grain boundary effects on conduction, and the relative importance of 
+sample surface vs bulk in responding to the measurement s timulus.  Instrument parameters include electromagnetic 
+frequency of the measurement stimulus, the associated sk in depth in the materials being measured, and sampling 
+volume of the instrumentation in relation to material grain  size.  Parties interested in extending the calibration use of 
+these SRMs are advised to contact Dr. James R. Ehrste
+(301) 975-2060. 
+ 
+Silicon has a noticeable temperature dependence for resistivity .  Accurate values of the temperature coefficient of 
+silicon resistivity are available for the range 18 °C to 28 °C  [1].  If the user makes measurements at a temperature 
+other than 23 °C, the resulting resistivity and sheet resistan ce values must be corrected to 23 °C for best agreement 
+with the certified values.  Corrections for measurements  made outside of the 18 °C to 28 °C range may suffer from 
+reduced accuracy. 
+ 
+The localized variations in resistivity typically found in silicon wafers such as those of this SRM may limit the user’s 
+ability to obtain exactly the certified values if instrumentation is employed having a sampling volume different from 
+that of a 1.59 mm four-point probe.  However, it is likely 
+that imprecision of the user’s instrumentation will be a 
+more important limitation to transfer of the certified value than differences in sampling volume. 
+ 
+ 
+ REFERENCES 
+ 
+[1]  ASTM Method F84-93;  Standard Test Method for Measuring Resis tivity of Silicon Wafers With an In-Line 
+
+in of the NIST Semiconductor Electronics Division at 
+
+Four-Point Probe; Annu. Book of ASTM Stand., Vol. 10.05 (1999). 
+
+[3] 
+
+[2]  ASTM Method F1529-96;  Standard Test Method for Sheet Resistance Uniformity Evaluation by In-line Four-
+Point Probe with the Dual-Configuration Procedure; Annu. Book of ASTM Stand., Vol. 10.05 (2002). 
+ISO;  Guide to the Expression of Uncertainty in Measurement
+Organization for Standardization:  Geneva, Switzer
+Guidelines for Evaluating and Expressing the  Uncertainty of NIST Measurement Results ; NIST Technical 
+Note 1297; U.S. Government Printing Office:  Washington, DC (1994); available at 
+http://physics.nist.gov/Pubs/. 
+Ehrstein, J.R.; Croarkin, M.C.;  Standard Reference Materials:  The Certification of 100 mm Diameter Silicon 
+Resistivity SRMs 2541 through 2547 Using Dual-Con figuration Four-Point Probe Measurements ; Natl. Inst. 
+Stand. Technol., Spec. Publ. 260-131 (1997). 
+
+land (1993); see also Taylor, B.N.; Kuyatt, C.E.; 
+
+; ISBN 92-67-10188-9, 1st ed.; International 
+
+[4] 
+
+[5]  Perloff, D.S.; Ga n, J.N.; Wahl, F.E.;  Dose Accuracy and Doping Uniformity of Ion Implantation Equipment; 
+
+Solid State Technology; Vol. 24, No. 2, pp. 112-120 (1981).   
+
+[6]  ASTM Guide F1527-94;  Standard Guide for Application of Standard Reference Materials and Reference 
+
+Wafers for Calibration and Control of Instruments for Measuring Resistivity of Silicon
+ASTM Stand., Vol. 10.05 (2000). 
+
+; Annu. Book of 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certificate in 
+contacting the SRM Program at:  telephone (301) 975-6776;
+the Internet at http://www.nist.gov/srm. 
+ 
+
+ 
+
+their possession is current. This can be accomplished by 
+ fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+
+SRM 2543 
+
+Page 5 of 6  
+
+APPENDIX 
+
+ement sites for better characterization of resistivity 
+
+ace the previously issued silicon resistivity sets, 
+advantages:  1) larger size for better equipment 
+
+ 
+The SRM 2541 through SRM 2547 series is intended to repl
+SRM 1521 through SRM 1523, and offer several comparative 
+compatibility; 2) better uniformity of both thickness and resi stivity; 3) reduced measurement uncertainty due to an 
+improved certification procedure; and 4) additional measur
+uniformity.   
+ 
+Stability Tests:   Silicon wafers from all previous resistivity SR Ms have been monitored by NIST for as long as 
+15 years with no cumulative drift of the measured resistivity  values.  While there were some measurement values in 
+that monitoring sequence that were outside the confidence  limits determined from the certification uncertainty, those 
+outlier values are believed to have been due to long-term  measurement environment variability as well as to the use 
+of single-configuration probe measurements, which are more  sensitive to changes of probes or to probe tip condition 
+than are the dual-configuration measurements used for current SRM certification. 
+ 
+Tests of the stability of silicon resistivity reference materials with repeated probing have shown that it is possible to 
+make several thousand probe measurements without significant changes of value, even when the probing is confined 
+to a very localized area.   However, the use of excessively sharp or  damaged probes, or of unconditioned new 
+probes, may accelerate the   accumulation of crystalline damage  that leads to a shift in resistivity values or 
+degraded measurement repeatability.  This is particularly tr ue for float zone or NTD silicon, both of which have low 
+oxygen content and are more susceptible to crystalline damage from mechanical contact.  
+ 
+Multilaboratory Measurement Reproducibility:  
+resistivity measurements are useful for guidance on confid
+ence intervals that might be expected when using this 
+SRM to transfer resistivity scale values between NIST a nd the user’s laboratory.  While there have not been any 
+reported multilaboratory tests using the dual-configuration  method of measurement, a number of tests have been 
+conducted by ASTM using the single-configuration 
+multilaboratory precision of just under 0.7 % for wafers with resistivities up to 120 ohm ·cm, and just under 1.7 % for 
+wafers between 120 ohm·cm and 500 ohm·cm.  These values lead to 99 % confidence intervals of  ± 2 % for wafers up 
+to 120 ohm ·cm and  ± 5 % for wafers between 120 ohm ·cm and 500 ohm ·cm [1].  Because of the relatively 
+hose ASTM multilaboratory tests, the resulting confidence 
+nonuniform, small (5 cm) diameter wafers used for t
+intervals are believed to be quite conservative compared
+ to what could be expected on wafers with improved 
+uniformity such as those from this SRM series, particular ly if the dual-configuration four-point probe methodology 
+were employed by all laboratories. 
+ 
+Equipment1 Used for Wafer Qualification and for SRM Certification: 
+ 
+For the Determination of Thickness: 
+
+Test results of multilaboratory comparisons of four-probe 
+
+methodology (ASTM F84).  These tests yielded a 
+
+ 
+
+Random wafers - large area thickness uniformity prescreening: 
+All wafers - certified thickness, 9 sites: 
+Gauge blocks for calibration of Certo 60: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ADE Model 6033T 
+Haidenhain Certo 60 
+Webber Croblox  0.609 65 mm 
+Webber Croblox    0.625 00 mm 
+Webber Croblox    0.660 45 mm 
+
+For Electrical Measurements: 
+ 
+
+Current Supply: 
+Standard Resistor:  
+DVM: 
+Probe: 
+
+ 
+ 
+ 
+
+Electronic Development Corporation Model #CR 103 
+1 ohm, Leeds & Northrup, NBS Type #1593079 
+Hewlett-Packard Model #3456 
+Kulicke & Soffa Fell Probe #283 
+
+ 
+ 
+
+ 
+ REFERENCE 
+ 
+[1]  Bullis, W.M.; Standard Measurements of the Resistivity of Silicon by the Four-Probe Method; NBSIR 74-496, p. 
+
+75; Nat. Bur. Std. , U.S. Department of Commerce:  (1974). 
+
+ 
+  
+ 
+
+1Certain commercial materials and equipment are identified in or
+
+der to adequately specify the experimental procedure.  
+
+Such identification does not imply a recommendation or endorsement  by the National Institute of Standards and Technology, nor 
+does it imply that the materials or equipment are necessarily the best available for this purpose.   
+
+SRM 2543 
+
+Page 6 of 6  
+
+

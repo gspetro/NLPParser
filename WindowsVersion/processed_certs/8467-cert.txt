@@ -1,0 +1,208 @@
+﻿National  Institute  of  Standards  &  Technology 
+
+Report  of  Investigation 
+
+Reference  Material  8467 
+
+4,4-DDE 
+
+‘This  Reference  Material  (RM)  is  provided  as a  primary  reference  compound  of  measured  purity  for  4,4"-DDE. 
+4,4"-DDE  in  environmental 
+Its  intended  for  use  in  the  evaluation  of  procedures  used  in  the  measurement  of 
+samples  and  for  the  preparation  and  evaluation  of  daily  working  standards  used  in  these  procedures. 
+This, 
+A  unit  of  RM  8467  consists 
+material  ean  also  be  used  in  any  case  when  4,4"-DDE  of known  purity  is  required. 
+of  one  vial  containing  approximately  100  mg  of  4,4”-DDE, 
+IDENTIFICATION  AND  PURITY  INVESTIGATION 
+‘The  purity  of  4,4-DDE  and  the  estimated  uncertainty  are  given  in  Table  1. 
+‘The  purity  listed  is  based  on 
+analyses  by  gas  chromatography  (GC),  differential  scanning  calorimetry  (DSC)  and  the  Kar]  Fischer  method 
+for 
+point 
+determination. 
+GC  retention  times  on  two  capillary  columns  with  different  polarity  were  used  as  further 
+is  important  to  note  that  this  Is  not  a  Standard  Reference  Material  (SRM)  and  the  purity 
+It 
+confirmation. 
+value  presented  below  in  Table  1 
+
+the  determination  of  water. 
+
+on  mass  spectral  analysis 
+
+Mentification  is  based 
+
+melting 
+
+and 
+
+is  not  certified 
+Table  1. 
+
+Percent  Purity  of  4¢-DDE 
+
+Chemical  Abstracts  Service  (CAS)  Nomenclature 
+1,1*(dichloroethenylidene)bis[4-chlorobenzene} 
+“The  purity  and  the  estimated  uncertainty  interval  ate  based  on  scientific  judgment  and  evaluation  of  the 
+the  systematic 
+analytical  procedures  applied  on 
+Uifferences  between  the  two  methods  (GC  and  DSC). 
+NOTICE  AND  WARNING  TO  USERS 
+
+CAS  Registry  Number 
+7.55.9 
+
+this  material  including  the  analytical  imprecision  and 
+
+Parity  (weight  percent) 
+
+99.8  #02 
+
+Handling:  ‘This  compound  has  been  reported  to  have  toxic,  mutagenic  andjor  carcinogenic  properties  when 
+Handle  with  care,  use  proper  protective  gear,  use  proper  disposal 
+ingested,  inhaled  or  absorbed  into  the  skin. 
+methods  and  wash  hands  after  handling, 
+
+  
+
+Vials,  as  received,  should  be  kept  tightly  sealed,  protected  from  the  light,  and  stored  in  a  refrigerator 
+
+Storage: 
+oor  freezer. 
+Preparation  and  analytical  determinations  were  performed  in  the  NIST  Organic  Analytical  Research  Division, 
+by 
+
+E.  Rebbert, N.E.  Gallauresi, S.A.  Margolis  and  RM.  Parris, 
+
+R. 
+
+RM. 
+
+‘The  coordination  of  the  technical  measurements  for  determination  of  the  purity  was  under  the  dircetion  of 
+RE.  Rebbert, 
+Gaithersburg,  MD  20899 
+April  13,  1992, 
+
+Parris  and  S.A.  Wise  of  the  NIST  Organic  Analytical  Research  Division, 
+
+William  P,  Reed,  Chit 
+Standard  Reference  Materials  Program 
+
+(over)
+
+  
+
+  
+
+  
+
+  
+  
+
+Consultation  on  the  statistical  design  of  the  experimental  work  and  on  evaluation  of  the  data  was  provided 
+by  SB.  Schiller,  Statistical  Engineering  Division. 
+
+‘The  technical  and  support  aspects  involved  in  the  preparation  and  issuance  of  this  Reference  Material  were 
+coordinated  through  the  Standard  Reference  Materials  Program  by  T.E.  Gill 
+PREPARATION  AND  ANALYSIS 
+4,8-DDE,  used  in  the  preparation  of  this  RM,  was  obtained  from  Crescent  Chemical  Company,  Hauppauge, 
+Ten  vials  were  then  chosen  for 
+New  York. 
+analysis  using  a  modified  stratified  random  selection. 
+‘Two  samples  of  about  1  mg  each  were  taken  from  each 
+vial  for  the  DSC  measurements  of  purity  and  two  additional  samples  of  about  3  mg  each  were  taken  from  each 
+‘These  latter  samples  were 
+vial  for  the  GC  measurements  of  purity  using  a  flame  ionization  detector  (FID). 
+yL.  were  injected  for  the  GC  analysis,  GC  analyses  were  performed  on 
+dissolved  in  hexane  and  then  1  to  3 
+5  %  phenyl-substituted  methylpolysiloxane  (DB-S)  and  a 
+14  % 
+ie,, 
+‘ovo  columns  with  different  polarity, 
+cyanopropyl  phenylsubstituted  methylpolysiloxane  (DB-1701).  A  summary of 
+the  results  of the  measurements 
+for  each  method  is  given  in  Table  2, 
+
+‘The  bulk  material  was  dispensed  into  4  mL  amber  glass  vials. 
+
+a 
+
+In  the  GC  method  with  FID,  the  assumption  is  made 
+Both  of  these  methods  (GC  and  DSC)  have  limitations. 
+Errors  can  result 
+that  the  parent  compound  and  the  impurities  have  equal  response  factors  on  a  weight  basis. 
+from  1)  the  retention  of  some  impurities  on  the  column  or  2)  insufficient  resolution  between  the  impurities 
+and  4,-DDE. 
+Two  GC  columns 
+Both  of  these  effects  would  tend  to  give  purity  results  that  are  too  high. 
+with  different  polarities  were  used  to  ty  to  minimize  these  two  effects. 
+A  third  source  of  error  is  the  partial 
+This  effect  would  tend  to  give  purity  results  that  are 
+‘decomposition  of  the  parent  compound  during  analysis. 
+GC  conditions  used.  ‘The  DSC  method 
+There  is  no  evidence  that  44-DDE  decomposes  under  the 
+too  low, 
+can  also  introduce 
+This  would  result  in @  purity 
+value  that  is  higher  than  the  actual  value. 
+‘The  DSC  method  produces  purity  results  on  a  molar  basis, 
+However,  the  result  is  equal  to  a  weight  basis  if  the  impurities  have  the  same  molecular  weight  as  the  main 
+constituent. 
+
+systematic  errors  caused  by  the  formation  of  mixed  crystals. 
+
+  
+
+Water  analysis  was  performed  on  three  samples  of  about  100  mg  each  using  the  Karl  Fischer  method, 
+Within 
+the  experimental  error  (0.05  weight  %),  no  water was  found  in  this  RM  and  therefore,  no  correction  was  made 
+for  moisture  content. 
+
+SUMMARY 
+
+‘The  value  of  purity  presented  in 
+water  analysis. 
+chromatography,  differential  scanning  calorimetry  and  Karl  Fischer 
+of 
+The  purity 
+approximations  mentioned  above,  no  analyses  were  made  for  inorganic  or  insoluble  substances, 
+
+is  based  on  measurements  using  gas 
+Its  the  mean of  the  results 
+the 
+
+“best  estimate’  value  since,  in  addition  to 
+
+the  three  (3)  employed  methods, 
+
+this  report,  as  listed  in  Table  1, 
+
+is 
+
+a 
+
+Analytical  Method 
+
+Parity 
+
+‘Table 2. Summary  of  Analytical  Results 
+
+Dsc 
+GC  (DB-5) 
+GC  (DB-1701) 
+Each  uncertainty  interval  listed  is  the  standard  deviation  of a  single  measurement  based.on  20  measurements 
+for  each  method. 
+
+99.7 
+=  02  (mole  percent) 
+99.87  =  0.03  (weight  percent) 
+99.89  =  0.03  (weight  percent) 
+
+  
+
+ 
+
+ 
+
+

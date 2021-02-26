@@ -1,0 +1,1740 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2585 
+ 
+Organic Contaminants in House Dust 
+
+ 
+ytical  methods  for  the  determination  of 
+This Standard Reference Material (SRM) is intended for use in evaluating analytical methods for the determination of 
+selected  polycyclic  aromatic  hydrocarbons (PAHs),  polychlorinated  biphenyl (PCB)  congeners,  chlorinated 
+pesticides, polybrominated diphenyl ether (PBDE) congeners, synthetic musks, perfluorinated alkyl acids (PFAAs), 
+hexabromocyclododecane (HBCDD) isomers, and phosphorous flame retardants in house dust and similar matrices.  
+All of the constituents for which certified, reference, and information values are provided in SRM 2585 were naturally 
+present in the dust material before processing.  A unit of SRM 2585 consists of one bottle containing approximately 
+10 g of house dust. 
+ 
+Certified Mass Fraction Values:  The certified values for selected PAHs, PCB congeners, chlorinated pesticides, 
+and PBDE congeners in SRM 2585 are provided in Tables 1 through 4.  A NIST certified value is a value for which 
+NIST has the highest confidence in its accuracy and that all known or suspected sources of bias have been investigated 
+or taken into account [1].  The measurands are the total mass fraction for each analyte on a dry-mass basis and are 
+metrologically traceable to the International System of Units (SI).  The certified values for the PAHs, PCB congeners, 
+and  chlorinated  pesticides  are  based  on  the  agreement  of  results  obtained  at  NIST  from  two  or  more  chemically 
+independent analytical techniques while the certified values for the PBDE congeners are based on the agreement of 
+results  obtained  at  NIST  from  two  or  more  chemically  independent  analytical  techniques  and  results  from  a 
+collaborating laboratory [1,2].   
+ 
+Expiration of Certification:  This certification of SRM 2585 is valid, within the measurement uncertainty specified, 
+ze  with  instructions  given  in  this  certificate 
+until 01 June 2025, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see “Instructions for Handing, Storage, and Use”).  The certification is nullified if the SRM is damaged, contaminated, 
+ified  if  the  SRM  is  damaged,  contaminated, 
+or otherwise modified. 
+ 
+tion.  If  substantive 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  coordination  of  the  technical  measurements  leading  to  the  certification  of  SRM 2585  was  provided  by 
+J.L  Reiner, M.M. Schantz, and S.A. Wise of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements for the certification of SRM 2585 were performed at NIST by J.R. Kucklick, J.M. Lynch, 
+J.A. Murray,  M.S. Nocun,  A.M. Peck,  B.J. Porter,  D.L. Poster,  J.L.  Reiner,  M.M. Schantz,  S.S. Schuur,  and 
+H.M. Stapleton of the NIST Chemical Sciences Division.   Additional  measurements  for  selected PBDE congeners 
+were performed at the Meteorological Service of Canada, Environment Canada (Toronto, Canada) by T. Harner and 
+M. Shoeib. 
+ 
+Statistical consultation was provided by N.A. Heckert and S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+
+Sciences  Division
+
+?SRM 
+
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  12 January 2018 
+Certificate Revision History on Last Page 
+
+ 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+Page 1 of 16 
+
+  
+
+ 
+SRM 2585 
+ 
+
+ 
+
+ 
+
+Table 1.  Certified Mass Fraction for Selected PAHs in SRM 2585 
+
+[ass  Fraction 
+
+ 
+ 
+
+Mass Fraction 
+(dry-mass basis)(a) 
+
+(µg/kg) 
+
+Naphthalene(d,e,f) 
+Dibenzothiophene(d,e,f,g) 
+Phenanthrene(d,e,f,g,h,i) 
+Anthracene(d,e,f,g,h,i) 
+4H-cyclopenta[def]phenanthrene(d,e,f,g) 
+3-Methylphenanthrene(e,f,g,i) 
+2-Methylphenathrene(e,f,g) 
+9-Methylphenanthrene(e,f,g,i) 
+1-Methylphenanthrene(e,f,g) 
+Fluoranthene(d,e,f,g,h,i) 
+Pyrene(d,e,f,g,h,i) 
+Benzo[ghi]fluoranthene(d,e,f,g,h,i) 
+Benzo[c]phenanthrene(d,e,f,g,h,i) 
+Benz[a]anthracene(d,e,f,g,h,i) 
+Chrysene(e,h,i) 
+Triphenylene(e,h,i) 
+Benzo[b]fluoranthene(d,f,g,h,i,j) 
+Benzo[j]fluoranthene(d,f,g,j) 
+Benzo[k]fluoranthene(d,f,g,h,j) 
+Benzo[a]fluoranthene(d,f,g,j) 
+Benzo[e]pyrene(d,f,g,h,i,j) 
+Benzo[a]pyrene(d,f,g,h,i,j) 
+Perylene(d,f,g,h,i,j) 
+Benzo[ghi]perylene(d,f,g,h,i,j) 
+Indeno[1,2,3-cd]pyrene(d,f,g,h,i,j) 
+Dibenz[a,j]anthracene(d,f,g,h,i,j) 
+Dibenz[a,c]anthracene(d,f,g,h,i,j) 
+Dibenz[a,h]anthracene(d,f,g,h,i,j) 
+Benzo[b]chrysene(d,f,g,h,i) 
+Picene(d,f,g,h,j) 
+Coronene(d,f,g,h,i,j) 
+Dibenzo[b,k]fluoranthene(d,f,g,h,i,j) 
+Dibenzo[a,e]pyrene(d,f,g,h,i,j) 
+ 
+
+5.2(c) 
+
+8(b) 
+  266  ± 
+8(c) 
+  109  ± 
+  1920  ±  20(c) 
+ 
+ 
+
+96.0  ± 
+117  ±  10(c) 
+  293  ±  36(c) 
+  352  ±  40(b) 
+205  ±  16(c) 
+ 
+  197  ±  29(b) 
+  4380  ±  100(c) 
+  3290  ±  30(c) 
+  317  ±  11(c) 
+  288  ±  10(c) 
+  1160  ±  54(c) 
+  2260  ±  60(b) 
+  589  ±  17(b) 
+  2700  ±  90(c) 
+  1320  ±  110(c) 
+  1330  ±  70(c) 
+ 
+
+74.5  ± 
+
+  2160  ±  80(c) 
+  1140  ±  10(c) 
+  387  ±  23(c) 
+  2280  ±  40(c) 
+  2080  ±  100(c) 
+ 9(c) 
+  267  ± 
+  183  ±  25(c) 
+  301  ±  50(c) 
+6(c) 
+  182  ± 
+ 15(c) 
+  413  ± 
+  603  ±  38(c) 
+  596  ±  22(c) 
+  477  ±  67(c) 
+
+8.1(c) 
+
+ 
+(a) Mass fraction reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(b) Certified values are unweighted means of the results from three analytical methods.  The uncertainty listed with the value is an 
+e  value  is  an 
+expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [13] with a 
+pooled, within-method variance following the ISO/JCGM Guides [2]. 
+
+a 
+v 
+
+(c) Certified values are weighted means of the results from four to six analytical methods [14].  The uncertainty listed with each value 
+is an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), except for phenanthrene and 
+benzo[a]pyrene for which a coverage factor of 4 was used, calculated by combining a between-method variance incorporating 
+inter-method bias with a pooled within-source variance following the ISO/JCGM Guide [2]. 
+
+(d) GC/MS (Ia) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(e) GC/MS (IIIa) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(f) GC/MS (IV) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(g) GC/MS (IIa) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(h) GC/MS (Ib) on a liquid crystalline phase after PFE with DCM. 
+(i) GC/MS (IIb) on a liquid crystalline phase after PFE with DCM. 
+(j) GC/MS (IIIb) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+50
+
+mixture. 
+
+ 
+
+SRM 2585 
+
+ 
+
+Page 2 of 16 
+
+Table 2.  Certified Mass Fraction for Selected PCB Congeners in SRM 2585 
+
+[ass  Fraction
+
+PCB Congener(a) 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+(2,2',5-Trichlorobiphenyl)(e,f,g,h) 
+PCB  18 
+(2,4,4'-Trichlorobiphenyl)(f,g) 
+PCB  28 
+(2,4',5-Trichlorobiphenyl)(f,g) 
+PCB  31 
+(2,2'3,5'-Tetrachlorobiphenyl)(e,f,g,h) 
+PCB  44 
+(2,2',5,5'-Tetrachlorobiphenyl)(e,f,g,h) 
+PCB  52 
+(2,3,3',4-Tetrachlorobiphenyl)(e,f,g) 
+PCB  56 
+(2,3',4',5-Tetrachlorobiphenyl)(e,f,g,h) 
+PCB  70 
+(2,4,4',5-Tetrachlorobiphenyl)(e,f,g,h) 
+PCB  74 
+(2,2',3,4,5'-Pentachlorobiphenyl)(e,f,g,h) 
+PCB  87 
+(2,2',3,5,5'-Pentachlorobiphenyl)(f,g,h) 
+PCB  92 
+(2,2',3,5',6-Pentachlorobiphenyl)(f,g,h) 
+PCB  95 
+(2,2',4,4',5-Pentachlorobiphenyl)(,f,g,h) 
+PCB  99 
+PCB  101  (2,2',4,5,5'-Pentachlorobiphenyl)(f,g,h) 
+PCB  105  (2,3,3',4,4'-Pentachlorobiphenyl)(f,g,h) 
+PCB  107  (2,3,3',4,5'-Pentachlorobiphenyl)(e,f,g) 
+PCB  110  (2,3,3',4',6-Pentachlorobiphenyl)(e,f,g,h) 
+PCB  118  (2,3',4,4',5-Pentachlorobiphenyl)(e,f,g,h) 
+PCB  138  (2,2',3,4,4',5'-Hexachlorobiphenyl)(e,f,g,h) 
+PCB  146  (2,2',3,4',5,5'-Hexachlorobiphenyl)(e,f,g,h) 
+PCB  149  (2,2',3,4',5',6-Hexachlorobiphenyl)(e,f,g,h) 
+PCB  151  (2,2',3,5,5',6-Hexachlorobiphenyl)(f,g,h) 
+PCB  153  (2,2',4,4',5,5'-Hexachlorobiphenyl)(e,f,g,h) 
+132  (2,2',3,3',4,6'-Hexachlorobiphenyl)(i) 
+ 
+PCB  158  (2,3,3',4,4',6-Hexachlorobiphenyl)(e,f,g,h,i) 
+PCB  163  (2,3,3',4',5,6-Hexachlorobiphenyl)(e,f,g,h) 
+PCB  170  (2,2',3,3',4,4',5-Heptachlorobiphenyl)(e,f,g,h) 
+PCB  174  (2,2',3,3',4,5,6'-Heptachlorobiphenyl)(e,f,g,h) 
+PCB  180  (2,2',3,4,4',5,5'-Heptachlorobiphenyl)(e,f,h) 
+PCB  183  (2,2',3,4,4',5',6-Heptachlorobiphenyl)(e,f,g,h) 
+PCB  187  (2,2',3,4',5,5',6-Heptachlorobiphenyl)(e,f,g,h) 
+PCB  206  (2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl)(e,h) 
+
+16.6 
+
+12.8 
+13.4 
+14.0 
+18.1 
+21.8 
+
+13.1 
+
+5.22 
+
+4.42 
+
+Mass Fraction 
+(dry-mass basis)(b) 
+(µg/kg) 
+ 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+1.0(c) 
+0.5(d) 
+0.5(d) 
+1.9(c) 
+1.9(c) 
+0.28(d) 
+1.2(c) 
+0.51(c) 
+0.8(c) 
+0.72(d) 
+2.6(d) 
+0.4(c) 
+2.3(d) 
+1.4(d) 
+0.47(d) 
+3.7(c) 
+1.7(c) 
+2.1(c) 
+0.38(c) 
+1.9(c)  
+0.64(d) 
+1.8(c) 
+
+6.92 
+
+4.89 
+
+5.48 
+
+4.14 
+
+22.7 
+11.6 
+29.8 
+13.2 
+
+28.1 
+26.3 
+27.6 
+
+24.4 
+
+40.2 
+
+4.50 
+7.2 
+8.8 
+8.83 
+
+18.4 
+
+5.27 
+
+11.3 
+
+3.81 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+0.43(c) 
+1.2(c) 
+1.0(c) 
+0.47(c)  
+3.2(d) 
+0.39(c) 
+1.4(c) 
+ 0.13(d) 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [15] and later revised by Schulte and 
+Malisch [16]  to  conform  with  IUPAC  rules;  for  the  specific  congeners  mentioned  in  this  SRM,  PCB 107  is  different  in  the 
+numbering systems.  Under the Ballschmiter and Zell numbering system, the IUPAC PCB 107 is listed as PCB 108. 
+
+(b) Mass fraction reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(c) Certified values are weighted means of the results from four analytical methods [14].  The uncertainty listed with each value is 
+an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), calculated by combining a 
+between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the  ISO/JCGM 
+Guide [2]. 
+
+(d) Certified values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with the value 
+is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [13] 
+with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+(e) GC-ECD (I) on a relatively non-polar proprietary phase after PFE extraction with DCM. 
+(f) GC/MS (I) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (I). 
+(g) GC/MS (II) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+(h) GC/MS (III) on a 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(i) PCB 153 is the primary component with PCB 132 contributing at most 10 % to the mass fraction based on the data from method 
+
+ 
+
+mixture. 
+
+GC/MS (II). 
+
+ 
+
+SRM 2585 
+
+Page 3 of 16 
+
+Table 3.  Certified Mass Fraction for Selected Chlorinated Pesticides in SRM 2585 
+
+Mass 
+
+ 
+
+ 
+ 
+
+4,4'-DDE(d,e,f,g) 
+4,4'-DDD(d,f) 
+2,4'-DDT(d,f) 
+4,4'-DDT(d,f,g) 
+
+ 
+ 
+ 
+
+Mass Fraction 
+a)
+ (dry-mass basis)(a) 
+(µg/kg) 
+
+261 
+27.3 
+44.5 
+111 
+
+2(b)  
+0.8(c) 
+3.9(c) 
+
+± 
+± 
+± 
+±  23(c) 
+
+ 
+(a) Mass fraction reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(b) Certified values are weighted means of the results from four analytical methods [14].  The uncertainty listed with each value is 
+an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence) except for 4,4'-DDE with a 
+coverage  factor  of  10,  calculated  by  combining  a  between-method  variance  incorporating  inter-method  bias  with  a  pooled 
+within-source variance following the ISO/JCGM Guide [2]. 
+
+(c) Certified values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with the value 
+is an expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [13] 
+with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+(d) GC-ECD (I) on a relatively non-polar proprietary phase after PFE extraction with DCM. 
+(e) GC/MS (I) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (I). 
+(f)  GC/MS (II) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+mixture. 
+
+(g) GC/MS (III) on a 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+ 
+ 
+
+ 
+
+SRM 2585 
+
+Page 4 of 16 
+
+Table 4.  Certified Mass Fraction for Selected PBDE Congeners in SRM 2585 
+
+[ass  Fraction 
+
+ 
+PBDE Congener(a) 
+ 
+
+ 
+
+PBDE  17 
+PBDE  28 
+ 
+33 
+PBDE  47 
+PBDE  49 
+PBDE  85 
+PBDE  99 
+PBDE  100 
+PBDE  138 
+PBDE  153 
+PBDE  154 
+PBDE  155 
+PBDE  183 
+PBDE  203 
+PBDE  206 
+PBDE  209 
+
+(2,2',4-Tribromodiphenyl Ether)(c,d,e,f) 
+(2,4,4'-Tribromodiphenyl Ether)(c,d,e,f) 
+(2',3,4-Tribromodiphenyl Ether)(g) 
+(2,2',4,4'-Tetrabromodiphenyl Ether)(c,d,e,f) 
+(2,2',4,5'-Tetrabromodiphenyl Ether)(c,d,e) 
+(2,2',3,4,4'-Pentabromodiphenyl Ether)(c,d,e,f) 
+(2,2',4,4',5-Pentabromodiphenyl Ether)(c,d,e,f) 
+(2,2',4,4',6-Pentabromodiphenyl Ether)(c,d,e,f) 
+(2,2',3,4,4',5'-Hexabromodiphenyl Ether)(c,d,e,f) 
+(2,2',4,4',5,5'-Hexabromodiphenyl Ether)(c,d,e,f) 
+(2,2',4,4',5,6'-Hexabromodiphenyl Ether)(d,e) 
+(2,2',4,4',6,6'-Hexabromodiphenyl Ether)(d,e) 
+(2,2',3,4,4',5',6-Heptabromodiphenyl Ether)(c,d,e,f) 
+(2,2',3,4,4',5,6',6-Octabromodiphenyl Ether)(c,e) 
+(2,2',3,3',4,4',5,5',6-Nonabromodiphenyl Ether)(c,e) 
+(Decabromodiphenyl Ether)(c,e,f) 
+
+Mass Fraction 
+(dry-mass basis) 
+(µg/kg) 
+
+11.5 
+46.9 
+
+± 
+± 
+
+») 
+1.2(b)  
+») 
+4.4(b) 
+
+497 
+53.5 
+43.8 
+892 
+145 
+15.2 
+119 
+83.5 
+
+3.94 
+
+43.0 
+36.7 
+271 
+2510 
+
+4.2(h) 
+1.6(b) 
+
+±  46(b) 
+± 
+± 
+±  53(b) 
+±  11(b) 
+± 
+± 
+± 
+± 
+± 
+± 
+±  42(h) 
+±  190(h) 
+
+2.0(b) 
+1(b) 
+2.0(h) 
+0.34(h) 
+3.5(b) 
+6.4(h) 
+
+ 
+(a) PBDE congeners are numbered according to IUPAC rules. 
+(b) Mass fraction reported on dry-mass basis; material as received contains approximately 2.1 % moisture.  Certified values are 
+ed  values  are
+weighted  means  of  the  results  from  four  analytical  methods [14].    The  uncertainty  listed  with  each  value  is  an  expanded 
+uncertainty  about the  mean,  with  coverage  factor 2  (approximately  95 %  confidence)  except  for  PBDE 153  with  a  coverage 
+factor of 10, calculated by combining a between-source variance incorporating inter-method bias with a pooled within-source 
+variance following the ISO/JCGM Guide [2]. 
+
+(c) GC/NCI-MS (I) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(d) GC/EI-MS (I) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM (same extracts as 
+
+GC/NCI-MS (I)). 
+
+(e) GC/EI-MS (II) on a 60 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(f)  GC/NCI-MS (II) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with DCM. 
+(g) Using the 15 m column, PBDE 28 and PBDE 33 coelute; however, using the 60 m column, the two isomers are separated.  Based 
+
+on the data from the 60 m column, the mass fraction of PBDE 33 is less than the detection limit of 2.2 µg/kg. 
+
+(h) Certified values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with each 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2,  calculated  by  combining  a  between-method 
+variance [23] with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+SRM 2585 
+
+Page 5 of 16 
+
+NOTICE AND WARNING TO USERS 
+ 
+SRM 2585 IS INTENDED FOR RESEARCH USE. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Handling:  This material is naturally occurring house dust collected from a number of locations and may contain 
+constituents of unknown toxicities; therefore, caution and care should be exercised during its handling and use. 
+ 
+Storage:  SRM 2585 must be stored in its original bottle at temperatures less than 30 °C away from direct sunlight. 
+ 
+Use:  Prior to removal of subsamples for analysis, the contents of the bottle should be mixed.  The mass fractions of 
+constituents in SRM 2585 are reported on a dry-mass basis.  The SRM, as received, contains approximately 2.1 % 
+moisture.  The dust sample should be dried to a constant mass before weighing for analysis, or if the constituents of 
+interest are volatile, a separate subsample of the dust should be removed from the bottle at the time of analysis and 
+dried to determine the mass fraction on a dry-mass basis. 
+ 
+Conversion to Dry-Mass Basis:  The moisture content of the dust was determined by measuring the mass loss after 
+freeze drying.  Six bottles of SRM 2585 were selected according to a stratified randomization scheme for the drying 
+study.  Approximately 1 g of each glass bottle was transferred to a glass weighing vial and dried for 7 days at 1 Pa 
+with 5 °C shelf temperature and a –46.9 °C condenser temperature.  The moisture content in SRM 2585 at the time of 
+the  certification  analyses  was  2.11 %  ±  0.06 %  (95 %  confidence  level).    Analytical  results  for  the  organic 
+constituents were determined on an as received mass fraction basis and then converted to a dry-mass fraction basis by 
+dividing by the conversion factor of 0.9789 (g dry mass/g as received mass). 
+ 
+Non-Certified Values:  Noncertified values are provided for additional constituents in SRM 2585. 
+ 
+Reference Mass Fraction Values:  Based on the method used for each analyte, reference values are provided for 
+additional measurands in Tables 5 through 11.  These values are metrologically traceable to calibration procedures 
+and standards used by experienced analysts.  Reference values are noncertified values that are the best estimate of the 
+true  value;  however,  the  values  do  not  meet  the  NIST  criteria  for  certification  and  are  provided  with  associated 
+uncertainties that may reflect only measurement precision, may not include all sources of uncertainty, or may reflect 
+a lack of sufficient statistical agreement among multiple analytical methods.   
+ 
+Information Mass Fraction Values:  A NIST information value is considered to be a value that will be of interest 
+and use to the SRM user, but insufficient information is available to assess adequately the uncertainty associated 
+with the value or only a limited number of analyses were performed.  Information mass fraction values, expressed as 
+mass fractions, for 9 additional PBDE congeners are provided in Table 12.  Information values cannot be used to 
+establish metrological traceability. 
+
+ 
+
+SRM 2585 
+
+Page 6 of 16 
+
+ 
+
+ 
+
+ 
+   
+
+ 
+ 
+
+Table 5.  Reference Mass Fraction for Selected PAHs in SRM 2585 
+
+ 
+
+ 
+ 
+
+Mass Fraction 
+(dry-mass basis)(a) 
+(µg/kg) 
+
+ 
+
+1-Methylnaphthalene(d,e,f) 
+150 
+2-Methylnaphthalene(d,e,f) 
+227 
+Biphenyl(e,f,g) 
+88 
+Retene(d) 
+588 
+1,7-Dimethylphenanthrene(f,g) 
+219 
+1-Methylfluoranthene(d,f,h) 
+94 
+3-Methylfluoranthene(d,f,h) 
+235 
+8-Methylfluoranthene(d) 
+132 
+4-Methylpyrene(d,f,h) 
+235 
+2-Methylpyrene(d) 
+345 
+1-Methylpyrene(d,f,h) 
+209 
+3-Methylchrysene(d,f,h) 
+146 
+2-Methylchrysene(d) 
+181 
+6-Methylchrysene(d,f) 
+88 
+4-Methyl- and 1-Methylchrysene(d) 
+94.8 
+9-Methyl- and 3-Methylbenz[a]anthracene(d) 
+92.3 
+6-Methyl- and 1-Methylbenz[a]anthracene(d) 
+155 
+Anthanthrene(f,g,i) 
+91 
+Dibenzo[b,e]fluoranthene(f,g,j) 
+59.6 
+Naphtho[1,2-b]fluoranthene(g,j) 
+312 
+Naphtho[1,2-k] and naphtho[2,3-j]fluoranthene(f,g,j) 
+382 
+Naphtho[2,3-b]fluoranthene(f,g,j) 
+93 
+Naphtho[2,3-k]fluoranthene(i) 
+24.7 
+Dibenzo[a,k]fluoranthene(f,j) 
+14.3 
+Dibenzo[j,l]fluoranthene(f,g,i,j) 
+260 
+Dibenzo[a,l]pyrene(f,g,j) 
+42.3 
+Naphtho[2,3-k]fluoranthene and Naphtho[1,2-a]pyrene(f,g,j)  44.3 
+Naphtho[2,3-e]pyrene(f,g,j) 
+Naphtho[2,1-a]pyrene(f,g,i,j) 
+Dibenzo[e,l]pyrene(f,g,i,j) 
+Benzo[b]perylene(g,i) 
+Dibenzo[a,i]pyrene(g,i) 
+Dibenzo[a,h]pyrene(f) 
+
+145 
+379 
+208 
+103 
+105 
+20.9 
+
+±  37(b) 
+±  20(b) 
+±  21(b) 
+±  34(c) 
+±  19(b) 
+±  11(b) 
+±  67 (b) 
+7(c) 
+± 
+±  27(b)  
+±  10(c) 
+±  69(b)  
+±  18(b) 
+4(c) 
+± 
+±  14(b) 
+4.8(c) 
+± 
+2.5(c) 
+± 
+5(c) 
+± 
+±  27(b) 
+± 
+±  10(b) 
+±  18(b) 
+±  30(b) 
+± 
+± 
+±  26(k) 
+± 
+± 
+±  29(b) 
+±  47(k) 
+±  14(k) 
+±  24(b) 
+±  11(b) 
+± 
+
+3.1(b) 
+1.9(b) 
+
+1.2(c) 
+3.4(b) 
+
+7.5(b) 
+
+0.7(c) 
+
+ 
+(a) Mass fraction reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(b) Reference values are unweighted means of the results from two or three analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor  2,  calculated  by  combining  a  between-method 
+variance [13] with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+(c) Reference values are the means of results obtained by NIST using one analytical technique.  The expanded uncertainty, U, is 
+calculated as U  =  kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte. 
+
+(d) GC/MS (IIa) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(e) GC/MS (IIIa) on a relatively non-polar proprietary phase after Soxhlet extraction with 50 % hexane/50 % acetone mixture. 
+(f)  GC/MS (IV) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(g) GC/MS (Ia) on a 50 % phenyl-substituted methylpolysiloxane phase after PFE with DCM. 
+(h) GC/MS (IIb) on a liquid crystalline phase after PFE with DCM. 
+(i)  GC/MS (Ib) on a liquid crystalline phase after PFE with DCM. 
+(j)  GC/MS (IIIb) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+(k) Reference values are weighted means of the results from four analytical methods [14].  The uncertainty listed with each value is 
+an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2  (approximately  95 %  confidence),  calculated  by  combining  a 
+between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the  ISO/JCGM 
+Guide [2]. 
+
+ 
+
+mixture. 
+
+SRM 2585 
+
+Page 7 of 16 
+
+ 
+ 
+
+  
+ 
+
+ 
+PCB Congener(a) 
+
+ 
+
+ 
+
+Table 6.  Reference Mass Fraction for Selected PCB Congeners in SRM 2585 
+
+(2,2'4,5'-Tetrachlorobiphenyl)(e,f,g,h) 
+PCB  49 
+(2,3,4',5-Tetrachlorobiphenyl)(e) 
+PCB  63 
+(2,3',4,4'-Tetrachlorobiphenyl)(f,g,h) 
+PCB  66 
+PCB  121  (2,3',4,5',6-Pentachlorobiphenyl)(h) 
+PCB  128  (2,2',3,3',4,4'-Hexachlorobiphenyl)(g,h) 
+PCB  177  (2,2',3,3',4,5,6-Heptachlorobiphenyl)(h) 
+PCB  178  (2,2',3,3',5,5',6'-Heptachlorobiphenyl)(h) 
+PCB  185  (2,2',3,4,5,5',6-Heptachlorobiphenyl)(h) 
+PCB  193  (2,3,3',4',5,5',6-Heptachlorobiphenyl)(e) 
+PCB  194  (2,2',3,3',4,4',5,5'-Octachlorobiphenyl)(e,h) 
+PCB  199  (2,2',3,3',4,5,6,6'-Octachlorobiphenyl)(h) 
+PCB  209  Decachlorobiphenyl(e) 
+
+Mass Fraction 
+(dry-mass basis)(b) 
+(µg/kg) 
+
+ 
+
+ 
+
+16.4 
+
+6.69 
+8.5 
+18.7 
+8.1 
+5.50 
+2.17 
+5.32 
+1.23 
+4.47 
+5.81 
+2.14 
+
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+± 
+
+3.3(c) 
+0.26(d) 
+1.9(e) 
+0.4(d) 
+1.6(e) 
+0.44(d) 
+0.16(d) 
+0.39(d) 
+0.070(d) 
+0.76(e) 
+0.38(d) 
+0.11(d) 
+
+ 
+(a) PCB congeners are numbered according to the scheme proposed by Ballschmiter and Zell [15] and later revised by Schulte and 
+
+Malisch [16] to conform with IUPAC rules; for the specific congeners mentioned in this SRM. 
+
+is  SRM
+
+(b) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(c) Reference values are weighted means of the results from four analytical methods [14].  The uncertainty listed with each value is 
+an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), calculated by combining a 
+between-method  variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the  ISO/JCGM 
+Guide [2]. 
+
+(d) Reference  values are the  means  of results obtained by NIST using one analytical technique. The expanded uncertainty, U, is 
+calculated as U  =  kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte. 
+
+(e) Reference values are unweighted means of the results from two to three analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2,  calculated  by  combining  a  between-method 
+variance [13] with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+(f)  GC-ECD (I) on a relatively non-polar proprietary phase after PFE extraction with DCM. 
+(g) GC/MS (I) on a relatively non-polar proprietary phase; same extracts analyzed as in GC-ECD (I). 
+(h) GC/MS (II) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+mixture. 
+
+ 
+
+(i)  GC/MS (III) on a 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+
+ 
+
+SRM 2585 
+
+Page 8 of 16 
+
+Table 7.  Reference Mass Fraction for Selected Chlorinated Pesticides in SRM 2585 
+
+Vass  Fraction 
+
+ 
+
+ 
+
+ 
+
+Mass Fraction 
+(dry-mass basis)(a) 
+(µg/kg) 
+ 
+
+cis-Chlordane(d,e,f) 
+trans-Chlordane(d,e,f) 
+cis-Nonachlor(f) 
+trans-Nonachlor(d,e,f) 
+Heptachlor(d,f) 
+Heptachlor Epoxide(f) 
+Dieldrin(d,f) 
+) 
+gamma-hexachlorocyclohexane (HCH)(d) 
+Mirex(d) 
+Pentachlorobenzene(f) 
+
+174 
+277 
+28.0 
+130 
+166 
+11.3 
+88 
+4.06 
+6.89 
+
+20.9 
+
+0.6(c) 
+
+±  45(b) 
+±  96(b) 
+± 
+±  38(b) 
+±  34(b) 
+± 
+±  21(b) 
+± 
+± 
+± 
+
+0.6(c) 
+
+0.55(c) 
+0.25(c) 
+1.6(c) 
+
+ 
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(b) Reference values are unweighted means of the results from two to three analytical methods.  The uncertainty listed with the 
+value  is  an  expanded  uncertainty  about  the  mean,  with  coverage  factor 2,  calculated  by  combining  a  between-method 
+variance [13] with a pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+(c) Reference  values are the  means  of results obtained by NIST using one analytical technique. The expanded uncertainty, U, is 
+calculated as U = kuc, where uc is one standard deviation of the analyte mean, and the coverage factor, k, is determined from the 
+Student’s t-distribution corresponding to the associated degrees of freedom and 95 % confidence level for each analyte. 
+
+(d) GC-ECD (I) on a relatively non-polar proprietary phase after PFE extraction with DCM. 
+(e) GC/MS (II) on a 50 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with 50 % hexane/50 % acetone 
+
+50 
+
+mixture. 
+
+(f)  GC/MS (III) on a 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+|  extraction  with  DCM 
+ 
+ 
+ 
+
+Table 8.  Reference Mass Fraction for Selected PBDE Congeners in SRM 2585 
+
+Viass  Fraction 
+
+ 
+PBDE Congener(a) 
+ 
+
+ 
+
+Mass Fraction 
+ (dry-mass basis)(b) 
+(μg/kg) 
+
+29.5 
+4.5 
+5.1 
+
+±  6.2(c) 
+±  1.2(h) 
+±  2.9(h) 
+
+PBDE  66 
+PBDE  75 
+PBDE  190  (2,3,3',4,4',5,6-Heptabromodiphenyl Ether)(d,g) 
+
+(2,3',4,4'-Tetrabromodiphenyl Ether)(d,e,f,g) 
+(2,4,4',6-Tetrabromodiphenyl Ether)(e,f) 
+
+ 
+(a) PBDE congeners are numbered according to the IUPAC rules. 
+(b) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(c) Reference values are weighted means of the results from four analytical methods [14].  The uncertainty listed with each value is 
+an expanded uncertainty about the mean, with coverage factor 2 (approximately 95 % confidence), calculated by combining a 
+between-source variance  incorporating  inter-method  bias  with  a  pooled  within-source  variance  following  the  ISO/JCGM 
+Guide [2]. 
+
+tains  approximately  2.1
+
+(d) GC/NCI-MS (I) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(e) GC/EI-MS (I) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM (same extracts as 
+
+GC/NCI-MS (I)). 
+
+(f)  GC/EI-MS (II) on a 60 m 5 % phenyl-substituted methylpolysiloxane phase after PFE extraction with DCM. 
+(g) GC/NCI-MS (II) on a 15 m 5 % phenyl-substituted methylpolysiloxane phase after Soxhlet extraction with DCM. 
+(h) Reference values are unweighted means of the results from two analytical methods.  The uncertainty listed with each value is an 
+expanded uncertainty about the mean, with coverage factor 2, calculated by combining a between-method variance [13] with a 
+pooled, within-method variance following the ISO/JCGM Guide [2]. 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+SRM 2585 
+
+Page 9 of 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 9.  Reference Mass Fraction for Selected Polycyclic Musks in SRM 2585 
+
+ 
+
+ 
+
+Mass Fraction 
+a) 
+  (dry-mass basis)(a) 
+
+(µg/kg) 
+
+1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexa-methyl-cyclopenta-(γ)-2-benzopyran (HHCB)    1470 
+  1700 
+7-Acetyl-1,1,3,4,4,6-hexamethyltetralin (AHTN) 
+  163 
+4-Acetyl-1,1-dimethyl-6-tert-butylindan (ADBI) 
+  201 
+6-Acetyl-1,1,2,3,3,5-hexamethylindan (AHMI) 
+5-Acetyl-1,1,2,6-tetramethyl-3-isopropylindan (ATII) 
+  144 
+ 
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture.  The reference mass 
+fraction value is a weighted mean of the mass fractions determined for each analyte [14].  The uncertainty listed with each value 
+is an expanded uncertainty about the mean [14,17], with coverage factor, k = 2, calculated by combining a pooled within-method 
+-method 
+variance with a between-method variance [18] following the ISO/JCGM Guide [2,19].  The reference values are reported on a 
+dry-mass basis.  For reference values to be valid, the material must be dried according to the instructions provided above. 
+
+60  
+50(b) 
+10 
+11(b) 
+  4(b) 
+
+± 
+± 
+± 
+± 
+± 
+
+ 
+ 
+ 
+ 
+
+(b) The  expanded  uncertainty  is  the  half-width  of  a  symmetric  95  %  parametric  bootstrap  confidence  interval  [20],  which  is 
+
+consistent with the ISO Guide [2,19].  The effective coverage factor, k, is 2. 
+
+w,k 
+
+Table 10.  Reference Mass Fraction for Selected Perfluorinated Alkyl Acids (PFAAs) in SRM 2585 
+
+ 
+
+ 
+
+Mass Fraction 
+a) 
+  (dry-mass basis)(a) 
+
+(µg/kg) 
+
+Perfluorobutanoic Acid (PFBA) 
+Perfluorohexanoic Acid (PFHxA) 
+Perfluoroheptanoic Acid (PFHpA) 
+Perfluorononanoic Acid (PFNA) 
+Perfluorododecanoic Acid (PFDoA) 
+Perfluorotridecanoic Acid (PFTriA) 
+Perfluorohexanesulfonic Acid (PFHxS) 
+Perfluorooctanesulfonic Acid (PFOS) 
+ 
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture.  The reference mass 
+fraction value is a weighted mean of the mass fractions determined for each analyte [14].  The uncertainty listed with each value 
+is an expanded uncertainty about the mean [14,17], with coverage factor, k = 2, calculated by combining a pooled within-method 
+-method
+variance with a between-method variance [18] following the ISO/JCGM Guide [2,19].  The reference values are reported on a 
+dry-mass basis.  For reference values to be valid, the material must be dried according to the instructions provided above. 
+
+± 
+± 
+± 
+± 
+± 
+± 
+±  250 
+±  420 
+
+230 
+260 
+249 
+99.4 
+34.6 
+29.4 
+
+16 
+25 
+32 
+4.9) 
+4.5 
+ 4.6 
+
+1440 
+2310 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+SRM 2585 
+
+Page 10 of 16 
+
+ 
+ 
+
+  
+ 
+
+ 
+
+ 
+ 
+
+Table 11.  Reference Mass Fraction for Selected Flame Retardants in SRM 2585 
+
+RM 
+
+ 
+ 
+
+ 
+
+ 
+
+α-hexabromocyclododecane (α-HBCD) 
+Tributyl phosphate  
+Tris (2-chloroethyl) phosphate 
+Tris (chloropropyl) phosphate(b) 
+Triphenyl phosphate 
+
+Mass Fraction 
+(dry-mass basis)(a) 
+(µg/kg) 
+
+ 
+
+ 
+
+21.2  ±  3.6 
+±  14 
+276 
+±  149 
+925 
+±  350 
+1220 
+±  130 
+1190 
+
+ 
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture.  For reference values to 
+be valid, the material must be dried according to the instructions provided above. The reference mass fraction value is a weighted 
+mean of the mass fractions determined for each analyte [14].  The uncertainty listed with each value is an expanded uncertainty 
+about  the  mean [14,17],  with  coverage  factor,  k = 2,  calculated  by  combining  a  pooled  within-method  variance  with  a 
+between-method variance [18] following the ISO/JCGM Guide [2,19].  
+
+(b) Tris (chloropropyl) phosphate was quantified as a mixture of the following isomers: tris(1-chloro-2-propyl) phosphate (major 
+isomer), bis(1-chloro-2-propyl)(2-chloropropyl) phosphate and (1-chloro-2-propyl)bis(2-chloropropyl) phosphate.  
+ 
+
+opropyl) 
+
+Table 12.  Information Mass Fraction for Selected PBDE Congeners in SRM 2585(a) 
+
+ 
+») 
+PBDE Congener(b) 
+
+PBDE  25 
+PBDE  30 
+PBDE  71 
+PBDE  116 
+PBDE  119 
+PBDE  156 
+PBDE  181 
+PBDE  191 
+PBDE  205 
+
+(2,3',4-Tribromodiphenyl Ether) 
+(2,4,6-Tribromodiphenyl Ether) 
+(2,3',4',6-Tetrabromodiphenyl Ether) 
+(2,3,4,5,6-Pentabromodiphenyl Ether) 
+(2,3',4,4',6-Pentabromodiphenyl Ether) 
+(2,3,3',4,4',5-Hexabromodiphenyl Ether) 
+(2,2',3,4,4',5,6-Heptabromodiphenyl Ether) 
+(2,3,3',4,4'5',6-Heptabromodiphenyl Ether) 
+(2,3,3',4,4',5,5',6-Octabromodiphenyl Ether) 
+
+Mass Fraction 
+ (dry-mass basis)(c) 
+(μg/kg)  
+
+<0.2 
+<0.2 
+<0.2 
+<0.2 
+<0.2 
+<0.2 
+<0.3 
+<0.3 
+<0.5 
+
+ 
+(a) Mass fractions reported on dry-mass basis; material as received contains approximately 2.1 % moisture. 
+(b) PBDE congeners are numbered according to the IUPAC rules. 
+(c) The information values are from the method detection limits using a signal to noise value = 100 for method GC/NCI-MS (I). 
+ 
+
+i
+W
+
+SRM 2585 
+
+Page 11 of 16 
+
+PREPARATION AND ANALYSIS(1) 
+ 
+Sample Collection:  The collection of SRM 2585 was under the direction of the Research Triangle Institute and the 
+U.S. Environmental Protection Agency (Research Triangle Park, NC).  The dust used for the preparation SRM 2585 
+was taken from vacuum cleaner bags collected from homes, cleaning services, motels, and hotels in the states of North 
+Carolina,  Maryland,  Ohio,  New  Jersey,  Montana,  and  Wisconsin  during  1993  and  1994.    The  dust  used  for  the 
+preparation  of  SRM 2585  was  collected  at  the  same  time  and  from  the  same  locations  as  the  dust  used  for  the 
+preparation of SRM 2583 Trace Elements in Indoor Dust, Nominal 90 mg/kg Lead [3] and SRM 2584 Trace Elements 
+in Indoor Dust, Nominal 1 % Lead [4]. 
+ 
+Sample Preparation:  The vacuum cleaner bags were first sterilized by gamma irradiation, receiving a minimum 
+total dose of 2.5 mrads.  For the low lead material, SRM 2583, the contents of each vacuum cleaner bag was passed 
+through a coarse screen (2 mm hole size) to remove cotton and debris.  Then using a vibrating stainless steel sieve 
+apparatus, the resultant material was screened in two successive steps, first through a 250 µm sieve and then a 100 µm 
+sieve.  For the high lead material, SRM 2584, the raw material from each bag was mixed and tumbled in a modified 
+food processor using chopping blades and a compressed air jet.  While still tumbling, the dust was separated from 
+unwanted debris by vacuuming through a series of screens into a clean HEPA vacuum cleaner.  The dust collected in 
+this manner was then screened through a 90 µm stainless steel sieve using vibration and a vacuum.  Processed sublots 
+of approximately 5 kg each were set aside and analyzed for lead by X-ray fluorescence to develop a blending protocol 
+for the target lead concentrations in SRM 2584.  SRM 2585 was prepared from approximately 70 % of the material 
+found to have 90 mg/kg nominal lead levels used for SRM 2583 and 30 % of the material that had the high lead content 
+used for SRM 2584.  The selected sublots were blended in a cone blender and then bottled (approximately 10 g of 
+dust per bottle) as SRM 2585. 
+ 
+Polycyclic Aromatic Hydrocarbons 
+ 
+The general approach used for the value assignment of the PAHs in SRM 2585 was similar to that reported for the 
+recent certification of several environmental matrix SRMs [5−8] and consisted of combining results from analyses 
+using  various  combinations  of  different  extraction  techniques  and  solvents,  cleanup/isolation  procedures,  and 
+chromatographic separation and detection techniques.  The methods utilized Soxhlet extraction and pressurized fluid 
+extraction (PFE) using dichloromethane (DCM) or a hexane/acetone mixture, cleanup of the extracts by solid phase 
+extraction (SPE),  and  analysis  by  gas  chromatography/mass  spectrometry (GC/MS)  of  the  PAH  fraction  on  three 
+stationary phases of different selectivity, i.e., a 50 % (mole fraction) phenyl-substituted methylpolysiloxane phase, a 
+relatively non-polar proprietary phase, and a liquid crystalline phase. 
+ 
+Seven sets of GC/MS results, designated as GC/MS (Ia), (Ib), (IIa), (IIb), (IIIa), (IIIb), and (IV) were obtained using 
+three columns with different selectivities for the separation of PAHs.  For GC/MS (I and II) analyses, one subsample 
+of approximately 1 g from six bottles of SRM 2585 was extracted using PFE with DCM [9].  The concentrated extract 
+was passed through a silica SPE cartridge and eluted with 2 % DCM in hexane (volume fraction).  The processed 
+extract  was  then  analyzed  by  GC/MS  using  a  0.25 mm i.d. × 60 m  fused  silica  capillary  column  with  50 % (mole 
+fraction)  phenyl-substituted  methylpolysiloxane  phase  (0.25 μm  film  thickness)  (DB-17ms,  J&W  Scientific, 
+Folsom, CA).  This method is designated as GC/MS (Ia) and GC/MS (IIa).  For GC/MS (Ib) and GC/MS (IIb), the 
+same extracts were analyzed by GC/MS using a 0.25 mm i.d. × 15 m fused silica capillary column with dimethyl 50 % 
+(mole  fraction)  liquid  crystalline  polysiloxane  phase  (0.25 μm  film  thickness)  (LC-50,  J&K  Environmental,  Nova 
+Scotia, Canada).  The GC/MS (III) analyses were performed using duplicate subsamples of approximately 1 g from 
+six bottles of SRM 2585.  These samples  were Soxhlet extracted for 18 h with 250 mL  of 50 % hexane and 50 % 
+acetone (volume fraction).  The concentrated extract was passed through an aminopropyl SPE cartridge and eluted 
+with 10 % DCM in hexane.  The fractions were concentrated, and the SPE step was repeated.  GC/MS analysis was 
+performed  using  0.25 mm  i.d. × 60 m  fused  silica  capillary  column  with  a  relatively  non-polar  proprietary  phase 
+(0.25 μm  film  thickness)  (DB-XLB,  J&W  Scientific)  for  method  GC/MS (IIIa)  and  a  50 %  phenyl-substituted 
+methylpolysiloxane  phase  (0.25 μm  film  thickness)  (DB-17ms)  for  method  GC/MS (IIIb).    For  the  GC/MS (IV) 
+analyses, approximately 1 g subsamples from six bottles of SRM 2585 were extracted using PFE with DCM.  The 
+concentrated extract was passed through an alumina cartridge and eluted with 9 mL of 35 % DCM in hexane.  The 
+processed extract was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m fused silica capillary column with 50 % 
+(mole fraction) phenyl-substituted methylpolysiloxane phase (0.25 μm film thickness) (DB-17ms).  For the GC/MS 
+measurements described above, selected perdeuterated PAHs were added to the dust prior to solvent extraction for use 
+as internal standards for quantification purposes. 
+                                                 
+ 
+
+(1)Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 2585 
+
+Page 12 of 16 
+
+Homogeneity Assessment for PAHs 
+ 
+The homogeneity of SRM 2585 was assessed by analyzing duplicate samples of approximately 1 g from six bottles 
+selected  by  stratified  random  sampling.    Samples  were  extracted,  processed,  and  analyzed  as  described  above  for 
+GC/MS (IIIa  and  IIIb).    No  statistically  significant  differences  among  bottles  were  observed  for  the  PAHs  at  this 
+sample size. 
+ 
+PCBs and Chlorinated Pesticides 
+ 
+The general approach used for the determination of PCBs and chlorinated pesticides in SRM 2585 was similar to that 
+reported for the recent certification of several environmental matrix SRMs [5,7,10−12], and consisted of combining 
+results from analyses using various combinations of different extraction techniques and solvents, cleanup/isolation 
+procedures, and chromatographic separation and detection techniques.  This approach consisted of Soxhlet extraction 
+and PFE using DCM or a hexane/acetone mixture, cleanup/isolation using normal-phase liquid chromatography (LC) 
+or SPE followed by analysis using GC/MS and gas chromatography with electron capture detection (GC-ECD) on 
+three columns with different selectivity for the separation of PCBs and chlorinated pesticides. 
+ 
+Four sets of results were obtained, designated as GC-ECD (I), GC/MS (I), GC/MS (II), and GC/MS (III).  For 
+GC-ECD (I) and GC/MS (I), subsamples of approximately 1 g from six bottles of SRM 2585 were extracted 
+using PFE with DCM.  The concentrated extract was fractionated by LC on a semi-preparative aminopropylsilane 
+column to isolate two fractions containing (1) the PCB congeners and lower polarity pesticides using hexane as the 
+mobile phase and (2) the more polar pesticides using 25 % DCM in hexane as the mobile phase.  Each concentrated 
+fraction was passed through a silica SPE cartridge with 25 % DCM in hexane, concentrated, and then analyzed by 
+GC-ECD and by GC/MS both using a 0.25 mm i.d. × 60 m fused silica capillary column with a relatively non-polar 
+proprietary phase (0.25 μm film thickness) (DB-XLB).  PCB 30, PCB 103, and perdeuterated 4,4'-DDT were added 
+prior to extraction for use as internal standards for quantification purposes.  For GC/MS (II), duplicate subsamples of 
+approximately 1 g from six bottles of SRM 2585 were Soxhlet extracted for 18 h with 250 mL of 50 % hexane and 
+50 % acetone (volume fraction).  The concentrated extract was passed through an aminopropyl SPE cartridge and 
+eluted with 10 % DCM in hexane.  The fractions were concentrated, and the SPE step was repeated.  GC/MS analysis 
+was  performed  using  0.25 mm i.d. × 60 m  fused  silica  capillary  column  with  a  50 %  phenyl-substituted 
+methylpolysiloxane phase (0.25 μm film thickness) (DB-17ms).  For the GC/MS (II) analyses, selected  13C-labeled 
+PCB congeners and chlorinated pesticides were added to the dust prior to extraction for use as internal standards for 
+quantification purposes.  For the GC/MS (III) analyses, approximately 1 g subsamples from six bottles of SRM 2585 
+were extracted using PFE with DCM.  The concentrated extract was passed through an alumina cartridge and eluted 
+with 9 mL of 35 % DCM in hexane.  The processed extract was then analyzed by GC/MS using a 0.25 mm i.d. × 60 m 
+fused silica capillary column with 5 % (mole fraction) phenyl-substituted methylpolysiloxane phase (0.25 μm film 
+thickness) (DB-5ms, J&W Scientific).  Electron impact mass spectrometry was used for all of the analytes except for 
+the chlordanes and nonachlors, which were quantified using negative chemical ionization for GC/MS (III).  For the 
+GC/MS (III)  analyses,  selected  13C-labeled  PCB  congeners,  13C-labeled  trans-chlordane,  and  selected  deuterated 
+pesticides were added to the dust prior to extraction for use as internal standards for quantification purposes. 
+ 
+Homogeneity Assessment for PCBs and Chlorinated Pesticides:  The homogeneity of SRM 2585 was assessed by 
+analyzing duplicate samples of approximately 1 g from six bottles selected by stratified random sampling.  Samples 
+were extracted, processed, and analyzed as described above for GC/MS (II).  No statistically significant differences 
+NCes 
+among bottles were observed for the chlorinated analytes at this sample size. 
+ 
+Polybrominated Diphenyl Ethers 
+ 
+Value assignment of mass fractions for PBDE congeners was based on four sets of measurements (three sets from 
+NIST and one set from a collaborating laboratory) using a variety of different extraction, cleanup, and quantification 
+methods.    All  measurements  were  performed  by  using  GC/MS  operated  in  either  electron  impact  (GC/EI-MS)  or 
+negative chemical ionization (GC/NCI-MS) mode. 
+ 
+dust
+For two of the NIST measurement sets, GC/NCI-MS (I) and GC/EI-MS (I), between 0.5 g and 1 g subsamples of dust 
+from each of four bottles were extracted using PFE with DCM.  The concentrated extract was placed on a silica SPE 
+cartridge  and  eluted  with  hexane.    The  extracts  were  analyzed  by  using  both  GC/EI-MS  and  GC/NCI-MS  on  a 
+0.25 mm × 15 m fused silica capillary column with a 5 % (mole fraction) phenyl-substituted methylpolysiloxane phase 
+(0.25 μm film thickness) (DB-5ms).  For both methods 13C-labeled 2,2',3,4,5-pentachlorodiphenyl ether (CDE 86L) 
+and  13C-labeled 2,2',3,3',4,4',5,5',6,6'-decabromodiphenyl ether (BDE 209L) were added to the dust sample prior to 
+extraction for use as internal standards for quantification purposes. 
+ 
+
+SRM 2585 
+
+Page 13 of 16 
+
+DCM 
+
+For the third NIST measurement set, GC/EI-MS (II), between 0.5 g and 1 g subsamples of dust from each of six bottles 
+were extracted using PFE with DCM.  The extracts were first subjected to a cleanup step using a 5 % deactivated 
+alumina SPE column and then injected onto a size exclusion chromatographic column.  The extracts were analyzed 
+by using GC/EI-MS on a 0.25 mm x 60 m fused silica capillary column with a 5 % (mole fraction) phenyl-substituted 
+methylpolysiloxane  phase  (0.25 μm  film  thickness)  (DB-5ms).    13C-labeled  2,2,4,4',5-pentabromodiphenyl  ether 
+(PBDE 99L) and PBDE 209L were added to the dust samples prior to extraction for use as an internal standard for 
+quantification of the PBDEs. 
+ 
+of 
+For the measurements from the collaborating laboratory (Environment Canada), GC/NCI-MS (II), four subsamples of 
+between 0.5 g and 1 g from a single bottle were Soxhlet extracted using DCM after spiking with mirex as an internal 
+The  extracts  were 
+standard.  The extracts were cleaned using 2 g of 6 % deactivated alumina with petroleum ether.  The extracts were 
+analyzed  by  using  GC/NCI-MS  on  a  0.25 mm × 15 m  fused  silica  capillary  column  with  a  5 %  (mole  fraction) 
+phenyl-substituted methylpolysiloxane phase (0.25 μm film thickness) (DB-5ms). 
+ 
+Polycyclic Musks 
+ 
+Value assignment of mass fractions for polycyclic musks was based on two sets of measurements using a variety of 
+different extraction, cleanup, and quantification methods.  All measurements were performed by using GC/EI-MS. 
+ 
+For  two  of  the  NIST  measurement  sets  between  0.5 g  and  1 g  subsamples  of  dust  from  each  of  six  bottles  were 
+extracted using PFE with DCM.  The extracts were first subjected to a cleanup step using a 5 % deactivated alumina 
+SPE column and then injected onto a size exclusion chromatographic column.  The extracts were analyzed by using 
+GC/EI-MS on either a 0.25 mm x 60 m fused silica capillary column with a 5 % (mole fraction) phenyl-substituted 
+methylpolysiloxane phase (0.25 μm film thickness) (DB-5ms) or a 0.18 mm i.d. × 30 m fused silica capillary column 
+with  a  relatively  non-polar  proprietary  phase  (0.18 μm  film  thickness)  (DB-XLB).  The  internal  standard 
+d10-fluoranthene was added to the dust samples prior to extraction and used for the quantification of polycyclic musks.  
+ 
+Perfluorinated alkyl acids 
+ 
+a  variety  of  different 
+Value assignment of mass fractions for PFAAs was based on four sets of measurements using a variety of different 
+LC/MS/MS  operated  in
+extraction, cleanup, and quantification methods.  All measurements were performed by using LC/MS/MS operated in 
+the negative ionization mode.  
+ 
+For one NIST measurement set between 0.5 g and 1 g of dust were extracted using sonication with 0.1 M potassium 
+hydroxide in methanol for 30 min.  The extracts were subjected to a weak anion exchange SPE column for cleanup.  
+The extracts were analyzed by using LC/MS/MS on a 2.1 mm x 100 mm x 5 μm C8 column.  13C-labeled PFAAs were 
+added to the dust samples prior to extraction and used for the quantification of PFAAs.  
+ 
+For one set of NIST measurements between 0.5 g and 1 g of dust were extracted using sonication with acetonitrile for 
+10 min.    The  extracts  were  subjected  to  a  graphitized  carbon  black  SPE  column  for  cleanup.    The  extracts  were 
+analyzed by using LC/MS/MS on a 3.0 mm x 50 mm x 2.6 μm pentafluorophenyl phase column.  13C-labeled PFAAs 
+were added to the dust samples prior to extraction and used for the quantification of PFAAs. 
+ 
+For  two  NIST  measurement  sets  between  0.5 g  and  1 g  of  dust  were  extracted  using  PFE  with  0.1 M  potassium 
+hydroxide in  methanol.  The extracts  were subjected to a graphitized carbon black SPE column for cleanup.  The 
+extracts  were  analyzed  by  using  LC/MS/MS  on  either  a  2.1 mm x 100 mm x 5 μm  C8  column  or  a 
+3.0 mm x 50 mm x 2.6 μm pentafluorophenyl phase column.  13C-labeled PFAAs were added to the dust samples prior 
+to extraction and used for the quantification of PFAAs.  
+ 
+Hexabromocyclododecanes 
+ 
+Value assignment of mass fractions for hexabromocyclododecanes was based on four sets of measurements using a 
+variety  of  different  extraction,  cleanup,  and  quantification  methods.    All  measurements  were  performed  by  using 
+LC/MS/MS operated in the negative ionization mode.  
+ 
+For one of the NIST measurement sets approximately 0.2 g subsamples of dust were extracted using PFE with DCM.  
+The extracts were first subjected to a cleanup on a size exclusion chromatographic column and then a cleanup using a 
+5 %  deactivated  alumina  SPE  column. 
+  The  extracts  were  analyzed  by  using  LC/MS/MS  on  a 
+3.0 mm x 150 mm x 3.5 μm  C18  column.    13C-labeled  hexabromocyclododecanes  were  added  to  the  dust  samples 
+prior to extraction for use as an internal standard for quantification of the hexabromocyclododecanes.  
+ 
+
+SRM 2585 
+
+Page 14 of 16 
+
+For three of the NIST measurement sets between 0.8 g and 1 g subsamples of dust were extracted using ultrasonic 
+extraction with DCM for one hour.  The extracts were subjected to cleanup using a silica SPE cartridge and eluted 
+with  DCM  and  methanol.    The  extracts  were  analyzed  using  LC/MS/MS  on  a  3.0 mm x 150 mm x 3.5 μm  C18 
+column.    13C-labeled  hexabromocyclododecanes  were  added  to  the  dust  samples  prior  to  extraction  for  use  as  an 
+internal standard for quantification of the hexabromocyclododecanes 
+ 
+Organophosphorus flame retardants 
+ 
+Value assignment of mass fractions for organophosphorus flame retardants was based on four sets of measurements 
+using a variety of different extraction, cleanup, and quantification methods.  Measurements were performed by using 
+GC/EI-MS or LC/MS/MS operated in the negative ionization mode.   
+ 
+For one NIST measurement set between 0.5 g and 1 g of dust were extracted using ultrasonic extraction with DCM.  
+The extracts were subjected to cleanup using a silica SPE cartridge and eluted with ethyl acetate.  The extracts were 
+analyzed  using  GC/EI-MS  on  a  0.25 mm  i.d. × 60 m  fused  silica  capillary  column  with  a  relatively  non-polar 
+proprietary  phase  (0.25 μm  film  thickness)  (DB-XLB).    The  internal  standards  d27-Tributyl  phosphate  and  d15-
+Triphenyl phosphate were added to the dust samples prior to extraction for use as an internal standard for quantification 
+of the organophosphorus flame retardants.  
+ 
+For three NIST measurement sets between 0.5 g and 1 g of dust were extracted using Soxhlet extraction for 18 h.  Both 
+sets of Soxhlet extraction were performed with 250 mL of 50 % hexane and 50 % acetone (volume fraction).  The 
+extracts  were  subjected  to  cleanup  using  a  florisil  SPE  cartridge  and  eluted  with  ethyl  acetate.    Two  sets  of  the 
+processed  extract  were  then  analyzed  by  GC/MS  using  a  0.25 mm i.d. × 30 m  fused  silica  capillary  column  with 
+50 % (mole fraction) phenyl-substituted methylpolysiloxane phase (0.25 μm film thickness) (DB-17ms).  The third 
+set  of  process  extract  was  analyzed  using  LC/MS/MS  on  a  2.1 mm x 100 mm x 3 μm  C18  column.    The  internal 
+standards d27-Tributyl phosphate and d15-Triphenyl phosphate were added to the dust samples prior to extraction for 
+use as an internal standard for quantification of the organophosphorus flame retardants.  
+ 
+ 
+ 
+ 
+[1]  May, W.; Parris,  R.; Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136,  U.S.  Government 
+Printing Office:  Washington, DC (2000); available at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Jan 2018). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement 
+(GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Jan 2018). 
+
+REFERENCES 
+
+ 
+[2] 
+
+[3]  SRM 2583, Trace Elements in Indoor Dust Nominal 90 mg/kg Jan 2018Lead; National Institute of Standards 
+
+Lead 
+and Technology, U.S. Department of Commerce:  Gaithersburg, MD (1998). 
+
+rsburg, 
+
+[4]  SRM 2584, Trace Elements in Indoor Dust Nominal 1 % Lead; National Institute of Standards and Technology, 
+
+U.S. Department of Commerce: Gaithersburg, MD (1999). 
+
+[5]  Poster, D.L.; Schantz, M.M.; Kucklick, J.R.; Lopez de Alda, M.J.; Porter, B.J.; Pugh, R.; Wise, S.A.; Three New 
+Mussel  Tissue  Standard  Reference  Materials (SRMs)  for  the  Determination  of  Organic  Contaminants;  Anal. 
+Bioanal. Chem.; Vol. 378, pp. 1213−1231 (2004). 
+
+[6]  Wise, S.A.;  Poster, D.L.;  Schantz, M.M.;  Kucklick, J.R.;  Sander, L.C.;  Lopez  de  Alda, M.;  Schubert, P.; 
+Parris, R.M.;  Porter, B.J.;  Two  New  Marine  Sediment  Standard  Reference  Materials (SRMs)  for  the 
+Determination of Organic Contaminants; Anal. Bioanal. Chem., Vol. 378, pp. 1251−1264 (2004). 
+
+[7]  Schantz, M.M.;  Benner, B.A., Jr.;  Hays, M.J.;  Kelly, W.R.;  Vocke, R.D., Jr.;  Demiralp, R.;  Greenberg, R.R.; 
+Schiller, S.B.;  Lauenstein, G.G.;  Wise, S.A.;  Certification  of  Standard  Reference  Material (SRM) 1941a, 
+Organics in Marine Sediment; Fresenius’ J. Anal. Chem., Vol. 352, pp. 166−173 (1995). 
+
+[8]  Wise, S.A.; Sander, L.C.; Schantz, M.M.; Hays, M.J.; Benner, B.A., Jr.; Recertification of Standard Reference 
+Material (SRM) 1649,  Urban  Dust,  for  the  Determination  of  Polycyclic  Aromatic  Hydrocarbons (PAHs); 
+Polycyclic Aromat. Compd., Vol. 13, pp. 419−456 (2000). 
+
+Extraction  of
+[9]  Schantz, M.M.;  Nichols, J.J.;  Wise, S.A.;  Evaluation  of  Pressurized  Fluid  Extraction  for  the  Extraction  of 
+
+Environmental Matrix Reference Materials; Anal. Chem., Vol. 69, pp. 4210−4219 (1997). 
+
+SRM 2585 
+
+Page 15 of 16 
+
+[10]  Schantz, M.M.; Koster, B.J.; Oakley, L.M.; Schiller, S.B.; Wise, S.A.; Certification of Polychlorinated Biphenyl 
+Congeners and Chlorinated Pesticides in a Whale Blubber Standard Reference Material; Anal. Chem., Vol. 67, 
+pp. 901−910 (1995). 
+
+[11]  Poster, D.L.;  Schantz, M.M.;  Wise, S.A.;  Vangel, M.G.;  Analysis  of  Urban  Particulate  Standard  Reference 
+ical  and  Physical 
+Materials for the Determination of Chlorinated Organic Contaminants and Additional Chemical and Physical 
+Properties; Fresenius’ J. Anal. Chem., Vol. 363, pp. 380−390 (1999). 
+
+of 
+[12]  Poster, D.L.;  Kucklick, J.R.;  Schantz, M.M.;  Porter, B.J.;  Leigh, S.D.;  Wise, S.A.;  Determination  of 
+Polychlorinated Biphenyl Congeners and Chlorinated Pesticides in a Fish Tissue Standard Reference Material; 
+Anal. Bioanal. Chem., Vol. 375, pp. 223–241 (2003). 
+
+on 
+
+[13]  Levenson, M.S.; Banks, D.L.; Eberhardt, K.R.; Gill, L.M.; Guthrie, W.F.; Liu, H.K.; Vangel, M.G.; Yen, J.H.; 
+Zhang, N.F.; An Approach to Combining Results from Multiple Methods Motivated by the ISO GUM; J. Res. 
+Natl. Inst. Stand. Technol., Vol. 105, pp. 571–579 (2000). 
+
+[14]  Ruhkin, A.L.;  Vangel, M.G.;  Estimation  of  a  Common  Mean  and  Weighted  Means  Statistics;  J.  Am.  Statist. 
+
+Weighted  Means  Statistics 
+
+Assoc., Vol. 93, pp. 303–308 (1998). 
+
+[15]  Ballschmiter, K.;  Zell, M.;  Analysis  of  Polychlorinated  Biphenyls (PCB)  by  Glass  Capillary  Gas 
+Chromatography− Composition of Technical Aroclor- and Clophen-PCB Mixtures; Fresenius’ Z. Anal. Chem., 
+Vol. 302, pp. 20–31 (1980). 
+
+[16]  Schulte, E.; Malisch, R.; Calculation of the Real PCB Content in Environmental Samples. I. Investigation of the 
+Composition of Two Technical PCB Mixtures; Fresenius’ Z. Anal. Chem., Vol. 314, pp. 545−551 (1983). 
+[17]  Dersimonian, R.; Laird, N.; Meta-Analysis in Clinical Trials; Control Clin. Trials, Vol. 7, pp. 177–188 (1986). 
+[18]  Horn, R.A.; Horn, S.A.; Duncan, D.B.; Estimating Hetroscedastic Variance in Linear Models; J. Am. Stat. 
+
+Assoc., Vol. 70, pp. 380–385 (1975). 
+
+[19]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2018). 
+
+[20]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall (1993). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate  Revision  History:    12  January  2018  (Addition  of  polycyclic  Musks,  perfluorinated  alkyl  acids,  and  selected  flame  retardants); 
+16 December 2014  (Change  of  expiration  date;  editorial  changes);  19 September 2011  (Editorial  revision);  06 January 2010  (Updated  storage 
+temperature); 20 December 2005 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+ 
+
+gov/srm
+
+SRM 2585 
+
+Page 16 of 16 
+
+

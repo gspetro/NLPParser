@@ -1,0 +1,361 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material® 1951c 
+ 
+Lipids in Frozen Human Serum 
+
+tely 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  evaluating  the  accuracy  of  clinical 
+procedures  for  the  determination  of  total  cholesterol,  high-density  lipoprotein (HDL)-cholesterol,  low-density 
+lipoprotein (LDL)-cholesterol, and total glycerides in human serum.  It is also intended for use in validating working 
+or secondary reference materials.  A unit of SRM 1951c consists of four vials of frozen human serum, two vials each 
+at two different analyte concentration levels.  Each bottle contains approximately 1 mL of serum. 
+ 
+Certified Concentration Values:  The certified concentration values  for  total cholesterol and total glycerides (as 
+triolein) are provided in Table 1a (mmol/L) and Table 1b (mg/dL).  A NIST certified value is a value for which NIST 
+has the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or 
+taken into account [1].  The certified values for these analytes were determined at NIST and at the Lipid Reference 
+Laboratory at the Centers for Disease Control and Prevention (CDC) by isotope dilution gas chromatography–mass 
+spectrometry (ID-GC-MS) [2–5].  The methods used by NIST and CDC for measurement of total cholesterol and by 
+NIST for measurement of total glycerides are recognized as higher-order reference measurement procedures by the 
+Joint Committee for Traceability in Laboratory Medicine (JCTLM) [6].  The certified concentrations apply only to 
+serum thawed to room temperature, 20 °C to 25 °C (see “Instructions for Storage and Use”). 
+ 
+Reference Values:  The reference values for HDL-cholesterol, LDL-cholesterol, and total cholesterol, provided by 
+the Lipid Reference Laboratory at CDC, are provided in Table 2.  Reference values are noncertified values that are 
+the best estimate of the true values based on available data; however, the values do not meet the NIST criteria for 
+certification  and  are  provided  with  associated  uncertainties  that  may  reflect  only  measurement  precision,  may  not 
+include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods [1].  These results were obtained using CDC reference methods for lipids [7,8]. 
+ 
+Expiration of Certification:  The certification of SRM 1951c is valid, within the measurement uncertainty specified, 
+until 30 April 2023, provided the SRM is handled and stored in accordance with instructions given in this certificate 
+(see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+ie  SRM  is  damaged,  contaminated,  or 
+otherwise modified.  
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall  direction  and  coordination  of  the  analytical  measurements  leading  to  the  certification  of  this  SRM  were 
+performed by K.W. Phinney of the NIST Biomolecular Measurement Division and L.C. Sander of the NIST Chemical 
+Sciences Division.  Overall coordination of the measurements at CDC was performed by H. Vesper. 
+ 
+trams  Office. 
+Acquisition of the material was performed by K.W. Phinney and K.E. Sharpless of the NIST Special Programs Office.  
+Analytical measurements at NIST were performed by L.T. Sniegoski of the NIST Chemical Sciences Division and 
+M.J. Welch,  formerly  of  NIST.    Analytical  measurements  at  CDC  were  performed  by  S. Edwards,  S. Pyatt,  and 
+S. Stribling of the CDC Division of Laboratory Sciences. 
+ 
+Statistical analysis was provided by N.-F. Zhang of the NIST Statistical Engineering Division. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+18
+Certificate Issue Date:  05 January 2018 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos Gonzalez, Chief 
+Chemical Sciences Division 
+
+ 
+
+Page 1 of 4 
+
+  
+
+SRM 1951c 
+
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+WARNINGS TO USERS 
+ 
+Warning:    SRM 1951c  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN-SOURCE  MATERIAL.  
+HANDLE  PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS 
+DISEASE.  The supplier of the serum has reported that each donor unit of serum used in the preparation of this product 
+has been tested by an FDA-approved method and found non-reactive/negative for hepatitis B surface antigen (HbsAg), 
+human immunodeficiency (HIV) 1 and 2 antibodies, and hepatitis C virus (HCV).  However, no known test method 
+can offer complete assurance that hepatitis B virus, hepatitis C virus, HIV, or other infectious agents are absent from 
+this material.  Accordingly, this human blood-based product should be handled at the Biosafety Level 2 or higher as 
+recommended for any POTENTIALLY INFECTIOUS HUMAN SERUM OR BLOOD SPECIMEN in the Centers 
+for Disease Control and Prevention/National Institutes of Health Manual [9]. 
+ 
+STORAGE  AND  USE 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The serum is shipped frozen (on dry ice), and upon receipt, should be stored frozen until ready for use.  A 
+freezer temperature of –20 °C is acceptable for storage up to one week.  If a longer storage time is anticipated, the 
+material should be stored at or below –60 °C.  The SRM should not be exposed to sunlight or ultraviolet radiation.  
+Storage of thawed material at room or refrigerator temperatures may result in changes in the analyte concentrations. 
+ 
+zer  and  allowed  to  stand  at  room  temperature 
+Use:  Bottles of the SRM to be analyzed should be removed from the freezer and allowed to stand at room temperature 
+until thawed.  After the material is thawed to room temperature, it should be used immediately.  The material should 
+be swirled gently to mix it before aliquots are withdrawn. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source of Material:  SRM 1951c was prepared by Solomon Park Research Laboratories (Kirkland, WA) following 
+a protocol developed by the Cholesterol Reference Materials Subcommittee of the National Committee for Clinical 
+Laboratory Standards (NCCLS) [10].  The goal of the NCCLS project was to develop a commutable lipid reference 
+material for total cholesterol that would be useful in most presently available field methods.  A large-scale study of a 
+prior lot of this material involving most of the major clinical measurement systems found no significant biases between 
+results on that prior lot and those from fresh, unpooled serum.  The study verified that material prepared following the 
+recommendations of the NCCLS study is an appropriate mechanism for transferring accuracy from the definitive and 
+reference methods to the clinical laboratories without significant matrix effects on the systems tested.  
+ 
+Preparation of Material:  Donor units were collected and allowed to clot at room temperature for 4 h.  The serum 
+was  removed  from  the  clot  and  immediately  cooled  to  approximately  4 °C.    Each  unit  of  donor  serum  was  then 
+analyzed for total cholesterol content to determine which donor units to pool.  The donor units selected were then 
+pooled.  One-milliliter aliquots of the bulk pool were dispensed into 3 mL glass vials and frozen at –70 °C.  This was 
+accomplished within 50 h of the initial donor unit collection. 
+ 
+Analysis:  Value assignment of the concentrations of total cholesterol and total glycerides (as triolein) was based on 
+the combination of results from ID-GC-MS methods at NIST and CDC.  In addition, CDC provided results for total 
+cholesterol using the Abell−Kendall reference method [7].  Concentrations of HDL-cholesterol were determined at 
+CDC  using  the  ultracentrifugation  reference  method  [8],  and  LDL-cholesterol  was  determined  at  CDC  using  the 
+beta-quantification reference method [8].   
+ 
+Homogeneity  Analysis:    The  homogeneity  assessment  was  made  at  the  time  the  certification  analyses  were 
+performed.   A stratified sampling plan  was devised to test  for homogeneity across the lot of vials.  There  was no 
+apparent trend in the data when plotted against the sequence in which the vials were prepared. 
+ 
+ 
+
+,  AND  ANALYSIS
+
+immediately 
+
+ 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure. Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 1951c 
+
+Page 2 of 4 
+
+Certified  Values:    Values  for  total  cholesterol  and  total  glycerides  are  based  upon  the  means  of  the  results  from 
+analyses at NIST and CDC using ID-GC-MS.  The uncertainty provided  with each certified  value is an expanded 
+uncertainty  about  the  mean  to  cover  the  measurand  with  approximately  95 %  confidence;  it  incorporates  Type B 
+uncertainty components related to the analyses and expresses both the observed difference between the results from 
+the  methods  and  their  respective  uncertainties,  consistent  with  the  ISO/JCGM  Guides [11,12].    The  expanded 
+uncertainty is calculated as U = kuc, where uc is the combined uncertainty and k is a coverage factor corresponding to 
+approximately 95 % confidence for each analyte [11].  For the certified values shown in Table 1, k = 2.  The measurand 
+is  concentration  value  for  each  analyte  listed  in  Table  1.    Metrological  traceability  is  to  the  SI  derived  unit  for 
+amount-of-substance  concentration  (expressed  as  millimoles  per  liter)  and  mass  concentration  (expressed  as 
+milligrams per deciliter).  
+
+ 
+ 
+Table 1a.  Certified Amount-of-Substance Concentration Values for SRM 1951c 
+
+Amount 
+
+ 
+
+ 
+ 
+
+ 
+
+Analyte 
+
+Level 1 
+(mmol/L) 
+
+Level 2 
+(mmol/L) 
+
+Total Cholesterol 
+Total Glycerides  
+
+  3.943  ±  0.046 
+  1.717  ±  0.036 
+
+ 
+ 
+
+6.244  ±  0.072 
+1.642  ±  0.036 
+
+Table 1b.  Certified Mass Concentration Values for SRM 1951c 
+
+ 
+
+Analyte 
+
+Level 1 
+(mg/dL) 
+
+Level 2 
+(mg/dL) 
+
+Total Cholesterol 
+Total Glycerides(a)  
+
+  152.44  ±  1.78 
+  152.0  ±  3.2 
+
+  241.41  ±  2.80 
+  145.4  ±  3.2 
+
+ssed  as  triolein  in 
+
+(a) Total glycerides results are expressed as triolein in milligrams per deciliter. 
+ 
+ 
+the  means  of 
+Reference Values:  Values for HDL-cholesterol, LDL-cholesterol, and total cholesterol are based upon the means of 
+results  from  analyses  at  CDC.    The  uncertainty  provided  with  each  reference  value  in  Table 2  is  an  expanded 
+uncertainty, U, at the 95 % level of confidence, and is calculated according to the  method  described  in the ISO/JCGM 
+Guide [11].  The measurand is the concentration value for each analyte listed in Table 2 as determined by the method or 
+methods indicated.  Metrological traceability is to the SI derived unit for mass concentration (expressed as milligrams per 
+deciliter).  
+ 
+
+ 
+Table 2.  Reference Mass Concentration Values for HDL-Cholesterol, LDL-Cholesterol, and Total Cholesterol 
+
+“oncentration
+
+Analyte 
+
+Level I 
+(mg/dL) 
+
+Level II 
+(mg/dL) 
+
+HDL-Cholesterol 
+LDL-Cholesterol 
+Total Cholesterol(a) 
+
+  41.0  ±  0.9 
+  86.4  ±  1.4 
+  154.6  ±  1.1 
+
+  64.9  ±  1.7 
+  143.8  ±  2.1 
+  244.8  ±  1.1 
+
+(a) Total cholesterol as determined by the Abell-Kendall reference method [7]. 
+ 
+ 
+
+ 
+
+SRM 1951c 
+
+Page 3 of 4 
+
+REFERENCES 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value-Assignment 
+of  Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S.  Government 
+Printing  Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/publications.cfm  (accessed 
+Jan 2018). 
+
+[2]  Ellerbe, P.; Meiselman, S.; Sniegoski, L.T.; Welch, M.J.; White, V.E.; Determination of Serum Cholesterol by 
+a  Modification  of  the  Isotope  Dilution  Mass  Spectrometric  Definitive  Method;  Anal.  Chem.,  Vol. 61, 
+pp. 1718−1723 (1989). 
+
+[3]  Edwards, S.H.;  Kimberly, M.M.;  Pyatt, S.D.;  Stribling, S.L.;  Dobbin, K.D.;  Myers, G.L.;  Proposed  Serum 
+Cholesterol Reference Measurement Procedure by Gas Chromatography–Isotope Dilution Mass Spectrometry; 
+Clin. Chem., Vol. 57, pp. 614–622 (2011). 
+
+[4]  Ellerbe, P.; Sniegoski, L.T.; Welch, M.J.; Isotope Dilution Mass Spectrometry as a Candidate Definitive Method 
+for Determining Total Glycerides and Triglycerides in Serum; Clin. Chem., Vol. 41, pp. 397−404 (1995). 
+[5]  Edwards, S.H.;  Stribling, S.L.;  Pyatt, S.D.;  Kimberly, M.M.;  Reference  Measurement  Procedure  for  Total 
+
+Glycerides by Isotope Dilution GC–MS; Clin. Chem., Vol. 58, pp. 768–776 (2012). 
+JCTLM; available at http://www.bipm.org/en/committees/jc/jctlm/ (accessed Jan 2018). 
+
+[6] 
+[7]  Abell, L.L.;  Levy, B.B.;  Brodie, B.B.;  Kendall, F.E.;  A  Simplified  Method  for  the  Determination  of  Total 
+Cholesterol in Serum and Demonstration of Its Specificity; J. Biol. Chem., Vol. 195, pp. 357–366 (1952). 
+[8]  Myers, G.L.; Cooper, G.R.; Greenberg, N.; Kimberly, M.M.; Waymack, P.P.; Hassemer, D.J.; Standardization 
+of Lipid and Lipoprotein Measurements; In Handbook of Lipoprotein Testing, 2nd ed., Rifai, N.; Warnick, G.R.; 
+Dominiczak, M.H.,  Eds.;  American  Association  for  Clinical  Chemistry  (AACC),  Washington, D.C.,  
+pp. 717–748. 
+
+[9]  CDC/NIH; Biosafety in Microbiological and Biomedical Laboratories, 5th ed.; Richardson, J.; Barkley, W.E.; 
+Richmond, J.; McKinney, R.W., Eds.; U.S. Department of Health and Human Services, Public Health Service, 
+CDC and National Institutes of Health; US Government Printing Office: Washington, D.C. (2009); available at 
+http://www.cdc.gov/OD/OHS/biosfty/bmbl5/BMBL_5th_Edition.pdf (accessed Jan 2018). 
+
+[10]  NCCLS;  Preparation  and  Validation  of  Commutable  Frozen  Human  Serum  Pools  as  Secondary  Reference 
+Materials  for  Cholesterol  Measurement  Procedures;  NCCLS  Publication  C37-A,  National  Committee  for 
+Clinical Laboratory Standards, Wayne, PA (2000). 
+
+[11]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2018);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Technical Note 1297; U.S. Government Printing Office: Washington, DC (1994); available at 
+http://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Jan 2018). 
+
+[12]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+t  Committee 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee 
+for Guides in Metrology (JCGM) (2008); available at 
+) 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2018). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  05 January 2018 (Change of expiration date; editorial changes); 23 November 2015 (Editorial changes); 27 June 
+   
+2013 (Original certificate issue date).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301)  948-3730; 
+telephone 
+ 
+accomplished  by  contacting 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+fax 
+
+SRM 1951c 
+
+Page 4 of 4 
+
+

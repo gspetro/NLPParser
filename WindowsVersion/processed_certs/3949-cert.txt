@@ -1,0 +1,568 @@
+﻿ 
+
+National Institute of Standards & Technology 
+Certificate of Analysis 
+ 
+Standard Reference Material 3949 
+ 
+Folate Vitamers in Frozen Human Serum 
+
+ 
+cermining  folate  vitamers  in 
+This Standard Reference Material (SRM) is intended for use in validating methods for determining folate vitamers in 
+human  serum,  and  for  qualifying  in-house  control  materials  analyzed  using  those  methods.    A  unit  of  SRM 3949 
+consists of one vial each of three materials: low (Level 1), medium (Level 3), and high (Level 2) folates.  Each vial 
+contains approximately 1.0 mL of frozen human serum. 
+ 
+Certified values are provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence 
+in  that  all  known  or  suspected  sources  of  bias  have  been  evaluated [1,2].    Metrological  traceability  is  to  the 
+measurement units realized through purity determinations of the primary standards employed in the NIST methods. 
+ 
+Table 1.  Certified Values for Folate Vitamers in SRM 3949 
+ 
+
+ 
+
+Level 1 
+
+Folic acid 
+5-methyltetrahydrofolate 
+Level 2 
+
+Folic acid 
+5-methyltetrahydrofolate 
+Level 3 
+
+Folic acid 
+5-methyltetrahydrofolate 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mass Fraction(a) 
+(ng/g) 
+
+Mass Concentration(b) 
+(ng/mL) 
+
+Amount Concentration(c) 
+(nmol/L) 
+
+0.43  ± 
+6.60  ± 
+
+ 
+0.13 
+0.97 
+
+0.44  ± 
+6.75  ± 
+
+ 
+0.14 
+1.00 
+
+1.00  ± 
+14.69  ± 
+
+ 
+0.32 
+2.18 
+
+2.91  ± 
+20.52  ± 
+
+0.67 
+1.83 
+
+2.98  ± 
+21.00  ± 
+
+0.68 
+1.87 
+
+6.75  ± 
+45.71  ± 
+
+1.54 
+4.07 
+
+2.01  ± 
+13.13  ± 
+
+0.44 
+1.69 
+
+2.06  ± 
+13.45  ± 
+
+0.45 
+1.73 
+
+4.67  ± 
+29.27  ± 
+
+1.01 
+3.77 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the certified value and U95%(x) is the expanded uncertainty of the certified value.  
+The  true  value  of  the  analyte  is  believed  to  lie  within  the  interval  x ± U95%(x)  with  95 %  confidence.    To  propagate  this 
+uncertainty, treat the certified value as a normally distributed random variable with mean x and standard deviation U95%(x)/2. 
+(b) Mass  concentration  values  were  calculated  from  mass  fractions  using  measured  serum  densities:    Level  1,  1.02332  g/mL; 
+
+Level 2, 1.02376 g/mL; Level 3, 1.02435 g/mL. 
+
+(c) Amount concentration values, nmol/L, are calculated from mass concentration results, nanogram per milliliter, via multiplication 
+ion 
+by 1000/M, where M is the molar mass, grams per mole, of the analyte.  These  molar  masses are: Mfolic  acid = 441.40 g/mol,  
+M5-methyltetrahydrofolate = 459.46 g/mol. 
+
+ 
+Expiration of Certification:  The certification of SRM 3949 is valid, within the measurement uncertainty specified, 
+until  31 August 2023,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate.  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Chemical
+Overall direction and coordination of the technical activities  were performed by J. Camara of the NIST Chemical 
+Sciences Division. 
+ 
+
+J. 
+
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  22 October 2018 
+
+  
+
+SRM 3949  
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 5 
+
+Statistical analysis of the data was performed by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE AND WARNINGS TO USERS 
+ 
+SRM 3949  IS  INTENDED  FOR  RESEARCH  USE.    THIS  IS  A  HUMAN  SOURCE  MATERIAL.    HANDLE 
+PRODUCT  AS  A  BIOHAZARDOUS  MATERIAL  CAPABLE  OF  TRANSMITTING  INFECTIOUS  DISEASE.  
+The supplier of this serum has reported that each donor unit of serum or plasma used in the preparation of this product 
+has been tested by a FDA-approved method and found non-reactive/negative for hepatitis B surface antigen (HbsAg), 
+human  immunodeficiency  virus (HIV)  1 and 2  antibodies,  and  hepatitis C  virus (HCV).    However,  no  known  test 
+method can offer complete assurance that hepatitis B virus, HCV, HIV, or other infectious agents are absent from this 
+material.    Accordingly,  this  human  blood-based  product  should  be  handled  at  the  Biosafety  Level 2  or  higher  as 
+recommended for any POTENTIALLY INFECTIOUS HUMAN SERUM OR BLOOD SPECIMEN in the Centers 
+for Disease Control/National Institutes of Health Manual [3].   
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Storage  and  Handling:    Until  required  for  use,  SRM 3949  should  be  stored  in  the  dark  at  a  temperature  below  
+–60 °C.  
+ 
+Use:  SRM 3949 is provided as a set of three vials of frozen serum that should be allowed to thaw at room temperature 
+for at least 30 min under subdued light.  The contents of a vial should then be gently mixed prior to removal of a test 
+portion for analysis.  Precautions should be taken to avoid exposure to strong ultraviolet (UV) light and direct sunlight.  
+The certification only applies to the initial use, and the same results are not guaranteed if the remaining material is 
+used at a later date.  NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee the continued or 
+continuous supply of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a benchmark for the 
+quality and accuracy of the user’s in-house reference materials and working standards.  As such, the SRM should be 
+used  to  validate  the  more  routinely  used  reference  materials  in  a  laboratory.    Comparisons  between  the  SRM  and 
+in-house  reference  materials  or  working  measurement  standards  should  take  place  at  intervals  appropriate  to  the 
+conservation of the SRM and the stability of relevant in-house materials.  For further guidance on how this approach 
+can be implemented, see reference 4 or contact NIST by email at srms@nist.gov. 
+ 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source: This SRM was developed after an appropriate human subjects research determination by NIST.  Support for 
+the  development  of  SRM  3949  was  provided  in  part  by  the  National  Institutes  of  Health (NIH)  Office  of  Dietary 
+Supplements (ODS). 
+ 
+NIST Analytical Approach for Determination of Folates (NIST ID-LC-MS/MS Method 1):  For simultaneous 
+measurement  of  folic  acid,  5-methyltetrahydrofolate,  tetrahydrofolate,  5-formyltetrahydrofolate,  and  MeFox,  an 
+isotope-dilution  liquid  chromatography  tandem  mass  spectrometry (ID-LC-MS/MS)  method  was  used  to  measure 
+folate  forms  in  SRM  3949 [5].    The  method  quantifies  folic  acid,  5-methyltetrahydrofolate,  tetrahydrofolate, 
+5-formyltetrahydrofolate, 
+of 
+4-α-hydroxy-5-methyltetrahydrofolate (MeFox).  To prepare samples for analysis, serum (275 µL) was mixed with 
+ammonium formate buffer and an internal standard mixture that contained 13C5-labeled folate forms.  Sample clean-up 
+was performed using 100 mg phenyl sorbent solid phase extraction (SPE) cartridges.  Samples were eluted from the 
+SPE  cartridges  with  an  organic  elution  solvent  containing  both  ascorbic  acid  and  acetic  acid  and  analyzed  by 
+LC-MS/MS in positive ion mode using electrospray ionization coupled to a LC system.  Chromatographic separation 
+was achieved using a C8 analytical column with an isocratic mobile phase and a total run time of 10 min.  Quantitation 
+was performed by peak area ratio (analyte to internal standard) and based on a 6-point aqueous calibration curve where 
+calibrants  were  carried  through  all  sample  preparation  steps.    For  certified  values,  the  purity  of  neat 
+5-methyltetrahydrofolate calibrant material was determined at NIST using LC-absorbance and the purity of neat folic 
+acid  calibrant  material  was  determined  at  NIST  using  quantitative  protein  nuclear  magnetic  resonance 
+spectroscopy (1H-qNMR). 
+
+5,10-methenyltetrahydrofolate, 
+
+pyrazino-s-triazine 
+
+derivative 
+
+and 
+
+the 
+
+                                                           
+
+(1) Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+
+SRM 3949  
+
+Page 2 of 5 
+
+5,10-methenyltetrahydrofolate, 
+
+ 
+Second NIST  Analytical Approach for Determination of Folic Acid (NIST ID-LC-MS/MS Method 2):  As a 
+second approach to the measurement of folic acid, a variation of ID-LC-MS/MS was used to measure only folic acid 
+in SRM 3949.  To prepare samples for analysis, serum (300 µL) was mixed with ammonium formate buffer, and an 
+internal standard mixture that contained 13C5-labeled folic acid.  Sample clean-up was performed using 100 mg phenyl 
+sorbent SPE cartridges.  Samples were eluted from the SPE cartridges with an organic elution solvent containing acetic 
+acid  and  analyzed  by  LC-MS/MS (different  system  than  NIST  ID-LC-MS/MS  Method 1  approach  for  folates)  in 
+positive ion mode using electrospray ionization coupled to a LC system.  Chromatographic separation was achieved 
+using a C18 analytical column with a gradient mobile phase and a total run time of 20 min.  Quantitation was performed 
+by peak area ratio (analyte to internal standard) and based on a bracketed, matching aqueous calibration approach in 
+which  each  calibrant  was  carried  through  all  sample  preparation  steps.    Purity  of  neat  calibrant  material  was 
+determined at NIST using 1H-qNMR. 
+ 
+Analyses by the Centers for Disease Control and Prevention:  An ID-LC-MS/MS method was used to measure 
+folate  forms  in  SRM  3949 [5–8].    The  method  quantifies  folic  acid,  5-methyltetrahydrofolate,  tetrahydrofolate, 
+5-formyltetrahydrofolate, 
+of 
+4-α-hydroxy-5-methyltetrahydrofolate (MeFox).  To prepare samples for analysis, serum (150 µL) was mixed with 
+ammonium formate buffer and an internal standard mixture that contained 13C5-labeled folate forms.  Sample clean-up 
+was performed using a 50 mg phenyl SPE 96-well plate and an automated 96-probe SPE system.  Samples were eluted 
+from  the  SPE  plate  with  an  organic  elution  solvent  containing  ascorbic  acid  and  acetic  acid  and  analyzed  by 
+LC-MS/MS in positive ion mode using electrospray ionization coupled to a LC system.  Chromatographic separation 
+was achieved using a C8 analytical column with an isocratic mobile phase and a total run time of 7 min.  Quantitation 
+was performed by peak area ratio (analyte to internal standard) and based on a 5-point aqueous calibration curve where 
+calibrants were carried through all sample preparation steps. 
+ 
+Homogeneity Assessment:  The homogeneity of all folates was assessed at NIST using the methods and test portions 
+described above and found no significant variance. 
+ 
+Value Assignment:    Value  assignment  of  the  concentration  of  folic  acid  in  SRM 3949  Level 1  was  based  on  the 
+combination of results provided from NIST ID-LC-MS/MS Method 2 and from ID-LC-MS/MS at the CDC.  Value 
+assignment  of  folic  acid  in  SRM 3949  Level  2  and  Level  3  was  based  on  the  combination  of  results  from  NIST 
+ID-LC-MS/MS Method 1, NIST ID-LC-MS/MS Method 2, and ID-LC-MS/MS at the CDC.  Value assignment of the 
+concentrations  of  5-methyltetrahydrofolate,  tetrahydrofolate (except  for  Level  1),  5-formyltetrahydrofolate,  and 
+MeFox  are  based  on  the  results  from  NIST  ID-LC-MS/MS  Method  1  and  ID-LC-MS/MS  at  the  CDC.    The 
+tetrahydrofolate value assignment of Level 1 was based on the results of one analytical method at NIST ID-LC-MS/MS 
+Level 1.  Value assignment of total folate was based on results from ID-LC-MS/MS at the CDC. 
+ 
+ 
+
+pyrazino-s-triazine 
+
+derivative 
+
+|  folates
+
+and 
+
+the 
+
+ 
+
+SRM 3949  
+
+Page 3 of 5 
+
+Non-Certified Values:  Table 2 lists values that do not meet the NIST criteria for certification.  Non-certified values 
+were formerly known as Reference Values.  Values are metrologically traceable to the measurement procedures as 
+indicated in the footnotes.   
+ 
+
+ite  Vitamers  in  SRM  3949 
+Table 2.  Estimated Mass Fraction Values for Folate Vitamers in SRM 3949 
+
+ 
+
+Mass Fraction(a) 
+(ng/g) 
+
+Mass Concentration(b) 
+(ng/mL) 
+
+Amount Concentration(c) 
+(nmol/L) 
+
+Level 1 
+Tetrahydrofolate 
+MeFox 
+Total folate 
+
+Level 2 
+Tetrahydrofolate 
+MeFox 
+Total folate 
+
+Level 3 
+Tetrahydrofolate 
+5-formyltetrahydrofolate 
+MeFox 
+Total folate 
+
+ 
+0.50  ±  0.08(d) 
+0.73  ±  0.36(e) 
+
+ 
+0.51  ±  0.08 
+0.75  ±  0.37 
+
+ 
+0.67  ±  0.49(e) 
+0.90  ±  0.18(e) 
+
+ 
+0.68  ±  0.50 
+0.93  ±  0.19 
+
+ 
+0.61  ±  0.43(e) 
+3.39  ±  1.86(e) 
+1.02  ±  0.26(e) 
+
+ 
+0.62  ±  0.44 
+3.47  ±  1.90 
+1.05  ±  0.26 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1.14  ±  0.18 
+1.58  ±  0.78 
+17.0  ±  0.4(f) 
+ 
+
+1.53  ±  1.12 
+1.96  ±  0.40 
+56.0  ±  0.8(f) 
+
+1.39  ±  0.99 
+7.33  ±  4.01 
+2.22  ±  0.55 
+41.8  ±  0.5(f) 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  As 
+measured by the specific method(s), the true value of the analyte is believed to lie within the interval x ± U95%(x) with about a 
+95 % confidence.  To propagate  this uncertainty, treat the value as a normally distributed random  variable  with mean x and 
+standard deviation U95%(x)/2. 
+
+(b) Mass  concentration  values  were  calculated  from  mass  fractions  using  measured  serum  densities:    Level 1,  1.02332 g/mL; 
+
+Level 2, 1.02376 g/mL; Level 3, 1.02435 g/mL. 
+
+(c) Amount concentration values, nmol/L, are calculated from mass concentration results, nanogram per milliliter, via multiplication 
+by 1000/M, where M is the molar mass, grams per mole, of the analyte.  These molar masses are: Mtetrahydrofolate = 445.43 g/mol, 
+M5-formyltetrahydrofolate = 473.44 g/mol, MMeFox = 473.44 g/mol. 
+(d) Value is based on results of NIST ID-LC-MS/MS Method 1. 
+(e) Values are based on the combination of results from NIST ID-LC-MS/MS Method 1 and results of ID-LC-MS/MS provided by 
+
+the Centers for Disease Control and Prevention (CDC). 
+
+yntrol  and  Prevention
+
+(f) Values  are  based  on  results  of  ID-LC-MS/MS  provided  by  the  CDC.    Values  are  expressed  as  x ± U95%(x),  where  x  is  the 
+estimated value and U95%(x) is the expanded uncertainty of the value.  As measured by the specific method, the true value of the 
+analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence.  To propagate this uncertainty, treat the 
+value as a normally distributed random variable with mean x and standard deviation U95%(x)/2.16. 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+SRM 3949  
+
+Page 4 of 5 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for ValueAssignment- of Reference 
+Materials  for  Chemical  Measurements;  NIST  Special Publication  260-136,  U.S.  Government  Printing  Office:  
+Washington, DC (2000); available at https://www.nist.gov/srm/publications.cfm (accessed Oct 2018). 
+
+[2]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC (2008); 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Oct 2018). 
+
+available 
+
+[3]  CDC/NIH;  Biosafety 
+
+in  Microbiological  and  Biomedical  Laboratories,  5th  ed.;  HHS  publication 
+No. (CDC) 21-1112; Chosewood, L.C.; Wilson, D.E., Eds.; US Government Printing Office: Washington, D.C. 
+»safety/publicati 
+). 
+(2009); available at https://www.cdc.gov/biosafety/publications/bmbl5/index.htm (accessed Oct 2018). 
+C 
+
+[4]  Rukhin, A.L.; Compatibility Verification of Certified Reference Materials And User Measurements; Metrologia, 
+
+Vol. 51, pp. 11–17 (2014). 
+
+[5]  Fazili, Z.;  Whitehead, Jr., R.;  Paladugula, N.;  Pfeiffer, C.M.;  A  High-Throughput  LC-MS/MS  Method  Suitable 
+For Population Biomonitoring Measures Five Serum Folate Vitamers and One Oxidation Product; Anal Bioanal 
+Chem., Vol. 405, pp. 4549–4560 (2013). 
+
+[6]  Fazili, Z.;  Pfeiffer, C.M.;  Accounting  For  An  Isobaric  Interference  Allows  Correct  Determination  of  Folate 
+Vitamers in Serum by Isotope Dilution-liquid Chromatography-tandem Mass Spectrometry; J. Nutr., Vol. 143, 
+pp. 108–113 (2012). 
+
+[7]  Fazili, Z.; Pfeiffer, C.M.; Measurement of Folates in Serum and Conventionally Prepared Whole Blood Lysates: 
+Application of an Automated 96-Well Plate Isotope-dilution Tandem Mass Spectrometry Method; Clin. Chem., 
+Vol. 50, pp. 2378–2381 (2004). 
+
+[8]  Pfeiffer, C.M.;  Fazili, Z.;  McCoy, L.;  Zhang,  M.;  Gunter, E.W.;  Determination  of  Folate  Vitamers  in  Human 
+Serum  by  Stable-Isotope-Dilution  Tandem  Mass  Spectrometry  and  Comparison  with  Radioassay  and 
+Microbiologic Assay; Clin. Chem., Vol. 50, pp.423–432 (2004). 
+
+yp. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished 
+fax (301) 948-3730; 
+the 
+e-mail srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+telephone (301) 975-2200; 
+
+possession  is  current. 
+
+SRM  Program: 
+
+contacting 
+
+by 
+
+ 
+
+SRM 3949  
+
+Page 5 of 5 
+
+

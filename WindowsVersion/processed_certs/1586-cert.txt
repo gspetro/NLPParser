@@ -1,0 +1,525 @@
+﻿™ 
+
+Se  pe 
+
+WES 
+
+U.S.  Departmentof  Commerce 
+Malcolm:Baldrige 
+“Becretary/ 
+Paget  | 
+National  Bureau-of  Standards 
+Ernest  Ambler,  Director 
+
+~ 
+
+National  Bureau  of  Standards 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  1586 
+
+isotopically  Labeled  and  Unlabeled 
+
+Priority  Pollutants  in  Methanol 
+
+This  Standard  Reference  Material  (SRM)  is  intended  primarily  for  use  in  the  evaluation  and  calibration  of  analytical 
+instrumentation  used  for  the  determination  of  priority  pollutants  as  classified  by  the  U.S.  Environmental  Protection 
+In  particular  this  SRM  may  be  used  to  calibrate  and/or  test  a  laboratory’s  use  of  EPA  Analytical 
+Agency  (EPA). 
+Methods  1624  and  1625  (as  well  as  624-625  and  524-525).  These  methods  specifically  require  the  use  of  combined  gas 
+chromatography/mass  spectrometry  (GC/MS)  and  the  use  of  isotopically  labeled  internal  standards.  SRM  1586  is 
+composed  of  two  separate  solutions.  The  ten  Priority  Pollutants  in  one  solution  (SRM  1586-2)  contain  either  deuterium 
+or  carbon-13  while  the  other  solution  (SRM  1586-1)  contains  the  same  compounds  with  no  isotopes  except  those 
+naturally  occurring. 
+
+  
+
+Certified  Values  of  Constituent  Organic  Compounds:  The  certified  values  for  the  selected  organic  constituents  are 
+Shown  in  Table  1.  These  certified  values  are  based  on  results  obtained  from  the  gravimetric  preparation  of  these  solutions 
+and  from  the  analytical  values  determined  by  gas  chromatography.  Table  2  summarizes  the  calculated  and  analytically 
+determined  concentrations. 
+
+Notice  and  Warnings  to  User 
+
+  
+
+Handling:  Priority  Pollutants  are  reported  to  be  toxic  and  should  be  handled  with  care.  Use  proper  disposal  methods. 
+
+Expiration  of  Certification:  This  certification  is  valid,  within  the  limits  certified,  for  one  year  from  the  date  of  purchase. 
+In  the  event  that  the  certification  should  become  invalid  before  then,  purchasers  will  be  notified  by  NBS. 
+
+Storage: 
+
+Sealed  ampoules,  as  received,  should  be  stored  in  the  dark  at  temperatures  between  10-30  °C. 
+
+Use:  Samples  for  analysis  should  be  withdrawn  immediately  after  opening  ampoules  and  should  be  processed  without 
+delay  for  the  certified  values  in  Table  |  to  be  valid  within  the  stated  uncertainty.  Certified  values  are  not  applicable  to 
+material  stored  in  ampoules  that  have  been  opened,  even  if  they  are  resealed. 
+Preparation  and  analytical  determinations  were  performed  at  the  Center  for  Analytical  Chemistry,  Organic  Analytical 
+Research  Division,  by  F.R.  Guenther,  D.J.  Pereles,  R.E.  Rebbert,  M.J.  Welch  and  E.  White,  V. 
+Consultation  on  the  statistical  design  of  the  experimental  work  was  provided  by  K.R.  Eberhardt  of  the  Statistical 
+Engineering  Division. 
+The  coordination  of  the  technical  measurements  leading  to  certification  was  under  the  direction  of  S.N.  Chesler  and 
+W.E..  May. 
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference 
+Material  were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.  Alvarez. 
+
+October  16,  1984 
+Gaithersburg,  MD  20899 
+
+Stanley  D.  Rasberry,  Chief 
+Office  of  Standard  Reference  Materials 
+
+(over)
+
+Preparation  and  Analysis 
+
+All  chemicals  used  in  the  preparation  of  SRM  1586-1  and  1586-2  were  obtained  from  commercial  sources  and  were 
+deemed  the  best  available  at  the  time.  The  chemical  purities,  as  determined  by  gas  chromatography,  are  listed  in  Table  3 
+and  were  used  in  the  determination  of  the  certified  values.  The  isotopic  purities  of  the  compounds  in  SRM  1586-2  as 
+determined  by  mass  spectrometry  at  NBS  are  shown  inTable  4.  Both  solutions  were  prepared  at  NBS  by  weighing  and 
+mixing  the  ten  individual  compounds  and  the  methanol  solvent. 
+Each  solution  was  chilled  and  ampouled  into 
+2  mL-amber  glass  ampoules. 
+Each  ampoule  was  purged  with  nitrogen  immediately  before  adding  the  solution  and 
+sealing. 
+Aliquots  from  randomly  selected  ampoules  were  analyzed  by  gas  chromatography  with  flame  ionization 
+detection.  A  glass  column  (2  m  x 
+2  mm  I.D.),  packed  with  60/80  Carbopack  B  and  coated  with  1%  SP-1000  was  used  for 
+determination  of  carbon  tetrachloride  and  benzene. 
+The  internal  standard  (ES)  for  this  analysis  was  1,2-dichloro- 
+propane.  A 
+fused  silica  column  (30  m  x  0.25  mm  ID.  x  0.25  um  film  of  bonded  dimethyl  polysiloxane)  was  used  with 
+splitless  injection  for  the  determination  of  the  other  eight  components. 
+SRM  1586-1  (unlabeled),  o-xylene  was  the  IS 
+for  chlorobenzene  while  6-chloro-m-cresol  was  the  IS  for  phenol,  nitrobenzene,  2-nitrophenol,  2,4-dichlorophenol  and 
+naphthalene,  and  benzo(k)fluoranthene  was  the  IS  for  bis(2-ethylhexyl)  phthalate  and  benzo(a)pyrene. 
+For 
+SRM  1586-2  (labeled)  the  same  three  internal  standards  were  used  but  in  addition  bis(2-ethylhexy])  adipate  was  used  as 
+the  IS  for  the  bis(2-ethylhexyl)  phthalate. 
+
+For 
+
+TABLE  | 
+
+Certified  Concentrations  of  Priority  Pollutants  in  SRM  1586 
+
+  
+
+Concentration  (yg/g)° 
+
+Compounds 
+
+SRM  1586-1 
+
+Carbon  tetrachloride 
+
+Benzene 
+
+Chlorobenzene 
+
+Phenol 
+
+Nitrobenzene 
+
+2-nitrophenol 
+
+2,4-dichlorophenol 
+
+Naphthalene 
+
+Bis(2-ethylhexyl)  phthalate 
+
+Benzo(a)pyrene 
+
+Carbon  tetrachloride-'°C 
+
+Benzene-d¢ 
+
+Chlorobenzene-ds 
+
+*Phenol-ds 
+
+Nitrobenzene-d5 
+
+2-nitrophenol-d, 
+
+2,4-dichlorophenol-d3 
+
+Naphthalene-dg 
+
+Bis[2-ethylhexyl]phthalate-d4 
+
+Benzo(a)pyrene-d  2 
+
+128.5  +  0.5 
+
+101.1 
+
++  0.8 
+
+133.0  +  0.6 
+
+117.0  +  1.3 
+
+126.0  +  1.1 
+
+103.6  +  3.2 
+
+102.5  +  0.6 
+
+126.5  +  1.2 
+
+63.9  +  1.7 
+
+49.2  +  0.2 
+
+124.4  +  2.1 
+
+99.0  +  0.5 
+
+144.0  +  1.3 
+
+116.0  +  0.6 
+
+134.5  +  1.4 
+
+101.9  +  2.3 
+
+82.2  +  1.6 
+
+126.6  +  1.0 
+
+60.4  +  0.7 
+
+441+2.1 
+
+SRM  _1586-2  (See  Table  3  for  isotopic  purity  of  these  compounds) 
+
+“For  each  compound,  the  certified  value  is  the  mean  of  the  calculated  and  chromatographic  determina- 
+tions.  The  corresponding  uncertainty  represents  the  symmetric  interval  about  the  certified  value  which 
+covers  the  95%  confidence  interval  from  the  chromatographic  analyses.  Thus,  the  uncertainty  reflects 
+both  random  error  of  measurement  and  the  systematic  bias  between  the  calculated  and  chromato- 
+graphic  values. 
+
+“Weighed  as  phenol-dg,  but  in  methanol  solution  it  converts  quantitatively  to  phenol-ds. 
+
+SRM  1586 
+Page  Z
+
+TABLE  2 
+
+Summary  of  Results 
+
+Calculated  Values, 
+Ha/8 
+
+Analytical  Values, 
+ug/g 
+
+128.60 
+
+100.82 
+
+132.63 
+
+117.30 
+
+126.01 
+
+104.39 
+
+102.42 
+
+126.74 
+
+64.16 
+
+49.15 
+
+123.5 
+98.7 
+
+143.5 
+
+115.9 
+
+134.0 
+
+102.3 
+82.4 
+
+126.5 
+
+60.2 
+
+43.8 
+
+128.4  +  0.4 
+
+101.3  +  0.6 
+
+133.3  +  0.3 
+
+116.6  +  1.0 
+
+125.9  +  1.0 
+
+102.9  +  2.5 
+
+102.6  +  0.5 
+
+126.3  +  1.0 
+
+63.6  +  1.4 
+
+49.2+0.2 
+
+125.2413 
+99.2  +  0.3 
+
+144.4+0.9 
+
+116.0  +  0.6 
+
+135.0  +  0.9 
+
+1014+  1.8 
+82.0  +  1.4 
+
+126.7  +  0.9 
+
+60.6  +  0.5 
+
+44.44  1.8 
+
+Compound 
+
+Priority  Pollutants  SRM  1586-1 
+
+  
+
+Carbon  tetrachloride 
+
+Benzene 
+
+Chlorobenzene 
+
+Phenol 
+
+Nitrobenzene 
+
+2-nitrophenol 
+
+2,4-dichlorophenol 
+
+Naphthalene 
+
+Bis[2-ethylhexyl]phthalate 
+
+Benzo(a)pyrene 
+
+  
+
+Priority  Pollutants  SRM  1586-2 
+Carbon  tetrachloride-!7C 
+Benzene-d¢ 
+
+Chlorobenzene-ds 
+
+*Phenol-ds 
+
+Nitrobenzene-ds 
+
+2-nitrophenol-d, 
+2,4-dichlorophenol-d3 
+
+Naphthalene-dg 
+
+Bis[2-ethylhexyl]phthalate-d4 
+
+Benzo(a)pyrene-di2 
+
+SRM  1586 
+Page  3
+
+“Uncertainties  are  given  as  95%  confidence  intervals. 
+*Weighed  as  phenol-ds,  but  in  methanol  solution  it  converts  quantitatively  to  phenol-ds. 
+
+TABLE  3 
+
+Chemical  Purity  of  Priority  Pollutants  in  SRM  1586 
+
+  
+
+Determined  by  Gas  Chromatography 
+
+  
+
+Purity  % 
+
+Compound 
+
+SRM  1586-1. 
+
+Carbon  tetrachloride 
+
+Benzene 
+
+Chlorobenzene 
+
+Phenol 
+
+Nitrobenzene 
+
+2-nitrophenol 
+
+2,4-dichlorophenol 
+
+Naphthalene 
+
+Bis[2-ethylhexyl]  phthalate 
+
+Benzo(a)pyrene 
+
+SRM _  1586-2 
+
+Carbon  tetrachloride-'?7C 
+
+Benzene-d6 
+
+Chlorobenzene-ds5 
+Phenol-dg 
+
+Nitrobenzene-ds 
+
+2-nitrophenol-da 
+
+2,4-dichlorophenol-d3 
+
+Naphthalene-dg 
+
+Bis[2-ethylhexyl]phthalate-d4 
+
+Benzo(a)pyrene-d  12 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+. 
+
+99.4 
+
+99.5 
+
+99.5 
+
+99.6 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+99.9 
+
+98.4 
+
+99.8 
+
+96.7 
+
+98.1 
+
+99.5 
+
+97.9 
+
+97.9 
+
+97.8 
+
+95.5 
+96.0 
+95.6 
+
+86.2 
+
+TABLE  4 
+
+Isotopic  Purity  of  Priority  Pollutants  in  SRM  1586-2 
+
+Determined  by  Mass  Spectrometry 
+
+Isotopic  Purity,  Percent 
+
+Percent  of  Molecules 
+Totally  Labeled 
+
+98.3  (as  ds) 
+
+91.4  (as  ds) 
+
+Compound 
+
+Carbon  tetrachloride-'°C 
+
+Benzene-d¢ 
+
+Chlorobenzene-ds 
+
+*Phenol-d6 
+
+Nitrobenzene-ds 
+
+2-nitrophenol-d4 
+2,4-dichlorophenol-d3 
+Naphthalene-dg 
+
+Bis[2-ethylhexyl]phthalate-d4 
+
+Benzo(a)pyrene-d12 
+
+99.5 
+
+99.7 
+
+99.6 
+
+99.6 
+
+98.9 
+98.7 
+99.5 
+
+98.8 
+
+. 
+
+. 
+
+*Weighed  as  phenol-de  but  in  methanol  solution  it  converts  quantitatively  to  phenol-ds. 
+
+98.6  (aromatic  ring  only) 
+
+94.5  (aromatic  ring  only) 
+
+SRM  1586 
+Page  4
+
+

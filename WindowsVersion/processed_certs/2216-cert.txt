@@ -1,0 +1,201 @@
+﻿ 
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate 
+Standard Reference Material® 2216 
+
+ 
+
+ 
+Miniaturized Low-Energy Charpy V-Notch KLST Specimens 
+ 
+(Self-Verification) 
+ 
+Lot No.  LL-103 
+ 
+This Standard Reference Material (SRM) is intended for the verification of maximum force and absorbed energy values 
+measured  at  room  temperature  using  a  small-scale  Charpy  machine  in  accordance  with  the  current  ASTM  Standard 
+E2248 [1] or the current ISO Standard 14556 [2].  A unit of SRM 2216 consists of a set of three KLST-type miniaturized 
+Charpy specimens needed to perform a single verification. SRM 2216 can be used to verify the absorbed energy scale of 
+a small-scale impact machine at the low-energy level (approximately 1.6 J). 
+ 
+Material Description:  SRM 2216 is made from 4340 alloy steel.  Each specimen has a code identifying the energy 
+level (LL) and an identification number (one, two or three digits). 
+ 
+SRM Certification Procedure:  Specimens taken from SRM 2216 were certified for both maximum force (Fm) and 
+absorbed energy (KV) by means of an international interlaboratory comparison (round-robin) coordinated by the NIST 
+Applied Chemicals and Materials Division [3].  The round-robin results were statistically evaluated in collaboration with 
+the NIST Statistical Engineering Division to assure consistency among laboratories and establish certified values.  A 
+NIST certified value is a value for which NIST has the highest confidence in its accuracy, in that all known or suspected 
+sources of bias have been investigated or taken into account [4].  The measurands are absorbed energy as measured by 
+the  NIST  Charpy  reference  machines,  and  maximum  force  as  established  from  the  interlaboratory  comparison. 
+Traceability is to the SI units joule (absorbed energy) and kilonewton (force).  The certified values for the SRM 2216 
+specimens are given in Table 1. 
+ 
+
+Table 1.  Certified Values and Expanded Uncertainties for SRM 2216(a)
+ 
+  
+
+es  for  SRM  2216 
+
+ 
+
+Room temperature (21 °C  ±  1 °C) 
+  
+
+Absorbed Energy 
+(J) 
+
+     
+  
+
+(kN) 
+
+2.43 
+
+0.15 
+
+0.12 
+
+1.59 
+
+(J) 
+
+Maximum Force 
+(kN) 
+
+Expanded Uncertainty 
+
+Expanded Uncertainty 
+
+ 
+
+ (a)The uncertainties in the certified values are expressed as expanded uncertainties, U = kuc, where uc is the standard uncertainty.  The 
+coverage factor, k = 2.306, is determined from Student's t-distribution corresponding to 8 degrees of freedom and a 95 % confidence level 
+[5,6]. 
+ 
+Expiration of Certification:  The certified values and uncertainties furnished in this certificate are valid indefinitely.  
+The indirect verification result for the absorbed energy scale is valid for one year from the date on which the SRM was 
+tested.  If a user’s  machine is  moved or undergoes any  major repairs or adjustments, the current verification  will be 
+invalidated, and the machine must be retested and verified (see “Instructions for Handling, Storage, and Use”).  Currently, 
+there  are  no  requirements  for  the  indirect  verification  of  the  force  scale.    However,  it  is  recommended  to  verify  the 
+calibration of the instrumented striker of the small-scale Charpy  machine every time the striker undergoes repairs or 
+adjustment, or damage is suspected, and every time the impact machine is indirectly verified for absorbed energy. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  19 January 2018 
+Certificate Revision History on Last Page 
+
+James Fekete, Chief 
+Applied Chemicals and Materials Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Page 1 of 2 
+
+  
+
+SRM 2216 
+
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Overall direction and coordination of the technical measurements leading to verification of test specimens and machines 
+are under the direction of the NIST Applied Chemicals and Materials Division, Boulder, CO. 
+ 
+Support aspects involved in the issuance of this SRM were coordinated through the NIST Office of Reference Materials. 
+ 
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+to  testing. 
+Handling:  The protective oil coating should be wiped from each specimen with a lint-free cloth just prior to testing. 
+ 
+Storage:  The SRM is anticipated to have an indefinite shelf life under normal storage conditions (20 °C ± 20 °C, ≤ 50 % 
+relative humidity). 
+ 
+Use:  Prior to verifying a small-scale Charpy V-Notch machine, the machine should be checked to ensure compliance 
+with the appropriate sections of the applicable ASTM or ISO standard.  SRM 2216 is tested at room temperature (21 °C 
+± 1 °C).  
+ 
+When using SRM 2216, the user performs a self-service verification of the test machine.  The data and specimens are 
+are 
+not returned to NIST following the test. NIST provides no letter or certification sticker for the machine tested. 
+ 
+The energy level of the SRM appropriate for verifying the performance of a particular small-scale Charpy machine can 
+be determined by considering the energy for the SRM, the maximum capacity of the machine, and the requirements of 
+the applicable test method (ASTM or ISO). 
+ 
+For questions concerning  the  production or use of this  SRM, please contact the  NIST Charpy Program Coordinator: 
+telephone (303) 497-3351; fax (303) 497-5939; or e-mail charpy@boulder.nist.gov. 
+ 
+ 
+
+room  ter 
+
+a  self 
+
+en 
+
+< 
+
+REFERENCES 
+
+ 
+[1]  ASTM  E2248;  Test  Method  for  Impact  Testing  of  Miniaturized  Charpy  V-Notch  Specimens;  Annual  Book  of 
+
+ASTM Standards, Vol. 03.01, ASTM, West Conshohocken, PA. 
+[2] 
+ISO 14556; Steel – Charpy V-Notch Pendulum Impact Test – Instrumented test method; ISO, Geneva, Switzerland. 
+[3]  Lucon,  E.;  McCowan,  C.;  Santoyo,  R.;  Splett,  J.;  Certification  Report  for  SRM  2216,  2219,  2219:  KLST 
+(Miniaturized)  Charpy  V-Notch  Impact  Systems;  NIST  Special  Publication  260-180  (2013);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed Jan 2018). 
+
+[5] 
+
+[4]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington,  DC  (2000);    available    at    http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Jan 2018). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Jan 2018);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+https://www.nist.gov/sites/default/files/documents/2017/05/09/tn1297s.pdf (accessed Jan 2018). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the “Guide to the Expression of Uncertainty  
+in   Measurement” - Propagation of Distributions Using a Monte Carlo Method;   JCGM (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Jan 2018). 
+
+[6] 
+
+  
+ 
+
+ 
+ 
+Certificate Revision History:  19 January 2018 (Title update; editorial changes); 19 March 2014 (Original certificate issue date).  
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting  the  SRM  Program:  telephone  (301)  975-2200;  fax  (301)  948-3730;  e-mail  srminfo@nist.gov;  or  via  the 
+Internet at http://www.nist.gov/srm. 
+
+SRM 2216 
+
+Page 2 of 2 
+
+

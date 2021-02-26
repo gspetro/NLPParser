@@ -1,0 +1,980 @@
+﻿ 
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material® 3242 
+
+ 
+Ephedra sinica Stapf Commercial Extract 
+
+ 
+Standard  Reference  Material  (SRM)  3242  is  intended  primarily  for  use  in  validating  analytical  methods  for  the 
+determination of ephedrine alkaloids and toxic elements in Ephedra sinica extracts and similar matrices.  This SRM 
+can also be used for quality assurance when assigning values to in-house control materials.  SRM 3242 is part of a 
+suite  of  ephedra  dietary  supplement  SRMs  that  have  been  developed  to  cover  a  range  of  natural  matrices  and 
+ephedrine  alkaloid  levels.    A  unit  of  SRM  3242  consists  of  ten  bottles  of  extract,  each  containing  approximately 
+1.2 g of material. 
+ 
+Certified Concentration Values:  A NIST certified value is a value for which NIST has the highest confidence in 
+its accuracy in that all known or suspected sources of bias have been investigated or accounted for [1].  The certified 
+concentration  values  of  selected  ephedrine  alkaloids  and  elements  are  provided  in  Tables 1 and 2.    Values  were 
+derived from the combination of results provided by NIST and collaborating laboratories.  The certified values in 
+this material are the equally weighted means of the individual sets of NIST results and the means of the individual 
+sets of measurements made by collaborating laboratories; the associated uncertainties are expanded uncertainties at the 
+95 % level of confidence [2,3].  Values are reported on a dry-mass basis in mass fraction units [4]. 
+ 
+value  that  is  the  best  estimate  of  the 
+Reference Concentration Values:  A NIST reference value is a noncertified value that is the best estimate of the 
+true  value based on available data; however, the value does not meet the NIST criteria for certification [1] and is 
+provided  with  associated  uncertainties  that  may  reflect  only  measurement  reproducibility,  may  not  include  all 
+sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical methods.  
+Reference concentration values for additional ephedrine alkaloids and elements are provided in Tables 3 and 4. 
+ 
+Expiration  of Value Assignment:   The  value  assignment  of  this  SRM  is  valid  until  31  March  2014,  within  the 
+istructions
+measurement uncertainties specified, provided the SRM is handled and stored in accordance with the instructions 
+given in this certificate.  Value assignment is nullified if the SRM is damaged, contaminated, or modified. 
+ 
+Maintenance of SRM Value Assignment:  NIST will monitor this SRM over the period of its value assignment. If 
+substantive technical changes occur that affect the value assignment before the expiration of this certificate, NIST 
+will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The  development  of  SRM 3242  was  a  collaboration  among  the  National  Institute  of  Standards  and  Technology 
+(NIST);  the  National  Institutes  of  Health  (NIH),  Office  of  Dietary  Supplements  (ODS);  and  the  Food  and  Drug 
+Administration  (FDA),  Center  for  Food  Safety  and  Applied  Nutrition  (CFSAN)  and  FDA,  Center  for  Drug 
+Evaluation and Research (CDER). 
+ 
+The  coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  was  performed  by 
+L.C. Sander, K.E. Sharpless, and S.A. Wise of the NIST Analytical Chemistry Division. 
+ 
+Acquisition and preparation of the material were coordinated by A. NguyenPho of FDA CDER and K.E. Sharpless 
+of the NIST Analytical Chemistry Division. 
+ 
+ 
+ 
+ 
+Gaithersburg, MD  20899 
+Certificate Issue Date:  19 June 2006 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Page 1 of 10 
+
+  
+
+SRM 3242 
+
+Analytical  measurements  at  NIST  were  performed  by  T.A. Butler,  T. Ihara,  S.E. Long,  E.A. Mackey, 
+K.E. Murphy,  K.W. Phinney,  B.J. Porter,  L.C. Sander,  M.B. Satterfield,  R.D. Vocke, Jr.,  and  L.J. Wood  of  the 
+NIST Analytical  Chemistry  Division.   Analyses  for  value  assignment  were  also  performed  by  C. Scriver  and 
+L. Yang  of  the  National  Research  Council  Canada  (Ottawa,  ON);  D.L. Anderson,  J. Cheng,  M.L. Gay,  and 
+W. Mindak at the FDA’s Center for Food Safety and Applied Nutrition (College Park, MD); and S. Mitvalsky and 
+M. Roman at ChromaDex, Inc. (Clearwater, FL). 
+ 
+Support  for  the  development  of  SRM  3242  was  provided  in  part  by  NIH  ODS,  FDA CFSAN,  and  FDA  CDER.  
+Technical consultation from these agencies was provided by J. Betz (NIH-ODS), A. NguyenPho (FDA CDER), and 
+G. Ziobro (FDA CFSAN). 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+The  support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement 
+Services Division. 
+ 
+NOTICE AND WARNING TO USERS 
+
+Storage:  The material should be stored at controlled room temperature (20 °C to 25 °C) in its unopened bottle until 
+required for use. 
+ 
+WARNING:  FOR LABORATORY USE ONLY.  NOT FOR HUMAN CONSUMPTION. 
+ 
+INSTRUCTIONS FOR USE 
+
+Prior to removal of a test portion for analysis, the contents of a bottle of material should be mixed thoroughly.  The 
+concentrations of constituents in SRM 3242 are reported on a dry-mass basis.  A separate subsample of the SRM 
+should  be  removed  from  its  bottle  at  the  time  of  analysis  and  dried  to  determine  the  concentration  based  on  dry 
+mass.    (See  “NIST  Determination  of  Moisture,”  below,  for  drying  conditions.)    Test  portions  used  for  NIST 
+analyses, described below, were 0.15 g for ephedrine alkaloids, 0.2 g for arsenic and mercury, and 1 g for cadmium 
+and lead. 
+ 
+Note 1:  Samples of the extract were originally packaged as a powder; however, over time the extract may become a 
+single  solid  pellet  or  several  solid  pieces.    For  hardened  samples,  an  appropriate  portion  should  be  removed  and 
+subdivided  using  a  knife.    The  certified  and  reference  values  for  composition  provided  in  Tables 1 through 4  are 
+valid independent of the sample consistency. 
+ 
+Note 2:  In  accordance  with  the  requirements  of  Title  21 Code of Federal Regulations,  Sections 1309 and 1310 
+(21 CFR 1309  and  1310),  NIST  is  registered  with  the  U.S.  Drug  Enforcement  Agency  (DEA)  to  distribute  
+this  material,  which  is  classified  as  a  List 1  chemical.    Analytical  laboratories  are  not  required  to  register  
+with  the  DEA  to  purchase  and  handle  this  material  (21 CFR 1309.21). 
+  (For  more  information,  see 
+http://www.deadiversion.usdoj.gov.) 
+ 
+PREPARATION AND ANALYSIS1
+
+Material Acquisition and Preparation 
+
+taxonomist 
+
+A single year's harvest of Ephedra sinica Stapf was acquired from a field in China in 2002 from Jinke Group USA, 
+Inc.  (Diamond  Bar,  CA)  through  Modern  Nutrition  and  Biotech  (Appleton, WI).    The  crop  was  examined  
+Institute  of  Botany,  Chinese  Academy  of  Sciences,  
+by  a  Chinese 
+specimens  were  
+Beijing,  China)  who 
+collected  at  time  of  flower  and  shipped  with  the  dried  botanical  following  harvest  in  the  same  year.   
+The  herbarium 
+(CFSAN,  College Park,  MD; 
+FDA Accession No. 1221)  and  the  Missouri  Botanical  Garden  (St.  Louis,  MO;  Herbarium  Sheet  No. 5827116; 
+http://www.mobot.org/MOBOT/research/diversity/herbarium/compendium_model.aspx?id=3;  click  on  Ephedra 
+
+(Xian-Chun  Zhang, 
+its 
+
+sheets  were  deposited  at 
+
+the  herbarium  of  FDA 
+
+representative 
+
+herbarium 
+
+identity, 
+
+verified 
+
+and 
+
+                                                           
+
+1Certain  commercial  equipment,  instruments,  or  materials  are  identified  in  this  report  to  specify  adequately  the 
+ton  or  endorsement  by  the  National  Institute  of 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of 
+identified  are  necessarily  the  best  available  for  t
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+
+SRM 3242 
+
+Page 2 of 10 
+
+sinica  Specimen  1).    While  still  in  China,  the  plant  material  (aerial  parts)  was  dried,  powdered,  sieved  to 
+177 μm (80 mesh), and sterilized using a 6 kGy dose of  60Co.  Approximately 100 kg of the dried powdered plant 
+material was shipped to NIST and processed as the powdered botanical raw material (SRM 3240).  The remainder 
+of  the  biomass  was  extracted  in  China  with  hot  water  under  pressure,  and  the  resulting  extract  was  used  in  the 
+production of the “native extract” (SRM 3241) and the “commercial extract” (SRM 3242).  A portion of the water 
+extract was filtered, concentrated, and spray-dried to produce the native extract (SRM 3241).  A second portion of 
+the water extract was filtered, concentrated, and then fortified with ephedrine to yield nominally 8 % total ephedrine 
+alkaloids prior to spray drying to produce the commercial extract (SRM 3242).  Approximately 15 kg of each of the 
+extracts were shipped to NIST. 
+ 
+The commercial extract (SRM 3242) was subsequently transferred to ChromaDex, Inc. (Santa Ana, CA), where it 
+was blended and bottled under nitrogen in amber, high-density polyethylene bottles with polypropylene screw caps.  
+After bottling, the material was irradiated by 60Co to an absorbed dose of 12.8 kGy to 15.4 kGy. 
+ 
+Analytical Approach for Determination of Ephedrine Alkaloids 
+
+Value assignment of the concentrations of the ephedrine alkaloids in SRM 3242 was based on the combination of 
+measurements from different analytical methods at NIST and at two collaborating laboratories.  A total of six sets of 
+measurements  were  used  for  the  value  assignment  of  the  concentrations  of  ephedrine  alkaloids.    NIST  provided 
+measurements by using a combination of two sample extraction procedures and three liquid chromatography (LC) 
+methods with different detection, i.e., ultraviolet absorbance spectrometry (UV), mass spectrometry (MS), tandem 
+mass  spectrometry  (MS/MS),  and  a  capillary  electrophoresis  (CE)  method  as  described  below.    Results  for 
+ephedrine  alkaloids  were  provided  by  two  collaborating  laboratories:    FDA  and  ChromaDex.    FDA  results  were 
+based on LC/MS/MS [5], and ChromaDex results were based on LC/UV [6].  One collaborating laboratory analyzed 
+a subsample from each of six bottles; one laboratory analyzed one subsample from three bottles of SRM 3242.  The 
+analytical methods for NIST and the collaborating laboratories are described in detail in reference 7. 
+ 
+NIST Analyses for Ephedrine Alkaloids 
+
+Ephedrine alkaloids were measured by using combinations of two sample preparation methods, three LC methods, 
+and one CE method as described below and in detail in reference 7.  Four independently prepared calibrants were 
+used for each of the methods.  Calibrants were prepared gravimetrically, at levels intended to approximate the levels 
+of  the  alkaloids  in  the  extracts  of  the  SRM.   A  single  internal  standard  solution  was  used  for  the  calibrants  and 
+samples.  Calculations are based on average response factors for the calibrants (typically duplicate analysis of four 
+calibrant solutions, n = 8). 
+ 
+Sonication  Extraction:    Six  0.15 g  portions  of  the  SRM  were  placed  in  50 mL  polyethylene  centrifuge  tubes  or 
+glass pressurized-fluid extraction tubes, followed by the addition of a measured mass of internal standard solution.  
+Approximately  30 g  of  methanol  was  added  to  the  tubes,  and  the  tubes  were  capped.    The  solid  matter  was 
+suspended  by  shaking,  and  the  tubes  were  placed  in  an  ultrasonic  bath  for  90 min.    At  the  completion  of  the 
+sonication extraction, the samples were centrifuged or allowed to settle, and an aliquot of the supernatant solution 
+was passed through a 0.45 μm × 2.5 cm syringe filter.  Samples prepared by this approach were analyzed by LC/UV 
+or LC/MS/MS.   
+ 
+Soxhlet  Extraction:    Ten  0.15 g  portions  of  the  SRM  were  weighed  into  glass-fritted  Soxhlet  thimbles,  each 
+containing  approximately  a  1 cm  layer  of  diatomaceous  earth  (Hydromatrix,  Isco  Corp.,  Lincoln,  NE).    After 
+stirring the sample, additional diatomaceous earth was added (approximately 1 cm).  A measured mass of internal 
+standard  solution  (ephedrine-d3)  was  transferred  to  the  Soxhlet  thimble.    The  samples  were  extracted  with 
+approximately 200 mL methanol for at least 18 h.  Extracts were concentrated, passed through a 0.45 μm × 2.5 cm 
+syringe filter, and analyzed.  Samples prepared by this approach were analyzed by LC/MS. 
+ 
+LC with UV Absorbance Detection (LC/UV):  An isocratic LC method with a methanol/phosphate buffer mobile 
+phase  was  utilized  for  LC/UV  determination  of  the  alkaloids,  similar  to  the  method  of  Roman [6].    A 
+250 mm × 4.6 mm  alkylphenyl  bonded  phase  column  (Synergy  Polar  RP,  Phenomenex,  Torrance,  CA)  was  used 
+with  a  precolumn  and  an  in-line  filter.    Column  temperature  was  controlled  at  29.0 °C ± 0.5 °C  with  a 
+circulating-fluid column jacket and water bath.  The mobile phase flow rate was set at 1.5 mL/min, and detection 
+was  at  208 nm.    Terbutaline  was  used  as  the internal standard for LC/UV measurements.  A typical separation is 
+provided in Appendix A. 
+
+SRM 3242 
+
+Page 3 of 10 
+
+ions 
+
+LC  with  Mass  Spectrometric  Detection  (LC/MS):    A  250 mm × 4.6 mm  phenyl  bonded  phase  column 
+(YMC Phenyl, Waters, Inc., Milford, MA) was used at ambient temperature (21 °C ± 1 °C) with an isocratic mobile 
+phase  (water/methanol/acetic acid/ammonium  acetate)  at  1.0 mL/min.    The  mass  spectrometer  was  operated  in 
+positive  ion,  atmospheric  pressure  ionization,  electrospray  mode  (API-ES).    Quantitation  of  the  six  alkaloids  was 
+(m/z)  at  134 (norephedrine  and  norpseudoephedrine),  148 (ephedrine  and 
+based  on  monitoring 
+pseudoephedrine),  180 (methylephedrine  and  methylpseudoephedrine),  and  169 (ephedrine-d3).    Ephedrine-d3  was 
+used as the internal standard for LC/MS measurements.  A typical separation is provided in Appendix A. 
+ 
+LC  with  Tandem  Mass  Spectrometric  Detection  (LC/MS/MS):    Chromatographic  conditions  were  similar  to 
+those used in the LC/MS method; however, the flow rate was reduced to 0.5 mL/min and column temperature was 
+set at 30 °C ± 2 °C.  A program was designed to measure each individual analyte using multiple reaction monitoring 
+(MRM).    The  protonated  precursor  of  each  analyte  was  selected  in  the  first  quadrupole,  these  ions  collisionally 
+dissociated in the collision cell (the second quadrupole), and the predetermined fragment ions monitored in the third 
+quadrupole.  The following precursor and fragment ions were monitored (m/z):  151.8 and 134.0 (norephedrine and 
+norpseudoephedrine),  165.9  and  148.0  (ephedrine  and  pseudoephedrine),  179.9  and  162.0  (methylephedrine  and 
+methylpseudoephedrine), and 168.9 and 151.0 (ephedrine-d3).  Ephedrine-d3 was used as the internal standard for 
+LC/MS/MS measurements.  A typical separation is illustrated in Appendix A. 
+ 
+Capillary  Electrophoresis  (CE):    Portions  (0.1 g)  of  the  SRM were weighed into polyethylene centrifuge tubes, 
+followed by the addition of a measured mass of internal standard solution (β-phenylethylamine hydrochloride) and 
+approximately 18 mL of methanol.  The samples were placed in an ultrasonic bath for 30 min, and the supernatant 
+solution  was  passed  through  0.2 μm  nylon  syringe  filters.    Electrophoretic  measurements  were  performed  on  a 
+CE system  with  a  photodiode  array  detector  (data  collected  at  210 nm)  with  a  high-sensitivity  UV detection  cell.  
+Three chiral CE methods (utilizing different cyclodextrin-based chiral selectors) were used to analyze the samples.  
+The methods were sufficiently independent to provide slightly different selectivity, thereby reducing the likelihood 
+of  undetected  peak  overlap  and  providing  additional  confidence  in  the  enantiomeric  identity  of  the  analytes.  
+Separations  were  performed  in  unmodified  fused  silica  capillaries  maintained  at  25 °C,  and  injections  were 
+performed  by  pressure.    Applied  voltages  were  in  the  range  of  15 kV  to  30 kV.    A  detailed  discussion  of  the 
+CE method  is  provided  in  reference 8.    A  typical  separation  is  provided  in  Appendix A;  note  that  only  the  
+(–)-ephedrine  and  (+)-pseudoephedrine  enantiomers  that  are  naturally  occurring  in  E.   sinica  were  found  in  this 
+material, indicating that the material was not altered through the addition of synthetic alkaloids. 
+ 
+Analytical Approach for Determination of Elements 
+
+The elements of primary interest for SRM 3242 were the potentially toxic contaminants arsenic, cadmium, lead, and 
+mercury.  Value assignment of the concentrations of toxic elements in SRM 3242 was based on the combination of 
+measurements  at  NIST  using  a  single  analytical  method  and  results  from  one  or  two  collaborating  laboratories 
+(NRCC  and  FDA).  At NIST, instrumental neutron activation analysis (INAA) was used for the determination of 
+arsenic, isotope dilution inductively coupled plasma mass spectrometry (ID ICP-MS) was used for determination of 
+cadmium  and  lead,  and  cold  vapor  (CV)  ID  ICP-MS  was  used  for  determination  of  mercury.    For  all  NIST 
+measurements, botanical-matrix SRMs with certified values for the elements of interest were analyzed concurrently 
+as  control  samples.    NRCC  used  ID  ICP-MS  for  the  determination  of  cadmium  and  lead  and  hydride  generation 
+graphite  furnace  atomic  absorption  spectrometry  (HG  GFAAS)  for  the  determination  of  arsenic.    FDA  provided 
+results for cadmium, lead, and mercury using ICP-MS.  FDA also provided results using prompt gamma activation 
+analysis  (PGAA)  for  additional  elements  including  boron,  calcium,  carbon,  chlorine,  hydrogen,  iron,  nitrogen, 
+potassium,  silicon,  sodium,  and  sulfur  [9].    All  collaborating  laboratories  analyzed  a  minimum  of  six  subsamples 
+(one from each of six bottles or two from each of three bottles) of SRM 3242. 
+ 
+NIST Analyses for Elements 
+
+Arsenic was measured using instrumental neutron activation analysis (INAA).  Individual disks were formed from 
+200 mg  test  portions  of  the  SRM  using  a  stainless  steel  die  and  hydraulic  press.    Standards  were  prepared  by 
+transferring a weighed portion of a solution containing a known amount of arsenic onto filter papers.  Disks were 
+formed  from  the  dried  filter  papers.    Samples,  standards,  and  controls  were  packaged  individually  in  clean 
+polyethylene bags, placed together in a polyethylene irradiation container, and exposed to a neutron fluence rate of 
+1 × 1014 cm-2⋅s-1 for a total of 2 h.  Decay times were approximately 5 d to 7 d.  Gamma rays were collected using an 
+intrinsic  germanium  detector  with  a  relative  efficiency  of  35 %  and  a  resolution  of  1.75 keV  (full-width  at  half 
+maximum peak height for the 1333-keV line from  60Co).  Quantification was based on comparison with standards 
+using the 559-keV line from 76As. 
+
+SRM 3242 
+
+Page 4 of 10 
+
+For cadmium and lead determinations, the total contents (approximately 1.2 g) were taken from each of six bottles 
+of the SRM.  Isotopically enriched 111Cd and 206Pb were added to the samples prior to digestion in Teflon beakers by 
+wet  ashing  with  nitric acid,  hydrofluoric acid,  and  hydrogen peroxide  at  185 °C  for  60 h.    The  residue  was 
+redissolved in 2 % nitric acid, and measurements were made by using ID ICP-MS [10]. 
+ 
+For mercury determinations, a single 0.25 g portion was taken from each of six bottles of the SRM.  Isotopically 
+enriched  201Hg  was  added  to  the  samples  prior  to  digestion  in  quartz  vessels  with  nitric  acid  in  a  high-pressure 
+microwave  system.    Following  digestion,  samples  were  diluted  to  contain  an  approximate  201Hg concentration  of 
+0.05 ng/g.    Samples  were  allowed  to  degas  overnight  at  4 °C.    Measurements  were  made  by  using  cold-vapor 
+mercury generation (using tin [II] chloride reductant) coupled with ID ICP-MS [11]. 
+ 
+NIST Determination of Moisture 
+
+Moisture content of SRM 3242 was determined by (1) freeze-drying to constant mass over 11 days, (2) drying over 
+magnesium  perchlorate  in  a  desiccator  at  room  temperature  over  17 days,  and  (3)  drying  in  a  forced-air  oven  at 
+85 °C  for  4 h.    Unweighted  results  obtained  using  all  three  techniques  were  averaged  to  determine  a  conversion 
+factor  of  0.9574 gram  dry  mass  per  gram  as-received  mass,  which  was  used  to  convert  NIST  data  from  an 
+as-received to a dry-mass basis.  Collaborating laboratories converted their data to a dry-mass basis using their own 
+moisture determinations.  A variability-in-moisture component is included in the uncertainties of both the certified 
+and reference values, reported on a dry-mass basis, that are provided in this certificate. 
+ 
+Homogeneity Assessment 
+ 
+The homogeneity of ephedrine was assessed at NIST by using the LC/UV method described above.  An analysis of 
+variance  did  not  show  inhomogeneity  for  a  0.15 g sample.    Other  measurands  were  treated  as  though  they  were 
+homogeneously distributed, although homogeneity was not assessed. 
+ 
+Value Assignment 
+ 
+The equally weighted means from each set of data were used to calculate the assigned values.  In cases where NIST 
+made measurements, the NIST means were averaged with the individual data set means provided by collaborating 
+laboratories to obtain the assigned value.  In cases where NIST did not make measurements, the mean of the data set 
+means became the assigned value. 
+
+ 
+ 
+Table 1.  Certified Concentration Values for Ephedrine Alkaloids in SRM 3242(a)
+ 
+
+ 
+ 
+
+Analyte 
+
+Ephedrine(b,c,d,e,f,g) 
+Methylephedrine(b,c,d,f,g) 
+Pseudoephedrine(b,c,d,e,f,g) 
+Total Alkaloids(b,c,d,f,g) 
+ 
+
+Mass Fraction 
+(mg/g) 
+
+78.1  ±   2.3 
+
+2.77  ±   0.57 
+9.27  ±  0.94 
+
+91.2  ±  2.0 
+
+ 
+(a) Each  certified  concentration  value,  expressed  as  a  mass  fraction  on  a  dry-mass  basis,  is  an  equally  weighted  mean  of  the 
+results  from  five  or  six  analytical  methods  carried  out  at  NIST  and  at  collaborating  laboratories.    The  uncertainty  in  the 
+certified value, calculated according to the method described in the ISO Guide [2,3], is expressed as an expanded uncertainty, 
+U.  The expanded uncertainty is calculated as U = kuc, where uc is intended to represent, at the level of one standard deviation, 
+the combined effect of between-laboratory, within-laboratory, and drying components of uncertainty.  The coverage factor, k, 
+is  determined  from  the  Student's  t-distribution  corresponding  to  the  appropriate  associated  degrees  of  freedom  and 
+approximately 95 % confidence for each analyte. 
+
+ 
+
+(b) NIST LC/UV 
+(c) NIST LC/MS 
+(d) NIST LC/MS/MS 
+(e) NIST CE 
+(f) FDA LC/MS/MS 
+(g) ChromaDex LC/UV 
+ 
+
+SRM 3242 
+
+ 
+
+Page 5 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Table 2.  Certified Concentration Values for Selected Elements in SRM 3242(a)
+
+Element 
+
+Arsenic(b,c) 
+Cadmium(d,e,f) 
+Lead(d,e,f) 
+Mercury(f,g) 
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+1.030 
+± 
+0.0538  ± 
+± 
+0.362 
+0.00418  ± 
+
+ 
+
+0.033 
+0.0032 
+0.014 
+0.00042  
+
+ 
+
+ 
+(a) Each  certified  concentration  value,  expressed  as  a  mass  fraction  on  a  dry-mass  basis,  is  an  equally  weighted  mean  of  the 
+results from NIST and at collaborating laboratories.  The uncertainty in the certified value, calculated according to the method 
+described  in  the  ISO  Guide  [2,3],  is  expressed  as  an  expanded  uncertainty,  U.    The  expanded  uncertainty  is  calculated  as 
+U = kuc, where uc is intended to represent, at the level of one standard deviation, the combined effect of between-laboratory, 
+within-laboratory,  and  drying  components  of  uncertainty.    The  coverage  factor,  k,  is  determined  from  the  Student's 
+t-distribution  corresponding  to  the  appropriate  associated  degrees  of  freedom  and  approximately  95 %  confidence  for  each 
+analyte. 
+(b)  NIST INAA 
+(c) NRCC HG-GFAAS 
+(d) NIST ID ICP-MS 
+(e) NRCC ID ICP-MS 
+(f)  FDA ICP-MS 
+(g) NIST ID CV-ICP-MS 
+ 
+
+ 
+ 
+Table 3.  Reference Concentration Values for Ephedrine Alkaloids in SRM 3242(a)
+
+Analyte 
+
+Methylpseudoephedrine(b,c,d) 
+Norephedrine(b,c,d,e,f) 
+Norpseudoephedrine(b,c,d,e,f) 
+
+Mass Fraction 
+(mg/g) 
+
+0.124  ± 
+0.57  ± 
+0.40  ± 
+
+0.044 
+0.18 
+0.16 
+
+ 
+
+ 
+(a) Each  reference  concentration  value,  expressed  as  a  mass  fraction  on  a  dry-mass  basis,  is  an  equally  weighted  mean  of  the 
+results  from  three  or  five  analytical  methods  carried  out  at  NIST  and  at  collaborating  laboratories.    The  uncertainty  in  the 
+reference  value,  calculated  according  to  the  method  described  in  the  ISO Guide [2,3],  is  expressed  as  an  expanded 
+uncertainty, U.    The  expanded  uncertainty  is  calculated  as  U  =  kuc,  where  uc  is  intended  to  represent,  at  the  level  of  one 
+standard deviation, the combined effect of between-laboratory, within-laboratory, and drying components of uncertainty.  The 
+coverage  factor, k,  is  determined  from  the  Student's  t-distribution  corresponding  to  the  appropriate  associated  degrees  of 
+freedom and approximately 95 % confidence for each analyte. 
+
+(b) NIST LC/UV 
+(c) NIST LC/MS 
+(d) NIST LC/MS/MS 
+(e) FDA LC/MS/MS 
+(f) ChromaDex LC/UV 
+ 
+
+SRM 3242 
+
+Page 6 of 10 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Table 4.  Reference Concentration Values for Selected Elements in SRM 3242(a) 
+
+Element 
+
+Carbon 
+Chlorine 
+Hydrogen 
+Nitrogen 
+Potassium 
+ 
+ 
+Element 
+
+Boron 
+Calcium 
+Iron 
+Silicon 
+Sodium 
+Sulfur 
+
+Mass Fraction 
+(%) 
+
+41.5 
+
+±  1.1 
+
+2.75  ±  0.06 
+6.06  ±  0.14 
+2.88  ±  0.07 
+2.46  ±  0.05 
+
+ 
+
+Mass Fraction 
+(mg/kg) 
+
+52.5  ± 
+
+1.1 
+
+7420  ±  870 
+870  ±  230 
+2780  ±  370 
+2440  ±  280 
+3250  ±  110 
+
+ 
+
+ 
+
+ 
+(a) Each reference concentration value, expressed as a mass fraction on a dry-mass basis, is the equally weighted mean of values 
+provided  by  one  collaborating  laboratory  using  PGAA.    The  uncertainty  in  the  reference  value,  calculated  according  to  the 
+method described in the ISO Guide [2,3], is expressed as an expanded uncertainty, U.  The expanded uncertainty is calculated 
+as U = kuc, where uc is intended to represent, at the level of one standard deviation, the combined effect of within-laboratory 
+and drying components of uncertainty.  The coverage factor, k, is determined from the Student's t-distribution corresponding 
+to the appropriate associated degrees of freedom and approximately 95 % confidence for each analyte. 
+
+SRM 3242 
+
+Page 7 of 10 
+
+REFERENCES 
+
+for  Value-Assignment 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.; 
+Gills, T.;  Colbert, J.;  Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  
+NIST 
+for  Chemical  Measurements;  NIST  
+Special  Publication  260-136;  U.S. Government Printing   Office:    Washington, DC (2000);  available  at 
+http://www.cstl.nist.gov/nist839/special_pubs/SP260136.pdf. 
+ISO;  Guide  to  the  Expression  of  Uncertainty  in  Measurement;  ISBN  92-67-10188-9,  1st  ed.;  International 
+Organization  for  Standardization:  Geneva,  Switzerland  (1993);  see  also  Taylor, B.N.;  Kuyatt, C.E.; 
+Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement  Results;  NIST  Technical 
+at 
+Note 1297;  U.S.  Government 
+http://physics.nist.gov/Pubs/. 
+
+Printing  Office:  Washington,  DC 
+
+of  Reference  Materials 
+
+available 
+
+(1994); 
+
+[2] 
+
+H.k.;  Vangel,  M.G.;
+ [3]  Levenson,  M.S.;  Banks,  D.L.;  Eberhardt,  K.R.;  Gill,  L.M.;  Guthrie,  W.F.;  Liu,  H.k.;  Vangel, M.G.; 
+Yen, J.H.;  Zhang, N.F.;  An  Approach  to  Combining  Results  From  Multiple  Methods  Motivated  by  the  ISO 
+GUM; J. Res. Natl. Inst. Stand. Technol., Vol. 105; pp. 571−579 (2000). 
+Taylor,  B.N.;  Guide  for  the  Use  of  the  International  System  of  Units  (SI);  NIST  Special  Publication  811; 
+National Institute of Standards and Technology; U.S. Government Printing Office: Washington, DC (1995); 
+available at http://www.physics.nist.gov/Pubs. 
+
+ill,  L.M.;  Guthrie,  W.F.;  Liu, 
+
+[4] 
+
+[5]  Gay,  M.L.;  White,  K.D.;  Obermeyer,  W.R.;  Betz,  J.M.;  Musser,  S.M.;  Determination  of  Ephedrine  Type 
+Alkaloids  in  Dietary  Supplements  by  LC/MS  Using  a  Stable  Isotope  Labeled  Internal  Standard; 
+J. AOAC Int., Vol. 84, pp. 761−769 (2001). 
+
+[6]  Roman, M.C.; Determination of Ephedrine Alkaloids in Botanicals and Dietary Supplements by HPLC-UV: 
+
+[7] 
+
+[8] 
+
+Collaborative Study; J. AOAC Int., Vol. 87, pp. 1−14 (2004). 
+Sander, L.C.; Sharpless, K.E.; Satterfield, M.B.; Ihara, T; Phinney, K.W.; Yen. J.H.; Wise, S.A.; Gay, M.L.; 
+Lam, J.W.;  McCooeye, M.;  Gardner, G.;  Fraser,  C.;  Sturgeon,  R.;  Roman,  M.;  Determination  of  
+Ephedrine  Alkaloids  in  Dietary  Supplement  Standard  Reference  Materials;  Anal. Chem.,  Vol. 77, 
+pp. 3101−3112 (2005). 
+Phinney,  K.W.;  Ihara,  T.;  Sander,  L.C.;  Determination  of  Ephedra  Alkaloid  Stereoisomers  in  Dietary 
+Supplements by Capillary Electrophoresis; J. Chromatogr. A, Vol. 1077, pp. 90−97 (2005). 
+
+[9]  Anderson, D.L.; Cunninghan, W.C.; Revalidation and Long-Term Stability of National Institute of Standards 
+and  Technology  Standard  Reference  Materials  1566,  1567,  1568,  and  1570;  J. AOAC Int.,  Vol. 83, 
+pp. 1121−1134 (2000). 
+
+[10]  Murphy, K.E.; Beary, E.S.; Rearick, M.S.; Vocke, R.D.; Isotope Dilution Inductively Coupled Plasma Mass 
+Spectrometry (ID CP-MS) for the Certification of Lead and Cadmium in Environmental Standard Reference 
+Materials; Fresenius’ J. Anal. Chem., Vol. 368, pp. 362−370 (2000). 
+
+[11]  Christopher,  S.J.;  Long,  S.E.;  Rearick,  M.S.;  Fassett,  J.D.;  Development  of  Isotope  Dilution  Cold  Vapor 
+Inductively Couples Plasma Mass Spectrometry and Its Application to the Certification of Mercury in NIST 
+Standard Reference Materials; Anal. Chem., Vol. 73, pp. 2190−2199 (2001). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  certificate in their possession is current.  This can be accomplished by 
+contacting the SRM Program at:  telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via 
+the Internet at  http://www.nist.gov/srm. 
+
+SRM 3242 
+
+Page 8 of 10 
+
+APPENDIX A 
+
+identified  as 
+
+ 
+Typical chromatograms from the analysis of SRM 3242 by using a) LC/UV; b) LC/MS; c) LC/MS/MS; and d) CE. 
+  norephedrine (NE);  norpseudoephedrine (NPE);  ephedrine (E); 
+Components  are 
+pseudoephedrine (PE); 
+internal standard (IS);  
+(–)-ephedrine [(–)-E]; and (+)-pseudoephedrine [(+)-PE]. 
+ 
+ 
+ 
+
+follows: 
+methylephedrine (ME); 
+
+  
+
+methylpseudoephedrine (MPE); 
+
+E
+
+NPE
+
+NE
+
+  
+
+a)
+
+IS
+
+    
+
+ME
+
+PE
+
+  
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+time (min)
+  
+
+m/z 134
+
+NE
+
+NPE
+
+  
+20
+
+10
+
+15
+
+35
+
+25
+
+30
+
+5
+
+m/z 148
+
+E
+
+PE
+
+  
+20
+
+10
+
+15
+
+35
+
+25
+
+30
+
+5
+
+5
+
+10
+
+ME
+
+m/z 180
+
+    
+    
+
+  
+20
+
+ 
+
+time (min)
+
+m/z 169
+
+MPE
+
+15
+
+15
+
+10
+
+20
+
+35
+
+35
+
+30
+
+25
+
+30
+
+25
+
+IS
+
+5
+
+ 
+
+b)
+
+SRM 3242 
+
+Page 9 of 10 
+
+Appendix A (continued)  
+ 
+Typical chromatograms from the analysis of SRM 3242 by using a) LC/UV; b) LC/MS; c) LC/MS/MS; d) CE. 
+ 
+
+  
+
+179.9 > 162
+
+168.9 > 151
+
+IS
+
+ME
+
+MPE
+
+E
+
+165.9 > 148
+
+     
+
+151.8 > 134
+
+35
+Time
+
+NPE
+
+NE
+
+PE
+
+40
+
+15
+
+25
+
+10
+
+20
+
+55
+
+60
+
+45
+
+50
+
+30
+
+5
+
+0
+
+65
+
+  
+
+c)
+
+  
+
+(-)-E
+
+Method/chiral selector 1
+
+IS
+
+(+)-PE
+
+  
+
+  
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+min
+
+(-)-E
+
+IS
+
+Method/chiral selector 2
+
+(+)-PE
+
+PTT  TT  TTT  TTT  TTT  TTT 
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+min
+
+Method/chiral selector 3
+
+IS
+
+(-)-E
+
+(+)-PE
+
+  
+
+  
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+min
+
+  
+
+  
+
+d)
+
+SRM 3242 
+
+  
+
+ 
+
+ 
+
+Page 10 of 10 
+
+

@@ -1,0 +1,401 @@
+﻿ 
+
+National Institute of Standards & Technology 
+Report of Investigation 
+Reference Materials 8549, 8558, 8568 and 8569 
+Nitrogen and Oxygen Isotopes in Nitrate 
+ 
+These Reference Materials (RMs) are intended for use in developing and validating methods for measuring relative 
+differences in nitrogen (N) and oxygen (O) isotope-amount ratios in nitrate.  While the values for these RMs are not 
+certified, their widespread use permits comparability of data from different laboratories.  Equivalent names used by 
+the International Atomic Energy Agency (IAEA) and the U.S. Geological Survey (USGS) for these RMs are listed 
+in  column 2  of  Table 1.    RM  8549  is  supplied  in  plastic  vials  containing  approximately  0.4  g  of  KNO3  salt.  
+RMs 8558  and  8568  are  supplied  in  glass  bottles  containing  approximately  0.9 g  of  KNO3  while  RM 8569  is 
+supplied in glass bottles containing approximately 0.9 g of NaNO3. 
+
+ 
+
+ 
+Table 1. Reference values for the relative N and O isotope-amount ratios of the nitrate RMs 
+
+ 
+
+ 
+
+RM 
+Number 
+
+RM 8549 
+
+RM 8558 
+
+RM 8568 
+
+RM 8569 
+
+Name 
+
+IAEA-NO-3(a) 
+USGS32 
+
+USGS34 
+
+USGS35 
+
+δ15NAIR 
+×  103 
+
++4.7 
+
++180 
+
+–1.8 
+
++2.7 
+
+U (b) 
+ ×  103 
+± 0.3 
+Exact 
+± 0.2 
+± 0.2 
+
+δ18OVSMOW 
+ ×  103 
+
++25.6 
+
++25.7 
+
+–27.9 
+
++57.5 
+
+U (c)
+ ×  103
+± 0.4 
+± 0.4 
+± 0.6 
+± 0.4 
+
+Δ17OVSMOW 
+ ×  103 
+
+–0.2 
+n.d.e 
+–0.1 
+
++21.6 
+
+U (d) 
+×  103 
+
+± 0.2 
+n.d.(e) 
+± 0.2 
+± 0.2 
+
+Data 
+Sources  
+
+[1–3] 
+
+[1,2,4] 
+
+[2] 
+
+[2,3] 
+
+(a)  IAEA-NO-3 is also known as IAEA-N3.  
+(b)  Uncertainties  for  δ15N  are  two  times  the  standard  uncertainty  of  reported  values  from  an  inter-laboratory  comparison  test  [1],  or 
+
+reported values from a single study [2], after normalization to +0.43 ‰ for RM 8547 (IAEA-N1) and +180 ‰ for RM 8558.   
+(c)  Uncertainties for δ18O are two times the standard uncertainty of reported values from a single study [2], after normalization to 0 ‰ 
+
+for VSMOW and –55.5 ‰ for SLAP.   
+
+(d)  Uncertainties for Δ17O are two times the standard uncertainty of reported values from a single study [2].   
+(e)  n.d. no data. 
+ 
+Expiration  Date  of  Reference  Materials:    The  nitrate  isotopic  RMs  are  stable  and  can  be  used  indefinitely  if 
+handled  properly  and  not  contaminated  (see  “Instructions  for  Use”).    The  recommended  relative  isotope-amount 
+ratios given in this Report may change after further evaluation.  Users should contact NIST or IAEA for updates to 
+this report.  
+ 
+Maintenance of this Report:  NIST will monitor these RMs.  If substantive technical changes occur that affect the 
+value assignments, NIST will notify the purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+This Report of Investigation was prepared by J.K. Böhlke, T.B. Coplen and R.D. Vocke, Jr.   
+ 
+Technical aspects of the preparation, analysis, and distribution of these RMs were coordinated through the USGS 
+National Research Program in Water Resources by J.K. Böhlke and T.B. Coplen and through the NIST Analytical 
+Chemistry Division by R.D. Vocke, Jr.  
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  05 February 2008 
+See Report Revision History on Last Page  
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+RMs 8549, 8558, 8568, 8569 
+
+Page 1 of 4 
+
+Recommended values are given in Table 1 for relative N and O isotope-amount ratios.  Nitrogen isotope-amount 
+ratios [n(15N)/n(14N)] are reported as δ15N values:  
+
+δ15N  =  ([nsample(15N)/nsample(14N)]  –  [nAIR(15N)/nAIR(14N)])/[nAIR(15N)/nAIR(14N)] 
+
+where AIR refers to tropospheric N2, for which nAIR(15N)/nAIR(14N) = 0.003677 [5–7]. 
+The reported δ15N  results  for  nitrate  samples  have been normalized  to  yield  a value of  +180 ‰  for RM 8558 [1].  
+Oxygen isotope-amount ratios [n(18O)/n(16O)] are reported as δ18O values: 
+
+δ18O  =  ([nsample(18O)/nsample(16O)]/[nVSMOW(18O)/nVSMOW(16O)])  –  1 
+
+where  VSMOW 
+nVSMOW(18O)/nVSMOW(16O) = 0.0020052 [8]. 
+Similarly, oxygen isotope-amount ratios [n(17O)/n(16O)] are reported as δ17O values: 
+
+to  Vienna  Standard  Mean  Ocean  Water 
+
+refers 
+
+(RM 
+
+8535), 
+
+for  which 
+
+δ17O  =  ([nsample(17O)/nsample(16O)]  –  [nVSMOW(17O)/nVSMOW(16O)])/ [nVSMOW(17O)/nVSMOW(16O)] 
+
+where nVSMOW(17O)/nVSMOW(16O) = 0.0003799 [9]. 
+By convention, the δ18O scale is normalized to yield a value of –55.5 ‰ for Standard Light Antarctic Precipitation 
+(SLAP,  RM  8537)  [10,11].    For  RM 8549,  RM 8558,  RM  8568,  and  most  other  terrestrial  nitrate  samples,  major 
+variations in δ 18O and δ 17O values may be expected to be related by:  
+
+(1 + δ 17O)  =  (1 + δ 18O)λ  
+
+where λ is an isotopic-mass-dependent coefficient having a value between 0.51 and 0.53.   
+For atmospherically derived nitrate samples (including RM 8569), δ18O and δ17O values deviate markedly from this 
+relation.  Deviations from mass dependent O isotope-amount-ratio variations have been described in different ways, 
+depending  on  the  variability  and  use  of  the  data  [3,12,13].    Approximate  values  of  δ17O  for  the  RMs  can  be 
+calculated  from  the  independent  measurements  of  δ18O  [2]  and  Δ17O  [3]  given  in  Table 1,  with  the  following 
+equation [3]: 
+
+Δ17O  =  [δ17O  –  0.52  ×  δ18O] 
+The recommended values and uncertainties given in Table 1 are subject to revision as unknown sources of error may 
+result in revised values that are not included within the stated uncertainties 
+ 
+INSTRUCTIONS FOR USE 
+
+Storage and Handling:  Nitrate salts should be kept in a dry environment, as they will attract water when exposed 
+to air.  These RMs should be dried in a low-temperature oven or under vacuum before being weighed for analysis.  
+There  is  no  exchange  of  oxygen  in  nitrate  with  oxygen  in  water  except  in  strong  acid  conditions,  so  wetting  and 
+drying these RMs should not affect their isotopic compositions unless other contaminants are present.  The Material 
+Safety Data Sheets (MSDS) that accompany these RMs provide additional information about handling nitrate salts. 
+ 
+ 
+Use:    Because  the  supplies  of  these  RMs  are  limited,  it  is  recommended  that  they  be  used  to  calibrate  or  check 
+working  laboratory  standards  that  are  used  routinely.    Working  laboratory  standards  with  a  range  of  N  and 
+O isotope-ratios  can  be produced  by  the  methods  described  by  J.K.  Böhlke,  C. Gwinn,  and  T.B.  Coplen  [14]  and 
+J.K. Böhlke, S.J. Mroczkowski, and T.B. Coplen [2].   
+ 
+Normalization  of  Data:    δ15N,  δ18O,  δ17O,  and  Δ17O  results  for  nitrate  samples  can  be  normalized  by  analyzing 
+reference materials with δ15N, δ18O, δ17O, and Δ17O values that bracket those of the samples.  Generalized equations 
+for normalization are given in several publications [10,15] and a database program for assisting with normalization 
+is  available  [16].    Because  the  values  for  these  reference  materials  are  subject  to  change,  users  are  advised  to 
+report  measured  or  assumed  values  for  the  normalizing  reference  materials  when  reporting  isotope  data  for 
+samples. 
+
+RMs 8549, 8558, 8568, 8569 
+
+Page 2 of 4 
+
+ 
+
+ 
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6] 
+
+PREPARATION AND ANALYSIS OF REFERENCE MATERIALS 
+
+Preparation:  RM 8549 was prepared by A. Mariotti from KNO3 having normal terrestrial isotope-amount ratios 
+[17].    RM  8558  was  prepared  by  J.K.  Böhlke,  C.  Gwinn,  and  T.B.  Coplen  by  dissolving  and  recrystallizing  a 
+mixture  of  normal  and  15N-enriched  KNO3  [14].    RM  8568  and  RM  8569  were  prepared  by  J.K.  Böhlke, 
+S.J. Mroczkowski,  and  T.B.  Coplen  [2].    RM  8568  was  prepared  by  equilibrating  nitric  acid  with  18O-depleted 
+meteoric water, and neutralizing the mixture with KOH.  RM 8569 was purified from the natural nitrate ore deposits 
+of the Atacama Desert in Chile.   
+ 
+Analytical Methods:  δ15N - The reference values for δ15N of RM 8549 and RM 8558 were derived from results of 
+an  interlaboratory  comparison  test  after  elimination  of  outliers  [1].    The  δ15N  values  were  measured  by  mass 
+spectrometry on N2 gas that was produced from the nitrate by a variety of methods in the different laboratories.  The 
+assigned reference value of +180 ‰ for RM 8558 was selected from a slightly skewed distribution of data around a 
+mean value of +179.2 ‰ with a standard deviation of 1.3 ‰ (n = 11), based on the assumption that relatively low 
+values were caused by lack of correction for contamination  by air or other contaminants [1].  The reference value is 
+supported  by  subsequent  measurements  in  two  laboratories  using  both  continuous  flow  and  dual-inlet  mass 
+spectrometry  on  N2  produced  by  high-temperature  reduction  of  nitrate  with  Cu  [4],  yielding  a  mean  value  of 
++180.1 ‰ with a standard deviation of 0.3 ‰ (n = 5).  It is also supported by an earlier measurement of +180.0 ‰ 
+with a standard deviation of 0.2 ‰ (n = 6) [14].  These supporting values were calculated by assuming a value of 
++0.43 ‰ for RM 8547. 
+ 
+The reference values for δ15N of RM 8568 and RM 8569 were determined by dual-inlet mass spectrometry on N2 gas 
+that was produced from nitrate by off-line reduction with Cu at 850 °C [2].  These measurements were normalized to 
+the recommended values of RM 8549 and RM 8558, which were analyzed by the same technique.   
+δ18O,  Δ17O  -  The  reference  values  for  δ18O  of  the  nitrate  RMs  were  determined  by  continuous  flow  mass 
+spectrometry  on  CO  gas  that  was  produced  from  nitrate  by  on-line  reaction  with  carbon  at  1325 °C  [2].    These 
+measurements  were  normalized  to  the  VSMOW-SLAP  δ18O  scale  by  analyzing  water  samples  with  δ18OVSMOW 
+values of -1.5 ‰ and -51.3 ‰ with the nitrate RMs by the same technique.  The Δ17O values were determined by 
+dual-inlet  mass  spectrometry  on  O2  gas  that  was  produced  by  off-line  decomposition  of  nitrate  at  520 °C  [3].  
+Thermal decomposition of nitrate produces NO2 in addition to O2.  Because of isotopic fractionation between NO2 
+and O2, the measured δ18O values of the O2 are not equal to the nitrate δ18O values; however, the Δ17O values of the 
+O2 were assumed to be unaffected by mass-dependent fractionation and thus equal to the nitrate values.  Users are 
+advised that the definition of Δ17O may differ among laboratories [3,12,13].   
+ 
+Isotopic Homogeneity:  There is no documented evidence for isotopic heterogeneity in the distributed supplies of 
+these  reference  materials.    Aliquots  of  RM 8558  containing  20 micromole  of  nitrate  were  reported  to  yield 
+reproducible δ15N results with a standard deviation of 0.16 ‰ (n = 15) [14].  Aliquots of RM 8568 and RM 8569 
+containing  2.5 micromole  of  nitrate  were  reported  to  yield  reproducible  δ18O  results  with  a  standard  deviation  of 
+0.11 ‰ (n = 25) and 0.14 ‰ (n = 24, 1 outlier), respectively [2]. 
+ 
+ 
+
+REFERENCES 
+
+Böhlke, J.K.; Coplen, T.B.; Interlaboratory Comparison of Reference Materials for Nitrogen-Isotope-Ratio 
+Measurements,  in  Reference  and  Intercomparison  Materials  for  Stable  Isotopes  of  Light  Elements,  IAEA 
+TECDOC 825. IAEA Vienna. pp. 51−66 (1995). 
+Böhlke, J.K.; Mroczkowski, S.J.; Coplen, T.B.; Oxygen Isotopes in Nitrate: New Reference Materials for 
+18O:17O:16O  Measurements  and  Observations  on  Nitrate-Water  Equilibration.  Rapid  Comm.  Mass 
+Spectrom., Vol. 17, pp. 1835−1846 (2003). 
+Michalski,  G.;  Savarino,  J.;  Böhlke,  J.K.;  Thiemens,  M.H.;  Determination  of  the  Total  Oxygen  Isotopic 
+Composition of Nitrate and the Calibration of a Δ17O Nitrate Reference Material. Anal. Chem., Vol. 74, 
+pp. 4989−4993 (2002). 
+Qi, H.; Coplen, T.B.; Geilman, H.; Brand, W.A.; Böhlke, J.K.; Two New Organic Reference Materials for 
+δ13C and δ15N Measurements and a New Value for the δ13C of NBS 22 Oil. Rapid Comm. Mass Spectrom., 
+Vol. 17, pp. 2483−2487 (2003). 
+Junk, G.; Svec, H.J.; The Absolute Abundance of the Nitrogen Isotopes in the Atmosphere and Compressed 
+Gas from Various Sources. Geochim. Cosmochim. Acta, Vol. 14, pp. 234−243 (1958). 
+Coplen,  T.B.;  Krouse,  H.R.;  Böhlke,  J.K.;  Reporting  of  Nitrogen-Isotope  Abundances.  Pure  Applied 
+Chem., Vol. 64. pp. 907−908 (1992). 
+
+RMs 8549, 8558, 8568, 8569 
+
+Page 3 of 4 
+
+ 
+[7] 
+
+[8] 
+
+[9] 
+
+[10] 
+
+[11] 
+
+DeBievre,  P.;  Valkiers,  S.;  Peiser,  H.S.;  Taylor,  P.D.P.;  Hansen,  P.;  Mass  Spectrometric  Methods  for 
+Determining Isotopic Composition and Molar Mass Traceable to the SI, Exemplified by Improved Values 
+for Nitrogen. Metrologia, Vol. 33, pp. 447−455 (1996).. 
+Baertschi,  P.;  Absolute  18O  Content  of  Standard  Mean  Ocean  Water.  Earth  Planet.  Sci.  Lett.,  Vol. 31, 
+pp. 341−344 (1976). 
+Li, W.; Ni, B.; Jin, D.; Chang, T.L.; Measurement of the Absolute Abundance of Oxygen-17 in V-SMOW. 
+Kexue Tongbao, Chinese Science Bulletin, Vol. 33, pp. 1610−1613 (1988). 
+Gonfiantini,  R.;  Standards  for  Stable  Isotope  Measurements  in  Natural  Compounds.  Nature,  Vol. 271, 
+pp. 534−536 (1978). 
+Coplen,  T.B.;  Reporting  of  Stable  Hydrogen,  Carbon,  and  Oxygen  Isotopic  Abundances.  Pure  Applied 
+Chem., Vol. 66, pp. 273−276 (1994). 
+
+[14] 
+
+[13] 
+
+[12]  Miller, M.F.; Isotopic Fractionation and the Quantification of 17O Anomalies in the Oxygen Three-Isotope 
+System: An Appraisal and Geochemical Significance. Geochim. Cosmochim. Acta, Vol. 66, pp. 1881−1889 
+(2002). 
+Assonov, S.S.; Brenninkmeijer, C.A.M.; Reporting Small Δ17O Values: Existing Definitions and Concepts. 
+Rapid Comm. Mass Spectrom., Vol. 19, pp. 627−636 (2005). 
+Böhlke,  J.K.;  Gwinn,  C.J.;  Coplen,  T.B.;  New  Reference  Materials  for  Nitrogen-Isotope-Ratio 
+Measurements. Geostand. Newslett., Vol. 17, pp. 159−164 (1993). 
+Coplen,  T.B.;  Normalization  of  Oxygen  and  Hydrogen  Isotope  Data.  Chem.  Geol.  (Isotope  Geoscience 
+Section), Vol. 72, pp. 293−297 (1988). 
+Coplen,  T.B.;  A  Guide  for  the  Laboratory  Information  Management  System  (LIMS)  for  Light  Stable 
+Isotopes-Versions 7 and 8. U.S.G.S. Open-File Report 00-345 (2000). 
+Hut,  G.;  Stable  Isotope  Reference  Samples  for  Geochemical  and  Hydrological  Investigations.  Vienna, 
+Austria, IAEA, Consultants' group meeting 16-18 September 1985, p. 42 (1987). 
+
+[16] 
+
+[15] 
+
+[17] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  these  RMs  should  ensure  that  the  Report  in  their  possession  is  current.    This  can  be  accomplished  by 
+contacting the SRM Program at telephone (301) 975-6776; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+Report Revision History:  05 February 2008 (revised report to include RMs 8549, 8558, 8568, 8569 and to remove RMs 8547, 8548, 8550, 8551, 
+8552;  remeasured  RM  8549  and  normalized  nitrogen  isotopic  values;  set  RM  8558  nitrogen  isotopic  value  to  +180;  added  for  RM 8549  and 
+RM 8558  new  oxygen  isotopic  values);  03 February 1993  (updated  RM  8549  nitrogen  value;  added  RM  8552  to  report);  22  June  1992  (original 
+report date). 
+
+RMs 8549, 8558, 8568, 8569 
+
+Page 4 of 4 
+
+

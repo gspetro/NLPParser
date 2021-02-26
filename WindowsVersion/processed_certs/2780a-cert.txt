@@ -1,0 +1,890 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2780a 
+
+ 
+
+Hard Rock Mine Waste 
+
+ 
+ 
+primarily 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validation  of  chemical  and  instrumental 
+methods of analysis used to determine elements in hard rock mine waste and materials of a similar matrix.  It can be 
+used to validate value assignment of in-house reference materials.  SRM 2780a is composed of material collected from 
+waste  piles  of  abandoned  mine  sites  in  the  mountains  of  central  Colorado.    A  unit  of  SRM 2780a  consists  of 
+approximately 50 g of material of which 90 % passes a 150 µm (No. 100) sieve. 
+ 
+Certified  Mass  Fraction  Values:    Certified  values  for  constituents  in  SRM 2780a  are  listed  in  Table 1 as  mass 
+fractions of the total amounts of the elements in rock powder [1].  A NIST-certified value is a value for which NIST 
+has the highest confidence in its accuracy in that all known or suspected sources of bias have been taken into account 
+[2].  A certified value is the present best estimate of the true value.  The certified values are metrologically traceable 
+to  the  SI  derived  unit  of  mass  fraction  expressed  as  either  percent  or  milligrams  per  kilogram.    The  expanded 
+uncertainty intervals are expressed at a coverage level of approximately 95 %. 
+ 
+Expiration of Certification:  The certification of SRM 2780a is valid, within the measurement uncertainty specified, 
+until  31 December 2028,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage and Use”).  Reference values are expected also to remain valid 
+yn  is  nullified 
+within this period.  Periodic recalibration or recertification of this SRM is not required.  This certification is nullified 
+if the SRM is damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of technical measurements for the certification of this SRM was performed by J.R. Sieber of the NIST 
+Chemical  Sciences  Division.    Coordination  of  measurements  by  international  collaborators  was  performed  by 
+M.A. Cabral de Goes of the Center for Mineral Technology (CETEM), Rio de Janeiro, Brazil. 
+ 
+Statistical consultation for this SRM was provided by A.L. Pintar of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  20 February 2018 
+Certificate Revision History on Last Page 
+
+  
+
+SRM 2780a 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 6 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mine  Waste 
+Table 1.  Certified Mass Fraction Values in SRM 2780a Hard Rock Mine Waste 
+
+Element 
+
+ 
+
+Mass Fraction 
+(%) 
+
+Uncertainty Interval 
+(%) 
+
+Aluminum (Al) 
+Barium (Ba) 
+Calcium (Ca) 
+Iron (Fe) 
+Lead (Pb) 
+Magnesium (Mg) 
+Potassium (K) 
+Silicon (Si) 
+Sodium (Na) 
+Sulfur (S) 
+Titanium (Ti) 
+Zinc (Zn) 
+
+Element 
+
+Antimony (Sb) 
+Arsenic (As) 
+Cerium (Ce) 
+Cesium (Cs) 
+Chromium (Cr) 
+Cobalt (Co) 
+Copper (Cu) 
+Gold (Au) 
+Lanthanum (La) 
+Manganese (Mn) 
+Molybdenum (Mo) 
+Neodymium (Nd) 
+Nickel (Ni) 
+Phosphorus (P) 
+Rubidium (Rb) 
+Samarium (Sm) 
+Scandium (Sc) 
+Silver (Ag) 
+Strontium (Sr) 
+Thorium (Th) 
+Uranium (U) 
+Vanadium (V) 
+Zirconium (Zr) 
+
+Mass Fraction 
+(mg/kg) 
+
+Uncertainty Interval 
+(mg/kg) 
+
+8.43 
+0.093 
+0.247 
+8.75 
+0.665 
+0.465 
+3.99 
+
+0.108 
+8.85 
+0.643 
+0.102 
+
+24.1 
+
+18.3 
+65.9 
+67.7 
+8.3 
+
+205 
+16.5 
+240 
+
+6.6 
+34.4 
+490 
+25.0 
+28.3 
+95 
+286 
+220 
+
+4.7 
+15.6 
+72.5 
+121 
+12.0 
+4.0 
+
+152 
+206 
+
+22.3 
+
+28.1 
+
+8.16 
+0.078 
+0.227 
+8.29 
+0.628 
+0.434 
+3.88 
+
+0.097 
+8.02 
+0.595 
+0.096 
+
+15.5 
+57.5 
+59.7 
+7.4 
+
+194 
+13.8 
+234 
+
+5.3 
+26.5 
+460 
+24.2 
+25.1 
+75 
+262 
+212 
+
+3.8 
+13.9 
+66.9 
+107 
+10.3 
+3.3 
+
+146 
+177 
+
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+to 
+
+8.68 
+0.138 
+0.305 
+9.10 
+0.729 
+0.489 
+4.34 
+
+0.133 
+9.08 
+0.732 
+0.106 
+
+19.9 
+78.1 
+73.8 
+9.3 
+
+233 
+19.1 
+253 
+
+8.4 
+38.1 
+530 
+28.3 
+29.4 
+138 
+317 
+231 
+
+5.1 
+17.0 
+81.0 
+129 
+13.3 
+4.4 
+
+168 
+231 
+
+GE,  HANDLING  AND
+
+ 
+ 
+INSTRUCTIONS FOR STORAGE, HANDLING AND   USE 
+ 
+The values listed for this SRM were determined on the as-received basis.  No drying is necessary.  Sampling and 
+sample preparation procedures should be designed to avoid material segregation on the basis of particle size.  It is 
+recommended to mix the contents of the bottle prior to sampling by turning the bottle end over end for two minutes.  
+If particle size reduction is performed, it is the user’s responsibility to prevent contamination or loss of material.  This 
+SRM must be stored in an air-conditioned or similar cool and dry environment away from light and fumes.  A value 
+for  loss  on  ignition (LOI)  at  950 ºC  is  provided  to  enable  the  user  to  check  for  changes  to  stored  material  by 
+determining the LOI in the user’s laboratory and comparing the result to the value in Table 2 in this certificate. 
+ 
+To relate analytical determinations to the values in this Certificate of Analysis, a minimum sample quantity of 250 mg 
+is recommended based on the quantities used for most test methods.  From testing using microscale X-ray fluorescence 
+spectrometry, a specimen mass as low as 5 mg is appropriate for the elements Al, As, Ca, Cd, Cr, Cu, Fe, K, Mg, Mn, 
+P, Pb, S, Si, Ti, V, and Zn. 
+ 
+
+SRM 2780a 
+
+Page 2 of 6 
+
+user
+
+To use the uncertainty intervals given in this certificate in comparisons and calculations, the user must be aware that 
+most intervals are not symmetric about the assigned values.  The use of the intervals depends on the context, and 
+instructions for two common uses follow [3,4]. 
+ 
+Direct comparison to a result of a user determination:  For this case, directly compare a coverage interval calculated 
+by the user for their result to the appropriate coverage interval provided in this certificate. 
+ 
+Propagation  of  uncertainty  when  using  SRM 2780a  as  a  calibration  standard:    When  a  value  provided  in  this 
+certificate  is  used  to  calibrate  a  measurement  process,  the  uncertainty  associated  with  that  value  should  be 
+appropriately propagated into the user’s uncertainty calculation.  The asymmetric intervals in Table 1 and Table 2 
+cannot  be  interpreted  as  (value  ±  kuc),  where  k  is  an  expansion  factor,  and  uc  is  a  combined  standard  uncertainty 
+representative of both sides of the interval around the value.  The user may choose one of the following two options 
+for their uncertainty calculations.  A first option is to use an approximation to uc equal to one fourth of the width of 
+the coverage interval given in this certificate (see note 8.1 in reference 3).  A second and better option is to use a 
+Monte  Carlo  method  for  propagation  of  probability  distributions.    This  can  be  done  using  the  NIST  Uncertainty 
+Machine  at  https://uncertainty.nist.gov.    The  user  would  enter  his  or  her  measurement  equation  and  standard 
+uncertainty estimates or probability distributions describing uncertainty for the terms of the equation.  For the estimate 
+of uncertainty of the calibration value, the user would choose the “Sample values” option and provide a file containing 
+the actual distribution of the NIST analytical results of certification analyses.  Plain ASCII files for the constituents 
+may be found at https://www-s.nist.gov/srmors/view_detail.cfm?srm=2780A.   
+ 
+PREPARATION AND ANALYSIS(1) 
+ 
+Collection and preparation of mine waste for SRM 2780a were performed by the U.S. Geological Survey (USGS) 
+under the direction of S.A. Wilson, who collected materials from several sites in the mountains of central Colorado.  
+Grinding, blending, and bottling were performed at USGS in Denver, Colorado.  On receipt by NIST, the entire lot of 
+material was sterilized by irradiation.  Bottles were sealed into aluminized bags to promote long shelf life. 
+ 
+Homogeneity  testing  was  performed  at  NIST  using  X-ray  fluorescence  spectrometry  and  microbeam  X-ray 
+fluorescence spectrometry to measure numerous elements believed to be representative of the constituents given in 
+this Certificate of Analysis.  Suitability of this material for testing using low milligram quantities was evaluated using 
+microbeam X-ray fluorescence spectrometry [5,6] to evaluate the elements Al, As, Ca, Cd, Cr, Cu, Fe, K, Mg, Mn, P, 
+Pb, S, Si, Ti, V, and Zn. 
+ 
+For  each  certified  and  reference  value,  the  estimate  was  derived  by  fitting  a  statistical  model  to  the  results  of 
+measurements using the test methods listed in Table 4.  That is, a posterior probability distribution, describing our 
+knowledge  of  the  measurand,  was  developed  for  each  constituent.    Its  median  was  taken  as  the  estimate  of  the 
+measurand, and the 2.5th and 97.5th percentiles form the 95 % coverage interval.  The Bayesian paradigm was used for 
+statistical inference [7].  The probability distribution combines all recognized sources of uncertainty.  This procedure 
+is consistent with the ISO/JCGM Guide [8,9]. 
+ 
+Measurements  for  value  assignment  of  SRM 2780a  were  performed  by  A.F. Marlow,  J.L. Molloy,  R.L. Paul,  and 
+J.R. Sieber  of  the  NIST  Chemical  Sciences  Division.    Additional  analyses  were  performed  by  collaborating 
+laboratories,  including  C. Bucknam,  H. Corsi,  J. Huddle,  and  J. Lorango  (Newmont  Metallurgical  Services, 
+Englewood, Colorado,  United  States);  V. Kuch,  E. Matthews  and  B. White  (SGS  Canada  Minerals  Lakefield, 
+Lakefield, Ontario,  Canada);  M. Adams  and  S.A. Wilson,  (United  States  Geological  Service,  Denver, Colorado, 
+United States); J.A. Begum and R. Cardinall (AGAT Laboratories, Mississauga, Ontario, Canada); E. Miller (ALS 
+Geochemistry Vancouver, North Vancouver, British  Columbia, Canada); D. Demianiuk and J. Moore (Accurassay 
+Laboratories, Thunder Bay,  Ontario, Canada); M. Eseme  and E. Hoffman (Activation  Laboratories Ltd.,  Ancaster, 
+Ontario,  Canada);  C. Chiang  and  L. Sison  (SGS  Canada  Minerals  Burnaby,  Burnaby,  British  Columbia,  Canada); 
+T. Ferguson  (Bureau  Veritas  Commodities  Canada,  Vancouver,  British  Columbia,  Canada);  S. Kenny,  (ALS 
+Geochemistry  Brisbane,  Stafford,  Queensland,  Australia);  A. Gasiorowski  and  G. Petrakis  (Intertek  Laboratory 
+Services,  Wingfield,  South  Australia,  Australia);  P. Whittle,  (HRL  Testing  Pty.  Ltd.,  Brisbane,  Queensland, 
+Australia); D. Burridge and P. Riles (Newcrest Laboratory Services, Orange, New South Wales, Australia);  A. Daly 
+and M. Trutwein (Labwest Minerals Pty. Ltd., Malag, Western Australia, Australia); L. Clarke and A. Tairov (ALS 
+Minerals Loughrea, Galway, Ireland); B. Lkhagvasuren and A. Purvee (Central Geological Laboratory of Mongolia, 
+
+                                                           
+
+(1)  Certain commercial equipment, instrumentation, or materials are identified in this certificate to adequately specify the 
+experimental  procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institutes  of 
+Standards and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the 
+purpose. 
+ 
+SRM 2780a 
+
+Page 3 of 6 
+
+Ulaanbaatar, Mongolia); I.E. Vasileva and E.V. Shabanova (Vinogradov Institute of Geochemistry, Irkutsk, Russia); 
+A. Raycheva (Eurotest-Control EAD, Sofia, Bulgaria); and A. Hlahla (MINTEK, Randburg, South Africa).   
+ 
+NOTICE TO USERS 
+ 
+NIST strives to maintain the SRM inventory supply, but NIST cannot guarantee the continued or continuous supply 
+of any specific SRM.  Accordingly, NIST encourages the use of this SRM as a primary benchmark for the quality and 
+accuracy  of  the  user’s  in-house  reference  materials  and  working  standards.    As  such,  the  SRM  should  be  used  to 
+validate the more routinely used reference materials in a laboratory.  Comparisons between the SRM and in-house 
+reference materials or working measurement standards should take place at intervals appropriate to the conservation 
+of  the  SRM  and  the  stability  of  relevant  in-house  materials.    For  further  guidance  on  how  this  approach  can  be 
+implemented, contact NIST by email at srms@nist.gov. 
+ 
+ie  following  additional  constituents  in 
+ADDITIONAL CONSTITUENTS:  Noncertified values are provided for the following additional constituents in 
+SRM 2780a. 
+ 
+Reference Mass Fraction Values:  Reference values for SRM 2780a are reported in Table 2 as mass fractions of the 
+constituents in rock powder.  A reference value is a non-certified value that is the present best estimate of the true 
+value based on available data; however, the value does not meet the NIST criteria for certification and is provided 
+with an associated uncertainty that may reflect only measurement precision, may not include all sources of uncertainty, 
+or may reflect a lack of sufficient statistical agreement among multiple analytical methods [2].  The measurands are 
+listed  in  Table  2  as  determined  by  the  methods  indicated.    The  reference  mass  fraction  values  are  metrologically 
+traceable to the derived SI unit for mass fraction expressed as either percent or milligram per kilogram.   
+ 
+ 
+
+Table 2.  Reference Mass Fraction Values in SRM 2780a Hard Rock Mine Waste 
+
+ion
+
+Mass Fraction  
+(mg/kg) 
+
+ Uncertainty Interval 
+(mg/kg) 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Element 
+ 
+
+Beryllium (Be) 
+Bismuth (Bi) 
+Cadmium (Cd) 
+Dysprosium (Dy) 
+Erbium (Er) 
+Europium (Eu) 
+Gallium (Ga) 
+Gadolinium (Gd) 
+Hafnium (Hf) 
+Holmium (Ho) 
+Indium (In) 
+Lithium (Li) 
+Lutetium (Lu) 
+Niobium (Nb) 
+Praseodymium (Pr) 
+Tantalum (Ta) 
+Tellurium (Te) 
+Terbium (Tb) 
+Thallium (Tl) 
+Thulium (Tm) 
+Tin (Sn) 
+Tungsten (W) 
+Yttrium (Y) 
+Ytterbium (Yb) 
+
+1.1 
+45 
+4.8 
+3.1 
+2.0 
+0.9 
+21 
+3.2 
+5.5 
+0.7 
+1.65 
+14 
+0.33 
+20 
+8 
+1.2 
+22 
+0.5 
+5.5 
+0.31 
+7.2 
+17.4 
+18 
+2 
+
+to 
+1.0 
+to 
+43 
+to 
+4.5 
+to 
+1.5 
+to 
+1.0 
+to 
+0.6 
+to 
+20 
+to 
+2.1 
+to 
+5.3 
+0.2 
+to 
+1.56  to 
+11 
+to 
+0.31  to 
+to 
+19 
+to 
+6 
+to 
+1.1 
+to 
+21 
+to 
+0.3 
+5.2 
+to 
+0.15  to 
+to 
+6.7 
+to 
+16.9 
+to 
+8 
+to 
+1 
+
+1.2 
+47 
+5.4 
+4.1 
+2.5 
+1.0 
+24 
+4.0 
+5.8 
+0.9 
+1.73 
+26 
+0.35 
+22 
+9 
+1.6 
+24 
+0.6 
+5.8 
+0.43 
+7.7 
+18.1 
+26 
+3 
+
+ 
+ 
+ 
+ 
+ 
+11.1 
+Information Mass Fraction Values:  Information values for SRM 2780a are reported as mass fractions in Table 3.  
+An information value is a value that may be of interest to the SRM user, but insufficient information is available to 
+
+Constituent 
+ 
+ 
+Carbon (C) 
+Loss on Ignition (950 ºC) 
+
+Uncertainty Interval 
+(%) 
+
+Mass Fraction 
+(%) 
+
+0.18  to 
+to 
+
+11.9 
+
+0.20 
+
+0.19 
+
+10.3 
+
+SRM 2780a 
+
+Page 4 of 6 
+
+assess  the  uncertainty  associated  with  the  value [2].    Information  values  cannot  be  used  to  establish  metrological 
+traceability.    The  information  values  were  determined  using  atomic  emission,  atomic  absorption,  and  mass 
+SS
+spectrometric test methods at NIST and collaborating laboratories as shown in Table 4. 
+ 
+ 
+
+Table 3.  Information Mass Fraction Values in SRM 2780a Hard Rock Mine Waste 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Element 
+
+Boron (B) 
+Germanium (Ge) 
+Mercury (Hg) 
+Rhenium (Re) 
+Selenium (Se) 
+
+Mass Fraction 
+(mg/kg) 
+
+27 
+<6 
+
+0.2 
+0.003 
+6 
+
+Table 4.  Methods Used in Elemental Analyses of SRM 2780a Hard Rock Mine Waste 
+ 
+
+Mg,  Mn 
+
+Constituents Determined 
+
+Al, As, Ba, Ca, Ce, Cr, Cu, Fe, K, Mg, Mn, Na, Ni, P,  
+Pb, Rb, S, Si, Sr, Ti, V, Zn, Zr 
+
+Method 
+ 
+Wavelength Dispersive X-ray Fluorescence (WDXRF) 
+Spectrometry at NIST and Collaborating Laboratories 
+ 
+Energy Dispersive X-Ray Fluorescence (EDXRF) at 
+Collaborating Laboratories 
+ 
+Inductively Coupled Plasma Optical Emission  
+Spectrometry (ICP-OES) at Collaborating Laboratories 
+ 
+ 
+ 
+Inductively Coupled Plasma Mass Spectrometry (ICP-MS)  Al, Ag, As, Au, B, Ba, Be, Bi, Ca, Cd, Ce, Co, Cr, Cs, 
+Cu, Dy, Er, Eu, Fe, Ga, Gd, Ge, Hf, Hg, Ho, In, K, La, 
+at Collaborating Laboratories 
+Li, Lu, Mg, Mn, Mo, Na, Nb, Nd, Ni, P, Pb, Pr, Rb, Re, 
+Sb, Sc, Se, Sm, Sn, Sr, Ta, Tb, Te, Th, Ti, Tl, Tm, U, 
+V, W, Y, Yb, Zn, Zr 
+
+Ag, Al, As, Ba, Bi, Ca, Cd, Ce, Co, Cr, Cs, Cu, Dy, Er, 
+Eu, Fe, Ga, Gd, Hf, Ho, In, K, La, Li, Lu, Mg, Mn, Mo, 
+Nb, Nd, Ni, P, Pb, Pr, Rb, S, Sb, Sc, Si, Sm, Sn, Ta, Tb,  
+Th, Ti, Tl, Tm, U, V, W, Y, Yb, Zn, Zr 
+
+Fe, Mn, K, P, Si   
+
+Al, As, B, Bi, Cr, Cu, Fe, Ga, Ge, Mn, Mo, Nb, Sn, W, 
+Y, Zn, Zr 
+
+ 
+Arc-Spark Optical Emission Spectrometry (AS-OES)  
+at Collaborating Laboratories  
+ 
+Instrumental Neutron Activation Analysis (INAA) at NIST  Ag, As, Au, Ce, Co, Cs, La, Mo, Nd, Sb, Sc, Sm, Th, U 
+ 
+Thermogravimetric Analysis (TGA) at NIST and one 
+Collaborating Laboratory 
+ 
+Detection  at  Collaborating 
+Combustion with Infrared Detection at Collaborating 
+Laboratories 
+ 
+Fire Assay at one Collaborating Laboratory   
+ 
+Direct Mercury Analyzer at NIST 
+ 
+Gravimetry at one Collaborating Laboratory  
+ 
+ 
+ 
+
+Loss on Ignition at 950 ºC in air  
+
+Ag, Au 
+
+C, S 
+
+Hg 
+
+S 
+
+ 
+
+ 
+
+SRM 2780a 
+
+Page 5 of 6 
+
+REFERENCES 
+
+ 
+[1]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/physical-measurement-laboratory/special-publication-811 (accessed Feb 2018). 
+
+Printing  Office:  Washington, DC 
+
+available 
+
+[2]  May, W.;  Parris, R.;  Beck, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definitions of Terms and Modes Used at NIST for Value Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136; U.S. Government Printing 
+Office:  Washington,  DC  (2000);  available  at  https://www.nist.gov/sites/default/files/documents/srm/SP260-
+136.PDF (accessed Feb 2018). 
+
+[3]  Possolo, A.; Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results; NIST 
+surement  Results 
+(1994); 
+at 
+Technical  Note  1900;  U.S.  Department  of  Commerce:  Washington,  DC 
+(1994);  available  at 
+). 
+https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1900.pdf (accessed Feb 2018). 
+Vol. 
+
+[4]  Lafarge, T. and Possolo, A.; The NIST Uncertainty Machine; NCSLI Measure, 2015, Vol. 10, pp. 20–27. 
+[5]  Molloy, J.L.; Sieber, J.R.; Classification of Microheterogeneity in Solid Samples using μXRF; Anal. and Bioanal. 
+
+(2008); 
+
+available 
+
+ss, 
+
+Chem., Vol. 392, pp. 995–1001 (2008). 
+
+[6]  Molloy, J.L.;  Sieber, J.R.;  Assessing  Microscale  Heterogeneity  in  Batches  of  Reference  Materials  Using 
+
+Microbeam XRF; X-Ray Spectrom., Vol. 40, pp. 306–314 (2011). 
+
+[7]  Gelman, A.; Carlin, J.B.; Stern, H.S.; Dunson, D.B.; Vehtari, A.; Rubin, D.B.; Bayesian Data Analysis; 3rd ed., 
+
+CRC Press (Boca Raton, FL) (2013). 
+
+[8]  JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(GUM 1995 with Minor Corrections); Joint Committee  for Guides in Metrology (JCGM) (2008); available at 
+www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Feb 2018);  see  also  Taylor, 
+B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results; 
+NIST  Technical  Note  1297;  U.S.  Government  Printing  Office:  Washington,  DC  (1994);  available  at 
+https://www.nist.gov/pml/nist-technical-note-1297 (accessed Feb 2018). 
+
+[9]  JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to the Expression of Uncertainty 
+in  Measurement  –  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  JCGM  (2008);  available  at 
+www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Feb 2018). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Certificate  Revision  History: 
+irradiation;  editorial  changes); 
+   
+12 September 2017 (Original certificate date). 
+
+  20 February 2018 (Updated  preparation  and  analysis 
+
+include 
+
+to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the Certificate of Analysis in their possession is current.  This can be accomplished 
+by  contacting  the  SRM  program:    telephone  (301) 975-2200;  fax  (301) 948-3730;  e-mail srminfo@nist.gov;  or  the 
+Internet at https://www.nist.gov/srm. 
+
+SRM 2780a 
+
+Page 6 of 6 
+
+

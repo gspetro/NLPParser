@@ -1,0 +1,129 @@
+﻿National  Institute  of  Standards  &  Technology 
+
+Certificate  of  Analysis 
+
+Standard  Reference  Material  2072 
+
+Sinusoidal  Roughness  Specimen 
+
+Serial 
+
+No. 
+
+This  Standard  Reference  Material  (SRM)  is  certified  for  roughness  average,  Ra,  and  surface  wavelength,  D,  and  is  intended  for 
+use  as  a  standard  for  the  calibration  of  stylus  instruments  that  are  used  to  measure  surface  roughness.  The  SRM  is  a  steel 
+block  of  nominal  Knoop  hardness  500  which  has  been  nickel  coated  by  the  electroless  nickel  process.  A  sinusoidal  roughness 
+profile  was  machined  onto  the  top  surface  of  the  specimen  in  a  facing  operation  by  a  singie-point,  diamond  tool  on  a 
+numerically  controiled  lathe. 
+
+The  roughness  average,  Rg,  is  the  average  absolute  deviation  of  the  surface  peaks  and  valleys  about  the  mean  line  and  is 
+defined  in  the  ANSI  Standard  B46.1  entitled  "Surface  Texture".  The  surface  wavelength,  D  is  the  average  period  of  the 
+sinusoidal  surface  profile. 
+
+The  parameters  R,  and  D  were  calculated  from  roughness  profiles  of  the  SRM’s  measured  with  a  stylus  instrument  interfaced 
+to  a  minicomputer  and a  laser  interferometer.  The  profiles  were  measured  following  the  procedures  in  ANSI  Standard  B46.1. 
+The  instrument  was  operated  in  the  skidless  mode  with  an  external  reference  datum.  The  cutoff  length  was  0.8  mm  and  Lhe 
+sampling  rate  was  1  point  per  wm  over  the  traversing  length  of  4.0  mm.  The  stylus  instrument  was  calibrated  using  an 
+interferometrically  measured  step,  and  the  stylus  had  a  tip  width  of  2.0  +  0.4  um.  The  width  is  defined  to  be  the  distance 
+between  the  two  points  of  contact  when  the  stylus  tip  profile  is  inscribed  in  a  150°  angle. 
+
+The  certified  Rg  and  D  values  for  this  specimen  are: 
+
+Roughness  Average  (Ra),  wm 
+
+Surface  Wavelength  (D),  um 
+
++  0.027 
+
+101.64  +  0.24 
+
+The  technical  direction  and  physical  measurements  leading  to  certification  were  provided  by  T.V.  Vorburger  and  C.H.W. 
+Giauque  of  the  Center  for  Manufacturing  Engineering  and  J.F.  Song,  guest  researcher. 
+
+Guidance  on  statistical  analysis  was  provided  by  M.C.  Croarkin  of  the  NIST  Statistical  Engineering  Division. 
+
+The  technical  and  support  aspects  involved  in  the  preparation,  certification,  and  issuance  of  this  Standard  Reference  Material 
+were  coordinated  through  the  Office  of  Standard  Reference  Materials  by  R.L.  McKenzie. 
+
+Gaithersburg,  MD  20899 
+December  16,  1989 
+
+: 
+
+(Over) 
+
+William  P.  Reed,  Acting  Chief 
+Office  of  Standard  Reference  Materials 
+
+  
+
+  
+
+ 
+
+The  specimens  were  machined  by  Pneumo  Precision,  Inc.  of  Keene,  N.H.  using  a  single-point,  diamond  tool  in  a  facing 
+operation  with  a  numerically  controlled  tool  path.  The  surface  profile  is  sinusoidal  to  a  high  approximation  but  shows  a  fine- 
+scale  structure  when  the  surface  is  scanned  at  high  resolution,  as  is  shown  in  Figure  1.  The  upper  profile  shown  in  Figure  1 
+was  obtained  with  a  stylus  of  width  4  um.  The  lower  profile  was  obtained  with  a  stylus  of  width  0.5  um.  The  fine-scale 
+structure  has  a  spacing  of  approximately  4.2  4m.  This  structure  may  be  useful  for  monitoring  the  quality  of  fine  stylus  tips 
+or  for  checking  zero-crossing  and  peak-counting  techniques  in  surface  profile  analysis. 
+
+The  certified  values  represent  average  values  of  18  profile  traces  taken  in  pairs  at  each  of  nine  distributed  positions  on  the 
+specimen  as  shown  in  Figure  2.  The  certification  is  valid  within  the  area  defined  by  the  extremes  of  these  profile  traces. 
+Because  of  the  curvature  in  the  surface  markings,  the  value  for  D  outside  the  limits  of  the  measured  area  is  expected  to 
+increase. 
+
+The  stylus  force  was  approximately  4x104N.  This  force  should  cause  negligible  damage  to  the  hard  metal  surface;  however, 
+faint  stylus  traces  may  be  visible  on  the  surface. 
+Repeated  use  with  stylus  instruments  can  slowly  degrade  roughness 
+specimens;  however,  the  specimen  is  expected  to  maintain  its  calibration  value  for  at  least  five  years  provided  that 
+measurements  are  taken  on  clear,  undamaged  areas. 
+
+The  uncertainties  for  Ra  and  D  are  sums  of  instrument  calibration  uncertainties  and  random  uncertainties. 
+Sources  of 
+calibration  uncertainty  for  Rg  include:  (1)  the  uncertainty  of  the  height  of  the  calibrating  step,  (2)  the  uniformity  of  the 
+calibrating  step,  (3)  variations  in  the  measured  values  caused  by  digital  sampling  processes  and  software  computations,  (4) 
+nonlinearities  in  the  transducer  and  interface  hardware,  and  (5)  uncertainty  in  the  stylus  width.  The  calibration  uncertainty  for 
+R,  is  0.018  wm  and  the  random  uncertainty  (3  standard  deviations)  is  0.009  um. 
+
+Sources  of  calibration  uncertainty  for  the  interferometric  measurement  of  D  include  the  wavelength  fitting  procedure,  changes 
+The 
+in  the  laboratory  environment,  possible  cosine  errors  in  the  specimen  alignment,  and  a  possible  Abbe  offset  error. 
+calibration  uncertainty  for  D  is  0.03  pm  and  the  random  uncertainty  (3  standard  deviations)  is  0.21  ym. 
+The  random 
+uncertainties  for  Rg  and  D  were  obtained  from  prediction  intervals,  and  they  take  into  account  instrumental  variation  and 
+positional  variation  on  the  SRM. 
+
+4  um  Stylus 
+
+0.5  um  Stylus 
+
+Figure  1,  Representative  surface  profile  traces  of  SRM  2072  using  a  4  um  stylus  (upper  trace)  and 
+
+a  0.5  um  stylus  (lower  trace). 
+
+ 
+
+  
+
+  
+
+  
+
+     
+    Serial 
+
+Number 
+
+Figure  2.  Measurement  Positions  for  SRM  2072.  Positions  of  traces  in  mm  with 
+respect  to  the  upper  left  comer,  C,  of  the  roughness  area. 
+
+ 
+
+ 
+
+  
+
+  
+
+

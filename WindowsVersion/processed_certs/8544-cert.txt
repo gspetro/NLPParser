@@ -1,0 +1,179 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Report of Investigation 
+ 
+Reference Material 8544 
+ 
+NBS19 Limestone 
+ 
+(Carbon and Oxygen Isotopes in Carbonate) 
+ 
+This  Reference  Material (RM)  defines  the  Vienna  Peedee  Belemnite (VPDB)  scale  for  isotope-number  ratios  of 
+carbon (C).  It also defines the VPDB scale for isotope-number ratios of oxygen (O) in carbonates.  The equivalent name 
+for this RM, as used by the International Atomic Energy Agency (IAEA) and the U.S. Geological Survey (USGS), is 
+NBS19 and is listed in column 1 of Table 1.  This material was also formerly called TS Limestone.  A unit of RM 8544 
+consists of one bottle containing approximately 0.4 g of carbonate. 
+ 
+
+Table 1.  Reference Values for the Relative C and O Isotope-number Ratios 
+ 
+  
+
+Name 
+
+103  δ13CVPDB(a)  
+
+103  δ18OVPDB(a)
+  
+
+103  δ18OVSMOW(b) 
+
+NBS19 
+
+   
+  
+(a) The δ13CVPDB and δ18OVPDB values are exact values that form the basis for the VPDB scales for C and O and 
+
++1.95 exact 
+
+-2.2 exact 
+
++28.65 
+
+were set at an international consultants’ meeting at the IAEA in 1984 [1]. 
+
+(b) This value is calculated from data in [2] using the relationship between VPDB and VSMOW on page 36 in [3]. 
+
+ 
+Reference Difference in Isotope-Number Ratio Values:  The differences in measured isotope-number ratios of 
+stable carbon isotopes [N(13C)/N(12C)] are reported as δ13C values, where: 
+
+δ13C = ([Nsample(13C)/Nsample(12C)] – [NVPDB(13C)/NVPDB(12C)])/ [NVPDB(13C)/NVPDB(12C)] 
+VPDB refers to the Vienna PDB scale, which is determined by assigning a δ13C value of +1.95 ‰ to this RM [1,4]. 
+ 
+The differences in measured isotope-number ratios of stable oxygen isotopes [N(18O)/N(16O)] in carbonates are reported 
+as: 
+
+δ18OVPDB values, where δ18O = ([Nsample(18O)/Nsample(16O)] – [NVPDB(18O)/NVPDB(16O)])/ [NVPDB(18O)/NVPDB(16O)]. 
+VPDB refers to the Vienna PDB scale, which is determined by assigning a δ18O value of –2.2 ‰ to this RM [1,4]. 
+ 
+Expiration  of  Value  Assignment:    RM 8544  is  valid,  within  the  measurement  uncertainty  specified,  until 
+31 December 2020, provided the RM is handled and stored in accordance with instructions given in this Report of 
+Investigation  (see  “Instructions  for  Handling,  Storage,  and  Use”).    The  reference values are nullified if the RM is 
+damaged, contaminated, or otherwise modified. 
+ 
+Maintenance of RM Certification:  NIST will monitor this RM over the period of its validity.  If substantive technical 
+changes occur that affect the value assignment before the expiration of this report, NIST will notify the purchaser.  
+Registration (see attached sheet) will facilitate notification. 
+ 
+The technical aspects involved in the issuance of this RM were coordinated through the NIST Analytical Chemistry 
+Division by R.D. Vocke, Jr. 
+ 
+Support aspects involved in the issuance of this RM were coordinated through the NIST Measurement Services Division. 
+ 
+ 
+
+ 
+
+ 
+Gaithersburg, MD 20899 
+Report Issue Date:  12 January 2012 
+Report Revision History on Last Page 
+
+  
+
+RM 8544 
+
+Stephen A. Wise, Chief 
+Analytical Chemistry Division 
+
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 2 
+
+INSTRUCTIONS FOR HANDLING, STORAGE, AND USE 
+ 
+Distribution:  The distribution of RM 8544 (NBS19) is limited to one unit per three-year period of time. 
+ 
+Storage and Stability:  RM 8544 is stable at normal room temperatures.  To minimize the potential for oxygen isotope 
+exchange between carbonate and atmospheric water, this RM can be stored in a desiccator. 
+ 
+ 
+
+REFERENCES 
+
+ 
+[1]  Hut, G.; Consultants’ Group Meeting on Stable Isotope Reference Samples for Geochemical and Hydrological 
+
+Investigations (September 1985); IAEA, Vienna, Austria, pp. 16-18 (1987). 
+
+[2]  Verkouteren, R.M.;  Klinedinst, D.B.;  Value  Assignment  and  Uncertainty  Estimation  of  Selected  Light  Stable 
+Isotope  Reference  Materials:    RMs  8543-8545,  RMs  8562-8564,  and  RM  8566,  NIST  Special  Publication 
+pp. 260-149; 
+at 
+http://www.nist.gov/srm/publications.cfm. 
+
+Office:  Washington, DC (2004); 
+
+Government 
+
+available 
+
+Printing 
+
+U.S. 
+
+[3]  Coplen, T.B.;  Hopple, J.A.;  Böhlke, J.K.;  Peiser, H.S.;  Rieder, S.E.;  Krouse, H.R.;  Rosman, K.J.R.;  Ding, T.; 
+Vocke, Jr., R.D.; Révész, K.M.; Lamberty, A.; Taylor, P.; De Bièvre, P.; Compilation of Minimum and Maximum 
+Isotope Ratios of Selected Elements in Naturally Occurring Terrestrial Materials and Reagents; U.S. Geological 
+Survey Water-Resources Investigations Report 01-4222, p. 98 (2001). 
+
+[4]  Coplen, T.B.; Normalization of Oxygen and Hydrogen Isotope Data; Chem. Geol. Vol. 72, pp. 293297 (1988). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Report Revision History:  12 January 2012 (Editorial changes); 18 March 2011 (This revision reflects an extension of expiration date with editorial 
+changes); 01 November 2007 (Update of expiration date and editorial changes); 22 June 1992 (Original certificate date). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this RM should ensure that the Report of Investigation in their possession is current.  This can be accomplished 
+by contacting the SRM Program:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet at http://www.nist.gov/srm. 
+
+RM 8544 
+
+Page 2 of 2 
+
+

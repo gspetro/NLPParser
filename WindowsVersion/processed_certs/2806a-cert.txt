@@ -1,0 +1,1189 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2806a 
+
+ 
+
+ 
+Medium Test Dust (MTD) in Hydraulic Fluid 
+
+ration  of  instrument  response  to 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the calibration of instrument response to medium test 
+dust suspended in hydraulic fluid.  A unit of SRM 2806a consists of a two-bottle set of a polydisperse, irregularly 
+shaped mineral dust suspended in approximately 400 mL of hydraulic fluid at a nominal concentration of 2.8 mg/L. 
+ 
+Certified  Values:    Certification  of  this  SRM  is  in  terms  of  the  projected  area  diameters  of  the  collected  dust 
+particles from the hydraulic fluid and the numeric concentration of particles greater than each diameter, referred to 
+as cumulative number size distribution.   Certified diameter values from 1 µm to 30 µm  are given in Table 1a and 
+plotted in Figure 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy, in 
+that all known or suspected sources of bias have been investigated or taken into account [1]. 
+ 
+Information Values:  Values greater than 30 µm given in Table 1b are provided for information only and are not 
+certified due to high measurement uncertainty.  An information value is considered to be a value that may be of use 
+to the SRM user, but insufficient information is available to assess the uncertainty associated with the value or only 
+a limited number of analyses were performed [1]. 
+ 
+SRM 2806a  can  be  used  in  conjunction  with  the  International  Organization  for  Standardization (ISO)  method 
+ISO/FDIS 11171, “Hydraulic Fluid Power - Calibration of Liquid Automatic Particle Counters” [2]. 
+ 
+Expiration  of  Certification:    The  certification  of  SRM 2806a  is  valid,  within  the  measurement  uncertainty 
+ored  in  accordance  with  instructions  given 
+specified, until 31 December 2014, provided the SRM is handled and stored in accordance with instructions given 
+in this certificate (see “Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated, or 
+is  nullified  if  the  SRM  is  damaged,  contaminated,  or 
+otherwise modified and exposed to excess heat (>80 °C). 
+ 
+Maintenance  of  SRM  Certification:    NIST  will  monitor  this  SRM  over  the  period  of  its  certification.    If 
+substantive  technical changes occur that affect the certification before the expiration of this certificate, NIST  will 
+notify the purchaser.  Registration (see attached sheet) will facilitate notification.  
+ 
+The coordination of the technical measurements leading to the certification of SRM 2806a was under the leadership 
+1ent  Science  Division
+of R.A. Fletcher of the NIST Materials Measurement Science Division. 
+ 
+Sample  preparation,  microscopy,  and  scanning  electron  microscopy (SEM)  imaging  were  performed  by 
+J.R. Verkouteren, E.S. Windsor, J.A. Small, and E.B. Steel.  D.S. Bright developed the image processing software 
+and  provided  assistance.    R.A. Fletcher  provided  homogeneity  testing  and  SEM  digital  image  processing  data 
+analysis.  The aforementioned staff members are from the NIST Materials Measurement Science Division. 
+ 
+Statistical consultation was provided by W.S. Liggett formerly of the NIST Information Access and User Interfaces 
+Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  30 May 2013 
+Certificate Revision History on Last Page 
+
+John A. Small, Chief 
+Materials Measurement Science Division 
+
+Robert L. Watters, Jr., Director 
+Office of Reference Materials 
+
+ 
+
+Page 1 of 7 
+
+  
+
+SRM 2806a 
+
+SAMPLE PREPARATION( 1) 
+ 
+The  medium  test  dust,  ISO 12103-A3  (ISO  Medium  Test  Dust) [3]  lot  number 4390C,  used  for  the  preparation  of 
+SRM 2806a  was  donated  by  Powder  Technology  Inc.  (Burnsville, MN).    Suspension  of  the  dust  in  MIL-H 5606 
+hydraulic fluid was performed by Fluid Technology Inc. (Stillwater, OK). 
+ 
+INSTRUCTIONS FOR USE 
+ 
+SRM 2806a should be mixed and sampled according to procedures described in reference 2.  Only if the  sampled 
+volume is decanted immediately after the prescribed mixing does the quantity of the SRM left in the original bottle 
+remain certified (see “Sampling for Liquid Automatic Particle Counter” section).  The SRM should not be heated 
+above  80 °C  and  the  bottle  should  be  opened  and  sampled  in  a  dust-free  environment  so  as  to  avoid  potential 
+contamination. 
+ 
+Sampling for Liquid Automatic Particle Counter 
+ 
+Immediately before use,  mix  SRM 2806a in accordance with instructions in reference 2.  Shake a closed bottle of 
+SRM 2806a by hand for approximately 30 s.  Ultrasonically disperse contents of bottle using a bath with minimum 
+power of 5 W/cm2.  Mechanically shake for a minimum of 1 min on a commercial paint or laboratory shaker.  Then 
+ultrasonicate  briefly  or  evacuate  to  remove  air  bubbles  from  the  suspension  and  introduce  immediately  into  the 
+optical particle counter.  CAUTION:  If the suspension is not used immediately after shaking and evacuation, large 
+particles will settle to the bottom of the bottle and be omitted from the particle population measured. 
+ 
+NIST Certification Method(2) 
+ 
+The bottle-to-bottle homogeneity was determined using an HIAC Royco HR-LD 150 laser light extinction particle 
+counter [4].    Material  inhomogeneity  was  negligible  with  respect  to  the  measurement  uncertainty.    The  particle 
+size [5]  and  numbers  measured  for  certifying  this  material  were  determined  from  digital  images  of  dust  particles 
+extracted from aliquots of four bottles of the oil by filtration.  These images were collected using a SEM operating in 
+the  backscattered  electron  mode.    Particle  area  was  determined  by  “blobbing,”  an  image  processing  method  that 
+sums  the  pixels  in  a  gray-level  thresholded (binary)  domain  that  defines  the  particle [6].    The  particle  diameter  is 
+expressed  as  the  projected  area  diameter  of  a  stable  oriented  particle  (diameter  of  a  circular  particle  with  an  area 
+equivalent to the area of a particle in stable orientation). 
+ 
+Five SEM magnifications were used to obtain particle size data from particles ranging in size from 1 µm to 50 µm.  
+he  conversion  of  pixel  dimension  to  metric
+NIST SRM 484d SEM Magnification Standard was used to determine the conversion of pixel dimension to metric 
+value.  More than 775 000 particles were sized from approximately 4400 SEM image fields.  Technical details of the 
+measurement process are available in reference 4. 
+ 
+Round Robin Results:  A round robin  was conducted  within the NFPA T2.9 Contamination Committee by three 
+companies utilizing five instruments and five different sensors to compare counter and sensor response.  SRM 2806a 
+was measured using instruments that were calibrated in accordance with the existing ISO 4402:1991 Standard.  The 
+laboratories and their results are presented in Table 2. 
+ 
+
+                                                           
+
+(1)Certain commercial instruments, materials, or processes are identified in this report to adequately specify the experimental 
+procedure.    Such  identification  does  not  imply  recommendation  or  endorsement  by  the  National  Institute  of  Standards  and 
+Technology,  nor  does  it  imply  that  the  instruments,  materials,  or  processes  identified  are  necessarily  the  best  available  for  the 
+purpose. 
+
+(2)The particle size was determined for the dust particles in their most mechanically stable orientation and thus the particle 
+area approaches, on average, the largest possible value.  Literature values for the ratio of mean projected diameters for random 
+and for stable oriented quartz particles (common to ISO Medium Test Dust) is approximately 0.8. 
+SRM 2806a 
+
+Page 2 of 7 
+
+Table 1a.  Certified Values, Sources of Uncertainty, and Combined and Expanded Uncertainties 
+
+ 
+Projected(b)  
+Area 
+Diameter 
+ 
+
+ 
+
+ 
+ 
+u 
+Sampling (c) 
+
+ 
+ 
+u 
+Volume (d) 
+ 
+ 
+
+ 
+ 
+u 
+Length (c) 
+
+ 
+ 
+u 
+Digitization (d) 
+ 
+
+ 
+ 
+u 
+Fractionation (d) 
+ 
+(µm) 
+
+ 
+Uc 
+Combined 
+Standard 
+Uncertainty 
+(µm) 
+
+ 
+U 
+
+Expanded 
+  Uncertainty 
+ 
+(µm) 
+
+(Particles/mL) 
+
+(µm) 
+
+(µm) 
+
+(µm) 
+
+ 
+
+ 
+
+(µm) 
+ 
+0.004 
+0.006 
+0.009 
+0.011 
+0.012 
+0.016 
+0.019 
+0.024 
+0.031 
+0.041 
+0.052 
+0.065 
+0.081 
+0.101 
+0.123 
+0.146 
+0.168 
+0.187 
+0.204 
+0.219 
+0.235 
+0.255 
+0.281 
+0.314 
+0.356 
+0.408 
+0.468 
+0.539 
+0.618 
+0.706 
+
+0.004 
+0.006 
+0.010 
+0.013 
+0.015 
+0.016 
+0.017 
+0.018 
+0.019 
+0.021 
+0.023 
+0.025 
+0.027 
+0.030 
+0.032 
+0.034 
+0.035 
+0.036 
+0.036 
+0.036 
+0.036 
+0.036 
+0.037 
+0.038 
+0.039 
+0.040 
+0.041 
+0.043 
+0.045 
+0.047 
+
+0.000 6 
+0.000 03 
+0.000 5 
+0.002 
+0.004 
+0.006 
+0.009 
+0.013 
+0.017 
+0.021 
+0.025 
+0.029 
+0.031 
+0.033 
+0.033 
+0.033 
+0.033 
+0.034 
+0.036 
+0.041 
+0.047 
+0.056 
+0.068 
+0.081 
+0.097 
+0.115 
+0.135 
+0.158 
+0.184 
+0.212 
+
+0.127 
+0.123 
+0.122 
+0.121 
+0.121 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+0.131 
+
+0.051 
+0.049 
+0.059 
+0.094 
+0.167 
+0.246 
+0.236 
+0.210 
+0.235 
+0.289 
+0.351 
+0.467 
+0.616 
+0.810 
+1.090 
+1.190 
+1.439 
+1.706 
+2.036 
+2.509 
+2.473 
+2.738 
+2.953 
+3.267 
+3.450 
+3.603 
+3.983 
+4.144 
+4.247 
+4.914 
+
+0.137 
+0.133 
+0.136 
+0.154 
+0.207 
+0.280 
+0.271 
+0.250 
+0.272 
+0.322 
+0.380 
+0.490 
+0.637 
+0.828 
+1.106 
+1.207 
+1.455 
+1.722 
+2.050 
+2.522 
+2.488 
+2.754 
+2.970 
+3.286 
+3.472 
+3.631 
+4.015 
+4.184 
+4.298 
+4.971 
+
+0.274 
+0.265 
+0.272 
+0.308 
+0.414 
+0.560 
+0.542 
+0.499 
+0.544 
+0.643 
+0.759 
+0.981 
+1.273 
+1.655 
+2.211 
+2.414 
+2.910 
+3.444 
+4.101 
+5.045 
+4.976 
+5.508 
+5.941 
+6.573 
+6.945 
+7.261 
+8.030 
+8.369 
+8.595 
+9.943 
+
+ 
+
+ 
+Particle(a) 
+Concentration 
+
+ 
+ 
+
+ 
+  108 400 
+27 035 
+ 
+11 209 
+ 
+6 095 
+ 
+3 737 
+ 
+2 395 
+ 
+1 573 
+ 
+1 055 
+ 
+
+725.8 
+513.7 
+374.6 
+281.0 
+216.4 
+170.4 
+136.8 
+111.3 
+
+91.33 
+75.29 
+62.17 
+51.35 
+42.40 
+35.01 
+28.95 
+23.99 
+19.95 
+16.66 
+13.98 
+11.80 
+10.02 
+
+8.568 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+
+ 
+(a) Certified  number  of  particles  per  milliliter  of  hydraulic  fluid  greater  than  the  indicated  diameter  (number  per  milliliter)  at  
+
+approximately 25 °C. 
+
+(b) Stable particle projected area diameter [6], the standard uncertainty components (u), the combined standard uncertainties (Uc) 
+
+ard  uncertainties
+
+and the expanded uncertainties (U) in the projected area diameter. 
+
+(c) Type A uncertainties evaluated by statistical methods. 
+(d) Type B uncertainties evaluated by other means. 
+
+ 
+
+NIST  Certified  Uncertainties:    The  expanded  uncertainties  listed  in  Table 1a  were  calculated  according  to  the 
+ISO/JCGM  Guide [8].    These  uncertainties  correspond  to  the  expanded  uncertainties  in  particle  projected  area 
+diameters,  which  are  twice  (coverage  factor  k = 2)  the  combined  standard  uncertainties.    In  cases  where  all 
+uncertainties are Type A, then k = 2 level defines a confidence interval of approximately 95 %. 
+ 
+Each  combined  standard  uncertainty  is  the  square  root  of  the  sum-of-the-squares  of  the  individual  standard 
+uncertainty  derived  or  estimated  from  the  measurement  process.    The  Type A  and  Type B  standard  uncertainty 
+components  arise  from  measurement  uncertainties  in  the  following  sources:    (1) particle  sampling  and  particle 
+counting 
+image 
+representation/processing, and (5) subsampling the bottle, which entails size fractionation due to fluid transfer. 
+
+(3) SEM  magnification, 
+
+(Poisson  counting), 
+
+(2) fluid  volume 
+
+(4) digital 
+
+sampled, 
+
+SRM 2806a 
+
+Page 3 of 7 
+
+er  Than  the  Indicated
+Table 1b.  Information Values for Number of Particles Per Milliliter of Hydraulic Fluid Greater Than the Indicated 
+Diameter (number per milliliter) at Approximately 25 °C (Stable Particle Projected Area Diameter [6]) 
+
+ 
+ 
+
+ 
+
+Particle 
+Concentration 
+(number/mL) 
+ 
+7.380 
+
+Diameter 
+(µm) 
+ 
+31 
+
+6.403 
+
+5.594 
+
+4.921 
+
+4.356 
+
+3.880 
+
+3.476 
+
+3.131 
+
+2.834 
+
+2.577 
+
+2.354 
+
+2.159 
+
+1.988 
+
+1.836 
+
+1.702 
+
+1.581 
+
+1.474 
+
+1.377 
+
+1.289 
+
+1.209 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+49 
+
+50 
+
+SRM 2806a 
+
+Page 4 of 7 
+
+Table 2.  Participating Laboratories, Particle Counters and Optical Sensors Used for NFPA Round Robin  
+(Sensors Were Calibrated According to ISO 4402:1991) 
+
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+
+  
+
+ 
+ 
+
+Particle Concentration(b) 
+(number/mL Greater Than Indicated Size)  
+
+  
+
+ 
+
+ 
+
+Laboratory 
+
+Particle Counter  Sensor 
+
+  2  µm 
+
+  7  µm 
+  1  µm 
+  
+a) 
+(>4.2 µm)(a) 
+(>7.7 µm) 
+
+(>17.5 µm) 
+
+(>13.6 µm) 
+
+(>4.6 µm) 
+
+(>6.4 µm) 
+
+(>9.8 µm) 
+
+  5  µm 
+
+ 10  µm 
+
+  15 
+
+  20 
+
+µm 
+
+µm 
+
+  
+
+ 
+5624 
+
+ 
+4429 
+
+ 
+HIAC 9064 
+
+ 
+HR-LD 150 
+
+ 
+RLV2 100H 
+
+ 
+Climet Cl1000 
+
+  
+
+  
+
+ 
+Nelson 
+Industries, Inc. 
+ 
+Nelson 
+Industries, Inc. 
+ 
+Fluid 
+Technologies, Inc. 
+  
+
+       
+      
+  
+  
+  
+
+Met One 211W 
+(0.5 µm to 25 µm) 
+Met One 211W 
+(1 µm to 120 µm) 
+
+ 
+HR-LD 400 
+ 
+
+ 
+Met One 214 
+
+ 
+Met One 214 
+
+ 
+HIAC 8000 
+
+ 
+Pall Corp. 
+
+ 
+Pall Corp. 
+
+ 
+------- 
+
+ 
+4208 
+
+ 
+4482 
+
+ 
+1116 
+
+ 
+1139 
+
+ 
+1215 
+
+ 
+5350 
+
+ 
+1992 
+
+ 
+5313 
+
+ 
+1898 
+
+ 
+1993 
+
+ 
+5351 
+
+ 
+1977 
+
+ 
+2039 
+
+ 
+------ 
+
+ 
+------ 
+
+ 
+------ 
+
+ 
+------ 
+
+ 
+82.5 
+
+ 
+82.1 
+
+ 
+80.9 
+
+ 
+77.9 
+
+ 
+88.6 
+
+ 
+182 
+
+ 
+541 
+
+ 
+517 
+
+ 
+174 
+
+ 
+525 
+
+ 
+182 
+
+ 
+191 
+
+ 
+521 
+
+ 
+576 
+
+ 
+188 
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+ 
+(a)Adjusted values in parentheses resulting from NIST calibration to SRM 2806a 
+(b)Values for particle concentration [number per milliliter (number/mL) greater than indicated size] are presented for information only. 
+ 
+ 
+ 
+
+SRM 2806a 
+
+Page 5 of 7 
+
+I
+ 
+
+F
+r
+ 
+
+m
+a
+ 
+
+e
+s
+s
+e
+n
+ 
+
+f
+o
+m
+c
+c
+n
+e
+o
+\
+ 
+
+R
+A
+I
+ 
+A
+I
+M
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+L
+ 
+i
+m
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+ 
+A
+ 
+N
+D
+ 
+I
+N
+ 
+I
+t
+ 
+I
+o
+N
+o
+ 
+A
+l
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R
+K
+A
+A
+T
+T
+I
+M
+F
+A
+A
+L
+ 
+
+~
+o
+-
+¢
+s
+w
+r
+a
+t
+c
+ 
+
+T
+a
+w
+ 
+
+=
+—
+—
+ 
+
+=
+|
+ 
+
+r
+e
+ 
+
+©
+ ©
+ 
+
+e
+t
+ 
+
+ O
+ 
+
+™
+ 
+
++
+ ©
+ 
+
+L
+o
+
+ 
+ O
+
+ 
+
+1000 
+
+100 
+
+r
+m
+ 
+
+Diameter  (um) 
+
+specified
+Figure 1.  Plot of cumulative  number of particles per  milliliter of hydraulic oil  greater than the specified 
+projected area diameter.  The uncertainty bars are the expanded uncertainties with k = 2. 
+ 
+
+SRM 2806a 
+
+Page 6 of 7 
+
+REFERENCES 
+
+ 
+[1]  May, W.; Parris, R.; Beck II, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.;  MacDonald, B.;  Definitions  of  Terms  and  Modes  Used  at  NIST  for  Value-Assignment  of  Reference 
+Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136;  U.S. Government  Printing  Office:  
+Washington, DC (2000); available at: http://www.nist.gov/srm/publications.cfm (accessed May 2013). 
+
+[2]  ISO 11171:2010; Hydraulic Fluid Power−Calibration of Automatic Particle Counters for Liquids; International 
+
+Organization for Standardization:  Geneva, Switzerland (2010). 
+
+[3]  ISO 12103-1:1997;  Road  Vehicles−Test  Dust  For  Filter  Evaluation−Part  I:    Arizona  Test  Dust;  International 
+
+Organization for Standardization:  Geneva, Switzerland (1997). 
+
+[4]  Fletcher, R.A.;  Verkouteren, J.R.;  Windsor, E.S.;  Bright, D.S.;  Steel, E.B.;  Small, J.A.;  Liggett, W.S.; 
+SRM 2806a ISO Medium Test Dust in Hydraulic Oil:  A Particle-Contamination Standard Reference Material 
+for the Fluid Power Industry;  Fluid/Particle Separation Journal, Vol. 12, No. 2, pp. 80–95 (1999). 
+
+[5]  Cartwright, J.; Particle Shape Factors; Ann. Occup. Hyg., Vol. 5, pp. 163−171 (1962). 
+[6]  Russ, J.R.; The Image Processing Handbook; CRC Press:  Boca Raton, FL, pp. 417−446 (1995). 
+[7]  JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995  with  Minor  Corrections),  Joint  Committee  for  Guides  in  Metrology (JCGM)  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  May 2013);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed May 2013). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  30 May 2013 (Extension of certification period; editorial changes); 01 November 2009 (Extension of certification 
+period);  16 December 2008  (Extension  of  certification  period);  29 January 2007  (Update  of  expiration  date  and  editorial  changes); 
+ 
+13 October 2004 (Original certificate date). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  can  be 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+(301) 948-3730; 
+accomplished  by 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+is  current. 
+fax 
+
+(301) 975-2200; 
+
+contacting 
+
+telephone 
+
+n 
+
+ 
+
+SRM 2806a 
+
+Page 7 of 7 
+
+

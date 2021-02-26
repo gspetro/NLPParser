@@ -1,0 +1,315 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 2266 
+ 
+-Trimethylpentane 
+Hopanes and Steranes in 2,2,4-Trimethylpentane 
+ 
+This Standard Reference Material (SRM) is a  solution of five  hopanes and five  steranes in 2,2,4-trimethylpentane 
+(iso-octane).  This SRM is intended primarily for use in the calibration of chromatographic instrumentation used for 
+the determination of hopanes and steranes.  A unit of SRM 2266 consists of five 2 mL ampoules, each containing 
+approximately 1.2 mL of solution. 
+ 
+Certified Mass Fraction Values:  The certified mass fraction values and estimated uncertainties for three hopanes 
+and four steranes are given in Table 1 along with the Chemical Abstract Service (CAS) Registry Numbers [1]. The 
+certified concentration values are based on results obtained from the gravimetric preparation of this solution and from 
+the analytical results determined by using gas chromatography.  A NIST certified value is a value for which NIST has 
+the highest confidence in its accuracy in that all known or suspected sources of bias have been investigated or taken 
+into account [2].  
+ 
+Reference  Concentration  Values:    Reference  values,  also  expressed  as  mass  fractions,  for  two  additional 
+hopanes and one additional sterane are provided in Table 2.  The reference values are noncertified values that do 
+not  meet  NIST  criteria  for  certification  and  are  provided  with  associated  uncertainties  that  may  reflect  only 
+measurement  precision,  may  not  include  all  sources  of  uncertainty,  or  may  reflect  a  lack  of  sufficient  statistical 
+agreement among multiple methods.   
+ 
+Expiration of Certification:   The certification of SRM 2266 is valid, within the measurement uncertainty specified, 
+until  31 March 2026,  provided  the  SRM  is  handled  and  stored  in  accordance  with  the  instructions  given  in  this 
+certificate (see “Instructions for Handling, Storage, and Use”).  The certification is nullified if the SRM is damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+$  certificate,  NIST  will  notify  the 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register) will facilitate notification. 
+ 
+Partial funding support for the preparation and certification of this Standard Reference Material was provided by the 
+U.S. Environmental Protection  Agency, Office of  Research and Development, Human Exposure and  Atmospheric 
+Science Division, National Exposure Research Laboratory. 
+ 
+Coordination  of  the  technical  measurements  leading  to  the  certification  of  this  SRM  was  under  the  direction  of 
+Chemical  Sciences  Division 
+M.M. Schantz and L.C. Sander of the NIST Chemical Sciences Division. 
+ 
+Analytical measurements of the SRM were performed by M.M. Schantz of the NIST Chemical Sciences Division. 
+ 
+Statistical consultation for this SRM was provided by S.D. Leigh of the NIST Statistical Engineering Division. 
+ 
+Office  of  Reference
+Support  aspects  involved  with  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  04 April 2016 
+Certificate Revision History on Last Page 
+
+Steven J. Choquette, Acting Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+Chemical  Sciences  Division 
+
+ 
+
+Page 1 of 3 
+
+  
+
+SRM 2266 
+
+DLING,  STORANGE  AND
+
+INSTRUCTIONS FOR HANDLING, STORANGE AND USE 
+ 
+Handling: This material should be handled with care.  Use proper disposal methods. 
+ 
+Storage:  Sealed ampoules, as received, should be stored in the dark at temperatures lower than 30 °C. 
+ 
+Use:  Sample aliquots for analysis should be withdrawn at 20 °C to 25 °C immediately after opening the ampoules 
+and should be processed without delay for the certified values in Table 1 to be valid within the stated uncertainty. 
+Because of the volatility of 2,2,4-trimethylpentane, certified values are not applicable to material stored in ampoules 
+that have been opened for more than 5 minutes, even if they are resealed. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+The  compounds  used  in  the  preparation  of  this  SRM  were  obtained  from  Chiron  AS  (Trondheim, Norway).    The 
+solution was prepared at NIST by weighing and mixing the individual compounds and 2,2,4-trimethylpentane.  The 
+weighed components were added to the 2,2,4-trimethylpentane and mixed overnight.  The total mass of this solution 
+was  measured,  and  the  concentrations  were  calculated  from  this  gravimetric  procedure.    These  gravimetric 
+concentrations  were  adjusted  for  the  purity  estimation  of  each  component,  which  was  determined  using  flame 
+ionization capillary gas chromatography with two stationary phases of different polarities.  From this bulk solution, 
+1.2 mL aliquots were dispensed into 2 mL amber glass ampoules, which were then flame sealed. 
+ 
+Aliquots from nine ampoules (selected using a stratified, random sampling scheme) were analyzed in duplicate by 
+using capillary gas chromatography/mass spectrometry with a non-polar 5 % phenyl methylpolysiloxane phase.  The 
+internal  standards  added  to  each  sample  for  quantification  purposes  were  deuterated  polycyclic  aromatic 
+hydrocarbons.    Calibration  solutions  consisting  of  weighed  amounts  of  the  compounds  (adjusted  for  the  purity 
+estimation)  and  the  internal  standard  compounds  in  2,2,4-trimethylpentane  were  chromatographically  analyzed  to 
+determine analyte response factors. 
+ 
+
+Table 1. Certified Concentrations of Components in SRM 2266 
+
+Compound 
+
+CAS Registry No. 
+
+17α(H)-22,29,30-trisnorhopane 
+17α(H),21β(H)-30-norhopane 
+17α(H),21β(H)-hopane 
+ααα 20R-cholestane 
+αββ 20R-cholestane 
+αββ 20R 24S-methylcholestane 
+ααα 20R 24R-ethylcholestane 
+
+53584-59-1 
+53584-60-4 
+13849-96-2 
+481-21-0 
+69483-47-2 
+71117-90-3 
+62446-14-4 
+
+Mass Fraction 
+(µg/g)(a) 
+
+Mass Concentration 
+(µg/mL)(b) 
+
+4.55  ±  0.23 
+1.31  ±  0.04 
+1.70  ±  0.12 
+
+ 
+ 
+ 
+  33.1 
+  10.61  ±  0.24 
+2.32  ±  0.10 
+ 
+8.58  ±  0.32 
+ 
+
+±  1.0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.14  ±  0.16 
+0.90  ±  0.02 
+1.17   ±  0.08 
+
+22.8 
+
+±  0.7 
+
+7.32  ±  0.17 
+1.60  ±  0.07 
+5.92  ±  0.22 
+
+(a) The  results  are  expressed  as  the  certified  value  ±  the  expanded  uncertainty.    The  certified  value  is  the  average  of  the 
+concentrations determined by gravimetric and chromatographic measurements.  The expanded 95 % uncertainty uses a coverage 
+factor of 2 and includes both correction for estimated purity and allowance for differences between the concentration determined 
+by gravimetric preparation and chromatographic measurements [3].  The measurand is the certified value for each compound 
+listed.    Metrological  traceability  is  to  the  derived  SI  unit  for  mass  fraction  (expressed  as  micrograms  per  gram)  and  mass 
+concentration (expressed as micrograms per milliliter). 
+
+(b) The concentrations listed in micrograms per milliliter were obtained by multiplying the certified values in micrograms per gram 
+by the density of the solution at 20 °C (0.6899 g/mL).  A concentration change of less than 1 % will occur for a 5 °C temperature 
+change. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+SRM 2266 
+
+Page 2 of 3 
+
+Compound 
+
+Table 2. Reference Concentrations of Components in SRM 2266 
+ 
+CAS Registry No. 
+
+Mass Fraction 
+(µg/g)(a) 
+
+Mass Concentration 
+(µg/mL)(b) 
+
+17α(H),21β(H)-22R-homohopane 
+17α(H),21β(H)- 22S-homohopane 
+αββ 20R 24R-ethylcholestane 
+
+60305-22-8 
+60305-23-9 
+71117-92-5 
+
+ 
+ 
+ 
+
+0.89  ±  0.03 
+1.54  ±  0.09 
+3.25  ±  0.15 
+
+ 
+ 
+ 
+
+0.62  ±  0.02 
+1.06  ±  0.06 
+2.24  ±  0.11 
+
+(a) The  results  are  expressed  as  the  certified  value  ±  the  expanded  uncertainty.    The  certified  value  is  the  average  of  the 
+concentrations determined by gravimetric and chromatographic measurements.  The expanded 95 % uncertainty uses a coverage 
+factor of 2 and includes both correction for estimated purity and allowance for differences between the concentration determined 
+by gravimetric preparation and chromatographic measurements [3].  The measurand is the reference value for each compound 
+listed  as  determined  by  the  method  indicated  above.    Metrological  traceability  is  to  the  derived  SI  unit  for  mass  fraction 
+(expressed as micrograms per gram) and mass concentration (expressed as micrograms per milliliter). 
+
+ 
+H
+
+(b) The concentrations listed in micrograms per milliliter were obtained by multiplying the certified values in micrograms per gram 
+by the density of the solution at 20 °C (0.6899 g/mL).  A concentration change of less than 1 % will occur for a 5 °C temperature 
+change. 
+
+ 
+ 
+REFERENCES 
+
+ 
+n  Chemical  Society:  Columbus,  OH 
+[1]  Chemical Abstracts, Fourteenth Collective Index; Index Guide; American Chemical Society:  Columbus, OH 
+
+(2001). 
+
+[3] 
+
+[2]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference Materials for Chemical Measurements; NIST Special Publication 260-136, U.S. Government Printing 
+Office:  Washington, DC  (2000);  available  at  http://www.nist.gov/srm/upload/SP260-136.PDF  (accessed 
+Apr 2016). 
+JCGM 100:2008; Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement; 
+(GUM 1995 with Minor Corrections), Joint Committee for Guides in Metrology (JCGM) (2008); available at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Apr 2016);  see  also 
+Taylor, B.N.; Kuyatt, C.E.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results;  NIST  Technical  Note 1297,  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/pml/pubs/index.cfm (accessed Apr 2016). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Certificate Revision History:  04 April 2016 (Change of expiration date; editorial changes); 25 August 2010 (Corrected the name of the analyte 
+   
+ααα 20R-cholestane in Table 1); 12 March 2007 (Original certificate date). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by 
+(301) 948-3730; 
+telephone 
+e-mail srminfo@nist.gov; or via the Internet at http://www.nist.gov/srm. 
+
+the  SRM  Program: 
+
+(301) 975-2200; 
+
+contacting 
+
+fax 
+
+SRM 2266 
+
+Page 3 of 3 
+
+

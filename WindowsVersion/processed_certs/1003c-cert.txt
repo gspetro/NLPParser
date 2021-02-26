@@ -1,0 +1,1292 @@
+﻿National Institute of Standards & Technology 
+
+ 
+
+ 
+
+Certificate 
+Standard Reference Material® 1003c 
+Glass Beads  Particle Size Distribution 
+
+ 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the evaluation and calibration of equipment used to 
+measure particle size distributions (PSD) in the 20 µm to 50 µm diameter range.  Typical instrumentation for PSD 
+determination  would  be  laser  light  scattering (LLS),  sedimentation,  electrical  sensing  zone (ESZ)  instruments,  and 
+wire-cloth test sieves in the range from No. 400 (38 µm) through No. 635 (20 µm).  This size range follows that of the 
+coarser beads of SRM 1004b. The SRM consists of a single bottle containing approximately 28 g of solid spherical 
+soda-lime glass beads. 
+ 
+Certified Values:  A NIST certified value is a value for which NIST has the highest confidence in its accuracy in that all 
+known or suspected sources of bias have been investigated or taken into account [1].  The certified cumulative volume 
+(mass)  distribution  was  determined  using  both  ESZ  and  LLS  techniques.    The  certified  values  and  associated 
+uncertainties based on the average of results from the two techniques are given in Table 1 [2].  A comparison of the ESZ 
+and LLS techniques is shown in Figure 1.  
+ 
+Certification Procedure:  Two splits from each of ten bottles were analyzed with both the ESZ and LLS techniques to 
+measure the diameter at which a specified percentage of the material is smaller.  The percentages are 5, 10, 15, 20, 25, 
+30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, and 95.  For each percentage, the only experimental setting that changes 
+between the observations is the bottle of material. 
+ 
+Reference Values:  The reference values based on SEM are provided in Table 2 [2].  A NIST reference value is a non-
+certified value that is the best estimate of the true value; however, the value does not meet NIST criteria for certification 
+and is provided with an associated uncertainty that may reflect only measurement precision and may not include all 
+sources of uncertainty [2].  SRM 1003c was analyzed by scanning electron microscopy (SEM) to provide supplementary 
+data. 
+ 
+Information Values:  Information values are provided based on ESZ in Table 3, LLS in Table 4, and on sieve analysis 
+in Table 5 [1].  A comparison of nominal and effective sieve openings is provided in Table 6.  A NIST information value 
+is a value that may be of interest to the SRM user, but insufficient information is available to assess the uncertainty 
+associated with the value, therefore no uncertainty is provided [1]. 
+ 
+Expiration of Certification:  The certification of SRM 1003c is valid indefinitely, within the measurement uncertainty 
+specified, provided the SRM is handled and stored in accordance with the instructions given in this certificate (see 
+“Instructions for Use”).  The certification is nullified if the SRM is damaged, contaminated, or otherwise modified.  It is 
+expected that some spheres will be lost with each use.  If the unit's loss exceeds 2 % of the original mass, or if spillage or 
+contamination occurs, the certification will be nullified and use of the SRM should be discontinued. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet) will facilitate notification. 
+ 
+The SRM preparation, measurement, and certification were performed by J.F. Kelly of the NIST Ceramics Division. 
+ 
+Statistical analyses were performed A.I. Avilés of the NIST Statistical Engineering Division. 
+ 
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Measurement  Services 
+Division. 
+ 
+
+Gaithersburg, MD 20899 
+Certificate Issue Date:  10 August 2011 
+Certificate Revision History on Last Page 
+
+SRM 1003c 
+
+Debra Kaiser Chief 
+Ceramics Division 
+ 
+Robert L. Watters, Jr., Chief 
+Measurement Services Division 
+
+Page 1 of 7 
+
+Electrical Sensing Zone  
+ 
+The ESZ technique for determining powder size distribution uses particles suspended in a conductive fluid such as saline 
+solution.  The suspension is drawn through an orifice or aperture separating two electrodes between which an electric 
+potential is applied.  A particle passing through the orifice (sensing zone) causes a pulse in the circuit impedance, which 
+is proportional to the particle volume.  The measured impedance change is converted to a particle volume using a 
+calibration constant obtained by measuring particles of known volume.  For a given aperture of diameter (D), the working 
+range is from 0.02D to 0.60D.  For SRM 1003c, an instrument with a 100 µm aperture was used to enable measurements 
+over the range from 2 µm to 60 µm.  The conductive fluid was an aqueous solution of 0.8 % mass fraction NaCl.  The 
+size distributions measured for the ten bottles of SRM 1003c, selected by stratified random sampling, are given in 
+Table 3. 
+ 
+Laser Light Scattering  
+ 
+LLS also uses a suspension of particles in a fluid. Although the glass beads disperse easily in water, in order to utilize a 
+common sample preparation for the ESZ and LLS measurements, the same saline solution was used for both techniques. 
+Approximately 0.4 g powder was added to 20 ml solution in a cuvet.  The cuvet was capped and shaken to disperse the 
+particles.  Aliquots of approximately 0.5 ml were taken by pipette to inject into the measuring system.  Sufficient aliquots 
+were added until the instrument indicated an acceptable concentration.  The LLS technique uses approximations to the 
+Mie scattering theory to convert the measured scattering pattern to particle size distribution.  Mie theory includes the 
+influence of diffraction, refraction, reflection and polarization effects.  This theory requires that we know the real and 
+imaginary refractive indices of the particles and the suspending medium and that the particles are optically homogeneous, 
+smooth spheres.  The use of glass spheres in a transparent medium is a nearly ideal design to satisfy the Mie assumptions. 
+ A refractive index of 1.5, with an imaginary component of zero, was used for the soda lime glass.  The size distributions 
+measured by LLS, for the same ten bottles measured by ESZ, are given in Table 4.  A graphical comparison of the mean 
+distribution measured by LLS with the mean distribution obtained by ESZ is shown in Figure 1. 
+ 
+Certified Values and Uncertainty Determination:  The certified values and uncertainty estimates are shown in Table 1. 
+The linear mixed-effects (lme) function from the nonlinear mixed-effects (nlme) library for the language S was used to fit 
+the linear mixed-effects model using the restricted maximum likelihood (REML) estimation method [3,4].  The error 
+analyses for the certified diameter values provided with the SRMs follow recommendations contained in the Guide to the 
+Expression of Uncertainty in Measurement [5] and in NIST Technical Note 1297 [6].  Three sources of error were 
+evaluated in determining the uncertainty values:  (1) Method accuracy, (2) Reproducibility of the measurements (i.e. 
+measurement uncertainty in Table 1.), and (3) Bottle to bottle differences in the material (i.e. homogeneity uncertainty in 
+Table 1).  The first of these is a Type B uncertainty obtained by analysis of the calibration results using SRM 1961 while 
+the latter two are obtained by the REML analysis.  These uncertainty terms are combined using a root sum of squares to 
+obtain a combined standard uncertainty.  Since there are sufficient data (>30), a Normal Distribution is assumed and thus 
+the expanded uncertainty values can be obtained by multiplying the combined standard uncertainty by the coverage factor 
+k = 2.  The value of the standard is believed to lie in the interval defined by the expanded uncertainty with a level of 
+confidence of approximately 95 %. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+SRM bottle must be kept tightly capped with a desiccator pack inside.  This is to prevent moisture absorption that can 
+cause clumping of the powder.  In applications such as sieving where some beads will be lost with each use, when the 
+unit’s loss exceeds 2 % of the original mass, or if spillage or contamination occurs, the certification will be nullified and 
+use of the SRM unit should be discontinued. 
+ 
+For sieve testing of this SRM, the entire bottle-unit of beads should be used.  The other techniques require much less 
+material and special care must be exercised when taking subsamples from the SRM bottle.  The recommended procedure 
+is to use a microriffler to divide the 28 g sample into subsamples until a suitable subsample mass is obtained. 
+ 
+Sieve Analysis Procedure:  The sieve testing was designed to provide reference values for sieve analysis.  Eight bottles 
+were selected using a stratified random sampling plan.  Mechanical sieving was done following recommendations in 
+ASTM STP 447 [7].  The entire bottle of beads was poured onto the top sieve and the sieves were then shaken for 
+20 minutes.  After the shaking was completed, the stack of sieves was disassembled, and the beads removed from each 
+sieve and weighed to a precision of 0.01 g.  The mass of beads retained on each sieve was used to calculate, by difference 
+from the total mass, the mass fraction percent that is finer for each sieve, (i.e., the ratio of the mass of beads passing 
+through a sieve to the total mass). The results of sieving for each bottle are given in Table 5 as mass percent of beads 
+passing through each successive screen. Table 6 shows a comparison of the nominal sieve opening with the effective 
+sieve size opening.  This is determined by matching the mass fraction of beads passing through each sieve with the values 
+in Table 1.  The corresponding diameter from Table 1 is then the effective sieve opening.  For example, the average 
+percentage passing the No. 400 screen for all bottles tested was 71.1 %.  Interpolation between the 70 % (36.2 µm) and 
+75 % (37.4 µm) values gives an effective opening of 36.5 µm.  This compares with the nominal opening of 38 µm.  Each 
+
+SRM 1003c 
+
+Page 2 of 7 
+
+of the effective diameters is well within the ASTM specification [7] for permissible variation of average opening from 
+the nominal sieve opening.  
+ 
+Using Calibrated Glass Beads for the Evaluation of the Effective Opening of Test Sieves:  The allowed variation in 
+sieve openings makes it difficult to compare size determinations made with different sets of sieves even though each set 
+complies with the applicable ASTM, ANSI, or ISO test standard.  The aperture size of a sieve can be determined as the 
+average size of the openings in the sieve.  However, the purpose of a sieve is to measure the size of particles and, 
+therefore, it is the effective opening that must be determined.  This effective opening is determined by the size of the 
+calibrated glass spheres that will just pass through the sieve.  This in turn permits the measurement of the particle size of 
+an unknown material that will also just pass through the sieve. 
+ 
+The openings of a sieve are not all the same size, and particles that are coarser than the average opening can pass through 
+the larger holes.  In addition, the separation achieved by a sieve is not sharp.  A few particles capable of passing the sieve 
+are always retained.  The number of particles retained or passed depends on the manner and time of shaking and any 
+measurement of the effective opening must take these variables into account.  To a large extent, the glass sphere method 
+of  calibration  automatically  includes  these  effects  because  the  sieves  are  shaken  in  the  same  manner,  when  being 
+calibrated, as when measuring an unknown material. 
+ 
+The sieve openings are essentially square and particles of irregular shape can pass through although one dimension of the 
+particle is considerably larger than the size of the opening.  The average dimension of irregular particles that pass a sieve 
+cannot be considered equal to the effective opening of the sieve as measured by the diameter of spheres that just pass. 
+ 
+To evaluate the effective opening of standard 203 mm (8 in) or 305 mm (12 in) diameter test sieves with this SRM, the 
+entire bottle of beads should be poured onto the top sieve screen.  The sieves are then shaken in the same manner as done 
+in routine analysis.  To prevent blinding of a screen, the beads should not be used with a single screen; it is recommended 
+that two relief screens be used to reduce the mass of beads.  A rough rule of thumb is to keep the loading below six layers 
+of beads.  For use with 76 mm (3 in) diameter test sieves, the mass of beads must be reduced with a spinning riffler. 
+ 
+After the shaking has been completed, the stack of sieves is disassembled, and the beads are removed from each sieve 
+and placed into a suitable weighing bottle.  To reduce loss of material during this step, the transfer operation should 
+utilize a large funnel or be carried out over glazed paper to recover any spillage.  A soft brush is useful in removing the 
+beads from the sieve and funnel. 
+ 
+Each of the sieve fractions is weighed to a precision of at least 0.01 g.  After weighing, all beads are returned to the 
+original SRM bottle and kept for reuse.  The mass of beads retained on each sieve was used to calculate, by difference 
+from the total mass, the mass fraction percent that is finer for each sieve. The effective size of the sieve opening is 
+determined by interpolation between the nearest values given in Table 1. 
+ 
+The above calibration procedure is for use in comparison of sieve results and as a method to systematically monitor for 
+changes in screens after service.  The compliance of wire cloth sieves according to ASTM E-11 specifications can be 
+tested by contacting the NIST Calibration Program at (301) 975-2200. 
+ 
+Scanning Electron Microscopy Analysis 
+ 
+The  cumulative  volume  (mass)  distribution  was  determined  using  scanning  electron  microscopy  and  based  on  the 
+measurement of approximately one thousand individual beads from two bottles.  The backscatter electron images of the 
+particles were acquired as greyscale image files into a computer via a digital interface.  The 2048  2048 pixel images 
+were analyzed to obtain the major and minor diameters of each glass bead based on the assumption of ellipsoidal particle 
+shape.  These diameters were converted to a particle volume (prolate spheroid) and particle diameter (geometric mean of 
+major and minor diameters).  The pixel to length conversion was calibrated by collecting digital images of the calibrated 
+standard NIST SRM 484e.  The SEM results for cumulative mass distribution of the two samples is given in Table 2 as a 
+listing of particle diameter versus cumulative mass fraction with the mass fraction sequenced from 5 % to 95 % in 5 % 
+increments.  
+
+SRM 1003c 
+
+Page 3 of 7 
+
+SRM 1003c
+
+ESZ
+
+LLS
+
+)
+
+%
+
+(
+ 
+n
+o
+i
+t
+c
+a
+r
+F
+ 
+s
+s
+a
+M
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Diameter (µm)
+
+Figure 1.  Comparison of the ESZ and LLS results for SRM 1003c.
+
+ 
+
+SRM 1003c 
+
+Page 4 of 7 
+
+ 
+Table 1.  Certified Diameter Values 
+
+Cumulative 
+Mass Fraction 
+Finer(a) 
+(%) 
+ 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+
+ 
+ 
+Diameter 
+(µm) 
+ 
+18.9 
+21.8 
+23.7 
+25.3 
+26.7 
+27.9 
+29.0 
+30.1 
+31.1 
+32.1 
+33.1 
+34.1 
+35.2 
+36.2 
+37.4 
+38.6 
+39.8 
+41.4 
+43.3 
+
+Standard 
+Uncertainty 
+Homogeneity 
+(µm) 
+ 
+0.00 
+0.15 
+0.14 
+0.10 
+0.10 
+0.09 
+0.12 
+0.12 
+0.09 
+0.03 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+
+Standard 
+Uncertainty 
+Measurement 
+(µm) 
+ 
+0.43 
+0.24 
+0.26 
+0.30 
+0.30 
+0.27 
+0.25 
+0.24 
+0.26 
+0.29 
+0.33 
+0.37 
+0.41 
+0.47 
+0.48 
+0.46 
+0.49 
+0.36 
+0.25 
+
+Type B Standard 
+Uncertainty 
+ 
+(µm) 
+ 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+0.41 
+
+Combined. 
+Standard. 
+Uncertainty 
+(µm) 
+ 
+0.59 
+0.50 
+0.50 
+0.51 
+0.51 
+0.50 
+0.49 
+0.49 
+0.49 
+0.50 
+0.52 
+0.55 
+0.58 
+0.62 
+0.63 
+0.62 
+0.64 
+0.54 
+0.48 
+
+Expanded 
+Uncertainty(b) 
+ 
+(µm) 
+ 
+1.2 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.1 
+1.2 
+1.2 
+1.3 
+1.2 
+1.3 
+1.1 
+1.0 
+
+ 
+(a)  The cumulative mass fraction finer is the portion of SRM 1003c smaller than the certified diameter value. 
+(b)  The uncertainty at each percentile, computed according to the ISO and NIST Guides [4,5], is an expanded uncertainty at the 95 % 
+
+level of confidence.  
+
+ 
+
+ 
+
+ 
+
+Table 2.  SEM Data from Two Test Bottles 
+
+Cumulative  
+Mass Fraction 
+Finer 
+(%) 
+ 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+
+ 
+ 
+Diameter 
+(µm) 
+ 
+18.9 
+22.1 
+23.8 
+25.6 
+27.0 
+28.2 
+29.3 
+30.7 
+31.6 
+32.7 
+33.8 
+34.7 
+35.4 
+36.4 
+37.6 
+38.2 
+39.3 
+40.5 
+42.6 
+
+Expanded 
+Uncertainty
+(µm) 
+ 
+0.9 
+1.1 
+1.2 
+1.3 
+1.3 
+1.4 
+1.5 
+1.5 
+1.6 
+1.6 
+1.7 
+1.7 
+1.8 
+1.8 
+1.9 
+1.9 
+2.0 
+2.0 
+2.1 
+
+SRM 1003c 
+
+Page 5 of 7 
+
+ 
+
+ 
+
+ 
+
+Cumulative 
+Mass Fraction 
+Finer* 
+(%) 
+ 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+
+Cumulative 
+Mass Fraction 
+Finer* 
+(%) 
+ 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+
+ 
+19.3 
+21.9 
+23.8 
+25.2 
+26.6 
+27.8 
+28.9 
+30.0 
+31.1 
+32.2 
+33.3 
+34.4 
+35.5 
+36.6 
+37.8 
+39.0 
+40.2 
+41.7 
+43.5 
+
+ 
+18.8 
+22.1 
+24.2 
+25.7 
+27.1 
+28.2 
+29.2 
+30.3 
+31.2 
+32.1 
+33.0 
+34.0 
+35.0 
+35.9 
+37.1 
+38.2 
+39.4 
+41.2 
+43.1 
+
+Table 3.  Diameters (µm) Measured by Electric Sensing Zone Instrument 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Bottle Identification 
+
+Diameter (µm) 
+
+Table 4.  Diameters (µm) Measured by Laser Light Scattering Instrument 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Bottle Identification 
+
+Diameter (µm) 
+
+ 
+18.9 
+21.6 
+23.4 
+24.9 
+26.3 
+27.6 
+28.7 
+29.9 
+31.0 
+32.1 
+33.2 
+34.2 
+35.3 
+36.4 
+37.6 
+38.8 
+40.1 
+41.6 
+43.4 
+
+ 
+18.4 
+21.5 
+23.6 
+25.3 
+26.6 
+27.8 
+28.8 
+29.9 
+30.9 
+31.8 
+32.7 
+33.7 
+34.7 
+35.7 
+36.8 
+38.0 
+39.3 
+41.0 
+43.0 
+
+ 
+19.3 
+21.9 
+23.7 
+25.2 
+26.6 
+27.8 
+29.0 
+30.1 
+31.3 
+32.3 
+33.4 
+34.4 
+35.5 
+36.7 
+37.8 
+39.0 
+40.2 
+41.7 
+43.4 
+
+ 
+18.5 
+21.6 
+23.7 
+25.4 
+26.7 
+27.9 
+28.9 
+29.9 
+30.9 
+31.8 
+32.8 
+33.7 
+34.7 
+35.7 
+36.8 
+38.0 
+39.3 
+41.0 
+43.0 
+
+ 
+19.3 
+21.9 
+23.8 
+25.4 
+26.8 
+28.0 
+29.2 
+30.4 
+31.4 
+32.5 
+33.6 
+34.7 
+35.8 
+36.9 
+38.0 
+39.2 
+40.6 
+42.0 
+43.6 
+
+ 
+18.6 
+21.8 
+23.9 
+25.5 
+26.9 
+28.0 
+29.1 
+30.1 
+31.1 
+32.0 
+32.9 
+33.9 
+34.9 
+35.9 
+37.0 
+38.2 
+39.4 
+41.1 
+43.1 
+
+ 
+19.4 
+22.0 
+23.9 
+25.4 
+26.8 
+28.0 
+29.3 
+30.4 
+31.5 
+32.5 
+33.6 
+34.7 
+35.9 
+37.0 
+38.1 
+39.3 
+40.5 
+41.9 
+43.7 
+
+ 
+18.4 
+21.6 
+23.7 
+25.4 
+26.7 
+27.9 
+28.9 
+30.0 
+30.9 
+31.8 
+32.8 
+33.8 
+34.8 
+35.7 
+36.8 
+38.1 
+39.3 
+41.0 
+43.0 
+ 
+
+ 
+19.3 
+21.8 
+23.6 
+25.1 
+26.5 
+27.7 
+28.9 
+30.0 
+31.2 
+32.2 
+33.3 
+34.4 
+35.5 
+36.6 
+37.8 
+39.0 
+40.2 
+41.7 
+43.6 
+
+ 
+18.5 
+21.7 
+23.8 
+25.5 
+26.8 
+28.0 
+29.0 
+30.1 
+31.0 
+32.0 
+32.9 
+33.9 
+34.9 
+35.9 
+37.0 
+38.2 
+39.4 
+41.2 
+43.2 
+
+ 
+19.7 
+22.2 
+24.1 
+25.6 
+26.9 
+28.1 
+29.3 
+30.4 
+31.5 
+32.5 
+33.6 
+34.6 
+35.7 
+36.9 
+38.0 
+39.2 
+40.4 
+41.8 
+43.6 
+
+ 
+18.6 
+21.8 
+24.0 
+25.6 
+27.0 
+28.1 
+29.2 
+30.2 
+31.2 
+32.1 
+33.0 
+34.0 
+35.0 
+36.0 
+37.1 
+38.3 
+39.5 
+41.2 
+43.1 
+
+ 
+18.8 
+21.4 
+23.3 
+24.7 
+26.1 
+27.3 
+28.5 
+29.7 
+30.8 
+31.9 
+33.0 
+34.0 
+35.2 
+36.3 
+37.4 
+38.6 
+40.0 
+41.5 
+43.4 
+
+ 
+18.6 
+21.7 
+23.9 
+25.5 
+26.8 
+28.0 
+29.1 
+30.1 
+31.0 
+32.0 
+32.9 
+33.9 
+34.9 
+35.9 
+37.0 
+38.2 
+39.4 
+41.2 
+43.1 
+
+ 
+19.1 
+21.7 
+23.6 
+25.1 
+26.5 
+27.7 
+28.9 
+30.1 
+31.2 
+32.3 
+33.4 
+34.4 
+35.5 
+36.6 
+37.8 
+39.0 
+40.3 
+41.7 
+43.5 
+
+ 
+19.0 
+22.1 
+24.2 
+25.7 
+27.1 
+28.2 
+29.2 
+30.2 
+31.1 
+32.1 
+33.0 
+33.9 
+34.9 
+35.9 
+37.0 
+38.2 
+39.4 
+41.1 
+43.1 
+
+ 
+19.0 
+21.5 
+23.3 
+24.8 
+26.2 
+27.5 
+28.5 
+29.7 
+30.8 
+31.9 
+33.0 
+34.1 
+35.2 
+36.3 
+37.5 
+38.7 
+40.1 
+41.6 
+43.4 
+
+ 
+18.3 
+21.4 
+23.6 
+25.3 
+26.6 
+27.8 
+28.9 
+29.9 
+30.9 
+31.8 
+32.8 
+33.8 
+34.8 
+35.8 
+36.9 
+38.1 
+39.3 
+41.1 
+43.1 
+
+*The cumulative mass fraction finer is the portion of SRM 1003c smaller than the stated diameter. 
+
+SRM 1003c 
+
+Page 6 of 7 
+
+Table 5.  Sieve Data for Eight Test Bottles 
+Mass fraction (%) passing through each sieve 
+ 
+
+Bottle Identification 
+
+U.S.A. Standard 
+Sieve No. 
+ 
+ 
+635 
+500 
+450 
+400 
+325 
+270 
+
+Nominal 
+Opening 
+(µm) 
+ 
+20 
+25 
+32 
+38 
+45 
+53 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+F 
+
+G 
+
+H 
+
+ 
+7.5 
+20.2 
+52.9 
+71.3 
+97.2 
+99.6 
+
+Mass Fraction Finer (%) 
+ 
+7.6 
+16.1 
+53.2 
+72.2 
+96.7 
+99.6 
+
+ 
+7.2 
+18.3 
+48.7 
+68.7 
+95.7 
+99.6 
+
+ 
+6.8 
+17.8 
+50.5 
+69.2 
+95.9 
+99.6 
+
+ 
+6.8 
+17.6 
+53.0 
+70.0 
+96.9 
+99.6 
+
+ 
+8.0 
+19.5 
+53.5 
+74.6 
+96.8 
+99.6 
+
+ 
+5.8 
+16.7 
+51.4 
+68.8 
+96.8 
+99.6 
+
+ 
+Mean (%)
+ 
+7.1 
+18.2 
+52.3 
+71.1 
+96.6 
+99.6 
+
+Table 6.  Comparison of Nominal and Effective Sieve Openings 
+
+ 
+7.1 
+19.5 
+55.4 
+74.0 
+96.7 
+99.5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+U.S.A. 
+Standard 
+Sieve No. 
+ 
+325 
+ 
+400 
+ 
+450 
+ 
+500 
+ 
+635 
+
+Sieve Opening 
+
+Nominal 
+(µm) 
+
+Effective 
+(µm) 
+
+45 
+
+38 
+
+32 
+
+25 
+
+20 
+
+44 
+
+36 
+
+33 
+
+25 
+
+20 
+
+REFERENCES 
+ 
+
+[1] 
+
+JCGM 100:2008; Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement 
+(ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology  (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf  (accessed  Aug 2011);  see  also 
+Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed August 2011). 
+
+[2]  May, W.; Parris, R.; Beck, C.; Fassett, J.; Greenberg, R.; Guenther, F.; Kramer, G.; Wise, S.; Gills, T.; Colbert, J.; 
+Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of Reference 
+Materials 
+(2000);  available  at 
+http://www.nist.gov/srm/publications.cfm (accessed August 2011). 
+
+for  Chemical  Measurements;  NIST  Special  Publication  260-136 
+
+[3]  Searle, S.R.; Casella, G.; McCulloch, C.E.; Variance Components; New York: John Wiley (1992). 
+[4]  Pinheiro, J.C.; Bates, D.M.; Mixed-Effects Models in S and S-PLUS; New York: Springer, (2000). 
+[5]  Taylor, B.N.;  Kuyatt, C.E.;  Guidelines  for  Evaluating  and  Expressing  the  Uncertainty  of  NIST  Measurement 
+Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office:  Washington, DC  (1994);  available  at 
+http://www.nist.gov/physlab/pubs/index.cfm (accessed August 2011). 
+
+[6]  Manual on Test Sieving Methods, ASTM Special Technical Publication (STP) 447B, Philadelphia, PA, (1985). 
+[7]  ASTM E 11-95, Standard Specification for Wire Cloth and Sieves for Testing Purposes, ASTM Annual Book of 
+
+Standards, Vol. 14.02, West Conshohocken, PA (1996). 
+
+ 
+ 
+Certificate Revision History:  10 August 2011 (Change of certificate expiration, editorial changes); 16 October 2009 (Extended certificate expiration 
+date and editorial changes); 23 April 2002 (Original certificate date). 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  in  their  possession  is  current.  This  can  be  accomplished  by 
+contacting the SRM Program at:  telephone (301) 975-2200; fax (301) 926-4751; e-mail srminfo@nist.gov; or via the 
+Internet http://www.nist.gov/srm. 
+
+SRM 1003c 
+
+Page 7 of 7 
+
+

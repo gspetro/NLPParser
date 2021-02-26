@@ -1,0 +1,529 @@
+﻿ENT  OF 
+
+hy. 
+
+ 
+,
+p
+E
+
+ 
+*
+
+ 
+t
+o
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+ 
+Standard Reference Material 3253 
+ 
+Yerba Mate Leaves 
+
+53 
+
+two 
+
+ 
+This  Standard  Reference  Material (SRM)  is  intended  primarily  for  use  in  validating  methods  for  determining 
+for  quality
+polycyclic  aromatic  hydrocarbons (PAHs)  in  yerba  mate  and  similar  matrices,  and  can  also  be  used  for  quality 
+assurance  when  assigning  values  to  in-house  control  materials.    A  unit  of  SRM 3253  consists  of  two  heat-sealed, 
+aluminized pouches, each containing approximately 10 g of ground yerba mate. 
+ 
+The  development  of  SRM 3253  was  a  collaboration  between  the  National  Institute  of  Standards  and 
+Technology (NIST) and the National Institutes of Health (NIH) Office of Dietary Supplements (ODS). 
+ 
+Certified Mass Fraction Values:  Certified mass fraction values for selected PAHs, reported on a dry-mass basis, 
+are provided in Table 1.  A NIST certified value is a value for which NIST has the highest confidence in its accuracy 
+in that all known or suspected sources of bias have been investigated or taken into account [1].  Analyses for value 
+assignment were performed by NIST; certified values were calculated as the unweighted means of the mean values 
+from NIST methods.  The associated uncertainties are expressed at an approximately 95 % level of confidence [2–4]. 
+ 
+Reference Mass Fraction Values:  Reference mass fraction values for additional PAHs and proximates, reported on 
+a dry-mass basis, are provided in Tables 2 and 3.  A NIST reference  value is a noncertified value that  is the best 
+estimate  of  the  true  value  based  on  available  data;  however,  the  value  does  not  meet  the  NIST  criteria  for 
+certification [1] and is provided with associated uncertainties that may reflect only measurement reproducibility, may 
+not include all sources of uncertainty, or may reflect a lack of sufficient statistical agreement among multiple analytical 
+methods.  The reference mass fraction values for PAHs were calculated from results reported by NIST, and values for 
+proximates are based on data from a collaborating laboratory. 
+ 
+Expiration of Certification:  The certification of SRM 3253 is valid, within the measurement uncertainty specified, 
+until  01 January 2028,  provided  the  SRM  is  handled  and  stored  in  accordance  with  instructions  given  in  this 
+certificate (see  “Instructions  for  Storage  and  Use”).    The  certification  is  nullified  if  the  SRM  is  damaged, 
+contaminated, or otherwise modified. 
+ 
+Maintenance of SRM Certification:  NIST will monitor this SRM over the period of its certification.  If substantive 
+technical  changes  occur  that  affect  the  certification  before  the  expiration  of  this  certificate,  NIST  will  notify  the 
+purchaser.  Registration (see attached sheet or register online) will facilitate notification. 
+ 
+Coordination of the technical measurements leading to the certification of this SRM was performed by M.M. Phillips 
+of the NIST Chemical Sciences Division and K.E. Sharpless of the NIST Special Programs Office. 
+ 
+Analyses at NIST were performed by K.D. Chieh, J.A. Murray, R.L. Paul, M.M. Schantz, and L.J. Wood of the NIST 
+Chemical Sciences Division. 
+ 
+Statistical analysis was provided by J.H. Yen of the NIST Statistical Engineering Division. 
+ 
+Support for the development of SRM 3253 was provided in part by NIH-ODS with technical consultation provided 
+by J.M. Betz. 
+ 
+ 
+ 
+ 
+ 
+Gaithersburg, MD 20899 
+2:12 
+Certificate Issue Date:  12 April 2018 
+
+Steven J. Choquette, Director 
+Office of Reference Materials 
+
+Carlos A. Gonzalez, Chief 
+Chemical Sciences Division 
+
+253  was  provided  in  part  by  NIH 
+
+and 
+
+Page 1 of 6 
+
+  
+
+SRM 3253 
+
+yntrolle 
+
+>  packet 
+
+Support  aspects  involved  in  the  issuance  of  this  SRM  were  coordinated  through  the  NIST  Office  of  Reference 
+Materials. 
+ 
+NOTICE  TO  USERS:    SRM 3253  IS  INTENDED  FOR  LABORATORY  USE  ONLY,  NOT  FOR  HUMAN 
+CONSUMPTION. 
+ 
+INSTRUCTIONS FOR STORAGE AND USE 
+ 
+Storage:  The SRM should be stored at controlled room temperature (20 °C to 25 °C) in the original unopened packets.  
+The  certification  only  applies  to  the  initial  use,  as  the  material  will  take  on  additional  moisture  upon  opening  the 
+packet.  The same results are not guaranteed if the remaining powder is used at a later date unless an independent 
+determination of moisture is conducted using one of the methods listed under “Determination of Moisture”. 
+ 
+Use:  Before use, the contents of the packet should be mixed thoroughly.  Allow the contents to settle for 1 min prior 
+to opening to minimize the loss of fine particles.  To relate analytical determinations to the certified or reference values 
+in this certificate, a test portion mass of at least 0.3 g should be used.  Results obtained in analyses should include 
+their own estimates of uncertainty and can be compared to the certified or reference values using procedures described 
+in reference 6. 
+ 
+Determination  of  Moisture:    Moisture  content  of  SRM 3253  was  determined  at  NIST  by (1) freeze-drying  to 
+constant  mass  over  7 d, (2) drying  over  magnesium  perchlorate  in  a  desiccator  at  room  temperature  for  28 d; 
+and (3) drying  for 2 h in a forced-air oven at 90 °C.  Unweighted results obtained  using  all three techniques  were 
+averaged to determine a conversion factor of (0.9566 ± 0.0023) gram dry-mass per gram as-received mass, which was 
+used to convert data from an  as-received to a dry-mass basis; the  uncertainty  shown on this  value is an expanded 
+uncertainty.    A  relative  uncertainty  component (0.12 %)  for  the  conversion  factor  obtained  from  the  moisture 
+measurements is incorporated in the uncertainties of the certified and reference values, reported on a dry-mass basis, 
+that are provided in this certificate. 
+ 
+SOURCE, PREPARATION, AND ANALYSIS(1) 
+ 
+Source  and  Preparation:    SRM 3253  is  a  ground,  homogenized,  commercially  available  yerba  mate.    The 
+commercial product was ground at NIST using an ultracentrifugation mill, and the fine powder was transferred to 
+High-Purity Standards (Charleston, SC).  The material was packaged in 10 g aliquots in heat-sealed 4 mil polyethylene 
+bags  then  sealed  inside  nitrogen-flushed  aluminized  plastic  bags  along  with  two  silica  gel  packets.    Following 
+packaging,  SRM 3253  was  irradiated (Neutron  Products,  Inc.,  Dickerson, MD)  to  an  absorbed  dose  of  5.9 kGy  to 
+7.6 kGy. 
+ 
+Analytical Approach for Determination of PAHs:  Value assignment of the mass fractions of PAHs in SRM 3253 
+was based on the combination of  measurements made at NIST using three methods based on gas chromatography 
+with mass spectrometric detection (GC-MS). 
+ 
+NIST Analyses for PAHs by GC-MS Method I:  For GC-MS Method I, mass fractions of PAHs were determined in 
+two 0.3 g test portions from each of 10 packets of SRM 3253.  The yerba mate and internal standard solution (prepared 
+as  a  gravimetric  dilution  of  SRM 2269  Perdeuterated  PAH-I  Solution  in  Hexane/Toluene  and  SRM 2270 
+Perdeuterated PAH-II Solution in Hexane/Toluene in 2,2,4-trimethylpentane) were mixed with sodium sulfate in glass 
+extraction thimbles.  Following Soxhlet extraction with hexane:acetone (1:1 volume fraction) for 20 h, the extract was 
+evaporated to 5 mL under nitrogen and centrifuged.  The supernatant was fractionated using an aminopropyl solid 
+phase extraction (SPE) column to isolate the fraction of interest.  The processed extract was evaporated to 0.5 mL 
+under nitrogen and analyzed by GC-MS.  The GC was equipped with a 0.25 mm i.d. × 60 m Rxi®-PAH fused silica 
+capillary column (Restek, Bellefonte, PA) with a 0.1 μm film thickness.  All injections were 1 μL (on-column) with 
+helium as a carrier gas at a constant flow rate of 1.2 mL/min.  Electron impact MS was used for detection.  Calibrants 
+were  prepared  gravimetrically  from  SRM 2260a  Aromatic  Hydrocarbons 
+in  Toluene  and  SRM 1491a 
+Methyl-Substituted Polycyclic Aromatic Hydrocarbons in Toluene at levels intended to approximate the levels of the 
+PAHs in SRM 3253 following extraction.  The same internal standard solution was used for the calibrants and samples.  
+Calculations are based on linear regression of response data for the calibrants. 
+ 
+NIST Analyses for PAHs by GC-MS Method II:  For GC-MS method II, mass fractions of PAHs were determined from 
+single  0.5 g  test  portions  from  each  of  six  packets  of  SRM 3253.    The  yerba  mate  and  internal  standard  solution 
+                                                           
+
+to  adequately  specify  the
+(1)  Certain  commercial  equipment,  instruments  or  materials  are  identified  in  this  certificate  to  adequately  specify  the 
+experimental procedure.  Such identification does not imply recommendation or endorsement by the National Institute of Standards 
+and Technology, nor does it imply that the materials or equipment identified are necessarily the best available for the purpose. 
+SRM 3253 
+
+Page 2 of 6 
+
+in  Hexane/Toluene  and  SRM 2270  Perdeuterated  PAH-II  Solution 
+
+(prepared as a gravimetric dilution of SRM 2269 Perdeuterated PAH-I Solution in Hexane/Toluene and SRM 2270 
+Perdeuterated PAH-II Solution in Hexane/Toluene in 2,2,4-trimethylpentane) were mixed with diatomaceous earth in 
+pressurized fluid extraction (PFE) cells.  Following PFE with dichloromethane in duplicates of 6 cycles at 150 °C, the 
+duplicate extracts were combined, evaporated to dryness under nitrogen, and reconstituted in 0.5 mL of hexane.  The 
+extract was fractionated using aminopropyl SPE columns to isolate the fraction of interest.  The processed extract was 
+evaporated to 0.5 mL under nitrogen and analyzed by GC-MS.  The GC was equipped with a 0.25 mm i.d. × 59 m 
+DB-XLB fused silica capillary column (Agilent Technologies, Wilmington, DE) with a 0.25 μm film thickness.  All 
+injections were 1 μL (splitless) with helium as a carrier gas at a constant flow rate of 1.2 mL/min.  Electron impact 
+MS was used for detection.  Calibrants were prepared gravimetrically from SRM 2260a Aromatic Hydrocarbons in 
+Toluene  and  SRM 1491a  Methyl-Substituted  Polycyclic  Aromatic  Hydrocarbons  in  Toluene,  at  levels  intended  to 
+approximate the levels of the PAHs in SRM 3253 following extraction.  The same internal standard solution was used 
+for the calibrants and samples.  Calculations are based on linear regression of response data for the calibrants. 
+ 
+NIST Analyses for PAHs by GC-MS Method III:  For GC-MS Method III, mass fractions of PAHs were determined in 
+three 0.5 g test portions from each of three packets of SRM 3253.  The yerba mate was mixed with diatomaceous earth 
+in PFE cells.  An internal standard solution (prepared as a gravimetric dilution of SRM 2269 Perdeuterated PAH-I 
+Solution 
+in 
+2,2,4-trimethylpentane).    Following  PFE  with  dichloromethane  in  duplicates  of  6 cycles  at  150 °C,  the  duplicate 
+extracts were combined, solvent exchanged to hexane, and evaporated to a final volume of 0.5 mL.  The extract was 
+fractionated  using silica SPE  columns to isolate the  fraction of  interest.  The processed  extract  was evaporated to 
+0.5 mL under nitrogen and analyzed by GC-MS.  The GC was equipped with a 0.25 mm i.d. × 60 m Rxi®-PAH fused 
+silica capillary column (Restek) with a 0.15 μm film thickness.  All injections were 1 μL (splitless) with helium as a 
+carrier  gas  at  a  constant  flow  rate  of  1.2 mL/min.    Electron  impact  MS  was  used  for  detection.    Calibrants  were 
+prepared gravimetrically from SRM 2260a Aromatic Hydrocarbons in Toluene, at levels intended to approximate the 
+levels of the PAHs in SRM 3253 following extraction.  The same internal standard solution was used for the calibrants 
+and samples.  Calculations are based on the average response factor relative to the labeled internal standard of the 
+calibrants bracketing samples and controls. 
+ 
+Collaborating  Laboratory’s  Analyses:    The  collaborating  laboratory  used  their  usual  methods  to  make  single 
+measurements  of  proximates  and  calories  on  test  portions  taken  from  each  of  three  packets  of  SRM 3253.    The 
+laboratory mean was used for value assignment, with the uncertainty estimated as the standard error of that mean. 
+iat  mean. 
+ 
+Homogeneity Assessment:  The homogeneity of PAHs was assessed using GC-MS Method I.  Analyses of variance 
+with  a  5 %  significance 
+level  showed  statistically  significant  heterogeneity  for  fluoranthene,  pyrene, 
+benzo[c]phenanthrene, triphenylene, chrysene, benzo[b]fluoranthene, and benzo[a]fluoranthene.  The  uncertainties 
+for these PAHs incorporate an additional component for possible heterogeneity. 
+ 
+Value  Assignment:    For  calculation  of  assigned  values  for  PAHs,  the  mean  of  the  mean  values  from  GC-MS 
+Method I,  GC-MS  Method  II,  and  GC-MS  method  III  results  was  used,  where  appropriate.    Assigned  values  for 
+proximates were based on the mean of values from a collaborating laboratory. 
+ 
+ 
+
+in  Hexane/Toluene 
+
+orating 
+
+GC
+
+es 
+
+ 
+
+SRM 3253 
+
+Page 3 of 6 
+
+Certified Mass Fraction Values for PAHs:  Each certified mass fraction value is the combined mean from the means 
+of results from analyses provided by GC-MS Method I, GC-MS Method II, and GC-MS Method III, where appropriate.  
+The measurand is the total mass fraction of each PAH listed in Table 1.  Metrological traceability is to the SI derived 
+unit for mass fraction (expressed as nanograms per gram) on a dry-mass basis. 
+ 
+
+Table 1.  Certified Mass Fraction Values for PAHs in SRM 3253 
+
+Pyrene(b,c,d) 
+Benz[a]anthracene(b,c,d) 
+Benzo[a]pyrene(b,c,d) 
+Perylene(b,d) 
+Benzo[ghi]perylene(b,c,d) 
+
+Mass Fraction(a) 
+(ng/g) 
+
+±  53 
+
+324 
+70.2  ±  3.0 
+57.8  ±  6.9 
+14.4  ±  2.7 
+118.6  ±  2.3 
+
+(a) Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The 
+true  value  of  the  analyte  is  believed  to  lie  within  the  interval  x ± U95%(x)  with  about  a 95 %  confidence.    To propagate  this 
+uncertainty, treat the value as a normally distributed random variable with mean x and standard deviation U95%(x)/2. 
+
+(b) GC-MS Method I 
+(c) GC-MS Method II 
+(d) GC-MS Method III 
+ 
+ 
+Reference Mass Fraction Values for PAHs:  Each reference mass fraction value is the mean or combined mean 
+from one or more of the three GC-MS method results.  The measurand is the mass fraction of each PAH listed in 
+Table 2.  Metrological traceability is to the SI derived unit for mass fraction (expressed as nanograms per gram) on a 
+dry-mass basis, as realized by the methods used. 
+ 
+
+Table 2.  Reference Mass Fraction Values for PAHs in SRM 3253 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2-Methylphenanthrene(b,c) 
+3-Methylphenanthrene(b,c) 
+Fluoranthene(d) 
+1-Methylpyrene(b,c) 
+Benzo[c]phenanthrene(b,c,d) 
+Chrysene(d) 
+Triphenylene(d) 
+Benzo[b]fluoranthene(b,d) 
+Benzo[k]fluoranthene(c,d) 
+Benzo[a]fluoranthene(b,d) 
+Indeno[1,2,3-cd]pyrene(b,c) 
+Picene(d) 
+Coronene(b) 
+
+Mass Fraction(a) 
+(ng/g) 
+
+±  10 
+±  14 
+±  48 
+
+1.6 
+2.4 
+
+6.9 
+
+±  16 
+
+±  22 
+
+69 
+62 
+280 
+18.8  ± 
+18.9  ± 
+128 
+29.1  ± 
+48 
+25.1  ± 
+14.7  ± 
+57.7  ± 
+12.72 ± 
+43.8  ± 
+
+9.1 
+3.8 
+4.2 
+0.58 
+1.8 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The 
+method-specific true value of the analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence.  To 
+propagate  this  uncertainty,  treat  the  value  as  a  normally  distributed  random  variable  with  mean  x  and  standard  deviation 
+U95%(x)/2. 
+
+(b) GC-MS Method I 
+(c) GC-MS Method II 
+(d) GC-MS Method III 
+
+ 
+
+ 
+
+SRM 3253 
+
+Page 4 of 6 
+
+Reference Mass Fraction Values for Proximates and Calories:  Each reference mass fraction value is the mean 
+from collaborating laboratory results.  The measurands are the mass fractions listed in Table 3, on a dry-mass basis, 
+as  determined  by  the  methods  indicated.    Metrological  traceability  is  to  mass  fraction (expressed  as  grams  per 
+100 grams)  as  realized  by  the  methods  used.    For  calories,  the  measurand  is  the  caloric  content (expressed  as 
+kilocalories  per  100  grams),  listed  in  Table 3  on  a  dry-mass  basis  as  determined  by  the  method  indicated  and 
+metrological traceability is to the scale realized by that method for energy. 
+ 
+
+Table 3.  Reference Mass Fraction Values for Proximates and Calories in SRM 3253 
+
+ 
+
+ 
+
+ 
+
+Ash(b) 
+Protein(c) 
+Carbohydrates(d) 
+Total Fat(e) 
+ 
+
+Calories 
+
+Mass Fraction(a) 
+(g/100 g) 
+
+5.81 ± 
+10.64 ± 
+77.8  ± 
+5.4  ± 
+
+0.17 
+0.90 
+3.1 
+3.4 
+
+Mass Fraction(a) 
+(kcal/100 g) 
+
+402 
+
+±  15 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+(a) Values are expressed as x ± U95%(x), where x is the estimated value and U95%(x) is the expanded uncertainty of the value.  The 
+method-specific true value of the analyte is believed to lie within the interval x ± U95%(x) with about a 95 % confidence.  To 
+propagate  this  uncertainty,  treat  the  value  as  a  normally  distributed  random  variable  with  mean  x  and  standard  deviation 
+U95%(x)/2. 
+
+(b) Ash was determined by a collaborating laboratory using weight loss after ignition in muffle furnace. 
+(c) Nitrogen was determined by a collaborating laboratory using combustion.  A factor of 6.25 was used to convert nitrogen results 
+
+to protein. 
+
+(d) Carbohydrates were determined by a collaborating laboratory by difference (solids less the sum of protein, fat, and ash). 
+(e) Total fat was determined by a collaborating laboratory using the Mojonnier method. 
+ 
+ 
+
+ 
+
+SRM 3253 
+
+Page 5 of 6 
+
+REFERENCES 
+
+at 
+
+[2] 
+
+ 
+[1]  May, W.;  Parris, R.;  Beck II, C.;  Fassett, J.;  Greenberg, R.;  Guenther, F.;  Kramer, G.;  Wise, S.;  Gills, T.; 
+Colbert, J.; Gettings, R.; MacDonald, B.; Definition of Terms and Modes Used at NIST for Value-Assignment of 
+Reference  Materials  for  Chemical  Measurements;  NIST  Special  Publication  260-136 (2000);  available  at 
+https://www.nist.gov/sites/default/files/documents/srm/SP260-136.PDF (accessed Apr 2018). 
+JCGM 100:2008;  Evaluation  of  Measurement  Data  —  Guide  to  the  Expression  of  Uncertainty  in 
+Measurement (ISO  GUM  1995  with  Minor  Corrections);  Joint  Committee  for  Guides  in  Metrology (2008); 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf (accessed 
+available 
+Apr 2018); see also Taylor, B.N.; Kuyatt, C.E.; Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST  Measurement  Results;  NIST  Technical  Note 1297;  U.S.  Government  Printing  Office: 
+Washington, DC (1994); available at https://www.nist.gov/pml/pubs/tn1297/index.cfm (accessed Apr 2018). 
+JCGM 101:2008; Evaluation of Measurement Data – Supplement 1 to the Guide to Expression of Uncertainty 
+in  Measurement;  Propagation  of  Distributions  Using  a  Monte  Carlo  Method;  Joint  Committee  for  Guides  in 
+Metrology;  International  Bureau  of  Weights  and  Measures (BIPM),  Sèvres, France (2008);  available  at 
+http://www.bipm.org/utils/common/documents/jcgm/JCGM_101_2008_E.pdf (accessed Apr 2018). 
+[4]  Efron, B.; Tibshirani, R.J.; An Introduction to the Bootstrap; Chapman & Hall, London, UK (1993). 
+[5]  Thompson, A.;  Taylor, B.N.;  Guide  for  the  Use  of  the  International  System  of  Units (SI);  NIST  Special 
+at 
+
+Printing  Office:  Washington, DC (2008); 
+
+Publication 811;  U.S.  Government 
+https://www.nist.gov/pml/pubs/sp811/index.cfm (accessed Apr 2018). 
+
+aan  &  Hall,  London, 
+
+‘ystem  of  Units
+
+available 
+
+[3] 
+
+[6]  Sharpless, K.E.; Lippa, K.A.; Duewer, D.L.; Rukhin, A.L.; The ABCs of Using Standard Reference Materials in 
+the  Analysis  of  Foods  and  Dietary  Supplements:  A  Practical  Guide;  NIST  Special  Publication  260-181; 
+U.S. Government Printing Office: Washington, DC (2014); available at  
+https://www.nist.gov/sites/default/files/documents/srm/SP260-181r1-2.pdf (accessed Apr 2018). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users  of  this  SRM  should  ensure  that  the  Certificate  of  Analysis  in  their  possession  is  current.    This  can  be 
+accomplished  by  contacting  the  SRM  Program:    telephone (301)  975-2200;  fax (301)  948-3730;  e-mail 
+srminfo@nist.gov; or via the Internet at https://www.nist.gov/srm. 
+
+SRM 3253 
+
+Page 6 of 6 
+
+

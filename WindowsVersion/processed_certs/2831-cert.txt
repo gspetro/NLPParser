@@ -1,0 +1,2603 @@
+﻿ow’ 
+Ne  i- 
+
+Somes  or
+
+ 
+
+National Institute of Standards & Technology 
+
+ 
+
+Certificate of Analysis 
+Standard Reference Material 2831 
+
+ 
+
+ 
+
+Vickers Hardness of Ceramics and Hardmetals 
+
+2 are also included in 
+
+Lengths, Average Diagonal Length, and Average 
+
+ 
+This Standard Reference Material (SRM) is intended for use in the calibration of all hardness and microhardness testing 
+machines whereby a Vickers indentation is made and then measured with a microscope.  The SRM has five NIST-made 
+indents in the middle of a polished face (Figure 1) certifie d for the individual diagonal  lengths, the average diagonal 
+length, and the average hardness value for indentations made  at a load of 9.8 N (1 kgf).  A unit of SRM 2831 consists 
+of a 25 mm D  × 9.5 mm disk that has a nominal hardness of approximately 15.0 GPa (1530 kgf/mm 2) packaged in a 
+wooden box.  Each unit is individually certified and bears a  serial number (the letter W followed by a hyphen and the 
+disk number) scribed on the opposite (bottom) face of the disk.   
+ 
+Vickers hardness is calculated as HV =  α P/d2, where P is the indentation load, d is the average diagonal size [(d 1 + d 2  
+)/2], and α is the indenter constant, which, for an ideal Vickers indenter is 1.8544.  If P is in units of Newton, and d is in 
+units of meters, then HV will be in units of N/m 2 or Pa.  A conversion factor of 1  × 10-9 may be used to convert HV to 
+units of GPa.  In this certificate, older traditional units of hardness expressed as kgf/mm
+parenthesis for the convenience of users. 
+  
+Certified Values:   The certified values for Individual Diagonal 
+Vickers Hardness for the NIST i ndentations for each disk are  provided in Table 1.  Special  notes regarding particular 
+disks are also included in Table 1.  The uncertainty for each certified value is given below. 
+ 
+Individual Diagonal Lengths :  The certified individual diagonal lengths in units of micrometers for the 5 NIST 
+indentations for this particular disk are shown in Table 1.   The NIST indentations are identified as V1 to V5 (Figure 1). 
+The average diagonal size d = (d 1 + d 2)/2 for each indentation  is listed in Tabl e 1.  The uncertainty for an individual 
+NIST indentation size is  ± 0.32 µm (± 0.9 %) at a 95 % confidence level.  The number in parenthesis is two times the 
+coefficient of variation expressed as a percentage.  The uncertainty for a single future (new) indentation is a little 
+greater and is ± 0.35 µm (± 1.0 %) also at a 95 % confidence level. 
+ 
+Average Diagonal Length :  The certified average diagonal length for the five NIST indentations is also listed in 
+Table 1.  The uncertainty for the averag e for the five NIST indentations is  ± 0.14 µm (± 0.4 %) at a 95 % confidence 
+level.  The uncertainty for the average diagonal size of five future new indentations is  ± 0.20  µm (± 0.6 %), also at a 
+95 % confidence level. 
+ 
+Average Vickers Hardness :  The certified average Vickers hardness, HV 5 for the disk is also listed in Table 1.  The 
+uncertainty for the average of the five NIST indentions is ± 0.29 GPa (28 kgf/mm2).  The uncertainty for the average of 
+five future (new) indentations is ± 0.41 GPa (40 kgf/mm2).  The uncertainties are at the 95 % confidence level. 
+ 
+Expiration of Certification:   The certification of this SRM is valid indefinitely, within the measurement uncertainties 
+specified, provided the SRM is handled in accordance with the  instructions given in this certificate (see  Instruction for 
+Use).  However, repolishing the surface, severe corrosion damage to the surface, 
+or other mechanical damage to the 
+surface will invalidate the certification. 
+ 
+This SRM was prepared and certified by G.D. Quinn and R.J. Gettings of the NIST Ceramics Division. 
+ 
+The technical and support aspects involved in the issuance of this SRM were coordinated through the NIST 
+Standard Reference Materials Program by B.S. MacDonald of the NIST Measurement Services Division. 
+ 
+
+ 
+Gaithersburg, MD 20899 
+Certificate Issue Date:  20 June 2003 
+
+Debra L. Kaiser, Chief 
+Ceramics Division 
+
+John Rumble, Jr., Chief 
+Measurement Services Division 
+
+SRM 2831  
+
+ 
+
+Page 1 of 10 
+
+ 135° 57’ 13” and a tip offset of 0.19 
+
+the site where the indentations were made was 9.801 m/s
+
+ ground and polished to provide a flat, parallel, polished 
+
+Statistical Analysis of the data was performed by N.F. Zhang of the NIST Statistical Engineering Division. 
+ 
+PREPARATION AND ANALYSIS 
+ 
+Disk Properties:  The SRM is a hot-isostatically pressed tungs ten carbide containing nominally 12 % cobalt binder 
+phase, fabricated in the form of disks that have been
+surface. The average grain size (mean  linear intercept) of the carbide  grains is approximately 0.5  µm.  The disks 
+have a nominal diameter of 25 mm and a thickness between 9.4 mm and 9.6 mm.  The hardness is uniform across 
+the polished surface.   
+ 
+Certification Procedures:   Five NIST Vickers indentations are located in the disk  center on the polished surface and 
+are arranged in a pattern as shown in Figure 1.  A single  Knoop indentation serves as a pointer-marker.  Some disks 
+have both the top and bottom surfaces polis hed.  Do not use the surface with th e scribed number.   The indentations 
+were made in accordance with ASTM E 384-99 [1], ASTM  C 1327-96a [2], CEN prEN 843-4 (2001) [3], and ISO 
+14705-2000 [4]. The five NIST indentations were made by  a dedicated Wilson Tukon 300 table model hardness testing 
+machine.  The hardness machine applied load through a fixed ma ss (“dead weight”) attached to a lever beam.  The load 
+on the indenter was nominally 9.801 N (1.000 kgf).  Load was repeatedly verified with a load cell and was within 0.1 % 
+2.  The 
+of the specified value.  The gravitational constant at 
+Vickers diamond had average face angles of
+µm.  The indenter constant was 
+therefore 1.8541 and was thus within 0.02 % of the ideal 1.8544 value.    
+ 
+The indentations were examined and digitally photographed  with a high resolution Diagnostic Instruments Spot Insight 
+digital camera (3 color CCD, 11.8 mm  × 8.9 mm chip, 1600  × 1200 pixels) on a Leica DMRM laboratory research 
+microscope using a 40X objective lens with a numerical apertu re of 0.6.  Bright field illumination with a green filter 
+was used with properly adjusted aperture and field diaphragms.  A 1.6X slider and a 3.2X camera magnifier magnified 
+the image further.  The image was projected onto a Hitachi CM 771 high-resolution (1600 
+× 1280 pixel) SVGA flat 
+monitor with 0.22 mm pitch.  The indentations appeared 68 mm large ( ≈ 2000 magnification) on the monitor, but were 
+digitally enlarged to 200 mm (≈ 5 700 magnification) for close inspection of the diagonals and the tips.  
+ 
+The horizontal (d 1) and vertical (d 2) diagonal lengths were measured on the computer digital image to a resolution of 
+0.1 µm.  The average diagonal size was computed as d = (d
+1 + d 2)/2.  The indentations were symmetric and the two 
+diagonal lengths usually  concurred to 0.0  µm to 0.3  µm.  Some were different by 0.4  µm or 0.5  µm.  Only in a few 
+instances were the diagonals different by 0.6 µm – 0.8 µm.  The repeatability uncertainty for making the average optical 
+microscope diagonal length d reading for a single indentation was 0.13  µm at the 95 % confidence level (2 σ).  This 
+uncertainty estimate was from five repeat optical microsc
+measurements were done on fifty different indentations (ten indentations in five different disks). 
+ 
+An optical stage micrometer (WILD model 31045) was used to calibrate and frequently recheck the length calibration 
+measurements.  The stage micrometer was calibrated by the  NIST calibration services to  an accuracy uncertainty of 
+better than 0.01 % for a length of 140 µm, which covered the entire camera field of view with the 40X objective. 
+ 
+The polished surface was also inspected by  an optical microscope at magnifica tions of 50X to 400X for the general 
+condition and evidence of any polishing or material defects.   
+ 
+Diagonal lengths of five indentations in selected protot ype SRM disks were also measured with calibrated scanning 
+electron microscope (SEM) photographs.  The average SEM lengt hs readings agreed with th e average optical readings 
+to 0.1  µm or better.  Additional details on the preparation of th
+publications, it was determined that a high-resolution digita
+l camera attached to an opti cal microscope achieved the 
+same resolution and equivalent uncertainties than measurements from calibrated SEM photos for Vickers indentations. 
+ 
+Discussion of Uncertainties 
+ 
+The uncertainty estimates were made in  accordance with the NIST and ISO Guides  [8,9].  Uncertainties were either 
+evaluated through statistical means, type A, or by other means, type B.  Uncertainties listed are the 95 % confidence 
+intervals (2σ) in each instance.  The values in  parenthesis are the uncertainties as  a percentage and are two times the 
+coefficient of variation.  Uncertainties  for the average values of d and HV for th e 5 NIST indentations were estimated 
+by dividing the uncertainty for an individual measurement by the square root of 5, which was the sample size. 
+
+ope measurements of single indentations.  The repeat 
+
+is SRM are in references 5-7.  Subsequent to those 
+
+SRM 2831  
+
+ 
+
+Page 2 of 10 
+
+Since the diagonal length for an indentation is the average of two readings (d 1 and d 2), the uncertainty  in the average 
+diagonal length is less than the uncertainty for making a single diagonal length reading (d
+1 or d 2) for a single 
+2 / 2  =  0.707 times the single diagonal length 
+indentation The uncertainty of the  average of the two readings is 
+uncertainty assuming the same uncertainty of d1 and d2 . 
+ 
+Uncertainty estimates were made by analysis of the indenta tions made in each of the 96 di sks that are certified for this 
+SRM as well as a subset of five additional disks that were  set aside from the production sets.  The subset of 5 disks was 
+studied in greater detail and received more indentations.   
+ 
+For the subset of 5 disks from the production set, the within disk, between disk, and the measurement method 
+repeatabilities were determined by indenting five disks with five indentations in two different locations, and then 
+measuring the same indentations on 5 separate days.  An ANOVA analysis showed  that the disk effect was statistically 
+significant, while the day and location effects were not significant.  From the one-way analysis and using disk as the 
+µm2 with 245 degrees of freedom.  The test for homogeneity of 
+factor, the mean square error (MSE) was 0.0254 
+variances showed that variances between the disks were not significantly different.   
+ 
+A one-way analysis of the diagonal length readings of the indentations in all 96 disks to be certified indicated that the 
+disk effect was significant.  Therefore 
+each disk is individually certified.  Th e MSE, using disk as the factor, was 
+0.0262 µm2 with 384 degrees of freedom, an estimate very close to the one obtained from the five disks studied in the 
+previous paragraph.  The test for homogeneity of variances  showed that the variances between the 96 disks were not 
+statistically significant. 
+ 
+The pooled variance from the two paragraphs above is 0.0259  µm2, and thus the uncertainty  for each NIST indentation 
+is σe   =  0.32  µm (± 0.9 %), at a 95 % confidence level where the s ubscript “e” denotes each.  The uncertainty for the 
+average of the five NIST indentations σavg is 0.32 µm / 5   =  0.14 µm (± 0.4 %). 
+ 
+The uncertainty for a single future (new) indentation is 0.35 µm (± 1.0 %). 
+The uncertainty for the average of five future (new) indentations is 0.20 µm  (± 0.6 %). 
+ 
+Overall uncertainties were estimated by combining the variances of individual sources of uncertainty from the 
+indentation load and the diagonal length measurements, with the exception of the uncertainty in HV, wherein the 
+variance in diagonal length was weighted by a factor of 4 in accordance with the law of propagation of error. 
+ 
+The uncertainty for the average hardness HV of the five NIST indentations is 0.29 GPa  (28 kgf/mm2) or ± 1.9 %. 
+ 
+The uncertainty for average hardness HV of five future (new) indentations is 0.41 GPa (40 kgf/mm2) or ± 2.7 %. 
+ 
+INSTRUCTIONS FOR USE 
+ 
+This SRM may be used with all hardness and microhardne
+made and then measured with a microscope.  
+ 
+The user may measure the sizes of the 5 NIST indentations to within 0.1  µm (0.0001 mm) or 0.2 µm (0.0002 mm) with 
+an optical microscope in order to verify that the test machine optics and the length measuring apparatus are optimized.  
+A total magnification of 400X or higher is recommended and in accordance with ASTM C 1327 and ISO 14705.  400X 
+or 500X magnifications are commonly available with most hardness machines, many of which have 40X or 50X 
+objectives and 10X eyepieces.  The SRM may also be used  with optical microscopes with  cameras that display the 
+image on a computer monitor, or with scanning electron microscopes.  
+ 
+Magnifications and length measuring equipment should be checked by the use of a calibrated stage micrometer. 
+ 
+The tips of the indentations may be slightly rounded or distorted by the tungsten carbide grains, which have an average 
+size of 0.5  µm.  Grains near the tip may dislodge and cause the inde ntation edge to be slightly irregular as shown in 
+Figure 2.  This is unavoidable, but is much less a problem with this SRM than for many ceramics.  In a few rare 
+instances, a tiny hairline  crack may extend from the tip of the indent as shown in Figure 2, but these usually are very 
+thin and at an angle to the diagonal length axis and can be easily discounted.  
+ 
+Pay special attention to the Storage and Handling requirements.  Keep the blocks clean and free from fingerprints, body 
+oils or salts, lab dust contamination and water.  Avoid corrosion damage to the polished surface.  
+
+ss testing machines whereby a Vickers indentation is 
+
+SRM 2831  
+
+ 
+
+Page 3 of 10 
+
+ 
+Producing New Indentations:   The user may make new indentations in the disk.  Be careful not to indent over the 
+NIST indentations.  Some disks have a few microstructural irregularities (small spots) or polishing scratches, which
+ 
+may be avoided when selecting a site to be indented.  Even  if an indentation is made over a small polishing scratch, the 
+scratches are so shallow that they do not alter the hardness response and the indentations are valid.  Indentations may be 
+placed in any region of the polished su rface, except within 1 mm of the outer  rim since slight e dge rounding from the 
+polishing may distort the indentation shape.  Some disks have a greater concentration of polishing scratches at the rim.  
+The indentations should not be made too close to each other, lest they  interfere with each other.  A minimum spacing of 
+4d between centers is specified in ASTM E 384, ASTM C 1327, and ISO 14705.   
+ 
+Special care should be taken to ensure that the loading rates and load duration are as prescribed by the appropriate 
+standard.  There shall be no vibrations  or impact imparted to the machine dur ing the indentation cycle.  The surface 
+must be clean.  Methanol should be us ed to clean the surface in  accordance with the storage  and handling instructions 
+above. 
+ 
+Storage and Handling:   The tungsten carbide disk is hard and durable  but the polished surface should be protected 
+from damage or abuse. 
+ 
+CAUTION:   The polished surface is susceptible to corrosion from water, finger oils, body salts, or laboratory dust. 
+
+  
+It should be kept clean.  
+
+rrosion paper also may be used, but if the paper has ink 
+
+ 
+ 
+The disk should be stored in a container or envelope when not  in use, but such container need not be airtight.  The disk 
+should be wrapped in a simple clean white tissue.  Anti co
+labeling or printing on one side, then that side should not contact the disk. 
+ 
+The disk should be handled by  the rim, with care that finger oil or sa lts do not contact the polished surface around the 
+rim.  Latex gloves may be used.  If the surface is contacted 
+with the fingers, water, or  other contaminant, clean the 
+surface.  It is very easy to clean the surface.  The polished surface may be cleaned with simple white tissue paper and, if 
+necessary, use methanol. 
+ 
+CAUTION:  DO NOT use water or ethyl alcohol (ethanol) to clean the surface. (Ethyl alcohol has water solubility.)  
+ 
+ 
+If the polished surface is contaminated by contact with water, finger oils, or finger salts for a protracted period, (days or 
+weeks), corrosion damage will occur.  Such damage will manifest itself as small white patches, or in extreme cases, as a 
+milky white haze across the  entire disk surface.  The disk  may still be used for indentati ons provided that indentations 
+are placed in uncorroded regions.  If the disk surface is en
+certification of the NIST indentations is invalidated since their dimensions and appearance will be altered. 
+
+tirely corroded, then the disk  may be repolished but the 
+
+DO NOT heat the blocks in an oven,  
+
+SRM 2831  
+
+ 
+
+Page 4 of 10 
+
+REFERENCES 
+
+ 
+[1] 
+
+[2]  
+
+[3]  
+
+[4]  
+
+[6] 
+
+[7] 
+
+[8] 
+
+ASTM E 384-99  Standard Test method for Microhardness of Materials ; ASTM Annual Book of Standards: 
+Vol. 3.01 (2002). 
+ASTM C 1327-96a Standard Test Method for Vicker
+Annual Book of Standards, Vol. 15.01 (2002). 
+European Standard, prEN 843-4, Advanced Tec
+
+s Indentation Hardness of Advanced Ceramics, ASTM 
+
+hnical Ceramics – Monolithic Ceramics – Mechanical 
+
+properties at Room Temperature – Part 4: Vickers, Knoop and Rockwell Superficial Hardness Tests. 
+ISO 14705 (2000) Fine Ceramics (Advanced Ceramics
+Hardness of Monolithic Ceramics at Room Temperature. 
+
+, Advanced Technical Ceramics) – Test Method for 
+
+[5]  
+
+Gettings, R.; Quinn, G.; Ruff, W.; Ives, L.; 
+
+New Hardness Standard Reference Materials (SRM's) for 
+
+Advanced Ceramics; Ceram. Eng. and Sci. Proc., Vol. 15, #5, pp. 717-826 (1994). 
+Gettings, R.J.; Quinn, G.D.; Ruff, A.W.; Ives, L.K.;  Development of Ceramic Hardness Reference Materials ; 
+pp. 617-624 in  New Horizons for Materials , ed. P. Vincenzini, Proceedi ngs of the 8th World Ceramic 
+Congress, CIMTEC, Florence, Italy, July 1994, Techna, Florence (1995). 
+Gettings, R.J.; Quinn, G.D.; Ruff, A.W.; Ives, L.K.; 
+Hardness Standard Reference Materials (SRM's) for 
+Advanced Ceramics ; in proceedings of the 9th International  Symposium on Hardness Testing in Theory and 
+Practice, Dusseldorf, Nov. 1995, VDI Berichte #1194, pp. 255-264 (1995). 
+Taylor, B.; Kuyatt, C.;  Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement 
+Results; NIST Tech. Note 1297, September (1994). 
+
+[9] ISO, 
+
+Guide to the Expression of Uncertainty in Measurement ; International Organization for Standardization, 
+
+Geneva, Switzerland (1993). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users of this SRM should ensure that the certific ate in their possession is current.  This can be  accomplished by 
+contacting the SRM Program at: Telephone (301) 975-6776 Fax  (301) 926-4751,
+ e-mail srminfo@nist.gov, or via 
+the Internet http://www.nist.gov/srm. 
+
+SRM 2831  
+
+Page 5 of 10 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Marker 
+Knoop 
+indentation 
+
+ 
+=
+<
+
+ 
+
+ 
+
+ 
+
+ 
+
+V2 
+
+Knoop  marker 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.  The five NIST Vickers indentations are located in the middle of the block.  A single marker Knoop indentation 
+helps identify the NIST cluster. 
+ 
+ 
+ 
+ 
+
+  
+
+do 
+
+rounded  tip 
+
+cusped  tip 
+
+hairline  crack 
+
+at tip 
+
+d; 
+
+JN 
+
+bent  tip
+
+Figure 2.  Details of the indentation tips.
+
+SRM 2831  
+
+ 
+
+Page 6 of 10 
+
+Table 1.  Certified Diagonal Lengths, Average Diagonal Lengths, and Vickers Hardness for the 96 Disks of SRM 2831  
+ 
+
+ included since they were set as ide for archival purposes or w ere rejected for 
+
+NOTE:  A few disks from the numerical sequence (e.g, disk W-1) are not
+inclusion in the SRM set. 
+ 
+
+Average (V1-V5) Average 
+
+Disk 
+Number 
+W- 
+2
+ 
+3 
+ 
+4
+ 
+5
+ 
+6
+ 
+7
+8
+ 
+9
+ 
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+21
+22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Size of NIST Reference Indentations 
+V5 
+V3 
+V1 
+µm 
+µm 
+µm 
+35.10
+34.70
+34.85
+ 
+ 
+ 
+ 
+34.65
+34.95
+34.50
+ 
+ 
+ 
+34.55
+34.50
+34.40
+ 
+ 
+ 
+34.90
+34.65
+34.40
+ 
+ 
+ 
+35.10
+35.20
+35.15
+ 
+ 
+ 
+34.75
+34.55
+34.40
+34.75
+35.05
+34.85
+ 
+ 
+ 
+34.75
+35.05
+34.70
+ 
+ 
+ 
+34.95
+34.75
+34.70
+ 
+ 
+ 
+34.50
+34.50
+34.30
+ 
+ 
+ 
+34.50
+34.45
+34.60
+ 
+ 
+ 
+34.55
+34.50
+34.80
+ 
+ 
+ 
+34.55
+34.35
+34.40
+ 
+ 
+ 
+34.70
+34.75
+34.55
+ 
+ 
+ 
+34.55
+34.35
+34.45
+ 
+ 
+ 
+35.00
+35.05
+34.85
+ 
+ 
+ 
+34.45
+34.55
+34.45
+ 
+ 
+ 
+34.85
+34.75
+34.55
+ 
+ 
+ 
+35.05
+34.80
+34.65
+ 
+ 
+ 
+34.70
+34.75
+34.90
+ 
+ 
+ 
+
+V4 
+µm 
+34.65
+ 
+ 
+34.70
+ 
+34.65
+ 
+34.45
+ 
+35.05
+ 
+34.75
+34.80
+ 
+35.20
+ 
+34.75
+ 
+34.60
+ 
+34.60
+ 
+34.40
+ 
+34.35
+ 
+34.60
+ 
+34.55
+ 
+35.05
+ 
+34.70
+ 
+34.60
+ 
+34.90
+ 
+34.70
+ 
+
+V2 
+µm 
+34.80
+ 
+ 
+34.75
+ 
+34.60
+ 
+34.55
+ 
+35.10
+ 
+34.70
+35.05
+ 
+34.70
+ 
+34.75
+ 
+34.50
+ 
+34.45
+ 
+34.55
+ 
+34.80
+ 
+34.75
+ 
+34.35
+ 
+35.25
+ 
+34.20
+ 
+34.30
+ 
+34.75
+ 
+34.60
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Diagonal Size 
+µm 
+ 
+34.82
+ 
+34.71
+ 
+34.54
+ 
+34.59
+ 
+35.12
+ 
+34.63
+34.9
+ 
+34.88
+ 
+34.78
+ 
+34.48
+ 
+34.52
+ 
+34.56
+ 
+34.49
+ 
+34.67
+ 
+34.45
+ 
+35.04
+ 
+34.47
+ 
+34.61
+ 
+34.83
+ 
+34.73
+ 
+
+23
+24
+25
+26
+27
+28
+29
+30
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+34.80
+ 
+34.55
+ 
+34.80
+ 
+34.90
+ 
+34.60
+ 
+34.65
+ 
+34.40
+ 
+34.80
+ 
+
+34.55
+ 
+34.55
+ 
+34.90
+ 
+34.60
+ 
+34.75
+ 
+34.70
+ 
+34.40
+ 
+34.80
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+34.65
+ 
+34.65
+ 
+34.80
+ 
+34.90
+ 
+34.80
+ 
+34.90
+ 
+34.60
+ 
+34.55
+ 
+
+34.60
+ 
+34.70
+ 
+34.75
+ 
+34.65
+ 
+34.85
+ 
+34.90
+ 
+34.60
+ 
+34.95
+ 
+
+34.85
+ 
+34.55
+ 
+34.80
+ 
+34.90
+ 
+34.80
+ 
+34.70
+ 
+34.60
+ 
+34.65
+ 
+
+34.69
+ 
+34.6
+ 
+34.81
+ 
+34.79
+ 
+34.76
+ 
+34.77
+ 
+34.52
+ 
+34.75
+ 
+
+ HV1 (9.8N)
+GPa
+14.99
+ 
+15.09
+15.23
+15.19
+14.74
+15.16
+14.92
+14.94
+15.03
+15.29
+15.25
+15.22
+15.28
+15.12
+15.31
+14.80
+15.30
+15.17
+14.98
+15.07
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15.10
+15.18
+15.00
+15.02
+15.04
+15.03
+15.25
+15.05
+
+Average    
+HV1  
+ kgf/mm2 
+1530
+1539
+1554
+1550
+1503
+1546
+1523
+1524
+1533
+1560
+1556
+1553
+1559
+1543
+1563
+1510
+1561
+1548
+1529
+1537
+
+1541
+1549
+1530
+1532
+1535
+1534
+1556
+1536
+
+Special comments 
+  
+Rim scratches 
+ 
+ 
+Rim scratches 
+ 
+ 
+ 
+Minor chip on rim; 1 spot; harmless shallow scratches in middle 
+ 
+Pore at rim 
+ 
+One small spot 2 mm in from rim 
+A few minor polishing scratches 
+ 
+ 
+ 
+ 
+One minor polishing scratch 
+ 
+A few harmless minor scratches in the middle; one larger scratch 
+can be avoided. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SRM 2831  
+
+ 
+
+Page 7 of 10 
+
+Disk 
+Number 
+W- 
+31
+ 
+32 
+ 
+33
+
+Size of NIST Reference Indentations 
+V5 
+V3 
+V1 
+µm 
+µm 
+µm 
+34.90
+34.60
+34.60
+ 
+ 
+ 
+ 
+ 
+ 
+34.70
+34.70
+34.70
+ 
+ 
+ 
+35.00
+34.95
+35.30
+
+V4 
+µm 
+34.95
+ 
+ 
+34.70
+ 
+34.95
+
+V2 
+µm 
+34.75
+ 
+ 
+34.80
+ 
+35.25
+
+ 
+ 
+ 
+
+Average (V1-V5) Average 
+
+Diagonal Size 
+µm 
+ 
+34.76
+ 
+ 
+34.72
+ 
+35.09
+
+ HV1 (9.8N)
+GPa
+15.04
+15.08
+14.76
+
+ 
+ 
+ 
+
+Average    
+HV1  
+ kgf/mm2 
+1535
+1538
+1506
+
+34
+35
+36
+37
+38
+39
+40
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+42
+43
+44
+45
+47
+48
+49
+50
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+52
+53
+54
+55
+56
+57
+58
+60
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+61
+62
+
+ 
+ 
+
+63
+
+ 
+
+ 
+34.55
+ 
+35.15
+ 
+34.45
+34.75
+ 
+34.80
+ 
+35.35
+ 
+34.75
+ 
+
+34.35
+ 
+34.65
+ 
+34.90
+ 
+34.45
+ 
+35.00
+ 
+34.65
+ 
+34.70
+ 
+35.15
+ 
+
+34.20
+ 
+34.70
+ 
+34.50
+ 
+34.45
+ 
+34.25
+ 
+34.80
+ 
+34.30
+ 
+34.65
+ 
+
+34.80
+ 
+34.53
+ 
+
+ 
+34.50
+ 
+34.90
+ 
+34.40
+34.75
+ 
+34.90
+ 
+34.90
+ 
+34.85
+ 
+
+34.75
+ 
+34.45
+ 
+34.80
+ 
+34.60
+ 
+34.40
+ 
+34.95
+ 
+34.55
+ 
+34.90
+ 
+
+34.85
+ 
+34.65
+ 
+35.15
+ 
+34.45
+ 
+34.60
+ 
+34.95
+ 
+34.50
+ 
+34.56
+ 
+
+34.80
+ 
+34.70
+ 
+
+ 
+34.70
+ 
+35.05
+ 
+34.65
+34.55
+ 
+34.65
+ 
+35.00
+ 
+35.00
+ 
+
+34.15
+ 
+34.55
+ 
+34.90
+ 
+34.60
+ 
+34.55
+ 
+34.60
+ 
+34.45
+ 
+34.70
+ 
+
+34.35
+ 
+34.75
+ 
+34.80
+ 
+34.70
+ 
+34.55
+ 
+34.90
+ 
+34.50
+ 
+34.97
+ 
+
+34.75
+ 
+34.77
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+34.55
+ 
+34.85
+ 
+34.25
+34.90
+ 
+34.85
+ 
+35.35
+ 
+34.85
+ 
+
+34.35
+ 
+34.70
+ 
+34.80
+ 
+34.55
+ 
+34.35
+ 
+34.80
+ 
+34.50
+ 
+35.20
+ 
+
+34.95
+ 
+34.75
+ 
+34.60
+ 
+34.55
+ 
+34.55
+ 
+34.95
+ 
+34.85
+ 
+34.46
+ 
+
+34.70
+ 
+34.85
+ 
+
+ 
+34.65
+ 
+34.95
+ 
+34.65
+34.90
+ 
+35.05
+ 
+35.20
+ 
+35.10
+ 
+
+34.55
+ 
+34.45
+ 
+35.00
+ 
+34.70
+ 
+34.40
+ 
+34.80
+ 
+34.55
+ 
+35.05
+
+34.80
+ 
+34.60
+ 
+34.85
+ 
+34.70
+ 
+34.75
+ 
+34.95
+ 
+34.90
+ 
+34.52
+ 
+
+34.60
+ 
+34.73
+ 
+
+ 
+34.59
+ 
+34.98
+ 
+34.48
+34.77
+ 
+34.85
+ 
+35.16
+ 
+34.91
+ 
+
+34.43
+ 
+34.56
+ 
+34.88
+ 
+34.58
+ 
+34.54
+ 
+34.76
+ 
+34.55
+ 
+35
+ 
+
+ 
+
+34.63
+ 
+34.69
+ 
+34.78
+ 
+34.57
+ 
+34.54
+ 
+34.91
+ 
+34.61
+ 
+34.632
+ 
+
+34.73
+ 
+34.716
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+15.19
+14.85
+15.29
+15.03
+14.97
+14.70
+14.91
+
+15.33
+15.22
+14.94
+15.20
+15.24
+15.04
+15.23
+14.84
+ 
+
+15.16
+15.10
+15.03
+15.21
+15.24
+14.91
+15.17
+15.15
+
+15.07
+15.08
+
+14.96
+
+34.85
+ 
+
+34.90
+ 
+
+34.85
+ 
+
+34.85
+ 
+
+34.85
+ 
+
+34.86
+ 
+
+Special comments 
+  
+ 
+One small spot 4 mm in from rim 
+Many small pits-spots.   Scratch and chatter mark area on one 
+side. 
+ 
+Two spots on the rim 
+ 
+A few black spots 
+ 
+ 
+The marker Knoop indenter was inadvertently dragged.  Disk is 
+OK.  
+A few polishing scratches 
+ 
+Harmless tiny crack on right of V5 
+ 
+ 
+ 
+One small pit near the rim;  a couple of small spots 
+A small chatter pattern from polishing and one scratch near the 
+rim should be avoided. 
+One small spot 3 mm in from rim 
+Chip on rim 
+ 
+ 
+ 
+One large scratch 
+One small scratch near the middle 
+Six small spots which may be avoided.  There is a second set of 5 
+NIST indentations. 
+ 
+Three spots may be avoided.  There is a second set of 5 NIST 
+indentations. 
+One minor spot halfway between the rim and center.  Hairline 
+crack on top of V5. 
+
+1550
+1516
+1560
+1534
+1527
+1500
+1522
+
+1564
+1553
+1524
+1551
+1555
+1535
+1554
+1514
+
+1547
+1541
+1533
+1552
+1554
+1522
+1548
+1546
+
+1537
+1539
+
+1526
+
+SRM 2831  
+
+ 
+
+Page 8 of 10 
+
+Disk 
+Number 
+W- 
+64
+ 
+66 
+ 
+67
+ 
+68
+ 
+69
+ 
+70
+71
+ 
+72
+ 
+73
+ 
+74
+ 
+75
+ 
+76
+ 
+
+Size of NIST Reference Indentations 
+V5 
+V3 
+V1 
+µm 
+µm 
+µm 
+34.20
+34.55
+34.20
+ 
+ 
+ 
+ 
+ 
+ 
+35.30
+35.35
+35.10
+ 
+ 
+ 
+34.60
+34.70
+34.75
+ 
+ 
+ 
+34.60
+34.75
+34.60
+ 
+ 
+ 
+34.65
+34.65
+34.45
+ 
+ 
+ 
+34.60
+34.55
+34.60
+34.85
+34.80
+34.60
+ 
+ 
+ 
+34.80
+35.05
+34.60
+ 
+ 
+ 
+34.95
+34.75
+34.45
+ 
+ 
+ 
+35.05
+34.75
+34.35
+ 
+ 
+ 
+34.85
+34.60
+34.40
+ 
+ 
+ 
+34.75
+34.75
+34.45
+ 
+ 
+ 
+
+V4 
+µm 
+34.65
+ 
+ 
+35.20
+ 
+34.55
+ 
+34.65
+ 
+34.50
+ 
+34.55
+34.75
+ 
+34.85
+ 
+34.65
+ 
+34.80
+ 
+34.50
+ 
+34.50
+ 
+
+V2 
+µm 
+34.10
+ 
+ 
+35.00
+ 
+34.50
+ 
+34.80
+ 
+34.40
+ 
+34.50
+34.80
+ 
+35.00
+ 
+34.60
+ 
+34.50
+ 
+34.35
+ 
+34.40
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average (V1-V5) Average 
+
+Diagonal Size 
+µm 
+ 
+34.34
+ 
+ 
+35.19
+ 
+34.62
+ 
+34.68
+ 
+34.53
+ 
+34.56
+34.76
+ 
+34.86
+ 
+34.68
+ 
+34.69
+ 
+34.54
+ 
+34.57
+ 
+
+ HV1 (9.8N)
+GPa
+15.41
+14.68
+15.16
+15.11
+15.24
+15.22
+15.04
+14.96
+15.11
+15.11
+15.24
+15.21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average    
+HV1  
+ kgf/mm2 
+1573
+1498
+1547
+1542
+1555
+1553
+1535
+1526
+1542
+1541
+1555
+1552
+
+77
+78
+80
+
+ 
+ 
+ 
+
+81
+82
+83
+84
+86
+88
+89
+90
+91
+92
+93
+94
+95
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+96
+97
+98
+
+ 
+ 
+ 
+
+34.45
+ 
+34.85
+ 
+34.80
+ 
+
+34.85
+ 
+34.95
+ 
+34.75
+ 
+34.50
+ 
+34.95
+ 
+34.15
+ 
+34.75
+ 
+34.35
+ 
+34.40
+ 
+34.60
+ 
+34.75
+ 
+34.50
+ 
+34.50
+ 
+
+34.60
+ 
+35.20
+ 
+35.25
+ 
+
+34.40
+ 
+34.60
+ 
+34.70
+ 
+
+34.80
+ 
+35.25
+ 
+34.70
+ 
+34.95
+ 
+35.25
+ 
+34.60
+ 
+34.95
+ 
+34.60
+ 
+34.70
+ 
+34.75
+ 
+35.15
+ 
+34.80
+ 
+34.65
+ 
+
+34.60
+ 
+34.90
+ 
+35.20
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+34.75
+ 
+35.05
+ 
+34.95
+ 
+
+34.95
+ 
+35.15
+ 
+35.05
+ 
+34.65
+ 
+35.15
+ 
+34.40
+ 
+34.80
+ 
+34.55
+ 
+34.65
+ 
+34.80
+ 
+34.70
+ 
+34.55
+ 
+34.75
+ 
+
+34.75
+ 
+35.10
+ 
+35.30
+ 
+
+34.50
+ 
+34.50
+ 
+34.75
+ 
+
+35.15
+ 
+34.95
+ 
+35.00
+ 
+34.80
+ 
+34.95
+ 
+34.90
+ 
+34.75
+ 
+34.65
+ 
+34.85
+ 
+34.70
+ 
+35.10
+ 
+34.95
+ 
+35.05
+ 
+
+34.50
+ 
+34.95
+ 
+34.90
+ 
+
+34.75
+ 
+34.75
+ 
+34.70
+ 
+
+35.05
+ 
+34.95
+ 
+34.85
+ 
+35.05
+ 
+34.95
+ 
+34.70
+ 
+35.00
+ 
+34.75
+ 
+34.80
+ 
+34.75
+ 
+34.85
+ 
+34.65
+ 
+34.80
+ 
+
+34.75
+ 
+34.95
+ 
+35.40
+ 
+
+34.57
+ 
+34.75
+ 
+34.78
+ 
+
+34.96
+ 
+35.05
+ 
+34.87
+ 
+34.79
+ 
+35.05
+ 
+34.55
+ 
+34.85
+ 
+34.58
+ 
+34.68
+ 
+34.72
+ 
+34.91
+ 
+34.69
+ 
+34.75
+ 
+
+34.64
+ 
+35.02
+ 
+35.21
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+15.21
+15.05
+15.03
+
+14.87
+14.79
+14.95
+15.02
+14.79
+15.23
+14.97
+15.20
+15.11
+15.08
+14.91
+15.10
+15.05
+
+15.15
+14.82
+14.66
+
+1552
+1536
+1533
+
+1517
+1510
+1525
+1532
+1510
+1554
+1527
+1551
+1542
+1538
+1522
+1541
+1536
+
+1545
+1512
+1496
+
+Special comments 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One small polishing scratch near middle 
+One spot 3 mm from rim; a few irregularity spots on one side; 
+small crack on left of V2 
+ 
+A few minor polishing scratches 
+A few minor harmless scratches, one of which goes through the 
+Knoop marker indent. 
+Many small scratches 
+ 
+ 
+One small spot-pit 3 mm in from rim 
+A couple of tiny spots on one side 
+Some polishing scratches 
+One small scratch near middle 
+ 
+Two small spots 
+Crack and small bulge on right side of V4.  Tip OK. 
+ 
+ 
+A few black spots or microstructural irregularities and a few 
+scratches may be avoided. 
+ 
+Small minor scratches 
+Minor scratches 
+
+SRM 2831  
+
+ 
+
+Page 9 of 10 
+
+Disk 
+Number 
+W- 
+ 
+99
+100 
+ 
+101
+ 
+102
+ 
+103
+106
+ 
+107
+ 
+108
+ 
+
+ 
+
+Size of NIST Reference Indentations 
+V5 
+V3 
+V1 
+µm 
+µm 
+µm 
+ 
+ 
+ 
+34.55
+34.80
+34.35
+ 
+ 
+ 
+34.80
+34.90
+34.80
+ 
+ 
+ 
+34.65
+34.75
+34.30
+ 
+ 
+ 
+34.95
+34.55
+34.50
+ 
+ 
+ 
+34.80
+34.65
+34.65
+35.20
+35.00
+35.25
+ 
+ 
+ 
+35.10
+35.15
+34.85
+ 
+ 
+ 
+35.85
+35.55
+35.10
+ 
+ 
+ 
+
+V2 
+µm 
+ 
+34.80
+ 
+34.60
+ 
+34.70
+ 
+34.80
+ 
+34.85
+35.10
+ 
+34.90
+ 
+35.40
+ 
+
+V4 
+µm 
+ 
+34.75
+ 
+34.45
+ 
+34.55
+ 
+34.70
+ 
+34.45
+34.85
+ 
+34.95
+ 
+35.25
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average (V1-V5) Average 
+
+Diagonal Size 
+µm
+ 
+ 
+ 
+34.65
+ 
+34.71
+ 
+34.59
+ 
+34.7
+ 
+34.68
+35.08
+ 
+34.99
+ 
+35.43
+ 
+
+ HV1 (9.8N)
+GPa
+15.14
+15.09
+15.19
+15.10
+15.11
+14.77
+14.85
+14.48
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Average    
+HV1  
+ kgf/mm2 
+1545
+1539
+1550
+1540
+1542
+1507
+1515
+1478
+
+  
+
+Special comments 
+  
+ 
+a  few  polishing  scratches
+One tiny spot 4 mm in from rim; a few polishing scratches 
+ 
+One tiny spot 3 mm in from rim 
+One spot near rim 
+A few spots 
+ 
+ 
+
+SRM 2831  
+
+ 
+
+Page 10 of 10 
+
+
